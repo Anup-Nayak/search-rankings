@@ -31,6 +31,7 @@ private:
     void csv_process(string& word,int freq);
     void query_llm(string filename, Node* root, int k, string API_KEY);
     vector<para> corpus;
+    bool is_separator(char x);
     int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here

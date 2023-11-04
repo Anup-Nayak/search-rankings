@@ -131,7 +131,7 @@ bool QNA_tool::is_separator(char x){
 
 Node* QNA_tool::get_top_k_para(string question, int k) {
     dll top_k;
-    dict q;
+    Dict q;
     q.insert_sentence(0,0,0,0,question);
     for(auto w : q.distinct_words){
         w.freq=csv.search(w.word);
