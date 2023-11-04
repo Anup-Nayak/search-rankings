@@ -66,55 +66,81 @@ int get_indx(char x){
     return -1;
 }
 
-void QNA_tool::csv_process(string word,int freq){
+void QNA_tool::csv_process(string& word,int freq){
     //insert the word in trie, set word_count to freq 
     trie_node* csvroot=csv.root;
     for(auto i : word){
         int asc = get_indx(i);
         if(csvroot->child[asc]){
             csvroot = csvroot->child[asc];
-        }else{
+        }
+        else{
             csvroot->child[asc] = new trie_node();
             csvroot = csvroot->child[asc];
         }
     }
     csvroot->word_count=freq;
 }
-void QNA_tool::corpus_process(int bcode,int pageno,int parano,string sentence){
-    //check if the para exists on the top of the vector<para> corpus.
+
+void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
+    if(!corpus.size()){
+        para p;
+        corpus.push_back(p);
+        cor_size++;
+        corpus[0].b_code=book_code;
+        corpus[0].page_no=page;
+        corpus[0].para_no=paragraph;
+        corpus[0].d.insert_sentence(0,0,0,0,sentence);
+    } 
+    else if(corpus[cor_size-1].page_no==page && corpus[cor_size-1].para_no==page && corpus[cor_size-1].b_code==book_code){
+        corpus[cor_size-1].d.insert_sentence(0,0,0,0,sentence);
+    }
+    else{
+        para p;
+        corpus.push_back(p);
+        corpus[cor_size].b_code=book_code;
+        corpus[cor_size].page_no=page;
+        corpus[cor_size].para_no=paragraph;
+        corpus[cor_size].d.insert_sentence(0,0,0,0,sentence);
+        cor_size++;
+    }
+    return;
 }
 
 QNA_tool::QNA_tool(){
+    cor_size=0;
     ifstream csv("unigram_freq.csv");
-    
+    string f;
+    string word;
+    while(getline(csv,f,',') && getline(csv,f)){
+        int freq=stoi(f);
+        csv_process(word,freq);
+    }
 }
 
 QNA_tool::~QNA_tool(){
     // Implement your function here  
 }
 
+bool QNA_tool::is_separator(char x){
+    for(auto i:separators){
+        if(i==x) return true;
+    }
+    return false;
+}
+
 Node* QNA_tool::get_top_k_para(string question, int k) {
     dll top_k;
-    vector<string> words;//F vector not allowed. maybe dll
-/*
-    break question into into words
-    get words' freq. from csv's trie
-    for all paragraphs in corpus, look for each words (in question) store 
+    dict q;
+    q.insert_sentence(0,0,0,0,question);
+    for(auto w : q.distinct_words){
+        w.freq=csv.search(w.word);
+        if(w.freq<0) w.freq=0;
+    }
+    
+    for(auto w : q.distinct_words){
 
-*/
-
-    // for (int i = 0; i < sentence.size(); ++i)
-    // {
-    //     if(is_separator(sentence[i])) continue;
-    //     int start=i;
-    //     trie_node* n=t.root;
-    //     while(i<sentence.size() && !(is_separator(sentence[i]))){
-    //         i++;
-    //     }
-    //     words.push_back(sentence.substr(start,i-start));
-    // } 
-return nullptr;
-
+    }
 }
 
 void QNA_tool::query(string question, string filename){

@@ -28,10 +28,11 @@ class QNA_tool {
 private:
     // You are free to change the implementation of this function
     trie csv;
-    void csv_process(string word,int freq);
-    void corpus_process(int bcode,int pageno,int parano,string sentence);
+    void csv_process(string& word,int freq);
     void query_llm(string filename, Node* root, int k, string API_KEY);
     vector<para> corpus;
+    int cor_size;
+    string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
 
 public:
@@ -42,6 +43,7 @@ public:
     
     QNA_tool(); // Constructor
     ~QNA_tool(); // Destructor
+    void insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence);
 
     Node* get_top_k_para(string question, int k);
     // This function takes in a question, preprocess it

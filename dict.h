@@ -18,6 +18,7 @@ public:
 struct pair_util{
     trie_node* node;
     string word;
+    int freq;
 };
 
 
@@ -34,10 +35,10 @@ class Dict {
 private:
     string separators = " .,-:!\"\'()?[];@";
     bool is_separator(char x);
-    vector<pair_util> distinct_words;
     trie t;
 
 public: 
+    vector<pair_util> distinct_words;
     /* Please do not touch the attributes and 
     functions within the guard lines placed below  */
     /* ------------------------------------------- */

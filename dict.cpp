@@ -105,18 +105,13 @@ void Dict::insert_sentence(int book_code, int page, int paragraph, int sentence_
                 int asc=int(w[x]);
                 if(asc>64 && asc<91) w[x]=char(asc+32);
             }
-            distinct_words.push_back({n,w});
+            distinct_words.push_back({n,w,0});
         }
         
     }
 }
 
 int Dict::get_word_count(string word){
-    for (int i = 0; i < word.size(); ++i)
-    {
-        int asc=int(word[i]);
-        if(asc>64 && asc<91) word[i]=char(asc+32);
-    }
     int res = t.search(word);
     if(res<0) return 0;
     return res;

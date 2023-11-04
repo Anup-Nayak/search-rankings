@@ -1,7 +1,7 @@
-traverse the csv create a trie.
-traverse the corpus. for each para create a trie.
+traverse the csv create a trie. #done
+traverse the corpus. for each para create a trie. #done
 
-str word_node <word, freq in csv>
+str word_node <word, freq in csv> #done
 
 for every word :
 	word = word_node.first;
