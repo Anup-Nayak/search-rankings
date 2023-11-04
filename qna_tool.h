@@ -15,9 +15,7 @@ public:
 };
 
 struct para
-{
-    para* left;
-    para* right;
+{   //removed left,right
     int b_code;
     int page_no;
     int para_no;
@@ -25,23 +23,15 @@ struct para
     double score;
 };
 
-class corpusdll
-{
-public:
-    para* head;
-    corpusdll();
-    ~corpusdll();
-    void insert(int bcode,int pageno,int parano,string& data);
-    
-};
-
 class QNA_tool {
 
 private:
-
     // You are free to change the implementation of this function
+    trie csv;
+    void csv_process(string word,int freq);
+    void corpus_process(int bcode,int pageno,int parano,string sentence);
     void query_llm(string filename, Node* root, int k, string API_KEY);
-
+    vector<para> corpus;
     // You can add attributes/helper functions here
 
 public:

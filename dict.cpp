@@ -54,7 +54,9 @@ int trie::search(string& word){
     return n->word_count;
 }
 
-
+void trie::insert(string& word,int freq){
+    
+}
 
 void rec_del(trie_node* n){
     for (auto i:n->child)

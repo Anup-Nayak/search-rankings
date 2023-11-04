@@ -10,12 +10,6 @@ using namespace std;
 //for each paragraph keep a dict object/trieif cant import dict
 //the dict will store the no. of times each word comes in the para. easily get freqs.
 
-/*
-
-
-
-*/
-
 dll::dll(){
     head=nullptr;
 }
@@ -43,6 +37,13 @@ void dll::insert(int bcode,int pageno,int parano){
     t->right = head->right;
     head->right = t;
     t->left = head;
+}
+
+void QNA_tool::csv_process(string word,int freq){
+    //insert the word in trie, set word_count to freq 
+}
+void QNA_tool::corpus_process(int bcode,int pageno,int parano,string sentence){
+    //check if the para exists on the top of the vector<para> corpus.
 }
 
 QNA_tool::QNA_tool(){
