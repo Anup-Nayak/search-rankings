@@ -10,6 +10,7 @@ using namespace std;
 //for each paragraph keep a dict object/trieif cant import dict
 //the dict will store the no. of times each word comes in the para. easily get freqs.
 
+
 dll::dll(){
     head=nullptr;
 }
@@ -25,6 +26,7 @@ dll::~dll(){
     delete head;
 }
 
+//saem ne sahi hi likha hoga
 void dll::insert(int bcode,int pageno,int parano){
     if(!head){
         head = new Node(bcode,pageno,parano,0,0);
@@ -66,6 +68,7 @@ int get_indx(char x){
     return -1;
 }
 
+//anup ne likha hai galat nahi ho sakta
 void QNA_tool::csv_process(string& word,int freq){
     //insert the word in trie, set word_count to freq 
     trie_node* csvroot=csv.root;
@@ -82,17 +85,9 @@ void QNA_tool::csv_process(string& word,int freq){
     csvroot->word_count=freq;
 }
 
+//saem ne samjhaya hai galat nahi hai
 void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
-    if(!corpus.size()){
-        para p;
-        corpus.push_back(p);
-        cor_size++;
-        corpus[0].b_code=book_code;
-        corpus[0].page_no=page;
-        corpus[0].para_no=paragraph;
-        corpus[0].d.insert_sentence(0,0,0,0,sentence);
-    } 
-    else if(corpus[cor_size-1].page_no==page && corpus[cor_size-1].para_no==page && corpus[cor_size-1].b_code==book_code){
+    if(cor_size && corpus[cor_size-1].para_no==paragraph && corpus[cor_size-1].page_no==page && corpus[cor_size-1].b_code==book_code){
         corpus[cor_size-1].d.insert_sentence(0,0,0,0,sentence);
     }
     else{
@@ -112,7 +107,7 @@ QNA_tool::QNA_tool(){
     ifstream csv("unigram_freq.csv");
     string f;
     string word;
-    while(getline(csv,f,',') && getline(csv,f)){
+    while(getline(csv,word,',') && getline(csv,f)){
         int freq=stoi(f);
         csv_process(word,freq);
     }
@@ -122,6 +117,12 @@ QNA_tool::~QNA_tool(){
     // Implement your function here  
 }
 
+//write a mergesort to sort the corpus as per corpus-ka-element.score
+void MergeSort(vector<para> &corpus){
+    
+}
+
+//not getting used in current implementation
 bool QNA_tool::is_separator(char x){
     for(auto i:separators){
         if(i==x) return true;
@@ -137,10 +138,26 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
         w.freq=csv.search(w.word);
         if(w.freq<0) w.freq=0;
     }
-    
+    /*w:: w.word - gives the word in lower case
+    ,w.freq - frequency in csv file
+    ,w.node - w.node->word_count gives the no. of times it is in "question"
+    */
     for(auto w : q.distinct_words){
+        string wrd = w.word;
+        int f_csv = w.freq;
+        int count = w.node->word_count;
 
+        //j is a para object
+        //j.d gives us the dict for that paragraph that saem has made
+        for(auto j : corpus){
+            float countOfWord = j.d.get_word_count(wrd);
+            j.score += ((countOfWord+1) * (countOfWord))/(f_csv+1);
+        }
     }
+
+    
+    MergeSort(corpus);
+
 }
 
 void QNA_tool::query(string question, string filename){
