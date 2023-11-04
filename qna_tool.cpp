@@ -39,8 +39,46 @@ void dll::insert(int bcode,int pageno,int parano){
     t->left = head;
 }
 
+int get_indx(char x){
+    int asc=int(x);
+    if(asc>47 && asc<58) return (asc-22);
+    if(asc>64 && asc<91) return (asc-65);
+    if(asc>96 && asc<123) return (asc-97);
+    if(x=='/') return 36;
+    if(x=='_') return 37;
+    if(asc==35) return 38;
+    if(asc==36) return 39;
+    if(asc==37) return 40;
+    if(asc==38) return 41;
+    if(asc==42) return 42;
+    if(asc==43) return 43;
+    if(asc==60) return 44;
+    if(asc==62) return 45;
+    if(asc==61) return 46;
+    if(asc==94) return 47;
+    if(asc==96) return 48;
+    if(asc==92) return 49;
+    if(asc==123) return 50;
+    if(asc==124) return 51;
+    if(asc==125) return 52;
+    if(asc==126) return 53;
+    //add other possible symbols
+    return -1;
+}
+
 void QNA_tool::csv_process(string word,int freq){
     //insert the word in trie, set word_count to freq 
+    trie_node* csvroot=csv.root;
+    for(auto i : word){
+        int asc = get_indx(i);
+        if(csvroot->child[asc]){
+            csvroot = csvroot->child[asc];
+        }else{
+            csvroot->child[asc] = new trie_node();
+            csvroot = csvroot->child[asc];
+        }
+    }
+    csvroot->word_count=freq;
 }
 void QNA_tool::corpus_process(int bcode,int pageno,int parano,string sentence){
     //check if the para exists on the top of the vector<para> corpus.

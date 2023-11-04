@@ -27,7 +27,7 @@ public:
     trie();
     ~trie();
     int search(string& word);
-    void insert(string& word,int freq);
+    
 };
 
 class Dict {

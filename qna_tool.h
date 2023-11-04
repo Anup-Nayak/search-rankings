@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include "Node.h"
-#include "dict.h"//
+#include "dict.h"
 
 
 using namespace std;
