@@ -117,9 +117,9 @@ QNA_tool::~QNA_tool(){
     // Implement your function here  
 }
 
-//write a mergesort to sort the corpus as per corpus-ka-element.score
+//write a mergesort to sort the corpus in descending order as per corpus-ka-element.score
 void MergeSort(vector<para> &corpus){
-    
+
 }
 
 //not getting used in current implementation
@@ -157,6 +157,13 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
 
     
     MergeSort(corpus);
+
+    for(int i=(k-1);i>=0;i--){
+        top_k.insert(corpus[i].b_code,corpus[i].page_no,corpus[i].para_no);
+    }
+
+    return top_k.head;
+
 
 }
 
