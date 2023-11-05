@@ -87,16 +87,16 @@ void QNA_tool::csv_process(string& word,int freq){
 
 //saem ne samjhaya hai galat nahi hai
 void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
-    if(cor_size && corpus[cor_size-1].para_no==paragraph && corpus[cor_size-1].page_no==page && corpus[cor_size-1].b_code==book_code){
-        corpus[cor_size-1].d.insert_sentence(0,0,0,0,sentence);
+    if(cor_size && corpus[cor_size-1]->para_no==paragraph && corpus[cor_size-1]->page_no==page && corpus[cor_size-1]->b_code==book_code){
+        corpus[cor_size-1]->d.insert_sentence(0,0,0,0,sentence);
     }
     else{
-        para p;
+        para* p=new para;
         corpus.push_back(p);
-        corpus[cor_size].b_code=book_code;
-        corpus[cor_size].page_no=page;
-        corpus[cor_size].para_no=paragraph;
-        corpus[cor_size].d.insert_sentence(0,0,0,0,sentence);
+        corpus[cor_size]->b_code=book_code;
+        corpus[cor_size]->page_no=page;
+        corpus[cor_size]->para_no=paragraph;
+        corpus[cor_size]->d.insert_sentence(0,0,0,0,sentence);
         cor_size++;
     }
     return;
@@ -114,11 +114,89 @@ QNA_tool::QNA_tool(){
 }
 
 QNA_tool::~QNA_tool(){
-    // Implement your function here  
+    for(auto i:corpus){
+        delete i;
+    } 
+}
+//HEAPUTIL BEGINS
+int par(int idx){
+    return (idx-1)/2;
+}
+int left(int idx){
+    return idx*2+1;
+}
+int right(int idx){
+    return idx*2+2;
 }
 
-//write a mergesort to sort the corpus in descending order as per corpus-ka-element.score
-void MergeSort(vector<para> &corpus){
+
+void swap(para** p1,para** p2){
+    para* p3=*p1;
+    *p1=*p2;
+    *p2=p3;
+}
+
+int swapmaxchild(vector<para*> &v,int idx){
+    int l=left(idx);
+    int r=right(idx);
+    int max;
+    if(v[l]->score<v[r]->score){
+        max=r;
+    }
+    else{
+        max=l;
+    }
+    if(v[idx]->score<v[max]->score){
+        swap(&v[max],&v[idx]);
+    }
+    else{
+        return 0;
+    }
+    return max;
+}
+
+//{0,1,2,3,4,5,6,7}
+void QNA_tool::heapifyup(vector<para*> &v,int idx){
+    if(!idx) return;
+    int p=par(idx);
+    if(v[p]->score<v[idx]->score){
+        swap(&v[p],&v[idx]);
+    }
+    heapifyup(v,p);
+}
+
+void QNA_tool::heapifydn(vector<para*> &v,int idx,int size){
+    int l=left(idx);
+    int r=right(idx);
+    if(l>=size){
+        return;
+    }
+    if(r>=size){
+        if(v[l]->score>v[idx]->score){
+            swap(&v[l],&v[idx]);
+        }
+        return;
+    }
+    idx=swapmaxchild(v,idx);
+    if(idx) heapifydn(v,idx,size);
+    return;
+}
+
+//HEAPUTIL ENDS
+
+//HEAPSORT
+void QNA_tool::Sort(vector<para*> &corpus,int k){
+    for (int i = 1; i < cor_size; ++i)
+    {
+        heapifyup(corpus,i);
+    }
+    int size=corpus.size();
+    for (int i = 0; i < k; ++i)
+    {
+        swap(&corpus[0],&corpus[size-1]);
+        heapifydn(corpus,0,size);
+        size--;
+    }
 
 }
 
@@ -145,21 +223,21 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
     for(auto w : q.distinct_words){
         string wrd = w.word;
         int f_csv = w.freq;
-        int count = w.node->word_count;
+        int occurances = w.node->word_count;
 
         //j is a para object
         //j.d gives us the dict for that paragraph that saem has made
         for(auto j : corpus){
-            float countOfWord = j.d.get_word_count(wrd);
-            j.score += ((countOfWord+1) * (countOfWord))/(f_csv+1);
+            float countOfWord = j->d.get_word_count(wrd);
+            j->score += ((occurances)*(countOfWord+1) * (countOfWord))/(f_csv+1);
         }
     }
 
     
-    MergeSort(corpus);
+    Sort(corpus,k);
 
-    for(int i=(k-1);i>=0;i--){
-        top_k.insert(corpus[i].b_code,corpus[i].page_no,corpus[i].para_no);
+    for(int i=(cor_size-k);i<cor_size;i++){
+        top_k.insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no);
     }
 
     return top_k.head;

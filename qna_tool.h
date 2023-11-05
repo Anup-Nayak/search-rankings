@@ -30,7 +30,10 @@ private:
     trie csv;
     void csv_process(string& word,int freq);
     void query_llm(string filename, Node* root, int k, string API_KEY);
-    vector<para> corpus;
+    void heapifyup(vector<para*> &v,int idx);
+    void heapifydn(vector<para*> &v,int idx,int sz);
+    void Sort(vector<para*> &corpus,int k);
+    vector<para*> corpus;
     bool is_separator(char x);
     int cor_size;
     string separators = " .,-:!\"\'()?[];@";
