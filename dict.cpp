@@ -43,7 +43,7 @@ int get_idx(char x){
     return -1;
 }
 
-int trie::search(string& word){
+long long trie::search(string& word){
     trie_node* n=root;
     for(auto i:word){
         int asc=get_idx(i);
@@ -111,7 +111,7 @@ void Dict::insert_sentence(int book_code, int page, int paragraph, int sentence_
     }
 }
 
-int Dict::get_word_count(string word){
+long long Dict::get_word_count(string word){
     int res = t.search(word);
     if(res<0) return 0;
     return res;
