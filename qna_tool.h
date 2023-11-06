@@ -27,14 +27,16 @@ class QNA_tool {
 
 private:
     // You are free to change the implementation of this function
-    trie csv;
+    void query_llm(string filename, Node* root, int k, string API_KEY, string question);
+    
     void csv_process(string& word,int freq);
-    void query_llm(string filename, Node* root, int k, string API_KEY);
     void heapifyup(vector<para*> &v,int idx);
     void heapifydn(vector<para*> &v,int idx,int sz);
     void Sort(vector<para*> &corpus,int k);
-    vector<para*> corpus;
     bool is_separator(char x);
+
+    vector<para*> corpus;
+    trie csv;
     int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
@@ -48,6 +50,7 @@ public:
     QNA_tool(); // Constructor
     ~QNA_tool(); // Destructor
     void insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence);
+    std::string get_paragraph(int book_code, int page, int paragraph);
 
     Node* get_top_k_para(string question, int k);
     // This function takes in a question, preprocess it
