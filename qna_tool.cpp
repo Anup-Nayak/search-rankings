@@ -87,6 +87,7 @@ void QNA_tool::csv_process(string& word,int freq){
 
 //saem ne samjhaya hai galat nahi hai
 void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
+    words.insert_sentence(0,0,0,0,sentence);
     if(cor_size && corpus[cor_size-1]->para_no==paragraph && corpus[cor_size-1]->page_no==page && corpus[cor_size-1]->b_code==book_code){
         corpus[cor_size-1]->d.insert_sentence(0,0,0,0,sentence);
     }
@@ -228,8 +229,9 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
         //j is a para object
         //j.d gives us the dict for that paragraph that saem has made
         for(auto j : corpus){
-            float countOfWord = j->d.get_word_count(wrd);
-            j->score += ((occurances)*(countOfWord+1) * (countOfWord))/(f_csv+1);
+            double countOfWord = j->d.get_word_count(wrd);
+            double score = words.get_word_count(wrd);
+            j->score += ((occurances)*(score+1) * (countOfWord))/(f_csv+1);
         }
     }
 

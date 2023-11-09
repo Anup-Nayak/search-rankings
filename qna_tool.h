@@ -37,6 +37,7 @@ private:
 
     vector<para*> corpus;
     trie csv;
+    Dict words;
     int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
