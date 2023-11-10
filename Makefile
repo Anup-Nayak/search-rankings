@@ -10,13 +10,13 @@ CFLAGS = -Wall -g -std=c++11
 TARGET = qna_tool
 
 # Object Files
-OBJ = qna_tool.o Node.o tester.o
+OBJ = qna_tool.o Node.o tester.o search.o dict.o
 
 # Header Files
-HEADER = qna_tool.h Node.h
+HEADER = qna_tool.h Node.h search.h dict.h
 
 # cpp Files
-CPP = qna_tool.cpp Node.cpp tester.cpp
+CPP = qna_tool.cpp Node.cpp tester.cpp search.cpp dict.cpp
 
 # Compile
 $(TARGET): $(OBJ)
@@ -26,6 +26,10 @@ $(TARGET): $(OBJ)
 # Object Files
 qna_tool.o: qna_tool.cpp
 	$(CC) $(CFLAGS) -c qna_tool.cpp
+dict.o: dict.cpp
+	$(CC) $(CFLAGS) -c dict.cpp
+search.o: search.cpp
+	$(CC) $(CFLAGS) -c search.cpp
 
 Node.o: Node.cpp
 	$(CC) $(CFLAGS) -c Node.cpp

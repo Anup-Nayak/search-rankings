@@ -11,29 +11,10 @@ using namespace std;
 //the dict will store the no. of times each word comes in the para. easily get freqs.
 
 
-dll::dll(){
-    head=nullptr;
-}
 
-dll::~dll(){
-    if(!head) return;
-    Node* t=head->right;
-    while(head->right){
-        t=head->right;
-        delete head;
-        head=t;
-    }
-    delete head;
-}
 
 //saem ne sahi hi likha hoga
-void dll::insert(int bcode,int pageno,int parano){
-    if(!head){
-        head = new Node(bcode,pageno,parano,0,0);
-        head->left = nullptr;
-        head->right = nullptr;
-        return;
-    }
+void insert(int bcode,int pageno,int parano,Node* head){
     Node* t = new Node(bcode,pageno,parano,0,0);
     if(head->right) head->right->left = t;
     t->right = head->right;
@@ -69,7 +50,7 @@ int get_indx(char x){
 }
 
 //anup ne likha hai galat nahi ho sakta
-void QNA_tool::csv_process(string& word,int freq){
+void QNA_tool::csv_process(string& word,long long& freq){
     //insert the word in trie, set word_count to freq 
     trie_node* csvroot=csv.root;
     for(auto i : word){
@@ -108,8 +89,12 @@ QNA_tool::QNA_tool(){
     ifstream csv("unigram_freq.csv");
     string f;
     string word;
+    csv.ignore(11);
     while(getline(csv,word,',') && getline(csv,f)){
-        int freq=stoi(f);
+        istringstream iss(f);
+
+        long long freq;
+        iss>>freq;
         csv_process(word,freq);
     }
 }
@@ -210,7 +195,7 @@ bool QNA_tool::is_separator(char x){
 }
 
 Node* QNA_tool::get_top_k_para(string question, int k) {
-    dll top_k;
+    Node* head=nullptr;
     Dict q;
     q.insert_sentence(0,0,0,0,question);
     for(auto w : q.distinct_words){
@@ -237,12 +222,11 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
 
     
     Sort(corpus,k);
-
-    for(int i=(cor_size-k);i<cor_size;i++){
-        top_k.insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no);
+    head=new Node(corpus[cor_size-k]->b_code,corpus[cor_size-k]->page_no,corpus[cor_size-k]->para_no,0,0);
+    for(int i=(cor_size-k+1);i<cor_size;i++){
+        insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no,head);
     }
-
-    return top_k.head;
+    return head;
 
 
 }
@@ -258,7 +242,7 @@ std::string QNA_tool::get_paragraph(int book_code, int page, int paragraph){
 
     cout << "Book_code: " << book_code << " Page: " << page << " Paragraph: " << paragraph << endl;
     
-    std::string filename = "mahatma-gandhi-collected-works-volume-";
+    std::string filename = "Corpora/MK Gandhi/mahatma-gandhi-collected-works-volume-";
     filename += to_string(book_code);
     filename += ".txt";
 

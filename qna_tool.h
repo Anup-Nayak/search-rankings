@@ -6,13 +6,8 @@
 
 using namespace std;
 
-class dll{
-public:
-    Node* head;
-    dll();
-    ~dll();
-    void insert(int bcode,int pageno,int parano);
-};
+
+void insert(int bcode,int pageno,int parano,Node* head);
 
 struct para
 {   //removed left,right
@@ -29,7 +24,7 @@ private:
     // You are free to change the implementation of this function
     void query_llm(string filename, Node* root, int k, string API_KEY, string question);
     
-    void csv_process(string& word,int freq);
+    void csv_process(string& word,long long& freq);
     void heapifyup(vector<para*> &v,int idx);
     void heapifydn(vector<para*> &v,int idx,int sz);
     void Sort(vector<para*> &corpus,int k);
