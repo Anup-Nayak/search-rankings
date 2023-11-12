@@ -10,10 +10,41 @@ using namespace std;
 //for each paragraph keep a dict object/trieif cant import dict
 //the dict will store the no. of times each word comes in the para. easily get freqs.
 
+#define ull unsigned long long
 
+ull power(int x, int n){
+    ull ans = 1;
+    while (n > 0) {
+        if (n%2 == 1) 
+        {
+            ans = ans * x;
+        }
+        x *=x;
+        n/=2; 
+    }
+    return ans;
+}
 
+int hassh(string word){
+    int h=0;
+    for(int i=0;i<word.size();i++){
+        ull a=int(word[i]);
+        ull g=i;
+        ull t=i%5;
+        ull b= a*(power(3,g))+power(a,t);
+        h+= b;
+    }
+    return h%311;
+}
 
-//saem ne sahi hi likha hoga
+int hass(string word){
+    unsigned long long h=0;
+    for(int i=word.size()-1;i>=0;i--){
+        h = h*31 + int(word[i]);
+    }
+    return h%409;
+}
+
 void insert(int bcode,int pageno,int parano,Node* head){
     Node* t = new Node(bcode,pageno,parano,0,0);
     if(head->right) head->right->left = t;
@@ -21,24 +52,23 @@ void insert(int bcode,int pageno,int parano,Node* head){
     head->right = t;
     t->left = head;
 }
-
 //saem ne samjhaya hai galat nahi hai
 void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
     if(!cor_size){
         corpus[cor_size]->b_code=book_code;
         corpus[cor_size]->page_no=page;
         corpus[cor_size]->para_no=paragraph;
-        corpus[cor_size]->d->insert_sentence(0,0,0,0,sentence);
+        // corpus[cor_size]->d->insert_sentence(0,0,0,0,sentence);
         cor_size++;
     }
     else if(corpus[cor_size-1]->para_no==paragraph && corpus[cor_size-1]->page_no==page && corpus[cor_size-1]->b_code==book_code){
-        corpus[cor_size-1]->d->insert_sentence(0,0,0,0,sentence); 
+        // corpus[cor_size-1]->d->insert_sentence(0,0,0,0,sentence); 
    }
     else{
         corpus[cor_size]->b_code=book_code;
         corpus[cor_size]->page_no=page;
         corpus[cor_size]->para_no=paragraph;
-        corpus[cor_size]->d->insert_sentence(0,0,0,0,sentence);
+        // corpus[cor_size]->d->insert_sentence(0,0,0,0,sentence);
         cor_size++;
     }
     return;
@@ -113,7 +143,7 @@ para::~para(){
 QNA_tool::~QNA_tool(){
     for(auto i:corpus){
         delete i;
-    } 
+    }
 }
 //HEAPUTIL BEGINS
 int par(int idx){
@@ -205,23 +235,11 @@ bool QNA_tool::is_separator(char x){
     return false;
 }
 
-Node* QNA_tool::get_top_k_para(string question, int k) {
-    // string file = "Paragraphs/para-";
-    // for (int i = 0; i < cor_size; ++i)
-    // {
-    //     ofstream ofile(file+to_string(i+1)+".txt");
-    //     ofile<<corpus[i]->b_code<<','<<corpus[i]->page_no<<','<<corpus[i]->para_no<<endl;
-    //     ofile.close();
-    //     corpus[i]->d->dump_dictionary(file+to_string(i+1)+".txt");
 
-    // }
+Node* QNA_tool::get_top_k_para(string question, int k) {
     Node* head=nullptr;
     Dict q;
     q.insert_sentence(1,0,0,0,question);
-    for(auto w : q.distinct_words){
-        w.freq=csv.search(w.word);
-        if(w.freq<0) w.freq=0;
-    }
     for (int i = 0; i < q.distinct_words.size(); ++i)
     {
         q.distinct_words[i].freq = csv.search(q.distinct_words[i].word);
@@ -244,7 +262,7 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
             double countOfWord = j->d->get_word_count(wrd);
             // double countOfWord = j->t->search(wrd);
             double sore = mkg.search(wrd);
-            if(occurances<0 || sore<0 || countOfWord<0 || f_csv<0){
+            if(occurances < 0 || sore < 0 || countOfWord < 0 || f_csv < 0){
                 cout<<"GOT NEGATIVE"<<endl;
             }
             j->score += ((occurances)*(sore+1) * (countOfWord))/(f_csv +1);
@@ -323,7 +341,6 @@ std::string QNA_tool::get_paragraph(int book_code, int page, int paragraph){
             res += sentence;
         }
     }
-
     inputFile.close();
     return res;
 }
@@ -335,7 +352,7 @@ void QNA_tool::query(string question, string filename){
     Dict q;
     string imp_words;
     int count=0;
-    q.insert_sentence(0,0,0,0,question);
+    q.insert_sentence(1,0,0,0,question);
     for(auto i : q.distinct_words){
         if(i.word == "mahatma" || i.word.substr(0,6) == "gandhi" || i.word == "india" || csv.search(i.word)>ignorable){
             
@@ -400,3 +417,26 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
     system(command.c_str());
     return;
 }
+
+// int main(int argc, char const *argv[])
+// {
+//     vector<unsigned long long> v;
+//     ifstream file("mkgandhi_csv.csv");
+//     string word;
+//     string f;
+//     int ct=0;
+//     for (int i = 0; i < 309; ++i)
+//     {
+//         getline(file,word,',');
+//         getline(file,f);
+//         int h = hass(word);
+//         v.push_back(h);
+//         // if(v[h]) {cout<<word<<' '<<h<<' '<<v[h]<<endl; ct++;}
+//         // v[h]++;
+//     }
+//     sort(v.begin(), v.end());
+//     for(auto i:v){
+//         cout<<i<<' ';
+//     }
+//     return 0;
+// }

@@ -15,7 +15,7 @@ public:
     int b_code;
     int page_no;
     int para_no;
-    Dict* d=nullptr;
+    // Dict* d=nullptr;
     // trie* t;
     double score=0;
     para();
@@ -30,15 +30,17 @@ private:
     void heapifydn(vector<para*> &v,int idx,int sz);
     void Sort(vector<para*> &corpus,int k);
     bool is_separator(char x);
+    int hash(string& word);
 
     vector<para*> corpus=vector<para*>(380996,nullptr);//////
+    vector<para*> corpus_aux=vector<para*>(380996,nullptr);//////
     trie csv;
-    trie mkg;
         int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
 
 public:
+    trie mkg;
 
     /* Please do not touch the attributes and
     functions within the guard lines placed below  */
