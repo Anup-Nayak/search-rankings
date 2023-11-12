@@ -1,0 +1,15 @@
+24,67,8
+ladies,1
+are,2
+the,1
+worst,1
+sinners,1
+when,1
+men,1
+trying,1
+to,2
+return,1
+a,1
+purer,1
+life,1
+our,1

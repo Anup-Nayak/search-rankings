@@ -1,0 +1,13 @@
+23,23,8
+mahatma,1
+gandhi,1
+after,1
+apologizing,1
+for,1
+being,1
+late,1
+said,1
+this,1
+was,1
+our,1
+national,1

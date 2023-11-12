@@ -1,0 +1,17 @@
+23,319,6
+1,1
+gandhiji,1
+opened,1
+the,2
+lokamanya,1
+rashtriya,1
+kanya,1
+shala,1
+bombays,1
+first,1
+national,1
+girls,1
+school,1
+at,1
+gandharva,1
+mahavidyalaya,1

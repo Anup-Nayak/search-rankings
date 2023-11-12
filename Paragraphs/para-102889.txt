@@ -1,0 +1,14 @@
+30,211,10
+a,1
+i,1
+approached,1
+the,4
+d,1
+c,1
+at,1
+ground,1
+near,1
+town,1
+hall,1
+with,1
+people,1

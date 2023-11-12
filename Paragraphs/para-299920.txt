@@ -1,0 +1,7 @@
+80,0,6
+2,1
+letter,1
+to,1
+k,1
+suryaprakasa,1
+rao,1

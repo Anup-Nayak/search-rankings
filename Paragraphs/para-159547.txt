@@ -1,0 +1,15 @@
+46,156,19
+we,1
+still,1
+consider,1
+mill,1
+made,1
+cloth,2
+and,1
+foreign,1
+to,1
+be,1
+matter,1
+of,1
+luxury,1
+only,1

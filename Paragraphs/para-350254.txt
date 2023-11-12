@@ -1,0 +1,9 @@
+90,423,18
+expedient,1
+and,1
+is,1
+great,1
+step,1
+forward,1
+even,1
+though,1

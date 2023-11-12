@@ -1,0 +1,6 @@
+82,251,16
+for,1
+cleaning,1
+latrines,1
+and,1
+scavenging,1

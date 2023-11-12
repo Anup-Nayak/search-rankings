@@ -1,0 +1,8 @@
+4,409,1
+372,1
+the,2
+chinese,1
+and,1
+indians,1
+a,1
+comparison1,1

@@ -1,0 +1,6 @@
+27,397,3
+hakim,1
+ajmal,1
+khan,1
+sahib,1
+2,1

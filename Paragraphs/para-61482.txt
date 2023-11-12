@@ -1,0 +1,6 @@
+17,322,5
+restrict,1
+scope,1
+previous,1
+definition,1
+therefore,1

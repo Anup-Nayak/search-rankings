@@ -1,0 +1,7 @@
+1,472,4
+paid,1
+customs,1
+for,1
+pamphlets,1
+0,1
+6,2

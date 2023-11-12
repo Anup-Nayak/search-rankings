@@ -1,0 +1,15 @@
+31,26,6
+1,1
+from,1
+gandhijis,1
+reference,1
+to,1
+the,2
+date,1
+and,1
+place,1
+of,1
+writing,1
+in,1
+last,1
+paragraph,1

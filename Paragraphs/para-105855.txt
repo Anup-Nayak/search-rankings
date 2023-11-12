@@ -1,0 +1,14 @@
+31,191,14
+dharma,1
+must,1
+be,2
+considerably,1
+relaxed,1
+it,1
+would,1
+indeed,1
+strange,1
+if,1
+you,1
+of,1
+all,1

@@ -1,0 +1,13 @@
+74,110,5
+bapu,1
+shri,2
+vijayabehn,1
+c/o,1
+rambhai,1
+hirabhai,1
+patel,1
+saurashtra,1
+society,1
+ellis,1
+bridge,1
+ahmedabad,1

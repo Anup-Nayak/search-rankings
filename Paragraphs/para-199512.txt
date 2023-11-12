@@ -1,0 +1,16 @@
+56,41,7
+1,1
+woodbrooke,1
+settlement,1
+the,1
+quaker,1
+centre,1
+near,1
+birmingham,1
+2,1
+addressees,1
+wife,1
+who,1
+was,1
+an,1
+invalid,1

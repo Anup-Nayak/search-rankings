@@ -1,0 +1,8 @@
+11,278,9
+outlook,1
+most,1
+encouraging,1
+not,1
+known,1
+when,1
+reach,1

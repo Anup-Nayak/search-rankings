@@ -1,0 +1,7 @@
+14,10,33
+actuated,1
+by,1
+religious,1
+fervour,1
+passed,1
+resolutions,1

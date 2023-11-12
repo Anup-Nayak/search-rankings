@@ -1,0 +1,7 @@
+9,46,4
+pure,1
+administration,1
+and,1
+the,1
+empires,1
+peace,1

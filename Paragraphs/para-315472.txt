@@ -1,0 +1,15 @@
+82,408,15
+i,1
+told,1
+him,1
+that,2
+it,1
+had,1
+been,1
+reported,1
+roosevelt,1
+falls,1
+asleep,1
+the,1
+moment,1
+he,1

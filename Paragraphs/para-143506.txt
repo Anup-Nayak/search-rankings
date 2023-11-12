@@ -1,0 +1,5 @@
+42,56,4
+bapuna,1
+patromanibehn,1
+patelne,1
+pp,1

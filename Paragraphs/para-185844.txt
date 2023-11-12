@@ -1,0 +1,9 @@
+52,408,2
+m,1
+k,1
+gandhi,1
+principal,1
+shirras,1
+gujarat,1
+college,1
+ahmedabad,1

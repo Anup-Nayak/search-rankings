@@ -1,0 +1,5 @@
+78,290,3
+economic,1
+independence,1
+of,1
+women,1

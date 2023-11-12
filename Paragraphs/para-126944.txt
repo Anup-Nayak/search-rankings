@@ -1,0 +1,10 @@
+37,186,1
+work,2
+like,1
+machines,1
+and,1
+pour,1
+out,1
+our,2
+life,1
+in,1

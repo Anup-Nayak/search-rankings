@@ -1,0 +1,9 @@
+23,201,8
+mohandas,1
+gandhi,1
+from,1
+hindi,1
+aaj,1
+29,1
+5,1
+1921,1

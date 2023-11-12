@@ -1,0 +1,6 @@
+7,40,4
+left,1
+handthe,2
+four,2
+fingers,2
+right,1

@@ -1,0 +1,11 @@
+16,9,5
+1,1
+the,1
+source,1
+has,1
+hindi,1
+speaking,1
+2,1
+ahimsa,1
+paramo,1
+dharmah,1

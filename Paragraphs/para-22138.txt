@@ -1,0 +1,7 @@
+7,332,8
+this,1
+closed,1
+the,2
+case,1
+for,1
+prosecution,1

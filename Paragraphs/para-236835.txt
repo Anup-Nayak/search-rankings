@@ -1,0 +1,17 @@
+64,389,4
+gandhiji,1
+but,1
+why,2
+not,2
+become,1
+a,3
+living,1
+taj,2
+than,2
+dead,1
+and,1
+monument,1
+of,2
+the,2
+present,1
+future,1

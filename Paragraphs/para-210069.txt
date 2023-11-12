@@ -1,0 +1,12 @@
+58,290,8
+2,1
+an,1
+ashram,1
+inmate,1
+known,1
+for,1
+his,1
+strict,1
+observance,1
+of,1
+brahmacharya,1

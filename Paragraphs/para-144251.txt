@@ -1,0 +1,16 @@
+42,164,1
+a,1
+proviso,1
+that,1
+i,2
+shall,1
+go,2
+only,1
+if,1
+do,1
+not,1
+have,1
+to,1
+elsewhere,1
+for,1
+work,1

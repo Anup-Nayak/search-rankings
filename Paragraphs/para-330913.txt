@@ -1,0 +1,13 @@
+86,212,7
+from,1
+a,1
+copy,1
+c,1
+w,1
+10555,1
+courtesy,2
+lakshmi,1
+gandhi,1
+also,1
+pyarelal,2
+papers,1

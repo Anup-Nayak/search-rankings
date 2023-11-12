@@ -1,0 +1,14 @@
+26,384,2
+court,2
+mr,1
+banker,1
+do,1
+you,1
+wish,1
+to,2
+say,1
+anything,1
+the,2
+as,1
+regards,1
+sentences,1

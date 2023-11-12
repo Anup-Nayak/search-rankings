@@ -1,0 +1,6 @@
+30,220,3
+pandit,1
+malaviyaji,1
+birla,1
+house,1
+delhi,1

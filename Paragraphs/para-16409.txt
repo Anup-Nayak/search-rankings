@@ -1,0 +1,7 @@
+6,115,12
+hotel,1
+cecil,1
+london,1
+november,1
+20,1
+l906,1

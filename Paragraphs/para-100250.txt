@@ -1,0 +1,4 @@
+29,338,2
+strength,1
+and,1
+energy,1

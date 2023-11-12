@@ -1,0 +1,11 @@
+93,369,2
+blessings,1
+from,2
+bapu,1
+sardar,1
+vallabhbhai,1
+home,1
+minister,1
+new,1
+delhi,1
+gujarati,1

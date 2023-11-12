@@ -1,0 +1,7 @@
+58,312,23
+religious,1
+consolation,1
+equal,1
+with,1
+other,1
+hindus,1

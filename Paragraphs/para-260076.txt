@@ -1,0 +1,7 @@
+70,24,4
+32,1
+speech,1
+at,1
+gujarati,1
+sahitya,1
+parishad,1

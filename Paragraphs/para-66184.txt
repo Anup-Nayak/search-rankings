@@ -1,0 +1,4 @@
+19,50,2
+exemption,1
+from,1
+security,1

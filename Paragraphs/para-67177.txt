@@ -1,0 +1,13 @@
+19,194,9
+ofmr,1
+powys,1
+cobb,1
+he,2
+states,1
+that,1
+the,1
+quotation,1
+which,1
+makes,1
+about,1
+indians,1

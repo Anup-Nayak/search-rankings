@@ -1,0 +1,8 @@
+74,412,10
+k,1
+has,1
+anybody,1
+interpreted,1
+it,1
+like,1
+you,1

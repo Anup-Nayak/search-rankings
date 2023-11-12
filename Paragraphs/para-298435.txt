@@ -1,0 +1,8 @@
+79,333,2
+fearless,1
+criticism,1
+and,1
+even,1
+advocacy,1
+civil,1
+dis,1

@@ -1,0 +1,14 @@
+36,508,6
+to,2
+profit,1
+from,1
+the,2
+instruction,1
+they,1
+contain,1
+rather,1
+than,1
+attempt,1
+in,1
+vain,1
+ascertain,1

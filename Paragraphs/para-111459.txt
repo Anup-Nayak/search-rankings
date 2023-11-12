@@ -1,0 +1,4 @@
+33,104,2
+subsidiary,1
+industrypar,1
+excellence,1

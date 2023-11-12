@@ -1,0 +1,10 @@
+37,115,1
+whose,1
+senses,1
+are,1
+under,1
+control,1
+is,1
+secure,1
+of,1
+understanding,1

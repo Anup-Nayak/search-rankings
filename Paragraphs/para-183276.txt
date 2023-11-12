@@ -1,0 +1,7 @@
+52,128,1
+166,1
+letter,1
+to,1
+durga,1
+prasanna,1
+chatterjee,1

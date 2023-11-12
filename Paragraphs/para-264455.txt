@@ -1,0 +1,9 @@
+71,128,8
+have,1
+i,1
+not,1
+a,1
+moral,1
+right,1
+to,1
+speak,1

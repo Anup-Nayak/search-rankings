@@ -1,0 +1,9 @@
+57,106,25
+hope,1
+you,2
+are,1
+better,2
+had,1
+come,1
+fast,1
+going,1

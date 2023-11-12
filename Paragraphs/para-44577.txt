@@ -1,0 +1,6 @@
+13,370,2
+johannesburg,1
+october,1
+22,1
+1913,1
+1,1

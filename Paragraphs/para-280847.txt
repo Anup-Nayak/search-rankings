@@ -1,0 +1,5 @@
+75,123,3
+mirabehn,1
+care,1
+badshahkhan,1
+charsadda,1

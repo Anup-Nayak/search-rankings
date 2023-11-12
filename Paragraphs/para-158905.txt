@@ -1,0 +1,9 @@
+46,79,2
+1,1
+for,1
+mother,1
+give,1
+me,1
+water,1
+to,1
+drink,1

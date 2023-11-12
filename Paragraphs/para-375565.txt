@@ -1,0 +1,10 @@
+97,281,1
+259,1
+fragment,1
+of,1
+letter,1
+to,1
+a,1
+woman,1
+worker,1
+1,1

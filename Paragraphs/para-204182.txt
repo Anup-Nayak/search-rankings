@@ -1,0 +1,11 @@
+57,130,7
+they,1
+all,1
+press,1
+me,1
+to,2
+order,1
+you,1
+stop,1
+the,1
+fast,1

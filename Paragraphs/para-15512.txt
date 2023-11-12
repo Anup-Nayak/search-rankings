@@ -1,0 +1,14 @@
+6,33,5
+concerned,1
+the,2
+chinese,1
+and,1
+other,1
+alien,1
+nations,1
+do,1
+not,2
+count,1
+we,1
+ask,1
+for,1

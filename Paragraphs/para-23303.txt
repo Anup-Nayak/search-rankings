@@ -1,0 +1,16 @@
+8,41,18
+mr,1
+gandhi,1
+asked,1
+that,2
+48,1
+hours,1
+notice,1
+only,1
+should,1
+be,1
+given,1
+was,1
+all,1
+accused,1
+wanted,1

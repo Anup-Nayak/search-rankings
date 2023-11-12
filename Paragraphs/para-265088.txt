@@ -1,0 +1,5 @@
+71,223,4
+228,1
+self,1
+inflicted,1
+untouchability,1

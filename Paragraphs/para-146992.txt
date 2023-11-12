@@ -1,0 +1,12 @@
+42,468,21
+4,1
+date,1
+and,1
+place,1
+of,2
+first,1
+entry,1
+applicant,1
+into,1
+the,1
+union,1

@@ -1,0 +1,7 @@
+94,3,4
+6,1
+letter,1
+to,1
+hari,1
+singh,1
+gour,1

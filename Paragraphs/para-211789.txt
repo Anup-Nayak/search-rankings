@@ -1,0 +1,14 @@
+58,458,2
+bapu,1
+ps,1
+there,1
+are,2
+19,1
+letters,1
+in,1
+all,2
+they,1
+tied,1
+with,1
+a,1
+string,1

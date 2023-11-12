@@ -1,0 +1,15 @@
+82,407,19
+l,1
+f,1
+yes,1
+of,1
+course,1
+it,1
+does,1
+make,1
+a,1
+difference,1
+to,1
+whom,1
+you,1
+go,1

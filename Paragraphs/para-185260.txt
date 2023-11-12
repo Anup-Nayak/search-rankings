@@ -1,0 +1,10 @@
+52,340,8
+your,1
+wire,1
+indian,1
+ambulance,1
+corps,1
+reached,1
+after,1
+dusk,1
+and,1

@@ -1,0 +1,10 @@
+92,271,4
+is,1
+not,1
+silent,1
+prayer,1
+better,1
+than,1
+a,1
+written,1
+message,1

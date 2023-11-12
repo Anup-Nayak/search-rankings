@@ -1,0 +1,6 @@
+39,288,7
+276,1
+letter,1
+to,1
+kunvarji,1
+parekh,1

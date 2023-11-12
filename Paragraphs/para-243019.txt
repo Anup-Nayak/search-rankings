@@ -1,0 +1,9 @@
+66,117,5
+m,1
+k,1
+gandhi,1
+begum,1
+saheb,1
+halide,1
+edib,1
+daryaganj,1

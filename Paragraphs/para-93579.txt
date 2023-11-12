@@ -1,0 +1,13 @@
+27,409,28
+now,1
+suppose,1
+that,1
+the,1
+papers,1
+are,2
+not,1
+making,1
+profits,1
+nor,1
+likely,1
+to,1

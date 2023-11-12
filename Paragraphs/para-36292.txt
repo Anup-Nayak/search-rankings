@@ -1,0 +1,9 @@
+11,297,13
+state,1
+unfair,1
+stop,1
+beg,1
+draw,1
+general,1
+smuts,1
+atten,1

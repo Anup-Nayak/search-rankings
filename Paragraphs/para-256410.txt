@@ -1,0 +1,13 @@
+69,112,4
+q,1
+even,1
+at,1
+the,1
+risk,1
+of,1
+being,1
+boycotted,1
+by,1
+their,1
+own,1
+community,1

@@ -1,0 +1,11 @@
+65,427,5
+yours,1
+sincerely,1
+madame,1
+nora,1
+morell,1
+berlin,1
+wilmersdorf,1
+rudesheimer,1
+platz,1
+6,1

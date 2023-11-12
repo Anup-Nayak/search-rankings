@@ -1,0 +1,14 @@
+82,284,5
+that,1
+india,1
+should,2
+not,1
+think,1
+of,1
+her,1
+own,1
+freedom,1
+but,1
+stand,1
+by,1
+the,1

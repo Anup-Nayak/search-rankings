@@ -1,0 +1,7 @@
+5,422,5
+hotel,1
+cecil,1
+london,1
+october,1
+26,1
+1906,1

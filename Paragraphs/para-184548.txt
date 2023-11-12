@@ -1,0 +1,11 @@
+52,257,3
+in,3
+the,3
+car,2
+festivals,1
+here,1
+image,1
+is,1
+placed,1
+and,1
+taken,1

@@ -1,0 +1,9 @@
+76,34,6
+1,1
+lilavati,1
+asar,1
+2,1
+vide,1
+the,1
+preceding,1
+item,1

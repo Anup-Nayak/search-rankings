@@ -1,0 +1,10 @@
+42,434,11
+bapu,1
+mrs,1
+vijayabehn,1
+lilavati,1
+sanatorium,1
+block,1
+no,1
+2,1
+devlali,1

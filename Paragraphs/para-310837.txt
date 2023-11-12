@@ -1,0 +1,13 @@
+82,85,9
+bapu,1
+shri,1
+annapurna,1
+devi,1
+gandhi,1
+ashram,1
+p,1
+o,1
+bari,1
+cuttack,1
+orissa,1
+1,1

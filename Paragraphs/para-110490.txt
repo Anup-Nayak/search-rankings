@@ -1,0 +1,17 @@
+32,445,12
+endanger,1
+the,2
+life,1
+of,1
+his,1
+child,1
+was,1
+it,1
+possible,1
+for,1
+father,1
+to,2
+plead,1
+mercy,1
+in,1
+order,1

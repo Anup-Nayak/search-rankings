@@ -1,0 +1,10 @@
+86,411,11
+bapu,1
+shri,1
+tejwanti,1
+charkha,1
+sangh,1
+punjab,2
+branch,1
+adampur,1
+doab,1

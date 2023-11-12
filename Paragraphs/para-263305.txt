@@ -1,0 +1,9 @@
+70,430,13
+have,1
+patience,1
+i,1
+shall,1
+write,1
+to,1
+the,1
+surgeon,1

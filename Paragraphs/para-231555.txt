@@ -1,0 +1,8 @@
+63,300,3
+1,1
+ganpat,1
+vasudeo,1
+godse,1
+an,1
+ashram,1
+inmate,1

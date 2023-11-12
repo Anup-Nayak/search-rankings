@@ -1,0 +1,8 @@
+13,456,6
+paragraphs,1
+a,1
+b,1
+c,1
+and,1
+d,1
+omitted,1

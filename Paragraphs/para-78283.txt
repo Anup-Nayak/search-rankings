@@ -1,0 +1,15 @@
+22,483,6
+1,1
+delivered,1
+in,1
+reply,1
+to,1
+an,1
+address,1
+of,1
+welcome,1
+presented,1
+by,1
+the,1
+municipal,1
+council,1

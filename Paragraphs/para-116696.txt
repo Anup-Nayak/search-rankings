@@ -1,0 +1,11 @@
+34,437,7
+ashram,1
+sabarmati,1
+tuesday,1
+chaitra,1
+sud,1
+10,1
+march,1
+21,1
+1926,1
+1,1

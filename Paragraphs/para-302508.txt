@@ -1,0 +1,7 @@
+80,256,1
+443,1
+letter,1
+to,1
+charu,1
+probha,1
+sengupta,1

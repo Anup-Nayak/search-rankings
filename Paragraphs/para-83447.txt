@@ -1,0 +1,6 @@
+24,360,9
+umar,1
+sobani,1
+v,2
+dastane,1
+bhusaval,1

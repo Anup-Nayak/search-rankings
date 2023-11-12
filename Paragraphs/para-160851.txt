@@ -1,0 +1,17 @@
+46,300,11
+1,1
+the,2
+year,1
+is,1
+inferred,1
+from,1
+reference,1
+to,1
+experiment,1
+in,1
+diet,1
+2,1
+a,1
+kind,1
+of,1
+chapati,1

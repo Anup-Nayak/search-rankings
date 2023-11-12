@@ -1,0 +1,6 @@
+38,411,6
+416,1
+letter,1
+to,1
+georges,1
+mignon,1

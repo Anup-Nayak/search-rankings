@@ -1,0 +1,9 @@
+61,140,4
+171,1
+telegram,1
+to,1
+khan,2
+saheb,1
+and,1
+abdul,1
+ghaffar,1

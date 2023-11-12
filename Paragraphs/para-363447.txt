@@ -1,0 +1,6 @@
+94,46,10
+your,1
+wire,1
+newspaper,1
+announcement,1
+unauthorised,1

@@ -1,0 +1,13 @@
+21,475,10
+be,1
+able,1
+to,2
+do,1
+no,1
+service,1
+their,1
+motherland,1
+which,1
+they,1
+genuinely,1
+loved,1

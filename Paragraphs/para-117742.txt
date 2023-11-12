@@ -1,0 +1,4 @@
+35,43,3
+sarat,1
+bose,1
+calcutta,1

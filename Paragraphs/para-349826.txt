@@ -1,0 +1,6 @@
+90,381,6
+477,1
+letter,1
+to,1
+akbar,1
+chavda,1

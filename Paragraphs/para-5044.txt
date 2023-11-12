@@ -1,0 +1,15 @@
+2,349,8
+i,1
+beg,1
+to,2
+thank,1
+you,2
+for,1
+the,1
+kind,1
+telegram,1
+have,1
+been,1
+good,1
+enough,1
+send,1

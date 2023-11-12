@@ -1,0 +1,15 @@
+70,16,2
+no,1
+sir,1
+we,1
+shall,1
+take,1
+only,1
+water,1
+but,1
+how,1
+many,1
+days,1
+will,1
+you,1
+fast,1

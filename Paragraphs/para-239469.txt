@@ -1,0 +1,14 @@
+65,216,7
+at,1
+present,1
+he,1
+was,1
+leaving,1
+the,3
+congress,2
+with,1
+main,1
+intention,1
+of,1
+working,1
+for,1

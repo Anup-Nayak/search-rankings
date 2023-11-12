@@ -1,0 +1,9 @@
+95,67,2
+1,1
+abdullah,1
+sheth,1
+of,1
+dada,1
+abdulla,1
+&,1
+co,1

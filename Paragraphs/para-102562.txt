@@ -1,0 +1,9 @@
+30,194,12
+q,1
+do,1
+you,1
+ever,1
+live,1
+in,1
+kohat,1
+itself,1

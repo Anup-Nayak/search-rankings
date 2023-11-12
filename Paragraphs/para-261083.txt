@@ -1,0 +1,16 @@
+70,140,2
+q,1
+how,1
+then,1
+is,1
+experience,1
+to,2
+be,1
+passed,1
+on,1
+from,1
+generation,2
+without,1
+some,1
+articulate,1
+expression,1

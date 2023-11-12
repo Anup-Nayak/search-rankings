@@ -1,0 +1,8 @@
+14,20,5
+most,1
+cordial,1
+reception,1
+by,1
+the,1
+indian,1
+community,1

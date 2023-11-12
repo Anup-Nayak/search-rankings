@@ -1,0 +1,7 @@
+94,261,3
+259,1
+talk,1
+with,1
+american,1
+journalists,1
+1,1

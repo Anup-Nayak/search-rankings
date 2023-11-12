@@ -1,0 +1,13 @@
+85,196,12
+1,1
+ursa,2
+major,2
+2,1
+a,1
+star,1
+near,1
+3,1
+anand,1
+t,1
+hingoranis,1
+father,1

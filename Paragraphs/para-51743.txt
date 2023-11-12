@@ -1,0 +1,4 @@
+15,167,2
+doctrine,1
+of,1
+ahimsa,1

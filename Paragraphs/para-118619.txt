@@ -1,0 +1,8 @@
+35,145,7
+1,1
+fight,1
+it,1
+out,1
+in,1
+the,1
+source,1

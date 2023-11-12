@@ -1,0 +1,7 @@
+31,366,5
+speed,1
+being,1
+500,1
+yds,1
+per,1
+hour,1

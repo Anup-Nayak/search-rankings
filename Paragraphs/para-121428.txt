@@ -1,0 +1,14 @@
+36,10,7
+1,1
+e,1
+stanley,1
+jones,1
+american,1
+missionary,1
+author,1
+of,2
+the,2
+christ,1
+indian,1
+road,1
+etc,1

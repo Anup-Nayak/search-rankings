@@ -1,0 +1,9 @@
+14,456,1
+fruits,1
+if,1
+they,1
+cannot,1
+cook,1
+their,1
+own,1
+food,1

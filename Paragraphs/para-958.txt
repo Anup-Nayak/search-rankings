@@ -1,0 +1,11 @@
+1,190,3
+the,3
+second,1
+head,1
+of,1
+enquiry,1
+is,1
+most,1
+important,1
+viz,1
+what,1

@@ -1,0 +1,17 @@
+77,179,8
+1,1
+this,1
+and,1
+the,2
+following,1
+two,1
+items,1
+have,1
+been,1
+placed,1
+in,1
+source,1
+among,1
+letters,1
+of,1
+1939,1

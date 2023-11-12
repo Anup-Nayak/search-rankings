@@ -1,0 +1,6 @@
+22,181,1
+letter,1
+is,1
+a,1
+typical,1
+instance,1

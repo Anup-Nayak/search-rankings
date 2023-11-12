@@ -1,0 +1,13 @@
+44,495,12
+married,1
+state,1
+service,2
+of,2
+the,2
+family,1
+would,1
+not,1
+stand,1
+in,1
+way,1
+public,1

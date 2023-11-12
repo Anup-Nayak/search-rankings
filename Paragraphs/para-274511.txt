@@ -1,0 +1,10 @@
+73,362,10
+bapu,1
+ps,1
+kaur,1
+and,2
+krishna,1
+jamnalal,1
+ramana,1
+maharshi,1
+ba,1

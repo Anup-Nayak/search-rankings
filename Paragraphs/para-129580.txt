@@ -1,0 +1,16 @@
+38,58,4
+that,2
+it,1
+was,1
+but,1
+natural,1
+and,1
+desirable,1
+man,1
+should,1
+try,1
+to,2
+do,1
+good,1
+all,1
+irrespective,1

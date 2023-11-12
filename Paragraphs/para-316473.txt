@@ -1,0 +1,6 @@
+83,60,2
+a,1
+bengali,1
+mothers,1
+two,1
+questions,1

@@ -1,0 +1,10 @@
+11,231,10
+letter,1
+1,1
+yesterday,1
+more,1
+fully,1
+but,1
+in,1
+view,1
+bill,1

@@ -1,0 +1,5 @@
+45,332,8
+319,1
+speech,1
+at,1
+padamata,1

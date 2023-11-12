@@ -1,0 +1,5 @@
+60,87,3
+admit,1
+after,1
+shuddhi,1
+1,1

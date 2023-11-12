@@ -1,0 +1,6 @@
+65,365,16
+shri,1
+k,1
+m,1
+munshi,1
+advocate,1

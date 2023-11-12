@@ -1,0 +1,16 @@
+51,462,20
+at,1
+all,1
+anxious,1
+not,1
+to,1
+be,1
+placed,1
+on,1
+the,2
+boycott,1
+list,1
+they,1
+will,1
+kindly,1
+settle,1

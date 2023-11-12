@@ -1,0 +1,8 @@
+36,382,4
+a,1
+hindu,1
+lady,1
+from,1
+bengal,1
+writes,1
+1,1

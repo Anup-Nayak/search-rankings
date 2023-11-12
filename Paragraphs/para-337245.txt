@@ -1,0 +1,7 @@
+87,383,4
+leaving,1
+you,1
+free,1
+to,2
+shoulder,1
+responsibility,1

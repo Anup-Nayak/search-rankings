@@ -1,0 +1,14 @@
+58,206,10
+1,1
+kamala,1
+nehru,1
+and,1
+dr,2
+mohammad,1
+alam,1
+were,1
+under,1
+b,1
+c,1
+roys,1
+treatment,1

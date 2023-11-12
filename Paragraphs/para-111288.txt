@@ -1,0 +1,5 @@
+33,76,4
+hints,1
+for,1
+spinning,1
+examiners,1

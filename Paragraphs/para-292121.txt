@@ -1,0 +1,7 @@
+78,49,14
+want,1
+settlement,1
+but,1
+omens,1
+point,1
+contrariwise,1

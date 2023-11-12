@@ -1,0 +1,7 @@
+15,212,9
+from,1
+gujarati,1
+prajabandhu,1
+23,1
+4,1
+1916,1

@@ -1,0 +1,11 @@
+37,30,10
+the,2
+centi,1
+petalled,1
+lotus,1
+of,2
+love,1
+depending,1
+on,1
+stalk,1
+self,1

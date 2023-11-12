@@ -1,0 +1,9 @@
+25,307,6
+1,1
+lawyer,1
+and,1
+secretary,1
+district,1
+congress,1
+committee,1
+chittagong,1

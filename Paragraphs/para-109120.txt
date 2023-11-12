@@ -1,0 +1,11 @@
+32,214,6
+national,1
+congress,1
+too,1
+this,1
+constitutional,1
+state,1
+of,1
+things,1
+should,1
+prevail,1

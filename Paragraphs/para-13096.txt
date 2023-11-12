@@ -1,0 +1,6 @@
+5,200,3
+192,1
+britain,1
+turkey,1
+and,1
+egypt,1

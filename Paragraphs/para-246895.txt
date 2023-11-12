@@ -1,0 +1,6 @@
+67,11,5
+16,1
+letter,1
+to,1
+jamna,1
+gandhi,1

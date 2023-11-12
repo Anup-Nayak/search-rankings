@@ -1,0 +1,7 @@
+41,123,3
+142,1
+telegram,1
+to,1
+dewan,1
+of,1
+porbandar,1

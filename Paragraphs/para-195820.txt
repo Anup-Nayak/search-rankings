@@ -1,0 +1,7 @@
+55,109,7
+1,1
+presumably,1
+americans,1
+2,1
+addressees,1
+brother,1

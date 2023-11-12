@@ -1,0 +1,8 @@
+90,436,10
+where,1
+all,1
+minds,1
+flow,1
+in,1
+one,1
+direction,1

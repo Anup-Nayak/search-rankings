@@ -1,0 +1,4 @@
+33,65,2
+khuda,1
+bux,1
+library,1

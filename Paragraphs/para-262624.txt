@@ -1,0 +1,13 @@
+70,349,8
+q,1
+but,1
+communism,1
+in,1
+russia,1
+is,1
+against,1
+private,2
+property,2
+do,1
+you,1
+want,1

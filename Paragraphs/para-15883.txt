@@ -1,0 +1,3 @@
+6,67,10
+phoenix,1
+durban,1

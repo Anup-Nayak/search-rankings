@@ -1,0 +1,9 @@
+43,340,4
+yours,1
+sincerely,1
+carlo,1
+luccaro,1
+esq,1
+taormina,1
+sicily,1
+italy,1

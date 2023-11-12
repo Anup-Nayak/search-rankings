@@ -1,0 +1,3 @@
+82,35,8
+student,1
+detenu,1

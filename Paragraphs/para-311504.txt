@@ -1,0 +1,14 @@
+82,137,4
+1,1
+there,1
+are,1
+in,1
+our,1
+country,1
+hotels,1
+hair,1
+cutting,1
+saloons,1
+etc,1
+which,1
+deny,1

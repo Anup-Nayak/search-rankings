@@ -1,0 +1,7 @@
+12,340,6
+september,1
+12,1
+thursday,1
+bhadarva,1
+sud,1
+1,1

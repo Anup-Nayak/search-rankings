@@ -1,0 +1,4 @@
+37,333,4
+1,1
+vaishnava,1
+temple,1

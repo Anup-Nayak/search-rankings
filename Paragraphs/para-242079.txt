@@ -1,0 +1,6 @@
+66,19,13
+1,1
+daughter,1
+of,1
+srinivasa,1
+iyengar,1

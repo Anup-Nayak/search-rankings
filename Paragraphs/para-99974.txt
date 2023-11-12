@@ -1,0 +1,8 @@
+29,302,6
+1,1
+the,1
+letter,1
+is,1
+not,1
+translated,1
+here,1

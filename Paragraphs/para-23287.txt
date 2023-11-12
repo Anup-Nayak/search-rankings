@@ -1,0 +1,8 @@
+8,41,1
+i,1
+took,1
+an,1
+oath,1
+not,1
+to,1
+register,1

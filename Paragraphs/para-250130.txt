@@ -1,0 +1,13 @@
+67,332,2
+blessings,1
+from,1
+bapu,1
+shri,1
+raojibhai,1
+patel,1
+gram,1
+udyog,1
+karyalaya,1
+limbasi,1
+matar,1
+taluka,1

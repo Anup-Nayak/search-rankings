@@ -1,0 +1,8 @@
+13,426,7
+four,1
+thousand,1
+passive,1
+resistance,1
+prisoners,1
+in,1
+ordinary,1

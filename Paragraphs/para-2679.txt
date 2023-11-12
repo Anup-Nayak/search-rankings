@@ -1,0 +1,12 @@
+2,56,9
+same,1
+in,1
+natal,1
+today,1
+the,1
+mention,1
+of,1
+blacksmiths,1
+carpenters,1
+clerks,1
+printers,1

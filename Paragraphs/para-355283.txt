@@ -1,0 +1,10 @@
+92,72,2
+valmiki,1
+mandir,1
+reading,1
+road,1
+new,1
+delhi,1
+august,1
+28,1
+1946,1

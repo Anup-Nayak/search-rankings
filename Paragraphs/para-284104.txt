@@ -1,0 +1,5 @@
+76,23,3
+30,1
+meaning,1
+of,1
+prohibition,1

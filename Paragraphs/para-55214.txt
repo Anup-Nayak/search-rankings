@@ -1,0 +1,5 @@
+16,45,10
+the,1
+committee,1
+then,1
+adjourned,1

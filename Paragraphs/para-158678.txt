@@ -1,0 +1,4 @@
+46,47,1
+40,1
+prohibition,1
+campaign,1

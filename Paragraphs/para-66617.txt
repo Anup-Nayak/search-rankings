@@ -1,0 +1,13 @@
+19,109,5
+1,1
+no,1
+separate,1
+report,1
+of,1
+the,1
+speeches,1
+is,1
+available,1
+2,1
+november,1
+3,1

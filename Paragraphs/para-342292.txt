@@ -1,0 +1,17 @@
+88,406,11
+1,1
+douglas,1
+macarthur,1
+u,1
+s,1
+army,1
+general,1
+commander,1
+of,1
+the,2
+occupation,1
+forces,1
+in,1
+japan,1
+after,1
+war,1

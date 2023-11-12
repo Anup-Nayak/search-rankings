@@ -1,0 +1,6 @@
+13,365,4
+what,1
+indians,1
+do,1
+not,1
+want,1

@@ -1,0 +1,10 @@
+90,397,7
+505,1
+letter,1
+to,1
+margarete,1
+spiegel,1
+simla,1
+may,1
+14,1
+1946,1

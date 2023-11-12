@@ -1,0 +1,14 @@
+73,375,13
+violence,1
+on,1
+may,1
+20,1
+chinese,1
+planes,1
+had,1
+flown,1
+over,1
+japanese,1
+towns,1
+and,1
+they,1

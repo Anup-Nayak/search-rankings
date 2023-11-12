@@ -1,0 +1,15 @@
+32,458,17
+with,2
+as,2
+bad,1
+spindles,1
+they,1
+had,1
+been,1
+supplied,1
+was,1
+impossible,1
+for,1
+this,1
+he,1
+would,1

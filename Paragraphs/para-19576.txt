@@ -1,0 +1,6 @@
+6,516,6
+free,1
+indians,1
+worse,1
+than,1
+dogs,1

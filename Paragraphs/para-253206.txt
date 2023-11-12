@@ -1,0 +1,3 @@
+68,209,5
+spinners,1
+association,1

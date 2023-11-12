@@ -1,0 +1,4 @@
+58,491,1
+strength,1
+for,1
+work,1

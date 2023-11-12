@@ -1,0 +1,6 @@
+6,516,2
+can,1
+shops,1
+be,1
+closed,1
+down,1

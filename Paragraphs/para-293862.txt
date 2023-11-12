@@ -1,0 +1,16 @@
+78,228,11
+2,1
+may,1
+a,2
+satyagrahi,1
+make,1
+an,1
+effort,1
+to,1
+get,1
+better,1
+class,1
+treatment,1
+i,1
+e,1
+or,1

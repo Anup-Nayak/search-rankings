@@ -1,0 +1,15 @@
+15,120,3
+left,1
+bhavnagar,1
+reached,1
+amreli,1
+public,1
+function,1
+asked,1
+harilalbhai,1
+to,1
+auction,1
+caskets,1
+received,1
+with,1
+addresses,1

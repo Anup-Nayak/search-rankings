@@ -1,0 +1,11 @@
+95,137,7
+1,1
+minister,1
+in,1
+the,1
+interim,1
+government,1
+for,1
+industries,1
+and,1
+supplies,1

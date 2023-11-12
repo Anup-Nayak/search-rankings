@@ -1,0 +1,9 @@
+96,130,8
+from,1
+hindi,1
+c,1
+w,1
+10265,1
+courtesy,1
+purushottam,1
+prasad,1

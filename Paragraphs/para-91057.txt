@@ -1,0 +1,7 @@
+27,92,4
+92,1
+letter,1
+to,1
+sherif,1
+deoji,1
+kanji,1

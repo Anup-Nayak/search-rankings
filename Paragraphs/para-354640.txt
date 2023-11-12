@@ -1,0 +1,5 @@
+92,0,1
+1,2
+compensation,1
+for,1
+murder,1

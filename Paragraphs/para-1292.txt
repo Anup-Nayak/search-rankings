@@ -1,0 +1,13 @@
+1,250,10
+coast,1
+where,1
+all,1
+the,2
+plantations,1
+are,1
+situated,1
+and,1
+number,1
+of,1
+servants,1
+other,1

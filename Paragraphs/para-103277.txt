@@ -1,0 +1,9 @@
+30,249,3
+128,1
+speech,1
+in,1
+reply,1
+to,1
+seva,1
+mandal,1
+address,1

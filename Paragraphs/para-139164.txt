@@ -1,0 +1,10 @@
+40,481,7
+q,1
+logically,1
+therefore,1
+there,2
+are,2
+as,2
+many,1
+varnas,1
+professions,1

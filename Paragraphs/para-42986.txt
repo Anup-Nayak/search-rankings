@@ -1,0 +1,6 @@
+13,147,1
+100,1
+telegram,1
+to,1
+morris,1
+alexander,1

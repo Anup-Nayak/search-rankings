@@ -1,0 +1,10 @@
+74,61,3
+98,1
+draft,1
+of,1
+resolution,1
+for,1
+a,1
+i,1
+c,2
+3,1

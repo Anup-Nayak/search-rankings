@@ -1,0 +1,7 @@
+40,295,10
+presence,1
+well,1
+gladly,1
+respond,1
+invitation,1
+if,1

@@ -1,0 +1,17 @@
+79,120,7
+q,1
+but,1
+what,1
+if,1
+we,1
+had,1
+to,1
+give,1
+them,1
+up,1
+for,1
+the,1
+sake,1
+of,1
+a,1
+principle,1

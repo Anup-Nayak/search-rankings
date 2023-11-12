@@ -1,0 +1,12 @@
+82,357,13
+1,1
+mridula,1
+sarabhai,1
+2,1
+u,1
+n,1
+dhebar,1
+congress,1
+leader,1
+of,1
+saurashtra,1

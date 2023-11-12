@@ -1,0 +1,13 @@
+78,179,3
+not,1
+giving,1
+a,1
+handle,1
+to,1
+germany,1
+true,1
+we,1
+are,1
+doing,1
+nothing,1
+beyond,1

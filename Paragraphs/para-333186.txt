@@ -1,0 +1,7 @@
+86,435,12
+bapu,1
+shri,1
+ghanshyamsinh,1
+gupta,1
+speaker,1
+drug,1

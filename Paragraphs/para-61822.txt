@@ -1,0 +1,12 @@
+17,368,8
+2,1
+of,1
+the,2
+danish,1
+mission,1
+boarding,1
+school,1
+where,1
+addressee,1
+was,1
+working,1

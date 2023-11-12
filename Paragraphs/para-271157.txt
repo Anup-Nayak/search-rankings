@@ -1,0 +1,9 @@
+72,462,16
+1,1
+addressees,1
+daughter,1
+2,1
+vide,1
+the,1
+preceding,1
+item,1

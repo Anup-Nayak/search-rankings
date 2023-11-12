@@ -1,0 +1,4 @@
+73,202,2
+basic,1
+national,1
+education,1

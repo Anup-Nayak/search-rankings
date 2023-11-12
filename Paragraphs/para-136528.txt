@@ -1,0 +1,8 @@
+39,498,13
+issued,1
+mildest,1
+possible,1
+statement,1
+pointing,1
+out,1
+suicidal,1

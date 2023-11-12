@@ -1,0 +1,6 @@
+65,146,10
+shri,1
+a,1
+v,1
+thakkar,1
+delhi,1

@@ -1,0 +1,15 @@
+13,198,8
+the,1
+bazaar,1
+was,1
+a,2
+social,1
+success,2
+but,1
+not,1
+financial,1
+that,1
+it,1
+might,1
+have,1
+been,1

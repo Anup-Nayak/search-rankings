@@ -1,0 +1,13 @@
+46,107,28
+opposed,2
+all,1
+efforts,1
+to,1
+abolish,1
+the,1
+slave,1
+trade,1
+and,1
+slavery,1
+which,1
+has,1

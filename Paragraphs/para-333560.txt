@@ -1,0 +1,8 @@
+87,30,3
+work,1
+overpowering,1
+place,1
+crowded,1
+better,1
+write,1
+or,1

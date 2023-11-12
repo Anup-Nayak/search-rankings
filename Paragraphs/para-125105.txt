@@ -1,0 +1,4 @@
+36,437,2
+to,1
+journalist,1
+friends,1

@@ -1,0 +1,9 @@
+46,210,3
+bapu,1
+ps,1
+i,1
+have,1
+not,1
+read,1
+this,1
+again,1

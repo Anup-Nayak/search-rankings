@@ -1,0 +1,14 @@
+71,73,6
+you,2
+are,2
+doing,1
+a,1
+noble,1
+work,1
+one,1
+of,1
+the,1
+few,1
+who,1
+have,1
+this,1

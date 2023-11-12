@@ -1,0 +1,10 @@
+86,8,7
+blessings,1
+from,2
+bapu,1
+shriman,1
+narayan,1
+mahila,1
+ashram,1
+wardha,1
+hindi,1

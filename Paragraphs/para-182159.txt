@@ -1,0 +1,7 @@
+52,3,3
+copy,1
+to,1
+sjt,1
+ghanshyam,1
+das,1
+birla,1

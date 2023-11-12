@@ -1,0 +1,7 @@
+19,396,8
+lahore,1
+thursday,1
+february,1
+12,1
+1920,1
+2,1

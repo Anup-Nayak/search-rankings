@@ -1,0 +1,9 @@
+9,474,1
+fraudulent,1
+act,1
+or,2
+makes,1
+any,1
+false,2
+statement,1
+pretence,1

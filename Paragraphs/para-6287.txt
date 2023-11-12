@@ -1,0 +1,7 @@
+3,28,12
+his,1
+excellency,1
+about,1
+rustenburg,1
+and,1
+wakker,1

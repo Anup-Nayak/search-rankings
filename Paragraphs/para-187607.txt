@@ -1,0 +1,9 @@
+53,120,11
+yesterdays,1
+letter,1
+2,1
+to,1
+the,1
+collector,1
+was,1
+written,1

@@ -1,0 +1,17 @@
+42,340,10
+1,1
+permanent,1
+address,1
+2,1
+the,1
+superscription,1
+in,2
+this,1
+and,1
+other,1
+letters,1
+to,1
+mirabehn,1
+is,1
+devanagari,1
+script,1

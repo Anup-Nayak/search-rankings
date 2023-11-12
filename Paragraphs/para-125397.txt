@@ -1,0 +1,11 @@
+36,471,5
+he,1
+is,1
+a,1
+true,1
+vanik,1
+who,1
+honours,1
+his,1
+fathers,1
+word,1

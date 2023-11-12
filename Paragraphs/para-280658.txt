@@ -1,0 +1,7 @@
+75,103,8
+full,1
+letter,1
+received,1
+yesterday,1
+gave,1
+me,1

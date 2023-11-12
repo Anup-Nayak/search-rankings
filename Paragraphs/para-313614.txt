@@ -1,0 +1,14 @@
+82,310,12
+coarse,1
+food,1
+they,1
+can,1
+somehow,1
+manage,1
+to,2
+get,1
+the,2
+steps,1
+control,1
+price,1
+of,1

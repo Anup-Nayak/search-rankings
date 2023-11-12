@@ -1,0 +1,13 @@
+94,142,7
+r,1
+the,1
+government,1
+should,1
+make,1
+early,1
+and,1
+adequate,1
+arrangements,1
+to,1
+repair,1
+or,1

@@ -1,0 +1,4 @@
+96,436,14
+the,1
+other,1
+dominion,1

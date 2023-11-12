@@ -1,0 +1,11 @@
+17,470,2
+n,1
+a,1
+i,1
+home,1
+politi,1
+calb,1
+februa,1
+ry,1
+1920,1
+no,1

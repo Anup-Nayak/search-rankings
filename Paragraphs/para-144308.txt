@@ -1,0 +1,5 @@
+42,174,6
+192,1
+letter,1
+to,1
+nilkanth,1

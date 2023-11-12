@@ -1,0 +1,4 @@
+7,159,7
+potchefstroom,1
+and,1
+klerksdorp,1

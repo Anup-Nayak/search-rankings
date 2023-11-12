@@ -1,0 +1,10 @@
+57,246,13
+i,1
+wish,1
+all,2
+success,1
+to,1
+you,1
+and,1
+other,1
+friends,1

@@ -1,0 +1,6 @@
+96,198,4
+leaving,1
+politics,1
+after,1
+the,1
+15th,1

@@ -1,0 +1,16 @@
+83,46,2
+h,1
+a,1
+we,2
+dare,1
+not,1
+assume,1
+his,1
+mantle,1
+can,1
+but,1
+try,1
+harijan,1
+5,1
+7,1
+1942,1

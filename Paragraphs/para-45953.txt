@@ -1,0 +1,8 @@
+14,10,16
+resisters,1
+had,1
+resort,1
+hunger,1
+strike,1
+order,1
+secure,1

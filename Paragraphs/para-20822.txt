@@ -1,0 +1,6 @@
+7,147,4
+the,1
+editor,1
+rand,1
+daily,1
+mail,1

@@ -1,0 +1,7 @@
+48,175,1
+168,1
+letter,1
+to,1
+jagat,1
+narain,1
+lal,1

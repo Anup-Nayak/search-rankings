@@ -1,0 +1,9 @@
+16,486,3
+3,1
+the,1
+local,1
+government,1
+may,1
+by,1
+rule,1
+prescribe,1

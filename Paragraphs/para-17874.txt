@@ -1,0 +1,6 @@
+6,289,1
+266,1
+trading,1
+law,1
+in,1
+natal,1

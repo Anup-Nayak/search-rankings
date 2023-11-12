@@ -1,0 +1,5 @@
+82,406,2
+telegraphs,1
+and,1
+so,1
+on,1

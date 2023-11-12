@@ -1,0 +1,14 @@
+17,230,9
+1,1
+it,1
+appears,1
+from,1
+the,1
+contents,1
+that,1
+this,1
+letter,1
+was,1
+written,1
+in,1
+1918,1

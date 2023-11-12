@@ -1,0 +1,12 @@
+57,414,2
+diagnosis,1
+can,1
+be,1
+made,1
+how,1
+is,1
+your,1
+cough,1
+bapu,1
+from,1
+gujarati,1

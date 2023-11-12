@@ -1,0 +1,8 @@
+14,19,3
+umtali,1
+expected,1
+hourly,1
+2,1
+cable,1
+state,1
+health,1

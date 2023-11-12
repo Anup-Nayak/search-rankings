@@ -1,0 +1,16 @@
+64,67,10
+professions,1
+on,1
+a,2
+footing,1
+of,1
+equality,1
+we,1
+would,1
+in,1
+few,1
+years,1
+be,1
+surprised,1
+that,1
+they,1

@@ -1,0 +1,12 @@
+9,269,2
+1,1
+the,2
+incident,1
+was,1
+later,1
+discussed,1
+in,1
+press,1
+vide,1
+appendix,1
+x,1

@@ -1,0 +1,6 @@
+75,305,1
+383,1
+an,1
+insult,1
+to,1
+intelligence,1

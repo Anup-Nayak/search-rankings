@@ -1,0 +1,12 @@
+20,96,21
+a,1
+undoubtedly,1
+i,1
+will,1
+do,1
+it,1
+again,1
+tomorrow,1
+if,1
+circumstances,1
+require,1

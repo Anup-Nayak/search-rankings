@@ -1,0 +1,12 @@
+86,224,3
+g,1
+only,1
+an,1
+organization,1
+based,1
+predominantly,1
+on,1
+truth,1
+and,1
+non,1
+violence,1

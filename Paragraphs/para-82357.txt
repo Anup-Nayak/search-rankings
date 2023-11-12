@@ -1,0 +1,9 @@
+24,178,3
+mohandas,1
+from,1
+gujarati,1
+bapuna,1
+patro,1
+4,1
+manibehn,1
+patelne,1

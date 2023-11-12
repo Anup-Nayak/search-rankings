@@ -1,0 +1,6 @@
+72,499,8
+letter,1
+from,1
+k,1
+nazimuddin,1
+1,1

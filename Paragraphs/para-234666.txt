@@ -1,0 +1,9 @@
+64,142,3
+bapu,1
+shri,1
+rama,1
+devi,1
+chandni,1
+chowk,1
+cuttack,1
+orissa,1

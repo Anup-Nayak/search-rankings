@@ -1,0 +1,7 @@
+6,261,7
+chapter,1
+v,1
+morality,1
+as,1
+a,1
+religion,1

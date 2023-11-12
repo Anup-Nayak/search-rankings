@@ -1,0 +1,14 @@
+36,442,8
+1,1
+reproduced,1
+from,1
+romain,1
+rolland,1
+birthday,1
+book,1
+published,1
+by,1
+rotoppel,1
+verlag,1
+zurich,1
+1926,1

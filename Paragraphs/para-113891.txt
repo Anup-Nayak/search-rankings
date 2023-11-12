@@ -1,0 +1,4 @@
+33,421,3
+an,1
+admirable,1
+spirit,1

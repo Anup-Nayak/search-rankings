@@ -1,0 +1,4 @@
+31,30,13
+contemplated,1
+my,1
+letter,1

@@ -1,0 +1,6 @@
+10,442,9
+salaams,1
+from,1
+mohandas,1
+karamchand,1
+gandhi,1

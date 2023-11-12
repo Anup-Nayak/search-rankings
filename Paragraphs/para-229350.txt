@@ -1,0 +1,7 @@
+63,4,2
+we,1
+shall,1
+know,1
+each,1
+other,1
+better,1

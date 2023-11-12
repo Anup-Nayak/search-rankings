@@ -1,0 +1,8 @@
+82,342,21
+answer,1
+except,1
+by,1
+recommending,1
+non,1
+violent,1
+method,1

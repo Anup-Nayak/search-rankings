@@ -1,0 +1,10 @@
+11,397,9
+from,1
+the,1
+gujarati,2
+translation,1
+reproduced,1
+in,1
+14,1
+5,1
+1911,1

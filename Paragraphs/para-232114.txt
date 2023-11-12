@@ -1,0 +1,17 @@
+63,373,4
+i,1
+got,1
+your,3
+letter,1
+cling,1
+to,1
+duty,1
+with,1
+unswerving,1
+faith,1
+without,1
+thinking,1
+of,2
+the,1
+fruit,1
+work,1

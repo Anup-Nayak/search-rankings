@@ -1,0 +1,10 @@
+21,97,4
+private,1
+education,1
+totally,1
+independent,1
+of,1
+the,1
+government,2
+an,1
+insolent,1

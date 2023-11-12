@@ -1,0 +1,17 @@
+55,275,10
+1,1
+gandhiji,1
+had,1
+written,1
+her,1
+name,1
+in,1
+urdu,1
+2vide,1
+letter,2
+to,2
+narandas,1
+gandhi,1
+and,1
+hiralal,1
+shah,1

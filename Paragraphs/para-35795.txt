@@ -1,0 +1,8 @@
+11,256,12
+as,1
+representative,1
+saying,1
+he,1
+has,1
+always,1
+freely,1

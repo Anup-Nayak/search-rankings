@@ -1,0 +1,6 @@
+34,485,2
+247,1
+golden,1
+slippers,1
+v,1
+rags,1

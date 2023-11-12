@@ -1,0 +1,9 @@
+9,322,11
+resisters,1
+treated,1
+worse,1
+kaffir,1
+convicts,1
+many,1
+hospital,1
+dysentery,1

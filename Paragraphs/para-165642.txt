@@ -1,0 +1,4 @@
+47,377,3
+431,1
+khaddar,1
+franchise,1

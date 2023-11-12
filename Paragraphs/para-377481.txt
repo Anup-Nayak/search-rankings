@@ -1,0 +1,6 @@
+98,75,2
+bapu,1
+rev,1
+cardes,1
+sevagram,1
+1,1

@@ -1,0 +1,8 @@
+82,320,13
+prataprai,1
+modi,1
+parimal,1
+takhteshwar,1
+plot,1
+bhavnagar,1
+kathiawar,1

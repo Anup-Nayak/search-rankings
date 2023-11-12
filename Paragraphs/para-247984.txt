@@ -1,0 +1,7 @@
+67,117,1
+191,1
+letter,1
+to,1
+vipin,1
+d,1
+patel,1

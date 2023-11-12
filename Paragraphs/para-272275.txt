@@ -1,0 +1,13 @@
+73,104,1
+a,1
+it,2
+appears,1
+that,1
+the,1
+public,1
+knows,1
+more,1
+about,1
+than,1
+i,1
+do,1

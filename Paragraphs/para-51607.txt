@@ -1,0 +1,16 @@
+15,140,3
+1,1
+1842,1
+1901,1
+indian,2
+judge,1
+social,1
+reformer,1
+author,1
+and,1
+one,1
+of,2
+the,2
+founders,1
+national,1
+congress,1

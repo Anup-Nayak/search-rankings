@@ -1,0 +1,10 @@
+11,76,7
+1,1
+vide,1
+speech,1
+at,1
+socialist,1
+hall,1
+26,1
+5,1
+1910,1

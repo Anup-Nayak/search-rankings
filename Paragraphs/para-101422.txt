@@ -1,0 +1,10 @@
+30,0,8
+before,1
+putting,1
+the,2
+resolution,1
+to,1
+vote,1
+president,1
+remarked,1
+1,1

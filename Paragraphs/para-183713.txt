@@ -1,0 +1,7 @@
+52,166,10
+224,1
+letter,1
+to,1
+carl,1
+j,1
+brunskog,1

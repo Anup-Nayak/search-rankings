@@ -1,0 +1,13 @@
+46,156,20
+fit,1
+to,2
+be,1
+used,1
+by,1
+brahmin,1
+and,1
+vaishya,1
+communities,1
+the,1
+foremost,1
+adopt,1

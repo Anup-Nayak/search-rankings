@@ -1,0 +1,4 @@
+33,16,9
+bhaishri,1
+fulchand,1
+3,1

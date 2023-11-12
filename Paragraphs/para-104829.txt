@@ -1,0 +1,16 @@
+31,33,5
+what,1
+he,1
+noticed,1
+at,1
+present,1
+was,1
+that,1
+the,1
+ayurvedic,1
+physicians,1
+were,1
+trying,1
+to,1
+live,1
+on,1

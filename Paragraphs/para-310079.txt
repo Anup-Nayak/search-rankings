@@ -1,0 +1,9 @@
+82,21,8
+ordinary,1
+school,1
+course,1
+up,1
+to,1
+the,1
+same,1
+age,1

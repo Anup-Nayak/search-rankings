@@ -1,0 +1,10 @@
+82,381,10
+exemption,1
+retrospective,1
+if,1
+the,2
+present,1
+decision,1
+of,1
+court,1
+stands,1

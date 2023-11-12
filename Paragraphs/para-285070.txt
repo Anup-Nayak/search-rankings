@@ -1,0 +1,9 @@
+76,136,7
+abbottabad,1
+july,1
+17,1
+1939,1
+president,1
+congress,1
+committee,1
+karachi,1

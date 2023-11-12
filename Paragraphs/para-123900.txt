@@ -1,0 +1,5 @@
+36,299,3
+342,1
+satyagrahatrue,1
+and,1
+false,1

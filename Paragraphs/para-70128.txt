@@ -1,0 +1,16 @@
+20,96,5
+q,1
+all,1
+these,1
+500,1
+students,1
+and,1
+professors,1
+were,1
+marched,1
+a,2
+distance,1
+of,1
+three,1
+miles,1
+quite,1

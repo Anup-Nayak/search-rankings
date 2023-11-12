@@ -1,0 +1,10 @@
+28,376,3
+m,1
+k,1
+gandhi,1
+dr,1
+chimandas,1
+niharjungo,1
+pir,1
+hyderabad,1
+sind,1

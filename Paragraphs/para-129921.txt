@@ -1,0 +1,8 @@
+38,99,3
+80,1
+speech,1
+on,1
+tilak,1
+swaraj,1
+fund,1
+pachora,1

@@ -1,0 +1,6 @@
+25,392,5
+192,1
+telegram,1
+to,1
+devdas,1
+gandhi,1

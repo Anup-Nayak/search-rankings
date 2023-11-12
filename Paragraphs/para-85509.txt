@@ -1,0 +1,8 @@
+25,222,2
+ahmedabad,1
+december,1
+8,1
+1921,1
+mrs,1
+nehru,1
+allahabad,1

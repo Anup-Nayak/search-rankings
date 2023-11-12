@@ -1,0 +1,9 @@
+42,455,1
+524,1
+caste,1
+distinctions,1
+at,1
+meals,1
+in,1
+national,1
+hostels,1

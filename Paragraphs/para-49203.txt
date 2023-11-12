@@ -1,0 +1,6 @@
+14,426,6
+362,1
+speech,1
+at,2
+reception,1
+tranquebar,1

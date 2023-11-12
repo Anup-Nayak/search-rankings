@@ -1,0 +1,11 @@
+20,95,13
+q,1
+500,1
+students,1
+were,1
+arrested,1
+for,1
+this,1
+notice,1
+being,1
+damaged,1

@@ -1,0 +1,12 @@
+10,57,10
+my,1
+lord,1
+the,2
+following,1
+cable,1
+has,1
+been,1
+received,1
+from,1
+chinese,1
+association,1

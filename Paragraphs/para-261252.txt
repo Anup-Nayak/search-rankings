@@ -1,0 +1,8 @@
+70,157,13
+q,1
+you,1
+like,1
+the,2
+sermon,1
+on,1
+mount,1

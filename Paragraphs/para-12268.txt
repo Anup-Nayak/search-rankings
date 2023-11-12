@@ -1,0 +1,7 @@
+5,65,4
+59,1
+our,1
+tamil,1
+and,1
+hindi,1
+columns,1

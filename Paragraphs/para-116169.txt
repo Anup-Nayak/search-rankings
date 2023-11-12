@@ -1,0 +1,9 @@
+34,372,18
+the,2
+right,1
+hand,1
+to,1
+steal,1
+back,1
+with,1
+left,1

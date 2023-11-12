@@ -1,0 +1,8 @@
+87,137,5
+sardar,1
+deo,1
+agree,1
+hope,1
+you,1
+maulana,1
+saheb,1

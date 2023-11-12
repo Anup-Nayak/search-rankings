@@ -1,0 +1,10 @@
+44,84,11
+1,1
+wife,1
+of,2
+suraj,1
+bhanji,1
+a,1
+khadi,1
+worker,1
+ambala,1

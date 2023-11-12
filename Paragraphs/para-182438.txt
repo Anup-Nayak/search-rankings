@@ -1,0 +1,6 @@
+52,34,8
+his,1
+highness,1
+the,1
+lama,1
+tibet,1

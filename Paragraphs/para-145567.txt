@@ -1,0 +1,9 @@
+42,312,1
+our,1
+word,1
+even,1
+if,1
+the,1
+very,1
+heavens,1
+fall,1

@@ -1,0 +1,13 @@
+7,293,6
+sir,1
+william,1
+wedderburn,1
+chairman,1
+british,1
+committee,1
+of,1
+the,1
+indian,1
+national,1
+congress,1
+london,1

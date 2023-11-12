@@ -1,0 +1,7 @@
+19,219,3
+those,1
+are,1
+quite,2
+laudable,1
+objects,1
+so,1

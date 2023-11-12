@@ -1,0 +1,15 @@
+51,433,7
+when,1
+mr,1
+gandhi,1
+arrived,1
+the,1
+villagers,1
+told,1
+him,1
+that,1
+all,1
+their,1
+rice,1
+crop,1
+worth,1

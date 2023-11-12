@@ -1,0 +1,13 @@
+4,91,2
+m,1
+k,1
+gandhi,1
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+c,1
+w,1
+4103,1

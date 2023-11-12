@@ -1,0 +1,5 @@
+32,290,3
+182,1
+some,1
+striking,1
+facts,1

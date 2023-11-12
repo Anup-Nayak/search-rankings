@@ -1,0 +1,17 @@
+82,386,21
+from,1
+the,1
+people,1
+it,1
+was,1
+not,1
+reasonable,1
+to,2
+expect,1
+anyone,1
+present,1
+his,1
+own,1
+head,1
+in,1
+a,1

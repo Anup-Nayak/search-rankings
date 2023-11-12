@@ -1,0 +1,8 @@
+53,211,10
+by,1
+local,1
+authorities,1
+implementing,1
+terms,1
+of,1
+settle,1

@@ -1,0 +1,10 @@
+52,425,21
+rupees,1
+for,2
+starting,1
+ashrams,1
+and,2
+schools,1
+depressed,1
+classes,1
+untouchable,1

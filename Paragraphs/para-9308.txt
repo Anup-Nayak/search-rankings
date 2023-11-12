@@ -1,0 +1,10 @@
+4,95,6
+1,1
+vide,1
+the,1
+dealers,1
+lincenses,1
+act,1
+8,1
+10,1
+1904,1

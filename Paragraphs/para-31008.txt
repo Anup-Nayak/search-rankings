@@ -1,0 +1,17 @@
+10,154,4
+1,1
+this,1
+was,1
+on,1
+october,1
+8,2
+vide,2
+speech,2
+at,2
+emerson,1
+club,1
+10,2
+1909,2
+2,1
+hampstead,1
+13,1

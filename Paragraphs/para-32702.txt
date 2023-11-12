@@ -1,0 +1,5 @@
+10,401,3
+230,1
+to,1
+passive,1
+resisters,1

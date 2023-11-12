@@ -1,0 +1,5 @@
+36,132,6
+144,1
+letter,1
+to,1
+shambhushankar,1

@@ -1,0 +1,5 @@
+22,345,2
+what,1
+about,1
+european,1
+interests,1

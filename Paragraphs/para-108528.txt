@@ -1,0 +1,4 @@
+32,102,3
+76,1
+painfully,1
+illuminating,1

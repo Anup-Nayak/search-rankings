@@ -1,0 +1,14 @@
+82,82,14
+1,1
+vide,2
+talk,1
+with,1
+friends,1
+20,1
+2,4
+1942,3
+and,1
+21,1
+criminal,1
+assaults,1
+19,1

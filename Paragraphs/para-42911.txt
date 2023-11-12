@@ -1,0 +1,7 @@
+13,144,11
+marriage,1
+difficulty,1
+as,1
+it,1
+requires,1
+registra,1

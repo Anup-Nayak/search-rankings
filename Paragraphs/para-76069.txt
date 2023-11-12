@@ -1,0 +1,9 @@
+22,83,4
+57,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+calcutta,1
+2,1

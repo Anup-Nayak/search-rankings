@@ -1,0 +1,4 @@
+25,400,10
+the,1
+khadi,1
+pledge,1

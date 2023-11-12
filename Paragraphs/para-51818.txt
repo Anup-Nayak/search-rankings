@@ -1,0 +1,8 @@
+15,182,5
+132,1
+speech,1
+on,1
+vernaculars,1
+and,1
+education,1
+madras,1

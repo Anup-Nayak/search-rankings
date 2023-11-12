@@ -1,0 +1,13 @@
+51,138,13
+1,1
+future,1
+procedure,1
+i,1
+sketched,1
+the,1
+ideas,1
+as,1
+they,1
+at,1
+present,1
+stand,1

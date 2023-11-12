@@ -1,0 +1,11 @@
+41,300,12
+q,1
+government,1
+say,1
+there,1
+were,1
+never,1
+before,1
+so,1
+many,1
+purchasers,1

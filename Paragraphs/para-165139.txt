@@ -1,0 +1,8 @@
+47,319,8
+1,1
+a,1
+khadi,1
+worker,1
+at,1
+sabarmati,1
+ashram,1

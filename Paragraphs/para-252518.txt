@@ -1,0 +1,7 @@
+68,141,4
+171,1
+letter,1
+to,1
+jayanti,1
+n,1
+parekh,1

@@ -1,0 +1,12 @@
+52,193,9
+that,2
+it,2
+is,3
+abused,1
+wherever,1
+discovered,1
+salt,1
+manufactured,1
+or,1
+collected,1
+in,1

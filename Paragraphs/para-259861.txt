@@ -1,0 +1,14 @@
+69,462,4
+i,1
+have,1
+received,1
+your,1
+letter,2
+of,1
+24th,1
+with,2
+kripalanis,1
+to,1
+you,1
+enclosed,1
+it,1

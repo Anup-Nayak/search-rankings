@@ -1,0 +1,6 @@
+84,256,4
+347,1
+letter,1
+to,1
+kashibehn,1
+gandhi,1

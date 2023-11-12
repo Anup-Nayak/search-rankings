@@ -1,0 +1,7 @@
+83,49,1
+59,1
+letter,1
+to,1
+abdul,1
+wadood,1
+sarhadi,1

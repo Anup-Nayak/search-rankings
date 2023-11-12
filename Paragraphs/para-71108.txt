@@ -1,0 +1,5 @@
+20,250,5
+double,2
+warp,1
+and,1
+weft,1

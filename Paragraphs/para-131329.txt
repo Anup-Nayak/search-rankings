@@ -1,0 +1,11 @@
+38,274,10
+1,1
+from,1
+the,2
+reference,1
+to,1
+mamas,1
+death,1
+vide,1
+preceding,1
+item,1

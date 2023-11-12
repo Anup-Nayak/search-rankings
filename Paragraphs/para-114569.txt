@@ -1,0 +1,15 @@
+34,44,2
+i,3
+have,1
+not,1
+yet,1
+seen,1
+him,3
+know,1
+by,1
+name,1
+and,1
+mean,1
+to,1
+see,1
+replied,1

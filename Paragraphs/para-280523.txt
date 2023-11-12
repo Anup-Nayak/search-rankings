@@ -1,0 +1,7 @@
+75,88,8
+tell,1
+bidhan,1
+bardoli,1
+cancelled,1
+no,1
+anxiety,1

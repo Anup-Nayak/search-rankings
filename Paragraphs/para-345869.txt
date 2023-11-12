@@ -1,0 +1,7 @@
+89,376,5
+487,1
+famine,1
+of,1
+grain,1
+and,1
+cloth,1

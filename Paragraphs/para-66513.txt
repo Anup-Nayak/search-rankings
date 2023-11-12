@@ -1,0 +1,10 @@
+19,93,2
+delhi,1
+friday,1
+on,1
+or,1
+after,1
+october,1
+31,1
+1919,1
+1,1

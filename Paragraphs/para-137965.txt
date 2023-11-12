@@ -1,0 +1,14 @@
+40,265,3
+mahatmaji,1
+oh,1
+yes,1
+otherwise,1
+i,1
+would,1
+not,2
+be,1
+a,1
+hindu,1
+and,1
+could,1
+live,1

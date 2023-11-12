@@ -1,0 +1,7 @@
+26,382,2
+1,1
+the,1
+original,1
+draft,1
+has,1
+thing,1

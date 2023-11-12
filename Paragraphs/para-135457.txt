@@ -1,0 +1,13 @@
+39,343,12
+4,1
+we,1
+often,1
+see,1
+that,2
+a,1
+man,1
+does,1
+evil,2
+deeds,1
+whence,1
+comes,1

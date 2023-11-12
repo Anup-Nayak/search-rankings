@@ -1,0 +1,8 @@
+74,423,3
+i,1
+lay,1
+in,1
+dust,1
+lifes,1
+glory,1
+dead,1

@@ -1,0 +1,6 @@
+21,19,1
+13,1
+swadeshi,1
+in,1
+the,1
+punjab,1

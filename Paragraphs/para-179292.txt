@@ -1,0 +1,14 @@
+51,150,4
+issued,1
+after,1
+each,1
+meeting,1
+to,1
+avoid,1
+public,1
+misunderstanding,1
+he,1
+agreed,1
+and,1
+said,1
+that,1

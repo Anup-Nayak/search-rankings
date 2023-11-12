@@ -1,0 +1,15 @@
+82,14,23
+1,1
+this,1
+was,1
+sent,1
+on,2
+february,1
+12,1
+1942,1
+to,2
+jawaharlal,1
+nehru,1
+who,1
+passed,1
+it,1

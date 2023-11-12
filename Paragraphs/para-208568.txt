@@ -1,0 +1,7 @@
+58,131,12
+they,1
+therefore,1
+suggest,1
+that,1
+pending,1
+consideration,1

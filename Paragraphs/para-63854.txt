@@ -1,0 +1,10 @@
+18,145,9
+exports,1
+of,1
+raw,1
+cotton,1
+cwt,1
+8_,1
+million,1
+sic,1
+9,1

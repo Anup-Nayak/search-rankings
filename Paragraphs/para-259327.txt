@@ -1,0 +1,6 @@
+69,408,14
+1,1
+devkunwar,1
+gandhi,2
+2,1
+khushalchand,1

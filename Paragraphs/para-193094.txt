@@ -1,0 +1,7 @@
+54,292,3
+ulrich,1
+hamburger,1
+esq,1
+downing,1
+college,1
+cambridge,1

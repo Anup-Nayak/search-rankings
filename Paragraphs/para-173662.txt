@@ -1,0 +1,15 @@
+49,466,13
+some,1
+decision,1
+even,1
+without,1
+waiting,1
+for,1
+a,1
+second,1
+interview,1
+of,1
+course,1
+if,1
+anything,1
+new,1

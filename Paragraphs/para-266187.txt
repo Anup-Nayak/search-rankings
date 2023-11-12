@@ -1,0 +1,7 @@
+71,343,1
+402,1
+speech,1
+to,1
+villagers,1
+segaon,1
+1,1

@@ -1,0 +1,15 @@
+43,35,10
+1,1
+by,1
+pyarelal,1
+for,1
+extracts,1
+vide,1
+cow,1
+protection,1
+true,1
+and,1
+false,1
+20,1
+9,1
+1928,1

@@ -1,0 +1,16 @@
+66,223,1
+write,1
+to,1
+you,1
+about,1
+the,2
+other,1
+part,1
+of,1
+letter,1
+maybe,1
+we,1
+shall,1
+meet,1
+very,1
+soon,1

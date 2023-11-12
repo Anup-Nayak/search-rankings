@@ -1,0 +1,17 @@
+19,55,3
+i,1
+do,2
+not,1
+care,1
+straw,1
+for,2
+your,1
+reforms,1
+what,1
+can,1
+they,1
+us,1
+if,1
+our,2
+lives,1
+and,1

@@ -1,0 +1,5 @@
+26,239,4
+accumulated,1
+stocks,1
+of,1
+khadi,1

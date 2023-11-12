@@ -1,0 +1,17 @@
+98,337,9
+gandhiji,1
+told,1
+them,1
+that,1
+if,1
+he,1
+did,1
+not,1
+leave,1
+for,1
+sevagram,1
+on,1
+the,1
+proposed,1
+date,1
+4,1

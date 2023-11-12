@@ -1,0 +1,9 @@
+70,242,7
+truth,1
+because,1
+all,1
+have,1
+not,1
+the,1
+same,1
+light,1

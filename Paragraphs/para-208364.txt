@@ -1,0 +1,8 @@
+58,116,4
+fast,1
+broken,1
+no,1
+cause,1
+anxiety,1
+see,1
+statement,1

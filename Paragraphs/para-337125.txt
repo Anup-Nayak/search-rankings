@@ -1,0 +1,10 @@
+87,368,8
+yours,1
+m,1
+k,1
+gandhi,1
+mohammed,1
+salim,1
+shopkeeper,1
+belbagh,1
+jabalpur,1

@@ -1,0 +1,5 @@
+8,83,1
+appeal,1
+to,1
+the,1
+brave,1

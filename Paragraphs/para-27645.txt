@@ -1,0 +1,9 @@
+9,191,12
+sentenced,1
+two,1
+months,1
+or,1
+twenty,1
+pounds,1
+additional,1
+deportation,1

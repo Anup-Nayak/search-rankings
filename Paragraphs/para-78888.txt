@@ -1,0 +1,14 @@
+23,78,11
+morrow,1
+swaraj,1
+was,1
+further,1
+said,1
+to,2
+be,2
+a,1
+natural,1
+thing,2
+not,1
+an,1
+artificial,1

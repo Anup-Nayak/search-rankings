@@ -1,0 +1,11 @@
+55,288,10
+1,1
+over,1
+the,2
+abduction,1
+of,1
+sita,1
+as,1
+described,1
+in,1
+ramayana,1

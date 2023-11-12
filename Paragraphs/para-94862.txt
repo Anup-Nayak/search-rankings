@@ -1,0 +1,5 @@
+28,106,6
+young,1
+india,1
+in,1
+urdu,1

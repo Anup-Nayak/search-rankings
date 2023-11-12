@@ -1,0 +1,13 @@
+92,229,16
+q,1
+may,2
+not,1
+there,1
+be,1
+occasions,1
+when,1
+one,1
+have,1
+to,1
+compromise,1
+ideals,1

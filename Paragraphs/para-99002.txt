@@ -1,0 +1,7 @@
+29,198,9
+2,1
+decrees,1
+of,1
+a,1
+muslim,1
+divine,1

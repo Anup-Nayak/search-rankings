@@ -1,0 +1,14 @@
+42,85,10
+yours,1
+sincerely,1
+madame,1
+t,1
+de,1
+manziarly,1
+21,1
+rue,1
+du,1
+chemin,1
+vert,1
+courbevoie,1
+seine,1

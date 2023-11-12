@@ -1,0 +1,6 @@
+88,49,6
+110,1
+letter,1
+to,1
+mathuradas,1
+trikumji,1

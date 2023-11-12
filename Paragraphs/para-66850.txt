@@ -1,0 +1,14 @@
+19,146,5
+committee,1
+and,1
+invited,1
+those,1
+who,1
+had,1
+not,1
+already,1
+made,1
+their,1
+statements,1
+before,1
+the,1

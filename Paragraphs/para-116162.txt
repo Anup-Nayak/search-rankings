@@ -1,0 +1,14 @@
+34,372,11
+department,1
+of,1
+its,1
+life,1
+without,1
+injuring,1
+the,2
+other,1
+we,1
+are,1
+to,1
+realize,1
+today,1

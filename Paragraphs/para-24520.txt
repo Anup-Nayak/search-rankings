@@ -1,0 +1,6 @@
+8,239,2
+the,1
+late,1
+mustafa,1
+kamal,1
+pasha,1

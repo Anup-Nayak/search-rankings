@@ -1,0 +1,9 @@
+27,177,2
+yours,1
+sincerely,1
+sardar,2
+mangal,1
+singh,2
+and,1
+raja,1
+amritsar,1

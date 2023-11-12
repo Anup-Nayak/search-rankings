@@ -1,0 +1,14 @@
+46,284,10
+your,1
+letter,1
+of,3
+the,3
+19th,1
+june,2
+was,1
+delivered,1
+to,1
+me,1
+on,1
+evening,1
+24th,1

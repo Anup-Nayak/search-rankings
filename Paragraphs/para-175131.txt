@@ -1,0 +1,10 @@
+50,160,2
+blessings,1
+from,1
+bapu,1
+ps,1
+there,1
+are,1
+58,1
+letters,1
+today,1

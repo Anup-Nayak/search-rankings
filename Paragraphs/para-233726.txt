@@ -1,0 +1,13 @@
+64,43,1
+my,1
+advice,1
+would,2
+be,2
+against,1
+it,2
+better,1
+to,1
+busy,1
+yourself,1
+in,1
+work,1

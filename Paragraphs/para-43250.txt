@@ -1,0 +1,8 @@
+13,174,14
+deprives,1
+indians,1
+resident,1
+natal,1
+of,1
+facility,1
+presently,1

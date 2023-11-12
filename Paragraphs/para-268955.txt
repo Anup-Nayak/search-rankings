@@ -1,0 +1,5 @@
+72,217,13
+authorities,1
+and,1
+the,1
+prisoners,1

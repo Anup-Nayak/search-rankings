@@ -1,0 +1,10 @@
+83,70,12
+1,1
+in,1
+the,1
+margin,1
+somebody,1
+has,2
+written,1
+come,1
+today,1

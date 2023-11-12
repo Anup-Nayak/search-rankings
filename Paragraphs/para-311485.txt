@@ -1,0 +1,12 @@
+82,135,10
+which,1
+religion,1
+should,1
+they,1
+be,1
+brought,1
+up,1
+the,2
+fathers,1
+or,1
+mothers,1

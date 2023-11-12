@@ -1,0 +1,7 @@
+78,187,8
+193,1
+letter,1
+to,1
+vithal,1
+l,1
+phadke,1

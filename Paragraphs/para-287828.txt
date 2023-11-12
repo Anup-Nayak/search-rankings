@@ -1,0 +1,11 @@
+76,432,3
+1,1
+the,2
+working,1
+committee,1
+have,1
+given,1
+their,1
+earnest,1
+consideration,1
+to,1

@@ -1,0 +1,15 @@
+14,512,8
+his,1
+lordship,1
+desires,1
+to,1
+accept,1
+the,2
+offer,1
+in,2
+spirit,1
+which,1
+it,1
+has,1
+been,1
+made,1

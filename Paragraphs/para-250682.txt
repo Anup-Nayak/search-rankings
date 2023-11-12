@@ -1,0 +1,12 @@
+67,390,7
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+gujarati,1
+mahatma,1
+gandhi,1
+aur,1
+jabalpur,1
+p,1

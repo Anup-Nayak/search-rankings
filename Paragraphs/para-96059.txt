@@ -1,0 +1,16 @@
+28,312,3
+a,2
+fair,1
+friend,1
+writes,1
+fellow,1
+traveller,1
+drew,1
+my,1
+attention,1
+to,2
+the,2
+message,1
+1,1
+of,1
+yours,1

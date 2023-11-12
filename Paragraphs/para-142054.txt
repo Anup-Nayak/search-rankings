@@ -1,0 +1,7 @@
+41,358,2
+415,1
+baghat,1
+state,1
+and,1
+sacred,1
+thread,1

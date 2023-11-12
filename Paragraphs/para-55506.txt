@@ -1,0 +1,14 @@
+16,99,10
+respect,1
+is,1
+she,1
+to,2
+be,1
+content,1
+then,1
+have,1
+her,2
+ancient,1
+literature,1
+and,1
+arts,1

@@ -1,0 +1,16 @@
+68,442,18
+7,1
+in,2
+bengal,1
+there,1
+is,1
+only,1
+one,1
+crop,1
+the,1
+aman,1
+paddy,1
+most,1
+parts,1
+that,1
+gives,1

@@ -1,0 +1,10 @@
+66,218,9
+1,1
+the,2
+letter,2
+was,1
+dictated,1
+2,1
+is,1
+not,1
+traceable,1

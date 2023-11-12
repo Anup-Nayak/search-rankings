@@ -1,0 +1,9 @@
+92,384,6
+556,1
+letter,1
+to,1
+amrit,1
+kaur,1
+october,1
+22,1
+1946,1

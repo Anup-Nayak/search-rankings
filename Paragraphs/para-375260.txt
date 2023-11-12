@@ -1,0 +1,12 @@
+97,245,3
+annada,1
+babu,1
+suppose,1
+people,1
+die,1
+wont,1
+it,1
+be,1
+the,1
+governments,1
+responsibility,1

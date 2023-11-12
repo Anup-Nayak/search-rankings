@@ -1,0 +1,16 @@
+91,287,21
+one,3
+is,1
+a,1
+servant,1
+of,1
+him,1
+for,1
+whom,2
+works,1
+not,1
+to,1
+pays,1
+only,1
+lip,1
+service,1

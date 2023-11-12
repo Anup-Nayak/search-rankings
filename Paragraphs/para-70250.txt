@@ -1,0 +1,7 @@
+20,114,3
+q,1
+you,1
+had,1
+no,1
+personal,1
+knowledge,1

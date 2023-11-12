@@ -1,0 +1,14 @@
+21,499,24
+open,1
+in,2
+my,1
+opinion,1
+to,2
+the,1
+dissenting,1
+followers,1
+either,1
+withdraw,1
+protest,1
+if,1
+they,1

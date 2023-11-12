@@ -1,0 +1,6 @@
+92,76,11
+114,1
+letter,1
+to,1
+kamala,1
+sharma,1

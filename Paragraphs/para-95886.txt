@@ -1,0 +1,4 @@
+28,283,2
+150,1
+spinning,1
+resolution,1

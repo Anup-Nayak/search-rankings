@@ -1,0 +1,10 @@
+32,189,4
+m,1
+k,1
+gandhi,1
+ps,1
+my,1
+right,1
+hand,1
+is,1
+disabled,1

@@ -1,0 +1,8 @@
+52,396,12
+1,1
+a,1
+village,1
+in,1
+matar,1
+taluka,1
+kaira,1

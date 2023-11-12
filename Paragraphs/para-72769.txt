@@ -1,0 +1,15 @@
+21,40,12
+we,1
+were,1
+perhaps,1
+paying,1
+the,1
+penalty,1
+of,2
+our,2
+continued,1
+sin,1
+against,1
+a,1
+fifth,1
+own,1

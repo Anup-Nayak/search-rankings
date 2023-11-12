@@ -1,0 +1,14 @@
+18,352,3
+1,1
+the,3
+reference,1
+is,1
+to,1
+widespread,1
+disturbances,1
+in,1
+punjab,1
+ahmedabad,1
+nadiad,1
+and,1
+bombay,1

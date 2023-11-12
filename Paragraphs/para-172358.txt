@@ -1,0 +1,9 @@
+49,330,4
+from,1
+gujarati,1
+c,1
+w,1
+8114,1
+courtesy,1
+narandas,1
+gandhi,1

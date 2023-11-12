@@ -1,0 +1,8 @@
+82,409,22
+an,2
+attempt,1
+to,1
+find,1
+comfort,1
+in,1
+illusion,1

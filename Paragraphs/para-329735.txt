@@ -1,0 +1,13 @@
+86,103,12
+a,1
+the,2
+answer,1
+is,1
+contained,1
+in,2
+previous,1
+answers,1
+and,1
+also,1
+my,1
+speech,1

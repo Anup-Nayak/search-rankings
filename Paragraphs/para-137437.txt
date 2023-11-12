@@ -1,0 +1,8 @@
+40,164,3
+98,1
+letter,1
+to,1
+hemaprabha,1
+devi,1
+das,1
+gupta,1

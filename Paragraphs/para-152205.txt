@@ -1,0 +1,8 @@
+44,66,16
+ready,1
+start,1
+friday,1
+or,1
+saturday,1
+if,1
+desired,1

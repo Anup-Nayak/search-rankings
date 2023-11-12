@@ -1,0 +1,6 @@
+17,236,4
+sabarmati,1
+ahmedabad,1
+october,1
+20,1
+1918,1

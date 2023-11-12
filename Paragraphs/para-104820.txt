@@ -1,0 +1,8 @@
+31,32,4
+19,1
+speech,1
+at,1
+ayurvedic,1
+pharmacy,1
+madras,1
+2,1

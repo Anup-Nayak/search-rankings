@@ -1,0 +1,7 @@
+19,41,7
+mother,1
+ali,1
+brothers,1
+reported,1
+seriously,1
+ill,1

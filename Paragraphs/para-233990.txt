@@ -1,0 +1,16 @@
+64,68,16
+ambedkar,1
+gandhiji,1
+said,1
+the,1
+sangh,1
+was,1
+bound,1
+to,1
+deal,1
+with,1
+them,1
+in,1
+fact,1
+steps,1
+had,1

@@ -1,0 +1,10 @@
+72,366,15
+2,1
+the,2
+superscription,1
+is,1
+from,1
+copy,1
+in,1
+pyarelal,1
+papers,1

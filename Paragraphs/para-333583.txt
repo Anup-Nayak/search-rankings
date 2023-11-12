@@ -1,0 +1,13 @@
+87,32,10
+1,1
+anantrai,1
+pattani,1
+dewan,1
+of,1
+bhavnagar,1
+2,1
+this,1
+paragraph,1
+is,1
+in,1
+english,1

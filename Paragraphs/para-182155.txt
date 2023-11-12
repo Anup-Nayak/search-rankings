@@ -1,0 +1,8 @@
+52,2,6
+1,1
+of,1
+bhagat,1
+singh,1
+sukhdev,1
+and,1
+rajguru,1

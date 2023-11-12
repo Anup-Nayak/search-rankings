@@ -1,0 +1,9 @@
+18,68,4
+indian,1
+home,1
+rule,1
+ganesh,1
+&,1
+co,1
+4th,1
+ed,1

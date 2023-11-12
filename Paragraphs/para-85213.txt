@@ -1,0 +1,7 @@
+25,173,2
+ten,1
+days,1
+for,1
+the,1
+khadi,1
+cap,1

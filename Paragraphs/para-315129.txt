@@ -1,0 +1,14 @@
+82,398,11
+g,1
+i,1
+do,1
+not,1
+know,1
+congress,1
+being,1
+the,2
+most,1
+powerful,1
+unit,1
+might,1
+claim,1

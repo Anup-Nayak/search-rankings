@@ -1,0 +1,8 @@
+15,190,3
+138,1
+speech,1
+at,1
+reception,1
+in,1
+hyderabad,1
+sind,1

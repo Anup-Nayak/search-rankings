@@ -1,0 +1,11 @@
+34,51,2
+1,1
+r,2
+c,2
+alexander,2
+vide,1
+letter,1
+to,1
+march,1
+24,1
+1897,1

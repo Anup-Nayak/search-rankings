@@ -1,0 +1,3 @@
+30,314,4
+religious,1
+rites,1

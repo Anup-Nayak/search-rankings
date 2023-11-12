@@ -1,0 +1,13 @@
+78,213,2
+again,1
+we,2
+have,1
+to,1
+solve,1
+the,1
+hindu,1
+muslim,1
+problem,1
+for,1
+that,1
+should,1

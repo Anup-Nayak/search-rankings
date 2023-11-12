@@ -1,0 +1,15 @@
+92,304,5
+glad,1
+passive,1
+resisters,1
+adhere,1
+non,1
+violence,1
+hope,1
+no,1
+weakening,1
+or,1
+division,1
+among,1
+our,1
+people,1

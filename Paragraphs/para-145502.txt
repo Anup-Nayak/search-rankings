@@ -1,0 +1,6 @@
+42,304,1
+347,1
+self,2
+support,1
+is,1
+respect,1

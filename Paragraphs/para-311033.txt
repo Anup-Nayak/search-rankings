@@ -1,0 +1,10 @@
+82,99,5
+i,1
+hope,1
+premi,1
+will,1
+pass,1
+her,1
+exam,1
+with,1
+distinction,1

@@ -1,0 +1,10 @@
+93,366,3
+i,1
+do,1
+not,1
+choose,1
+to,1
+see,1
+the,1
+distance,1
+scene,1

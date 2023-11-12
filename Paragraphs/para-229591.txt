@@ -1,0 +1,14 @@
+63,36,6
+q,1
+but,1
+do,1
+you,1
+not,1
+say,1
+this,1
+is,1
+a,1
+movement,1
+of,1
+self,1
+purification,1

@@ -1,0 +1,5 @@
+24,187,2
+104,1
+the,1
+two,1
+incompatibles,1

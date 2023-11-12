@@ -1,0 +1,10 @@
+82,358,7
+from,1
+a,1
+photostat,1
+c,2
+w,1
+10915,1
+courtesy,1
+r,1
+narasimhan,1

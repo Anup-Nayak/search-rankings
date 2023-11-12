@@ -1,0 +1,8 @@
+45,116,10
+1,1
+from,2
+a,1
+verse,1
+tulsidass,1
+vinaya,1
+patrika,1

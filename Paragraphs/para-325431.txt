@@ -1,0 +1,6 @@
+85,161,8
+244,1
+letter,1
+to,1
+durlab,1
+singh,1

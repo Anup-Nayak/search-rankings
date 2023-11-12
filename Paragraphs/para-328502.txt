@@ -1,0 +1,11 @@
+85,458,14
+blessings,1
+from,1
+bapu,1
+venkateshwar,1
+rao,1
+naturopath,1
+gandhi,1
+ashram,1
+komarovolu,1
+andhra,1

@@ -1,0 +1,8 @@
+59,267,5
+m,1
+k,1
+gandhi,1
+sjt,1
+p,1
+n,1
+rajbhoj,1

@@ -1,0 +1,8 @@
+25,393,1
+193,1
+well,1
+done,1
+but,1
+will,1
+this,1
+continue,1

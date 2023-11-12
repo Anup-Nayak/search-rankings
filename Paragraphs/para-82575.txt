@@ -1,0 +1,13 @@
+24,210,17
+q,1
+how,1
+many,1
+of,1
+you,1
+are,1
+serious,1
+about,1
+giving,1
+up,1
+your,1
+professions,1

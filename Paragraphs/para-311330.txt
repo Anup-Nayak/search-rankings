@@ -1,0 +1,6 @@
+82,122,15
+how,1
+to,1
+ward,1
+off,1
+starvation,1

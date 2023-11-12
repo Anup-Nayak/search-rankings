@@ -1,0 +1,7 @@
+76,227,6
+295,1
+letter,1
+to,1
+ghulam,1
+rasul,1
+qureshi,1

@@ -1,0 +1,14 @@
+84,400,5
+blessings,1
+from,1
+bapu,1
+ps,1
+the,1
+correct,1
+word,1
+is,1
+not,1
+raha,1
+but,1
+rah,1
+1,1

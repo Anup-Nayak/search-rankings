@@ -1,0 +1,11 @@
+82,161,5
+blessings,1
+from,1
+bapu,1
+rameshwari,1
+nehru,1
+2,1
+waris,1
+road,1
+lahore,1
+punjab,1

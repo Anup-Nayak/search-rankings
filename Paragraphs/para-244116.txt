@@ -1,0 +1,15 @@
+66,217,4
+your,1
+time,1
+table,1
+is,1
+good,1
+what,2
+books,1
+do,2
+you,2
+read,1
+and,1
+teach,1
+the,1
+children,1

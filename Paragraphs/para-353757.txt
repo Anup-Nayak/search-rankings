@@ -1,0 +1,4 @@
+91,358,5
+i,1
+village,1
+industry,1

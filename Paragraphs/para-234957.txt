@@ -1,0 +1,11 @@
+64,176,4
+of,1
+issuing,1
+proper,1
+instructions,1
+to,2
+the,1
+anti,1
+untouchability,1
+workers,1
+restrict,1

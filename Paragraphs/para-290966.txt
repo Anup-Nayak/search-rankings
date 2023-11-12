@@ -1,0 +1,10 @@
+77,392,19
+research,1
+projects,1
+and,1
+exercise,1
+unnecessary,1
+control,1
+over,1
+other,1
+organizations,1

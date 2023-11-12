@@ -1,0 +1,17 @@
+21,97,18
+awakened,1
+to,2
+a,1
+sense,1
+of,1
+the,1
+danger,1
+its,2
+religions,1
+and,1
+self,1
+respect,1
+it,1
+could,1
+not,1
+but,1

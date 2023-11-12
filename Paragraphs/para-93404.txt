@@ -1,0 +1,14 @@
+27,402,11
+while,1
+on,1
+tour,1
+i,2
+met,1
+with,1
+a,1
+gentleman,1
+who,1
+was,1
+given,1
+to,1
+understand,1

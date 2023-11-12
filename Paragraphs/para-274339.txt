@@ -1,0 +1,17 @@
+73,343,2
+blessings,1
+from,1
+bapu,1
+ps,1
+manu,1
+has,2
+arrived,1
+kakasaheb,1
+had,1
+cholera,1
+but,1
+i,1
+hope,1
+he,1
+will,1
+survive,1

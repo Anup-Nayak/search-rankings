@@ -1,0 +1,12 @@
+37,343,4
+1,1
+the,2
+date,1
+of,1
+this,1
+discourse,1
+is,1
+not,1
+given,1
+in,1
+source,1

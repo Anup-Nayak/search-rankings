@@ -1,0 +1,12 @@
+46,157,5
+spinning,1
+season,1
+you,1
+can,1
+see,1
+some,1
+of,2
+the,2
+villagers,1
+quite,1
+illiterate,1

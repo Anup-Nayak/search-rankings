@@ -1,0 +1,10 @@
+70,156,7
+q,1
+it,1
+is,1
+not,1
+good,1
+to,1
+provide,1
+cheap,1
+goods,1

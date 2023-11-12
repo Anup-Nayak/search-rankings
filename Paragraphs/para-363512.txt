@@ -1,0 +1,16 @@
+94,51,6
+unused,1
+man,1
+power,1
+which,1
+is,1
+left,1
+to,1
+rot,1
+in,1
+idleness,1
+can,1
+such,1
+schemes,1
+be,1
+considered,1

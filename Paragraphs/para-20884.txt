@@ -1,0 +1,8 @@
+7,154,5
+bill,1
+affects,1
+domiciled,1
+indians,1
+physical,1
+deportation,1
+passive,1

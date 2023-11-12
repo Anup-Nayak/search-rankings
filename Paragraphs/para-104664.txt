@@ -1,0 +1,8 @@
+31,6,4
+the,1
+same,1
+teacher,1
+writes,1
+to,1
+ask,1
+2,1

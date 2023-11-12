@@ -1,0 +1,15 @@
+82,239,6
+the,2
+people,1
+have,1
+to,1
+do,1
+when,1
+their,1
+fields,1
+are,1
+touched,1
+by,1
+enemy,1
+that,1
+may,1

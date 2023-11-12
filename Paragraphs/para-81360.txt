@@ -1,0 +1,16 @@
+24,1,7
+avoid,1
+all,1
+machine,1
+made,1
+cloth,1
+the,1
+supreme,1
+virtue,1
+of,1
+khadi,1
+was,2
+that,1
+it,1
+hand,1
+spun,1

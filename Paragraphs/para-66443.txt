@@ -1,0 +1,10 @@
+19,85,10
+1,1
+it,1
+is,1
+not,1
+known,1
+if,1
+tagore,1
+sent,1
+this,1

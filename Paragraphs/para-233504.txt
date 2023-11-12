@@ -1,0 +1,8 @@
+64,18,5
+bapu,1
+amrita,1
+bazar,1
+patrika,1
+26,1
+5,1
+1934,1

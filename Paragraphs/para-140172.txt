@@ -1,0 +1,16 @@
+41,106,8
+1,1
+not,1
+reproduced,1
+here,1
+polak,1
+had,1
+criticized,1
+the,2
+exhibition,1
+for,1
+bad,1
+site,1
+and,1
+defective,1
+arrangements,1

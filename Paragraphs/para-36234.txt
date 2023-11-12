@@ -1,0 +1,8 @@
+11,292,17
+are,1
+at,1
+present,1
+in,1
+their,1
+respective,1
+provinces,1

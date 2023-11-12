@@ -1,0 +1,11 @@
+37,97,4
+1,1
+knowledge,1
+2,1
+ignorance,1
+for,1
+gandhijis,1
+meaning,1
+here,1
+vide,1
+isopanishad,1

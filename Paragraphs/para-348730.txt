@@ -1,0 +1,7 @@
+90,250,2
+from,1
+gujarat,1
+harijanbandhu,1
+14,1
+4,1
+1946,1

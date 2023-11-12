@@ -1,0 +1,16 @@
+51,189,2
+i,2
+promised,1
+to,1
+send,1
+him,1
+a,1
+note,1
+on,1
+all,1
+the,1
+points,1
+discussed,1
+in,1
+which,1
+would,1

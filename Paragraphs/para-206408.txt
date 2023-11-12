@@ -1,0 +1,6 @@
+57,355,7
+1,1
+wife,1
+of,1
+ramdas,1
+gandhi,1

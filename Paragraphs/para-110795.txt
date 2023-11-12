@@ -1,0 +1,14 @@
+32,469,9
+fact,1
+that,1
+this,1
+government,1
+comes,1
+and,1
+will,1
+come,1
+to,1
+help,1
+them,1
+against,1
+the,1

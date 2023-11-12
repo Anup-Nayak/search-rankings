@@ -1,0 +1,5 @@
+26,295,8
+allahabad,1
+jang,1
+bahadur,1
+singh,1

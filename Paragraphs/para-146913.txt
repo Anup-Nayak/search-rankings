@@ -1,0 +1,12 @@
+42,464,28
+have,1
+been,1
+excluded,1
+according,1
+to,1
+the,2
+statement,1
+made,1
+by,1
+revenue,1
+member,1

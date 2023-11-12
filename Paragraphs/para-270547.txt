@@ -1,0 +1,9 @@
+72,402,5
+arrival,1
+pressure,1
+to,1
+day,1
+194/112,1
+inform,1
+doctors,1
+mahadev,1

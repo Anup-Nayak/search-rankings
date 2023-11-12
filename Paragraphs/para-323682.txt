@@ -1,0 +1,14 @@
+84,466,8
+1,1
+yes,1
+the,2
+word,1
+pakistan,1
+is,1
+not,2
+mentioned,1
+in,1
+resolution,1
+and,1
+it,1
+does,1

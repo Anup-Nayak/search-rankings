@@ -1,0 +1,6 @@
+88,53,6
+119,1
+letter,1
+to,1
+yashodhara,1
+dasappa,1

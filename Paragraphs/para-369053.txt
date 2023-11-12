@@ -1,0 +1,7 @@
+95,344,4
+330,1
+talk,1
+with,1
+aruna,1
+asaf,1
+ali,1

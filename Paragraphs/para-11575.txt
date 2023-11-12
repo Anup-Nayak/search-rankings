@@ -1,0 +1,6 @@
+4,431,3
+386,1
+the,2
+chinese,1
+and,1
+americans,1

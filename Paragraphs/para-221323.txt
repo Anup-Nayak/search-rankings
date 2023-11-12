@@ -1,0 +1,10 @@
+61,21,4
+bapu,1
+ps,1
+letters,1
+for,1
+kusum,1
+parachure,1
+duncan,1
+and,1
+titus,1

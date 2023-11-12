@@ -1,0 +1,6 @@
+40,108,2
+mr,1
+gandhi,1
+proved,1
+otherwise,1
+minded,1

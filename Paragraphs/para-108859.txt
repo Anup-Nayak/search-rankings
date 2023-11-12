@@ -1,0 +1,4 @@
+32,166,1
+for,1
+anglo,1
+indians,1

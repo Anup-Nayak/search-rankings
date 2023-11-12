@@ -1,0 +1,15 @@
+24,66,8
+should,1
+not,1
+import,1
+cloth,1
+from,1
+other,1
+places,1
+though,1
+they,1
+might,1
+have,1
+to,1
+remain,1
+half,1

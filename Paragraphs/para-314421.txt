@@ -1,0 +1,8 @@
+82,373,13
+non,2
+violent,1
+co,1
+operation,1
+help,1
+the,1
+japanese,1

@@ -1,0 +1,15 @@
+91,219,6
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+gujarati,1
+mahatma,1
+vol,1
+vii,1
+between,1
+pp,1
+176,1
+and,1
+178,1

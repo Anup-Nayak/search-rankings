@@ -1,0 +1,7 @@
+24,204,6
+1,1
+a,1
+sanskrit,1
+word,1
+for,1
+blood,1

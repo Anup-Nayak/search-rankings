@@ -1,0 +1,7 @@
+42,113,1
+school,1
+the,1
+curriculum,1
+is,1
+as,1
+follows,1

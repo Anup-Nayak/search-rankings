@@ -1,0 +1,5 @@
+62,294,7
+324,1
+speech,1
+at,1
+masulipatam,1

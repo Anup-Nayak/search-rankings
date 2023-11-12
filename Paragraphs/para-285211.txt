@@ -1,0 +1,7 @@
+76,153,3
+lab,1
+bibando,1
+chashma,1
+bando,1
+gosh,1
+band,1

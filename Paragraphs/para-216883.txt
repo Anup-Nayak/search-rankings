@@ -1,0 +1,10 @@
+59,500,10
+2,1
+a,1
+freedom,1
+to,1
+join,1
+public,2
+meetings,1
+and,1
+schools,1

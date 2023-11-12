@@ -1,0 +1,8 @@
+13,142,14
+retical,1
+right,1
+appear,1
+removed,1
+stop,1
+submit,1
+risk,1

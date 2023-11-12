@@ -1,0 +1,13 @@
+77,96,5
+control,1
+of,1
+india,1
+britain,1
+is,1
+able,1
+to,1
+regulate,1
+the,1
+indian,1
+and,1
+british,1

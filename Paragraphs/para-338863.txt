@@ -1,0 +1,9 @@
+88,73,10
+never,1
+made,1
+any,1
+public,1
+statement,1
+about,1
+atomic,1
+bomb,1

@@ -1,0 +1,16 @@
+68,276,7
+q,1
+the,3
+village,1
+workers,1
+employ,1
+middle,1
+men,1
+instead,1
+of,2
+taking,1
+help,1
+villagers,1
+is,1
+this,1
+proper,1

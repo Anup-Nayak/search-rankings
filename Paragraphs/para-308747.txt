@@ -1,0 +1,7 @@
+81,363,2
+10,1
+education,1
+in,1
+health,1
+and,1
+hygiene,1

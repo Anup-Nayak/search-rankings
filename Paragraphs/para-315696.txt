@@ -1,0 +1,4 @@
+82,414,21
+very,1
+effective,1
+anyway,1

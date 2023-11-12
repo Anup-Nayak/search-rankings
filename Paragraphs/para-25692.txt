@@ -1,0 +1,8 @@
+8,440,1
+not,1
+within,1
+the,2
+judicial,1
+cognizance,1
+of,1
+court,1

@@ -1,0 +1,4 @@
+66,187,15
+273,1
+abysmal,1
+ignorance,1

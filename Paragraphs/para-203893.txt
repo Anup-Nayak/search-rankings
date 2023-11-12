@@ -1,0 +1,4 @@
+57,106,26
+keeping,1
+up,1
+strength,1

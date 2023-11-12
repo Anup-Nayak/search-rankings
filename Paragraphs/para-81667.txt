@@ -1,0 +1,9 @@
+24,61,10
+2,1
+when,1
+do,1
+you,1
+expect,1
+to,1
+establish,1
+swaraj,1

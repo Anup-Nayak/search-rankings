@@ -1,0 +1,5 @@
+18,0,1
+1,1
+satyagraha,1
+leaflet,1
+no,1

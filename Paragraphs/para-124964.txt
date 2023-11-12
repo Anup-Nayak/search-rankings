@@ -1,0 +1,7 @@
+36,422,7
+488,1
+letter,1
+to,1
+lakshman,1
+dutt,1
+bhatt,1

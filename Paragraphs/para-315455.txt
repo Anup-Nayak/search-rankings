@@ -1,0 +1,6 @@
+82,407,34
+off,1
+than,1
+under,1
+british,1
+rule,1

@@ -1,0 +1,11 @@
+39,99,3
+h,1
+harcourt,1
+esq,1
+119,1
+gipsy,1
+hill,1
+london,1
+s,1
+e,1
+19,1

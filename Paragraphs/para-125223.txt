@@ -1,0 +1,9 @@
+36,452,12
+1,1
+a,1
+congress,1
+worker,1
+and,1
+journalist,1
+of,1
+saurashtra,1

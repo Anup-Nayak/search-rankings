@@ -1,0 +1,12 @@
+64,112,3
+gandhiji,1
+was,1
+questioned,1
+why,1
+he,1
+welcomed,1
+the,2
+formation,1
+of,1
+socialist,1
+party,1

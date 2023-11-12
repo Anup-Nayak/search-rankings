@@ -1,0 +1,13 @@
+23,24,33
+the,2
+mahatma,1
+asked,1
+merchants,1
+of,1
+bombay,1
+whether,1
+it,1
+was,1
+right,1
+on,1
+their,1

@@ -1,0 +1,13 @@
+70,78,13
+1,1
+hind,1
+swaraj,1
+which,1
+however,1
+was,1
+written,1
+in,2
+1909,1
+and,1
+not,1
+1908,1

@@ -1,0 +1,13 @@
+75,464,31
+your,1
+prestige,1
+influence,1
+and,2
+authority,1
+one,1
+hundred,1
+thirty,1
+five,1
+votes,1
+were,1
+cast,1

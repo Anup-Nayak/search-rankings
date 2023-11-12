@@ -1,0 +1,6 @@
+72,338,8
+6,1
+manual,1
+or,1
+polytechnical,1
+work,1

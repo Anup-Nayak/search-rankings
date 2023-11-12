@@ -1,0 +1,17 @@
+50,162,10
+from,1
+gujarati,1
+c,1
+w,1
+8762,1
+courtesy,1
+gangabehn,1
+vaidya,1
+also,1
+bapuna,1
+patro,1
+6,1
+g,1
+s,1
+gangabehnne,1
+p,1

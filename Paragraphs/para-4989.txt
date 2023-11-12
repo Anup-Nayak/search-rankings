@@ -1,0 +1,12 @@
+2,340,6
+from,1
+the,2
+photostat,1
+of,1
+original,1
+printed,1
+circular,1
+letter,1
+s,1
+n,1
+3404,1

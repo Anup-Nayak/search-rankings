@@ -1,0 +1,14 @@
+25,342,20
+mr,1
+gandhi,1
+left,1
+it,1
+to,2
+the,2
+committee,1
+adopt,1
+motions,1
+on,1
+lines,1
+suggested,1
+by,1

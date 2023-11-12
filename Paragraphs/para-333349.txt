@@ -1,0 +1,6 @@
+87,9,6
+20,1
+telegram,1
+to,1
+asaf,1
+ali,1

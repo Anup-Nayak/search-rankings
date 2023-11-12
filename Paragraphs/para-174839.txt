@@ -1,0 +1,7 @@
+50,127,6
+186,1
+letter,1
+to,1
+rohini,1
+kanaiyalal,1
+desai,1

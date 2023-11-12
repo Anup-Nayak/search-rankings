@@ -1,0 +1,12 @@
+50,250,12
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4504,1
+courtesy,1
+prof,1
+b,2
+j,1
+galvin,1

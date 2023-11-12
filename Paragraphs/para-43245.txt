@@ -1,0 +1,8 @@
+13,174,9
+attention,1
+to,1
+following,1
+objections,1
+bill,1
+from,1
+stand,1

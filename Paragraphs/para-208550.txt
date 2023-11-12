@@ -1,0 +1,17 @@
+58,130,8
+gandhiji,1
+expressed,1
+his,1
+satisfaction,1
+at,1
+the,3
+progress,1
+of,2
+work,1
+going,1
+on,1
+in,1
+country,1
+for,1
+removal,1
+untouchability,1

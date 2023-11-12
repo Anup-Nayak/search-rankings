@@ -1,0 +1,10 @@
+30,316,5
+delhi,1
+february,1
+28,1
+1925,1
+khwaja,1
+saheb,1
+abdul,1
+majid,1
+aligarh,1

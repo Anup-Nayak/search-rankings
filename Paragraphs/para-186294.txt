@@ -1,0 +1,12 @@
+52,454,5
+1,1
+emerson,1
+has,2
+made,1
+a,1
+note,1
+here,1
+he,1
+since,1
+been,1
+released,1

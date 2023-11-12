@@ -1,0 +1,11 @@
+2,109,19
+written,1
+of,2
+some,1
+pamphlet,1
+describing,1
+the,3
+treatment,1
+armenians,1
+by,1
+turks,1

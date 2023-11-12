@@ -1,0 +1,16 @@
+78,257,5
+q,1
+you,1
+say,1
+an,1
+active,1
+satyagrahi,1
+should,1
+devote,1
+the,1
+whole,1
+of,1
+his,1
+spare,1
+time,1
+to,1

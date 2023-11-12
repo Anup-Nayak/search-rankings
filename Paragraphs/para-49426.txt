@@ -1,0 +1,11 @@
+14,453,10
+it,2
+is,2
+not,2
+enough,1
+to,1
+possess,1
+and,1
+keep,1
+much,1
+but,1

@@ -1,0 +1,8 @@
+33,290,2
+satyagraha,1
+ashram,1
+wardha,1
+december,1
+10,1
+1925,1
+1,1

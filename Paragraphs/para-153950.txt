@@ -1,0 +1,11 @@
+44,475,10
+t16,1
+guj,1
+does,1
+not,1
+have,1
+according,1
+to,1
+the,1
+golden,1
+rule,1

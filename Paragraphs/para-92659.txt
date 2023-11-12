@@ -1,0 +1,6 @@
+27,298,3
+277,1
+actions,1
+as,1
+against,1
+beliefs,1

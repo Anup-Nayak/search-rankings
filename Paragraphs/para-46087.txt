@@ -1,0 +1,8 @@
+14,20,4
+pearson,1
+have,1
+arrived,1
+and,1
+were,1
+accorded,1
+a,1

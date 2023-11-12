@@ -1,0 +1,6 @@
+76,319,7
+411,1
+source,1
+of,1
+my,1
+sympathy,1

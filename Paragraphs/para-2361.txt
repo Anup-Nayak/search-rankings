@@ -1,0 +1,16 @@
+2,6,2
+1,1
+vide,1
+letter,3
+to,3
+f,3
+s,3
+taleyarkhan,2
+10,3
+1896,3
+taleyar,1
+khan,1
+18,1
+and,1
+5,1
+11,1

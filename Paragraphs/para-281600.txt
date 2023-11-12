@@ -1,0 +1,10 @@
+75,218,3
+m,1
+k,1
+gandhi,1
+from,1
+a,1
+photostat,1
+g,1
+n,1
+6842,1

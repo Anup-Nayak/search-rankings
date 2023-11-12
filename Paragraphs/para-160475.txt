@@ -1,0 +1,7 @@
+46,255,11
+wednesday,1
+and,1
+sunday,1
+in,1
+the,1
+week,1

@@ -1,0 +1,15 @@
+54,284,3
+destroyed,1
+but,1
+for,1
+our,2
+army,1
+which,1
+was,1
+waiting,1
+ready,1
+at,1
+frontier,1
+during,1
+the,1
+last,1

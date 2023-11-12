@@ -1,0 +1,7 @@
+35,399,4
+512,1
+letter,1
+to,1
+mrs,1
+perin,1
+captain1,1

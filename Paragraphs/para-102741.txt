@@ -1,0 +1,9 @@
+30,203,17
+q,1
+any,1
+other,1
+cause,1
+apart,1
+from,1
+the,1
+pamphlet,1

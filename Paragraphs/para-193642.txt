@@ -1,0 +1,8 @@
+54,350,2
+for,1
+me,1
+to,1
+guide,1
+the,2
+public,1
+working,1

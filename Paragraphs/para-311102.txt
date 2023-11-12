@@ -1,0 +1,14 @@
+82,103,19
+but,1
+neither,1
+can,1
+i,1
+imagine,1
+him,1
+standing,1
+aside,1
+and,1
+doing,1
+nothing,1
+at,1
+all,1

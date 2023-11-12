@@ -1,0 +1,7 @@
+49,249,5
+theirs,1
+but,1
+to,1
+do,1
+and,1
+die,1

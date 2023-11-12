@@ -1,0 +1,7 @@
+84,78,11
+1,1
+daughter,1
+of,1
+amrita,1
+lal,1
+chatterjee,1

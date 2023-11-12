@@ -1,0 +1,7 @@
+17,180,10
+2,1
+an,1
+inmate,1
+of,1
+sabarmati,1
+ashram,1

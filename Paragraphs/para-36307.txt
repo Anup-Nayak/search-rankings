@@ -1,0 +1,9 @@
+11,298,9
+entry,1
+educated,1
+or,1
+other,1
+asiatics,1
+free,1
+state,1
+stop,1

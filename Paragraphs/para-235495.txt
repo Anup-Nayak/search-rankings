@@ -1,0 +1,8 @@
+64,232,6
+form,1
+the,1
+gujarati,1
+original,1
+g,1
+n,1
+11529,1

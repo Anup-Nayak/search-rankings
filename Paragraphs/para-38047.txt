@@ -1,0 +1,16 @@
+11,488,8
+act,2
+no,1
+16,1
+of,1
+1908,1
+the,1
+criminal,1
+law,1
+amendment,1
+section,2
+four,1
+and,1
+five,1
+paragraph,1
+a,1

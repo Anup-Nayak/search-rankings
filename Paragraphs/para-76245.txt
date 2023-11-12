@@ -1,0 +1,6 @@
+22,118,6
+1,1
+gandhiji,1
+and,1
+shaukat,1
+ali,1

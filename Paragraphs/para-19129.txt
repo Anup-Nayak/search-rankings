@@ -1,0 +1,10 @@
+6,449,10
+1,1
+bank,1
+note,1
+paper,1
+2,1
+on,1
+in,1
+the,1
+original,1

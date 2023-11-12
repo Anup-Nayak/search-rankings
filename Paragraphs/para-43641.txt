@@ -1,0 +1,14 @@
+13,227,8
+if,1
+the,2
+farm,1
+cannot,1
+be,1
+sold,1
+security,1
+you,1
+have,1
+offered,1
+seems,1
+all,1
+right,1

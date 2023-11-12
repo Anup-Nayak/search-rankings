@@ -1,0 +1,7 @@
+47,30,5
+26,1
+rebirth,1
+of,1
+the,1
+spinning,1
+wheel,1

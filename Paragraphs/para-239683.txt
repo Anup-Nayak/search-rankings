@@ -1,0 +1,4 @@
+65,246,4
+provinsce,1
+language,1
+headquarters,1

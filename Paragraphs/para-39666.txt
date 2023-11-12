@@ -1,0 +1,6 @@
+12,209,3
+171,1
+domicile,1
+certificates,1
+in,1
+natal,1

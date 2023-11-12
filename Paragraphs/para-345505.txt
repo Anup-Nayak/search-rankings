@@ -1,0 +1,9 @@
+89,332,5
+g,1
+and,1
+we,1
+shall,1
+bear,1
+witness,1
+to,1
+that,1

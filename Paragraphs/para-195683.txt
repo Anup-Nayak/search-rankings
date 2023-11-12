@@ -1,0 +1,13 @@
+55,95,2
+from,1
+a,2
+photostat,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+4821,1
+courtesy,1
+premlila,1
+thackersey,1

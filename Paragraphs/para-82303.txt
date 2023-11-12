@@ -1,0 +1,5 @@
+24,169,5
+96,1
+experiences,1
+in,1
+assami,1

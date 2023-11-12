@@ -1,0 +1,12 @@
+95,56,4
+calcutta,1
+may,1
+11,1
+1947,1
+pandit,1
+nehru,1
+care,1
+his,1
+excellency,1
+viceroy,1
+simla,1

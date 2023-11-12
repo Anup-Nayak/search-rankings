@@ -1,0 +1,7 @@
+28,450,3
+252,1
+letter,1
+to,1
+tirath,1
+ram,1
+janeja,1

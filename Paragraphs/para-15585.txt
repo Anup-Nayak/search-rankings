@@ -1,0 +1,15 @@
+6,41,16
+was,2
+not,1
+only,1
+a,3
+party,2
+meeting,2
+but,1
+it,1
+of,2
+part,1
+and,1
+that,1
+i,1
+do,1

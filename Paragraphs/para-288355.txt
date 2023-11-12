@@ -1,0 +1,10 @@
+77,50,7
+congress,1
+had,1
+asked,1
+was,1
+not,1
+an,1
+answer,1
+to,1
+indias,1

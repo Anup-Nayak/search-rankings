@@ -1,0 +1,4 @@
+7,155,3
+121,1
+outspoken,1
+sympathy,1

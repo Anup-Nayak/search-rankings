@@ -1,0 +1,8 @@
+64,358,6
+i,1
+hope,1
+you,1
+are,1
+recovering,1
+your,1
+strength,1

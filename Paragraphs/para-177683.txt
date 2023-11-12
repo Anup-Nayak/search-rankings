@@ -1,0 +1,7 @@
+50,469,4
+viceregal,1
+lodge,1
+simla,1
+august,1
+28,1
+1930,1

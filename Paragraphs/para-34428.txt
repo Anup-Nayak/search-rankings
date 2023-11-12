@@ -1,0 +1,12 @@
+11,103,1
+standing,1
+menace,1
+to,1
+indian,1
+merchants,1
+and,1
+traders,1
+the,1
+estcourt,1
+case,1
+1,1

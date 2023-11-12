@@ -1,0 +1,8 @@
+72,237,7
+derived,1
+from,1
+the,1
+base,1
+mada,1
+meaning,1
+intoxication,1

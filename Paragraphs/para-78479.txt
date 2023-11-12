@@ -1,0 +1,16 @@
+23,6,1
+i,1
+have,1
+often,1
+mentioned,1
+the,3
+conditions,1
+in,1
+these,1
+columns,1
+correspondent,1
+must,1
+look,1
+up,1
+back,1
+numbers,1

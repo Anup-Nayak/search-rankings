@@ -1,0 +1,16 @@
+23,24,4
+people,1
+were,1
+rather,1
+sceptical,1
+about,1
+their,1
+ability,1
+to,1
+collect,1
+that,1
+large,1
+sum,1
+in,1
+the,1
+whole,1

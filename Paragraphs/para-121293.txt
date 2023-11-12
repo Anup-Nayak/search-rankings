@@ -1,0 +1,7 @@
+35,466,4
+589,1
+letter,1
+to,1
+miss,1
+katherine,1
+mayo,1

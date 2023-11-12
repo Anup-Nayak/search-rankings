@@ -1,0 +1,6 @@
+52,375,4
+514,1
+letter,1
+to,1
+sumangal,1
+prakash,1

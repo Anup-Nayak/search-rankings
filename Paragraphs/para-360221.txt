@@ -1,0 +1,7 @@
+93,125,13
+2,1
+from,1
+hindustan,1
+standard,1
+12,2
+1946,1

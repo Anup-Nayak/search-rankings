@@ -1,0 +1,14 @@
+52,189,5
+cation,1
+medical,1
+services,1
+and,1
+the,1
+like,1
+education,1
+when,1
+used,1
+for,1
+such,1
+purposes,1
+is,1

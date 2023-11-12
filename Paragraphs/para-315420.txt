@@ -1,0 +1,11 @@
+82,406,35
+l,1
+f,1
+he,1
+seems,1
+to,1
+be,1
+your,1
+favourite,1
+british,1
+statesman,1

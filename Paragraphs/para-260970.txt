@@ -1,0 +1,15 @@
+70,125,5
+1,1
+translated,1
+from,1
+gujarati,1
+by,1
+pyarelal,1
+the,1
+original,1
+appeared,1
+in,1
+harijanbandhu,1
+29,1
+11,1
+1936,1

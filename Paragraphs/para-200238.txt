@@ -1,0 +1,13 @@
+56,140,7
+5,1
+the,2
+true,1
+means,1
+of,2
+following,1
+religion,1
+is,1
+observance,1
+yamas,1
+and,1
+niyamas,1

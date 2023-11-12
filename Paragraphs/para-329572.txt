@@ -1,0 +1,9 @@
+86,86,8
+yours,1
+m,1
+k,1
+gandhi,1
+maulvi,1
+hafiz,1
+zaffar,1
+hussain,1

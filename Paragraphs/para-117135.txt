@@ -1,0 +1,12 @@
+34,486,1
+clothes,1
+the,1
+naked,1
+sannyasi,1
+it,2
+is,2
+clean,1
+and,1
+dear,1
+to,1
+us,1

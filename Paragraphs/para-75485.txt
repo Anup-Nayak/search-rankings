@@ -1,0 +1,16 @@
+21,507,20
+4,1
+town,1
+in,1
+kheda,1
+district,1
+of,1
+gujarat,1
+5,1
+vide,1
+speech,1
+at,1
+mehmedabad,1
+1,1
+11,1
+1920,1

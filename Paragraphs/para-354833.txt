@@ -1,0 +1,7 @@
+92,20,1
+32,1
+letter,1
+to,1
+indumati,1
+g,1
+tendulkar,1

@@ -1,0 +1,6 @@
+87,263,11
+447,1
+letter,1
+to,1
+manchersha,1
+avari,1

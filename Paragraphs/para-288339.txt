@@ -1,0 +1,12 @@
+77,48,4
+blessings,1
+from,1
+bapu,1
+sardar,1
+prithvi,1
+singh,1
+c/o,1
+janmabhoomi,1
+meadows,1
+street,1
+bombay,1

@@ -1,0 +1,7 @@
+46,244,5
+191,1
+letter,1
+to,1
+jivram,1
+k,1
+kothari,1

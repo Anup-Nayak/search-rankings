@@ -1,0 +1,3 @@
+11,69,6
+satyagrahi,1
+farm,1

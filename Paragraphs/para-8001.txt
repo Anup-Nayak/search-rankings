@@ -1,0 +1,14 @@
+3,323,15
+1,1
+this,1
+statement,1
+was,1
+sent,1
+by,1
+gandhiji,1
+to,1
+dadabhai,1
+naoroji,1
+who,1
+forwarded,1
+a,1

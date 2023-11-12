@@ -1,0 +1,8 @@
+54,347,25
+advise,1
+tenants,1
+to,1
+suspend,1
+payment,1
+pending,1
+the,1

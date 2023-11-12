@@ -1,0 +1,8 @@
+43,105,4
+a,1
+kathiawari,1
+gentleman,1
+writes,1
+to,1
+say,1
+2,1

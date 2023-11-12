@@ -1,0 +1,13 @@
+49,128,5
+should,2
+dispense,1
+with,2
+the,1
+torn,1
+or,1
+lost,1
+pieces,1
+and,1
+be,1
+satisfied,1
+mere,1

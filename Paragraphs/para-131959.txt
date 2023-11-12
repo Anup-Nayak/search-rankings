@@ -1,0 +1,7 @@
+38,352,4
+1,1
+from,1
+bapus,1
+letters,1
+to,1
+mira,1

@@ -1,0 +1,8 @@
+13,142,10
+ments,1
+carried,1
+do,1
+not,1
+appear,1
+protect,1
+right,1

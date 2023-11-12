@@ -1,0 +1,14 @@
+96,345,19
+soldiers,1
+who,2
+go,1
+to,1
+war,1
+gandhij,1
+continued,1
+die,1
+and,1
+those,1
+remain,1
+alive,1
+are,1

@@ -1,0 +1,8 @@
+75,35,16
+many,1
+thanks,1
+for,1
+your,1
+letter,1
+and,1
+enclosures,1

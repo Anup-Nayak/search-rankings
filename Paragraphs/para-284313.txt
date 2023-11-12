@@ -1,0 +1,9 @@
+76,50,15
+undesirable,1
+can,1
+give,1
+no,1
+personal,1
+atten,1
+tion,1
+accommo,1

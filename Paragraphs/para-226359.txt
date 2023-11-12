@@ -1,0 +1,8 @@
+62,75,2
+yours,1
+sincerely,1
+bapu,1
+encl,1
+one,1
+letter,1
+1,1

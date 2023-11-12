@@ -1,0 +1,16 @@
+29,311,11
+q,1
+you,1
+want,1
+to,2
+include,1
+even,1
+moderates,1
+and,1
+also,1
+find,1
+a,1
+way,1
+for,1
+those,1
+who,1

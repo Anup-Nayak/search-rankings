@@ -1,0 +1,10 @@
+38,22,1
+the,1
+president,1
+is,1
+evidently,1
+against,1
+communal,1
+representation,1
+he,1
+says,1

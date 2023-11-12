@@ -1,0 +1,5 @@
+39,198,3
+acharya,1
+kripalani,1
+gujarat,1
+vidyapith,1

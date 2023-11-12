@@ -1,0 +1,10 @@
+11,146,8
+tolstoy,1
+farm,1
+kartak,1
+shud,1
+2,1
+november,1
+4,1
+1910,1
+1,1

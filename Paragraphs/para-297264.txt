@@ -1,0 +1,9 @@
+79,173,9
+b,1
+but,1
+you,1
+forget,1
+the,2
+reality,1
+before,1
+ideal,1

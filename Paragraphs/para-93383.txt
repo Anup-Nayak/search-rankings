@@ -1,0 +1,12 @@
+27,401,10
+myself,1
+that,1
+should,1
+make,1
+me,1
+fairly,1
+competent,1
+in,1
+the,1
+auxiliary,1
+processes,1

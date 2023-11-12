@@ -1,0 +1,7 @@
+44,488,16
+t2,1
+guj,1
+has,1
+act,1
+according,1
+to,1

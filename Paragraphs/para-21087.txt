@@ -1,0 +1,4 @@
+7,180,6
+the,1
+daily,1
+press,1

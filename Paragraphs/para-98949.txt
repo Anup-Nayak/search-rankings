@@ -1,0 +1,6 @@
+29,193,7
+is,2
+required,1
+elimination,1
+poison,1
+exaggeration,1

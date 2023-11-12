@@ -1,0 +1,12 @@
+73,188,10
+1,1
+vide,1
+resolution,1
+on,1
+mysore,1
+settlement,1
+18,1
+5,1
+1938,1
+2,1
+ibid,1

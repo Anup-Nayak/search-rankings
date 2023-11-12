@@ -1,0 +1,8 @@
+90,436,5
+where,1
+there,1
+is,1
+no,2
+sorrow,1
+and,1
+suffering,1

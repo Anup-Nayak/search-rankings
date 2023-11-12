@@ -1,0 +1,11 @@
+84,325,8
+1,1
+vide,1
+letter,2
+to,2
+the,1
+addressee,1
+krishnachandra,1
+21,1
+8,1
+1944,1

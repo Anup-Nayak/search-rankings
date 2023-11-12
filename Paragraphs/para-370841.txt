@@ -1,0 +1,7 @@
+96,134,4
+197,1
+letter,1
+to,1
+gerald,1
+j,1
+rock,1

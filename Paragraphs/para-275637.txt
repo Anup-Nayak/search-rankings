@@ -1,0 +1,14 @@
+73,460,3
+office,1
+acceptance,1
+by,2
+the,1
+congress,1
+a,1
+governor,1
+of,1
+his,1
+special,1
+powers,1
+whereby,1
+dr,1

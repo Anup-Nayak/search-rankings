@@ -1,0 +1,7 @@
+23,355,5
+7,1
+restriction,1
+of,1
+coolie,1
+marriages,1
+abolished,1

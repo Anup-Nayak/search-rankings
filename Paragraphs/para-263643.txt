@@ -1,0 +1,10 @@
+71,27,8
+and,2
+the,3
+money,1
+lender,1
+state,1
+combined,1
+have,1
+finished,1
+process,1

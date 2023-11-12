@@ -1,0 +1,4 @@
+25,71,4
+interest,1
+of,1
+minorities,1

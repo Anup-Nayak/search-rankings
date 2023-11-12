@@ -1,0 +1,8 @@
+71,264,3
+1,1
+addressee,2
+s,2
+wife,1
+2,1
+sharda,1
+daughter,1

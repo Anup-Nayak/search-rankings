@@ -1,0 +1,7 @@
+6,304,13
+permits,1
+association,1
+respectfully,1
+protests,1
+against,1
+finger,1

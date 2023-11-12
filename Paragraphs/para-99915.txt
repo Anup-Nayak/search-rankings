@@ -1,0 +1,4 @@
+29,297,9
+1,1
+sacrificial,1
+ritual,1

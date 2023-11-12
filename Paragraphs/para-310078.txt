@@ -1,0 +1,14 @@
+82,21,7
+curriculum,1
+will,1
+not,1
+fail,1
+in,1
+comparison,1
+with,1
+those,1
+who,1
+have,1
+gone,1
+through,1
+the,1

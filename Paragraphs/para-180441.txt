@@ -1,0 +1,14 @@
+51,275,12
+q,1
+why,1
+did,1
+you,2
+refuse,1
+to,3
+allow,1
+the,1
+ahmedabad,1
+municipality,1
+erect,1
+a,1
+monument,1

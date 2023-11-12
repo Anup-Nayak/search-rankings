@@ -1,0 +1,7 @@
+84,76,1
+93,1
+letter,1
+to,1
+e,1
+w,1
+aryanayakam,1

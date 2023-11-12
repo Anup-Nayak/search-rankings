@@ -1,0 +1,6 @@
+73,300,8
+372,1
+letter,1
+to,1
+nirmala,1
+gandhi,1

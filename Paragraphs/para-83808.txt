@@ -1,0 +1,8 @@
+24,430,6
+resolution,1
+sorry,1
+you,1
+are,1
+angry,1
+how,1
+can,1

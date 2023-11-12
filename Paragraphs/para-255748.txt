@@ -1,0 +1,11 @@
+69,40,5
+1,1
+neither,1
+letter,1
+is,1
+available,1
+2,1
+addressee,1
+s,2
+brother,1
+daughter,1

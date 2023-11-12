@@ -1,0 +1,13 @@
+10,311,26
+on,1
+the,2
+other,1
+hand,1
+when,1
+we,1
+read,1
+with,1
+attention,1
+poetical,1
+and,1
+philosophical,1

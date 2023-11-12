@@ -1,0 +1,6 @@
+25,1,2
+war,1
+on,1
+the,1
+khadi,1
+cap,1

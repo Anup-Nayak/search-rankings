@@ -1,0 +1,7 @@
+76,165,9
+your,1
+prayer,1
+is,1
+on,1
+different,1
+level,1

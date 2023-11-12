@@ -1,0 +1,16 @@
+82,258,6
+villagers,1
+live,1
+in,1
+hourly,1
+terror,1
+of,2
+dacoits,1
+and,1
+robbers,1
+is,1
+it,1
+not,1
+a,1
+matter,1
+jumping,1

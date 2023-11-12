@@ -1,0 +1,7 @@
+59,386,1
+532,1
+letter,1
+to,1
+k,2
+venkataram,1
+aiyar,1

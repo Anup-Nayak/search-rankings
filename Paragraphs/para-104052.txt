@@ -1,0 +1,17 @@
+30,351,5
+1,1
+at,1
+tilak,1
+ghat,1
+triplicane,1
+beach,1
+the,1
+speech,1
+was,1
+translated,1
+into,1
+tamil,1
+sentence,2
+by,2
+s,1
+satyamurti,1

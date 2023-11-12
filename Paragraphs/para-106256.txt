@@ -1,0 +1,14 @@
+31,243,7
+could,1
+say,1
+that,1
+this,1
+department,1
+was,1
+anxious,1
+to,1
+help,1
+even,1
+ordinary,1
+poor,1
+peasants,1

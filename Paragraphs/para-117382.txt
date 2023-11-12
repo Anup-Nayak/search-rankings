@@ -1,0 +1,13 @@
+35,5,11
+dear,1
+friend,1
+i,2
+have,1
+your,2
+letter,1
+am,1
+glad,1
+that,1
+persistence,1
+has,1
+been,1

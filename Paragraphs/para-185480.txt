@@ -1,0 +1,8 @@
+52,363,6
+private,1
+as,1
+at,1
+sabarmati,1
+june,1
+19,1
+1931,1

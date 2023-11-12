@@ -1,0 +1,14 @@
+54,255,3
+q,1
+would,1
+it,1
+be,2
+right,1
+to,2
+allow,1
+oneself,1
+killed,1
+without,1
+putting,1
+up,1
+a,1

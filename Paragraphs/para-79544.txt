@@ -1,0 +1,10 @@
+23,197,16
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+s,1
+n,1
+7532,1

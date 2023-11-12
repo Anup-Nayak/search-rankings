@@ -1,0 +1,15 @@
+21,238,14
+be,1
+the,2
+evil,1
+genius,1
+of,1
+congress,1
+and,1
+other,1
+things,1
+such,1
+statements,1
+did,1
+not,1
+appeal,1

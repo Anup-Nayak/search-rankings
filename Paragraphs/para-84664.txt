@@ -1,0 +1,7 @@
+25,77,3
+35,1
+how,1
+celibacy,1
+can,1
+be,1
+observed,1

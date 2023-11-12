@@ -1,0 +1,8 @@
+18,169,14
+from,1
+the,1
+printed,1
+pamphlet,1
+s,1
+n,1
+6485,1

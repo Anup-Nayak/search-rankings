@@ -1,0 +1,14 @@
+96,76,7
+1,1
+before,1
+leaving,1
+the,2
+couple,1
+requested,1
+gandhiji,1
+for,1
+a,1
+message,1
+vide,1
+following,1
+item,1

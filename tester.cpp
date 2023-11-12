@@ -76,26 +76,29 @@ int main(){
 
     }
 
-    string question ="What were the views of on Partition?";
+    // string question ="What were the views of Mahatma Gandhi on the Partition of India?";
+    string question ="Partition";
+    // string question ="Who was Mahatma Gandhi?";
+        /*
+            Part-1 : Get the top-k paragraphs
+            Checking Correctness
+        */
+        // Let's try to ask a simple question to the qna_tool
+        Node* head = qna_tool.get_top_k_para(question, 7);
+    
+        vector<string> paras;
+        while(head != nullptr){
+            string res = qna_tool.get_paragraph(head->book_code, head->page, head->paragraph);
+            paras.push_back(res);
+            if(!head->right) {delete head; break;}
+            head = head->right;
+            if(head) delete head->left;
+        }
+    
+        for(int i = 0; i < (int)paras.size(); i++){
+            cout << paras[i] << endl << endl << endl;
+        }
 
-    /*
-        Part-1 : Get the top-k paragraphs
-        Checking Correctness
-    */
-
-    // Let's try to ask a simple question to the qna_tool
-    Node* head = qna_tool.get_top_k_para(question, 5);
-
-    vector<string> paras;
-    while(head != nullptr){
-        string res = qna_tool.get_paragraph(head->book_code, head->page, head->paragraph);
-        paras.push_back(res);
-        head = head->right;
-    }
-
-    for(int i = 0; i < (int)paras.size(); i++){
-        cout << paras[i] << endl << endl << endl;
-    }
 
     /*
         Part-2 : Query the LLM

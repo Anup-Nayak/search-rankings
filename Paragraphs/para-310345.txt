@@ -1,0 +1,7 @@
+82,39,1
+taken,1
+against,1
+suresh,1
+babu,2
+and,1
+pitabas,1

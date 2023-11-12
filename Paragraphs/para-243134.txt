@@ -1,0 +1,5 @@
+66,131,3
+to,1
+my,1
+american,1
+friends,1

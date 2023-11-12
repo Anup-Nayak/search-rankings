@@ -1,0 +1,13 @@
+75,110,3
+1,1
+on,1
+february,1
+25,1
+vallabhbhai,1
+patel,1
+issued,1
+a,1
+statement,1
+suspending,1
+the,1
+satyagraha,1

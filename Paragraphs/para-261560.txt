@@ -1,0 +1,14 @@
+70,190,10
+if,1
+you,1
+are,1
+reported,1
+correctly,1
+i,1
+askis,1
+this,1
+not,1
+violence,1
+in,1
+words,1
+against,1

@@ -1,0 +1,8 @@
+35,50,6
+1,1
+penance,1
+2,1
+a,1
+rishi,1
+attaining,1
+brahman,1

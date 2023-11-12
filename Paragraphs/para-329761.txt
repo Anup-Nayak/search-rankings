@@ -1,0 +1,7 @@
+86,105,7
+195,1
+letter,1
+to,1
+bhupendra,1
+narayan,1
+sengupta,1

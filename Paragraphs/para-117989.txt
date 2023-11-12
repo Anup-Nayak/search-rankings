@@ -1,0 +1,15 @@
+35,71,4
+themselves,1
+they,2
+throng,1
+the,1
+cinemas,1
+and,2
+theatres,1
+music,1
+halls,1
+watch,1
+others,1
+play,1
+cricket,1
+etc,1

@@ -1,0 +1,6 @@
+92,458,8
+scheduled,1
+castes,1
+and,1
+the,1
+minorities,1

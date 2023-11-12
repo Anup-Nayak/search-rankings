@@ -1,0 +1,16 @@
+53,34,6
+opinion,1
+it,1
+will,1
+serve,1
+a,1
+great,1
+purpose,1
+because,1
+if,1
+there,1
+is,1
+any,1
+nation,1
+on,1
+this,1

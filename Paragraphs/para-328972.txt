@@ -1,0 +1,6 @@
+86,31,6
+61,1
+letter,1
+to,1
+shantabai,1
+kale,1

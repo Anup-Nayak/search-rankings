@@ -1,0 +1,11 @@
+82,401,26
+province,1
+during,1
+1937,1
+1938,1
+and,1
+1939,1
+they,1
+discriminated,1
+against,1
+muslims,1

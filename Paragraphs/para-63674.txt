@@ -1,0 +1,8 @@
+18,128,6
+ing,1
+civil,1
+disobedience,1
+early,1
+july,1
+stop,1
+with,1

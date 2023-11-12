@@ -1,0 +1,10 @@
+70,2,14
+1,1
+kamala,2
+nevatia,1
+jamnalal,1
+bajajs,1
+daughter,1
+2,1
+nevatias,1
+son,1

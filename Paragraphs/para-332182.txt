@@ -1,0 +1,6 @@
+86,340,4
+595,1
+letter,1
+to,1
+sophia,1
+wadia,1

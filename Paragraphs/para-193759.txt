@@ -1,0 +1,9 @@
+54,360,11
+carry,1
+on,1
+struggle,1
+without,1
+malice,1
+and,1
+in,1
+strictly,1

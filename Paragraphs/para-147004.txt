@@ -1,0 +1,5 @@
+42,469,8
+thumb,1
+impression,1
+of,1
+applicant,1

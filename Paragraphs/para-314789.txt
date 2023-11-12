@@ -1,0 +1,13 @@
+82,388,8
+weight,1
+of,2
+it,1
+the,3
+people,1
+accepted,1
+authority,1
+congress,1
+willingly,1
+i,1
+was,1
+on,1

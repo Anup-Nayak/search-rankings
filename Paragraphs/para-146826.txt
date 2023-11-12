@@ -1,0 +1,6 @@
+42,456,4
+disregard,1
+for,1
+the,1
+living,1
+quern,1

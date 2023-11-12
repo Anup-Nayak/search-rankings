@@ -1,0 +1,6 @@
+87,82,8
+shri,1
+mohanlal,1
+lajpatrai,1
+bhawan,1
+lahore,1

@@ -1,0 +1,13 @@
+82,238,12
+suicidal,1
+activity,1
+your,1
+article,1
+is,2
+both,1
+cowardly,1
+and,1
+mischievous,1
+indeed,1
+it,1
+an,1

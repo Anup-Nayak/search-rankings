@@ -1,0 +1,6 @@
+93,103,1
+valuable,1
+record,1
+for,1
+future,1
+workers,1

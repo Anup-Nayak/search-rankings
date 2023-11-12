@@ -1,0 +1,14 @@
+89,366,1
+what,1
+you,1
+say,1
+about,2
+priyamvada,1
+1,1
+is,1
+right,1
+and,1
+so,1
+too,1
+devdoot,1
+2,1

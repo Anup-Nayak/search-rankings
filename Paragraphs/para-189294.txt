@@ -1,0 +1,9 @@
+53,300,7
+1,1
+vide,1
+athe,1
+second,1
+settlement,1
+28,1
+8,1
+1931,1

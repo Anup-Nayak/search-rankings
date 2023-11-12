@@ -1,0 +1,6 @@
+77,212,6
+do,1
+you,1
+know,1
+baba,1
+ramachandra,1

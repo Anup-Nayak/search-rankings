@@ -1,0 +1,12 @@
+12,296,1
+postharilal,1
+doctor,1
+lallubhai,2
+dulabhai,1
+n,1
+m,1
+kadir,1
+editor,1
+gujarati,1
+chhaganlal,1
+gulabbhai,1

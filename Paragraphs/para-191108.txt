@@ -1,0 +1,9 @@
+54,21,6
+q,1
+you,1
+mean,1
+to,1
+say,1
+it,1
+becomes,1
+local,1

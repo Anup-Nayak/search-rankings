@@ -1,0 +1,11 @@
+7,256,4
+1,1
+a,1
+gujarati,1
+proverb,1
+implying,1
+that,1
+one,2
+gets,1
+what,1
+deserves,1

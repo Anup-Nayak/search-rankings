@@ -1,0 +1,9 @@
+68,20,8
+1,1
+vide,1
+appendix,1
+spinners,1
+welfare,1
+28,1
+9,1
+1935,1

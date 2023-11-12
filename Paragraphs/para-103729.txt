@@ -1,0 +1,8 @@
+30,316,14
+am,1
+prepared,1
+come,1
+ahmedabad,1
+before,1
+going,1
+madras,1

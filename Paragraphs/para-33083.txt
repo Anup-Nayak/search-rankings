@@ -1,0 +1,8 @@
+10,450,3
+a,1
+servant,1
+of,1
+india,1
+mohandas,1
+karamchand,1
+gandhi,1

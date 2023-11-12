@@ -1,0 +1,15 @@
+80,60,4
+dear,1
+editor,1
+you,1
+will,1
+please,1
+publish,1
+this,1
+1,1
+without,1
+alteration,1
+or,1
+reject,1
+it,1
+altogether,1

@@ -1,0 +1,17 @@
+58,25,12
+gulab,1
+four,1
+marks,1
+for,1
+your,1
+handwriting,1
+the,2
+atman,1
+is,1
+that,1
+which,1
+survives,1
+when,1
+body,1
+has,1
+perished,1

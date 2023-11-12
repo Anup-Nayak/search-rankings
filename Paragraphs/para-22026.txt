@@ -1,0 +1,12 @@
+7,317,9
+in,1
+india,1
+when,1
+the,2
+rains,1
+are,1
+heavy,1
+prices,1
+of,1
+vegetables,1
+go,1

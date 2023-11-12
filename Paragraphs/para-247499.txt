@@ -1,0 +1,8 @@
+67,70,10
+joe,1
+wilkinson,1
+because,1
+we,1
+are,1
+eternally,1
+building,1

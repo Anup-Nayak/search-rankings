@@ -1,0 +1,16 @@
+32,18,5
+ex,1
+plicit,1
+anyway,1
+roads,1
+must,1
+be,1
+fully,1
+open,1
+gandhi,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+10691,1

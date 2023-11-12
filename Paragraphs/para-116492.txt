@@ -1,0 +1,8 @@
+34,414,1
+155,1
+letter,1
+to,1
+dr,1
+joachim,1
+henry,1
+reinhold,1

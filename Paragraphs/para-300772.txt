@@ -1,0 +1,7 @@
+80,85,8
+150,1
+note,1
+to,1
+premabehn,1
+kantak,1
+2,1

@@ -1,0 +1,16 @@
+10,311,19
+character,1
+of,1
+the,2
+hindu,1
+race,1
+perhaps,1
+there,1
+are,1
+no,1
+other,1
+people,1
+in,1
+world,1
+who,1
+show,1

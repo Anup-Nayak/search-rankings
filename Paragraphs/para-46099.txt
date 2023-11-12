@@ -1,0 +1,7 @@
+14,20,16
+endurance,1
+and,2
+suffering,1
+we,1
+were,1
+astonished,1

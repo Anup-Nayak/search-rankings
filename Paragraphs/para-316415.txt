@@ -1,0 +1,10 @@
+83,52,10
+64,1
+speech,1
+to,1
+the,1
+students,1
+of,1
+khadi,1
+vidyalaya,1
+3,1

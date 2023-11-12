@@ -1,0 +1,11 @@
+66,412,14
+1,1
+the,2
+corresponding,1
+word,1
+in,1
+source,1
+is,1
+not,1
+quite,1
+legible,1

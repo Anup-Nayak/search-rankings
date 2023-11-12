@@ -1,0 +1,7 @@
+14,186,5
+172,1
+speech,1
+at,1
+congratulatory,1
+meeting,1
+1,1

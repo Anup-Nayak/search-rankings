@@ -1,0 +1,6 @@
+36,197,11
+bapu,1
+fulchand,1
+kasturchand,1
+shah,1
+wadhwan,1

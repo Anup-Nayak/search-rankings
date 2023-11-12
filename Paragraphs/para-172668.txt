@@ -1,0 +1,17 @@
+49,362,12
+1,1
+devdas,1
+gandhi,1
+had,1
+been,1
+arrested,1
+and,1
+sentenced,1
+in,2
+delhi,1
+early,1
+april,1
+for,1
+offering,1
+civil,1
+disobedience,1

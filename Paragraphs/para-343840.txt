@@ -1,0 +1,12 @@
+89,145,9
+1,1
+kuttimalu,1
+amma,1
+vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+24,1
+12,1
+1945,1

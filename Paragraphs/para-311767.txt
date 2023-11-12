@@ -1,0 +1,11 @@
+82,158,17
+meanwhile,1
+not,1
+merely,1
+the,3
+owners,1
+of,2
+factories,1
+but,1
+also,1
+cultivators,1

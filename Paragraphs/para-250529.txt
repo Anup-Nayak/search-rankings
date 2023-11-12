@@ -1,0 +1,8 @@
+67,373,9
+cable,1
+germany,1
+condition,1
+serious,1
+owing,1
+to,1
+persistent,1

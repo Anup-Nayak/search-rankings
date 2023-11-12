@@ -1,0 +1,5 @@
+61,42,8
+i,1
+understand,1
+about,1
+dhiru,1

@@ -1,0 +1,14 @@
+58,129,4
+they,2
+were,2
+prepared,1
+to,1
+forgo,1
+the,2
+gain,1
+getting,1
+from,1
+job,1
+of,1
+removing,1
+dead,1

@@ -1,0 +1,6 @@
+48,65,5
+65,1
+telegram,1
+to,1
+vithalbhai,1
+patel,1

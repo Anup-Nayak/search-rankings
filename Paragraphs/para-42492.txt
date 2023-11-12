@@ -1,0 +1,7 @@
+13,87,10
+wire,1
+copy,1
+chaplin,1
+alexander,1
+smartt,1
+merriman,1

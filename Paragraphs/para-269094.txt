@@ -1,0 +1,16 @@
+72,232,5
+1,1
+vide,1
+an,1
+autobiography,1
+sub,1
+title,1
+as,1
+schoolmaster,1
+2,1
+the,1
+article,1
+is,1
+not,1
+reproduced,1
+here,1

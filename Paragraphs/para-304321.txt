@@ -1,0 +1,12 @@
+80,422,16
+and,3
+try,1
+create,1
+a,1
+living,1
+bond,1
+of,1
+sympathy,1
+between,1
+themselves,1
+their,1

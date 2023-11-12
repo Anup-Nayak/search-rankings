@@ -1,0 +1,8 @@
+51,128,3
+revenue,1
+out,1
+of,1
+all,1
+proportion,1
+to,1
+the,1

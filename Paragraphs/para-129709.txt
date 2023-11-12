@@ -1,0 +1,8 @@
+38,70,1
+56,1
+speech,1
+at,1
+public,1
+meeting,1
+sewan,1
+1,1

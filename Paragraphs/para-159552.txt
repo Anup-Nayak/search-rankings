@@ -1,0 +1,16 @@
+46,156,24
+seedless,1
+cotton,1
+as,1
+4,1
+spindle,1
+costs,1
+re,1
+0,2
+6,1
+carding,1
+charge,1
+for,1
+52,1
+tolas,1
+of,1

@@ -1,0 +1,6 @@
+5,76,2
+69,1
+transvaal,1
+indians,1
+and,1
+permits,1

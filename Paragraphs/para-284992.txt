@@ -1,0 +1,6 @@
+76,130,5
+162,1
+letter,1
+to,1
+gladys,1
+owen,1

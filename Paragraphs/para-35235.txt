@@ -1,0 +1,11 @@
+11,200,11
+mr,1
+gandhi,1
+was,1
+eventually,1
+asked,1
+to,2
+interpret,1
+the,2
+charge,1
+accused,1

@@ -1,0 +1,6 @@
+53,206,4
+218,1
+need,1
+for,1
+feeling,1
+helpless,1

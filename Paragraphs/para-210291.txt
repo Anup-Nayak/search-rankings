@@ -1,0 +1,10 @@
+58,312,12
+versed,1
+in,1
+sanskrit,1
+religious,1
+lore,1
+it,1
+seeks,1
+to,1
+restore,1

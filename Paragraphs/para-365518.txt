@@ -1,0 +1,7 @@
+94,292,2
+1,1
+who,1
+was,1
+down,1
+with,1
+fever,1

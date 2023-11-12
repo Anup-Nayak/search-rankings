@@ -1,0 +1,10 @@
+39,25,3
+union,1
+theological,1
+seminary,1
+broadway,1
+at,1
+120th,1
+street,1
+new,1
+york,1

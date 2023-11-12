@@ -1,0 +1,15 @@
+30,143,10
+1,1
+the,3
+postmark,1
+bears,1
+date,2
+january,2
+26,1
+1925,1
+saturday,1
+preceding,1
+this,1
+fell,1
+on,1
+24,1

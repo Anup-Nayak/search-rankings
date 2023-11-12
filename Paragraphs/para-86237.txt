@@ -1,0 +1,12 @@
+25,318,3
+a,1
+remarkable,1
+proof,1
+of,1
+the,2
+fact,1
+is,1
+furnished,1
+by,1
+following,1
+1,1

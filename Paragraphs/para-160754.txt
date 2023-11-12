@@ -1,0 +1,13 @@
+46,287,9
+what,1
+in,1
+your,1
+opinion,1
+should,1
+be,2
+considered,1
+to,1
+the,1
+proper,1
+age,1
+limit,1

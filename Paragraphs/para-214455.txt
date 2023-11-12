@@ -1,0 +1,8 @@
+59,238,14
+1,1
+gandhijis,1
+co,1
+worker,1
+in,1
+champaran,1
+vide,1

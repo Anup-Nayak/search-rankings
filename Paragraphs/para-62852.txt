@@ -1,0 +1,5 @@
+18,11,7
+1,1
+district,1
+magistrate,1
+ahmedabad,1

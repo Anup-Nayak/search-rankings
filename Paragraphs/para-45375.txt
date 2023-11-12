@@ -1,0 +1,8 @@
+13,439,8
+white,1
+and,1
+indian,1
+would,1
+do,1
+anything,1
+within,1

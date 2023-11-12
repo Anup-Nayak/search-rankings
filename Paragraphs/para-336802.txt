@@ -1,0 +1,8 @@
+87,338,5
+was,2
+due,1
+yesterday,1
+anxious,1
+know,1
+whether,1
+it,1

@@ -1,0 +1,14 @@
+86,93,3
+dear,1
+friend,1
+your,1
+letter,1
+i,2
+must,1
+see,1
+the,1
+naturopath,1
+face,2
+to,1
+before,1
+move,1

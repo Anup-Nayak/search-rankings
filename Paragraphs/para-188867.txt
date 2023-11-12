@@ -1,0 +1,7 @@
+53,251,15
+and,1
+the,3
+congress,1
+regarding,1
+interpretation,1
+of,1

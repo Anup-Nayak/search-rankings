@@ -1,0 +1,14 @@
+24,465,18
+that,1
+human,1
+ingenuity,1
+could,2
+devise,1
+they,1
+deceive,1
+god,1
+it,1
+was,1
+idle,1
+to,2
+continue,1

@@ -1,0 +1,14 @@
+96,232,11
+anothers,1
+company,1
+and,1
+returned,1
+to,2
+their,1
+own,1
+homes,1
+live,1
+as,1
+before,1
+without,1
+that,1

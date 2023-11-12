@@ -1,0 +1,13 @@
+46,57,16
+of,2
+nature,1
+in,1
+the,2
+grand,1
+canyon,1
+arizona,1
+desert,1
+where,1
+time,1
+itself,1
+has,1

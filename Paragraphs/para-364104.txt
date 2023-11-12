@@ -1,0 +1,7 @@
+94,115,15
+reformers,1
+or,1
+servants,1
+of,1
+the,1
+people,1

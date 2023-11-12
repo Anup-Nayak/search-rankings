@@ -1,0 +1,14 @@
+84,304,13
+pyarelal,1
+mrs,1
+k,1
+l,1
+rallia,1
+ram,1
+5,1
+mason,1
+road,1
+lahore,1
+n,1
+w,1
+rly,1

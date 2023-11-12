@@ -1,0 +1,16 @@
+23,24,7
+swaraj,1
+if,1
+they,2
+could,1
+not,1
+collect,1
+that,1
+sum,1
+then,1
+would,1
+prove,1
+their,1
+unfitness,1
+for,1
+the,1

@@ -1,0 +1,10 @@
+53,203,11
+their,1
+ability,1
+without,1
+having,1
+to,1
+borrow,1
+no,1
+coercion,1
+would,1

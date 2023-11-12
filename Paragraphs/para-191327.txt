@@ -1,0 +1,6 @@
+54,50,7
+mr,1
+gandhi,1
+i,1
+think,1
+so,1

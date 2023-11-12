@@ -1,0 +1,16 @@
+57,440,8
+1,1
+the,1
+system,1
+of,1
+primary,1
+elections,1
+and,1
+reserved,1
+seats,1
+should,1
+terminate,1
+automatically,1
+after,1
+10,1
+years,1

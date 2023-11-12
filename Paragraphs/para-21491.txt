@@ -1,0 +1,10 @@
+7,236,5
+syed,1
+mustafa,1
+ahmed,1
+jell,1
+and,1
+19,1
+other,1
+turkish,1
+mahomedans,1

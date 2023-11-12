@@ -1,0 +1,13 @@
+16,480,10
+19,1
+a,1
+widespread,1
+discontent,1
+is,1
+manifest,1
+among,1
+the,2
+raiyats,1
+in,1
+respect,1
+of,1

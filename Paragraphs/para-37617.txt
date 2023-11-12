@@ -1,0 +1,14 @@
+11,440,5
+1,1
+from,1
+the,3
+contents,1
+it,1
+appears,1
+that,1
+letter,1
+was,1
+written,1
+before,1
+item,1
+following,1

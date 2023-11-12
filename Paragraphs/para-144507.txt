@@ -1,0 +1,6 @@
+42,198,2
+yours,1
+sincerely,1
+enclosure,1
+10,1
+sheets,1

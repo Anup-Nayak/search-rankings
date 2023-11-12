@@ -1,0 +1,6 @@
+90,1,2
+2,1
+telegram,1
+to,1
+s,1
+salivati,1

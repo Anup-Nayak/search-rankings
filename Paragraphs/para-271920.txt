@@ -1,0 +1,13 @@
+73,66,5
+members,1
+only,1
+a,1
+muslim,2
+can,1
+persuade,1
+another,1
+if,1
+the,1
+latter,1
+misbehaves,1
+and,1

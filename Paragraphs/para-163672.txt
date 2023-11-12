@@ -1,0 +1,9 @@
+47,151,17
+said,1
+did,1
+you,1
+hurt,1
+yourself,1
+my,1
+dear,1
+son,1

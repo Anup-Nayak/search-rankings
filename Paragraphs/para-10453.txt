@@ -1,0 +1,10 @@
+4,287,6
+dear,1
+sheth,1
+shri,2
+umar,1
+haji,1
+amod,1
+and,1
+adamji,1
+miankhan,1

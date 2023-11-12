@@ -1,0 +1,11 @@
+18,436,5
+1,1
+the,2
+question,1
+and,1
+answer,1
+are,1
+reproduced,1
+from,1
+young,1
+india,1

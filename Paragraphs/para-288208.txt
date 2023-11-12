@@ -1,0 +1,12 @@
+77,34,10
+not,2
+that,1
+it,1
+does,1
+exist,1
+but,1
+its,1
+proper,1
+solution,1
+can,1
+only,1

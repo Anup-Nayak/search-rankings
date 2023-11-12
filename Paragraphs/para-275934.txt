@@ -1,0 +1,6 @@
+74,26,3
+44,1
+telegram,1
+to,1
+humayun,1
+kabir,1

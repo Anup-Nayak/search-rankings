@@ -1,0 +1,13 @@
+51,441,7
+i,1
+will,2
+not,1
+trouble,1
+you,1
+with,1
+more,1
+details,1
+the,1
+girls,1
+write,1
+themselves,1

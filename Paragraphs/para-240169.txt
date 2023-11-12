@@ -1,0 +1,16 @@
+65,299,10
+i,3
+do,2
+not,2
+know,2
+your,1
+magazine,1
+rarely,1
+send,1
+messages,1
+to,2
+newspapers,1
+and,1
+never,1
+those,1
+which,1

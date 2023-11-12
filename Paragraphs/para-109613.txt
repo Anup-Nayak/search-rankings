@@ -1,0 +1,6 @@
+32,309,11
+198,1
+why,1
+not,1
+surrender,1
+completely,1

@@ -1,0 +1,5 @@
+9,292,2
+177,1
+the,1
+transvaal,1
+struggle,1

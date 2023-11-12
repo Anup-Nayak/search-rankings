@@ -1,0 +1,15 @@
+36,470,5
+1,1
+a,1
+tight,1
+fitting,1
+coat,1
+of,1
+relatively,1
+thin,1
+cloth,1
+fastened,1
+with,1
+laces,1
+2,1
+cushion,1

@@ -1,0 +1,13 @@
+6,504,4
+1,1
+the,1
+new,1
+law,1
+does,1
+not,1
+apply,1
+to,2
+malays,1
+but,1
+applies,1
+indians,1

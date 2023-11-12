@@ -1,0 +1,6 @@
+98,388,6
+442,1
+letter,1
+to,1
+vasumati,1
+pandit2,1

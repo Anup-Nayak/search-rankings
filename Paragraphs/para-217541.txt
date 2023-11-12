@@ -1,0 +1,9 @@
+60,54,5
+1,2
+kabuli,1
+zulam,1
+published,1
+in,1
+harijan,1
+4,1
+1933,1

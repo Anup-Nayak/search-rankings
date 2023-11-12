@@ -1,0 +1,13 @@
+64,224,4
+but,1
+irrespective,1
+of,1
+what,1
+the,2
+municipalities,1
+might,1
+do,2
+or,1
+fail,1
+to,1
+sangh,1

@@ -1,0 +1,10 @@
+94,141,2
+r,1
+we,2
+should,1
+receive,1
+compensation,1
+for,1
+whatever,1
+have,1
+lost,1

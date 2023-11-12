@@ -1,0 +1,11 @@
+77,19,2
+1,1
+e,1
+w,1
+aryanayakam,1
+secretary,1
+of,1
+the,1
+hindustani,1
+talimi,1
+sangh,1

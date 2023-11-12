@@ -1,0 +1,14 @@
+23,336,11
+had,2
+got,2
+swaraj,1
+they,2
+might,1
+take,1
+it,2
+that,1
+not,1
+when,1
+everyone,1
+of,1
+them,1

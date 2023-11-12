@@ -1,0 +1,13 @@
+64,2,5
+q,1
+how,1
+do,1
+you,1
+look,1
+upon,1
+the,3
+emergence,1
+of,1
+socialist,1
+group,1
+within,1

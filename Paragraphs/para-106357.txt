@@ -1,0 +1,15 @@
+31,254,1
+other,2
+contributions,2
+from,2
+manavadar,1
+rs,1
+1,1
+100,1
+shri,1
+jivanlal,1
+chorwad,2
+2,2
+500,2
+200,1
+veraval,1

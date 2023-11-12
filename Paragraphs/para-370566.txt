@@ -1,0 +1,16 @@
+96,101,18
+self,1
+control,1
+that,1
+even,1
+black,1
+markets,1
+are,1
+not,1
+able,1
+to,1
+hold,1
+their,1
+own,1
+our,1
+culture,1

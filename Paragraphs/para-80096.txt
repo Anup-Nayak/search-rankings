@@ -1,0 +1,17 @@
+23,302,11
+sorry,1
+he,1
+was,2
+so,1
+very,1
+late,1
+in,1
+coming,1
+to,1
+the,2
+meeting,1
+but,1
+fact,1
+that,1
+his,1
+motor,1

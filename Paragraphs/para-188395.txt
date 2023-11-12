@@ -1,0 +1,16 @@
+53,210,3
+a,2
+i,2
+am,2
+not,1
+in,1
+position,1
+to,2
+disclose,1
+the,2
+viceroys,1
+reply,1
+awaiting,1
+permission,1
+publish,1
+correspondence,1

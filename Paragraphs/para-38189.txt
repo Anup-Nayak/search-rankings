@@ -1,0 +1,9 @@
+11,501,7
+13,1
+for,1
+licensing,1
+and,1
+regulating,1
+kaffir,1
+eating,1
+houses,1

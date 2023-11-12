@@ -1,0 +1,9 @@
+10,336,13
+2,1
+written,1
+in,1
+gujarati,1
+to,1
+a,1
+mahomedan,1
+correspondent,1

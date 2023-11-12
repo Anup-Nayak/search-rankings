@@ -1,0 +1,8 @@
+23,307,2
+what,1
+should,1
+parsis,1
+do,1
+observer,1
+next,1
+asks,1

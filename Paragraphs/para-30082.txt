@@ -1,0 +1,7 @@
+10,23,8
+authorising,1
+governor,1
+make,1
+regulations,1
+fixing,1
+limit,1

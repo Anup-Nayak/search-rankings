@@ -1,0 +1,7 @@
+65,190,7
+249,1
+letter,1
+to,1
+m,1
+v,1
+abhyankar,1

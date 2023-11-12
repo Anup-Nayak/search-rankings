@@ -1,0 +1,7 @@
+77,188,4
+political,1
+prisoner,1
+seriously,1
+declining,1
+would,1
+urge,1

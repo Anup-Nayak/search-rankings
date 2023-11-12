@@ -1,0 +1,7 @@
+47,436,5
+tens,1
+of,1
+thousands,1
+who,1
+cannot,1
+understand,1

@@ -1,0 +1,12 @@
+57,83,18
+1,1
+from,2
+diary,1
+1932,1
+2,1
+the,3
+placing,1
+of,1
+item,1
+in,1
+source,1

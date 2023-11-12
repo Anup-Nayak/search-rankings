@@ -1,0 +1,6 @@
+44,480,13
+t2,1
+guj,1
+has,1
+the,1
+transvaal,1

@@ -1,0 +1,13 @@
+49,181,20
+gandhiji,1
+next,1
+exhorted,1
+the,1
+villagers,1
+to,1
+spin,1
+and,1
+weave,1
+their,1
+own,1
+cloth,1

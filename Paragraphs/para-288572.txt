@@ -1,0 +1,7 @@
+77,74,1
+93,1
+interview,1
+to,1
+the,1
+manchester,1
+guardian,1

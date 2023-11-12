@@ -1,0 +1,12 @@
+20,442,18
+mulk,1
+lala,1
+shankar,1
+lal,1
+maulana,2
+shah,1
+suleman,1
+shaukat,1
+ali,1
+messrs,1
+umar,1

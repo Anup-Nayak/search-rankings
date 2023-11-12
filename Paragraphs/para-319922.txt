@@ -1,0 +1,10 @@
+84,67,4
+ask,1
+her,2
+to,2
+write,1
+me,1
+in,1
+detail,1
+about,1
+activities,1

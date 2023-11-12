@@ -1,0 +1,12 @@
+17,413,8
+mahatma,1
+gandhi,1
+was,1
+deeply,1
+affected,1
+by,1
+the,2
+news,1
+of,1
+disturbances,1
+that,1

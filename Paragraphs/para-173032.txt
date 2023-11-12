@@ -1,0 +1,15 @@
+49,402,1
+write,1
+to,1
+me,2
+again,1
+if,1
+you,1
+experience,1
+any,1
+difficulty,1
+in,1
+reading,1
+this,1
+let,1
+know,1

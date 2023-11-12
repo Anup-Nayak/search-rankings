@@ -1,0 +1,7 @@
+76,3,6
+vallabhram,1
+vaidya,1
+dhanwantari,1
+bhavan,1
+raipur,1
+ahmedabad,1

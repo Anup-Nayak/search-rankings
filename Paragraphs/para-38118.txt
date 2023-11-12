@@ -1,0 +1,5 @@
+11,495,5
+paraphrase,1
+of,1
+harcourts,1
+reply,1

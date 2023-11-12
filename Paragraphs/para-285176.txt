@@ -1,0 +1,5 @@
+76,148,1
+191,1
+letter,1
+to,1
+dunichand,1

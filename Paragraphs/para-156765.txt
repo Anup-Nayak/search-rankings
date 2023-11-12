@@ -1,0 +1,5 @@
+45,265,3
+250,1
+purdah,1
+and,1
+sunlight,1

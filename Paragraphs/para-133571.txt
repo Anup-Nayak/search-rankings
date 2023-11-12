@@ -1,0 +1,7 @@
+39,75,3
+srimati,1
+manorama,1
+devi,1
+chandisahi,1
+cuttack,1
+orissa,1

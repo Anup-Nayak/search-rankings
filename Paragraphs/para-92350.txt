@@ -1,0 +1,6 @@
+27,243,14
+court,1
+arrest,1
+without,1
+proper,1
+arrangements,1

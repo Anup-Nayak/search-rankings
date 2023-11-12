@@ -1,0 +1,4 @@
+15,171,2
+vow,1
+of,1
+fearlessness,1

@@ -1,0 +1,7 @@
+62,72,9
+5,1
+of,1
+the,1
+gandhi,1
+seva,1
+sangh,1

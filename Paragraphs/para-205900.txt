@@ -1,0 +1,15 @@
+57,300,4
+1,1
+he,1
+had,1
+asked,1
+which,1
+religion,1
+in,1
+gandhijis,1
+view,1
+was,1
+nearest,1
+to,1
+the,1
+truth,1

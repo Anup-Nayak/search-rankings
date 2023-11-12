@@ -1,0 +1,15 @@
+94,48,7
+gandhiji,1
+oh,1
+dont,1
+stand,1
+up,1
+you,2
+were,1
+the,1
+chief,1
+minister,1
+when,1
+i,1
+met,1
+last,1

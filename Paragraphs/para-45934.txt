@@ -1,0 +1,8 @@
+14,9,12
+trol,1
+colleagues,1
+matters,1
+policy,1
+commission,1
+not,1
+merely,1

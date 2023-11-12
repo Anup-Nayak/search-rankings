@@ -1,0 +1,6 @@
+12,288,4
+243,1
+gandhi,1
+under,1
+detention,1
+1,1

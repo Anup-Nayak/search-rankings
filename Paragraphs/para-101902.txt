@@ -1,0 +1,8 @@
+30,89,5
+gandhi,1
+amrita,1
+bazar,1
+patrika,1
+16,1
+1,1
+1925,1

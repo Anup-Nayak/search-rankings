@@ -1,0 +1,9 @@
+33,375,10
+case,1
+better,1
+stay,1
+till,1
+fate,1
+known,1
+union,1
+parliament,1

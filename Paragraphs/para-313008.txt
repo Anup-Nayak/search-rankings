@@ -1,0 +1,6 @@
+82,261,13
+thumb,1
+impression,1
+must,1
+be,1
+given,1

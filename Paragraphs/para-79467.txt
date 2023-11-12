@@ -1,0 +1,11 @@
+23,186,16
+spirituous,1
+liquors,1
+and,3
+other,1
+such,1
+cruel,1
+deceivers,1
+spreaders,1
+of,1
+vice,1

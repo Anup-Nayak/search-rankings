@@ -1,0 +1,9 @@
+71,132,12
+a,2
+refusal,1
+to,2
+submit,1
+his,1
+interpretation,1
+examination,1
+by,1

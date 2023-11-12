@@ -1,0 +1,7 @@
+35,30,7
+50,1
+letter,1
+to,1
+pranjivan,1
+k,1
+desai,1

@@ -1,0 +1,14 @@
+23,102,3
+5,1
+he,1
+was,1
+persecuted,1
+by,1
+his,1
+father,1
+hiranyakashipu,1
+for,1
+worshipping,1
+vishnu,1
+6,1
+demon,1

@@ -1,0 +1,7 @@
+40,339,18
+station,2
+going,1
+direct,1
+from,1
+taking,1
+boat,1

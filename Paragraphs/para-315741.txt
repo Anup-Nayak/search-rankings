@@ -1,0 +1,12 @@
+82,415,31
+is,1
+not,1
+democratic,1
+i,2
+want,2
+to,3
+save,1
+china,2
+no,1
+harm,1
+come,1

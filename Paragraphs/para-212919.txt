@@ -1,0 +1,7 @@
+59,70,1
+102,1
+letter,1
+to,1
+karnad,1
+sadashiva,1
+rao,1

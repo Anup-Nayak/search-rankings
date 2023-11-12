@@ -1,0 +1,9 @@
+8,42,2
+the,1
+magistrate,1
+but,1
+you,1
+have,1
+put,1
+on,1
+one,1

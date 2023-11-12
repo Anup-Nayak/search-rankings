@@ -1,0 +1,14 @@
+36,86,9
+it,1
+is,1
+a,1
+singularly,1
+false,1
+notion,1
+writes,1
+dr,1
+e,1
+perier,1
+and,1
+one,1
+which,1

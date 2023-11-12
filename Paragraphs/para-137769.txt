@@ -1,0 +1,13 @@
+40,226,2
+a,1
+voice,1
+shame,2
+but,1
+there,1
+is,1
+no,1
+warrant,1
+for,1
+crying,1
+the,1
+gentleman,1

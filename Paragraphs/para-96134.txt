@@ -1,0 +1,16 @@
+28,325,5
+defect,1
+in,1
+the,2
+present,1
+educational,1
+system,1
+should,1
+also,1
+boycott,1
+it,1
+even,1
+if,1
+medicines,1
+to,1
+be,1

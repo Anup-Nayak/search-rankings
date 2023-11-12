@@ -1,0 +1,8 @@
+43,40,10
+m,1
+amy,1
+turtore,1
+camollia,1
+47,1
+siena,1
+italy,1

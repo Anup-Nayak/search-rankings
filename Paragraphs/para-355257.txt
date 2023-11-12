@@ -1,0 +1,4 @@
+92,70,9
+gilder,1
+minister,1
+poona,1

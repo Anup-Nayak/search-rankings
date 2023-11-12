@@ -1,0 +1,11 @@
+82,377,7
+q,1
+but,1
+to,2
+whom,1
+are,1
+the,1
+british,1
+sayindia,1
+is,1
+free,1

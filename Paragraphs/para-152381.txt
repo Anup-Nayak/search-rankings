@@ -1,0 +1,13 @@
+44,86,14
+test,1
+however,1
+low,1
+it,1
+was,2
+an,1
+indifferent,1
+and,1
+inadequate,1
+makeshift,1
+which,1
+excluded,1

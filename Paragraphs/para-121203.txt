@@ -1,0 +1,6 @@
+35,457,1
+575,1
+letter,1
+to,1
+shaligram,1
+shastri,1

@@ -1,0 +1,13 @@
+72,2,8
+1,1
+the,2
+addressee,1
+has,1
+noted,1
+on,1
+telegram,1
+yesacceptance,1
+of,1
+office,1
+by,1
+congress,1

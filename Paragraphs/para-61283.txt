@@ -1,0 +1,8 @@
+17,294,10
+4,1
+in,1
+gujarati,1
+the,1
+stanza,1
+rhymes,1
+aabb,1

@@ -1,0 +1,6 @@
+49,460,18
+bihar,1
+1,1
+77,1
+girivardhari,1
+chaudhari,1

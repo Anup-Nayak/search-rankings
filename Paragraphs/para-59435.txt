@@ -1,0 +1,9 @@
+17,73,27
+such,1
+provocative,1
+language,1
+is,1
+calculated,1
+to,1
+raise,1
+a,1

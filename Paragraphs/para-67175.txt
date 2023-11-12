@@ -1,0 +1,17 @@
+19,194,7
+as,1
+distinct,1
+from,1
+european,1
+philosophy,1
+we,1
+shall,1
+be,1
+guilty,1
+of,2
+a,1
+breach,1
+trust,1
+mr,1
+andrews,1
+proceeds,1

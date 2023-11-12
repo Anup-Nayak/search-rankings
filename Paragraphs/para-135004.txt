@@ -1,0 +1,5 @@
+39,283,5
+pirghaib,1
+moradabad,1
+u,1
+p,1

@@ -1,0 +1,13 @@
+31,33,16
+he,1
+had,2
+discussed,1
+these,1
+things,1
+with,1
+many,1
+physicians,1
+and,1
+they,1
+nodded,1
+assent,1

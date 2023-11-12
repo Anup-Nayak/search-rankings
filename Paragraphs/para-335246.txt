@@ -1,0 +1,7 @@
+87,186,9
+316,1
+letter,1
+to,1
+jugal,1
+kishore,1
+birla,1

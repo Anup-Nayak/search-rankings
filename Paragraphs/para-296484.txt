@@ -1,0 +1,7 @@
+79,73,5
+77,1
+letter,1
+to,1
+narahari,1
+d,1
+parikh,1

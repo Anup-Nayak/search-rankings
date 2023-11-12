@@ -1,0 +1,14 @@
+59,428,6
+or,1
+who,1
+are,1
+in,1
+need,1
+of,1
+some,1
+occupation,1
+that,1
+would,1
+maintain,1
+them,1
+decently,1

@@ -1,0 +1,15 @@
+8,220,2
+q,1
+before,1
+the,2
+recent,1
+registration,2
+law,1
+was,2
+brought,1
+into,1
+force,1
+what,1
+system,1
+of,1
+adopted,1

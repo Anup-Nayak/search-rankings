@@ -1,0 +1,17 @@
+81,456,1
+soldier,1
+who,1
+comes,1
+to,1
+me,2
+with,2
+hands,1
+red,1
+murder,1
+my,1
+humanity,1
+would,1
+not,1
+let,1
+do,1
+otherwise,1

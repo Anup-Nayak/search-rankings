@@ -1,0 +1,11 @@
+30,67,7
+1,1
+a,1
+backward,1
+community,1
+in,1
+gujarat,1
+2,1
+bhagavad,1
+gita,1
+ii,1

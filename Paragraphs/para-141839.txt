@@ -1,0 +1,9 @@
+41,329,10
+never,1
+in,1
+this,1
+world,1
+does,1
+hatred,2
+cease,1
+by,1

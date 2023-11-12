@@ -1,0 +1,6 @@
+43,50,4
+vallabhbhai,1
+gone,1
+bardoli,1
+difficult,1
+leave,1

@@ -1,0 +1,6 @@
+79,243,3
+ghanshyamdas,1
+birla,1
+care,1
+lucky,1
+calcutta,1

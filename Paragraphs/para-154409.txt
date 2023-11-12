@@ -1,0 +1,10 @@
+44,490,9
+t4,1
+guj,1
+adds,1
+throwing,1
+left,1
+overs,1
+on,1
+the,1
+floor,1

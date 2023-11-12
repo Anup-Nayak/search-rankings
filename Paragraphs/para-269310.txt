@@ -1,0 +1,11 @@
+72,264,2
+blessings,1
+from,2
+bapu,1
+sardar,1
+vallabhbhai,1
+patel,1
+swarajya,1
+ashram,1
+bardoli,1
+gujarati,1

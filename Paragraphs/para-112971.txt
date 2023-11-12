@@ -1,0 +1,13 @@
+33,310,7
+a,1
+student,1
+who,1
+is,1
+carrying,1
+on,1
+post,1
+graduate,1
+studies,1
+in,1
+america,1
+writes,1

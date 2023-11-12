@@ -1,0 +1,7 @@
+59,197,6
+290,1
+letter,1
+to,1
+r,1
+venkata,1
+sivudu,1

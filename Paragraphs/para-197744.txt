@@ -1,0 +1,10 @@
+55,335,3
+i,2
+do,1
+not,1
+know,1
+that,1
+would,1
+share,1
+lilamanis,1
+enthusiasm,1

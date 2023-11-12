@@ -1,0 +1,14 @@
+80,489,3
+gandhiji,1
+it,1
+is,3
+not,1
+necessary,1
+khan,1
+saheb,1
+for,1
+pure,1
+non,1
+violence,1
+maulana,1
+also,1

@@ -1,0 +1,12 @@
+83,213,1
+capacity,1
+to,1
+wage,1
+war,1
+of,2
+safeguarding,1
+indias,1
+interests,1
+holding,1
+the,1
+balance,1

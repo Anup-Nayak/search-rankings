@@ -1,0 +1,13 @@
+31,152,10
+character,1
+of,1
+the,3
+swarajists,1
+in,1
+councils,1
+and,1
+assembly,1
+mahatmaji,1
+said,1
+that,1
+he,1

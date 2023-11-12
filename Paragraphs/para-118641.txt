@@ -1,0 +1,5 @@
+35,148,1
+understand,1
+it,1
+from,1
+him,1

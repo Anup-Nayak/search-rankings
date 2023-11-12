@@ -1,0 +1,13 @@
+27,428,18
+frequent,1
+in,2
+the,1
+country,1
+not,1
+only,1
+connection,1
+with,1
+political,1
+grievances,1
+but,1
+purely,1

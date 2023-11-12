@@ -1,0 +1,5 @@
+39,366,2
+367,1
+welcome,1
+good,1
+samaritan,1

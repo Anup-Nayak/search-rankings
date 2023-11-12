@@ -1,0 +1,3 @@
+72,494,9
+mahatma,1
+gandhi,1

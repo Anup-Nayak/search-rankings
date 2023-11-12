@@ -1,0 +1,7 @@
+47,387,20
+very,1
+advisable,1
+though,1
+not,1
+absolutely,1
+neces,1

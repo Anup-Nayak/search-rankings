@@ -1,0 +1,5 @@
+46,17,3
+13,1
+alcoholism,1
+of,1
+thought,1

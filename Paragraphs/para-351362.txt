@@ -1,0 +1,12 @@
+91,93,7
+1,1
+this,1
+and,1
+the,2
+following,1
+two,1
+letters,1
+are,1
+in,1
+devangari,1
+script,1

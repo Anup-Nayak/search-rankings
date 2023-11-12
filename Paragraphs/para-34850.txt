@@ -1,0 +1,9 @@
+11,153,4
+husband,1
+reduced,1
+poverty,1
+and,1
+broke,1
+up,1
+natal,1
+home,1

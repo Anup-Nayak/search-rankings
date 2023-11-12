@@ -1,0 +1,9 @@
+22,290,3
+the,1
+fifth,1
+question,1
+this,1
+friend,1
+has,1
+put,1
+thus,1

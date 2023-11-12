@@ -1,0 +1,8 @@
+87,148,17
+congress,1
+has,1
+never,1
+identified,1
+itself,1
+with,1
+caste,1

@@ -9,13 +9,17 @@ using namespace std;
 
 void insert(int bcode,int pageno,int parano,Node* head);
 
-struct para
-{   //removed left,right
+class para
+{   
+public:
     int b_code;
     int page_no;
     int para_no;
-    Dict d;
-    double score;
+    Dict* d;
+    // trie* t;
+    double score=0;
+    para();
+    ~para();
 };
 
 class QNA_tool {
@@ -25,15 +29,16 @@ private:
     void query_llm(string filename, Node* root, int k, string API_KEY, string question);
     
     void csv_process(string& word,long long& freq);
+    void mkg_process(string& word,int& freq);
     void heapifyup(vector<para*> &v,int idx);
     void heapifydn(vector<para*> &v,int idx,int sz);
     void Sort(vector<para*> &corpus,int k);
     bool is_separator(char x);
 
-    vector<para*> corpus;
+    vector<para*> corpus=vector<para*>(380996);
     trie csv;
-    Dict words;
-    int cor_size;
+    trie mkg;
+    uint cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
 

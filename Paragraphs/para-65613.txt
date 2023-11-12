@@ -1,0 +1,8 @@
+18,443,6
+320,1
+speech,1
+at,1
+kathiawar,1
+patidar,1
+conference,1
+2,1

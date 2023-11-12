@@ -1,0 +1,8 @@
+55,257,4
+doctor,1
+permitting,1
+amtulsalam,1
+may,1
+come,1
+saturday,1
+one,1

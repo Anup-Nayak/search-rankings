@@ -1,0 +1,7 @@
+75,42,6
+bardoli,1
+before,1
+february,1
+6,1
+1939,1
+3,1

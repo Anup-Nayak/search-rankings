@@ -1,0 +1,8 @@
+13,370,12
+crossing,1
+border,1
+have,1
+been,1
+moving,1
+among,1
+labourers,1

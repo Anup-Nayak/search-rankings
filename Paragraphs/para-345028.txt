@@ -1,0 +1,12 @@
+89,281,1
+be,1
+taken,1
+to,1
+eradicate,1
+the,1
+epidemic,1
+of,1
+foreign,1
+prejudice,1
+against,1
+us,1

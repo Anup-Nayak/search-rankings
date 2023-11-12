@@ -1,0 +1,9 @@
+49,339,10
+1,1
+the,1
+addressees,1
+mother,1
+had,1
+undergone,1
+an,1
+operation,1

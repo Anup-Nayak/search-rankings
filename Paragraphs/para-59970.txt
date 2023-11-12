@@ -1,0 +1,8 @@
+17,143,0
+144,1
+the,1
+collected,1
+works,1
+of,1
+mahatma,1
+gandhi,1

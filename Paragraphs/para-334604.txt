@@ -1,0 +1,9 @@
+87,132,7
+then,1
+say,1
+that,1
+there,1
+are,1
+no,1
+caste,2
+and,1

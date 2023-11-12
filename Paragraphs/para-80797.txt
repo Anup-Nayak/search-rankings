@@ -1,0 +1,11 @@
+23,417,2
+i,1
+have,1
+been,1
+the,2
+editor,1
+of,1
+karmavir,1
+published,1
+from,1
+jabalpur,1

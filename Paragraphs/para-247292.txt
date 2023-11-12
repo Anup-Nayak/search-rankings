@@ -1,0 +1,5 @@
+67,50,3
+83,1
+village,1
+workers,1
+questions,1

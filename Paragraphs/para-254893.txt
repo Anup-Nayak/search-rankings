@@ -1,0 +1,14 @@
+68,399,13
+1,1
+kanti,1
+gandhi,2
+and,1
+kanu,1
+2,1
+a,1
+prominent,1
+social,1
+worker,1
+from,1
+u,1
+p,1

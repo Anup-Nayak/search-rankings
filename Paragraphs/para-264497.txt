@@ -1,0 +1,10 @@
+71,132,24
+goal,1
+even,1
+by,1
+taking,1
+office,1
+i,1
+wish,1
+everyone,1
+concerned,1

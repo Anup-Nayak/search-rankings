@@ -1,0 +1,8 @@
+76,162,3
+leaving,1
+twentysixth,1
+frontier,1
+mail,1
+join,1
+us,1
+jhelum,1

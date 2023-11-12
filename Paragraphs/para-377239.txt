@@ -1,0 +1,12 @@
+98,39,10
+a,1
+i,1
+c,2
+who,1
+would,1
+act,1
+in,1
+the,1
+general,1
+way,1
+too,1

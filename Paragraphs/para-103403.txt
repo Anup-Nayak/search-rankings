@@ -1,0 +1,13 @@
+30,274,2
+1,1
+a,1
+system,1
+of,1
+yoga,1
+based,1
+upon,1
+physical,1
+exercises,1
+and,1
+complicated,1
+postures,1

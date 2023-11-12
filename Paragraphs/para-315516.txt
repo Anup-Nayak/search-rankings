@@ -1,0 +1,12 @@
+82,409,24
+english,2
+prose,1
+he,1
+always,1
+spoke,1
+a,2
+rich,1
+fluent,1
+with,1
+british,1
+university,1

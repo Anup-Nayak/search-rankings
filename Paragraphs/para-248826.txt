@@ -1,0 +1,11 @@
+67,203,10
+if,1
+i,1
+write,1
+so,1
+often,1
+your,1
+cards,1
+demand,1
+an,1
+answer,1

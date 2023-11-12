@@ -1,0 +1,8 @@
+86,65,11
+1,1
+of,1
+the,1
+addressees,1
+booklet,1
+to,1
+women,1

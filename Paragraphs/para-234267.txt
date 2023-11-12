@@ -1,0 +1,7 @@
+64,97,1
+whatever,1
+obstacles,1
+lay,1
+in,1
+their,1
+way,1

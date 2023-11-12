@@ -1,0 +1,12 @@
+28,502,1
+fish,1
+and,3
+fowl,1
+only,1
+islam,1
+eats,2
+the,3
+cow,1
+eschews,1
+pig,2
+hinduism,1

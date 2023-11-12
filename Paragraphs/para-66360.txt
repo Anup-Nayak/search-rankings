@@ -1,0 +1,9 @@
+19,73,2
+c/o,1
+sarla,1
+devi,1
+choudhrani,1
+lahore,1
+october,1
+24,1
+1919,1

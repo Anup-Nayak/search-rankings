@@ -1,0 +1,14 @@
+85,161,10
+dear,1
+sardar,1
+durlab,1
+singh,1
+2,1
+this,1
+is,1
+my,1
+answer,1
+to,1
+your,1
+questions,1
+3,1

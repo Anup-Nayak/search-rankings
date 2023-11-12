@@ -1,0 +1,9 @@
+65,422,7
+1,1
+the,1
+family,1
+house,1
+lacked,1
+air,1
+ant,1
+sunshine,1

@@ -1,0 +1,7 @@
+12,348,6
+reception,1
+by,1
+europieans,1
+in,1
+carlton,1
+hotel,1

@@ -1,0 +1,16 @@
+17,413,11
+an,1
+earnest,1
+appeal,1
+to,2
+the,1
+public,1
+refrain,1
+from,1
+acts,1
+of,1
+violence,1
+he,2
+added,1
+had,1
+been,1

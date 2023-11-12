@@ -1,0 +1,15 @@
+31,61,14
+reaching,1
+ashram,2
+tomorrow,1
+leaving,1
+same,1
+for,1
+kathiawar,1
+tuesday,1
+wire,1
+whether,1
+we,1
+can,1
+meet,1
+anywhere,1

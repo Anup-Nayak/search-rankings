@@ -1,0 +1,9 @@
+94,50,10
+humanity,1
+what,1
+is,1
+the,1
+true,1
+meaning,1
+of,1
+swadeshi,1

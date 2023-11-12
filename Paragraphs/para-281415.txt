@@ -1,0 +1,4 @@
+75,194,5
+244,1
+requisite,1
+qualifications,1

@@ -1,0 +1,15 @@
+5,342,3
+p,1
+o,1
+box,1
+6522,1
+johannesburg,1
+september,1
+12,1
+1906,1
+to,1
+his,1
+excellency,1
+the,1
+lieutenant,1
+governor,1

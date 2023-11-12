@@ -1,0 +1,12 @@
+33,20,26
+they,2
+had,1
+been,1
+introducing,1
+into,1
+the,2
+villages,1
+could,1
+not,1
+help,1
+remembering,1

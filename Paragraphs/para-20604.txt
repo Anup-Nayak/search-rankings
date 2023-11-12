@@ -1,0 +1,6 @@
+7,117,5
+heidelberg,1
+potchefstroom,1
+vereeniging,1
+middelburg,1
+krugersdorp,1

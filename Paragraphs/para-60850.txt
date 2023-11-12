@@ -1,0 +1,5 @@
+17,242,13
+2,1
+swami,1
+satyadev,1
+parivrajak,1

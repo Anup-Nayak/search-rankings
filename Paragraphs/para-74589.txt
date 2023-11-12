@@ -1,0 +1,8 @@
+21,356,2
+1,1
+the,2
+source,1
+has,1
+poorer,1
+for,1
+worse,1

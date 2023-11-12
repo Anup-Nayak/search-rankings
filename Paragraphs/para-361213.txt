@@ -1,0 +1,10 @@
+93,236,9
+better,1
+from,2
+here,1
+gandhi,1
+a,1
+photostat,1
+g,1
+n,1
+10526,1

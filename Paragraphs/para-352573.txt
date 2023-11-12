@@ -1,0 +1,4 @@
+91,230,6
+dear,1
+prime,1
+minister,1

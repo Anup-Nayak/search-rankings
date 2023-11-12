@@ -1,0 +1,3 @@
+86,55,6
+harijan,1
+chhatralaya,1

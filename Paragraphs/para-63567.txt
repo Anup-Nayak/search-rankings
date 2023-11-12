@@ -1,0 +1,10 @@
+18,110,4
+vandemataram,1
+from,1
+mohandas,1
+gandhi,1
+ganga,1
+swarup1,1
+behn,1
+gangabai,1
+meghaji2,1

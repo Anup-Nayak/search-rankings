@@ -1,0 +1,9 @@
+11,297,12
+stop,1
+am,1
+sorry,1
+he,1
+thinks,1
+submission,1
+respecting,1
+free,1

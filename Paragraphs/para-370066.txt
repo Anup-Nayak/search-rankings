@@ -1,0 +1,8 @@
+96,47,4
+69,1
+talk,1
+with,1
+mridula,1
+sarabhai,1
+and,1
+others,1

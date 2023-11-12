@@ -1,0 +1,8 @@
+11,361,14
+sorabji,1
+others,1
+going,1
+outside,1
+places,1
+explain,1
+position,1

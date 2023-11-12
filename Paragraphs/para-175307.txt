@@ -1,0 +1,6 @@
+50,176,7
+yeravda,1
+mandir,1
+october,1
+27,1
+1930,1

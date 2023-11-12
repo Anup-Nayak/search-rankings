@@ -1,0 +1,12 @@
+11,252,5
+cape,1
+by,1
+sea,1
+will,1
+be,1
+subject,1
+to,1
+education,1
+test,1
+ask,1
+ritch,1

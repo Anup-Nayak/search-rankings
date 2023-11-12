@@ -1,0 +1,8 @@
+13,440,7
+governments,1
+reply,1
+our,1
+letter,1
+received,1
+though,1
+re,1

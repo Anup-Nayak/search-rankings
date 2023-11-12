@@ -1,0 +1,8 @@
+51,411,1
+427,1
+foreign,1
+cloth,1
+and,1
+other,1
+british,1
+goods,1

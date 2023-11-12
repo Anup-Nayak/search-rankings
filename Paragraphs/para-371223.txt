@@ -1,0 +1,5 @@
+96,179,3
+259,1
+even,1
+proud,1
+gujarat,1

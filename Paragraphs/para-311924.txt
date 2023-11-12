@@ -1,0 +1,6 @@
+82,171,5
+the,1
+theory,1
+of,1
+trusteeship,1
+2,1

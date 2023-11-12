@@ -1,0 +1,13 @@
+98,401,7
+from,1
+a,1
+copy,1
+of,1
+the,1
+hindi,1
+in,1
+gujarati,1
+script,1
+g,1
+n,1
+9019,1

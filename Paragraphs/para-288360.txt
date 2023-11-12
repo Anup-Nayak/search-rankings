@@ -1,0 +1,8 @@
+77,50,12
+readiness,1
+to,1
+digest,1
+independence,1
+but,1
+the,1
+congress,1

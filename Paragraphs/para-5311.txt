@@ -1,0 +1,10 @@
+2,384,6
+1,1
+vide,1
+letter,1
+to,1
+town,1
+clerk,1
+september,1
+24,1
+1900,1

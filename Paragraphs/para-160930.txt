@@ -1,0 +1,15 @@
+46,310,11
+may,1
+i,1
+draw,1
+your,1
+attention,1
+to,1
+the,2
+sad,1
+plight,1
+of,1
+textile,1
+and,1
+other,1
+factory,1

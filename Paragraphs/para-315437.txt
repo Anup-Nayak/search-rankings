@@ -1,0 +1,12 @@
+82,407,16
+president,2
+of,1
+congress,1
+finally,1
+he,1
+did,1
+become,1
+although,1
+my,1
+views,1
+often,1

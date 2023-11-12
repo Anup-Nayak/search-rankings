@@ -1,0 +1,12 @@
+65,191,6
+shri,1
+birendra,1
+nath,1
+guha,1
+vidyashram,1
+b,1
+76,1
+college,1
+st,1
+market,1
+calcutta,1

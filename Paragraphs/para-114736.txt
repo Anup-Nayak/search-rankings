@@ -1,0 +1,5 @@
+34,93,2
+satyagraha,1
+v,1
+passive,1
+resistance,1

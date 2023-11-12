@@ -1,0 +1,4 @@
+42,363,2
+hindu,1
+muslim,1
+unity,1

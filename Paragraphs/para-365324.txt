@@ -1,0 +1,7 @@
+94,267,3
+care,1
+khadi,1
+pratisthan,1
+college,1
+square,1
+calcutta,1

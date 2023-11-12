@@ -1,0 +1,10 @@
+72,218,12
+1,1
+daughter,1
+of,1
+harilal,1
+gandhi,1
+2,1
+raliatbehn,1
+gandhijis,1
+sister,1

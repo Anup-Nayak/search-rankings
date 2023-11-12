@@ -1,0 +1,6 @@
+25,197,10
+86,1
+letter,1
+to,1
+shankerlal,1
+banker,1

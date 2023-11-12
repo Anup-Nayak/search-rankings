@@ -1,0 +1,12 @@
+39,340,3
+2,1
+a,1
+gujarati,1
+proverb,1
+meaning,1
+the,1
+highest,1
+achievement,1
+3,1
+scriptural,1
+utterance,1

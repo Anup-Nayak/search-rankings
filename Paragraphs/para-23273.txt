@@ -1,0 +1,11 @@
+8,40,6
+witness,1
+i,1
+am,1
+were,1
+you,1
+in,1
+the,2
+transvaal,1
+before,1
+war,1

@@ -1,0 +1,10 @@
+27,476,19
+as,2
+ill,1
+off,1
+the,1
+country,1
+folk,1
+are,1
+they,1
+not,1

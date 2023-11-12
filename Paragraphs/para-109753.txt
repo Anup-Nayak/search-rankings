@@ -1,0 +1,12 @@
+32,330,2
+148,1
+russa,1
+road,1
+calcutta,1
+bhadra,1
+sud,1
+4,1
+august,1
+23,1
+1925,1
+1,1

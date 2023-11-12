@@ -1,0 +1,11 @@
+72,196,7
+i,2
+am,2
+certainly,1
+opposed,1
+to,1
+the,1
+lahore,1
+abattoir,1
+4,1
+as,1

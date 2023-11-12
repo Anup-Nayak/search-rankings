@@ -1,0 +1,11 @@
+96,166,8
+my,1
+dear,1
+uma,1
+your,1
+letter,1
+i,2
+am,1
+doing,1
+all,1
+can,1

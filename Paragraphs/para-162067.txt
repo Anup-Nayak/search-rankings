@@ -1,0 +1,4 @@
+46,437,5
+udyoga,1
+mandir,1
+vijapur,1

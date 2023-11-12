@@ -1,0 +1,8 @@
+14,109,4
+i,1
+have,1
+your,1
+two,1
+letters,1
+and,1
+wire,1

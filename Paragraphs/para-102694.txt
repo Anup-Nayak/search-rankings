@@ -1,0 +1,11 @@
+30,200,18
+q,1
+you,2
+mentioned,1
+another,1
+hindu,1
+who,1
+was,1
+killed,1
+can,1
+say,1

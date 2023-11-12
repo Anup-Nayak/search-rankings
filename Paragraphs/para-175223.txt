@@ -1,0 +1,11 @@
+50,168,10
+1,1
+a,1
+baby,1
+boy,1
+2,1
+the,1
+word,1
+is,1
+illegible,1
+here,1

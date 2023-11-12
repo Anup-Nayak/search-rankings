@@ -1,0 +1,8 @@
+4,190,4
+we,1
+are,1
+told,1
+in,1
+the,1
+natal,1
+mercury,1

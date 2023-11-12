@@ -1,0 +1,8 @@
+76,50,13
+phsicians,1
+there,2
+well,1
+equipped,1
+hospitals,1
+also,1
+weather,1

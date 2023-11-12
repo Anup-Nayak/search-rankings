@@ -1,0 +1,13 @@
+28,68,7
+questioned,1
+if,1
+in,2
+view,1
+of,1
+his,1
+article,1
+the,2
+young,1
+india,1
+on,1
+congress,1

@@ -1,0 +1,7 @@
+34,170,4
+1,1
+the,1
+original,1
+has,1
+local,1
+government,1

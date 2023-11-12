@@ -1,0 +1,16 @@
+96,437,24
+choice,1
+of,1
+pakistan,1
+or,1
+india,1
+before,1
+its,1
+ruler,1
+but,1
+that,1
+this,1
+effect,1
+would,1
+be,1
+somewhat,1

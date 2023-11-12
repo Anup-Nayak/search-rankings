@@ -1,0 +1,10 @@
+50,12,8
+1,1
+industry,1
+here,1
+the,1
+ashram,1
+activities,1
+like,1
+spinning,1
+etc,1

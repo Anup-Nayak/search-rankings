@@ -1,0 +1,8 @@
+13,140,4
+free,1
+state,1
+and,1
+marriage,1
+difficulty,1
+left,1
+unsolved,1

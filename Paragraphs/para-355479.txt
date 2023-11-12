@@ -1,0 +1,8 @@
+92,91,13
+handloom,1
+cloth,1
+manufacturers,1
+and,1
+merchants,1
+association,1
+hoshiarpur,1

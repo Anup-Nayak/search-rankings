@@ -1,0 +1,5 @@
+88,23,6
+50,1
+letter,1
+to,1
+satyavati,1

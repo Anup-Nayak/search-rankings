@@ -1,0 +1,5 @@
+92,95,4
+142,1
+village,1
+industries,1
+exhibition,1

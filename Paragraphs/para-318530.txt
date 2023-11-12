@@ -1,0 +1,15 @@
+83,384,21
+well,1
+i,2
+have,1
+never,1
+believed,1
+in,1
+secrecy,1
+nor,1
+do,2
+so,1
+now,1
+there,1
+are,1
+certainly,1

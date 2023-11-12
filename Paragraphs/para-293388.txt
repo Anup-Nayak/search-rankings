@@ -1,0 +1,7 @@
+78,186,13
+glad,1
+hindu,1
+muslim,1
+repressentatives,1
+meeting,1
+restore,1

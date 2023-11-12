@@ -1,0 +1,13 @@
+70,34,1
+village,1
+too,1
+which,2
+i,1
+did,1
+not,1
+go,1
+seeking,1
+but,1
+came,1
+to,1
+me,1

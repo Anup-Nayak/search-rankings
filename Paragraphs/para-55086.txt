@@ -1,0 +1,16 @@
+16,30,3
+l,1
+in,2
+the,2
+case,1
+of,2
+turkaulia,1
+between,1
+limits,1
+20,1
+per,2
+cent,2
+and,1
+40,1
+reduction,1
+sharahbeshi,1

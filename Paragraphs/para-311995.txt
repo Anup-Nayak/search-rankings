@@ -1,0 +1,14 @@
+82,175,20
+motive,1
+i,1
+cannot,1
+understand,1
+how,1
+this,1
+can,1
+be,1
+reconciled,1
+with,1
+your,1
+teaching,1
+of,1

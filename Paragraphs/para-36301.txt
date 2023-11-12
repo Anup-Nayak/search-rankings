@@ -1,0 +1,9 @@
+11,298,3
+fact,1
+that,1
+whole,1
+struggle,1
+for,1
+principle,1
+and,1
+against,1

@@ -1,0 +1,16 @@
+82,235,10
+q,1
+you,1
+have,1
+advised,1
+evacuation,1
+from,1
+the,1
+cities,1
+of,1
+those,1
+who,1
+are,1
+not,1
+wanted,1
+for,1

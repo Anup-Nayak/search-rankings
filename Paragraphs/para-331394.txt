@@ -1,0 +1,7 @@
+86,266,6
+461,1
+letter,1
+to,1
+om,1
+parkash,1
+gupta,1

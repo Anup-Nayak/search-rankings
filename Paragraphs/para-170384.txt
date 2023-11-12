@@ -1,0 +1,10 @@
+49,86,5
+90,1
+fragment,1
+of,1
+letter,1
+to,1
+president,1
+b,1
+p,1
+c,2

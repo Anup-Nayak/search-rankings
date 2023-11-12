@@ -1,0 +1,16 @@
+15,220,9
+from,1
+the,1
+original,1
+postcard,1
+in,2
+gujarati,1
+gandhijis,1
+hand,1
+c,1
+w,1
+5703,1
+courtesy,1
+pramod,1
+virchand,1
+shah,1

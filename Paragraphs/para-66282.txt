@@ -1,0 +1,8 @@
+19,64,4
+start,1
+punjab,1
+mail,1
+tomorrow,1
+will,1
+join,1
+you,1

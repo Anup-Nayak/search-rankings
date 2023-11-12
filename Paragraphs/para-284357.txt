@@ -1,0 +1,9 @@
+76,55,3
+2,1
+vide,1
+appendix,1
+the,1
+indians,1
+relief,1
+act,1
+1914,1

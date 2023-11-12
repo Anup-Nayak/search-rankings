@@ -1,0 +1,15 @@
+67,155,5
+i,2
+cant,1
+write,1
+much,1
+as,1
+am,1
+writing,1
+with,1
+the,2
+left,1
+hand,1
+right,1
+needs,1
+rest,1

@@ -1,0 +1,13 @@
+21,96,22
+resist,1
+with,1
+brute,1
+strength,1
+the,2
+unjust,1
+governments,1
+of,1
+europe,1
+who,1
+had,1
+in,1

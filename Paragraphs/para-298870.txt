@@ -1,0 +1,14 @@
+79,375,8
+be,2
+a,1
+good,2
+girl,1
+you,1
+are,1
+but,1
+better,1
+still,1
+and,1
+grow,1
+bigger,1
+everyday,1

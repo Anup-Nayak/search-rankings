@@ -1,0 +1,6 @@
+72,380,4
+488,1
+statement,1
+to,1
+the,1
+press,1

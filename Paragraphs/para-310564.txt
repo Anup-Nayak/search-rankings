@@ -1,0 +1,6 @@
+82,63,7
+individual,1
+v,1
+collective,1
+cow,1
+keeping,1

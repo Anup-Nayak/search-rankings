@@ -1,0 +1,6 @@
+15,113,6
+august,1
+26,1
+thursday,1
+jamna,1
+left,1

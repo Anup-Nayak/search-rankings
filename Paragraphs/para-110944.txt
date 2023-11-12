@@ -1,0 +1,11 @@
+33,17,10
+without,1
+any,1
+difficulty,1
+both,1
+niranjan,1
+babu,1
+and,1
+he,1
+were,1
+present,1

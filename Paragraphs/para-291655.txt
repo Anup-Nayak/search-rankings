@@ -1,0 +1,15 @@
+78,6,4
+politics,2
+means,1
+not,1
+merely,1
+to,1
+sit,1
+on,1
+the,1
+congress,1
+executive,1
+real,1
+is,1
+in,1
+spinning,1

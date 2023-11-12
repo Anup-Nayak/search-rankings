@@ -1,0 +1,7 @@
+50,60,1
+85,1
+letter,1
+to,1
+gulam,1
+rasool,1
+qureshi,1

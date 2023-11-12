@@ -1,0 +1,8 @@
+43,28,9
+24,1
+telegram,1
+to,1
+secretary,1
+punjab,1
+political,1
+conference,1

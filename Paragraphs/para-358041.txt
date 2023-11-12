@@ -1,0 +1,16 @@
+92,369,5
+saturday,1
+august,1
+10,1
+1946,1
+to,2
+destroy,1
+something,1
+is,1
+easy,1
+build,1
+requires,1
+great,1
+skill,1
+and,1
+care,1

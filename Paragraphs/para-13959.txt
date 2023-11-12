@@ -1,0 +1,6 @@
+5,347,3
+johannesburg,1
+september,1
+19,1
+1906,1
+2,1

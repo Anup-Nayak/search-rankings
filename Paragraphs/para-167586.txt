@@ -1,0 +1,10 @@
+48,180,1
+177,1
+speech,1
+at,1
+subjects,1
+committee,1
+a,1
+i,1
+c,2
+ii,1

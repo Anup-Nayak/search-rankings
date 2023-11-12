@@ -1,0 +1,7 @@
+79,386,1
+414,1
+letter,1
+to,1
+ghulam,1
+rasul,1
+qureshi,1

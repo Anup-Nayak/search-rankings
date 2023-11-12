@@ -1,0 +1,7 @@
+96,348,3
+470,1
+bihar,1
+for,1
+biharis,1
+and,1
+india,1

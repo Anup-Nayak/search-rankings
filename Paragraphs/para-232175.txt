@@ -1,0 +1,15 @@
+63,380,7
+wanted,1
+to,3
+give,2
+her,1
+gold,1
+chain,1
+you,1
+but,1
+my,1
+aunt,1
+did,1
+not,1
+like,1
+the,1

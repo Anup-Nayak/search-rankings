@@ -1,0 +1,7 @@
+4,422,1
+379,1
+permit,1
+regulations,1
+in,1
+the,1
+transvaal,1

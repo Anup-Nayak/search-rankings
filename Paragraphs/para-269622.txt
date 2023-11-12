@@ -1,0 +1,7 @@
+72,302,6
+2,1
+of,1
+the,1
+hindi,1
+prachar,1
+sabha,1

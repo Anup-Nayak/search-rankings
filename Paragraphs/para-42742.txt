@@ -1,0 +1,16 @@
+13,126,9
+from,1
+the,1
+handwritten,1
+original,1
+in,1
+hindi,1
+signed,1
+by,1
+gandhiji,1
+c,1
+w,1
+5743,1
+courtesy,1
+vishnudutta,1
+dayal,1

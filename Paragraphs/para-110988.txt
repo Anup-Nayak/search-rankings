@@ -1,0 +1,15 @@
+33,20,23
+faith,1
+they,1
+could,1
+not,1
+possibly,1
+face,1
+the,1
+world,1
+with,1
+that,1
+crime,1
+of,1
+untouchability,1
+on,1

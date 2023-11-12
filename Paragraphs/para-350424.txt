@@ -1,0 +1,8 @@
+90,436,18
+all,1
+is,1
+light,1
+yet,1
+no,1
+burning,1
+heat,1

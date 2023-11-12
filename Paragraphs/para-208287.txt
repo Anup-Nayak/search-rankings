@@ -1,0 +1,10 @@
+58,108,14
+temple,1
+entry,1
+as,1
+essential,1
+for,1
+the,1
+removal,1
+of,1
+untouchability,1

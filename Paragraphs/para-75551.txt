@@ -1,0 +1,6 @@
+21,518,3
+7,1
+boycott,1
+of,1
+foreign,1
+goods,1

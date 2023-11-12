@@ -1,0 +1,13 @@
+91,299,3
+g,1
+you,2
+mean,1
+to,1
+say,1
+do,1
+not,1
+want,1
+communism,1
+of,1
+stalins,1
+type,1

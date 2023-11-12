@@ -1,0 +1,4 @@
+77,283,6
+naturecure,1
+clinic,1
+poona,1

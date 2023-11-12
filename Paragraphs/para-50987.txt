@@ -1,0 +1,8 @@
+15,93,19
+7,1
+vide,1
+speech,1
+at,1
+kapol,1
+hostel,1
+bombay,1

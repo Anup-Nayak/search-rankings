@@ -1,0 +1,14 @@
+76,101,6
+j,1
+that,2
+is,3
+simply,1
+terrific,1
+to,1
+hear,1
+you,1
+say,1
+it,1
+difficult,1
+tremendous,1
+for,1

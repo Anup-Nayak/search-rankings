@@ -1,0 +1,8 @@
+15,317,5
+impossible,1
+reach,1
+calcutta,1
+sixth,1
+2,1
+accepted,1
+karachi,1

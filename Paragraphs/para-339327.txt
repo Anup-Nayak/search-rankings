@@ -1,0 +1,9 @@
+88,110,5
+sheth,1
+jamshedji,1
+nasserwanji,1
+mehta,1
+shri,1
+sharda,1
+mandir,1
+karachi,1

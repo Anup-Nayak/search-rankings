@@ -1,0 +1,7 @@
+40,8,4
+the,1
+wells,1
+in,1
+this,1
+place,1
+stink,1

@@ -1,0 +1,13 @@
+52,339,13
+personal,1
+attention,1
+he,2
+thought,1
+need,1
+not,1
+go,1
+into,1
+these,1
+matters,1
+at,1
+present,1

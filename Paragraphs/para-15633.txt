@@ -1,0 +1,15 @@
+6,45,14
+attached,1
+to,1
+them,1
+protesting,1
+in,1
+as,2
+strong,1
+language,1
+has,1
+been,1
+used,1
+here,1
+against,1
+the,1

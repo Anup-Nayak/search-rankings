@@ -1,0 +1,17 @@
+54,36,6
+1,1
+mother,1
+india,1
+or,1
+gandhijis,1
+comments,1
+on,1
+the,2
+book,1
+vide,2
+drain,1
+inspectors,1
+report,1
+2,1
+fiery,1
+ordeal,1

@@ -1,0 +1,7 @@
+15,408,12
+issued,1
+the,2
+following,1
+statement,1
+to,1
+press,1

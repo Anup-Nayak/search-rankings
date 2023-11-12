@@ -1,0 +1,6 @@
+83,108,9
+121,1
+letter,1
+to,1
+padampat,1
+singhania,1

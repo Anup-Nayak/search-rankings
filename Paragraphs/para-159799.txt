@@ -1,0 +1,11 @@
+46,184,8
+who,1
+recognizes,1
+me,1
+as,1
+such,1
+is,1
+not,1
+bound,1
+by,1
+actions,1

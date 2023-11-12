@@ -1,0 +1,16 @@
+77,423,20
+attitude,1
+is,1
+not,1
+a,1
+thing,1
+lightly,1
+to,1
+be,1
+brushed,1
+aside,1
+there,1
+are,2
+minorities,1
+which,1
+great,1

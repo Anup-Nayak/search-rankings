@@ -1,0 +1,11 @@
+54,470,2
+4,1
+health,1
+and,1
+periodical,1
+medical,1
+examination,1
+the,1
+two,1
+prisoners,1
+will,1

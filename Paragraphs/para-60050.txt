@@ -1,0 +1,7 @@
+17,153,4
+133,1
+letter,1
+t0,1
+sir,1
+william,1
+vincent,1

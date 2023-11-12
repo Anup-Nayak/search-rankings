@@ -1,0 +1,7 @@
+43,225,4
+276,1
+letter,1
+to,1
+madeleine,1
+r,1
+harding,1

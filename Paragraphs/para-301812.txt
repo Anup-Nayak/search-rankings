@@ -1,0 +1,7 @@
+80,183,15
+1,1
+president,1
+punjab,1
+provincial,1
+congress,1
+committee,1

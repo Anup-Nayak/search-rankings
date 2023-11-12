@@ -1,0 +1,6 @@
+50,48,1
+70,1
+letter,1
+to,1
+benarsilal,1
+bazaj,1

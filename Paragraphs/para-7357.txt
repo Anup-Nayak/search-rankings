@@ -1,0 +1,14 @@
+3,198,7
+and,1
+how,1
+long,1
+in,2
+the,3
+transvaal,2
+that,1
+is,1
+time,1
+i,1
+have,1
+been,1
+practising,1

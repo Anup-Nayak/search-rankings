@@ -1,0 +1,17 @@
+51,58,11
+1,1
+prince,1
+kropotkin,1
+1842,1
+1921,1
+russian,1
+anarchist,1
+presumably,1
+the,3
+reference,1
+is,1
+to,1
+book,1
+conquest,1
+of,1
+bread,1

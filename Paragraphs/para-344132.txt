@@ -1,0 +1,7 @@
+89,175,1
+256,1
+letter,1
+to,1
+vanamala,1
+n,1
+parikh,1

@@ -1,0 +1,16 @@
+82,122,16
+q,1
+is,1
+it,1
+not,1
+far,1
+more,1
+important,1
+today,1
+to,1
+find,1
+some,1
+solution,1
+for,1
+the,1
+shortage,1

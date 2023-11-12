@@ -1,0 +1,7 @@
+10,315,2
+are,1
+those,1
+of,1
+the,1
+bird,1
+phoenix,1

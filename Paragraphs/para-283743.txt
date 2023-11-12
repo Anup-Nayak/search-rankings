@@ -1,0 +1,14 @@
+75,464,3
+you,2
+are,1
+in,1
+this,1
+advantageous,1
+position,1
+that,1
+can,1
+take,1
+a,1
+dispassionate,1
+view,1
+of,1

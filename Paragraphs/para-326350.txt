@@ -1,0 +1,5 @@
+85,246,10
+dont,1
+worry,1
+about,1
+me,1

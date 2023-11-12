@@ -1,0 +1,16 @@
+27,453,8
+this,1
+pressure,1
+to,2
+bear,1
+fruit,1
+and,1
+a,2
+weak,1
+people,1
+cannot,1
+hope,1
+put,1
+up,1
+such,1
+sustained,1

@@ -1,0 +1,6 @@
+45,343,7
+329,1
+the,2
+gita,1
+and,1
+ramayana,1

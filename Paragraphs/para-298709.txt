@@ -1,0 +1,5 @@
+79,359,3
+369,1
+instructions,1
+to,1
+satyagrahis,1

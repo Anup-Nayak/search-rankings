@@ -1,0 +1,11 @@
+77,409,10
+statement,1
+they,2
+are,2
+clear,1
+and,1
+positive,1
+enshrined,1
+in,1
+the,1
+parliamentary,1

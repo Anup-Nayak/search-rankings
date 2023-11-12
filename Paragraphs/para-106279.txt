@@ -1,0 +1,15 @@
+31,245,8
+heart,2
+to,1
+talk,1
+with,1
+them,1
+young,1
+men,1
+should,1
+banish,1
+all,1
+evil,1
+thoughts,1
+from,1
+their,1

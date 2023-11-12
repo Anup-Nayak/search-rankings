@@ -1,0 +1,9 @@
+84,235,9
+1,1
+wife,1
+of,1
+maganlal,2
+mehta,1
+2,1
+mehtas,1
+brother,1

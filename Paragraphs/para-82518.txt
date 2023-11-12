@@ -1,0 +1,4 @@
+24,203,6
+processing,1
+of,1
+cotton,1

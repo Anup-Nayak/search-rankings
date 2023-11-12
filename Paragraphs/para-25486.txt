@@ -1,0 +1,11 @@
+8,412,1
+a,1
+valid,1
+case,2
+and,1
+that,1
+the,2
+should,1
+promote,1
+communitys,1
+interests,1

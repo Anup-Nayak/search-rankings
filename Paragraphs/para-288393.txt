@@ -1,0 +1,7 @@
+77,51,9
+persist,1
+in,1
+the,2
+hypnotic,1
+belief,1
+that,1

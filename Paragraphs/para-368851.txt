@@ -1,0 +1,13 @@
+95,318,5
+1,1
+this,1
+and,1
+the,2
+paragraph,1
+below,1
+in,1
+small,1
+type,1
+are,1
+from,1
+hindu,1

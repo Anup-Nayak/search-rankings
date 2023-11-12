@@ -1,0 +1,6 @@
+30,458,2
+1,1
+mittadar,1
+zemindar,1
+of,1
+pudupalayam,1

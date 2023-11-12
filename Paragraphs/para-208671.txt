@@ -1,0 +1,10 @@
+58,140,18
+do,1
+not,1
+want,1
+you,1
+take,1
+any,1
+step,1
+without,1
+conviction,1

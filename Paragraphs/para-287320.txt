@@ -1,0 +1,12 @@
+76,386,6
+a,1
+khadi,1
+weaving,1
+centre,1
+is,2
+being,1
+started,1
+at,1
+tirurangadi,1
+there,1
+still,1

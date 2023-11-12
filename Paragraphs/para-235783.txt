@@ -1,0 +1,6 @@
+64,270,4
+1,1
+vide,1
+resolution,1
+on,1
+discipline,1

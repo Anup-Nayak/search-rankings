@@ -1,0 +1,13 @@
+70,203,5
+do,1
+not,1
+be,1
+impatient,1
+it,1
+is,1
+impossible,1
+to,1
+come,1
+before,1
+january,1
+6th,1

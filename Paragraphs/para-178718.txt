@@ -1,0 +1,7 @@
+51,98,13
+immovable,1
+and,1
+movable,1
+property,1
+by,1
+mere,1

@@ -1,0 +1,12 @@
+62,260,12
+1,1
+the,2
+letter,1
+was,1
+written,1
+on,2
+december,2
+7,1
+and,1
+postscript,1
+9,1

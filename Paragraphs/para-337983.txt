@@ -1,0 +1,6 @@
+88,2,1
+5,1
+letter,1
+to,1
+lakshmi,1
+gandhi,1

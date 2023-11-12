@@ -1,0 +1,7 @@
+24,443,2
+216,1
+hindu,1
+muslim,1
+unity,1
+a,1
+camouflage,1

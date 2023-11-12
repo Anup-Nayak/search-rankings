@@ -1,0 +1,6 @@
+84,328,6
+446,1
+letter,1
+to,1
+kanam,1
+gandhi,1

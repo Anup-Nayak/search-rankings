@@ -1,0 +1,4 @@
+25,109,4
+prejudice,1
+and,1
+insolence,1

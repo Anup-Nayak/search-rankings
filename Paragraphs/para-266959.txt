@@ -1,0 +1,13 @@
+71,423,8
+picture,1
+of,2
+the,3
+working,1
+government,1
+under,1
+act,1
+is,1
+true,1
+and,1
+if,1
+relations,1

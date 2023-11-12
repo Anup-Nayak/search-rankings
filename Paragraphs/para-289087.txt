@@ -1,0 +1,5 @@
+77,133,3
+when,1
+is,1
+picketing,1
+peaceful,1

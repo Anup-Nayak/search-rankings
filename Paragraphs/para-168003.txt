@@ -1,0 +1,4 @@
+48,236,8
+jawaharlal,1
+nehru,1
+allahabad,1

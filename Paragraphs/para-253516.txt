@@ -1,0 +1,17 @@
+68,236,2
+mrs,1
+t,1
+how,1
+am,1
+i,1
+to,1
+act,1
+supposing,1
+my,2
+own,1
+brother,1
+was,1
+lynched,1
+before,1
+very,1
+eyes,1

@@ -1,0 +1,6 @@
+62,122,1
+137,1
+kutch,1
+harijan,1
+worker,1
+belaboured,1

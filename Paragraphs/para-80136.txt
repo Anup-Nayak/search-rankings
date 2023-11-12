@@ -1,0 +1,14 @@
+23,304,4
+mr,1
+gandhi,1
+stated,1
+that,1
+he,1
+had,1
+already,1
+written,1
+to,1
+the,1
+committee,1
+intimating,1
+his,1

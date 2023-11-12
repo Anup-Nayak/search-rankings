@@ -18,7 +18,7 @@ public:
 struct pair_util{
     trie_node* node;
     string word;
-    int freq;
+    long long freq;
 };
 
 
@@ -28,6 +28,7 @@ public:
     trie();
     ~trie();
     long long search(string& word);
+    void insert(string& word,long long& freq);
     
 };
 
@@ -47,7 +48,7 @@ public:
     ~Dict();
 
     void insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence);
-
+    void insert_word(string&word,long long& freq);
     long long get_word_count(string word);
 
     void dump_dictionary(string filename);

@@ -1,0 +1,11 @@
+50,204,6
+1,1
+the,1
+source,1
+has,1
+apara,1
+which,1
+is,1
+obviously,1
+a,1
+slip,1

@@ -1,0 +1,11 @@
+92,340,8
+you,3
+must,1
+have,1
+a,1
+woman,1
+worker,1
+with,1
+and,1
+if,1
+possible,1

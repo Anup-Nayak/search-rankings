@@ -1,0 +1,6 @@
+57,443,11
+matter,1
+s,1
+affecting,1
+their,1
+welfare,1

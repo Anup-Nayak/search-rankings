@@ -1,0 +1,5 @@
+10,333,5
+religious,1
+scruples,1
+disregarded,1
+rations,1

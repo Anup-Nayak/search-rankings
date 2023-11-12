@@ -1,0 +1,13 @@
+23,302,22
+not,1
+the,2
+bohras,2
+and,1
+he,3
+had,1
+been,1
+asked,1
+whether,1
+suspected,1
+to,1
+that,1

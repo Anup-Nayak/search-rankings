@@ -1,0 +1,7 @@
+89,148,12
+they,1
+found,1
+response,1
+in,1
+their,1
+hearts,1

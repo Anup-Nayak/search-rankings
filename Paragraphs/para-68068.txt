@@ -1,0 +1,12 @@
+19,295,10
+so,1
+you,1
+directed,1
+them,1
+to,1
+arrange,1
+the,2
+meeting,1
+for,1
+next,1
+day,1

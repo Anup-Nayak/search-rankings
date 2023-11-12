@@ -1,0 +1,6 @@
+58,444,2
+once,1
+a,2
+fortnight,1
+or,1
+month,1

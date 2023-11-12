@@ -1,0 +1,5 @@
+97,115,2
+1,1
+spotless,1
+2,1
+formless,1

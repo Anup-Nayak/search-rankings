@@ -1,0 +1,13 @@
+53,381,6
+mr,1
+gandhi,1
+no,1
+it,1
+is,1
+those,1
+people,1
+who,2
+are,1
+elected,1
+will,1
+elect,1

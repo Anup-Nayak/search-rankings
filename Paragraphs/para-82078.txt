@@ -1,0 +1,9 @@
+24,129,5
+mussulmans,1
+hindus,1
+sikhs,1
+etc,1
+but,1
+omitting,1
+the,1
+christians,1

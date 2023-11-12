@@ -1,0 +1,13 @@
+32,459,10
+before,1
+he,2
+laid,1
+the,1
+foundation,1
+stone,1
+wanted,1
+to,2
+ask,1
+them,1
+once,1
+more,1

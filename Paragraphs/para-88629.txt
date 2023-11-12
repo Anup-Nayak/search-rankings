@@ -1,0 +1,9 @@
+26,206,3
+a,2
+friend,1
+congress,1
+official,1
+writes,1
+from,1
+simla,1
+1,1

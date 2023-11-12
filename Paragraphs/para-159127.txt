@@ -1,0 +1,13 @@
+46,107,1
+knows,1
+no,1
+geographical,1
+boundaries,1
+or,1
+racial,1
+differences,1
+should,1
+be,1
+a,1
+lesson,1
+to,1

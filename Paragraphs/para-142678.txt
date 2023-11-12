@@ -1,0 +1,9 @@
+41,440,13
+to,1
+enforce,1
+our,1
+own,1
+teaching,1
+you,1
+should,1
+continue,1

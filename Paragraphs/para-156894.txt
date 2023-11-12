@@ -1,0 +1,7 @@
+45,285,2
+269,1
+to,1
+gujaratis,1
+resident,1
+in,1
+burma,1

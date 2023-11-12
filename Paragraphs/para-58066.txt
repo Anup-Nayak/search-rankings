@@ -1,0 +1,6 @@
+16,463,12
+procedure,1
+followed,1
+by,1
+the,1
+committee,1

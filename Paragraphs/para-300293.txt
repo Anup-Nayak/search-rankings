@@ -1,0 +1,6 @@
+80,40,1
+65,1
+letter,1
+to,1
+syed,1
+mahmud,1

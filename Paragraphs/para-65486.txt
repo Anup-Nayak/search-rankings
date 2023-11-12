@@ -1,0 +1,4 @@
+18,419,2
+sacrifice,1
+to,1
+goddess,1

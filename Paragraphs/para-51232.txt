@@ -1,0 +1,7 @@
+15,108,12
+0,2
+11,1
+porter,1
+charges,1
+for,1
+bedding,1

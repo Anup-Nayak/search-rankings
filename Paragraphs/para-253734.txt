@@ -1,0 +1,15 @@
+68,266,6
+q,1
+what,1
+are,1
+the,1
+points,1
+of,2
+similarity,1
+and,2
+difference,1
+between,1
+your,1
+point,1
+view,1
+socialism,1

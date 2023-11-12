@@ -1,0 +1,15 @@
+64,226,9
+accept,1
+leavings,1
+of,1
+food,1
+and,1
+ask,1
+for,1
+monetary,1
+equivalent,1
+or,1
+at,1
+least,1
+uncooked,1
+cereals,1

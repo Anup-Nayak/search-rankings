@@ -1,0 +1,6 @@
+81,210,2
+sevagram,1
+wardha,1
+october,1
+17,1
+1941,1

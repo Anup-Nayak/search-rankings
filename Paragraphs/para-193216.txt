@@ -1,0 +1,11 @@
+54,310,4
+otherwise,1
+in,1
+same,1
+connection,1
+i,1
+do,1
+not,1
+feel,1
+competent,1
+to,1

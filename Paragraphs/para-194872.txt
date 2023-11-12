@@ -1,0 +1,7 @@
+54,464,36
+by,1
+all,1
+india,1
+congress,2
+committee,1
+as,1

@@ -1,0 +1,10 @@
+22,142,3
+80,1
+speech,1
+at,1
+conclusion,1
+of,1
+subjects,1
+committee,1
+debate,1
+2,1

@@ -1,0 +1,6 @@
+24,185,18
+some,2
+will,2
+hate,1
+thee,2
+love,1

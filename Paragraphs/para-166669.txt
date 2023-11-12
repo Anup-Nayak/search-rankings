@@ -1,0 +1,8 @@
+48,36,8
+cause,1
+and,1
+mother,1
+love,1
+to,1
+you,1
+all,1

@@ -1,0 +1,7 @@
+48,33,3
+29,1
+public,1
+finance,1
+and,1
+our,1
+poverty,1

@@ -1,0 +1,5 @@
+39,85,3
+93,1
+letter,1
+to,1
+mathuradas,1

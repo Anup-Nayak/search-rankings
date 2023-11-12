@@ -1,0 +1,7 @@
+5,486,8
+to,1
+the,1
+manager,1
+natal,1
+bank,1
+london,1

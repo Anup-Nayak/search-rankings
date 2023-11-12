@@ -1,0 +1,7 @@
+10,152,3
+2,1
+of,1
+indentured,1
+labourers,1
+for,1
+natal,1

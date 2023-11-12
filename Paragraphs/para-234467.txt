@@ -1,0 +1,7 @@
+64,126,7
+spiegal,1
+papers,1
+courtesy,1
+nehru,1
+memorial,1
+museum,1

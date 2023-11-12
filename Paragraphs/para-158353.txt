@@ -1,0 +1,14 @@
+46,9,9
+directly,1
+went,1
+to,2
+the,2
+canal,1
+and,1
+took,1
+a,1
+plunge,1
+in,1
+water,1
+purify,1
+themselves,1

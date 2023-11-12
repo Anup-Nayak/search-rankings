@@ -1,0 +1,10 @@
+90,287,5
+addressing,1
+the,2
+gathering,1
+after,1
+prayers,1
+on,1
+saturday,1
+evening,1
+mahatma,1

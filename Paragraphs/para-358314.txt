@@ -1,0 +1,7 @@
+92,394,4
+a,1
+f,1
+the,1
+answer,1
+is,1
+obvious,1

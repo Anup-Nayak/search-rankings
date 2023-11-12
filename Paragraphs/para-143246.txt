@@ -1,0 +1,10 @@
+42,21,6
+34,1
+celebrating,1
+penance,1
+a,1
+friend,1
+writes,1
+to,1
+say,1
+2,1

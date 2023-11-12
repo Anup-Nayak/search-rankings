@@ -1,0 +1,9 @@
+31,31,7
+satyagrahis,1
+should,1
+continue,1
+spin,1
+or,1
+stand,1
+where,1
+they,1

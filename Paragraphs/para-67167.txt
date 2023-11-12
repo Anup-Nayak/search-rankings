@@ -1,0 +1,11 @@
+19,193,6
+influence,1
+because,1
+of,1
+his,1
+incurable,1
+repugnance,1
+to,1
+sanitation,1
+and,1
+hygiene,1

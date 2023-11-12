@@ -1,0 +1,6 @@
+94,310,10
+1,1
+during,1
+the,1
+morning,1
+walk,1

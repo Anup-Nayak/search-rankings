@@ -1,0 +1,6 @@
+8,181,2
+classification,1
+of,1
+asiatics,1
+with,1
+natives,1

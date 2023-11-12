@@ -1,0 +1,8 @@
+71,34,9
+1,1
+vide,1
+letter,1
+to,1
+viyogi,1
+hari,1
+infra,1

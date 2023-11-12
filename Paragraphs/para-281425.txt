@@ -1,0 +1,8 @@
+75,196,5
+was,1
+not,1
+unprepared,1
+for,1
+arrests,1
+they,1
+will,1

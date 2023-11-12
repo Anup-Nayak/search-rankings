@@ -1,0 +1,6 @@
+28,13,2
+4,1
+sar0jinis,1
+speech,1
+to,1
+children,1

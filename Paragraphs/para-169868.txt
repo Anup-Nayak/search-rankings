@@ -1,0 +1,8 @@
+49,12,6
+from,1
+a,1
+photostat,1
+mahatma,1
+gandhi,1
+album,1
+p,1

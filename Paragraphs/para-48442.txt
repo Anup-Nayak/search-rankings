@@ -1,0 +1,10 @@
+14,340,8
+bombay,1
+government,1
+police,1
+abstracts,1
+1915,1
+p,1
+40,1
+para,1
+60,1

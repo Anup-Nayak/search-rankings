@@ -1,0 +1,9 @@
+11,474,5
+extracts,1
+from,1
+the,2
+prime,1
+ministers,1
+minute,1
+to,1
+governor,1

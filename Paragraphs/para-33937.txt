@@ -1,0 +1,14 @@
+11,42,11
+chinasamy,1
+paul,1
+a,1
+boy,1
+of,1
+16,1
+years,1
+and,1
+peter,1
+moonlight,1
+have,1
+been,1
+deported,1

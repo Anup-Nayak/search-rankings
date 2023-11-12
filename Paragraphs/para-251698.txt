@@ -1,0 +1,8 @@
+68,50,4
+68,1
+letter,1
+to,1
+a,1
+village,1
+worker,1
+2,1

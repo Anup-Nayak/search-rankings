@@ -1,0 +1,15 @@
+78,45,8
+are,1
+presented,1
+to,1
+audiences,1
+through,1
+the,1
+microphone,1
+but,1
+not,1
+acted,1
+upon,1
+tell,1
+me,1
+what,1

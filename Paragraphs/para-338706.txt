@@ -1,0 +1,7 @@
+88,60,7
+130,1
+letter,1
+to,1
+lakshman,1
+singh,1
+gelakoti,1

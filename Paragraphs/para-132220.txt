@@ -1,0 +1,15 @@
+38,387,7
+true,1
+art,2
+consists,1
+masses,2
+learning,1
+self,2
+purification,1
+restraint,1
+may,1
+german,1
+copy,1
+this,1
+of,1
+life,1

@@ -1,0 +1,10 @@
+50,300,4
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+s,1
+n,1
+9624,1

@@ -1,0 +1,7 @@
+47,445,1
+510,1
+cowdung,1
+cakes,1
+or,1
+manure,1
+1,1

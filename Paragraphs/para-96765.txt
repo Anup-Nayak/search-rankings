@@ -1,0 +1,4 @@
+28,421,2
+a,1
+persevering,1
+teacher,1

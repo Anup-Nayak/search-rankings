@@ -1,0 +1,8 @@
+28,37,1
+22,1
+daily,1
+plying,1
+of,1
+the,1
+spinning,1
+wheel,1

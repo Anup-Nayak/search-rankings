@@ -1,0 +1,8 @@
+12,34,1
+29,1
+letter,1
+to,1
+registrar,1
+of,1
+asiatics,1
+1,1

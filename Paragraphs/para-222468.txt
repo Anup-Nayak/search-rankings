@@ -1,0 +1,8 @@
+61,146,16
+precipitate,1
+action,1
+will,1
+be,1
+scrupulously,1
+a,1
+voided,1

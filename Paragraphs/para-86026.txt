@@ -1,0 +1,8 @@
+25,288,2
+1,1
+the,1
+opposite,1
+of,1
+dharma,1
+2,1
+self,1

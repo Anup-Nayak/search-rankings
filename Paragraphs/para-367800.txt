@@ -1,0 +1,7 @@
+95,143,1
+145,1
+letter,1
+to,1
+an,1
+ashram,1
+inmate,1

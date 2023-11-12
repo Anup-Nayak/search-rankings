@@ -1,0 +1,6 @@
+43,187,2
+227,1
+the,1
+alchemy,1
+of,1
+thought,1

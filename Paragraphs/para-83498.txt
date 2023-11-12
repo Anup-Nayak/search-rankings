@@ -1,0 +1,5 @@
+24,368,2
+chairs,1
+out,1
+of,1
+place,1

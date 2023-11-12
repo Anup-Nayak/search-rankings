@@ -1,0 +1,11 @@
+28,91,8
+a,1
+stock,1
+of,1
+yarn,1
+khadi,1
+cotton,2
+seeds,1
+rs,1
+1,1
+200/,1

@@ -1,0 +1,6 @@
+85,406,6
+1,1
+kasturba,1
+gandhis,1
+death,1
+anniversary,1

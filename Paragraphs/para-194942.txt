@@ -1,0 +1,9 @@
+54,466,30
+1,2
+vide,1
+letter,1
+to,1
+varrier,1
+elwin,1
+4,1
+1932,1

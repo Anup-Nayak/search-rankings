@@ -1,0 +1,6 @@
+35,294,11
+383,1
+letter,1
+to,1
+tehmina,1
+khambhatta,1

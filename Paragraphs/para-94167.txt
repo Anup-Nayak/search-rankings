@@ -1,0 +1,14 @@
+27,472,9
+submitting,1
+the,3
+former,1
+to,1
+control,1
+latter,1
+there,1
+are,1
+many,1
+other,1
+things,1
+which,1
+do,1

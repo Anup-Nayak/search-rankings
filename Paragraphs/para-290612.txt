@@ -1,0 +1,8 @@
+77,328,12
+1,1
+on,1
+nature,1
+cure,1
+selected,1
+by,1
+gandhiji,1

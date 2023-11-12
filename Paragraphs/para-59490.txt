@@ -1,0 +1,12 @@
+17,77,8
+mohandas,1
+ps,1
+this,1
+is,1
+more,1
+important,1
+than,1
+bearing,1
+my,1
+travelling,1
+expenses,1

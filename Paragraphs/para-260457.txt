@@ -1,0 +1,9 @@
+70,71,9
+1,1
+task,2
+before,2
+harijan,2
+sevaks,2
+vide,1
+10,2
+1936,1

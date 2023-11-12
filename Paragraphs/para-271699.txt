@@ -1,0 +1,14 @@
+73,22,13
+present,1
+trip,1
+to,1
+calcutta,1
+on,1
+tackling,1
+the,2
+problem,1
+of,2
+release,1
+detenus,1
+and,1
+political,1

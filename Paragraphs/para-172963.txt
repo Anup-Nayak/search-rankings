@@ -1,0 +1,12 @@
+49,395,5
+bapu,1
+ps,1
+i,1
+get,1
+no,1
+time,1
+to,2
+attend,1
+the,1
+hindi,1
+translation,1

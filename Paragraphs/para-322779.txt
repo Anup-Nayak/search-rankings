@@ -1,0 +1,12 @@
+84,371,13
+1,1
+vide,1
+letter,1
+to,1
+winston,1
+churchill,1
+17,1
+7,1
+1944,1
+2,1
+ibid,1

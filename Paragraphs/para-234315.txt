@@ -1,0 +1,9 @@
+64,106,2
+143,1
+speech,1
+to,1
+jyoti,1
+sangh,1
+1,1
+members,1
+ahmedabad,1

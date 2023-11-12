@@ -1,0 +1,8 @@
+25,493,4
+bapu,1
+master,1
+devdas,1
+gandhi,1
+anand,1
+bhavan,1
+allahabad,1

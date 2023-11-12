@@ -1,0 +1,12 @@
+94,212,1
+this,2
+place,1
+does,1
+not,2
+belong,1
+to,1
+you,1
+is,1
+the,1
+right,1
+way,1

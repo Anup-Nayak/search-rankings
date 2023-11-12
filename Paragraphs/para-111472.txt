@@ -1,0 +1,4 @@
+33,106,2
+humiliation,1
+or,1
+honour,1

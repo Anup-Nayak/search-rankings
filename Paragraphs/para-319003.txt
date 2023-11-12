@@ -1,0 +1,6 @@
+83,435,2
+detention,1
+camp,1
+december,1
+14,1
+1943,1

@@ -1,0 +1,17 @@
+10,193,13
+3,1
+biographer,1
+of,2
+tolstoy,1
+who,1
+in,1
+collaboration,1
+with,1
+his,2
+russian,1
+wife,1
+translated,1
+most,1
+works,1
+into,1
+english,1

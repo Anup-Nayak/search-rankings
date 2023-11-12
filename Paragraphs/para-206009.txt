@@ -1,0 +1,13 @@
+57,309,12
+1,1
+a,1
+portion,1
+is,1
+omitted,1
+in,1
+the,1
+source,1
+2,1
+addressees,1
+fathers,1
+sister,1

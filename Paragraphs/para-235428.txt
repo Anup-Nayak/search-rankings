@@ -1,0 +1,13 @@
+64,226,18
+issues,1
+and,2
+pamphlets,1
+prepare,1
+dictionary,1
+books,1
+in,2
+hindi,1
+on,1
+lines,1
+adopted,1
+the,1

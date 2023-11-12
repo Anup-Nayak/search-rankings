@@ -1,0 +1,5 @@
+12,104,1
+80,1
+fragment,1
+of,1
+letter,1

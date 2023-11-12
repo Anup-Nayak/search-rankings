@@ -1,0 +1,7 @@
+81,88,1
+lover,1
+of,1
+children,1
+and,1
+hard,1
+work,1

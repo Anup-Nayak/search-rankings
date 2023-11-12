@@ -1,0 +1,9 @@
+57,157,15
+after,1
+second,1
+instant,1
+temple,1
+not,1
+opened,1
+kelappans,1
+acceptance,1

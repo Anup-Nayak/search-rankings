@@ -1,0 +1,15 @@
+82,380,29
+income,1
+tax,1
+because,1
+the,2
+property,1
+of,1
+association,1
+is,1
+not,1
+held,1
+under,1
+trust,1
+or,1
+other,1

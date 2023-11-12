@@ -1,0 +1,13 @@
+60,221,12
+but,1
+there,1
+are,2
+still,1
+18,1
+village,1
+wells,1
+from,1
+which,1
+the,1
+untouchables,1
+excluded,1

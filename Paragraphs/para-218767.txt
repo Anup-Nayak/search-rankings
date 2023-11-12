@@ -1,0 +1,5 @@
+60,221,2
+hard,1
+facts,1
+not,1
+words,1

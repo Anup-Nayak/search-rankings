@@ -1,0 +1,13 @@
+89,433,8
+1,1
+vide,2
+the,1
+preceeding,1
+item,1
+2,2
+letter,1
+to,1
+annie,1
+mascarene,1
+21,1
+1946,1

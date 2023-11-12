@@ -1,0 +1,11 @@
+82,400,22
+something,2
+and,2
+kept,1
+the,1
+rest,1
+for,1
+england,2
+you,1
+are,1
+offering,1

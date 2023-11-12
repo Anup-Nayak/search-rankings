@@ -1,0 +1,8 @@
+76,94,4
+arrived,1
+last,1
+evening,1
+all,1
+good,1
+condition,1
+weather,1

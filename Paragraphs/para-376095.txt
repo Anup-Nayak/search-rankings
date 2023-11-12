@@ -1,0 +1,12 @@
+97,359,5
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+walter,1
+ritter,1
+esq,1
+engineer,1
+uster,1
+switzerland,1

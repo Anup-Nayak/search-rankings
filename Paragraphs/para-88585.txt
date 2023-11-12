@@ -1,0 +1,13 @@
+26,198,9
+1,1
+mrs,1
+vijayalakshmi,1
+pandit,1
+sister,1
+of,1
+jawaharlal,1
+nehru,1
+2,1
+the,1
+preceding,1
+item,1

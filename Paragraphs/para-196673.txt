@@ -1,0 +1,17 @@
+55,204,6
+i,5
+have,3
+your,1
+letter,1
+am,1
+unable,1
+to,2
+say,1
+that,1
+reached,1
+my,1
+destination,1
+fear,1
+much,1
+distance,1
+cover,1

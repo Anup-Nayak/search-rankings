@@ -1,0 +1,14 @@
+2,419,5
+14,1
+mercury,1
+lane,1
+durban,1
+october,1
+8,1
+1901,1
+to,1
+the,2
+honourable,1
+colonial,1
+secretary,1
+pietermaritzburg,1

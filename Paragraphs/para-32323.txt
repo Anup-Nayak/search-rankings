@@ -1,0 +1,7 @@
+10,348,4
+present,1
+requirement,1
+thousand,1
+pounds,1
+expect,1
+im,1

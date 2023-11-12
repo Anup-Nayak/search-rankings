@@ -1,0 +1,6 @@
+78,82,2
+hope,1
+you,1
+are,1
+keeping,1
+well,1

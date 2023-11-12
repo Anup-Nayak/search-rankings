@@ -1,0 +1,7 @@
+75,27,1
+30,1
+discussion,1
+with,1
+teacher,1
+trainees,1
+1,1

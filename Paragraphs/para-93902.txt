@@ -1,0 +1,14 @@
+27,453,2
+q,1
+supposing,1
+the,1
+maharaja,1
+is,2
+not,1
+a,3
+friend,1
+but,1
+foe,1
+and,1
+tyrant,1
+it,1

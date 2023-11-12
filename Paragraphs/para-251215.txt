@@ -1,0 +1,17 @@
+68,0,7
+i,2
+am,1
+eating,1
+your,1
+apples,1
+with,1
+vengeance,1
+and,2
+needed,1
+them,1
+they,1
+musambis,1
+have,1
+acted,1
+like,1
+medicine,1

@@ -1,0 +1,6 @@
+84,45,6
+your,1
+wire,1
+physician,1
+heal,1
+thyself,1

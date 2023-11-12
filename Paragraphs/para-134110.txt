@@ -1,0 +1,14 @@
+39,151,2
+i,1
+do,1
+not,1
+understand,1
+why,1
+you,1
+give,1
+equal,1
+importance,1
+to,1
+the,1
+acquisition,1
+of,1

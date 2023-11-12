@@ -1,0 +1,12 @@
+6,532,14
+power,1
+to,3
+issue,1
+permits,1
+asiatics,1
+remain,1
+in,1
+colony,1
+for,1
+limited,1
+period,1

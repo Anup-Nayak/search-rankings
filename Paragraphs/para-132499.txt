@@ -1,0 +1,10 @@
+38,420,8
+1,1
+permanent,1
+address,1
+2,1
+the,2
+christ,1
+of,1
+indian,1
+road,1

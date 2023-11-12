@@ -1,0 +1,9 @@
+90,221,6
+g,1
+are,1
+you,1
+contemplating,1
+seriously,1
+of,1
+these,1
+complications,1

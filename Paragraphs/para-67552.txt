@@ -1,0 +1,13 @@
+19,242,8
+places,1
+do,1
+you,1
+think,1
+that,1
+by,1
+a,1
+misinterpretation,1
+of,2
+the,1
+principles,1
+satyagraha,1

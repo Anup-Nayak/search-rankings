@@ -1,0 +1,10 @@
+92,31,5
+f,1
+that,1
+however,1
+would,1
+not,1
+solve,1
+our,1
+fundamental,1
+problem,1

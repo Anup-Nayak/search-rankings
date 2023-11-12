@@ -1,0 +1,4 @@
+10,66,1
+this,1
+crazy,1
+civilization,1

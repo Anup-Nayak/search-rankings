@@ -1,0 +1,4 @@
+36,423,15
+africa,1
+through,1
+illness,1

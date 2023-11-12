@@ -1,0 +1,6 @@
+88,337,6
+638,1
+letter,1
+to,1
+ammu,1
+swaminathan,1

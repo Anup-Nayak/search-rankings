@@ -1,0 +1,6 @@
+89,192,5
+blessings,1
+to,1
+both,1
+from,1
+3,1

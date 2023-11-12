@@ -1,0 +1,9 @@
+43,162,2
+193,1
+speech,1
+at,1
+the,1
+new,1
+gujarati,1
+school,1
+ahmedabad,1

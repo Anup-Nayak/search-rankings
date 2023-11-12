@@ -1,0 +1,7 @@
+37,58,2
+yours,1
+bapu,1
+ps,1
+what,1
+about,1
+wardha,1

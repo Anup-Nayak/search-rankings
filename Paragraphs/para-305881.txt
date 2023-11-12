@@ -1,0 +1,17 @@
+81,69,9
+2,1
+son,3
+of,3
+dr,3
+pranjivandas,3
+mehta,3
+3,1
+champas,1
+father,1
+4,1
+wife,1
+ratilal,1
+mehtas,1
+5,1
+maganlal,1
+youngest,1

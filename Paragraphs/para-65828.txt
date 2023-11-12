@@ -1,0 +1,16 @@
+19,6,7
+d,1
+m,1
+why,1
+do,1
+you,1
+work,1
+here,1
+and,1
+not,1
+within,1
+the,1
+bounds,1
+of,1
+your,1
+state,1

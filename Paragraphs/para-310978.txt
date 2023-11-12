@@ -1,0 +1,14 @@
+82,95,6
+21,1
+you,1
+have,1
+defined,1
+non,1
+violence,1
+in,1
+your,1
+own,1
+way,1
+can,1
+other,1
+people,1

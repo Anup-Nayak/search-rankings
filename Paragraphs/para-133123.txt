@@ -1,0 +1,6 @@
+39,13,3
+received,1
+wire,1
+subject,1
+jamnalaljis,1
+opinions,1

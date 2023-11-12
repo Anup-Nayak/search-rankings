@@ -1,0 +1,5 @@
+29,8,4
+lack,1
+of,1
+fellow,1
+feeling,1

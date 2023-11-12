@@ -1,0 +1,16 @@
+98,64,14
+1,1
+on,1
+top,1
+of,1
+the,2
+letter,1
+gandhiji,1
+has,1
+made,1
+following,1
+note,1
+in,1
+english,1
+tagores,1
+equations,1

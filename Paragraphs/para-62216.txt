@@ -1,0 +1,6 @@
+17,406,1
+frequent,1
+touch,1
+with,1
+me,1
+1,1

@@ -1,0 +1,9 @@
+11,306,19
+committee,1
+presided,1
+by,1
+hosken,1
+met,1
+yesterday,1
+2,1
+endorsed,1

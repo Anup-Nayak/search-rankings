@@ -1,0 +1,13 @@
+54,245,5
+strategic,1
+move,1
+he,2
+postponed,1
+the,1
+hour,1
+of,1
+effective,1
+decision,1
+has,1
+made,1
+your,1

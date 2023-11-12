@@ -1,0 +1,8 @@
+40,68,7
+received,1
+do,1
+2,1
+whatever,1
+jamnalalji,1
+says,1
+and,1

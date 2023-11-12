@@ -1,0 +1,4 @@
+15,145,3
+mahatma,1
+gandhini,1
+vicharsrishti,1

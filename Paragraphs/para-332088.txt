@@ -1,0 +1,8 @@
+86,331,7
+always,1
+held,1
+you,1
+have,1
+nothing,1
+to,1
+regret,1

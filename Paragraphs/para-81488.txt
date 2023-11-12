@@ -1,0 +1,12 @@
+24,27,3
+person,1
+hands,1
+over,1
+some,2
+of,2
+his,1
+garments,1
+foreign,1
+cloth,1
+and,2
+only,1

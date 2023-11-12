@@ -1,0 +1,9 @@
+51,128,13
+the,1
+situation,1
+as,1
+it,1
+is,1
+developing,1
+from,1
+day,1

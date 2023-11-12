@@ -1,0 +1,17 @@
+91,351,7
+5,1
+6,1
+the,2
+light,1
+did,1
+not,1
+come,1
+on,1
+enjoy,1
+ed,1
+reading,1
+with,1
+kerosene,1
+lamp,1
+read,1
+urdu,1

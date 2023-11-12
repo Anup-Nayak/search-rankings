@@ -1,0 +1,10 @@
+49,162,24
+the,3
+more,2
+useful,1
+they,2
+are,1
+and,2
+attract,1
+impose,1
+upon,1

@@ -1,0 +1,10 @@
+57,399,8
+step,1
+i,1
+had,1
+taken,1
+2,1
+viceroy,1
+never,1
+even,1
+acknowledged,1

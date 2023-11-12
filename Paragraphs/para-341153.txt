@@ -1,0 +1,10 @@
+88,285,5
+nature,1
+cure,1
+clinic,1
+6,2
+todiwala,1
+road,1
+poona,1
+november,1
+1945,1

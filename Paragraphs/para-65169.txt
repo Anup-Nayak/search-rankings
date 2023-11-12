@@ -1,0 +1,6 @@
+18,365,6
+interpretation,1
+reference,1
+lord,1
+hunters,1
+committee,1

@@ -1,0 +1,12 @@
+30,203,15
+q,1
+in,1
+your,1
+opinion,1
+what,1
+is,1
+the,2
+cause,1
+of,1
+kohat,1
+troubles,1

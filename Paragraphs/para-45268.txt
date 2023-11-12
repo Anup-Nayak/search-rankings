@@ -1,0 +1,7 @@
+13,433,9
+government,1
+discredit,1
+agitation,1
+which,1
+assuming,1
+uncon,1

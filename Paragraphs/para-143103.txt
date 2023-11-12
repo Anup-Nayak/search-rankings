@@ -1,0 +1,5 @@
+42,0,5
+2,1
+necessity,1
+of,1
+discipline,1

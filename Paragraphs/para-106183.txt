@@ -1,0 +1,14 @@
+31,234,10
+in,1
+a,1
+room,1
+practically,1
+devoid,1
+of,2
+furniture,1
+on,1
+the,1
+floor,1
+which,1
+were,1
+spread,1

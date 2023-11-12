@@ -1,0 +1,8 @@
+98,146,3
+146,1
+talk,1
+with,1
+subhadra,1
+gupta,1
+and,1
+others1,1

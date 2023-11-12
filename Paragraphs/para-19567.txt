@@ -1,0 +1,10 @@
+6,515,4
+can,1
+goods,1
+of,1
+merchant,1
+trading,1
+without,1
+licence,1
+be,1
+auctioned,1

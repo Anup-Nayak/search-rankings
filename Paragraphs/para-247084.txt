@@ -1,0 +1,5 @@
+67,28,4
+gujarat,1
+and,1
+its,1
+literature,1

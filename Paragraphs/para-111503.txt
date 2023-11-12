@@ -1,0 +1,13 @@
+33,111,3
+gandhiji,1
+it,2
+is,2
+your,1
+wish,1
+that,1
+the,2
+country,1
+should,1
+advance,1
+through,1
+charkha,1

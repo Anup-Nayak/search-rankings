@@ -1,0 +1,6 @@
+36,405,6
+466,1
+letter,1
+to,1
+zubeda,1
+bano,1

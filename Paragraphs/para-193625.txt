@@ -1,0 +1,8 @@
+54,349,26
+was,1
+right,1
+i,1
+should,1
+have,1
+no,1
+hesitation,1

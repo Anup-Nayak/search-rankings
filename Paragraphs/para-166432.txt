@@ -1,0 +1,6 @@
+47,464,9
+536,1
+letter,1
+to,1
+ramniklal,1
+modi,1

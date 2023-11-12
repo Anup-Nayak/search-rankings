@@ -1,0 +1,13 @@
+61,448,6
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+gujarati,1
+in,1
+bapujini,1
+sheetal,1
+chhayaman,1
+facing,1
+p,1

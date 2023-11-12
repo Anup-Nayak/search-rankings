@@ -1,0 +1,14 @@
+39,64,3
+m,1
+k,1
+gandhi,1
+w,1
+b,1
+stover,1
+esq,1
+mount,1
+morris,1
+illinois,1
+u,1
+s,1
+a,1

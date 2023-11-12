@@ -1,0 +1,7 @@
+82,325,5
+379,1
+letter,1
+to,1
+goparaju,1
+satyanarayana,1
+murti,1

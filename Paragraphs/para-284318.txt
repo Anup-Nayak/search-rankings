@@ -1,0 +1,8 @@
+76,50,20
+treatment,1
+under,1
+dinsha,1
+mehta,1
+where,1
+kakasaheb,1
+and,1

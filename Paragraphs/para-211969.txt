@@ -1,0 +1,14 @@
+58,477,12
+q,1
+will,1
+it,1
+not,1
+follow,1
+that,1
+what,1
+appeals,1
+to,1
+your,2
+heart,1
+is,1
+dharma,1

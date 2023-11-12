@@ -1,0 +1,3 @@
+27,477,4
+partly,1
+destroyed,1

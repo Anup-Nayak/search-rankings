@@ -1,0 +1,6 @@
+69,35,17
+3,1
+association,1
+with,1
+the,1
+good,1

@@ -1,0 +1,10 @@
+31,439,3
+from,1
+a,1
+photostat,1
+of,1
+the,1
+draft,1
+s,1
+n,1
+10674,1

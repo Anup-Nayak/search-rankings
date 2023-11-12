@@ -1,0 +1,17 @@
+70,246,8
+blessings,1
+from,1
+bapu,1
+ps,1
+i,2
+read,1
+the,1
+letters,1
+but,1
+personally,1
+feel,1
+that,1
+we,1
+should,1
+not,1
+go,1

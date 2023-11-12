@@ -1,0 +1,9 @@
+51,341,2
+369,1
+speech,1
+at,1
+parsi,1
+rajakiya,1
+mandal,1
+1,1
+karachi,1

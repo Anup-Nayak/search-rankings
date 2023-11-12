@@ -1,0 +1,8 @@
+30,175,7
+1,1
+streets,1
+occupied,1
+by,1
+brahmins,1
+2,1
+sages,1

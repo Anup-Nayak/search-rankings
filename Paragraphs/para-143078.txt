@@ -1,0 +1,9 @@
+41,493,33
+exchange,1
+for,1
+protection,1
+certificates,1
+by,1
+express,1
+provision,1
+parties,1

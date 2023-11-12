@@ -1,0 +1,6 @@
+98,266,4
+268,1
+letter,1
+to,1
+piroj,1
+wadia,1

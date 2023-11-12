@@ -1,0 +1,4 @@
+29,500,2
+purely,1
+social,1
+reform,1

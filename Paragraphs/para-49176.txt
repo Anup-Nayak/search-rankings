@@ -1,0 +1,4 @@
+14,423,2
+rights,1
+and,1
+duties,1

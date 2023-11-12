@@ -1,0 +1,8 @@
+7,117,9
+country,1
+and,2
+brethren,1
+be,1
+betrayed,1
+by,1
+cowardice,1

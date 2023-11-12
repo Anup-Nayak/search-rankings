@@ -1,0 +1,9 @@
+53,382,20
+man,1
+to,2
+the,2
+provincial,1
+council,1
+or,1
+central,1
+legislature,1

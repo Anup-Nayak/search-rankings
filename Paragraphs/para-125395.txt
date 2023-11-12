@@ -1,0 +1,12 @@
+36,471,3
+he,1
+is,1
+a,1
+true,1
+vanik,1
+1,1
+who,1
+never,1
+speaks,1
+an,1
+untruth,1

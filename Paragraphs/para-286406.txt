@@ -1,0 +1,15 @@
+76,277,30
+1938,1
+with,1
+the,2
+capital,1
+resources,1
+we,1
+have,1
+it,1
+is,1
+not,1
+possible,1
+to,1
+purchase,1
+all,1

@@ -1,0 +1,9 @@
+80,170,7
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10299,1
+courtesy,1
+visvabharati,1

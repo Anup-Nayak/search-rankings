@@ -1,0 +1,4 @@
+52,208,19
+fundamental,1
+position,1
+congress,1

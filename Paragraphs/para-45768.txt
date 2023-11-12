@@ -1,0 +1,8 @@
+14,0,11
+peans,1
+indians,1
+am,1
+expecting,1
+hourly,1
+reply,1
+from,1

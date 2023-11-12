@@ -1,0 +1,4 @@
+14,196,18
+he,1
+facilitated,1
+settlement,1

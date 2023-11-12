@@ -1,0 +1,15 @@
+18,193,5
+c,1
+with,2
+intent,1
+to,2
+prejudice,2
+or,2
+which,1
+is,1
+likely,1
+his,1
+majestys,1
+relations,1
+foreign,1
+powers,1

@@ -1,0 +1,14 @@
+27,403,9
+for,1
+15,1
+minutes,1
+walking,1
+and,1
+that,1
+although,1
+he,2
+was,2
+ill,1
+given,1
+food,1
+which,1

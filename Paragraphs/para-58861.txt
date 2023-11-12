@@ -1,0 +1,7 @@
+17,4,5
+5,1
+speech,1
+at,1
+war,1
+conference,1
+2,1

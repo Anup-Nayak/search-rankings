@@ -1,0 +1,7 @@
+34,438,3
+1,1
+pilgrims,1
+progress,1
+2,1
+addressees,1
+wife,1

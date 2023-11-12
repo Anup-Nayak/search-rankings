@@ -1,0 +1,8 @@
+27,269,4
+the,1
+following,1
+have,1
+paid,1
+4,2
+annas,1
+each,1

@@ -1,0 +1,8 @@
+64,177,3
+222,1
+speech,1
+at,1
+public,1
+meeting,1
+lahore,1
+1,1

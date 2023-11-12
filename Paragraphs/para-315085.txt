@@ -1,0 +1,8 @@
+82,397,1
+l,1
+f,1
+i,1
+thought,1
+you,1
+were,1
+perfect,1

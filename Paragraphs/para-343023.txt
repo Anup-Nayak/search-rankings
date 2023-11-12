@@ -1,0 +1,10 @@
+89,50,8
+camp,1
+khadi,1
+pratishthan,1
+sodepur,1
+near,1
+calcutta,1
+december,1
+18,1
+1945,1

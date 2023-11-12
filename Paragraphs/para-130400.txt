@@ -1,0 +1,6 @@
+38,158,7
+144,1
+speech,1
+at,1
+pandharpur,1
+1,1

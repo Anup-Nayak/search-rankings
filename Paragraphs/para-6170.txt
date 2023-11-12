@@ -1,0 +1,4 @@
+3,10,5
+and,1
+fifteen,1
+others,1

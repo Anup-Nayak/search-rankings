@@ -1,0 +1,7 @@
+14,5,1
+before,1
+recommencing,1
+meanwhile,1
+we,1
+shall,1
+refrain,1

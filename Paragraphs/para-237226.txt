@@ -1,0 +1,15 @@
+64,435,10
+1,1
+ramdas,1
+gandhi,1
+vide,2
+also,1
+the,1
+following,1
+item,1
+2,1
+a,1
+prayer,1
+12,1
+9,1
+1934,1

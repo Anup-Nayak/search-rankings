@@ -1,0 +1,13 @@
+72,181,2
+1,1
+a,1
+gujarati,1
+treatise,1
+on,1
+the,1
+science,1
+of,1
+weaving,1
+2,1
+oil,1
+press,1

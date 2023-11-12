@@ -1,0 +1,8 @@
+49,387,1
+position,1
+at,1
+which,1
+we,1
+have,1
+arrived,1
+today,1

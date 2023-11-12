@@ -1,0 +1,9 @@
+42,48,5
+right,1
+lead,1
+evidence,1
+cross,1
+question,1
+crown,1
+witnesses,1
+granted,1

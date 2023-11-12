@@ -1,0 +1,7 @@
+47,186,1
+205,1
+duty,1
+of,1
+the,1
+united,1
+provinces,1

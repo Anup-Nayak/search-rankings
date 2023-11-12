@@ -1,0 +1,17 @@
+13,235,5
+1,1
+this,1
+appears,1
+to,1
+have,1
+been,1
+written,1
+after,1
+the,1
+addressees,1
+departure,1
+for,1
+india,1
+in,1
+december,1
+1912,1

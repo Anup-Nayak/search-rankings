@@ -1,0 +1,5 @@
+40,208,3
+134,1
+an,1
+indignant,1
+protest,1

@@ -1,0 +1,17 @@
+59,193,3
+i,1
+hope,1
+the,2
+conference,1
+will,1
+pass,1
+constructive,1
+resolutions,1
+with,1
+full,1
+intention,1
+of,1
+carrying,1
+them,1
+into,1
+effect,1

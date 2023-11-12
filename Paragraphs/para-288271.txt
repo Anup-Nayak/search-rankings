@@ -1,0 +1,6 @@
+77,40,8
+segaon,1
+wardha,1
+october,1
+25,1
+1939,1

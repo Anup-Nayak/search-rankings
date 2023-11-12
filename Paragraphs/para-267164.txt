@@ -1,0 +1,14 @@
+72,17,8
+read,1
+the,1
+letter,1
+to,2
+chhaganlal,1
+and,1
+pass,1
+it,1
+on,1
+him,1
+if,1
+you,1
+can,1

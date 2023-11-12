@@ -1,0 +1,7 @@
+15,115,19
+joitaram,1
+left,1
+maganlal,1
+&,1
+santok,1
+returned,1

@@ -1,0 +1,6 @@
+14,157,10
+understand,1
+requirement,1
+immigration,1
+department,1
+venture,1

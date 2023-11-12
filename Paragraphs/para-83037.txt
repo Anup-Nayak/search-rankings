@@ -1,0 +1,3 @@
+24,285,2
+mischievous,1
+assiduity,1

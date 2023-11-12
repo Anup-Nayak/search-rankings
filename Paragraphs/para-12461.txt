@@ -1,0 +1,7 @@
+5,95,1
+87,1
+indians,1
+and,1
+responsible,1
+government,1
+1,1

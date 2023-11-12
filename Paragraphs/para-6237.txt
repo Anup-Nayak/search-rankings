@@ -1,0 +1,6 @@
+3,22,2
+johannesburg,1
+thursday,1
+february,1
+5,1
+1903,1

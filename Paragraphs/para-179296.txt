@@ -1,0 +1,11 @@
+51,150,8
+are,1
+the,2
+question,1
+of,4
+scope,1
+further,1
+discussions,1
+and,1
+contingent,1
+resumption,1

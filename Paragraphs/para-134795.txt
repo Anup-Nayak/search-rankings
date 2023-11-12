@@ -1,0 +1,13 @@
+39,256,3
+1,1
+gandhijis,1
+speech,1
+in,1
+hindi,1
+was,1
+rendered,1
+into,1
+kanarese,1
+by,1
+gangadharrao,1
+deshpande,1

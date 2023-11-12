@@ -1,0 +1,10 @@
+16,276,3
+the,1
+hindu,1
+26,1
+2,1
+1918,1
+and,1
+mahatma,1
+gandhini,1
+vicharsrishti,1

@@ -1,0 +1,8 @@
+33,122,6
+71,1
+speech,1
+at,1
+u,1
+p,1
+political,1
+conference,1

@@ -1,0 +1,4 @@
+8,86,2
+meeting,1
+on,1
+sunday,1

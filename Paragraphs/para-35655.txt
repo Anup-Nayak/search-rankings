@@ -1,0 +1,8 @@
+11,246,7
+nothing,1
+about,1
+what,1
+mercury,1
+says,1
+if,1
+legal,1

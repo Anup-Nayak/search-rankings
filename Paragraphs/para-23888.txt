@@ -1,0 +1,5 @@
+8,126,6
+what,1
+about,1
+finger,1
+impressions,1

@@ -1,0 +1,8 @@
+46,326,10
+yours,1
+dr,1
+hydari,1
+finance,1
+minister,1
+hyderabad,1
+deccan,1

@@ -1,0 +1,5 @@
+67,167,3
+l,1
+k,1
+kirloskar,1
+kirloskarwadi,1

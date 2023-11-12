@@ -1,0 +1,12 @@
+9,7,6
+2,2
+vide,1
+natal,2
+licences,1
+15,1
+1908,2
+and,1
+licensing,1
+act,1
+13,1
+6,1

@@ -1,0 +1,12 @@
+2,228,13
+a,1
+reply,1
+similar,1
+to,1
+the,1
+following,1
+was,1
+returned,1
+in,1
+each,1
+case,1

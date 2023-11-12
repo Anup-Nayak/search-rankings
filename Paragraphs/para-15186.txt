@@ -1,0 +1,17 @@
+6,0,5
+yours,1
+faithfully,1
+henry,1
+cotton,1
+r,1
+lehmann,1
+h,2
+cox,1
+j,1
+m,1
+robertson,1
+charles,1
+w,1
+dilke,1
+a,1
+scott,1

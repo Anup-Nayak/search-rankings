@@ -1,0 +1,10 @@
+76,137,2
+abbotabad,1
+july,1
+17,1
+1939,1
+general,1
+smuts,1
+capetown,1
+south,1
+africa,1

@@ -1,0 +1,12 @@
+42,430,6
+one,1
+of,1
+the,2
+questions,1
+asked,1
+by,1
+correspondent,1
+is,1
+as,1
+follows,1
+2,1

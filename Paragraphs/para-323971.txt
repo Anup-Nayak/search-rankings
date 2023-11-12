@@ -1,0 +1,16 @@
+85,18,3
+j,1
+how,1
+long,1
+may,1
+it,1
+take,1
+for,1
+a,1
+worker,1
+to,1
+become,1
+self,1
+sufficient,1
+five,1
+years,1

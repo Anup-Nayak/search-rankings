@@ -1,0 +1,8 @@
+2,204,10
+to,1
+the,2
+chairman,1
+of,1
+indian,1
+national,1
+congress,1

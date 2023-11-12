@@ -1,0 +1,9 @@
+10,56,8
+it,1
+appears,1
+smuts,1
+will,1
+grant,1
+permanent,1
+permits,1
+limited,1

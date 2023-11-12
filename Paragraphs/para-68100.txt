@@ -1,0 +1,12 @@
+19,297,14
+take,1
+any,1
+active,1
+part,1
+in,1
+the,1
+propaganda,1
+work,1
+some,1
+of,1
+them,1

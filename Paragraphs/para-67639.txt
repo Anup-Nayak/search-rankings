@@ -1,0 +1,9 @@
+19,251,4
+for,1
+which,1
+there,1
+ought,1
+to,1
+be,1
+co,1
+operation,1

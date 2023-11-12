@@ -1,0 +1,14 @@
+82,239,8
+wells,1
+tanks,1
+houses,1
+boats,1
+cycles,1
+etc,1
+in,1
+the,1
+name,1
+of,1
+preparation,1
+for,1
+war,1

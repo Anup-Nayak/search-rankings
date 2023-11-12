@@ -1,0 +1,6 @@
+45,380,5
+372,1
+speech,1
+at,1
+gundukolanu,1
+3,1

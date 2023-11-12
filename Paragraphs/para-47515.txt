@@ -1,0 +1,8 @@
+14,195,9
+the,1
+final,1
+settlement,1
+of,1
+passive,1
+resistance,1
+completed,1

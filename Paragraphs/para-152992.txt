@@ -1,0 +1,6 @@
+44,257,2
+chapter,1
+xiv,1
+clerk,1
+and,1
+bearer,1

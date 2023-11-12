@@ -1,0 +1,7 @@
+91,122,7
+and,2
+come,1
+harijan,1
+ashram,1
+writing,1
+you,1

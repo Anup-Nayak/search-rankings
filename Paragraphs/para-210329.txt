@@ -1,0 +1,9 @@
+58,313,12
+decisive,1
+expression,1
+of,1
+public,1
+opinion,1
+sanction,1
+is,1
+with,1

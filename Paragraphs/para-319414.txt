@@ -1,0 +1,13 @@
+84,8,2
+immediate,1
+detention,1
+camp,1
+february,1
+14,1
+1944,1
+the,1
+inspector,1
+general,1
+of,1
+prisons,1
+poona,1

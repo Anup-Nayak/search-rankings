@@ -1,0 +1,13 @@
+92,141,8
+q,1
+2,1
+should,1
+you,1
+not,1
+unequivocally,1
+condemn,1
+the,2
+dual,1
+role,1
+that,1
+muslim,1

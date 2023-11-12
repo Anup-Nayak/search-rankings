@@ -1,0 +1,10 @@
+17,412,8
+mohandas,1
+k,1
+gandhi,1
+the,1
+bombay,1
+chronicle,1
+14,1
+4,1
+1919,1

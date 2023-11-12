@@ -1,0 +1,15 @@
+31,33,11
+this,1
+work,1
+the,2
+world,1
+not,1
+knowing,1
+them,1
+he,1
+wished,1
+that,1
+spirit,1
+would,1
+fire,1
+ayurvedic,1

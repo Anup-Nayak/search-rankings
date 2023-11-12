@@ -1,0 +1,8 @@
+27,69,2
+done,1
+by,1
+the,2
+local,1
+indians,1
+deserves,1
+proposed,1

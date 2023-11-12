@@ -1,0 +1,6 @@
+27,327,6
+293,1
+statement,1
+on,1
+kathiawar,1
+political,1

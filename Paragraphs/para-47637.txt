@@ -1,0 +1,7 @@
+14,210,3
+1,1
+land,2
+of,2
+enjoyment,1
+2,1
+duty,1

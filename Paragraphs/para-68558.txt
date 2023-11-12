@@ -1,0 +1,11 @@
+19,362,21
+stake,1
+in,1
+this,1
+question,1
+for,1
+we,1
+are,1
+asking,1
+nothing,1
+more,1

@@ -1,0 +1,12 @@
+7,305,6
+1,1
+a,1
+phrase,1
+sarcastically,1
+describing,1
+the,1
+act,1
+of,1
+giving,1
+finger,1
+prints,1

@@ -1,0 +1,7 @@
+51,77,28
+dispersed,1
+mayor,1
+calcutta,1
+subhas,1
+chandra,1
+bose,1

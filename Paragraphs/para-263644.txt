@@ -1,0 +1,12 @@
+71,27,9
+not,1
+more,1
+work,2
+and,2
+harder,1
+the,1
+variety,1
+of,1
+cottage,1
+industries,1
+that,1

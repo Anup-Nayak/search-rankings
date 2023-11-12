@@ -1,0 +1,6 @@
+92,186,6
+265,1
+letter,1
+to,1
+dharmanand,1
+kosambi,1

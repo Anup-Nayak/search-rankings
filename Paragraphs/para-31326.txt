@@ -1,0 +1,8 @@
+10,202,1
+134,1
+speech,1
+at,1
+new,1
+reform,1
+club,1
+1,1

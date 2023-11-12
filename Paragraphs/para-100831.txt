@@ -1,0 +1,13 @@
+29,421,5
+tolstoy,1
+called,1
+it,2
+bread,1
+labour,1
+in,1
+bhagavad,1
+gita,1
+also,1
+is,1
+said,1
+that,1

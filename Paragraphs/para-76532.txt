@@ -1,0 +1,9 @@
+22,176,1
+all,1
+india,1
+congress,1
+committee,1
+for,1
+the,1
+year,1
+following,1

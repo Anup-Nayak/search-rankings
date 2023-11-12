@@ -1,0 +1,4 @@
+34,313,4
+gandhi,1
+shikshana,1
+1,1

@@ -1,0 +1,6 @@
+72,48,4
+68,1
+letter,1
+to,1
+wanda,1
+dynowska,1

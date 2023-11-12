@@ -1,0 +1,7 @@
+84,56,14
+have,1
+wired,1
+superintendent,1
+write,1
+why,1
+fasting,1

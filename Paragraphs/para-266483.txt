@@ -1,0 +1,13 @@
+71,371,18
+read,1
+the,2
+entire,1
+message,1
+slowly,1
+at,1
+conclusion,1
+of,1
+reading,1
+mahatma,1
+gandhi,1
+asked,1

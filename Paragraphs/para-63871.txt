@@ -1,0 +1,11 @@
+18,146,16
+21,1
+places,1
+suitable,1
+for,1
+starting,1
+new,1
+spinning,1
+and,1
+weaving,1
+mills,1

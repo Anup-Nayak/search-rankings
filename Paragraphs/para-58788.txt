@@ -1,0 +1,6 @@
+16,515,4
+applicable,1
+to,1
+the,1
+whole,1
+province,1

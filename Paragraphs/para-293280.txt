@@ -1,0 +1,11 @@
+78,178,7
+towns,1
+completely,1
+demoralized,1
+and,2
+in,1
+panic,1
+the,1
+futillity,1
+of,1
+violence,1

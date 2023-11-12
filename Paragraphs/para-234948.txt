@@ -1,0 +1,10 @@
+64,175,8
+220,1
+interview,1
+to,1
+akali,1
+and,1
+khalsa,1
+durbar,1
+deputation,1
+1,1

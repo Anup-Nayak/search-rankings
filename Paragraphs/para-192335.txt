@@ -1,0 +1,9 @@
+54,192,6
+q,1
+is,1
+the,1
+conference,1
+certainly,1
+doomed,1
+to,1
+failure,1

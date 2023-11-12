@@ -1,0 +1,9 @@
+65,414,8
+your,2
+wire,1
+duty,1
+there,1
+for,1
+present,1
+write,1
+and,1

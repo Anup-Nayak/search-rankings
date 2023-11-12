@@ -1,0 +1,10 @@
+2,0,3
+reporter,1
+how,1
+do,1
+you,1
+view,1
+the,2
+proceedings,1
+of,1
+demonstration,1

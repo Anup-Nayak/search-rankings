@@ -1,0 +1,11 @@
+78,264,5
+from,1
+the,1
+gujarati,1
+original,1
+mrs,1
+sumitra,1
+kulkarni,1
+papers,1
+courtesy,1
+nehru,1

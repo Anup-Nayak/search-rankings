@@ -1,0 +1,6 @@
+94,104,13
+123,1
+speech,1
+at,1
+prayer,1
+meeting,1

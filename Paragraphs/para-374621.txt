@@ -1,0 +1,14 @@
+97,148,12
+m,2
+k,1
+gandhi,1
+dr,1
+jal,1
+pavry,1
+a,1
+ph,1
+d,1
+taj,1
+mahal,1
+hotel,1
+bombay,1

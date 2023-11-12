@@ -1,0 +1,7 @@
+84,166,1
+228,1
+letter,1
+to,1
+mir,1
+mushtaq,1
+ahmed,1

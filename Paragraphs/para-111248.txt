@@ -1,0 +1,7 @@
+33,68,4
+42,1
+fate,1
+of,1
+non,1
+co,1
+operators,1

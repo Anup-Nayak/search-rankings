@@ -1,0 +1,7 @@
+90,119,7
+cloistered,1
+virtue,1
+your,1
+good,1
+intention,1
+undoubted,1

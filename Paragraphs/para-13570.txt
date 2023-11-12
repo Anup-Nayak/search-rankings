@@ -1,0 +1,4 @@
+5,278,3
+weary,1
+and,1
+footsore,1

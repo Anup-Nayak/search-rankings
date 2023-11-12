@@ -1,0 +1,12 @@
+82,287,2
+q,1
+would,1
+you,1
+advise,1
+non,2
+violent,1
+co,1
+operation,1
+against,1
+scorched,1
+earth,1

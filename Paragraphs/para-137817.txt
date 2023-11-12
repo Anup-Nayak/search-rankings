@@ -1,0 +1,6 @@
+40,235,5
+bhaishri,1
+devchandbhai,1
+parekh,1
+barrister,1
+jetpur,1

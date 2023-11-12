@@ -1,0 +1,14 @@
+15,115,13
+left,1
+for,1
+bombay,1
+devbhabhi,2
+and,1
+jamnadas,1
+with,2
+me,1
+during,1
+the,1
+journey,1
+long,1
+talk,1

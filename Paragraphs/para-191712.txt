@@ -1,0 +1,12 @@
+54,101,5
+poverty,1
+of,3
+the,3
+indian,1
+peasants,1
+and,1
+workers,1
+lay,1
+in,1
+appropriation,1
+fruit,1

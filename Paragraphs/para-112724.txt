@@ -1,0 +1,6 @@
+33,284,4
+181,1
+letter,1
+to,1
+devdas,1
+gandhi,1

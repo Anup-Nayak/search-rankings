@@ -1,0 +1,7 @@
+21,39,6
+mr,2
+gandhi,1
+then,1
+read,1
+andrews,1
+speech,1

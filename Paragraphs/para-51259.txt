@@ -1,0 +1,9 @@
+15,110,8
+july,1
+25,1
+sunday,1
+went,1
+to,1
+see,1
+judge,1
+kennedy,1

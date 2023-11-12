@@ -1,0 +1,10 @@
+58,313,5
+word,1
+is,1
+necessary,1
+here,1
+regarding,1
+fast,1
+that,1
+was,1
+to,1

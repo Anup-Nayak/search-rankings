@@ -1,0 +1,7 @@
+33,265,6
+158,1
+the,1
+vinay,1
+mandir,1
+at,1
+ode,1

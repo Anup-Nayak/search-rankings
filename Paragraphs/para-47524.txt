@@ -1,0 +1,8 @@
+14,196,2
+way,1
+of,1
+quickening,1
+south,1
+african,1
+conscience,1
+community,1

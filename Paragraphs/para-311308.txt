@@ -1,0 +1,9 @@
+82,120,15
+1,1
+ceiotropis,1
+gigantica,1
+2,1
+one,1
+word,1
+is,1
+illegible,1

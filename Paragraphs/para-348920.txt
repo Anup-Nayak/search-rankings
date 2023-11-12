@@ -1,0 +1,17 @@
+90,275,1
+i,2
+think,1
+you,1
+have,1
+raised,1
+a,1
+very,1
+good,1
+point,1
+am,1
+not,1
+shocked,1
+by,1
+it,1
+at,1
+all,1

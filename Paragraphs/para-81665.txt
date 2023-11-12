@@ -1,0 +1,9 @@
+24,61,8
+asked,1
+for,1
+an,1
+answer,1
+to,1
+the,1
+following,1
+questions,1

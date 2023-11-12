@@ -1,0 +1,15 @@
+46,187,11
+34,1
+the,2
+masters,1
+of,1
+knowledge,1
+who,1
+have,1
+seen,1
+truth,1
+will,1
+impart,1
+to,1
+thee,1
+this,1

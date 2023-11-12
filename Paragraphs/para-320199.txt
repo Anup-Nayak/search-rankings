@@ -1,0 +1,14 @@
+84,88,15
+1,1
+by,1
+mamilal,1
+nabhubhai,1
+dwivedi,1
+gujarati,1
+poet,1
+and,1
+thinker,1
+2,1
+of,1
+bhagavad,1
+gita,1

@@ -1,0 +1,13 @@
+75,180,4
+i,1
+have,1
+put,1
+you,2
+to,1
+much,1
+trouble,1
+god,1
+will,1
+compensate,1
+for,1
+it,1

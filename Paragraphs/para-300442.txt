@@ -1,0 +1,15 @@
+80,54,1
+ps,1
+you,1
+did,1
+well,1
+in,1
+writing,1
+to,1
+me,1
+it,1
+has,1
+neither,1
+tooth,1
+nor,1
+claw,1

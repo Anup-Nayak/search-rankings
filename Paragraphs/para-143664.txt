@@ -1,0 +1,10 @@
+42,74,2
+ashram,1
+wednesday,1
+jeth,1
+vad,1
+4,1
+june,1
+6,1
+1928,1
+1,1

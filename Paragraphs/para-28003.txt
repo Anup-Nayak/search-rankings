@@ -1,0 +1,6 @@
+9,237,2
+146,1
+other,1
+leaders,1
+of,1
+natal,1

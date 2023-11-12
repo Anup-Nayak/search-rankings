@@ -1,0 +1,6 @@
+76,385,1
+490,1
+letter,1
+to,1
+kundar,1
+diwan,1

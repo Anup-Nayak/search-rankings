@@ -1,0 +1,15 @@
+59,506,1
+bapu,1
+my,1
+present,1
+feeling,1
+is,2
+that,1
+the,2
+possibility,1
+of,1
+fast,1
+not,1
+very,1
+far,1
+away,1

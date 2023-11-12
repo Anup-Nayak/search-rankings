@@ -1,0 +1,17 @@
+74,272,3
+g,1
+not,2
+metal,1
+but,1
+bread,1
+and,1
+even,1
+the,1
+dog,1
+under,1
+gods,1
+providence,1
+has,1
+to,1
+go,1
+hungry,1

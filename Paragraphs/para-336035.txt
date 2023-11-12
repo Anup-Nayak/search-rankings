@@ -1,0 +1,14 @@
+87,262,11
+1,1
+the,2
+superscription,1
+and,1
+subscription,1
+in,2
+this,1
+letter,1
+are,1
+hindi,1
+2,1
+mahendra,1
+chowdhury,1

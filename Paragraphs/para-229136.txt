@@ -1,0 +1,9 @@
+62,453,17
+930,1
+to,1
+10,1
+0,1
+mahar,1
+students,1
+boarding,1
+untkhana,1

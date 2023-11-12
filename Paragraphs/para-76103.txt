@@ -1,0 +1,14 @@
+22,90,5
+1,1
+s,1
+j,1
+paul,1
+kruger,1
+1825,1
+1904,1
+president,1
+of,1
+the,1
+transvaal,1
+1883,1
+1900,1

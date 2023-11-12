@@ -1,0 +1,7 @@
+15,318,7
+244,1
+speech,1
+at,1
+parsi,1
+theatre,1
+karachi,1

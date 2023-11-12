@@ -1,0 +1,4 @@
+21,74,2
+48,1
+indians,1
+overseas,1

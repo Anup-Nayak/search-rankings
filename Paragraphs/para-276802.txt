@@ -1,0 +1,14 @@
+74,123,8
+it,1
+is,1
+a,1
+great,1
+pity,1
+that,1
+bitter,1
+controversy,1
+has,1
+taken,1
+place,1
+and,1
+still,1

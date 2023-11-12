@@ -1,0 +1,16 @@
+19,280,9
+you,1
+were,2
+at,2
+bombay,2
+when,1
+some,1
+of,1
+these,1
+things,1
+going,1
+on,1
+yes,1
+i,1
+was,1
+there,1

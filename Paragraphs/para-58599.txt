@@ -1,0 +1,17 @@
+16,502,19
+i,2
+understand,1
+sir,1
+william,1
+vincent,1
+is,1
+coming,1
+here,1
+in,1
+a,1
+day,1
+or,1
+two,1
+and,1
+think,1
+it,1

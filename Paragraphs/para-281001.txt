@@ -1,0 +1,7 @@
+75,145,8
+all,1
+well,1
+anxiety,1
+complex,1
+not,1
+allowed,1

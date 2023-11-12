@@ -1,0 +1,6 @@
+13,163,4
+5,1
+constipation,1
+sprue,1
+dysentery,1
+piles,1

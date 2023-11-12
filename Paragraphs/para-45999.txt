@@ -1,0 +1,9 @@
+14,11,21
+even,1
+if,1
+so,1
+inclined,1
+depart,1
+from,1
+essence,1
+demands,1

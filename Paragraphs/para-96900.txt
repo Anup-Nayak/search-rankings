@@ -1,0 +1,9 @@
+28,436,13
+comparative,1
+dearness,1
+makes,1
+its,1
+disposal,2
+uneconomical,1
+is,1
+made,1

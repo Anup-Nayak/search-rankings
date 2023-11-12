@@ -1,0 +1,8 @@
+80,108,1
+ps,1
+your,1
+wire,1
+has,1
+come,1
+thank,1
+god,1

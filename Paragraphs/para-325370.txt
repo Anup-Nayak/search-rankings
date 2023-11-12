@@ -1,0 +1,8 @@
+85,156,10
+g,1
+lakshmi,1
+amma,1
+depressed,1
+classes,1
+mission,1
+mangalore,1

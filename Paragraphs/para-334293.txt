@@ -1,0 +1,17 @@
+87,100,9
+y,1
+o,1
+u,1
+r,1
+s,1
+m,1
+k,1
+gandhi,1
+dr,1
+zafar,1
+hasan,1
+reader,1
+osmania,1
+university,1
+hyderabad,1
+deccan,1

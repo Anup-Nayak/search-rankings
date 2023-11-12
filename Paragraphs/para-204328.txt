@@ -1,0 +1,9 @@
+57,140,12
+your,1
+wire,1
+immediate,1
+prospective,1
+result,1
+must,1
+not,1
+affect,1

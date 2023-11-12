@@ -1,0 +1,10 @@
+95,240,14
+covering,1
+letter3,1
+of,1
+which,1
+i,1
+enclose,1
+a,1
+copy,1
+herewith,1

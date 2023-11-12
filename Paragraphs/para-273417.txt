@@ -1,0 +1,9 @@
+73,230,8
+from,1
+a,1
+facsimile,1
+madhya,1
+pradesh,1
+aur,1
+gandhiji,1
+p,1

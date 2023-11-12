@@ -1,0 +1,10 @@
+76,160,2
+abbottabad,1
+july,1
+24,1
+1939,1
+dr,1
+gilder,1
+excise,1
+minister,1
+bombay,1

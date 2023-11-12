@@ -1,0 +1,4 @@
+25,256,2
+kripalani,1
+and,1
+co,1

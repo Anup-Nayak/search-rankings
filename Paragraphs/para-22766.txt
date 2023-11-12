@@ -1,0 +1,7 @@
+7,420,1
+impressions,1
+of,1
+adult,1
+taken,1
+by,1
+date,1

@@ -1,0 +1,14 @@
+25,57,6
+1,1
+the,3
+meeting,1
+agreed,1
+to,2
+authorize,1
+working,1
+committee,1
+relax,1
+conditions,1
+in,1
+exceptional,1
+cases,1

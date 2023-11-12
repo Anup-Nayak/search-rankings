@@ -1,0 +1,5 @@
+71,280,2
+310,1
+register,1
+of,1
+customers,1

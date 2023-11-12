@@ -1,0 +1,17 @@
+71,9,3
+while,1
+discussing,1
+the,2
+question,1
+of,1
+providing,1
+work,1
+to,2
+poor,1
+living,1
+in,1
+villages,1
+a,1
+gentleman,1
+writes,1
+say,1

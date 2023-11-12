@@ -1,0 +1,16 @@
+89,331,7
+you,3
+do,1
+not,2
+know,1
+the,1
+world,1
+else,1
+would,1
+have,1
+refused,1
+what,1
+is,1
+being,1
+offered,1
+to,1

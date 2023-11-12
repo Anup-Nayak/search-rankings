@@ -1,0 +1,8 @@
+3,29,13
+a,1
+short,1
+statement,1
+regarding,1
+the,1
+indian,1
+position,1

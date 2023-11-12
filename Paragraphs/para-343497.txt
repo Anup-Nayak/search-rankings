@@ -1,0 +1,7 @@
+89,106,1
+159,1
+letter,1
+to,1
+dharma,1
+dev,1
+shastri,1

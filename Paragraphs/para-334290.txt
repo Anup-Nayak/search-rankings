@@ -1,0 +1,6 @@
+87,100,6
+173,1
+letter,1
+to,1
+zafar,1
+hasan,1

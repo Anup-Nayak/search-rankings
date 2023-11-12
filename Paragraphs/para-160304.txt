@@ -1,0 +1,15 @@
+46,233,4
+as,1
+an,1
+instrument,1
+of,1
+national,1
+policy,1
+while,1
+by,1
+the,1
+second,1
+they,1
+agree,1
+never,1
+to,1

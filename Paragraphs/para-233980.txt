@@ -1,0 +1,16 @@
+64,68,6
+and,1
+other,1
+friends,1
+1,1
+of,3
+his,1
+gandhiji,1
+asked,1
+dr,1
+ambedkar,1
+for,1
+a,1
+criticism,1
+the,1
+work,1

@@ -1,0 +1,9 @@
+46,49,8
+are,1
+not,1
+liable,2
+and,1
+if,1
+you,1
+have,1
+no,1

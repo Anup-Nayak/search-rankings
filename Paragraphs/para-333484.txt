@@ -1,0 +1,4 @@
+87,23,2
+mohandas,1
+karamchand,1
+gandhi,1

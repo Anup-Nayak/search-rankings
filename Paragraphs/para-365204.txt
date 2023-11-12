@@ -1,0 +1,8 @@
+94,250,14
+i,1
+continue,1
+receive,1
+doleful,1
+wires,1
+about,1
+increasing,1

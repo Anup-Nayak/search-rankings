@@ -1,0 +1,14 @@
+82,407,20
+g,1
+i,2
+do,1
+not,1
+want,2
+help,1
+from,1
+anybody,1
+to,2
+make,1
+india,2
+free,1
+save,1

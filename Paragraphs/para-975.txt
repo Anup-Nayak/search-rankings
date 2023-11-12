@@ -1,0 +1,16 @@
+1,193,6
+1,1
+collection,1
+of,1
+fifty,1
+upanishads,1
+rendered,1
+originally,1
+into,1
+persian,1
+from,1
+sanskrit,1
+in,1
+the,1
+17th,1
+century,1

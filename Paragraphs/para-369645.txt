@@ -1,0 +1,17 @@
+95,421,1
+integrity,1
+through,1
+fear,1
+of,2
+consequences,1
+and,1
+leads,1
+to,2
+the,3
+collapse,1
+organization,1
+which,1
+was,1
+unable,1
+face,1
+issue,1

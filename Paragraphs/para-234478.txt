@@ -1,0 +1,13 @@
+64,127,9
+1,1
+this,1
+and,1
+the,1
+two,1
+following,1
+items,1
+are,1
+extracted,1
+from,1
+weekly,1
+letter,1

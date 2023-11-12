@@ -1,0 +1,14 @@
+37,247,14
+another,1
+student,1
+can,1
+one,3
+be,1
+sure,1
+that,1
+after,1
+dies,1
+in,1
+the,1
+next,1
+life,1

@@ -1,0 +1,16 @@
+44,479,12
+t4,1
+in,1
+guj,2
+the,1
+sentence,1
+ends,1
+here,1
+thereafter,1
+for,1
+not,2
+knowing,1
+has,1
+i,1
+do,1
+remember,1

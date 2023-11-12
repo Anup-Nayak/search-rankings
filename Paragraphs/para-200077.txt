@@ -1,0 +1,13 @@
+56,120,8
+1,1
+addressees,1
+daughter,2
+2,1
+of,1
+c,1
+rajagopalachari,1
+who,1
+later,1
+married,1
+devdas,1
+ghandhi,1

@@ -1,0 +1,5 @@
+64,145,10
+statement,1
+2,1
+from,1
+gujarati,1

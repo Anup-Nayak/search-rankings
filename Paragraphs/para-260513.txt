@@ -1,0 +1,8 @@
+70,78,8
+g,1
+faith,2
+in,2
+myself,1
+born,1
+of,1
+god,1

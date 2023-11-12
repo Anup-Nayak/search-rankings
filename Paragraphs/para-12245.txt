@@ -1,0 +1,7 @@
+5,60,4
+55,1
+payment,1
+of,1
+the,1
+poll,1
+tax,1

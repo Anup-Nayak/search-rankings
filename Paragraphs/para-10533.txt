@@ -1,0 +1,6 @@
+4,297,2
+247,1
+smallpox,1
+in,1
+johannesburg,1
+1,1

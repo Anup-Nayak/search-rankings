@@ -1,0 +1,7 @@
+82,415,7
+l,1
+f,1
+you,1
+are,1
+an,1
+optimist,1

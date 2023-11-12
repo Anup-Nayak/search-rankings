@@ -1,0 +1,7 @@
+43,387,9
+496,1
+letter,1
+to,1
+rup,1
+narayan,1
+shrivastava,1

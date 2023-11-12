@@ -1,0 +1,14 @@
+33,344,18
+congress,1
+if,1
+the,2
+interpretation,1
+of,1
+said,1
+agreement,1
+as,1
+put,1
+upon,1
+it,1
+on,1
+behalf,1

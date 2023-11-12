@@ -1,0 +1,6 @@
+76,73,12
+1,1
+for,1
+the,1
+frontier,1
+province,1

@@ -1,0 +1,17 @@
+65,296,7
+november,1
+6,1
+1934,1
+governor,1
+of,3
+the,3
+basrah,3
+province,1
+in,1
+kingdom,1
+iraq,1
+and,1
+president,1
+date,1
+advisory,1
+board,1

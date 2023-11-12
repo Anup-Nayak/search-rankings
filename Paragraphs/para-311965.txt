@@ -1,0 +1,16 @@
+82,173,14
+not,2
+think,1
+so,1
+but,1
+do,1
+you,2
+still,1
+feel,1
+the,1
+same,1
+would,1
+today,1
+have,1
+had,1
+an,1

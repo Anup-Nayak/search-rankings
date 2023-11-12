@@ -1,0 +1,9 @@
+87,252,2
+blessings,1
+from,1
+bapu,1
+nature,1
+cure,1
+hospital,1
+malad,1
+bombay,1

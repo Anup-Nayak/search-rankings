@@ -1,0 +1,11 @@
+39,343,1
+ps,1
+pray,1
+do,1
+not,1
+feel,1
+bound,1
+to,1
+acknowledge,1
+this,1
+note,1

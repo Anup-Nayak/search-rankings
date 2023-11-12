@@ -1,0 +1,10 @@
+17,74,19
+thrown,1
+open,1
+to,1
+the,1
+indians,1
+nor,1
+racial,1
+bars,1
+and,1

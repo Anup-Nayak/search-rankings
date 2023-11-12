@@ -1,0 +1,4 @@
+28,211,5
+sikh,1
+self,1
+restraint,1

@@ -1,0 +1,15 @@
+32,459,1
+blame,1
+the,3
+teachers,1
+if,1
+they,1
+could,2
+not,1
+create,1
+in,1
+students,1
+love,1
+for,1
+it,1
+how,1

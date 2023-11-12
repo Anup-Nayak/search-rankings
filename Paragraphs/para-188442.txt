@@ -1,0 +1,10 @@
+53,211,22
+those,1
+who,1
+are,1
+in,1
+a,1
+position,1
+to,1
+do,1
+so,1

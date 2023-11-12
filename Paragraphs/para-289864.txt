@@ -1,0 +1,11 @@
+77,236,4
+then,1
+advance,1
+to,1
+the,2
+centre,1
+of,1
+carpet,1
+and,1
+bow,1
+again,1

@@ -1,0 +1,16 @@
+23,94,6
+we,1
+are,1
+now,1
+in,1
+debt,1
+and,2
+although,1
+he,1
+draws,1
+a,1
+good,1
+salary,1
+does,1
+not,1
+drink,1

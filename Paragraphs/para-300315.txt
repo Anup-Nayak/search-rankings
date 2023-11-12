@@ -1,0 +1,6 @@
+80,42,1
+70,1
+letter,1
+to,1
+newspaper,1
+editors,1

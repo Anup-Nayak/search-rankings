@@ -1,0 +1,7 @@
+13,426,27
+stop,1
+church,1
+counsels,1
+influential,1
+individual,1
+europeans,1

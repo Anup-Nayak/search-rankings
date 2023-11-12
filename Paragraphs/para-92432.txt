@@ -1,0 +1,5 @@
+27,255,5
+256,1
+schoolmasters,1
+and,1
+lawyers,1

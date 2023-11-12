@@ -1,0 +1,9 @@
+62,93,7
+112,1
+letter,1
+to,1
+kanti,1
+parekh,1
+and,1
+jayanti,1
+parkeh,1

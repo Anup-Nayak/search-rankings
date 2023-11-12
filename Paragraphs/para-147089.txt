@@ -1,0 +1,12 @@
+42,473,23
+documents,1
+referred,1
+to,1
+in,1
+this,1
+paragraph,1
+are,1
+as,1
+described,1
+below,1
+viz,1

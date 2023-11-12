@@ -1,0 +1,6 @@
+51,127,11
+obtain,1
+able,1
+without,1
+surrender,1
+fundamental,1

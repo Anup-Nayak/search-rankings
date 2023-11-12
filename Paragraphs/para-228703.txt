@@ -1,0 +1,10 @@
+62,385,4
+from,1
+a,1
+photostat,1
+fo,1
+the,1
+gujarati,1
+g,1
+n,1
+6825,1

@@ -1,0 +1,5 @@
+6,242,2
+for,1
+the,1
+brave,1
+only,1

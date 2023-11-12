@@ -1,0 +1,12 @@
+72,268,9
+1,1
+for,1
+gandhijis,1
+article,1
+on,1
+the,1
+subject,1
+vide,1
+illiterates,1
+v,1
+literates,1

@@ -1,0 +1,6 @@
+75,217,6
+1,1
+dewan,1
+of,1
+hyderabad,1
+state,1

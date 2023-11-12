@@ -1,0 +1,4 @@
+52,32,2
+sardar,1
+framroze,1
+garda1,1

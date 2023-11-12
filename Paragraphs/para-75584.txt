@@ -1,0 +1,5 @@
+21,520,14
+pali,1
+and,2
+magadhi,1
+languages,1

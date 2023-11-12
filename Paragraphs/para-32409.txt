@@ -1,0 +1,12 @@
+10,357,23
+intention,1
+to,2
+wound,1
+the,2
+feelings,1
+or,1
+interfere,1
+with,1
+movements,1
+of,1
+domiciled,1

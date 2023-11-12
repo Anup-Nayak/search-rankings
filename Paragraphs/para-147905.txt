@@ -1,0 +1,6 @@
+43,98,3
+vallabhbhai,1
+patel,1
+swaraj,1
+ashram,1
+bardoli,1

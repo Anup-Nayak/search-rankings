@@ -1,0 +1,17 @@
+65,327,10
+1,1
+the,1
+addressee,1
+received,1
+this,1
+letter,1
+on,1
+november,1
+12,1
+1934,1
+2,1
+all,1
+india,1
+village,1
+industries,1
+association,1

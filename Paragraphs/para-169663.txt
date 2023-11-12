@@ -1,0 +1,6 @@
+48,506,4
+1,1
+extracted,1
+from,1
+dharma,1
+yatra,1

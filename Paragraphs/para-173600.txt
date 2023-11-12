@@ -1,0 +1,8 @@
+49,463,12
+extracts,1
+from,1
+the,1
+daily,1
+telegraph,1
+report,1
+1,1

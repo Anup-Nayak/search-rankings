@@ -1,0 +1,12 @@
+84,462,3
+4,1
+clause,2
+3,1
+who,1
+are,1
+meant,1
+by,1
+all,1
+parties,1
+in,1
+this,1

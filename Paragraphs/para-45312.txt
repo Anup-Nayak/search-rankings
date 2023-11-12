@@ -1,0 +1,7 @@
+13,436,10
+peoples,1
+strength,1
+persists,1
+most,1
+adverse,1
+circumstances,1

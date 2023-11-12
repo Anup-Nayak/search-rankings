@@ -1,0 +1,11 @@
+61,475,14
+c,1
+r,1
+no,1
+even,1
+from,1
+the,1
+spiritual,1
+point,1
+of,1
+view,1

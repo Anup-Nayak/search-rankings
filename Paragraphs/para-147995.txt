@@ -1,0 +1,12 @@
+43,106,2
+a,1
+bania,1
+gentleman,1
+from,1
+the,1
+bardoli,1
+taluk,1
+writes,1
+to,1
+say,1
+1,1

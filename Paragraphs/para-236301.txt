@@ -1,0 +1,5 @@
+64,331,7
+anand,1
+hingorani,1
+sahitipur,1
+karachi,1

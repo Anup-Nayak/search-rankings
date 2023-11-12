@@ -1,0 +1,14 @@
+95,155,8
+1,1
+extracted,1
+from,2
+sushila,1
+nayyars,1
+medicine,1
+for,1
+the,1
+masses,1
+2,1
+bihar,1
+pachhi,1
+dilhi,1

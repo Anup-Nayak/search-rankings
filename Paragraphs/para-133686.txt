@@ -1,0 +1,6 @@
+39,92,1
+100,1
+letter,1
+to,1
+lajpat,1
+rai,1

@@ -1,0 +1,13 @@
+32,461,21
+2,1
+with,1
+regard,1
+to,1
+an,1
+unequivocal,1
+declaration,1
+by,1
+government,1
+on,1
+the,1
+subject,1

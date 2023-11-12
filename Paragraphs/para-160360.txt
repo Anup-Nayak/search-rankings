@@ -1,0 +1,16 @@
+46,241,1
+of,1
+cotton,1
+spinning,1
+and,1
+get,1
+the,2
+yarn,1
+thus,1
+spun,1
+woven,1
+by,1
+village,1
+weaver,1
+into,1
+khadi,1

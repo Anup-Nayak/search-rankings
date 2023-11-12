@@ -1,0 +1,7 @@
+13,181,12
+for,2
+one,1
+year,1
+including,1
+allowance,1
+family,1

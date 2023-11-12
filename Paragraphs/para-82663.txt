@@ -1,0 +1,14 @@
+24,220,4
+modern,1
+science,1
+and,2
+human,1
+skill,1
+intelligence,1
+in,1
+which,1
+for,1
+the,1
+present,1
+they,1
+have,1

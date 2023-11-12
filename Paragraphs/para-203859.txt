@@ -1,0 +1,6 @@
+57,105,29
+this,1
+preparation,1
+for,2
+death,1
+untouchability,1

@@ -1,0 +1,9 @@
+65,296,6
+335,1
+letter,1
+to,1
+governor,1
+of,1
+basrah,1
+province,1
+iraq,1

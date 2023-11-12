@@ -1,0 +1,13 @@
+21,86,19
+trade,1
+they,1
+will,1
+take,1
+steps,1
+in,1
+england,1
+towards,1
+the,2
+satisfactory,1
+settlement,1
+of,1

@@ -1,0 +1,8 @@
+61,75,8
+stay,1
+ashram,1
+during,1
+fast,2
+hope,1
+prema,1
+completed,1

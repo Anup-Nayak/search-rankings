@@ -1,0 +1,12 @@
+12,342,12
+spent,1
+day,1
+on,1
+the,2
+farmkanji,1
+left,1
+school,1
+for,1
+milk,1
+0,2
+6,1

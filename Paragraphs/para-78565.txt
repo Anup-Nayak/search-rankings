@@ -1,0 +1,14 @@
+23,23,10
+committee,1
+had,1
+asked,1
+them,1
+to,1
+depend,1
+on,1
+themselves,1
+alone,1
+in,1
+their,1
+endeavour,1
+for,1

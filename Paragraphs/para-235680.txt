@@ -1,0 +1,12 @@
+64,256,8
+liquor,1
+gambling,1
+and,2
+the,1
+idea,1
+of,1
+superiority,1
+inferiority,1
+even,1
+among,1
+themselves,1

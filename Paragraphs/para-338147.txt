@@ -1,0 +1,14 @@
+88,15,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+shri,1
+santram,1
+agrawal,1
+divine,1
+life,1
+society,1
+jarauli,1
+amritsar,1

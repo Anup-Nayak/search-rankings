@@ -1,0 +1,11 @@
+33,101,1
+make,1
+a,1
+combined,1
+effort,1
+to,1
+keep,1
+the,1
+congress,1
+organization,1
+pure,1

@@ -1,0 +1,12 @@
+59,103,9
+m,1
+k,1
+gandhi,1
+sjt,1
+h,1
+l,1
+sharma,1
+sunray,1
+hospital,1
+karolbagh,1
+delhi,1

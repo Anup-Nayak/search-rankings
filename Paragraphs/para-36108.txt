@@ -1,0 +1,9 @@
+11,282,23
+not,1
+be,2
+protected,1
+it,1
+would,1
+much,1
+better,1
+bill,1

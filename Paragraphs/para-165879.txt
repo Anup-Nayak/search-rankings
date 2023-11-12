@@ -1,0 +1,15 @@
+47,399,10
+1,1
+the,2
+letters,1
+are,1
+in,2
+a,1
+different,1
+hand,1
+but,1
+subscription,1
+both,1
+is,1
+by,1
+gandhiji,1

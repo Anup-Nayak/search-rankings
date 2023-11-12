@@ -1,0 +1,11 @@
+8,41,6
+mr,1
+jordan,1
+had,1
+you,1
+a,1
+permit,1
+to,1
+enter,1
+the,1
+country,1

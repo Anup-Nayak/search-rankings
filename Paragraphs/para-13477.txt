@@ -1,0 +1,5 @@
+5,261,2
+247,1
+pledge,1
+of,1
+allegiance,1

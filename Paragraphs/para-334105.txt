@@ -1,0 +1,13 @@
+87,82,2
+yours,1
+m,1
+k,1
+gandhi,1
+lala,1
+dunichand,1
+advocate,1
+kripanandas,1
+cottage,1
+ambala,1
+city,1
+punjab,1

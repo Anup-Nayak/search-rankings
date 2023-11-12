@@ -1,0 +1,16 @@
+60,377,6
+i,2
+know,1
+you,2
+would,1
+love,1
+me,1
+to,1
+tell,1
+all,1
+this,1
+just,1
+now,1
+if,1
+have,1
+not,1

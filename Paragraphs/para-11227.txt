@@ -1,0 +1,10 @@
+4,380,7
+343,1
+natives,1
+rights,1
+to,1
+hold,1
+land,1
+in,1
+the,1
+transvaal,1

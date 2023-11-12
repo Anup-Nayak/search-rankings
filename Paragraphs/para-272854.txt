@@ -1,0 +1,14 @@
+73,170,4
+robber,1
+ps,1
+expect,1
+to,2
+leave,1
+for,1
+wardha,2
+on,1
+17th,1
+or,1
+18th,1
+so,1
+write,1

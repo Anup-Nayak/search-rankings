@@ -1,0 +1,9 @@
+54,51,7
+sir,1
+akbar,1
+hydrai,1
+6,1
+7,1
+crores,1
+less,1
+123,1

@@ -1,0 +1,9 @@
+13,439,28
+occasions,1
+communitys,1
+feeling,1
+is,1
+such,1
+that,1
+not,1
+granting,1

@@ -1,0 +1,10 @@
+97,174,5
+hope,1
+you,1
+will,1
+work,1
+for,2
+service,1
+and,1
+never,1
+power,1

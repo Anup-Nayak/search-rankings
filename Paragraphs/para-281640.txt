@@ -1,0 +1,9 @@
+75,221,7
+yours,1
+m,1
+k,1
+gandhi,1
+shrimati,1
+narayani,1
+devi,1
+2,1

@@ -1,0 +1,10 @@
+68,353,10
+1,1
+only,1
+extracts,1
+of,1
+the,1
+letter,1
+are,1
+reproduced,1
+here,1

@@ -1,0 +1,15 @@
+68,444,21
+f,1
+it,2
+should,1
+be,1
+understood,1
+that,1
+is,1
+the,1
+primary,1
+and,1
+imperatiye,1
+duty,1
+of,1
+all,1

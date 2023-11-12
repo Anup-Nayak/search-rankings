@@ -1,0 +1,7 @@
+18,425,3
+309,1
+to,1
+the,1
+public,1
+outside,1
+gujarat,1

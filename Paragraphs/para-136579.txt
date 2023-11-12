@@ -1,0 +1,5 @@
+40,4,5
+daily,1
+reports,1
+andrews,1
+joins,1

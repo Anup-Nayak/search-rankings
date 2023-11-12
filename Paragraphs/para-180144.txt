@@ -1,0 +1,11 @@
+51,232,4
+q,1
+if,1
+the,3
+karachi,1
+congress,1
+should,1
+reject,1
+terms,1
+of,1
+provisional,1

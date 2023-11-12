@@ -1,0 +1,7 @@
+33,145,7
+84,1
+speech,1
+on,1
+board,1
+steamer,1
+dwarka,1

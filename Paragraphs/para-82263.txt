@@ -1,0 +1,9 @@
+24,161,6
+1,1
+younger,1
+brother,1
+of,1
+ravana,1
+in,1
+the,1
+ramayana,1

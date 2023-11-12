@@ -1,0 +1,6 @@
+54,193,18
+the,1
+rt,1
+sir,1
+samuel,1
+hoare,1

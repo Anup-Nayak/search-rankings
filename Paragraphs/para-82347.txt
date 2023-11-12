@@ -1,0 +1,10 @@
+24,177,3
+mohandas,1
+bhaishri,1
+vallabhbhai,1
+patel,1
+barrister,1
+bhadra,1
+ahmedabad,1
+from,1
+gujarati,1

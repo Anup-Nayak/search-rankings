@@ -1,0 +1,7 @@
+43,307,3
+hope,1
+you,1
+will,1
+try,1
+collect,1
+subscriptions,1

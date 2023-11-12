@@ -1,0 +1,12 @@
+98,57,3
+according,1
+to,1
+a,1
+report,1
+recently,1
+published,1
+in,1
+the,1
+civil,1
+and,1
+military,1

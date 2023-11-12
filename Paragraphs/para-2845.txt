@@ -1,0 +1,14 @@
+2,79,6
+disinfecting,1
+as,2
+well,1
+ventilating,1
+of,1
+holds,1
+strictly,1
+attended,1
+to,1
+a,1
+letter,1
+was,1
+received,1

@@ -1,0 +1,13 @@
+52,8,11
+re,1
+entered,1
+the,3
+house,1
+to,1
+save,1
+cattle,1
+also,1
+unfortunately,1
+fire,1
+had,1
+spread,1

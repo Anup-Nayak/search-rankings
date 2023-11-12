@@ -1,0 +1,6 @@
+18,256,3
+202,1
+letter,1
+to,1
+chhaganlal,1
+gandhi,1

@@ -1,0 +1,6 @@
+83,278,1
+228,1
+independence,1
+day,1
+pledge,1
+1,1

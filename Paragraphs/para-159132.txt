@@ -1,0 +1,13 @@
+46,107,6
+freedom,1
+of,2
+the,3
+slave,1
+in,1
+old,1
+days,1
+american,1
+slavery,1
+meant,1
+enmity,1
+to,1

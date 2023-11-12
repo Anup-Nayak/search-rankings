@@ -1,0 +1,5 @@
+61,161,11
+necessary,1
+for,1
+unforeseen,1
+circumstances,1

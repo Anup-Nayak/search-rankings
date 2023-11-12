@@ -1,0 +1,9 @@
+87,124,11
+1,1
+for,1
+kasturba,1
+seva,1
+mandir,1
+2,1
+hamid,1
+qureshi,1

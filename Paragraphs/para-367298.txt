@@ -1,0 +1,8 @@
+95,79,5
+mridulabehn,1
+care,1
+dr,1
+syed,1
+mahmud,1
+bankipore,1
+patna,1

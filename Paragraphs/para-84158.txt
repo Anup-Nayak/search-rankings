@@ -1,0 +1,9 @@
+24,472,18
+deportations,1
+internments,1
+and,2
+imprisonment,1
+of,1
+innocent,1
+men,1
+flogging,1

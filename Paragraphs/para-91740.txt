@@ -1,0 +1,13 @@
+27,164,3
+m,1
+k,1
+gandhi,1
+dr,1
+c,1
+a,1
+pereira,1
+tamund,1
+bambela,1
+pitiya,1
+road,1
+colombo,1

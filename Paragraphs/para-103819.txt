@@ -1,0 +1,7 @@
+30,324,5
+195,1
+letter,1
+to,1
+zafar,1
+ali,1
+khan,1

@@ -1,0 +1,9 @@
+53,55,11
+c,1
+protection,1
+of,2
+political,1
+and,1
+other,1
+rights,1
+minority,1

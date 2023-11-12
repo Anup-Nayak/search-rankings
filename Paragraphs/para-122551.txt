@@ -1,0 +1,8 @@
+36,142,4
+1,1
+bhagavad,1
+gita,1
+ii,1
+40,1
+2,1
+atonement,1

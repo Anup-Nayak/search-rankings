@@ -1,0 +1,7 @@
+13,104,7
+indian,1
+demands,1
+passive,1
+resistance,1
+certain,1
+revive,1

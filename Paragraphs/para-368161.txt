@@ -1,0 +1,7 @@
+95,206,4
+192,1
+talk,1
+with,1
+college,1
+students,1
+1,1

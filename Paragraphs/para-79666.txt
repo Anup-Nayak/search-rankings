@@ -1,0 +1,6 @@
+23,220,2
+103,1
+khilafat,1
+and,1
+non,1
+violence,1

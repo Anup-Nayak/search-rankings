@@ -1,0 +1,8 @@
+54,266,4
+before,1
+we,1
+can,1
+quarrel,1
+with,1
+our,1
+state,1

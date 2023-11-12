@@ -1,0 +1,15 @@
+78,22,3
+q,1
+i,2
+am,1
+a,2
+hindu,1
+student,1
+have,2
+been,1
+great,1
+friends,1
+with,1
+muslim,1
+but,1
+we,1

@@ -1,0 +1,8 @@
+87,45,5
+t,1
+i,1
+kedar,1
+advocate,1
+civil,1
+station,1
+nagpur,1

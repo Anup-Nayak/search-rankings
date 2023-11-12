@@ -1,0 +1,7 @@
+35,332,5
+431,1
+letter,1
+to,1
+ruth,1
+s,1
+alexander,1

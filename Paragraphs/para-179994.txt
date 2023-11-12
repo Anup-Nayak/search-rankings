@@ -1,0 +1,13 @@
+51,214,12
+1,1
+vide,2
+letter,3
+to,3
+viceroy,2
+4,3
+3,3
+1931,3
+&,1
+g,1
+cunningham,1
+2,1

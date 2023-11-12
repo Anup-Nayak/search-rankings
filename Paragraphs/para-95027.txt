@@ -1,0 +1,5 @@
+28,135,2
+71,1
+untouchability,1
+and,1
+swaraj,1

@@ -1,0 +1,7 @@
+13,430,2
+incruelty,1
+magistrate,1
+indifferent,1
+rarely,1
+visits,1
+prison,1

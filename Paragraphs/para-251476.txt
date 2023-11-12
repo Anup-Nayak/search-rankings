@@ -1,0 +1,10 @@
+68,29,5
+bapu,1
+ps,1
+i,1
+am,1
+not,1
+writing,1
+to,1
+satis,1
+babu,1

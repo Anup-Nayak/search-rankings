@@ -1,0 +1,11 @@
+54,127,15
+mr,1
+gandhi,1
+but,1
+will,1
+the,1
+new,1
+treaties,1
+all,1
+be,1
+public,1

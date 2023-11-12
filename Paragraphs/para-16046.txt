@@ -1,0 +1,7 @@
+6,82,1
+76,1
+letter,1
+to,1
+miss,1
+f,1
+winterbottom,1

@@ -1,0 +1,4 @@
+48,125,2
+labour,1
+and,1
+capital,1

@@ -1,0 +1,4 @@
+85,80,9
+bapu,1
+from,1
+hindi,1

@@ -1,0 +1,7 @@
+20,30,18
+sir,1
+fazulbhoy,1
+mr,1
+a,1
+h,1
+ley,1

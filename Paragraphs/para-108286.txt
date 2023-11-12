@@ -1,0 +1,10 @@
+32,65,2
+49,1
+who,1
+is,1
+to,1
+blame,1
+a,1
+volunteer,1
+writes,1
+2,1

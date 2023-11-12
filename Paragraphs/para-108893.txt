@@ -1,0 +1,7 @@
+32,174,1
+124,1
+speech,1
+on,1
+kristodas,1
+pal,1
+1,1

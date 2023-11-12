@@ -1,0 +1,5 @@
+50,23,3
+the,2
+statement,1
+contained,1
+following,1

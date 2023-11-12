@@ -1,0 +1,4 @@
+33,348,5
+lord,1
+readings,1
+reply,1

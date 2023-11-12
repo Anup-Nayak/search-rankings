@@ -1,0 +1,15 @@
+66,102,1
+purport,1
+should,2
+be,2
+reduced,1
+to,2
+writing,1
+and,1
+no,1
+report,1
+given,1
+the,2
+press,1
+of,1
+conversation,1

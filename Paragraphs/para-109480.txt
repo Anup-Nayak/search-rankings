@@ -1,0 +1,6 @@
+32,287,3
+181,1
+currency,1
+and,1
+cotton,1
+mills,1

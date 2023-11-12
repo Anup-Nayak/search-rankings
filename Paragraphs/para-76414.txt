@@ -1,0 +1,5 @@
+22,153,3
+85,1
+caste,1
+versus,1
+class,1

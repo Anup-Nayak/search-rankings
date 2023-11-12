@@ -1,0 +1,17 @@
+46,9,7
+was,3
+whispered,1
+by,2
+some,1
+in,1
+the,2
+meeting,1
+that,1
+young,1
+lady,1
+who,1
+sitting,1
+you,1
+a,1
+panchama,1
+girl,1

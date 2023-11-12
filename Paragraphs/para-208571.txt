@@ -1,0 +1,7 @@
+58,131,15
+resume,1
+partial,1
+fast,1
+event,1
+unfavourable,1
+decision,1

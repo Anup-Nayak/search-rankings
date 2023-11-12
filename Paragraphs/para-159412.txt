@@ -1,0 +1,7 @@
+46,141,5
+say,1
+your,1
+correspondent,1
+has,1
+erred,1
+grievously,1

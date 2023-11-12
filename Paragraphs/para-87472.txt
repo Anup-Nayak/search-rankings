@@ -1,0 +1,4 @@
+25,492,2
+hand,1
+written,1
+newspaper,1

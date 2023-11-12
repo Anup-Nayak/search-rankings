@@ -1,0 +1,17 @@
+2,79,20
+was,2
+got,1
+under,1
+way,1
+and,2
+taken,1
+across,1
+the,2
+bar,1
+at,1
+12,1
+45,1
+port,1
+anchor,1
+let,1
+go,1

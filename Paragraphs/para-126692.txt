@@ -1,0 +1,5 @@
+37,137,4
+1,1
+dependent,1
+on,1
+oneself,1

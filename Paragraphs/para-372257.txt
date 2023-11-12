@@ -1,0 +1,17 @@
+96,286,3
+i,3
+hope,1
+you,1
+are,1
+all,1
+right,1
+dont,1
+know,1
+where,1
+may,1
+be,1
+tomorrow,1
+the,1
+time,1
+is,1
+critical,1

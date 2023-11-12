@@ -1,0 +1,14 @@
+31,33,4
+people,1
+without,1
+taking,1
+a,1
+single,1
+farthing,1
+that,1
+was,1
+unfortunately,1
+not,1
+the,1
+case,1
+today,1

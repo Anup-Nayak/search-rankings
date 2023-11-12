@@ -1,0 +1,12 @@
+9,99,11
+announcement,1
+that,1
+the,2
+deported,1
+leaders,1
+would,1
+cross,1
+borders,1
+on,1
+their,1
+return,1

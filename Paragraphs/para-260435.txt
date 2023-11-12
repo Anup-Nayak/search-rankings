@@ -1,0 +1,4 @@
+70,68,7
+78,1
+obscene,1
+advertisements,1

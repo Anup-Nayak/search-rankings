@@ -1,0 +1,12 @@
+47,106,19
+cost,1
+per,1
+head,1
+of,1
+giving,1
+employment,1
+through,1
+mills,1
+rs,1
+1,1
+328,1

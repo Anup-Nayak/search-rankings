@@ -1,0 +1,12 @@
+80,488,9
+gandhiji,1
+a,1
+congress,1
+as,1
+an,1
+institution,1
+cannot,1
+organize,1
+violent,1
+self,1
+defence,1

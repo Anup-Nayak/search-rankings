@@ -1,0 +1,15 @@
+89,367,10
+6,1
+all,1
+the,1
+work,1
+now,1
+done,1
+through,1
+contract,1
+labour,1
+should,1
+be,1
+taken,1
+over,1
+departmentally,1

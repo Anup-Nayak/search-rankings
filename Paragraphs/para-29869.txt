@@ -1,0 +1,4 @@
+9,499,2
+transvaal,1
+indians,1
+petitions,1

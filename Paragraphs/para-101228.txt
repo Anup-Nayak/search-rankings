@@ -1,0 +1,17 @@
+29,480,8
+bag,1
+on,2
+the,1
+rostrum,1
+sat,1
+a,1
+sufficiently,1
+high,1
+stool,1
+and,1
+kept,1
+his,1
+watch,1
+open,1
+in,1
+front,1

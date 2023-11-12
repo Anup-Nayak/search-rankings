@@ -1,0 +1,8 @@
+26,162,3
+resolutions,1
+passed,1
+on,1
+merit,1
+no,1
+truce,1
+whatsoever,1

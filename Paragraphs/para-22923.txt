@@ -1,0 +1,9 @@
+7,432,6
+b,1
+precluded,1
+from,1
+the,1
+exercise,1
+of,1
+burger,1
+rights,1

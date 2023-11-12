@@ -1,0 +1,8 @@
+51,77,20
+twentyfirst,1
+instant,1
+wellknown,1
+ladies,1
+occupied,1
+in,1
+no,1

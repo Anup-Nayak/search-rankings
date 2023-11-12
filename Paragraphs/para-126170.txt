@@ -1,0 +1,13 @@
+37,50,3
+mohandas,1
+gandhi,1
+brahmachari,1
+harjivan,1
+manishanker,1
+vyas,1
+zamka,1
+p,1
+o,1
+bagasra,1
+bhayani,1
+kathiawar,1

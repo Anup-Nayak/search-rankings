@@ -1,0 +1,6 @@
+47,413,6
+480,1
+letter,1
+to,1
+ishwarlal,1
+joshi,1

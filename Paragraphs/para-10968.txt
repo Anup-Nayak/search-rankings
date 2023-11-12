@@ -1,0 +1,12 @@
+4,353,5
+1,1
+a,1
+chain,1
+of,1
+small,1
+islands,1
+in,1
+the,1
+north,1
+pacific,1
+ocean,1

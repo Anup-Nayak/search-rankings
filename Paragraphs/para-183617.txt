@@ -1,0 +1,15 @@
+52,157,1
+5,1
+should,1
+there,1
+be,1
+picketing,1
+against,1
+those,1
+who,1
+sell,1
+both,1
+foreign,1
+and,1
+indian,1
+cloth,1

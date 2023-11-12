@@ -1,0 +1,13 @@
+7,111,8
+a,2
+white,1
+man,1
+has,1
+been,1
+arrested,1
+on,1
+charge,1
+of,1
+theft,1
+under,1
+the,1

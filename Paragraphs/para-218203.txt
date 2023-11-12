@@ -1,0 +1,6 @@
+60,142,6
+179,1
+letter,1
+to,1
+gangabehn,1
+vaidya,1

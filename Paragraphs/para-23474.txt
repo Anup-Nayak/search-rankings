@@ -1,0 +1,6 @@
+8,63,2
+i,1
+have,1
+etc,1
+essop,1
+mia,1

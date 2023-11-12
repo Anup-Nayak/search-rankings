@@ -1,0 +1,9 @@
+36,337,4
+mohandas,1
+gandhi,1
+sjt,1
+motilal,1
+nathusha,1
+rajpara,1
+gotimohalla,1
+burhanpur,1

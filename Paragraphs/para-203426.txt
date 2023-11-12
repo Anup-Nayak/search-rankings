@@ -1,0 +1,11 @@
+57,67,16
+1,1
+the,2
+proposed,1
+fast,1
+against,1
+separate,1
+electorate,1
+for,1
+depressed,1
+classes,1

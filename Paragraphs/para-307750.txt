@@ -1,0 +1,12 @@
+81,259,6
+453,1
+letter,1
+to,1
+r,1
+k,1
+l,1
+nand,1
+keolyar,1
+october,1
+31,1
+1941,1

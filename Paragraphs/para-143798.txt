@@ -1,0 +1,10 @@
+42,92,1
+has,1
+just,1
+come,1
+in,1
+it,1
+is,1
+as,1
+follows,1
+1,1

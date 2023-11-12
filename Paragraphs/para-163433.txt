@@ -1,0 +1,10 @@
+47,125,2
+140,1
+speech,1
+at,1
+piece,1
+goods,1
+merchants,1
+meeting,1
+kanpur,1
+1,1

@@ -1,0 +1,13 @@
+52,353,7
+authorities,1
+a,1
+compromise,1
+was,2
+reached,1
+and,1
+soon,1
+after,1
+the,1
+ban,1
+raised,1
+again,1

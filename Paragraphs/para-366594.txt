@@ -1,0 +1,17 @@
+94,423,4
+i,1
+hope,1
+my,1
+position,1
+is,2
+quite,1
+clear,1
+but,1
+if,1
+it,1
+not,2
+please,1
+do,1
+hesitate,1
+to,1
+write,1

@@ -1,0 +1,10 @@
+28,375,2
+m,1
+k,1
+gandhi,1
+babu,1
+bhagwandasji,1
+sevashram,1
+sigra,1
+benares,1
+cantt,1

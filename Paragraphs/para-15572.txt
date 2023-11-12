@@ -1,0 +1,12 @@
+6,41,3
+the,2
+custodian,1
+and,2
+guardian,1
+of,2
+indian,1
+interests,1
+protector,1
+their,1
+rights,1
+during,1

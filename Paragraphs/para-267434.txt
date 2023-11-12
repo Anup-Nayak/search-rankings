@@ -1,0 +1,10 @@
+72,46,9
+1,1
+weekly,1
+letter,1
+published,1
+in,1
+harijan,1
+24,1
+7,1
+1937,1

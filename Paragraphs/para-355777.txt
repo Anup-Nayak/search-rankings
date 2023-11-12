@@ -1,0 +1,6 @@
+92,127,1
+182,1
+charkha,1
+jayanti,1
+and,1
+hindustani,1

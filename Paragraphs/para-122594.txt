@@ -1,0 +1,6 @@
+36,148,8
+mohandas,1
+sir,1
+prabhashanker,1
+pattani,1
+porbandar,1

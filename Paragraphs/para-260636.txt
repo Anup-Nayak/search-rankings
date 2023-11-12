@@ -1,0 +1,6 @@
+70,90,1
+96,1
+letter,1
+to,1
+jayaprakash,1
+narayan,1

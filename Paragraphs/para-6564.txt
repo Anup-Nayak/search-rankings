@@ -1,0 +1,9 @@
+3,59,9
+by,1
+the,3
+government,1
+on,1
+and,1
+after,1
+outbreak,1
+of,1

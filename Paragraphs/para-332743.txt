@@ -1,0 +1,10 @@
+86,394,9
+1,1
+the,3
+reference,1
+is,1
+to,1
+first,1
+verse,1
+of,1
+ishopanishad,1

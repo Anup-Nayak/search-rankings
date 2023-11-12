@@ -1,0 +1,8 @@
+11,189,4
+207,1
+sweet,1
+are,1
+the,1
+fruits,1
+of,1
+patience,1

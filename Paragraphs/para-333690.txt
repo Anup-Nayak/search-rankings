@@ -1,0 +1,8 @@
+87,41,10
+bapu,1
+shri,1
+shantabai,1
+kale,1
+victoria,1
+hospital,1
+jabalpur,1

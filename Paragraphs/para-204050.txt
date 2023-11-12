@@ -1,0 +1,12 @@
+57,117,4
+to,1
+nothing,1
+you,1
+will,1
+not,1
+have,1
+a,1
+fellow,1
+being,1
+deny,1
+his,1

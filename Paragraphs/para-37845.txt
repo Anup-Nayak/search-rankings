@@ -1,0 +1,12 @@
+11,472,1
+this,2
+misunderstanding,1
+and,2
+flagrant,1
+strange,1
+contradiction,1
+sometimes,1
+conscious,1
+but,1
+mostly,1
+unconscious,1

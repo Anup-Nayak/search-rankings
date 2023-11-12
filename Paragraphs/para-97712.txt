@@ -1,0 +1,8 @@
+29,35,4
+a,1
+journalist,1
+has,1
+made,1
+these,1
+remarks,1
+1,1

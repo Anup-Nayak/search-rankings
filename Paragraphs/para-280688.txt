@@ -1,0 +1,10 @@
+75,105,6
+have,1
+wired,1
+to,1
+first,1
+member,1
+rajkot,1
+as,1
+follows,1
+1,1

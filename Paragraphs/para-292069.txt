@@ -1,0 +1,12 @@
+78,45,7
+hatred,1
+towards,2
+each,1
+other,1
+and,1
+foreigners,1
+co,1
+operative,1
+endeavour,1
+all,1
+these,1

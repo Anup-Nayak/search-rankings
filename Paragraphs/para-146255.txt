@@ -1,0 +1,8 @@
+42,388,8
+453,1
+passing,1
+away,1
+of,1
+a,1
+silent,1
+worker,1

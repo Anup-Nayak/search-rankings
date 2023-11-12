@@ -1,0 +1,13 @@
+55,145,10
+1,1
+the,2
+addressee,1
+had,2
+complained,1
+about,1
+those,1
+who,1
+dropped,1
+out,1
+of,1
+struggle,1

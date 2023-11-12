@@ -1,0 +1,4 @@
+64,78,10
+five,1
+morning,1
+parnakuti,1

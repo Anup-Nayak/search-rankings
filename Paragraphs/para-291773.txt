@@ -1,0 +1,7 @@
+78,20,1
+26,1
+question,1
+box,1
+is,1
+it,1
+voluntary,1

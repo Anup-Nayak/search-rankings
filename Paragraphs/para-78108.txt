@@ -1,0 +1,13 @@
+22,457,14
+3,1
+in,2
+this,1
+article,1
+gandhiji,1
+comments,1
+on,1
+a,2
+letter,1
+from,1
+correspondent,1
+poona,1

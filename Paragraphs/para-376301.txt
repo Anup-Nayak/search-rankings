@@ -1,0 +1,5 @@
+97,386,13
+1,1
+hindustani,1
+talimi,1
+sangh,1

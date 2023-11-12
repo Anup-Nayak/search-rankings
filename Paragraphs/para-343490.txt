@@ -1,0 +1,15 @@
+89,105,3
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+gujarati,1
+shri,1
+bhailalbhai,1
+patel,1
+sitermi,1
+janmagranth,1
+abhinandangranth,1
+1958,1
+p,1

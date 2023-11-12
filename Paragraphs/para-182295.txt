@@ -1,0 +1,6 @@
+52,19,6
+21,1
+letter,1
+to,1
+lakshminarayan,1
+gadodia,1

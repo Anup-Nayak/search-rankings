@@ -1,0 +1,8 @@
+13,398,11
+122,1
+women,1
+fifty,1
+tender,1
+children,1
+all,1
+voluntarily,1

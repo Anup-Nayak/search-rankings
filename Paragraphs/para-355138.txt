@@ -1,0 +1,6 @@
+92,53,10
+82,1
+telegram,1
+to,1
+kashinath,1
+trivedi,1

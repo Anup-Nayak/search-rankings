@@ -1,0 +1,17 @@
+53,357,1
+blunder,2
+of,1
+preventing,1
+dr,1
+ansari,1
+from,1
+being,1
+selected,1
+as,1
+a,2
+delegate,1
+was,1
+responsible,1
+for,1
+committing,1
+fatal,1

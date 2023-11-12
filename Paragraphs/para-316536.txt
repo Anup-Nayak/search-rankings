@@ -1,0 +1,7 @@
+83,65,9
+81,1
+letter,1
+to,1
+franklin,1
+d,1
+roosevelt,1

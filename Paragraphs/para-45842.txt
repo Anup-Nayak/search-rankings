@@ -1,0 +1,8 @@
+14,5,9
+and,1
+asking,1
+general,1
+smuts,1
+grant,1
+request,1
+without,1

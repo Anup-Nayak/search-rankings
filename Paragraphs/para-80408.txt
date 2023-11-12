@@ -1,0 +1,13 @@
+23,353,3
+to,1
+mr,1
+gandhi,1
+and,1
+others,1
+connected,1
+with,1
+the,1
+non,1
+co,1
+operation,1
+movement,1

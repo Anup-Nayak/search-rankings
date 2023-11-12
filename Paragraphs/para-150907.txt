@@ -1,0 +1,16 @@
+43,432,10
+1,1
+permanent,1
+address,1
+2,1
+for,1
+gandhijis,1
+reply,1
+to,2
+dewick,2
+vide,1
+letter,1
+e,1
+c,1
+12,2
+1928,1

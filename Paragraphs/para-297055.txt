@@ -1,0 +1,6 @@
+79,148,4
+situation,1
+serious,1
+congressmen,1
+feel,1
+government,1

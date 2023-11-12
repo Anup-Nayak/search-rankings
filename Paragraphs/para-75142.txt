@@ -1,0 +1,6 @@
+21,469,2
+270,1
+difficulties,1
+in,1
+our,1
+way,1

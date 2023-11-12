@@ -1,0 +1,14 @@
+66,96,6
+five,1
+years,1
+ago,1
+and,1
+how,1
+much,1
+do,1
+you,1
+spend,1
+on,1
+your,1
+own,1
+living,1

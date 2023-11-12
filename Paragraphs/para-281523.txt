@@ -1,0 +1,4 @@
+75,208,2
+hope,1
+progress,1
+steady,1

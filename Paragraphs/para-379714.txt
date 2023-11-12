@@ -1,0 +1,8 @@
+98,352,7
+1,1
+a,1
+favourite,1
+analogy,1
+used,1
+by,1
+gandhiji,1

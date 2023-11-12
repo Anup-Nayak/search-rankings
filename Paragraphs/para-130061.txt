@@ -1,0 +1,6 @@
+38,119,3
+sunday,1
+night,1
+february,1
+13,1
+1927,1

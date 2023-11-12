@@ -1,0 +1,12 @@
+16,99,7
+condemned,1
+to,3
+illiteracy,1
+they,1
+are,1
+pledge,1
+themselves,1
+the,1
+use,1
+of,1
+swadeshi,1

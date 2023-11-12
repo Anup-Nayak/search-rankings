@@ -1,0 +1,6 @@
+78,125,1
+122,1
+two,1
+questions,1
+from,1
+america,1

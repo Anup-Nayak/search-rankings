@@ -1,0 +1,14 @@
+96,436,24
+and,3
+expect,1
+her,1
+to,1
+accept,1
+he,1
+laughed,1
+admitted,1
+the,1
+truth,1
+of,1
+this,1
+statement,1

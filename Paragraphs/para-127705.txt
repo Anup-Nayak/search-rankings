@@ -1,0 +1,15 @@
+37,281,9
+do,1
+not,1
+shri,1
+krishna,1
+says,1
+be,1
+impatient,1
+to,1
+reap,1
+the,1
+fruit,1
+of,1
+your,1
+efforts,1

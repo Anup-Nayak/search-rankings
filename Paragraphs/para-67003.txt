@@ -1,0 +1,7 @@
+19,171,11
+4,1
+gandhiji,1
+uses,1
+the,1
+latin,1
+term,1

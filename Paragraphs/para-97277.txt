@@ -1,0 +1,9 @@
+28,490,10
+welcome,1
+hope,1
+you,1
+are,1
+strong,1
+love,1
+from,1
+all,1

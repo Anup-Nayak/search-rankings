@@ -1,0 +1,17 @@
+62,69,1
+now,1
+you,1
+may,1
+mix,1
+one,1
+portion,1
+of,1
+milk,1
+yes,1
+three,1
+meals,1
+will,1
+be,1
+perhaps,1
+quite,1
+enough,1

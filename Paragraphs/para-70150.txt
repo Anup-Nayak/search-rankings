@@ -1,0 +1,7 @@
+20,97,5
+a,1
+that,1
+was,1
+my,1
+opinion,1
+then,1

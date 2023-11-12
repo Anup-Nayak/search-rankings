@@ -1,0 +1,16 @@
+31,239,2
+1,1
+1861,1
+1931,1
+lawyer,1
+and,2
+swarajist,1
+leader,1
+president,1
+indian,1
+national,1
+congress,1
+amritsar,1
+1919,1
+calcutta,1
+1928,1

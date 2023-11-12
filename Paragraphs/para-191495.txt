@@ -1,0 +1,16 @@
+54,73,20
+putting,1
+no,1
+hindrance,1
+in,1
+the,2
+way,1
+if,1
+conference,1
+failed,1
+it,1
+would,1
+fail,1
+because,1
+of,1
+its,1

@@ -1,0 +1,8 @@
+90,423,17
+political,1
+status,1
+on,1
+indians,1
+has,1
+become,1
+highly,1

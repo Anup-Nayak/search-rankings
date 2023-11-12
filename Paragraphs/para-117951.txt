@@ -1,0 +1,9 @@
+35,65,5
+mohandas,1
+gandhi,1
+sjt,1
+a,2
+patel,1
+panoli,1
+district,1
+broach,1

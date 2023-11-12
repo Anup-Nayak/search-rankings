@@ -1,0 +1,6 @@
+12,348,20
+left,1
+farm,1
+tea,1
+at,1
+chaplins,1

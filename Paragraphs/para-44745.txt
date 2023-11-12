@@ -1,0 +1,8 @@
+13,387,4
+sassociation,1
+1,1
+beg,1
+draw,1
+ministers,1
+attention,1
+fact,1

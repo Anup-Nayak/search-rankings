@@ -1,0 +1,6 @@
+74,27,23
+5,1
+heath,1
+though,1
+our,1
+language,1

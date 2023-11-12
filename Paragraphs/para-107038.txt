@@ -1,0 +1,7 @@
+31,343,7
+209,1
+talk,1
+to,1
+a,1
+muslim,1
+friend,1

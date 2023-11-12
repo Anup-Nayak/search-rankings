@@ -1,0 +1,15 @@
+32,450,10
+matter,1
+of,1
+fact,1
+i,2
+advocate,1
+feel,1
+that,1
+if,1
+it,1
+is,1
+made,1
+compulsory,1
+all,1
+the,1

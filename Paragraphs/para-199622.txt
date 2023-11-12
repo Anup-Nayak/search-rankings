@@ -1,0 +1,12 @@
+56,59,2
+1,2
+vide,2
+ashram,1
+bhajanavali,1
+2,1
+haji,1
+hussain,1
+dawad,1
+mahomed,1
+10,1
+1913,1

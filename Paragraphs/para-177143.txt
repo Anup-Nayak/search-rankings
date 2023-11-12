@@ -1,0 +1,9 @@
+50,411,6
+1,1
+a,1
+verse,1
+from,1
+vinaya,1
+patrika,1
+by,1
+tulsidas,1

@@ -1,0 +1,12 @@
+6,20,9
+mr,1
+gandhi,1
+said,1
+that,1
+in,2
+1885,1
+british,1
+indians,1
+were,1
+described,1
+documents,1

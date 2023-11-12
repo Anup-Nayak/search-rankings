@@ -1,0 +1,7 @@
+98,28,9
+1,1
+wife,1
+of,1
+purushottam,2
+bhatt,2
+2,1

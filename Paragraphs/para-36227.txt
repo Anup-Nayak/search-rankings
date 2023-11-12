@@ -1,0 +1,9 @@
+11,292,10
+common,1
+to,1
+asiatic,1
+residents,1
+exemption,1
+from,1
+registration,1
+act,1

@@ -1,0 +1,8 @@
+70,11,1
+20,1
+letter,1
+to,1
+edmond,1
+and,1
+yvonne,1
+private,1

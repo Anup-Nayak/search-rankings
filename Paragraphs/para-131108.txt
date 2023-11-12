@@ -1,0 +1,7 @@
+38,251,5
+246,1
+letter,1
+to,1
+e,1
+stanley,1
+jones,1

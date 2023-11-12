@@ -1,0 +1,15 @@
+49,47,5
+i,2
+got,1
+your,1
+letter,1
+liked,1
+it,1
+what,1
+are,3
+you,3
+doing,1
+at,1
+all,1
+studying,1
+happy,1

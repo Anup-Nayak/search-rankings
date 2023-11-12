@@ -1,0 +1,7 @@
+80,46,2
+sevagram,1
+via,1
+wardha,1
+january,1
+31,1
+1941,1

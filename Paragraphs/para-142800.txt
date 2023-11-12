@@ -1,0 +1,9 @@
+41,458,6
+protection,1
+fraudulent,1
+entrants,1
+but,1
+i,1
+sought,1
+and,1
+received,1

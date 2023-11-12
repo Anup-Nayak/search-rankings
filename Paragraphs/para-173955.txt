@@ -1,0 +1,14 @@
+50,30,5
+1,1
+in,2
+the,2
+gujarati,1
+dictionary,1
+under,1
+preparation,1
+then,1
+gujarat,1
+vidyapith,1
+2,1
+jain,1
+scriptures,1

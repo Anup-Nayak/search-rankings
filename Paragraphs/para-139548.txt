@@ -1,0 +1,8 @@
+41,24,4
+hope,1
+you,2
+are,1
+better,1
+writing,1
+god,1
+bless,1

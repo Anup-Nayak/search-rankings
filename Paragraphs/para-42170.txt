@@ -1,0 +1,9 @@
+13,46,18
+section,1
+five,1
+restricts,1
+the,1
+legal,1
+effect,1
+of,1
+transvaal,1

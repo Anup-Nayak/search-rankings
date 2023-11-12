@@ -1,0 +1,11 @@
+85,361,13
+1,1
+son,1
+of,1
+chhaganlal,1
+gandhi,1
+2,1
+this,1
+is,1
+in,1
+devanagari,1

@@ -1,0 +1,6 @@
+57,85,15
+seth,1
+ambalal,1
+sarabhai,1
+shahibag,1
+ahmedabad,1

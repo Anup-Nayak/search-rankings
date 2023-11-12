@@ -1,0 +1,9 @@
+14,42,5
+pretoria,1
+wednesday,1
+posha,1
+vad,1
+10,1
+january,1
+21,1
+1914,1

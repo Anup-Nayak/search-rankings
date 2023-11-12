@@ -1,0 +1,16 @@
+96,49,8
+do,1
+you,1
+think,1
+the,2
+peasant,1
+may,1
+be,1
+ready,1
+to,1
+receive,1
+their,1
+message,1
+not,1
+at,1
+moment,1

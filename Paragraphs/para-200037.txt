@@ -1,0 +1,10 @@
+56,116,5
+133,1
+letter,1
+to,1
+an,1
+american,1
+correspondent,1
+july,1
+7,1
+1932,1

@@ -1,0 +1,12 @@
+27,451,4
+after,1
+all,1
+you,2
+have,1
+not,1
+written,1
+to,1
+me,1
+how,1
+do,2
+there,1

@@ -1,0 +1,8 @@
+56,107,5
+m,1
+k,1
+gandhi,1
+smt,1
+saraladevi,1
+chowdharani,1
+2,1

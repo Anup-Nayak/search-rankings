@@ -1,0 +1,6 @@
+45,53,7
+52,1
+letter,1
+to,1
+oamer,1
+ahmed,1

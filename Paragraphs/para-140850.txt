@@ -1,0 +1,7 @@
+41,205,2
+226,1
+to,1
+the,1
+peasants,1
+of,1
+bardoli,1

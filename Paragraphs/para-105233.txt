@@ -1,0 +1,12 @@
+31,95,11
+are,1
+methods,2
+and,2
+i,1
+believe,1
+that,1
+science,1
+has,1
+discovered,1
+or,1
+will,1

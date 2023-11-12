@@ -1,0 +1,17 @@
+79,124,3
+q,1
+may,2
+a,1
+non,2
+violent,1
+man,1
+possess,1
+wealth,1
+and,1
+if,1
+he,2
+how,1
+can,1
+keep,1
+it,1
+violently,1

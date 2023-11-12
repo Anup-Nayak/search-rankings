@@ -1,0 +1,8 @@
+59,186,10
+mohandas,1
+pandit,1
+satavlekarji,1
+swadhyaya,1
+mandal,1
+aundh,1
+dist,1

@@ -1,0 +1,14 @@
+24,465,5
+proceeding,1
+mahatma,1
+gandhi,1
+went,1
+on,1
+to,1
+observe,1
+that,1
+service,1
+was,1
+in,1
+the,1
+nature,1

@@ -1,0 +1,15 @@
+27,405,3
+should,1
+be,1
+a,2
+temple,1
+of,1
+justice,1
+and,1
+freedom,1
+market,1
+place,1
+to,1
+barter,1
+away,1
+the,1

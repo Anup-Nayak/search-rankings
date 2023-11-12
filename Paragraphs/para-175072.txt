@@ -1,0 +1,11 @@
+50,152,7
+blessings,1
+from,1
+bapu,1
+ps,1
+write,1
+to,1
+me,1
+a,1
+full,1
+letter,1

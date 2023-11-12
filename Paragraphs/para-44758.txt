@@ -1,0 +1,7 @@
+13,387,17
+provinces,1
+government,1
+cannot,1
+complain,1
+of,1
+strike,1

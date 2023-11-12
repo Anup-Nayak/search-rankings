@@ -1,0 +1,12 @@
+6,308,7
+1,1
+here,1
+in,1
+the,1
+original,1
+part,1
+of,1
+a,1
+line,1
+is,1
+missing,1

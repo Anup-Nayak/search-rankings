@@ -1,0 +1,13 @@
+2,30,4
+danger,1
+without,1
+them,1
+want,1
+written,1
+instructions,1
+how,1
+long,1
+quarantine,1
+is,1
+to,1
+last,1

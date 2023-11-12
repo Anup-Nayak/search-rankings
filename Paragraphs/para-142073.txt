@@ -1,0 +1,7 @@
+41,361,3
+an,1
+ahmedabad,1
+mill,1
+owner,1
+writes,1
+1,1

@@ -1,0 +1,8 @@
+40,125,5
+trichinopoly,1
+silence,1
+day,1
+september,1
+19,1
+1927,1
+1,1

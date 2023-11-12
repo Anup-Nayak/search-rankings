@@ -1,0 +1,11 @@
+20,442,19
+sobhani,1
+abdul,1
+wahood,1
+ahmed,2
+haji,1
+siddick,1
+khatri,1
+zahoor,1
+noor,1
+mohamad,1

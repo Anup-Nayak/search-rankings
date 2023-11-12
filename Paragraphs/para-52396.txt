@@ -1,0 +1,7 @@
+15,257,1
+193,1
+the,1
+hindu,1
+caste,1
+system,1
+1,1

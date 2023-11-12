@@ -1,0 +1,10 @@
+92,431,12
+3,1
+the,2
+following,1
+three,1
+sentences,1
+are,1
+reproduced,1
+from,1
+hindu,1

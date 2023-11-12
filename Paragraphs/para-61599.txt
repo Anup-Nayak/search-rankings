@@ -1,0 +1,7 @@
+17,331,9
+declare,1
+civil,1
+disobedience,1
+laws,1
+their,1
+committee,1

@@ -1,0 +1,17 @@
+30,215,1
+that,1
+the,2
+man,1
+was,2
+not,1
+a,1
+suspicious,1
+character,1
+there,1
+police,1
+and,1
+border,1
+sic,1
+with,1
+volunteers,1
+also,1

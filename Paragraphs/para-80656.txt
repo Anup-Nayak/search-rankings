@@ -1,0 +1,6 @@
+23,394,9
+no,2
+bail,1
+counsel,1
+send,1
+particulars,1

@@ -1,0 +1,11 @@
+2,56,24
+not,1
+hopelessly,1
+impossible,1
+without,1
+legislation,1
+on,1
+the,1
+subjectd*,1
+f,1
+news,1

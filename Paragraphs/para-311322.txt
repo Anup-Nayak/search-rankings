@@ -1,0 +1,14 @@
+82,122,7
+raise,1
+their,2
+voice,1
+in,1
+protest,1
+cry,1
+of,1
+distress,1
+however,1
+does,1
+go,1
+up,1
+to,1

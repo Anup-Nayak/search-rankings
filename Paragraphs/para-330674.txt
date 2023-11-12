@@ -1,0 +1,9 @@
+86,191,4
+m,1
+k,1
+gandhi,1
+pranshankar,1
+joshi,1
+phoolwadi,1
+jetpur,1
+kathiawad,1

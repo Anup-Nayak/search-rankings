@@ -1,0 +1,17 @@
+4,437,14
+2,1
+a,1
+muslim,1
+school,1
+at,1
+dabhel,1
+in,2
+gujarat,1
+for,1
+which,1
+donations,1
+were,1
+being,1
+collected,1
+south,1
+africa,1

@@ -1,0 +1,13 @@
+58,114,6
+a,1
+that,1
+question,1
+is,1
+outside,1
+the,1
+scope,1
+of,1
+permission,1
+granted,1
+to,1
+me,1

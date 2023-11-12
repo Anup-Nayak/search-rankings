@@ -1,0 +1,12 @@
+32,17,5
+may,1
+not,1
+endorse,1
+am,1
+constantly,1
+by,1
+widows,1
+side,1
+pray,1
+take,1
+rest,1

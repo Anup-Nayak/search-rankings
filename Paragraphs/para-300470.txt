@@ -1,0 +1,5 @@
+80,56,3
+98,1
+letter,1
+to,1
+nirmalananda,1

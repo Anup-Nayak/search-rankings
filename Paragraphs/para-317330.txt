@@ -1,0 +1,7 @@
+83,158,5
+i,1
+take,1
+the,2
+following,1
+from,1
+hindu,1

@@ -1,0 +1,8 @@
+60,371,4
+451,1
+letter,1
+to,1
+samarasa,1
+sudha,1
+sanmarka,1
+sangham,1

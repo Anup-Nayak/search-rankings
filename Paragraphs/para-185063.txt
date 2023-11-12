@@ -1,0 +1,14 @@
+52,323,6
+parsi,1
+family,1
+of,1
+bombay,1
+would,1
+roam,1
+day,1
+and,2
+night,1
+in,1
+the,1
+villages,1
+barefooted,1

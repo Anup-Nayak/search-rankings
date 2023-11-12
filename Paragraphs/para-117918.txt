@@ -1,0 +1,6 @@
+35,62,5
+yours,1
+mrs,1
+nargis,1
+captain,1
+punchgani,1

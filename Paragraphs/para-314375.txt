@@ -1,0 +1,17 @@
+82,370,13
+i,3
+think,1
+no,1
+one,1
+could,1
+have,2
+offered,1
+to,1
+the,1
+country,1
+a,1
+loftier,1
+goal,1
+e,1
+urdu,1
+than,1

@@ -1,0 +1,7 @@
+39,24,6
+31,1
+letter,1
+to,1
+harry,1
+f,1
+ward,1

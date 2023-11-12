@@ -1,0 +1,7 @@
+29,441,2
+375,1
+art,1
+and,1
+national,1
+development,1
+1,1

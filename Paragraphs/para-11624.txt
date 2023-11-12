@@ -1,0 +1,13 @@
+4,437,3
+m,1
+k,1
+gandhi,1
+to,1
+this,1
+is,1
+added,1
+a,1
+handwritten,1
+note,1
+in,1
+gujarati,1

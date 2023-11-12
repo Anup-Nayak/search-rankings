@@ -1,0 +1,5 @@
+13,351,1
+222,1
+crippled,1
+without,1
+weapons,1

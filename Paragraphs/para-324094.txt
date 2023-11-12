@@ -1,0 +1,17 @@
+85,30,5
+j,1
+what,1
+is,1
+the,2
+harm,1
+if,1
+we,1
+limit,1
+sales,1
+area,1
+of,1
+a,1
+centre,1
+to,1
+its,1
+tehsil,1

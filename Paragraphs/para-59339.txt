@@ -1,0 +1,9 @@
+17,62,5
+i,1
+trust,1
+you,1
+will,1
+not,1
+misunderstand,1
+this,1
+note,1

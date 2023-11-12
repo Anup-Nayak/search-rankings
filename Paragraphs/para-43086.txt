@@ -1,0 +1,8 @@
+13,151,9
+minister,1
+will,1
+excuse,1
+the,1
+frankness,1
+with,1
+which,1

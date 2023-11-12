@@ -1,0 +1,6 @@
+22,416,7
+1,1
+a,1
+muslim,1
+religion,1
+festival,1

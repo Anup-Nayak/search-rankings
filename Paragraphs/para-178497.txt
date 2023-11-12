@@ -1,0 +1,8 @@
+51,77,30
+months,1
+rigorous,1
+imprisonment,1
+same,1
+day,1
+in,1
+bihar,1

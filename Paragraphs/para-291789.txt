@@ -1,0 +1,14 @@
+78,22,4
+fallen,1
+out,1
+over,1
+the,1
+question,1
+of,1
+idol,2
+worship,2
+i,2
+find,1
+solace,1
+in,1
+but,1

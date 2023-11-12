@@ -1,0 +1,15 @@
+85,296,3
+g,1
+i,1
+cannot,1
+suggest,1
+a,1
+better,1
+flag,2
+than,1
+the,1
+congress,1
+it,1
+is,1
+all,1
+sufficing,1

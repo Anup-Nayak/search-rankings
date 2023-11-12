@@ -1,0 +1,8 @@
+9,191,15
+age,1
+eleven,1
+children,1
+aforesaid,1
+detained,1
+community,1
+infuirated,1

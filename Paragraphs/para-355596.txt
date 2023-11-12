@@ -1,0 +1,5 @@
+92,108,5
+bhangi,1
+colony,1
+new,1
+delhi,1

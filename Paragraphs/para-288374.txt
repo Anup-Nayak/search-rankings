@@ -1,0 +1,10 @@
+77,50,26
+moral,1
+support,1
+which,1
+was,1
+its,1
+speciality,1
+and,1
+the,1
+only,1

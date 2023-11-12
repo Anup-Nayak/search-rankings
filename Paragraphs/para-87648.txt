@@ -1,0 +1,5 @@
+26,23,4
+10,1
+hindus,1
+and,1
+moplahs,1

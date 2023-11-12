@@ -1,0 +1,9 @@
+11,290,7
+trusts,1
+that,1
+the,1
+government,1
+will,1
+provide,1
+in,1
+adminis,1

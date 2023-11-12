@@ -1,0 +1,5 @@
+22,174,6
+all,1
+india,1
+congress,1
+committee,1

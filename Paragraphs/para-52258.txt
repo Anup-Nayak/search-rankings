@@ -1,0 +1,12 @@
+15,237,4
+179,1
+speech,1
+on,1
+the,1
+secret,1
+of,1
+satyagraha,1
+in,1
+south,1
+africa,1
+1,1

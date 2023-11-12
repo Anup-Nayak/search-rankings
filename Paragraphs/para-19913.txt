@@ -1,0 +1,9 @@
+7,17,5
+the,2
+chamber,1
+of,1
+commerce,1
+wrote,1
+to,2
+government,1
+take,1

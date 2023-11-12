@@ -1,0 +1,5 @@
+28,472,10
+foodless,1
+clothless,1
+homeless,1
+countrymen,1

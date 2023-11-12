@@ -1,0 +1,13 @@
+16,489,20
+for,1
+which,1
+they,2
+have,3
+been,2
+striving,1
+not,1
+introduced,1
+it,1
+is,1
+true,1
+that,1

@@ -1,0 +1,12 @@
+73,290,2
+m,1
+k,1
+gandhi,1
+the,1
+aryan,1
+path,1
+september,1
+1938,1
+vol,1
+ix,1
+no,1

@@ -1,0 +1,10 @@
+44,509,30
+t1,1
+guj,1
+has,1
+rising,1
+tide,1
+of,1
+non,1
+co,1
+operation,1

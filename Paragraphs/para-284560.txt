@@ -1,0 +1,12 @@
+76,83,11
+2,1
+the,1
+addressee,1
+subseqently,1
+sent,1
+an,2
+explanation,2
+vide,1
+7,1
+8,1
+1939,1

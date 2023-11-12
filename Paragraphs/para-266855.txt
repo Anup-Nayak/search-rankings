@@ -1,0 +1,12 @@
+71,412,10
+1,1
+vinoba,1
+bhaves,1
+metrical,1
+rendering,1
+in,1
+marathi,1
+of,1
+the,1
+bhagavad,1
+gita,1

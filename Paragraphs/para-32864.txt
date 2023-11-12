@@ -1,0 +1,14 @@
+10,420,6
+1,1
+gandhiji,1
+was,1
+followed,1
+by,1
+hosken,1
+and,1
+doke,1
+2,1
+vide,1
+the,1
+preceding,1
+item,1

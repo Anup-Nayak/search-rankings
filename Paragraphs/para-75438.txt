@@ -1,0 +1,7 @@
+21,504,3
+288,1
+letter,1
+to,1
+persumal,1
+tarachand,1
+3,1

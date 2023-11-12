@@ -1,0 +1,7 @@
+57,105,12
+to,1
+furthermost,1
+extent,1
+consistent,1
+with,1
+paramount,1

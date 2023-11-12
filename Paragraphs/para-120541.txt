@@ -1,0 +1,9 @@
+35,376,4
+a,1
+medical,1
+friend,1
+from,1
+far,1
+off,1
+burma,1
+writes,1

@@ -1,0 +1,11 @@
+52,86,3
+the,1
+marriage,1
+ceremony,1
+will,1
+be,1
+in,1
+accordance,1
+with,1
+ashram,1
+practice,1

@@ -1,0 +1,12 @@
+31,304,6
+finally,1
+gandhiji,1
+urged,1
+them,1
+to,2
+be,1
+respectful,1
+towards,1
+their,1
+parents,1
+love,1

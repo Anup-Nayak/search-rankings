@@ -1,0 +1,9 @@
+17,92,7
+mohandas,1
+gandhi,1
+from,1
+gujarati,1
+mahadevbhaini,1
+diary,1
+vol,1
+iv,1

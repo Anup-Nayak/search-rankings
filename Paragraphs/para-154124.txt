@@ -1,0 +1,6 @@
+44,480,33
+t4,1
+guj,1
+has,1
+christian,1
+belief,1

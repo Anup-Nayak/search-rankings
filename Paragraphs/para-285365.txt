@@ -1,0 +1,7 @@
+76,168,12
+you,1
+have,1
+done,1
+bravely,1
+and,1
+spiritedly,1

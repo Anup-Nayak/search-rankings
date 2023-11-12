@@ -1,0 +1,13 @@
+83,392,19
+like,1
+mist,1
+before,1
+the,2
+morning,1
+sunwe,1
+dont,1
+know,1
+how,1
+though,1
+we,1
+witness,1

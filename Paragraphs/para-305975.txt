@@ -1,0 +1,6 @@
+81,77,10
+146,1
+letter,1
+to,1
+atulananda,1
+chakrabarti,1

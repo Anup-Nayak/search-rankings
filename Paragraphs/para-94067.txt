@@ -1,0 +1,12 @@
+27,465,23
+the,3
+most,1
+important,1
+statement,1
+which,1
+may,1
+be,1
+regarded,1
+final,1
+word,1
+on,1

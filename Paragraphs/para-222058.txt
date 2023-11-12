@@ -1,0 +1,13 @@
+61,105,17
+there,1
+are,1
+more,1
+verses,1
+than,1
+one,1
+in,1
+the,1
+gita,1
+which,1
+imply,1
+that,1

@@ -1,0 +1,6 @@
+34,386,6
+3,1
+sunny,1
+park,1
+ballygung,1
+calcutta,1

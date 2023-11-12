@@ -1,0 +1,10 @@
+36,197,12
+from,1
+a,1
+microfilm,1
+of,1
+the,1
+gujarati,1
+s,1
+n,1
+12247,1

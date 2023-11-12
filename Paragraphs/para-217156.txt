@@ -1,0 +1,15 @@
+60,0,7
+yours,1
+sincerely,1
+sjt,1
+surendra,1
+mohan,1
+bhattacharya,1
+vedanta,1
+shastri,1
+village,1
+algi,1
+p,1
+o,1
+madhaboli,1
+dt,1

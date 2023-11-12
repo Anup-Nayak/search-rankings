@@ -1,0 +1,8 @@
+74,91,10
+a,2
+travancore,1
+headmaster,1
+of,1
+high,1
+school,1
+writes,1

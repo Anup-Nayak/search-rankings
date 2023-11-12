@@ -1,0 +1,13 @@
+96,248,18
+would,1
+not,1
+let,1
+them,1
+plead,1
+excuse,2
+or,1
+extenuation,1
+there,1
+was,1
+neither,1
+nor,1

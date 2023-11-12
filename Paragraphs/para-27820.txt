@@ -1,0 +1,10 @@
+9,209,3
+a,1
+h,1
+west,1
+esq,1
+manager,1
+indian,1
+opinion,1
+phoenix,1
+natal,1

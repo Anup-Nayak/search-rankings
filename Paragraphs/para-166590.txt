@@ -1,0 +1,13 @@
+48,25,1
+survey,1
+a,1
+g,1
+1,1
+east,1
+west,1
+north,1
+south,1
+rate,1
+of,1
+no,1
+revenue,1

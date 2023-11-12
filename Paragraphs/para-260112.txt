@@ -1,0 +1,14 @@
+70,33,2
+at,1
+this,1
+stage,1
+he,2
+did,1
+however,1
+break,1
+down,1
+after,1
+a,1
+little,1
+pause,1
+continued,1

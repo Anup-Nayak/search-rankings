@@ -1,0 +1,12 @@
+21,394,4
+in,1
+conclusion,1
+we,1
+appeal,1
+to,2
+mahatma,1
+gandhi,1
+not,1
+make,1
+such,1
+equivocal,1

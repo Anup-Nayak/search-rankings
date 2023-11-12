@@ -1,0 +1,9 @@
+86,152,14
+1,1
+the,1
+superscription,1
+and,1
+subscription,1
+are,1
+in,1
+gujarat,1

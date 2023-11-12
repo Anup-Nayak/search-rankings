@@ -1,0 +1,14 @@
+82,266,6
+q,1
+intellectually,1
+i,1
+am,1
+convinced,1
+that,1
+non,1
+violence,1
+is,1
+the,1
+only,1
+solution,1
+of,1

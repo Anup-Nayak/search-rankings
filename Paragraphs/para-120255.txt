@@ -1,0 +1,7 @@
+35,341,6
+1,1
+ritual,1
+prayer,1
+to,1
+sun,1
+god,1

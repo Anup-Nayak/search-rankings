@@ -1,0 +1,14 @@
+82,407,26
+g,1
+individuals,1
+yes,1
+but,1
+america,1
+is,1
+the,1
+ally,1
+of,1
+england,1
+which,1
+enslaves,1
+us,1

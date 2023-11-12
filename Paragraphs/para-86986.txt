@@ -1,0 +1,9 @@
+25,416,4
+ladies,1
+mussul,1
+parsis,1
+sikhs,1
+antyajas,1
+the,1
+rest,1
+mans,1

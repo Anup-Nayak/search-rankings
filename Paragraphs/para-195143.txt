@@ -1,0 +1,6 @@
+55,10,5
+19,1
+letter,1
+to,1
+ashram,1
+women,1

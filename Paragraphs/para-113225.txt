@@ -1,0 +1,11 @@
+33,344,5
+241,1
+speech,1
+on,2
+resolution,1
+south,1
+african,1
+indians,1
+subjects,1
+committee,1
+meeting,1

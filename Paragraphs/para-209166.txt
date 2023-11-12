@@ -1,0 +1,14 @@
+58,199,6
+i,1
+have,2
+written,1
+about,1
+the,2
+chharas,1
+we,1
+should,1
+strength,1
+to,1
+win,1
+them,1
+over,1

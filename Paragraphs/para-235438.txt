@@ -1,0 +1,6 @@
+64,227,5
+bapus,1
+letters,1
+to,1
+mira,1
+p,1

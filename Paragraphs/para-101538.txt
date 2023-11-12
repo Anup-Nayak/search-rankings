@@ -1,0 +1,8 @@
+30,21,2
+1,1
+shelters,1
+for,1
+crippled,1
+and,1
+aged,1
+cattle,1

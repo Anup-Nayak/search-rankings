@@ -1,0 +1,15 @@
+96,338,6
+s,1
+i,2
+have,1
+no,1
+desire,1
+to,1
+hoodwink,1
+you,1
+and,1
+never,1
+will,1
+do,1
+so,1
+deliberately,1

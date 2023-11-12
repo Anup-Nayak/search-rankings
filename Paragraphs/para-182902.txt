@@ -1,0 +1,6 @@
+52,86,6
+and,1
+will,1
+accept,1
+no,1
+fee,1

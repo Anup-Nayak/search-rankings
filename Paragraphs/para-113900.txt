@@ -1,0 +1,12 @@
+33,422,7
+she,3
+does,2
+not,1
+weep,2
+nor,1
+let,1
+anybody,1
+else,1
+goes,1
+about,1
+the,1

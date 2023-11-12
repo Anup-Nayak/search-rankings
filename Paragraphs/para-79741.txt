@@ -1,0 +1,5 @@
+23,237,2
+the,1
+punjab,1
+going,1
+ahead,1

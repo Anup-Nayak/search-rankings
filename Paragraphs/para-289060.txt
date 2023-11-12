@@ -1,0 +1,6 @@
+77,129,5
+160,1
+letter,1
+to,1
+triambaklal,1
+popatlal,1

@@ -1,0 +1,9 @@
+11,312,3
+s,1
+started,1
+and,1
+said,1
+after,1
+some,1
+hesitation,1
+yes,1

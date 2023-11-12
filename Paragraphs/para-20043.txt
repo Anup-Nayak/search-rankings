@@ -1,0 +1,5 @@
+7,39,5
+caste,1
+or,1
+sect,1
+height,1

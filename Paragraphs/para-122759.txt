@@ -1,0 +1,7 @@
+36,168,1
+186,1
+letter,1
+to,1
+g,1
+sitarama,1
+sastry,1

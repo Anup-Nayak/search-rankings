@@ -1,0 +1,7 @@
+31,322,8
+a,1
+i,1
+know,1
+nothing,1
+about,1
+it,1

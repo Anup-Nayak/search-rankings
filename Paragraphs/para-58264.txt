@@ -1,0 +1,4 @@
+16,479,4
+fees,1
+on,1
+transfers,1

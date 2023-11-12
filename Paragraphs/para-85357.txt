@@ -1,0 +1,10 @@
+25,195,5
+mohandas,1
+karamchand,1
+gandhi,1
+from,1
+gujarati,1
+navajivan,1
+4,1
+12,1
+1921,1

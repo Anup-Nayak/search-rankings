@@ -1,0 +1,6 @@
+77,87,7
+111,1
+letter,1
+to,1
+iswar,1
+saran,1

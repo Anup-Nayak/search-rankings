@@ -1,0 +1,16 @@
+54,51,8
+mr,1
+gandhi,1
+i,1
+will,1
+give,1
+in,1
+to,1
+anybody,1
+who,1
+says,1
+between,1
+6,1
+and,1
+7,1
+crores,1

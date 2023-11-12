@@ -1,0 +1,4 @@
+82,180,9
+maulana,1
+hasrat,1
+mohani,1

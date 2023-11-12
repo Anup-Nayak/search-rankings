@@ -1,0 +1,14 @@
+78,260,10
+connection,1
+with,1
+the,1
+bidar,1
+conflagration,1
+should,1
+be,1
+withdrawn,1
+we,1
+do,1
+not,1
+of,1
+course,1

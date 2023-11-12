@@ -1,0 +1,7 @@
+60,145,2
+a,1
+correspondent,1
+from,1
+the,1
+south,1
+writes,1

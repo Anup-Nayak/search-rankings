@@ -1,0 +1,9 @@
+30,229,4
+vandemataram,1
+from,1
+mohandas,1
+bhai,1
+devchand,1
+parekh,1
+barrister,1
+jetpur,1

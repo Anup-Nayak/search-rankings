@@ -1,0 +1,9 @@
+17,334,8
+1,1
+the,2
+rest,1
+of,1
+letter,1
+is,1
+not,1
+available,1

@@ -1,0 +1,9 @@
+44,482,16
+t7,1
+guj,1
+has,1
+the,1
+poor,1
+lady,1
+was,1
+pained,1

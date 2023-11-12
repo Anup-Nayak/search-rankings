@@ -1,0 +1,9 @@
+18,350,5
+the,2
+collector,1
+gives,1
+five,1
+reasons,1
+for,1
+imposing,1
+fine,1

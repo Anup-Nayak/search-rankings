@@ -1,0 +1,17 @@
+87,67,1
+half,1
+minutes,1
+and,2
+a,1
+few,2
+seconds,1
+that,1
+institution,1
+subscribes,1
+to,1
+the,1
+ideal,1
+of,1
+words,1
+more,1
+action,1

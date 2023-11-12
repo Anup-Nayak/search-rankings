@@ -1,0 +1,10 @@
+94,225,6
+people,1
+not,2
+all,1
+only,1
+a,1
+few,1
+are,1
+in,1
+favour,1

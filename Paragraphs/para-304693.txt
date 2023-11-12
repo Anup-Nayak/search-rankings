@@ -1,0 +1,17 @@
+80,456,1
+do,1
+not,1
+trouble,1
+to,1
+answer,1
+this,1
+but,1
+you,1
+may,1
+deal,1
+with,1
+it,1
+in,1
+the,1
+next,1
+issue,1

@@ -1,0 +1,14 @@
+82,137,11
+a,2
+i,1
+s,1
+dispenses,1
+with,1
+the,1
+washermen,1
+who,1
+are,1
+addicted,1
+to,1
+drink,1
+similarly,1

@@ -1,0 +1,10 @@
+17,74,26
+the,3
+call,1
+of,1
+premier,1
+it,1
+is,1
+difficult,1
+for,1
+leaders,1

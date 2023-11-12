@@ -1,0 +1,7 @@
+46,234,2
+181,1
+a,1
+plea,1
+for,1
+common,1
+sense,1

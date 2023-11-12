@@ -1,0 +1,14 @@
+76,437,1
+be,2
+declared,1
+an,1
+independent,1
+nation,1
+and,1
+at,1
+present,1
+application,1
+must,1
+given,1
+to,1
+this,1

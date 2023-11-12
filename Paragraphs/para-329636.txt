@@ -1,0 +1,7 @@
+86,91,12
+given,1
+no,1
+permission,1
+anyone,1
+unnecessary,1
+come,1

@@ -1,0 +1,7 @@
+65,134,8
+1,1
+kedarnath,1
+kulkarni,1
+kishorelal,1
+mashruwalas,1
+guru,1

@@ -1,0 +1,11 @@
+46,160,4
+we,1
+selected,1
+village,1
+ranahata,1
+about,1
+five,1
+miles,1
+from,1
+the,1
+ashram,1

@@ -1,0 +1,17 @@
+54,418,11
+do,1
+not,1
+forget,1
+me,2
+altogether,1
+write,1
+to,1
+occasionally,1
+how,1
+are,1
+you,1
+why,1
+does,1
+mathuri,1
+remain,1
+weak,1

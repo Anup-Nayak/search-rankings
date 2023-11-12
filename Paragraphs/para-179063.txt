@@ -1,0 +1,7 @@
+51,128,19
+bear,1
+the,2
+weight,1
+of,1
+existing,1
+demand,1

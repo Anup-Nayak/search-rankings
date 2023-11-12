@@ -1,0 +1,6 @@
+82,133,31
+truthfulness,1
+of,1
+the,1
+above,1
+incident,1

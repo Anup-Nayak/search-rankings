@@ -1,0 +1,14 @@
+52,423,16
+showered,1
+on,1
+them,2
+by,1
+the,1
+world,1
+must,1
+encourage,1
+to,2
+look,1
+forward,1
+their,1
+future,1

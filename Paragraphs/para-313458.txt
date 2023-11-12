@@ -1,0 +1,13 @@
+82,299,29
+rustic,1
+to,1
+escape,1
+detection,1
+as,1
+an,1
+official,1
+officials,1
+and,1
+subordinates,1
+are,1
+so,1

@@ -1,0 +1,6 @@
+15,9,5
+15,1
+letter,1
+to,1
+ranchhodlal,1
+patwari,1

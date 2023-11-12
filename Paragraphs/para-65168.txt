@@ -1,0 +1,12 @@
+18,365,5
+p,1
+v,1
+s,1
+1,1
+and,1
+transferred,1
+by,1
+him,1
+to,1
+you,1
+regarding,1

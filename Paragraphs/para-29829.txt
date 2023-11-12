@@ -1,0 +1,5 @@
+9,496,1
+liberality,1
+as,2
+well,1
+justice,1

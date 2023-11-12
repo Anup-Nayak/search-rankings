@@ -1,0 +1,11 @@
+82,45,4
+of,1
+china,1
+and,2
+india,1
+against,1
+japan,1
+mahatma,1
+gandhi,1
+smiled,1
+said,1

@@ -1,0 +1,13 @@
+15,331,6
+from,1
+a,2
+photostat,1
+of,2
+handwritten,1
+copy,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+9816,1

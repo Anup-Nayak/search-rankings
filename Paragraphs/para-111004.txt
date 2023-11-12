@@ -1,0 +1,14 @@
+33,21,10
+cheaper,1
+they,2
+must,1
+remember,1
+that,2
+all,1
+paid,1
+for,1
+khaddar,1
+went,1
+directly,1
+into,1
+the,1

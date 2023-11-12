@@ -1,0 +1,3 @@
+43,222,4
+karachi,1
+sweepers,1

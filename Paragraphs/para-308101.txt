@@ -1,0 +1,8 @@
+81,292,2
+521,1
+letter,1
+to,1
+maganlal,1
+and,1
+manjula,1
+mehta,1

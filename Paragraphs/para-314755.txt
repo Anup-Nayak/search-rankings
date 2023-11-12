@@ -1,0 +1,11 @@
+82,387,8
+weapon,1
+of,1
+choice,1
+conversion,1
+must,1
+precede,1
+legislation,2
+in,1
+the,1
+absence,1

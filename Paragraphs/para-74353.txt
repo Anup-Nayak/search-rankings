@@ -1,0 +1,6 @@
+21,313,1
+182,1
+the,1
+kacha,1
+garhi,1
+incident,1

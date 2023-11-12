@@ -1,0 +1,12 @@
+40,159,2
+1,1
+female,1
+dancers,1
+attached,1
+to,1
+a,1
+temple,1
+literally,1
+maids,1
+of,1
+god,1

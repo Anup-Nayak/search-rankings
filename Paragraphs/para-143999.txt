@@ -1,0 +1,14 @@
+42,127,4
+non,2
+violence,2
+is,1
+the,1
+limit,1
+set,1
+by,2
+all,1
+religions,1
+sin,2
+cannot,1
+be,1
+answered,1

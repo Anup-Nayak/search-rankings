@@ -1,0 +1,8 @@
+83,156,4
+sevagram,1
+on,1
+or,1
+before,1
+august,1
+2,1
+1942,1

@@ -1,0 +1,13 @@
+82,38,3
+several,1
+congressmen,1
+i,1
+cannot,1
+understand,1
+why,1
+a,1
+man,1
+who,1
+was,1
+not,1
+arrested,1

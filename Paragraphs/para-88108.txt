@@ -1,0 +1,4 @@
+26,114,2
+the,1
+ali,1
+brothers,1

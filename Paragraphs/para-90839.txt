@@ -1,0 +1,7 @@
+27,68,5
+continue,1
+regret,1
+unable,1
+send,1
+anyone,1
+andrews,1

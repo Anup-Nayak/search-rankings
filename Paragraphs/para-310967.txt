@@ -1,0 +1,17 @@
+82,94,16
+19,1
+it,2
+is,2
+not,1
+difficult,1
+to,1
+see,1
+that,1
+god,1
+truth,1
+but,1
+gives,1
+me,1
+a,1
+jolt,1
+from,1

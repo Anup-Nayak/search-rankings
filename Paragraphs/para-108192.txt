@@ -1,0 +1,16 @@
+32,42,3
+it,1
+will,1
+be,1
+noticed,1
+from,1
+the,1
+chart,1
+under,1
+reference,1
+that,1
+only,1
+6,1
+out,1
+of,1
+20,1

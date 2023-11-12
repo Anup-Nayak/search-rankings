@@ -1,0 +1,13 @@
+82,389,1
+presence,1
+to,2
+enable,1
+it,2
+make,1
+use,1
+of,1
+the,1
+power,1
+that,1
+will,1
+release,1

@@ -1,0 +1,17 @@
+23,488,7
+than,1
+of,1
+individuals,1
+and,1
+the,3
+men,1
+who,1
+must,1
+stand,1
+at,1
+bar,1
+to,1
+answer,1
+for,1
+them,1
+are,1

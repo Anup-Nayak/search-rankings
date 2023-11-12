@@ -1,0 +1,7 @@
+77,158,8
+with,1
+knowledge,1
+they,2
+have,1
+are,1
+unable,1

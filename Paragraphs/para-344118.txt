@@ -1,0 +1,8 @@
+89,173,14
+1,1
+the,1
+letters,1
+are,1
+in,1
+devanagari,1
+script,1

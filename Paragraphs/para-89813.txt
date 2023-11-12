@@ -1,0 +1,8 @@
+26,410,8
+for,1
+the,2
+gift,1
+without,1
+giver,1
+is,1
+bare,1

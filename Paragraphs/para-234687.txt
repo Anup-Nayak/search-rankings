@@ -1,0 +1,5 @@
+64,144,7
+overlooking,1
+ajmer,1
+neglect,1
+duty,1

@@ -1,0 +1,10 @@
+54,193,15
+opinion,1
+government,1
+s,1
+own,1
+committee,1
+and,1
+opposition,1
+legislature,1
+situation,1

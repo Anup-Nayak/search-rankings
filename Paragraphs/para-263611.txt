@@ -1,0 +1,15 @@
+71,25,2
+r,1
+c,1
+f,1
+but,1
+the,2
+catholics,1
+believe,1
+that,1
+god,1
+revealed,1
+to,1
+them,1
+true,1
+way,1

@@ -1,0 +1,10 @@
+16,68,6
+gandhiji,1
+then,1
+read,1
+the,1
+speech,1
+from,1
+a,1
+printed,1
+text,1

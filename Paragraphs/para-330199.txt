@@ -1,0 +1,15 @@
+86,145,7
+yours,1
+m,1
+k,1
+gandhi,1
+thakur,1
+shri,1
+shashibhushanji,1
+zamindar,1
+manegaon,1
+p,1
+o,1
+mekh,1
+tehsil,1
+narasinghpur,1

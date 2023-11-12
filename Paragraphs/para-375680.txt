@@ -1,0 +1,16 @@
+97,296,7
+3,1
+ranchhod,1
+4,1
+after,1
+a,1
+brutal,1
+attack,1
+by,2
+the,3
+raiders,1
+town,1
+was,1
+recaptured,1
+indian,1
+troops,1

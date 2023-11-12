@@ -1,0 +1,7 @@
+87,265,14
+i,1
+hope,1
+the,1
+fever,1
+has,1
+gone,1

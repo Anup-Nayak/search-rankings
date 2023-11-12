@@ -1,0 +1,12 @@
+46,460,14
+2,1
+whenever,1
+they,2
+have,1
+to,1
+use,2
+leather,1
+articles,1
+for,1
+personal,1
+shall,1

@@ -1,0 +1,12 @@
+16,502,14
+attitude,1
+towards,1
+gandhi,1
+especially,1
+in,1
+regard,1
+to,1
+his,2
+educational,1
+schemes,1
+and,1

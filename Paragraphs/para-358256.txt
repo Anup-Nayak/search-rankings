@@ -1,0 +1,8 @@
+92,388,4
+564,1
+how,1
+villages,1
+can,1
+manufacture,1
+their,1
+cloth,1

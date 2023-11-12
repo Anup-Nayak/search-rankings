@@ -1,0 +1,6 @@
+98,89,6
+74,1
+fragment,1
+of,1
+a,1
+letter,1

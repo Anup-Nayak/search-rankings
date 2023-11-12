@@ -1,0 +1,7 @@
+47,182,11
+thou,1
+the,2
+wheel,1
+and,1
+i,1
+thread,1

@@ -1,0 +1,8 @@
+52,86,12
+1,1
+the,1
+letters,1
+are,1
+not,1
+translated,1
+here,1

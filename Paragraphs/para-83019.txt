@@ -1,0 +1,7 @@
+24,280,5
+1,1
+at,1
+the,2
+maidan,1
+near,1
+rock,1

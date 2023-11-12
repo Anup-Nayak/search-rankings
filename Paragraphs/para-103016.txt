@@ -1,0 +1,17 @@
+30,217,13
+q,1
+if,1
+the,4
+court,1
+decides,1
+in,1
+favour,1
+of,1
+hindu,1
+husband,1
+would,1
+muslims,1
+still,1
+not,1
+return,1
+woman,1

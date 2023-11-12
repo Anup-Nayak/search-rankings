@@ -1,0 +1,8 @@
+13,148,11
+long,1
+experience,1
+have,1
+not,1
+known,1
+single,1
+case,1

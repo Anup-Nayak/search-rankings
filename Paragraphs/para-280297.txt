@@ -1,0 +1,9 @@
+75,64,8
+from,1
+gujarati,1
+c,1
+w,1
+7358,1
+courtesy,1
+kantilal,1
+gandhi,1

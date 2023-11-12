@@ -1,0 +1,6 @@
+32,370,4
+a,1
+european,1
+friend,1
+thus,1
+writes,1

@@ -1,0 +1,6 @@
+13,142,9
+not,1
+demand,1
+legal,1
+recognition,1
+polygamy,1

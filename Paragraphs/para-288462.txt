@@ -1,0 +1,8 @@
+77,58,5
+2,1
+gandhiji,1
+could,1
+still,1
+influence,1
+the,1
+congress,1

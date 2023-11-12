@@ -1,0 +1,8 @@
+17,200,8
+1,1
+gandhijis,1
+eldest,1
+son,1
+who,1
+had,1
+separated,1

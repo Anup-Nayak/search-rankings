@@ -1,0 +1,4 @@
+35,105,3
+gandhi,1
+ashram,1
+benares,1

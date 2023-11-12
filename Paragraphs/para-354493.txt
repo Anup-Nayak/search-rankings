@@ -1,0 +1,14 @@
+91,438,23
+he,1
+said,1
+that,1
+though,1
+it,2
+was,2
+not,1
+expressly,1
+stated,1
+in,1
+the,1
+statement,1
+implied,1

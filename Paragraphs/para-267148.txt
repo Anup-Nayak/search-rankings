@@ -1,0 +1,6 @@
+72,16,3
+n,1
+s,1
+hardiker,1
+hubli,1
+karnatak,1

@@ -1,0 +1,16 @@
+32,205,8
+simply,1
+because,1
+he,2
+did,1
+not,1
+want,1
+to,1
+be,1
+insulted,1
+when,1
+knew,1
+that,1
+the,2
+throwing,1
+of,1

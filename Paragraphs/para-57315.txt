@@ -1,0 +1,7 @@
+16,355,2
+1,1
+the,1
+gujarati,1
+original,1
+has,1
+dandai,1

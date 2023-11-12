@@ -1,0 +1,11 @@
+94,52,4
+bihar,1
+2,1
+do,1
+you,1
+feel,1
+likewise,1
+please,1
+tell,1
+me,1
+what,1

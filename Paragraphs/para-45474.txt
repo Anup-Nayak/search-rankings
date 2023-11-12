@@ -1,0 +1,14 @@
+13,447,14
+section,1
+5,1
+f,1
+prohibition,1
+of,1
+entry,1
+into,1
+free,1
+state,1
+is,1
+no,1
+new,1
+proposal,1

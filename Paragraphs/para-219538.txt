@@ -1,0 +1,14 @@
+60,314,5
+a,1
+student,1
+after,1
+reading,1
+my,1
+article,1
+2,1
+on,1
+the,2
+system,1
+of,1
+varnas,1
+writes,1

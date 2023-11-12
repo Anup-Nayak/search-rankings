@@ -1,0 +1,13 @@
+51,87,18
+the,2
+government,1
+went,1
+into,1
+hands,1
+polluted,1
+with,1
+misdeeds,1
+country,1
+would,1
+be,1
+ruined,1

@@ -1,0 +1,17 @@
+20,360,7
+i,1
+have,1
+no,1
+concern,1
+with,1
+the,1
+afghan,1
+delegation,1
+2,1
+and,1
+it,1
+was,1
+an,1
+accident,1
+that,1
+we,1

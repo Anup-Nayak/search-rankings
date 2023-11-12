@@ -1,0 +1,8 @@
+75,52,4
+violent,1
+and,1
+brave,1
+suffering,1
+tortures,1
+loss,1
+of,1

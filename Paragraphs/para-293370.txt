@@ -1,0 +1,13 @@
+78,185,21
+as,2
+far,1
+the,2
+first,1
+order,1
+is,1
+concerned,1
+individuals,1
+to,1
+whom,1
+it,1
+was,1

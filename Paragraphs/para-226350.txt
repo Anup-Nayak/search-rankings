@@ -1,0 +1,6 @@
+62,74,2
+ashram,1
+wardha,1
+october,1
+25,1
+1933,1

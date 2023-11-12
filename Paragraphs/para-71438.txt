@@ -1,0 +1,10 @@
+20,306,6
+1,1
+as,1
+in,2
+the,2
+body,1
+so,1
+universe,1
+2,1
+sage,1

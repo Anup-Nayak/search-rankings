@@ -1,0 +1,7 @@
+13,150,14
+totally,1
+useless,1
+if,1
+therefore,1
+government,1
+cannot,1

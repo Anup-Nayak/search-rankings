@@ -1,0 +1,10 @@
+13,46,3
+have,1
+just,1
+read,1
+immigration,1
+bill,1
+it,1
+is,1
+open,1
+to,1

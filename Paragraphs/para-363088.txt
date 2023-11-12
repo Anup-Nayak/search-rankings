@@ -1,0 +1,4 @@
+94,8,14
+not,1
+tolerate,1
+ram,1

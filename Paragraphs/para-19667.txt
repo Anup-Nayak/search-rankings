@@ -1,0 +1,11 @@
+6,525,20
+the,3
+following,1
+is,1
+full,1
+official,1
+text,1
+published,1
+by,1
+transvaal,1
+government,1

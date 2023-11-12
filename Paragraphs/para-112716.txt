@@ -1,0 +1,8 @@
+33,283,7
+180,1
+speech,1
+at,1
+gujarati,1
+national,1
+school,1
+bombay,1

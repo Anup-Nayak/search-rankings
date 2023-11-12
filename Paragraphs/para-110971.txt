@@ -1,0 +1,13 @@
+33,20,6
+america,1
+people,1
+lived,1
+mostly,1
+in,1
+towns,1
+because,1
+they,1
+were,1
+not,1
+agriculturists,1
+but,1

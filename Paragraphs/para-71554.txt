@@ -1,0 +1,6 @@
+20,324,2
+110,1
+more,1
+thoughts,1
+about,1
+widows,1

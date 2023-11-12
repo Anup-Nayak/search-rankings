@@ -1,0 +1,7 @@
+42,225,5
+the,2
+manager,1
+indian,1
+press,1
+ltd,1
+allahabad,1

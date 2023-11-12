@@ -1,0 +1,17 @@
+46,178,3
+up,1
+attachment,1
+begets,2
+craving,3
+and,2
+wrath,1
+cannot,1
+but,1
+lead,1
+to,1
+resentment,1
+for,1
+it,1
+is,1
+unending,1
+unsatisfied,1

@@ -1,0 +1,16 @@
+82,400,30
+l,1
+f,1
+and,2
+then,1
+throwing,1
+the,1
+book,1
+away,1
+saying,1
+it,1
+is,1
+excellent,1
+now,1
+i,1
+have,1

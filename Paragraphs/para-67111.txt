@@ -1,0 +1,7 @@
+19,187,8
+punjab,1
+and,1
+n,1
+w,1
+f,1
+circle,1

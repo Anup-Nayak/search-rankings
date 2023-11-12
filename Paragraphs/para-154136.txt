@@ -1,0 +1,6 @@
+44,481,11
+t1,1
+guj,1
+adds,1
+indifference,1
+and,1

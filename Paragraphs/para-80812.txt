@@ -1,0 +1,11 @@
+23,417,17
+provinces,1
+legislative,1
+council,1
+that,1
+my,1
+prosecution,1
+was,1
+already,1
+awaiting,1
+the,1

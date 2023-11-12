@@ -1,0 +1,5 @@
+71,126,3
+145,1
+letter,1
+to,1
+taradevi,1

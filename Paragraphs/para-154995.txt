@@ -1,0 +1,10 @@
+45,11,5
+14,1
+speech,1
+at,1
+d,1
+j,1
+s,1
+college,1
+hall,1
+karachi,1

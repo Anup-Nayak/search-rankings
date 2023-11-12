@@ -1,0 +1,8 @@
+29,238,5
+gods,1
+grace,1
+fast,1
+over,1
+perfectly,1
+all,1
+right,1

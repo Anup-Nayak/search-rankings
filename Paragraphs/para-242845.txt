@@ -1,0 +1,12 @@
+66,98,7
+m,1
+k,1
+gandhi,1
+shri,1
+anand,1
+swarup,1
+vaishya,1
+school,1
+meerut,1
+u,1
+p,1

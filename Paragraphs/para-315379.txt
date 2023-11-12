@@ -1,0 +1,14 @@
+82,405,27
+g,1
+the,2
+peasants,1
+would,2
+take,2
+land,1
+we,1
+not,1
+have,1
+to,2
+tell,1
+them,1
+it,1

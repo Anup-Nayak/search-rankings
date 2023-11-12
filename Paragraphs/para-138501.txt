@@ -1,0 +1,11 @@
+40,345,3
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+8706,1
+courtesy,1
+gangabehn,1
+vaidya,1

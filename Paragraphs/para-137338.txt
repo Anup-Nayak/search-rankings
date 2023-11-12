@@ -1,0 +1,5 @@
+40,145,7
+87,1
+speech,1
+at,1
+amaravatipur,1

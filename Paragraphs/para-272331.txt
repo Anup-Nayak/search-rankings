@@ -1,0 +1,11 @@
+73,110,5
+you,1
+will,1
+talk,1
+to,1
+me,1
+about,1
+finances,1
+when,1
+we,1
+meet,1

@@ -1,0 +1,12 @@
+52,107,13
+while,1
+walking,1
+towards,1
+sir,1
+fazl,1
+hussains,1
+residence,1
+he,2
+was,1
+asked,1
+whether,1

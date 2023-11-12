@@ -1,0 +1,16 @@
+82,88,3
+jawaharlal,1
+received,1
+your,1
+letter,2
+yesterday,1
+hope,1
+you,1
+will,1
+not,1
+find,1
+it,1
+difficult,1
+to,1
+read,1
+this,1

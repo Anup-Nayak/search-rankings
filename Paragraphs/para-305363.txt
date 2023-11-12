@@ -1,0 +1,11 @@
+81,22,5
+from,1
+a,1
+copy,1
+c,1
+w,1
+10447,1
+courtesy,1
+k,1
+linga,1
+raju,1

@@ -1,0 +1,14 @@
+5,117,7
+exemption,1
+certificate,1
+i,1
+e,1
+special,1
+permission,1
+for,1
+entry,1
+into,1
+the,1
+colony,1
+0,2
+5,1

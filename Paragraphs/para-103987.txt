@@ -1,0 +1,7 @@
+30,344,3
+prefer,1
+fix,1
+programme,1
+after,1
+vykom,1
+instead,1

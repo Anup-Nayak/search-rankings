@@ -1,0 +1,17 @@
+89,104,7
+bapa,1
+herewith,1
+the,3
+letter,1
+from,1
+kanya,1
+gurukul,2
+i,1
+think,1
+you,1
+had,1
+better,1
+write,1
+to,1
+lady,1
+yourself,1

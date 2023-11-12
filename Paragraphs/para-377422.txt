@@ -1,0 +1,5 @@
+98,65,8
+50,1
+letter,1
+to,1
+shankarlal,1

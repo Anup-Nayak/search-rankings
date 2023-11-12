@@ -1,0 +1,5 @@
+45,84,2
+88,1
+triumph,1
+of,1
+justice,1

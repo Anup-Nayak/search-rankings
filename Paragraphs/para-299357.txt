@@ -1,0 +1,5 @@
+79,421,6
+472,1
+letter,1
+sultana,1
+qureshi,1

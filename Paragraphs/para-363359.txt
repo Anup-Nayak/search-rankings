@@ -1,0 +1,7 @@
+94,39,8
+to,1
+health,1
+owing,1
+long,1
+and,1
+tiresome,1

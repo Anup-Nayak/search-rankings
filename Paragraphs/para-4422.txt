@@ -1,0 +1,7 @@
+2,245,6
+enclosure,1
+umtali,1
+rhodesia,1
+january,1
+22,1
+1899,1

@@ -1,0 +1,9 @@
+41,301,10
+a,1
+why,1
+if,1
+it,2
+arises,1
+will,1
+solve,1
+itself,1

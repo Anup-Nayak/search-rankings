@@ -1,0 +1,12 @@
+88,220,8
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10552,1
+courtesy,1
+government,1
+of,1
+tamil,1
+nadu,1

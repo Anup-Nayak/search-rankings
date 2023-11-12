@@ -1,0 +1,6 @@
+97,387,14
+1,1
+wife,1
+of,1
+akbar,1
+chavda,1

@@ -1,0 +1,12 @@
+36,412,14
+1,1
+the,1
+interview,1
+was,1
+also,1
+published,1
+in,1
+some,1
+other,1
+daily,1
+newspapers,1

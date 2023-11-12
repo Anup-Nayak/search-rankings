@@ -1,0 +1,7 @@
+14,75,4
+saturday,1
+addressed,1
+privately,1
+before,1
+leaving,1
+a,1

@@ -1,0 +1,11 @@
+14,481,7
+from,1
+a,1
+photostat,1
+of,1
+the,1
+typewritten,1
+original,1
+s,1
+n,1
+5926,1

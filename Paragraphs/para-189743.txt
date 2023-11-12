@@ -1,0 +1,8 @@
+53,349,14
+1,1
+the,1
+congress,1
+goal,1
+is,1
+complete,1
+independence,1

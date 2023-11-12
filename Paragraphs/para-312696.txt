@@ -1,0 +1,13 @@
+82,238,4
+separate,1
+nation,1
+no,1
+power,1
+on,1
+earth,1
+can,1
+compel,1
+them,1
+to,1
+think,1
+otherwise,1

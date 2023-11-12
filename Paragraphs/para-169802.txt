@@ -1,0 +1,5 @@
+49,0,2
+dog,1
+in,1
+the,1
+manger,1

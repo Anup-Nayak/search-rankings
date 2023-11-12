@@ -1,0 +1,5 @@
+36,60,1
+63,1
+a,1
+difficult,1
+question,1

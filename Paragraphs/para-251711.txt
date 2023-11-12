@@ -1,0 +1,5 @@
+68,52,2
+duty,1
+of,1
+speaking,1
+gently,1

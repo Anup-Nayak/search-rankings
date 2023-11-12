@@ -1,0 +1,15 @@
+39,31,1
+be,1
+abdicating,1
+its,2
+function,1
+if,1
+it,2
+does,1
+not,1
+give,1
+decisive,1
+opinion,1
+and,1
+act,1
+upon,1

@@ -1,0 +1,16 @@
+47,137,19
+asked,1
+if,1
+he,3
+was,1
+not,1
+plain,1
+to,2
+them,1
+whom,1
+would,1
+be,1
+so,1
+further,1
+pointed,1
+out,1

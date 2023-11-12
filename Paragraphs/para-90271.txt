@@ -1,0 +1,4 @@
+26,461,4
+inner,1
+temple,1
+order,1

@@ -1,0 +1,5 @@
+26,122,2
+a,1
+well,1
+deserved,1
+snub,1

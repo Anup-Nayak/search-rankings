@@ -1,0 +1,10 @@
+4,225,4
+1,1
+vide,1
+a,1
+political,1
+medical,1
+report,1
+11,1
+3,1
+1905,1

@@ -1,0 +1,12 @@
+6,189,7
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+c,1
+o,1
+179,1
+vol,1
+239/ind,1

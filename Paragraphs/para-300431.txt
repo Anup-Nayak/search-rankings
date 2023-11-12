@@ -1,0 +1,6 @@
+80,52,8
+sevagram,1
+wardha,1
+february,1
+6,1
+1941,1

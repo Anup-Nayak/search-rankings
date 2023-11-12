@@ -1,0 +1,7 @@
+36,112,9
+126,1
+letter,1
+to,1
+hemaprabhadevi,1
+das,1
+gupta,1

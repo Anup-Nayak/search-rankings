@@ -1,0 +1,6 @@
+58,478,5
+q,1
+please,1
+talk,1
+in,1
+sanskrit,1

@@ -1,0 +1,8 @@
+8,480,4
+the,2
+draft,1
+gold,1
+law,1
+in,1
+transvaal,1
+1,1

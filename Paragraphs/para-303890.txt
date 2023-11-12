@@ -1,0 +1,6 @@
+80,383,8
+670,1
+letter,1
+to,1
+anantrai,1
+thakkar,1

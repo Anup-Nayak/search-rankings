@@ -1,0 +1,6 @@
+68,60,14
+1,2
+valand,1
+barber,1
+bawa,1
+sadhu,1

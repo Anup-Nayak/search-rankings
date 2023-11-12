@@ -1,0 +1,17 @@
+12,348,12
+breakfast,1
+with,1
+chinese,1
+at,3
+grand,1
+national,1
+hotel,1
+indian,1
+meeting,1
+drill,1
+hall,1
+address,1
+by,1
+women,1
+night,1
+alexanders,1

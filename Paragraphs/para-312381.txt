@@ -1,0 +1,4 @@
+82,210,7
+bharatiya,1
+udyog,1
+prachar,1

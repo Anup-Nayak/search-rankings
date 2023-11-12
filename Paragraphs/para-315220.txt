@@ -1,0 +1,11 @@
+82,400,32
+g,1
+yes,1
+you,1
+have,1
+go,1
+and,1
+sit,1
+in,1
+the,1
+tub,1

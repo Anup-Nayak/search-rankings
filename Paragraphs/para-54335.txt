@@ -1,0 +1,6 @@
+15,477,8
+single,1
+complaint,1
+made,1
+against,1
+him,1

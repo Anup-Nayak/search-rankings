@@ -1,0 +1,16 @@
+16,416,2
+greater,1
+love,1
+has,1
+no,1
+man,1
+than,1
+this,1
+that,1
+he,1
+lay,1
+down,1
+his,2
+life,1
+for,1
+friends,1

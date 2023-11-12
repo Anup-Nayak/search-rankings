@@ -1,0 +1,15 @@
+19,296,3
+did,1
+you,2
+have,1
+many,1
+callers,1
+from,1
+the,3
+time,1
+went,1
+to,1
+ashram,1
+not,1
+on,1
+13th,1

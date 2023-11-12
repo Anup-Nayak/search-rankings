@@ -1,0 +1,4 @@
+68,342,4
+418,1
+for,1
+contraceptives,1

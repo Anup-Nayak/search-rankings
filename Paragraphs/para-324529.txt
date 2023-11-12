@@ -1,0 +1,12 @@
+85,73,1
+me,1
+if,1
+i,2
+feel,1
+settled,1
+down,1
+you,1
+will,1
+know,1
+when,1
+am,1

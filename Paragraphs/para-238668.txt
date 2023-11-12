@@ -1,0 +1,17 @@
+65,126,2
+a,1
+rupee,1
+spent,1
+on,1
+khadi,1
+means,1
+the,3
+whole,1
+of,1
+amount,1
+minus,1
+management,1
+expensesone,1
+annato,1
+producer,1
+alone,1

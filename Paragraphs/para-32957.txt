@@ -1,0 +1,5 @@
+10,432,4
+265,1
+education,1
+in,1
+natal,1

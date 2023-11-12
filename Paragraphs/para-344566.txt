@@ -1,0 +1,12 @@
+89,225,2
+as,1
+at,1
+sevagram,1
+via,1
+wardha,1
+india,1
+camp,1
+gauhati,1
+january,1
+12,1
+1946,1

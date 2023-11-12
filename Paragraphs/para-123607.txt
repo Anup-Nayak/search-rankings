@@ -1,0 +1,8 @@
+36,263,6
+babu,1
+rajendra,1
+prasad,1
+congress,1
+office,1
+muradpore,1
+patna,1

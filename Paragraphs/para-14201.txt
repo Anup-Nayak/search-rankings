@@ -1,0 +1,3 @@
+5,386,5
+initial,1
+difficulty,1

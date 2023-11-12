@@ -1,0 +1,10 @@
+85,111,1
+i,2
+want,2
+to,2
+say,1
+yes,1
+but,1
+understand,1
+its,1
+implications,1

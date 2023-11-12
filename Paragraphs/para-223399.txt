@@ -1,0 +1,7 @@
+61,246,2
+q,1
+prison,1
+bar,1
+helpful,1
+country,1
+sic,1

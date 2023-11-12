@@ -1,0 +1,12 @@
+31,206,8
+from,1
+a,1
+photostat,1
+c,1
+w,1
+11077,1
+courtesy,1
+tolstoy,1
+state,1
+museum,1
+moscow,1

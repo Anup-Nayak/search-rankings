@@ -1,0 +1,13 @@
+53,55,14
+2,1
+the,1
+franchise,1
+shall,1
+be,1
+extended,1
+to,1
+all,1
+adult,1
+men,1
+and,1
+women,1

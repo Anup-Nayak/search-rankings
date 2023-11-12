@@ -1,0 +1,13 @@
+65,384,4
+shri,1
+sadullah,1
+khan,2
+dr,1
+sahebs,1
+election,1
+board,1
+office,1
+qissakhani,1
+bazar,1
+peshawar,1
+city,1

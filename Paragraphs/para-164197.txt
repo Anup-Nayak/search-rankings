@@ -1,0 +1,7 @@
+47,213,4
+238,1
+letter,1
+to,1
+valji,1
+g,1
+desai,1

@@ -1,0 +1,17 @@
+36,222,1
+where,1
+either,1
+the,4
+parents,1
+or,1
+teachers,1
+are,1
+opposed,1
+to,1
+national,1
+ideal,1
+school,1
+should,1
+certainly,1
+be,1
+closed,1

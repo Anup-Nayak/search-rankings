@@ -1,0 +1,17 @@
+6,195,6
+1,1
+vide,1
+enclosure,2
+to,3
+letter,1
+private,1
+secretary,1
+churchill,1
+27,1
+11,1
+1906,1
+2,1
+evidently,1
+the,1
+boer,1
+war,1

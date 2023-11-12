@@ -1,0 +1,12 @@
+6,45,5
+from,2
+the,2
+transvaal,1
+advising,1
+me,1
+of,2
+forwarding,1
+a,1
+petition,1
+british,1
+indians,1

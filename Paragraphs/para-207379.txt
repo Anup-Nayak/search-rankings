@@ -1,0 +1,14 @@
+58,12,4
+1,1
+kisan,1
+ghumatkar,1
+premabehn,1
+kantaks,1
+friend,1
+2,1
+the,1
+source,1
+has,1
+this,1
+in,1
+devanagari,1

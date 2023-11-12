@@ -1,0 +1,6 @@
+75,45,3
+47,1
+working,1
+of,1
+non,1
+violence,1

@@ -1,0 +1,14 @@
+82,137,8
+2,1
+there,1
+are,1
+washermen,1
+employed,1
+by,1
+the,1
+a,2
+i,1
+s,1
+some,1
+of,1
+these,1

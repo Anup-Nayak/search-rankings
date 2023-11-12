@@ -1,0 +1,9 @@
+78,5,1
+you,1
+all,1
+to,2
+spin,1
+in,1
+order,1
+universalize,1
+spinning,1

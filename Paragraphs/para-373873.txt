@@ -1,0 +1,15 @@
+97,34,12
+1,1
+the,1
+addressee,1
+used,1
+to,2
+send,1
+dhotis,1
+gandhiji,1
+on,1
+his,1
+birthday,1
+2,1
+addressees,1
+husband,1

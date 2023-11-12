@@ -1,0 +1,6 @@
+18,419,4
+spinning,1
+wheel,1
+in,1
+vijapur,1
+3,1

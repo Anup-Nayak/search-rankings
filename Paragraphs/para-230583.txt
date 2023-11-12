@@ -1,0 +1,12 @@
+63,178,2
+how,2
+is,1
+lakshmi,1
+can,1
+i,1
+expect,1
+her,1
+to,2
+write,1
+me,1
+now,1

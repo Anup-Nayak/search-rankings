@@ -1,0 +1,9 @@
+3,402,1
+commission,1
+early,1
+reply,1
+solicited,1
+as,1
+traders,1
+fear,1
+pro,1

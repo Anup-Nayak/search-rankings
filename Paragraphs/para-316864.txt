@@ -1,0 +1,15 @@
+83,103,8
+e,1
+with,1
+the,2
+enemy,1
+at,1
+gates,1
+what,1
+is,1
+your,1
+objection,1
+to,1
+calling,1
+a,1
+truce,1

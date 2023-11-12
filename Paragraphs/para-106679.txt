@@ -1,0 +1,17 @@
+31,309,1
+said,1
+that,2
+he,2
+answered,1
+the,2
+question,1
+in,1
+young,1
+india,1
+1,1
+and,1
+did,1
+not,1
+say,1
+a,1
+strong,1

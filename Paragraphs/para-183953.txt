@@ -1,0 +1,14 @@
+52,190,5
+activities,1
+no,1
+government,1
+can,1
+afford,1
+to,1
+abridge,1
+freedom,1
+of,1
+religion,1
+in,1
+this,1
+way,1

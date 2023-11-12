@@ -1,0 +1,6 @@
+90,119,9
+inferior,1
+status,1
+proposed,1
+franchise,1
+doubtful,1

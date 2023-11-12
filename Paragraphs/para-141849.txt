@@ -1,0 +1,5 @@
+41,330,9
+and,1
+a,1
+thousand,1
+silences,1

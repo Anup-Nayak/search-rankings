@@ -1,0 +1,13 @@
+68,444,23
+production,1
+of,3
+khadi,2
+for,1
+meeting,1
+the,1
+demand,1
+cities,1
+or,1
+wearers,1
+out,1
+side,1

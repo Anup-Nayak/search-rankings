@@ -1,0 +1,16 @@
+8,470,17
+mr,1
+gandhi,1
+you,1
+are,1
+one,1
+of,1
+the,3
+people,1
+who,1
+assisted,1
+government,1
+in,1
+carrying,1
+out,1
+compromise,1

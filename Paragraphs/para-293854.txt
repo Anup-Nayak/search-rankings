@@ -1,0 +1,8 @@
+78,228,3
+i,1
+read,1
+the,2
+following,1
+in,1
+daily,1
+press,1

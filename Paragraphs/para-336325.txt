@@ -1,0 +1,13 @@
+87,287,9
+bapu,1
+m,1
+k,1
+gandhi,1
+shri,1
+sarala,1
+devi,1
+political,1
+prisoner,1
+district,1
+jail,1
+almora,1

@@ -1,0 +1,6 @@
+58,367,6
+thursday,1
+morning,1
+january,1
+5,1
+1933,1

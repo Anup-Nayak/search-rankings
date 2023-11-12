@@ -1,0 +1,13 @@
+8,481,9
+section,1
+128,1
+1,1
+no,1
+coloured,1
+person,1
+shall,1
+be,1
+permitted,1
+to,1
+reside,1
+on,1

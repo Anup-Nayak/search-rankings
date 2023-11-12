@@ -1,0 +1,7 @@
+45,35,7
+larkana,1
+saturday,1
+february,1
+9,1
+1929,1
+2,1

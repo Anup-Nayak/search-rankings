@@ -1,0 +1,12 @@
+31,232,4
+a,1
+want,1
+of,1
+organization,1
+in,2
+the,2
+workers,1
+who,1
+have,1
+faith,1
+franchise,1

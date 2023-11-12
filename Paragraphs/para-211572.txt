@@ -1,0 +1,14 @@
+58,439,6
+29,1
+how,1
+often,1
+have,1
+you,1
+visited,1
+the,3
+hindu,1
+temples,1
+for,1
+darshan,1
+of,1
+idols,1

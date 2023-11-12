@@ -1,0 +1,9 @@
+13,448,19
+is,1
+not,1
+an,1
+immigration,1
+provision,1
+and,1
+cannot,1
+therefore,1

@@ -1,0 +1,17 @@
+42,473,15
+the,2
+rights,1
+and,2
+privileges,1
+conferred,1
+by,1
+section,1
+5,1
+f,1
+g,1
+of,1
+said,1
+act,1
+that,1
+is,1
+to,1

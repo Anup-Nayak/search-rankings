@@ -1,0 +1,6 @@
+70,243,6
+k,1
+that,1
+is,1
+your,1
+goodwill,1

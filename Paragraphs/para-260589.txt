@@ -1,0 +1,10 @@
+70,85,1
+90,1
+an,1
+example,1
+for,1
+hindu,1
+princes,1
+and,1
+their,1
+advisers,1

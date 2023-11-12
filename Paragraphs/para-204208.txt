@@ -1,0 +1,11 @@
+57,131,2
+sent,1
+long,1
+telegram,1
+just,1
+now,1
+to,2
+kelappan,1
+break,1
+fast,1
+if,1

@@ -1,0 +1,9 @@
+53,65,8
+a,1
+today,1
+it,1
+was,1
+all,1
+about,1
+the,1
+pact,1

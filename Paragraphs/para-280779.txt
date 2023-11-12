@@ -1,0 +1,14 @@
+75,117,2
+below,1
+is,1
+an,1
+extract,1
+from,2
+a,2
+letter,1
+teacher,1
+in,1
+the,1
+annamalai,1
+university,1
+1,1

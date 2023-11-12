@@ -1,0 +1,13 @@
+82,140,6
+through,1
+book,1
+reading,1
+i,1
+hold,1
+that,1
+more,1
+intellectual,1
+progress,1
+is,1
+possible,1
+for,1

@@ -1,0 +1,7 @@
+40,128,7
+presence,1
+in,1
+her,1
+delicate,1
+health,1
+hindrance,1

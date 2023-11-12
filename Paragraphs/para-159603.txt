@@ -1,0 +1,12 @@
+46,160,7
+undertake,1
+the,2
+production,1
+of,1
+all,1
+necessary,1
+cloth,1
+within,1
+village,1
+was,1
+readily,1

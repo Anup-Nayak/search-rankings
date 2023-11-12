@@ -1,0 +1,5 @@
+60,466,2
+harijans,1
+dont,1
+care,1
+1,1

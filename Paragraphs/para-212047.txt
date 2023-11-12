@@ -1,0 +1,7 @@
+58,483,2
+extract,1
+from,1
+t,1
+chinniahs,1
+letter,1
+1,1

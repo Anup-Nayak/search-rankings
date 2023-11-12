@@ -1,0 +1,6 @@
+98,252,2
+255,1
+speech,1
+before,1
+breaking,1
+fast1,1

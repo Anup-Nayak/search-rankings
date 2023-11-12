@@ -1,0 +1,9 @@
+52,395,4
+bapu,1
+adhyapak,1
+j,1
+c,1
+kumarappa,1
+gujarat,1
+vidyapith,1
+ahmedabad,1

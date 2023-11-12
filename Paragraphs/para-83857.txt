@@ -1,0 +1,10 @@
+24,433,15
+tithes,1
+in,1
+the,1
+altar,1
+flame,1
+but,1
+if,1
+one,1
+eats,1

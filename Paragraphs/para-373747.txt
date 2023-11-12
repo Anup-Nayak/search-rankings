@@ -1,0 +1,12 @@
+97,17,4
+17,1
+letter,1
+to,1
+kanti,1
+gandhi,1
+morning,1
+4,1
+45,1
+october,1
+1,1
+1947,1

@@ -1,0 +1,17 @@
+32,74,1
+body,1
+pure,2
+by,1
+careful,1
+wash,1
+food,2
+and,1
+avoidance,1
+of,1
+carrion,1
+or,3
+other,1
+impure,1
+intoxicating,1
+liquors,1
+drugs,1

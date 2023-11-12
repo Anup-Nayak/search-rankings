@@ -1,0 +1,13 @@
+68,76,8
+q,1
+please,1
+explain,1
+clearly,1
+how,1
+the,2
+tender,1
+skin,1
+covering,1
+bones,1
+escapes,1
+injury,1

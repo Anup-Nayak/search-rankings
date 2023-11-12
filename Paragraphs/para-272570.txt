@@ -1,0 +1,17 @@
+73,137,14
+1,1
+a,1
+similar,1
+telegram,2
+was,1
+sent,1
+to,2
+amrit,2
+kaur,2
+on,1
+this,1
+date,1
+vide,1
+2,1
+5,1
+1938,1

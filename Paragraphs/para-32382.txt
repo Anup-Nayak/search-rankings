@@ -1,0 +1,10 @@
+10,356,7
+clerk,1
+an,1
+interpreter,1
+all,1
+born,1
+in,1
+south,1
+africa,1
+manilal,1

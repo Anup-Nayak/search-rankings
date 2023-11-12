@@ -1,0 +1,13 @@
+23,302,15
+mahatma,1
+gandhi,1
+then,1
+referred,1
+to,1
+the,2
+meeting,1
+of,1
+parsis,1
+and,1
+questions,1
+he,1

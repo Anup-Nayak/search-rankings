@@ -1,0 +1,8 @@
+91,37,2
+blessings,1
+from,1
+bapu,1
+ps,1
+hoshiari,1
+has,1
+left,1

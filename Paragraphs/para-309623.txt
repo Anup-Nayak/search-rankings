@@ -1,0 +1,4 @@
+81,491,2
+torturing,1
+the,1
+language,1

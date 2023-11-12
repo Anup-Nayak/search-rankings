@@ -1,0 +1,6 @@
+14,6,10
+8,1
+speech,1
+at,1
+maritzburg,1
+2,1

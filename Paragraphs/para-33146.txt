@@ -1,0 +1,5 @@
+10,460,5
+wrangle,1
+over,1
+krugersdorp,1
+location,1

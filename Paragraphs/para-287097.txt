@@ -1,0 +1,4 @@
+76,361,14
+1,1
+margarete,1
+spiegel,1

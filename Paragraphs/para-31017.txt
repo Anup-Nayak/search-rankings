@@ -1,0 +1,7 @@
+10,156,2
+i,1
+remain,1
+etc,1
+m,1
+k,1
+gandhi,1

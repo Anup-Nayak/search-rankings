@@ -1,0 +1,11 @@
+20,281,2
+1,1
+a,1
+missionary,1
+who,1
+taught,1
+english,1
+in,1
+the,1
+ashram,1
+school,1

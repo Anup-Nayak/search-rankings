@@ -1,0 +1,7 @@
+77,416,8
+provinicial,1
+autonomy,1
+would,1
+have,1
+been,1
+impossible,1

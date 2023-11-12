@@ -1,0 +1,12 @@
+17,55,4
+m,1
+k,1
+gandhi,1
+vallabhbhai,1
+j,1
+patel,1
+young,1
+india,1
+12,1
+6,1
+1918,1

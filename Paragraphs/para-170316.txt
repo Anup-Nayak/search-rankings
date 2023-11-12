@@ -1,0 +1,15 @@
+49,79,6
+today,1
+they,2
+have,1
+been,1
+stopping,1
+the,2
+cars,2
+coming,2
+from,2
+navsari,1
+stop,1
+all,1
+gaikawad,1
+limits,1

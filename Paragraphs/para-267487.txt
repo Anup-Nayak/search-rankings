@@ -1,0 +1,15 @@
+72,52,1
+writing,1
+to,2
+me,1
+from,1
+time,2
+you,2
+can,1
+also,1
+describe,1
+the,1
+things,1
+are,1
+doing,1
+there,1

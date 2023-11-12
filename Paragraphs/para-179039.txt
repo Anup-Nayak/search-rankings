@@ -1,0 +1,7 @@
+51,127,25
+i,1
+able,1
+to,2
+reconcils,1
+myself,1
+any,1

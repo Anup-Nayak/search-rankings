@@ -1,0 +1,7 @@
+35,177,5
+ashram,1
+sabarmati,1
+saturday,1
+may,1
+1,2
+1926,1

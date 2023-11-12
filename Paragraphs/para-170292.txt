@@ -1,0 +1,12 @@
+49,77,4
+gandhiji,1
+then,1
+stressed,1
+the,1
+necessity,1
+of,2
+complete,1
+prohibition,1
+and,1
+promotion,1
+khaddar,1

@@ -1,0 +1,15 @@
+24,220,5
+advanced,1
+more,1
+than,1
+we,1
+have,1
+are,1
+a,2
+much,1
+deeper,1
+mark,1
+of,1
+dependence,1
+and,1
+greater,1

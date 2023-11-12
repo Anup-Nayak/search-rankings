@@ -1,0 +1,8 @@
+49,238,3
+life,1
+may,1
+fail,1
+but,1
+a,1
+pledge,1
+never,1

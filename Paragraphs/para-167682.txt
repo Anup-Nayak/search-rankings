@@ -1,0 +1,11 @@
+48,192,2
+a,1
+young,1
+judge,1
+has,1
+put,1
+me,1
+the,1
+following,1
+question,1
+1,1

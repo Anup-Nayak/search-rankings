@@ -1,0 +1,4 @@
+57,82,14
+pray,1
+await,1
+events,1

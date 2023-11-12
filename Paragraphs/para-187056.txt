@@ -1,0 +1,10 @@
+53,55,7
+their,1
+cultures,1
+languages,1
+scripts,1
+education,1
+profession,1
+and,1
+practice,1
+of,1

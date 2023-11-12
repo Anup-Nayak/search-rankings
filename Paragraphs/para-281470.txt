@@ -1,0 +1,9 @@
+75,202,3
+253,1
+interview,1
+to,1
+the,1
+new,1
+york,1
+times,1
+2,1

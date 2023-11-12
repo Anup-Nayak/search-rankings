@@ -1,0 +1,8 @@
+11,303,8
+wives,1
+children,1
+from,1
+section,1
+seven,1
+governor,1
+general,1

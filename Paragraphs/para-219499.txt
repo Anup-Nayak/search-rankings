@@ -1,0 +1,10 @@
+60,309,13
+i,1
+hope,1
+you,1
+have,1
+almost,1
+regained,1
+your,1
+lost,1
+strength,1

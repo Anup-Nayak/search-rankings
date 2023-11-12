@@ -1,0 +1,3 @@
+83,77,1
+andhra,1
+separation,1

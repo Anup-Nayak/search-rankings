@@ -1,0 +1,4 @@
+79,200,4
+student,1
+and,1
+satyagraha,1

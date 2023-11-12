@@ -1,0 +1,12 @@
+46,106,7
+this,1
+book,1
+the,2
+cause,1
+of,2
+indian,1
+people,1
+his,1
+love,1
+humanity,1
+which,1

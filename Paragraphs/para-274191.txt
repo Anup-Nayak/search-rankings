@@ -1,0 +1,9 @@
+73,329,10
+from,1
+hindi,1
+c,1
+w,1
+3442,1
+courtesy,1
+kantilal,1
+gandhi,1

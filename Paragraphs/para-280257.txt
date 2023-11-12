@@ -1,0 +1,7 @@
+75,61,11
+and,1
+kamalas,1
+approaching,1
+delivery,1
+makes,1
+it,1

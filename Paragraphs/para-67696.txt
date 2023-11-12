@@ -1,0 +1,17 @@
+19,256,15
+it,1
+is,1
+very,1
+difficult,1
+for,1
+them,1
+to,1
+practise,1
+that,1
+i,1
+e,1
+no,1
+violence,1
+and,1
+suffering,1
+on,1

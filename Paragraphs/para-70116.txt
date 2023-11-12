@@ -1,0 +1,6 @@
+20,95,14
+a,1
+and,1
+the,1
+professors,1
+too,1

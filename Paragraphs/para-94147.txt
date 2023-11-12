@@ -1,0 +1,9 @@
+27,471,15
+hardly,1
+fair,1
+to,2
+attribute,1
+a,1
+negative,1
+value,1
+it,1

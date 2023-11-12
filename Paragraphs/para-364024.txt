@@ -1,0 +1,8 @@
+94,107,4
+124,1
+letter,1
+to,1
+president,1
+saiva,1
+paripalan,1
+sangam,1

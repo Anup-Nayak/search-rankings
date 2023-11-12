@@ -1,0 +1,14 @@
+53,469,13
+faith,2
+he,1
+should,1
+be,1
+promptly,1
+handed,1
+over,1
+to,1
+a,1
+person,1
+of,1
+his,1
+own,1

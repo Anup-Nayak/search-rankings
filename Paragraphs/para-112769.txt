@@ -1,0 +1,4 @@
+33,289,14
+banker,1
+ashram,1
+sabarmati,1

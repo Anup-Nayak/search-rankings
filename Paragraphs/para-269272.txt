@@ -1,0 +1,14 @@
+72,255,8
+1,1
+g,1
+ramachandran,1
+2,1
+the,1
+gujarati,1
+original,1
+appeared,1
+in,1
+harijanbandhu,1
+26,1
+9,1
+1937,1

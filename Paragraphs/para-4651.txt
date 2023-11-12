@@ -1,0 +1,17 @@
+2,283,2
+7,1
+the,3
+indians,1
+residing,1
+in,2
+johannesburg,1
+cannot,1
+even,1
+if,1
+they,1
+wanted,1
+remove,1
+to,1
+location,1
+situated,1
+brickfields,1

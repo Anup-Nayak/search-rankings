@@ -1,0 +1,11 @@
+45,150,3
+a,1
+reader,1
+who,1
+is,1
+trying,1
+to,1
+conquer,1
+passion,1
+writes,1
+2,1

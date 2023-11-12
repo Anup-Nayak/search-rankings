@@ -1,0 +1,11 @@
+10,340,3
+2,1
+vide,1
+speech,1
+at,1
+johannesburg,1
+mass,1
+meeting,1
+5,1
+12,1
+1909,1

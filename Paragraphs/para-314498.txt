@@ -1,0 +1,15 @@
+82,379,27
+and,4
+son,1
+in,2
+law,2
+daughter,1
+felt,1
+like,1
+going,1
+to,1
+sleep,1
+he,1
+had,1
+a,1
+vomit,1

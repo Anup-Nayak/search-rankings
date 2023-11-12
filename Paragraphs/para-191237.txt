@@ -1,0 +1,8 @@
+54,39,4
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+prof,1
+einstein,1

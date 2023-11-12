@@ -1,0 +1,5 @@
+5,462,8
+state,1
+for,1
+foreign,1
+affairs,1

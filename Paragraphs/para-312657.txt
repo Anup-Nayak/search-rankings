@@ -1,0 +1,6 @@
+82,235,5
+are,1
+you,1
+not,1
+inviting,1
+japanese,1

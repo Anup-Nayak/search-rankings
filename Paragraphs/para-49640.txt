@@ -1,0 +1,9 @@
+14,469,7
+all,1
+their,2
+countrymen,1
+in,1
+motherland,1
+and,1
+the,1
+whole,1

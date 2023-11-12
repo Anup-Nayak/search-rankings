@@ -1,0 +1,10 @@
+27,364,26
+antagonist,1
+mutual,1
+jealousies,1
+rivalries,1
+want,1
+of,1
+brotherliness,1
+and,1
+truthfulness,1

@@ -1,0 +1,4 @@
+8,351,10
+hawkers,1
+look,1
+out,1

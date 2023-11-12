@@ -1,0 +1,6 @@
+17,328,2
+314,1
+satyagraha,1
+sabha,1
+rules,1
+1,1

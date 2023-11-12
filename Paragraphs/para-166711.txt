@@ -1,0 +1,9 @@
+48,45,8
+udyoga,1
+mandir,1
+satyagraha,1
+ashram,1
+sabarmati,1
+december,1
+2,1
+1929,1

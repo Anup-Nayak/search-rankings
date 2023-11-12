@@ -1,0 +1,7 @@
+69,39,9
+1,1
+addressee,1
+s,1
+father,1
+abbas,1
+tyabji,1

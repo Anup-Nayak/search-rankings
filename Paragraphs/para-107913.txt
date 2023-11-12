@@ -1,0 +1,10 @@
+32,0,1
+1,1
+telegram,1
+to,1
+mahomed,1
+ali,1
+khulna,1
+june,1
+17,1
+1925,1

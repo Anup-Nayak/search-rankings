@@ -1,0 +1,7 @@
+32,184,3
+a,1
+friend,1
+writes,1
+to,1
+say,1
+1,1

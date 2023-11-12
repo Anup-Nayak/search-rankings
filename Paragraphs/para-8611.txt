@@ -1,0 +1,6 @@
+3,453,2
+298,1
+plague,1
+in,1
+johannesburg,1
+1,1

@@ -1,0 +1,6 @@
+39,161,10
+163,1
+letter,1
+to,1
+ashram,1
+women,1

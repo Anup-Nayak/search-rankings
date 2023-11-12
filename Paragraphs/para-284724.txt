@@ -1,0 +1,7 @@
+76,101,11
+taking,1
+but,1
+always,1
+of,1
+giving,1
+something,1

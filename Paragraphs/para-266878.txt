@@ -1,0 +1,6 @@
+71,414,10
+2,1
+kallenbach,1
+and,1
+ramdas,1
+gandhi,1

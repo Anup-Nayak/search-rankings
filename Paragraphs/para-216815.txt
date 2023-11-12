@@ -1,0 +1,15 @@
+59,495,16
+bapu,1
+this,1
+is,2
+the,2
+historical,2
+interpretation,2
+of,1
+goghna,1
+1,1
+different,1
+from,1
+its,1
+actual,1
+meaning,1

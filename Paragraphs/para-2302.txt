@@ -1,0 +1,12 @@
+1,473,8
+the,2
+secretary,1
+of,1
+state,1
+has,1
+received,1
+a,1
+telegram,1
+from,1
+indians,1
+stating,1

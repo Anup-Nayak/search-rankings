@@ -1,0 +1,13 @@
+87,246,11
+g,1
+it,1
+is,1
+wrong,1
+to,1
+say,1
+that,1
+the,2
+conference,1
+broke,1
+over,1
+question,1

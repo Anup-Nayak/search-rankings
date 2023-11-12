@@ -1,0 +1,7 @@
+52,25,5
+33,1
+a,1
+twentieth,1
+century,1
+sati,1
+1,1

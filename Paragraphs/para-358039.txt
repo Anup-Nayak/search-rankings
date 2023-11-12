@@ -1,0 +1,8 @@
+92,369,3
+thursday,1
+august,1
+8,1
+1946,1
+keep,1
+all,2
+lose,1

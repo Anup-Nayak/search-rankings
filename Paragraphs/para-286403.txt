@@ -1,0 +1,15 @@
+76,277,27
+attractive,1
+enough,1
+to,1
+make,1
+the,2
+spinner,1
+sit,1
+at,1
+wheel,1
+as,1
+a,1
+full,1
+time,1
+worker,1

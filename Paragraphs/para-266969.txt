@@ -1,0 +1,11 @@
+71,423,18
+both,1
+in,3
+the,2
+provinces,1
+which,1
+ministries,1
+are,1
+working,1
+with,1
+majorities,1

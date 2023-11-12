@@ -1,0 +1,4 @@
+75,35,15
+dear,1
+general,1
+shinde,1

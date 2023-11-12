@@ -1,0 +1,9 @@
+89,369,5
+bapu,1
+from,1
+a,1
+copy,1
+pyarelal,1
+pepers,1
+courtesy,1
+pyerelal,1

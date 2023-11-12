@@ -1,0 +1,12 @@
+68,234,2
+g,1
+is,1
+the,2
+union,1
+between,1
+negroes,1
+and,1
+whites,1
+recognized,1
+by,1
+law,1

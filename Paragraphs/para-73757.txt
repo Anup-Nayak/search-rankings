@@ -1,0 +1,14 @@
+21,204,5
+1,1
+on,2
+the,3
+second,1
+day,1
+of,1
+conference,1
+gandhiji,1
+moved,1
+resolution,1
+non,1
+co,1
+operation,1

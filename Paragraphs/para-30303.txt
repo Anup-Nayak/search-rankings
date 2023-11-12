@@ -1,0 +1,14 @@
+10,50,6
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+original,1
+gujarati,1
+in,2
+gandhijis,1
+hand,1
+jivan,1
+nu,1
+parodh,1

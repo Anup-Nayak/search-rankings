@@ -1,0 +1,17 @@
+1,79,2
+1,1
+the,1
+source,1
+has,1
+this,1
+in,1
+devnagari,1
+script,1
+reference,1
+to,1
+a,1
+preparation,1
+made,1
+of,1
+grame,1
+flour,1

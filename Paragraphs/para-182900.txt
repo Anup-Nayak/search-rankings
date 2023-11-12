@@ -1,0 +1,12 @@
+52,86,4
+gandhijis,1
+articles,1
+on,1
+the,1
+shastrik,1
+rites,1
+regarding,1
+marriage,1
+vows,1
+and,1
+his,1

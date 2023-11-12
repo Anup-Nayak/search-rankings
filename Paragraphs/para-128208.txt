@@ -1,0 +1,16 @@
+37,339,4
+1,1
+the,4
+names,1
+are,1
+omitted,1
+in,2
+source,2
+2,1
+date,1
+of,1
+this,1
+discourse,1
+is,1
+not,1
+given,1

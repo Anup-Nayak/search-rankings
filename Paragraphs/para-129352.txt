@@ -1,0 +1,15 @@
+38,28,12
+be,1
+done,1
+than,1
+to,1
+place,1
+copies,1
+in,1
+the,3
+hands,1
+of,2
+members,1
+a,1
+i,1
+congress,1

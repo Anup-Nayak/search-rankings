@@ -1,0 +1,11 @@
+6,272,2
+2,1
+who,1
+will,1
+take,1
+care,1
+of,1
+your,2
+work,1
+in,1
+absence,1

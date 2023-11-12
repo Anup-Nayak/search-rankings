@@ -1,0 +1,7 @@
+40,17,5
+1,1
+at,2
+triplicane,1
+beach,1
+2,1
+delhi,1

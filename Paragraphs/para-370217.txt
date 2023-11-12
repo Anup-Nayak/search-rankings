@@ -1,0 +1,5 @@
+96,64,1
+95,1
+letter,1
+to,1
+pyarelal,1

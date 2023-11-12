@@ -1,0 +1,10 @@
+77,292,3
+1,1
+sushil,1
+kumar,1
+rudra,1
+principal,1
+st,1
+stephens,1
+college,1
+delhi,1

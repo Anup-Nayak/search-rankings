@@ -1,0 +1,6 @@
+44,6,7
+bath,1
+advisable,1
+report,1
+daily,1
+progress,1

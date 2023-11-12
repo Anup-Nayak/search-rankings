@@ -1,0 +1,13 @@
+65,344,9
+yours,1
+sincerely,1
+rai,1
+bahadur,1
+tej,1
+ram,1
+retired,1
+executive,1
+engineer,1
+sanda,1
+road,1
+lahore,1

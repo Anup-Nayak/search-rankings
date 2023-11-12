@@ -1,0 +1,12 @@
+40,253,4
+a,1
+voice,1
+there,1
+are,2
+no,1
+indigenous,1
+devadasis,1
+they,1
+all,1
+imported,1
+ones,1

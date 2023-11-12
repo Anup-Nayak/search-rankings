@@ -1,0 +1,6 @@
+52,470,14
+relations,1
+of,1
+tenants,1
+and,1
+landlords,1

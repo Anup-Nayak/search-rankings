@@ -1,0 +1,15 @@
+11,438,5
+a,1
+m,2
+cachalia,1
+v,1
+chettiar,1
+abdul,1
+kadir,1
+bawazeer,1
+sorabji,1
+shapurji,1
+adajania,1
+k,1
+gandhi,1
+2,1

@@ -1,0 +1,7 @@
+93,343,6
+blessings,2
+from,1
+bapu,1
+ps,1
+to,1
+abha,1

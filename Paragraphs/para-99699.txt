@@ -1,0 +1,6 @@
+29,275,8
+p,1
+s,1
+v,1
+viceregal,1
+camp,1

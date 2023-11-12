@@ -1,0 +1,16 @@
+33,76,5
+a,1
+correspondent,1
+who,1
+has,1
+evidently,1
+given,1
+some,1
+thought,1
+to,1
+the,2
+spinning,1
+wheel,1
+makes,1
+following,1
+suggestions,1

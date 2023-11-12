@@ -1,0 +1,13 @@
+95,239,8
+220,1
+draft,1
+of,1
+letter,1
+to,1
+abdul,1
+ghaffar,1
+khan,1
+june,1
+9,1
+1947,1
+5,1

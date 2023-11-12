@@ -1,0 +1,13 @@
+23,320,5
+1,1
+after,1
+sarojini,1
+naidu,1
+had,1
+spoken,1
+gandhiji,1
+said,1
+a,1
+few,1
+words,1
+again,1

@@ -1,0 +1,6 @@
+24,430,13
+disregard,1
+the,1
+working,1
+committees,1
+resolution,1

@@ -1,0 +1,12 @@
+15,309,11
+1,1
+one,1
+of,2
+the,1
+earliest,1
+inmates,1
+satyagraha,1
+ashram,1
+at,1
+kocharab,1
+ahmedabad,1

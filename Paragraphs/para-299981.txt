@@ -1,0 +1,8 @@
+80,7,1
+11,1
+letter,1
+to,1
+mohammad,1
+dilawar,1
+khan,1
+1,1

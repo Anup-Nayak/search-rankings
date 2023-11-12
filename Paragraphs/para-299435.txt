@@ -1,0 +1,4 @@
+79,427,18
+dewan,1
+chamanlal,1
+lahore,1

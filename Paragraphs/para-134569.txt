@@ -1,0 +1,13 @@
+39,220,18
+efficiency,1
+of,2
+the,3
+cow,1
+as,1
+a,1
+bullock,1
+producer,1
+not,1
+buffalo,1
+and,1
+health,1

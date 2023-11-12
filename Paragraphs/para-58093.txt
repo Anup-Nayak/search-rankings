@@ -1,0 +1,10 @@
+16,465,8
+these,1
+figures,1
+have,1
+been,1
+supplied,1
+by,1
+the,1
+settlement,1
+officer,1

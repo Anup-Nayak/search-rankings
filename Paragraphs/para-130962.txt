@@ -1,0 +1,12 @@
+38,235,6
+3,1
+khadi,1
+exhibition,1
+gandhiji,1
+had,1
+inaugurated,1
+it,1
+earlier,1
+during,1
+the,1
+day,1

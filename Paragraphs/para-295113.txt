@@ -1,0 +1,9 @@
+78,353,4
+thou,2
+hast,2
+come,2
+to,3
+this,2
+earth,1
+unite,1
+not,1

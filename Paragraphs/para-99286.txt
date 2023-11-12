@@ -1,0 +1,9 @@
+29,232,14
+m,1
+k,1
+gandhi,1
+shrimati,1
+padmaja,1
+naidu,1
+hyderabad,1
+deccan,1

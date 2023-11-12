@@ -1,0 +1,15 @@
+52,7,4
+1,1
+vide,2
+message,1
+to,1
+bomba,1
+citizens,1
+14,1
+9,1
+1921,2
+2,1
+held,1
+on,1
+september,1
+22,1

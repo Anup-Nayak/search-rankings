@@ -1,0 +1,12 @@
+64,172,6
+2,1
+it,1
+was,1
+made,1
+by,1
+stringing,1
+the,1
+cones,1
+of,1
+yarn,1
+together,1

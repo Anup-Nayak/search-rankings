@@ -1,0 +1,12 @@
+42,87,4
+yours,1
+sincerely,1
+mrs,1
+rachel,1
+m,1
+rutter,1
+ireson,1
+lane,1
+wincanton,1
+somerset,1
+england,1

@@ -1,0 +1,9 @@
+17,409,9
+inform,1
+later,1
+regret,1
+loss,1
+life,1
+some,1
+places,1
+absolutely,1

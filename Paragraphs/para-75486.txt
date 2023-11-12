@@ -1,0 +1,15 @@
+21,507,21
+6,1
+some,1
+hindus,1
+had,1
+objected,1
+to,1
+the,1
+intended,1
+sacrifice,1
+of,1
+a,1
+goat,1
+by,1
+another,1

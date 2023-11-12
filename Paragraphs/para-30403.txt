@@ -1,0 +1,10 @@
+10,63,2
+1,1
+vide,1
+deputations,1
+voyage,1
+i,1
+afterr,1
+23,1
+6,1
+1909,1

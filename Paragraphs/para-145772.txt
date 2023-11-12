@@ -1,0 +1,5 @@
+42,331,7
+jamnalalji,1
+care,1
+pratap,1
+cawnpore,1

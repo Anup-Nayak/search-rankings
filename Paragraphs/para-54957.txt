@@ -1,0 +1,5 @@
+16,14,3
+mahatma,1
+gandhi,1
+ramchandra,1
+varma,1

@@ -1,0 +1,5 @@
+7,100,4
+new,1
+law,1
+ghastly,1
+betrayal,1

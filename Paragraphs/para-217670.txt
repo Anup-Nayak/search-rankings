@@ -1,0 +1,9 @@
+60,73,3
+an,1
+iconoclast,1
+schoolmaster,1
+asks,1
+the,1
+following,1
+three,1
+questions,1

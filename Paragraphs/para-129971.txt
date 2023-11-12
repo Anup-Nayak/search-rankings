@@ -1,0 +1,13 @@
+38,107,7
+the,2
+sentiment,1
+was,1
+appreciated,1
+everywhere,1
+with,1
+result,1
+that,1
+at,1
+a,1
+village,1
+like,1

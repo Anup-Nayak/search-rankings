@@ -1,0 +1,13 @@
+39,430,12
+1,1
+the,4
+year,1
+is,1
+inferred,1
+from,1
+reference,1
+to,1
+end,1
+of,1
+mysore,1
+tour,1

@@ -1,0 +1,9 @@
+80,50,3
+rajkumari,1
+care,1
+sir,1
+maharaj,1
+singh,1
+mall,1
+avenue,1
+lucknow,1

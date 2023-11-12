@@ -1,0 +1,3 @@
+27,406,18
+not,1
+inconsistent,1

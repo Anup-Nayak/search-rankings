@@ -1,0 +1,14 @@
+75,464,25
+their,1
+attitude,1
+seemed,1
+to,1
+be,2
+not,2
+a,2
+word,1
+comma,1
+should,1
+changed,1
+i,1
+suppose,1

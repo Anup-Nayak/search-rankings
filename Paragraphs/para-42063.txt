@@ -1,0 +1,11 @@
+13,32,3
+do,1
+not,1
+hesitate,1
+to,1
+ask,1
+me,1
+any,2
+questions,1
+in,1
+words,1

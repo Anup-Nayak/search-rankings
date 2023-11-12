@@ -1,0 +1,7 @@
+8,467,2
+magisstrate,1
+if,1
+thumb,1
+impressions,1
+are,1
+refused,1

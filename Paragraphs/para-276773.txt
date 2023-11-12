@@ -1,0 +1,7 @@
+74,121,2
+179,1
+letter,1
+to,1
+roy,1
+kumar,1
+sing,1

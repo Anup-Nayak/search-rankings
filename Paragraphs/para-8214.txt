@@ -1,0 +1,15 @@
+3,364,9
+stands,1
+in,1
+this,1
+bazaar,1
+will,1
+be,1
+rented,1
+on,1
+a,1
+monthly,1
+tenancy,1
+with,1
+no,1
+power,1

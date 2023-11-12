@@ -1,0 +1,5 @@
+64,25,8
+37,1
+speech,1
+at,1
+kendrapara,1

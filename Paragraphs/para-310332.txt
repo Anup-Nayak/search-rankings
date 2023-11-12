@@ -1,0 +1,12 @@
+82,37,22
+not,1
+arrested,1
+he,1
+stopped,1
+satyagraha,1
+on,1
+30th,1
+december,1
+after,1
+the,1
+bardoli,1

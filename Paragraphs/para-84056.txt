@@ -1,0 +1,17 @@
+24,465,20
+drink,1
+liquor,1
+if,1
+they,2
+had,1
+a,1
+bottle,1
+of,1
+wine,1
+in,1
+stock,1
+on,1
+no,1
+specious,1
+excuses,1
+could,1

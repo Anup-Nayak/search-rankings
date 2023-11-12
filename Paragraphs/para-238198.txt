@@ -1,0 +1,8 @@
+65,82,4
+92,1
+letter,1
+to,1
+amritlal,1
+d,1
+sheth,1
+1,1

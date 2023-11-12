@@ -1,0 +1,4 @@
+72,146,4
+203,1
+the,1
+implications,1

@@ -1,0 +1,6 @@
+11,33,6
+33,1
+the,1
+supreme,1
+court,1
+case,1

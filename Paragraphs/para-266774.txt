@@ -1,0 +1,7 @@
+71,403,2
+493,1
+interview,1
+to,1
+capt,1
+strunk,1
+1,1

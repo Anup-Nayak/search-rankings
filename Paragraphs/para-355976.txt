@@ -1,0 +1,6 @@
+92,150,3
+212,1
+letter,1
+to,1
+abidali,1
+jafarbhai,1

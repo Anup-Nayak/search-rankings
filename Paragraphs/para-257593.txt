@@ -1,0 +1,8 @@
+69,233,4
+a,1
+it,1
+is,1
+as,2
+acute,1
+anywhere,1
+else,1

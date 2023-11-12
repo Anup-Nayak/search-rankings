@@ -1,0 +1,14 @@
+82,254,14
+his,1
+hand,1
+and,1
+swallowed,1
+them,1
+having,1
+done,1
+so,1
+he,2
+said,1
+was,1
+not,1
+satisfied,1

@@ -1,0 +1,6 @@
+40,21,5
+to,1
+mirabehn,1
+satyagraha,1
+ashram,1
+wardha,1

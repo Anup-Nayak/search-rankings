@@ -1,0 +1,8 @@
+24,210,6
+a,1
+hunger,1
+drives,1
+one,1
+to,1
+do,1
+anything,1

@@ -1,0 +1,12 @@
+49,142,6
+bapu,1
+chi,1
+jamnadas,1
+gandhi,1
+opp,1
+middle,1
+school,1
+nava,1
+para,1
+rajkot,1
+kathiawar,1

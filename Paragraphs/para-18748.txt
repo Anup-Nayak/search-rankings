@@ -1,0 +1,8 @@
+6,393,6
+2,1
+liberation,1
+as,1
+the,1
+goal,1
+of,1
+life,1

@@ -1,0 +1,10 @@
+62,127,7
+1,1
+ramachandra,1
+khare,1
+addressees,2
+son,2
+2,1
+brothers,1
+and,1
+daughter,1

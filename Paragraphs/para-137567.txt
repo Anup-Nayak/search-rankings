@@ -1,0 +1,14 @@
+40,189,4
+spinning,1
+essay,1
+1,1
+is,1
+best,1
+available,1
+but,1
+you,2
+must,1
+not,1
+send,1
+2,1
+till,1

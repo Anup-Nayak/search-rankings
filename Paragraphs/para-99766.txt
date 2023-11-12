@@ -1,0 +1,7 @@
+29,280,17
+friends,1
+the,1
+friendly,1
+relations,1
+which,1
+i,1

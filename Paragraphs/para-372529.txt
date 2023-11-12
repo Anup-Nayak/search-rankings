@@ -1,0 +1,10 @@
+96,313,2
+blessings,1
+from,2
+bapu,1
+shri,1
+manibehn,1
+patel,1
+new,1
+delhi,1
+gujarati,1

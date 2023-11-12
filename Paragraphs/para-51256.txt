@@ -1,0 +1,12 @@
+15,110,5
+july,1
+21,1
+wednesday,1
+saw,1
+painter,1
+the,1
+collector,1
+meeting,1
+with,1
+mangaldas,1
+sheth,1

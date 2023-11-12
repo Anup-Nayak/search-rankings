@@ -1,0 +1,5 @@
+70,14,5
+27,1
+talk,1
+with,1
+students,1

@@ -1,0 +1,16 @@
+54,50,15
+be,1
+the,2
+position,1
+of,1
+federal,1
+government,1
+so,1
+far,1
+as,1
+a,1
+tax,1
+on,1
+salt,1
+is,1
+concerned,1

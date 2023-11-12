@@ -1,0 +1,13 @@
+91,215,4
+a,1
+friend,1
+from,1
+patidar,1
+ashram,1
+surat,1
+writes,1
+to,1
+shri,1
+narahari,1
+parikh,1
+2,1

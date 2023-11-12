@@ -1,0 +1,10 @@
+92,407,10
+2,1
+the,1
+ban,1
+had,1
+lapsed,1
+on,1
+september,1
+30,1
+1946,1

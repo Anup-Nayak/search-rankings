@@ -1,0 +1,6 @@
+25,392,7
+devdas,1
+gandhi,1
+anand,1
+bhawan,1
+allahabad,1

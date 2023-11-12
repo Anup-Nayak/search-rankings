@@ -1,0 +1,7 @@
+14,45,10
+commission,1
+owing,1
+solemn,1
+declaration,1
+but,1
+helping,1

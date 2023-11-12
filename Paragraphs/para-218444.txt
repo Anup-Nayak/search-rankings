@@ -1,0 +1,17 @@
+60,181,4
+blessings,1
+from,1
+bapu,1
+shri,1
+parikshitlal,1
+majmudar,1
+untouchability,1
+eradication,1
+society,1
+ellisbridge,1
+ahmedabad,1
+b,2
+&,1
+c,1
+i,1
+rly,1

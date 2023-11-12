@@ -1,0 +1,17 @@
+86,161,5
+q,1
+how,1
+can,1
+a,1
+harijan,1
+who,1
+goes,1
+abroad,2
+1,1
+best,1
+serve,1
+his,1
+country,1
+and,1
+community,1
+from,1

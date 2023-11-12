@@ -1,0 +1,17 @@
+32,460,31
+nationalist,1
+alike,1
+by,1
+all,1
+the,2
+children,1
+of,1
+mother,1
+in,1
+fact,1
+if,1
+one,1
+may,1
+only,1
+leave,1
+out,1

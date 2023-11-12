@@ -1,0 +1,12 @@
+33,25,6
+from,1
+a,1
+photostat,1
+g,1
+n,1
+2640,1
+also,1
+charles,1
+freer,1
+andrew,1
+p,1

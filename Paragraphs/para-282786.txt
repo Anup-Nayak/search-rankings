@@ -1,0 +1,9 @@
+75,369,4
+statements,1
+about,1
+the,1
+parishad,1
+people,1
+but,1
+that,1
+is,1

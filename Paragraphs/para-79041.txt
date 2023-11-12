@@ -1,0 +1,12 @@
+23,105,4
+1,1
+a,1
+lawyer,1
+who,1
+renounced,1
+his,1
+practice,1
+during,1
+gandhiji,1
+s,1
+tour,1

@@ -1,0 +1,14 @@
+82,79,13
+1,1
+vide,1
+letter,2
+to,2
+the,1
+addressee,1
+vallabhbhai,1
+patel,1
+25,1
+2,2
+1942,1
+maganlal,1
+mehta,1

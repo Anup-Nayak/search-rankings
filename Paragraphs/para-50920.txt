@@ -1,0 +1,14 @@
+15,87,14
+mr,1
+president,1
+and,1
+friends,1
+the,1
+resolution,1
+that,1
+stands,1
+in,1
+my,1
+name,1
+reads,1
+thus,1

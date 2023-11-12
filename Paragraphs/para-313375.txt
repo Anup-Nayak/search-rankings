@@ -1,0 +1,15 @@
+82,297,12
+pir,1
+has,1
+been,1
+arrested,1
+on,1
+the,2
+false,1
+reports,1
+of,1
+police,1
+against,1
+him,1
+they,1
+nurse,1

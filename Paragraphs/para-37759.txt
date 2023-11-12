@@ -1,0 +1,12 @@
+11,460,6
+1,1
+vide,2
+krugersdorp,1
+agitators,1
+3,1
+6,1
+1911,2
+2,1
+johannesburg,1
+8,1
+7,1

@@ -1,0 +1,15 @@
+28,325,6
+had,1
+at,1
+a,1
+government,1
+hospital,1
+are,2
+very,1
+good,1
+or,1
+even,1
+if,1
+the,1
+police,1
+arrangements,1

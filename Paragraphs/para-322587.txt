@@ -1,0 +1,8 @@
+84,351,6
+golden,1
+rule,1
+is,1
+follow,1
+fearlessly,1
+your,1
+own,1

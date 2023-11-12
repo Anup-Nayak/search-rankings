@@ -1,0 +1,11 @@
+52,8,6
+secretary,1
+of,2
+the,1
+gulalwadi,1
+public,1
+gymnasium,1
+nasik,1
+he,1
+was,1
+also,1

@@ -1,0 +1,10 @@
+70,156,3
+q,1
+japan,1
+and,1
+india,1
+have,1
+many,1
+things,1
+in,1
+common,1

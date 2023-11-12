@@ -1,0 +1,14 @@
+28,215,10
+cloth,1
+woven,1
+should,1
+be,1
+confined,1
+to,1
+the,1
+respective,1
+talukas,1
+you,1
+thus,1
+save,1
+waste,1

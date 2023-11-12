@@ -1,0 +1,13 @@
+48,29,2
+1,1
+vide,2
+speech,2
+at,2
+allahabad,2
+university,1
+17,2
+11,2
+1929,2
+2,1
+civic,1
+reception,1

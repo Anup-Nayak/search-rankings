@@ -1,0 +1,7 @@
+35,75,4
+113,1
+letter,1
+to,1
+gir,1
+raj,1
+kishore,1

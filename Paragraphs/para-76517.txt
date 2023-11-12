@@ -1,0 +1,5 @@
+22,173,8
+election,1
+of,1
+the,1
+president,1

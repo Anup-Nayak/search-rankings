@@ -1,0 +1,12 @@
+73,460,2
+his,1
+resignation,1
+was,1
+the,3
+direct,1
+cause,1
+for,2
+exercise,1
+first,1
+time,1
+since,1

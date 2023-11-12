@@ -1,0 +1,7 @@
+59,473,18
+14,1
+mr,1
+d,1
+p,1
+khaitan,1
+calcutta,1

@@ -1,0 +1,11 @@
+82,361,4
+it,1
+was,1
+necessary,1
+to,2
+write,1
+all,1
+this,1
+have,1
+things,1
+clarified,1

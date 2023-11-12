@@ -1,0 +1,12 @@
+2,237,6
+name,1
+of,1
+person,1
+or,1
+firm,1
+to,1
+be,1
+inserted,1
+in,1
+the,1
+license,1

@@ -1,0 +1,8 @@
+12,129,3
+100,1
+mr,1
+polak,1
+at,1
+the,1
+national,1
+congress,1

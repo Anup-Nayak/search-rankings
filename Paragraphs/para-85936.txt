@@ -1,0 +1,8 @@
+25,276,12
+abortive,1
+unless,1
+government,1
+truly,1
+penitent,1
+and,1
+desirous,1

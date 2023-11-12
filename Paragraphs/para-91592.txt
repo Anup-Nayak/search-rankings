@@ -1,0 +1,6 @@
+27,145,14
+conquer,1
+opponents,1
+by,1
+perfect,1
+love,1

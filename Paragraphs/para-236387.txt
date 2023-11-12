@@ -1,0 +1,13 @@
+64,342,3
+we,2
+english,1
+people,1
+do,1
+not,1
+understand,1
+this,1
+fasting,1
+of,1
+yours,1
+were,1
+hardly,1

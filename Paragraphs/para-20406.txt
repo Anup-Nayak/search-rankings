@@ -1,0 +1,14 @@
+7,91,4
+1,1
+afrikander,1
+bond,1
+2,1
+1853,1
+1902,1
+prime,1
+minister,1
+of,1
+cape,1
+colony,1
+1890,1
+6,1

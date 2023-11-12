@@ -1,0 +1,6 @@
+60,4,8
+11,1
+letter,1
+to,1
+satcouripati,1
+rai,1

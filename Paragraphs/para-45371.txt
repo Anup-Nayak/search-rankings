@@ -1,0 +1,10 @@
+13,439,4
+have,1
+seen,1
+papers,1
+text,1
+government,1
+reply,1
+joint,1
+letter,1
+1,1

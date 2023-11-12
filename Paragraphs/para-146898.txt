@@ -1,0 +1,14 @@
+42,464,13
+periods,1
+have,1
+been,1
+excluded,1
+in,1
+inquiring,1
+into,1
+the,2
+course,1
+followed,1
+by,1
+rents,1
+during,1

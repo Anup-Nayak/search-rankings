@@ -1,0 +1,11 @@
+9,284,7
+1,1
+minister,1
+of,1
+the,1
+queen,1
+street,1
+wealeyan,1
+indian,1
+church,1
+durban,1

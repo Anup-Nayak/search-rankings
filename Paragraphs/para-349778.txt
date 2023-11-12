@@ -1,0 +1,9 @@
+90,376,8
+1,1
+addressees,1
+mother,1
+sister,1
+and,1
+brother,1
+2,1
+ibid,1

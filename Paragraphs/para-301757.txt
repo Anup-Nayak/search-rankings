@@ -1,0 +1,11 @@
+80,178,7
+ps,1
+your,1
+reply,1
+about,1
+doctors,1
+joining,1
+military,1
+service,1
+is,1
+correct,1

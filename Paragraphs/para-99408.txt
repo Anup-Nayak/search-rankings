@@ -1,0 +1,7 @@
+29,243,13
+lord,1
+speak,1
+and,1
+make,1
+me,1
+whole,1

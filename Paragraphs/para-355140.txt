@@ -1,0 +1,5 @@
+92,53,12
+kashinath,1
+trivedi,1
+ranipura,1
+barwani,1

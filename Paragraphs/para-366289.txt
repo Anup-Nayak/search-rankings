@@ -1,0 +1,8 @@
+94,386,9
+friend,1
+horace,1
+alexander,1
+24,1
+rajpur,1
+road,1
+delhi,1

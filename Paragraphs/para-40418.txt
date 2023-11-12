@@ -1,0 +1,6 @@
+12,312,2
+april,1
+2,1
+tuesday,1
+chattra,1
+vad1,1

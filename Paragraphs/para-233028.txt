@@ -1,0 +1,3 @@
+63,484,7
+disowning,1
+responsibility,1

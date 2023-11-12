@@ -1,0 +1,9 @@
+55,300,7
+357,1
+letter,1
+to,1
+a,1
+bengali,1
+aspirant,1
+for,1
+brahmacharya,1

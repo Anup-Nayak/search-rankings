@@ -1,0 +1,13 @@
+6,532,5
+exemption,1
+from,1
+stamp,1
+duty,1
+of,1
+affidavit,1
+or,1
+sworn,1
+declaration,1
+required,1
+by,1
+regulation,1

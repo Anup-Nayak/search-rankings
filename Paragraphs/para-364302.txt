@@ -1,0 +1,12 @@
+94,141,6
+r,1
+the,2
+government,1
+or,2
+congress,1
+should,1
+pay,1
+us,1
+compensation,1
+loans,1
+in,1

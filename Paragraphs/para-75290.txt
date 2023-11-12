@@ -1,0 +1,7 @@
+21,489,6
+279,1
+a,1
+triumph,1
+of,1
+non,1
+violence,1

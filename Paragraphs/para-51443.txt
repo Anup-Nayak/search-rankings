@@ -1,0 +1,10 @@
+15,120,7
+arrived,1
+in,1
+hadala,1
+went,1
+to,1
+bagasra,1
+a,1
+function,1
+there,1

@@ -1,0 +1,9 @@
+15,318,1
+243,1
+speech,1
+at,1
+home,1
+rule,1
+league,1
+headquarters,1
+karachi,1

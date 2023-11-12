@@ -1,0 +1,9 @@
+80,105,7
+yours,1
+sincerely,1
+amrit,1
+kaur,1
+shri,1
+sachindra,1
+nath,1
+mitra,1

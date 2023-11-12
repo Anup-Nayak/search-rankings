@@ -1,0 +1,12 @@
+11,418,10
+mr,1
+gandhi,1
+interviewed,1
+by,1
+reuters,1
+representative,1
+stated,1
+that,1
+the,1
+settlement,1
+1,1

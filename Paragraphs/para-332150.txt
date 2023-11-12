@@ -1,0 +1,6 @@
+86,337,1
+590,1
+letter,1
+to,1
+mushtaq,1
+ahmed,1

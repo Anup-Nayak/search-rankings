@@ -1,0 +1,9 @@
+77,118,1
+suitable,1
+staff,1
+for,1
+the,2
+efficient,1
+management,1
+of,1
+hospital,1

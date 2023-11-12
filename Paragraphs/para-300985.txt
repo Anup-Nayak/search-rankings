@@ -1,0 +1,7 @@
+80,105,3
+186,1
+letter,1
+to,1
+sachindra,1
+nath,1
+mitra,1

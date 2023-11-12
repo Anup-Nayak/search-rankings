@@ -1,0 +1,5 @@
+83,126,12
+sevagram,1
+wardha,1
+c,1
+p,1

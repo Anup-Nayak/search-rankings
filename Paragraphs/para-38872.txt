@@ -1,0 +1,6 @@
+12,99,3
+your,1
+sincerely,1
+m,1
+k,1
+gandhi,1

@@ -1,0 +1,7 @@
+83,45,5
+54,1
+talk,1
+with,1
+horace,1
+alexander,1
+1,1

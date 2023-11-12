@@ -1,0 +1,4 @@
+4,245,2
+tenets,1
+of,1
+hinduism,1

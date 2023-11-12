@@ -1,0 +1,4 @@
+68,53,3
+waste,1
+into,1
+wealth,1

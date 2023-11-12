@@ -1,0 +1,7 @@
+64,48,1
+71,1
+speech,1
+at,1
+garadpur,1
+ashram,1
+bhadrak,1

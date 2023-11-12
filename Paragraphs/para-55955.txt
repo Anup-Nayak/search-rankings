@@ -1,0 +1,10 @@
+16,168,8
+1,1
+durban,1
+the,1
+paper,1
+was,1
+being,1
+printed,1
+at,1
+phoenix,1

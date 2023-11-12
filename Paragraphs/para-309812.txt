@@ -1,0 +1,14 @@
+81,511,1
+of,4
+trade,1
+and,1
+transport,1
+due,1
+to,2
+stress,1
+war,1
+may,1
+lead,1
+scarcity,1
+the,1
+necessaries,1

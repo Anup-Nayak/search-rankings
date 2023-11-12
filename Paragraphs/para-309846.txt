@@ -1,0 +1,4 @@
+82,1,6
+for,1
+select,1
+individuals,1

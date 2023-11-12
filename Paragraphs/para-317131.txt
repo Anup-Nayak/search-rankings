@@ -1,0 +1,8 @@
+83,137,8
+150,1
+talk,1
+with,1
+vinoba,1
+bhave,1
+and,1
+others,1

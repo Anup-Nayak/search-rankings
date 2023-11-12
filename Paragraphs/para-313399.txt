@@ -1,0 +1,12 @@
+82,298,8
+king,1
+but,1
+have,2
+appointed,1
+commanders,1
+captains,1
+etc,1
+they,1
+are,1
+said,1
+to,1

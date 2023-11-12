@@ -1,0 +1,7 @@
+52,143,8
+doctor,1
+mehta,1
+care,1
+sir,1
+manubhai,1
+simla,1

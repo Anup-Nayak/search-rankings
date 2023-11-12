@@ -1,0 +1,7 @@
+13,438,5
+cape,1
+times,1
+admits,1
+reasonableness,1
+demands,1
+courteous,1

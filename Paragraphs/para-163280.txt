@@ -1,0 +1,9 @@
+47,106,15
+capital,1
+invested,1
+in,1
+textile,1
+mills,1
+rs,1
+51,1
+crores,1

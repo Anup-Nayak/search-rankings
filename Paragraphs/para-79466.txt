@@ -1,0 +1,12 @@
+23,186,15
+cover,1
+of,1
+dancing,1
+and,3
+singing,1
+acting,1
+or,1
+those,1
+who,1
+make,1
+sell,1

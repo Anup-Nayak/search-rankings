@@ -1,0 +1,11 @@
+41,298,13
+q,1
+but,1
+are,1
+not,1
+they,1
+selling,1
+only,1
+what,1
+is,1
+superfluous,1

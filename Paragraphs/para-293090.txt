@@ -1,0 +1,16 @@
+78,159,8
+i,1
+have,2
+your,1
+letter,1
+you,2
+will,1
+seen,1
+bapus,1
+article,1
+1,1
+about,1
+ajmer,1
+that,1
+should,1
+satisfy,1

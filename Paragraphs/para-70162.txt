@@ -1,0 +1,9 @@
+20,98,4
+a,1
+i,1
+was,1
+certainly,1
+not,1
+making,1
+it,1
+worse,1

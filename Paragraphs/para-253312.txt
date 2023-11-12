@@ -1,0 +1,16 @@
+68,216,17
+1,1
+the,2
+addressee,1
+was,1
+at,1
+this,1
+time,1
+living,1
+in,1
+newly,1
+constructed,1
+harijan,1
+colony,1
+kingsway,1
+delhi,1

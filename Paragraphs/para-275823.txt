@@ -1,0 +1,4 @@
+74,16,6
+1,1
+pyarelals,1
+mother,1

@@ -1,0 +1,9 @@
+77,140,3
+riots,1
+loot,1
+incendiarism,1
+sukkur,1
+district,1
+villages,1
+hindus,1
+mercilessly,1

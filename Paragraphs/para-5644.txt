@@ -1,0 +1,14 @@
+2,417,4
+14,1
+mercury,1
+lane,1
+durban,2
+september,1
+17,1
+1901,1
+to,1
+william,1
+cooley,1
+esq,1
+town,1
+clerk,1

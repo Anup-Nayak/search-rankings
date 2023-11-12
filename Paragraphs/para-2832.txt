@@ -1,0 +1,14 @@
+2,78,13
+dangerous,1
+to,1
+the,2
+lives,1
+of,1
+indian,1
+passengers,1
+not,1
+even,1
+after,1
+receiving,1
+pratique,1
+was,1

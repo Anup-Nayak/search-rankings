@@ -1,0 +1,14 @@
+64,137,7
+longer,1
+disfigured,1
+the,2
+fair,1
+face,1
+of,2
+city,1
+karachi,1
+besides,1
+this,1
+there,1
+were,1
+three,1

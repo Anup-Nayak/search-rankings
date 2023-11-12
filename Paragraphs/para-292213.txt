@@ -1,0 +1,15 @@
+78,57,12
+3,1
+the,1
+proposal,1
+was,1
+opposed,1
+by,1
+abul,1
+kalam,1
+azad,1
+jawaharlal,1
+nehru,1
+and,1
+vallabhbhai,1
+patel,1

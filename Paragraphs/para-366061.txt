@@ -1,0 +1,15 @@
+94,359,11
+for,1
+religious,1
+education,1
+in,2
+our,1
+schools,1
+so,1
+as,1
+to,2
+enable,1
+those,1
+well,1
+versed,1
+religion,1

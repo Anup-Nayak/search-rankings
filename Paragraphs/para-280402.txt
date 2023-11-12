@@ -1,0 +1,7 @@
+75,76,8
+has,1
+right,1
+come,1
+when,1
+he,1
+likes,1

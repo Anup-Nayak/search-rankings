@@ -1,0 +1,9 @@
+75,439,14
+more,1
+than,1
+a,1
+quarter,1
+of,1
+an,1
+hour,1
+late,1

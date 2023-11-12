@@ -1,0 +1,12 @@
+61,40,10
+may,1
+1,1
+1933,1
+urmila,1
+devi,1
+24,1
+ramesh,1
+mitter,1
+road,1
+bhawanipur,1
+calcutta,1

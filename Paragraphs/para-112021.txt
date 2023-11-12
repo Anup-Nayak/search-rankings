@@ -1,0 +1,6 @@
+33,192,2
+a,1
+scheme,1
+of,1
+cow,1
+protection,1

@@ -1,0 +1,5 @@
+12,234,3
+196,1
+smallpox,1
+in,1
+johannesburg,1

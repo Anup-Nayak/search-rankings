@@ -1,0 +1,9 @@
+61,28,5
+4,1
+do,1
+not,1
+worship,1
+the,1
+great,1
+hindu,1
+gods,1

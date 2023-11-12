@@ -1,0 +1,5 @@
+75,44,3
+46,1
+why,1
+kasturba,1
+gandhi,1

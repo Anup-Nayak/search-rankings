@@ -1,0 +1,13 @@
+46,186,6
+25,1
+some,1
+yogis,1
+perform,1
+sacrifice,1
+in,1
+the,2
+form,1
+of,2
+worship,1
+gods,1
+others,1

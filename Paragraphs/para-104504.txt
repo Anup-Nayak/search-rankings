@@ -1,0 +1,13 @@
+30,443,6
+1,1
+non,2
+violence,1
+is,1
+the,1
+highest,1
+dharma,1
+2,1
+absolute,1
+monism,1
+literally,1
+dualism,1

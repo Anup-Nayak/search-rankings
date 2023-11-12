@@ -1,0 +1,8 @@
+4,182,2
+146,1
+slaughter,1
+houses,1
+in,1
+the,1
+cape,1
+colony,1

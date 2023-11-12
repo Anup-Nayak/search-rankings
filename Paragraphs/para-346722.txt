@@ -1,0 +1,7 @@
+90,12,4
+19,1
+letter,1
+to,1
+charles,1
+f,1
+gritzner,1

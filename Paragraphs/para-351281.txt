@@ -1,0 +1,15 @@
+91,84,2
+q,1
+to,1
+a,1
+seventh,1
+why,1
+do,1
+you,1
+always,1
+wear,1
+either,1
+silk,1
+or,1
+wool,1
+khadi,1

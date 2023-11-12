@@ -1,0 +1,10 @@
+15,485,5
+excessive,1
+it,1
+was,1
+open,1
+for,1
+him,1
+to,2
+refuse,1
+pay,1

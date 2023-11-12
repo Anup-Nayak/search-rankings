@@ -1,0 +1,13 @@
+23,235,2
+1,1
+mian,1
+mahomed,2
+haji,1
+jan,1
+chhotani,1
+a,1
+nationalist,1
+leader,1
+of,1
+bom,1
+bay,1

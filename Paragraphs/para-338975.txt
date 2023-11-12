@@ -1,0 +1,11 @@
+88,83,7
+pranams,1
+from,1
+mohandas,1
+mrs,1
+shukla,1
+barrister,1
+shuklas,1
+bungalow,1
+rajkot,1
+kathiawar,1

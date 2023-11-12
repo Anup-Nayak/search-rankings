@@ -1,0 +1,14 @@
+32,448,4
+does,1
+the,1
+kitchen,1
+work,1
+while,1
+others,1
+except,1
+one,1
+offer,1
+satyagraha,1
+for,1
+three,1
+hours,1

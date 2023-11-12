@@ -1,0 +1,7 @@
+6,180,1
+175,1
+speech,1
+at,1
+london,1
+farewell,1
+1,1

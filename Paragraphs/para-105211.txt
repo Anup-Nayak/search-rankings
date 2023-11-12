@@ -1,0 +1,11 @@
+31,94,6
+you,2
+do,1
+can,1
+reasonably,1
+expect,1
+large,1
+numbers,1
+completely,1
+abstaining,1
+from,1

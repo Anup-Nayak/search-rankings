@@ -1,0 +1,7 @@
+14,11,11
+criminal,1
+blunder,1
+not,1
+consulting,1
+community,1
+and,1

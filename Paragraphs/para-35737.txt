@@ -1,0 +1,11 @@
+11,252,4
+cape,1
+nor,1
+does,1
+it,1
+protect,1
+i,1
+imagine,1
+such,1
+person,1
+entering,1

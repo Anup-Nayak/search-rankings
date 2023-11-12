@@ -1,0 +1,13 @@
+21,354,24
+best,1
+and,2
+the,1
+only,1
+remedy,1
+he,1
+did,1
+not,2
+believe,1
+in,1
+violence,2
+will,1

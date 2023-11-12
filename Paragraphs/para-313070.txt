@@ -1,0 +1,16 @@
+82,266,8
+hostility,1
+to,2
+my,1
+country,1
+or,1
+myself,1
+so,1
+i,1
+am,1
+unable,1
+be,1
+content,1
+with,1
+non,1
+violent,1

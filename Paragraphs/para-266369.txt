@@ -1,0 +1,15 @@
+71,362,12
+sometimes,1
+a,1
+few,1
+drops,1
+of,1
+the,2
+blood,1
+get,1
+mixed,1
+up,1
+with,1
+milk,1
+unable,1
+to,1

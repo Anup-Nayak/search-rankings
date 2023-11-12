@@ -1,0 +1,14 @@
+21,499,4
+assert,1
+this,1
+term,1
+was,1
+employed,1
+by,1
+maulana,1
+shaukat,1
+ali,1
+whom,1
+mr,1
+gandhi,1
+openly,1

@@ -1,0 +1,14 @@
+3,282,4
+4,1
+one,1
+cook,1
+for,1
+every,1
+50,1
+men,1
+with,1
+a,1
+young,1
+coolie,1
+as,1
+assistant,1

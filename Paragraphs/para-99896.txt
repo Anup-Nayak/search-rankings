@@ -1,0 +1,7 @@
+29,295,5
+259,1
+message,1
+to,1
+gujarati,1
+journalists,1
+1,1

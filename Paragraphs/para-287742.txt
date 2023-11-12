@@ -1,0 +1,13 @@
+76,426,12
+favourable,1
+your,1
+letter,1
+seems,1
+to,1
+suggest,1
+that,1
+only,1
+expression,1
+of,1
+unfavourable,1
+views,1

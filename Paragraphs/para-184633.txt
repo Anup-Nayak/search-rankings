@@ -1,0 +1,9 @@
+52,268,4
+can,1
+render,1
+in,1
+her,1
+nonviolent,1
+effort,1
+for,1
+freedom,1

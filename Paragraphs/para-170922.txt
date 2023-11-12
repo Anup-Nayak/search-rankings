@@ -1,0 +1,13 @@
+49,162,5
+before,1
+this,1
+is,1
+evident,1
+enough,1
+in,1
+the,2
+case,1
+of,1
+material,1
+possessions,1
+and,1

@@ -1,0 +1,12 @@
+70,241,13
+krzenski,1
+if,1
+others,1
+are,3
+convinced,1
+that,1
+their,1
+religions,1
+true,1
+they,1
+saved,1

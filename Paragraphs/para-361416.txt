@@ -1,0 +1,15 @@
+93,260,1
+trust,1
+yourself,2
+and,1
+i,1
+know,1
+you,2
+will,1
+do,1
+it,1
+quite,1
+well,1
+must,1
+thoroughly,1
+recoup,1

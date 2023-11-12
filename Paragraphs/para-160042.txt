@@ -1,0 +1,10 @@
+46,202,2
+11,1
+settled,1
+conviction,1
+of,4
+the,4
+nature,1
+atman,1
+perception,1
+goal,1

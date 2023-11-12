@@ -1,0 +1,11 @@
+62,455,8
+unavoidable,1
+it,1
+should,1
+not,1
+exceed,1
+75,1
+miles,1
+in,1
+one,1
+day,1

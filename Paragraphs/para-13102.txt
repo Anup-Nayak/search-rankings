@@ -1,0 +1,6 @@
+5,201,3
+194,1
+the,1
+example,1
+of,1
+mombasa,1

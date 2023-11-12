@@ -1,0 +1,8 @@
+3,87,4
+indian,1
+government,1
+supply,1
+indentured,1
+indians,1
+who,1
+shouldreturn,1

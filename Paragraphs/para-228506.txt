@@ -1,0 +1,9 @@
+62,360,2
+387,1
+letter,1
+to,1
+margarete,1
+spiegel,1
+december,1
+30,1
+1933,1

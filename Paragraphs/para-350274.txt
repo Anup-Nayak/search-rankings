@@ -1,0 +1,9 @@
+90,424,9
+publication,1
+i,1
+see,1
+no,1
+harm,1
+however,1
+in,1
+statement,1

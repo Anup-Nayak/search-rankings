@@ -1,0 +1,16 @@
+59,366,11
+it,2
+is,1
+the,1
+one,1
+open,1
+book,1
+to,2
+every,1
+hindu,1
+who,1
+will,1
+care,1
+study,1
+and,1
+if,1

@@ -1,0 +1,13 @@
+5,135,4
+1,1
+president,1
+of,2
+the,2
+african,1
+political,1
+organization,1
+and,1
+member,1
+cape,1
+town,1
+municipality,1

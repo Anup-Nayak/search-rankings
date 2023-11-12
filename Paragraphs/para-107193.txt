@@ -1,0 +1,7 @@
+31,366,10
+8,1
+number,1
+of,1
+khaddar,1
+depots3,1
+only,1

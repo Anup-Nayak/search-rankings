@@ -1,0 +1,14 @@
+63,212,4
+1,1
+the,1
+gujarati,1
+translation,1
+of,1
+this,1
+was,1
+published,1
+in,1
+harijanbandhu,1
+25,1
+2,1
+1934,1

@@ -1,0 +1,6 @@
+3,445,1
+293,1
+the,1
+asiatic,1
+bazaar,1
+johannesburg,1

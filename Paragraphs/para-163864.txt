@@ -1,0 +1,13 @@
+47,174,9
+1,2
+in,1
+the,2
+source,1
+this,1
+letter,2
+is,1
+placed,1
+before,1
+of,1
+10,1
+1929,1

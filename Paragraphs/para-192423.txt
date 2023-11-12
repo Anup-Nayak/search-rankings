@@ -1,0 +1,12 @@
+54,203,5
+1,1
+lord,2
+reading,1
+he,1
+had,1
+taken,1
+the,1
+chair,1
+when,1
+sankey,1
+left,1

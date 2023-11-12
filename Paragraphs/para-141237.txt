@@ -1,0 +1,7 @@
+41,258,1
+292,1
+war,2
+against,1
+a,1
+correspondent,1
+writes,1

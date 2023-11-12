@@ -1,0 +1,11 @@
+13,452,9
+to,2
+come,1
+cape,1
+town,1
+but,1
+does,1
+not,1
+think,1
+it,1
+necessary,1

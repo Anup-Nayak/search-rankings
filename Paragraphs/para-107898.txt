@@ -1,0 +1,14 @@
+31,484,11
+ploughs,1
+again,2
+and,2
+secures,1
+a,1
+rich,1
+harvest,1
+we,1
+are,1
+still,1
+in,1
+the,1
+ploughing,1

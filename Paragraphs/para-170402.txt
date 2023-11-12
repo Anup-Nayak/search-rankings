@@ -1,0 +1,6 @@
+49,88,1
+93,1
+arrests,1
+and,1
+brutal,1
+justice,1

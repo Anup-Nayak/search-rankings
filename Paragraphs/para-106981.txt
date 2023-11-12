@@ -1,0 +1,16 @@
+31,336,11
+if,1
+they,3
+did,1
+not,1
+clear,1
+up,1
+their,1
+minds,1
+both,1
+would,1
+be,1
+responsible,1
+so,1
+long,1
+had,1

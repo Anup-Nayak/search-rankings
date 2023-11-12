@@ -1,0 +1,8 @@
+38,343,4
+getting,1
+strong,1
+blood,1
+pressure,1
+normal,1
+since,1
+sunday,1

@@ -1,0 +1,13 @@
+86,78,3
+1,1
+this,1
+word,1
+is,1
+omitted,1
+in,1
+the,2
+printed,2
+source,2
+2,1
+has,1
+apologetic,1

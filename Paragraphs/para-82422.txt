@@ -1,0 +1,5 @@
+24,185,19
+some,2
+will,2
+flatter,1
+slight,1

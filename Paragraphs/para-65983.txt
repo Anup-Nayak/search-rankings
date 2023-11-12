@@ -1,0 +1,12 @@
+19,18,3
+mill,1
+to,2
+pay,1
+the,1
+huzur,1
+deputy,1
+collector,1
+ahmedabad,1
+on,1
+monday,1
+september,1

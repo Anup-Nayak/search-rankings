@@ -1,0 +1,7 @@
+6,422,4
+365,1
+interview,1
+to,1
+the,1
+natal,1
+mercury,1

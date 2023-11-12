@@ -1,0 +1,13 @@
+84,302,10
+a,1
+mass,1
+civil,1
+disobedience,1
+can,1
+only,1
+take,1
+place,1
+if,1
+other,1
+efforts,1
+to,1

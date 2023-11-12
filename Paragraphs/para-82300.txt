@@ -1,0 +1,7 @@
+24,169,2
+how,1
+to,1
+guard,1
+against,1
+being,1
+cheated,1

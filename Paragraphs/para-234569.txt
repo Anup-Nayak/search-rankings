@@ -1,0 +1,14 @@
+64,134,7
+principal,1
+and,1
+the,1
+interest,1
+was,1
+admitted,1
+in,2
+full,1
+gandhiji,1
+advised,1
+that,1
+dealing,1
+with,1

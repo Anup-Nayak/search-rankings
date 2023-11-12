@@ -1,0 +1,10 @@
+62,395,3
+432,1
+speech,1
+at,1
+temperance,1
+association,1
+bangalore,1
+january,1
+7,1
+1934,1

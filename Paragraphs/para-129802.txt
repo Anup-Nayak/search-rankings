@@ -1,0 +1,16 @@
+38,85,12
+a,1
+truth,1
+teller,1
+knows,1
+no,1
+fear,1
+not,1
+even,1
+of,2
+the,1
+sword,1
+islam,1
+and,1
+i,1
+trust,1

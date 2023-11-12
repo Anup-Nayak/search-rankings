@@ -1,0 +1,8 @@
+97,431,4
+384,1
+telegram,1
+to,1
+nawab,1
+mohammad,1
+ismail,1
+khan,1

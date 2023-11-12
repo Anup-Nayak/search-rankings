@@ -1,0 +1,12 @@
+19,414,20
+1,1
+a,1
+seventeenth,1
+century,1
+hindi,1
+poet,1
+and,1
+saint,1
+author,1
+of,1
+ramacharitamanas,1

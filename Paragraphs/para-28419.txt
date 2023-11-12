@@ -1,0 +1,12 @@
+9,304,4
+picking,1
+up,1
+some,1
+newspapers,1
+just,1
+now,1
+we,1
+read,1
+how,1
+500,1
+men,1

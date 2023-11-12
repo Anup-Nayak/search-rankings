@@ -1,0 +1,4 @@
+19,16,6
+dear,1
+mrs,1
+khambatta,1

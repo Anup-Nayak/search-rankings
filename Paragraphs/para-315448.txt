@@ -1,0 +1,17 @@
+82,407,27
+i,1
+am,1
+not,1
+yet,1
+certain,1
+that,1
+the,2
+democracies,1
+will,1
+make,1
+a,1
+better,1
+world,1
+when,1
+they,1
+defeat,1

@@ -1,0 +1,7 @@
+74,0,16
+1,1
+the,1
+superscription,1
+is,1
+in,1
+urdu,1

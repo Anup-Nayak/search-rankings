@@ -1,0 +1,7 @@
+90,45,1
+62,1
+hindu,1
+and,1
+mussalman,1
+tea,1
+etc,1

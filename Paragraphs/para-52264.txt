@@ -1,0 +1,14 @@
+15,238,2
+1,1
+the,2
+london,1
+crowds,1
+behaved,1
+extravagantly,1
+on,1
+relief,1
+of,1
+mafeking,1
+may,1
+17,1
+1900,1

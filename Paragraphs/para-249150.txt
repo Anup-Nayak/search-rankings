@@ -1,0 +1,10 @@
+67,238,8
+m,1
+k,1
+gandhi,1
+saiyed,1
+saheb,1
+kasim,1
+ali,1
+visharad,1
+betul,1

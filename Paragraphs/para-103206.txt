@@ -1,0 +1,8 @@
+30,236,5
+1,1
+a,1
+village,1
+in,2
+kaira,1
+district,1
+gujarat,1

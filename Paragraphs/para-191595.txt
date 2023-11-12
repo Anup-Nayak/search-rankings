@@ -1,0 +1,7 @@
+54,89,7
+q,1
+would,1
+their,1
+decision,1
+be,1
+accepted,1

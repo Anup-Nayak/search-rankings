@@ -1,0 +1,6 @@
+19,77,2
+relief,1
+to,1
+those,1
+in,1
+distress,1

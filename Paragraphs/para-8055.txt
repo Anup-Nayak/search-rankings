@@ -1,0 +1,16 @@
+3,332,4
+1,1
+lal,1
+mohan,1
+ghose,1
+1849,1
+1909,1
+lawyer,1
+writer,1
+and,1
+advocate,1
+of,1
+self,1
+rule,1
+for,1
+india,1

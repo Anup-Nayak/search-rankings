@@ -1,0 +1,5 @@
+62,461,7
+30,1
+buchireddipalem,1
+*nellore,1
+venkatagiri,1

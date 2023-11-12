@@ -1,0 +1,13 @@
+88,28,1
+approve,1
+of,2
+the,1
+contents,1
+i,1
+showed,1
+it,2
+to,1
+sardar,1
+he,1
+has,1
+approved,1

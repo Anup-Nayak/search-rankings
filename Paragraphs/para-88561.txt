@@ -1,0 +1,14 @@
+26,194,5
+1,1
+a,1
+business,1
+community,1
+in,1
+kutch,1
+2,1
+the,1
+letter,1
+is,1
+not,1
+translated,1
+here,1

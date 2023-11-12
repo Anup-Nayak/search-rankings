@@ -1,0 +1,12 @@
+97,257,3
+gandhiji,1
+paid,1
+credit,1
+to,2
+burmese,1
+people,1
+as,1
+they,1
+were,1
+able,1
+declare,1

@@ -1,0 +1,13 @@
+21,86,18
+manufactures,1
+when,1
+they,1
+learn,1
+the,3
+true,1
+facts,1
+of,2
+unrest,1
+in,1
+interest,1
+their,1

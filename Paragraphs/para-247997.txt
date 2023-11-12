@@ -1,0 +1,9 @@
+67,119,1
+193,1
+speech,1
+at,1
+inauguration,1
+of,1
+bal,1
+mandir,1
+nadiad,1

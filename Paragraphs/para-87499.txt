@@ -1,0 +1,13 @@
+25,494,8
+of,1
+the,2
+town,2
+from,1
+morning,1
+till,1
+night,1
+they,1
+went,1
+about,1
+in,2
+carriages,1

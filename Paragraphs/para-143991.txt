@@ -1,0 +1,8 @@
+42,126,1
+149,1
+note,1
+on,1
+khadi,1
+work,1
+during,1
+vacations,1

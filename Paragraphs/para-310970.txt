@@ -1,0 +1,5 @@
+82,94,19
+god,1
+is,1
+beyond,1
+conception,1

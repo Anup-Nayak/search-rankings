@@ -1,0 +1,16 @@
+82,418,15
+phase,1
+as,1
+it,2
+has,1
+sometimes,1
+in,1
+past,1
+years,1
+would,1
+you,2
+call,1
+off,1
+have,1
+done,1
+that,1

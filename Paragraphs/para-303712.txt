@@ -1,0 +1,7 @@
+80,366,6
+press,1
+reports,1
+disturbing,1
+wire,1
+exact,1
+condition,1

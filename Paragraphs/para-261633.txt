@@ -1,0 +1,8 @@
+70,200,3
+this,1
+is,1
+enough,1
+for,1
+mehr,1
+and,1
+tara,1

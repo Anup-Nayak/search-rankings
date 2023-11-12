@@ -1,0 +1,11 @@
+12,143,5
+the,2
+bill,1
+will,1
+apply,1
+to,1
+entire,1
+union,1
+of,1
+south,1
+africa,1

@@ -1,0 +1,10 @@
+1,121,9
+telegram,1
+from,1
+tayob,1
+4,1
+saying,1
+he,1
+would,1
+leave,1
+monday,1

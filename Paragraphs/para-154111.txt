@@ -1,0 +1,6 @@
+44,480,20
+t6,1
+guj,1
+has,1
+supreme,1
+sacrifice,1

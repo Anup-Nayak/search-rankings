@@ -1,0 +1,7 @@
+21,147,1
+unanswerable,1
+method,1
+of,1
+non,1
+co,1
+operation,1

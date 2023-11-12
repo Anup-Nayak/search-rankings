@@ -1,0 +1,9 @@
+72,330,9
+2,1
+kumibehn,1
+t,1
+maniar,1
+harilal,1
+gandhis,1
+wifes,1
+sister,1

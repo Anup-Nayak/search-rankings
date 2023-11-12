@@ -1,0 +1,14 @@
+51,86,6
+had,1
+gathered,1
+at,1
+the,1
+meeting,1
+and,2
+he,1
+offered,1
+his,1
+thanks,1
+to,1
+god,1
+congratulations,1

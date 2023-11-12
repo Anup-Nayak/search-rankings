@@ -1,0 +1,14 @@
+11,116,6
+i,1
+shall,1
+be,1
+waiting,1
+for,1
+your,1
+letter,1
+during,1
+the,1
+next,1
+week,1
+like,1
+a,1

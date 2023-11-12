@@ -1,0 +1,11 @@
+33,294,11
+mohandas,1
+gandhi,1
+sjt,1
+ghanshyamdas,1
+birla,1
+mahesh,1
+villa,1
+solan,1
+simla,1
+hills,1

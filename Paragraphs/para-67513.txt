@@ -1,0 +1,17 @@
+19,239,12
+it,1
+would,1
+not,1
+be,1
+a,1
+matter,1
+of,2
+wonder,1
+now,1
+if,1
+there,1
+was,1
+delay,1
+in,1
+the,2
+cancellation,1

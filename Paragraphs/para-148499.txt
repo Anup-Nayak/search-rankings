@@ -1,0 +1,4 @@
+43,165,7
+african,1
+journalists,1
+advisable,1

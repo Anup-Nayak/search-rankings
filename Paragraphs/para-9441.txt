@@ -1,0 +1,9 @@
+4,119,9
+if,1
+carried,1
+meant,1
+confiscation,1
+ruin,1
+asked,1
+public,1
+inquiry,1

@@ -1,0 +1,9 @@
+10,357,9
+by,1
+the,2
+government,1
+to,1
+be,1
+lawfully,1
+resident,1
+in,1

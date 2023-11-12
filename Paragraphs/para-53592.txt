@@ -1,0 +1,13 @@
+15,394,12
+1,1
+from,1
+the,2
+date,1
+line,1
+and,1
+post,1
+script,1
+vide,1
+also,1
+preceding,1
+item,1

@@ -1,0 +1,7 @@
+42,348,3
+415,1
+rama,1
+the,2
+strength,1
+of,1
+weak,1

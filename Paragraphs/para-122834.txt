@@ -1,0 +1,8 @@
+36,175,4
+shri,1
+fulchand,1
+k,1
+shah,1
+national,1
+school,1
+wadhwan,1

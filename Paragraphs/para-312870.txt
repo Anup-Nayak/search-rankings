@@ -1,0 +1,12 @@
+82,251,10
+q,1
+harijans,1
+are,1
+legally,1
+entitled,1
+to,2
+send,1
+their,1
+children,1
+many,1
+educational,1

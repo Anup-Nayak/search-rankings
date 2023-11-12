@@ -1,0 +1,10 @@
+82,412,33
+working,1
+for,1
+it,2
+is,2
+not,1
+an,1
+unearthly,1
+goal,1
+practicable,1

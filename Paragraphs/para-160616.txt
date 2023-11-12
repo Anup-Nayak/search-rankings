@@ -1,0 +1,8 @@
+46,272,1
+217,1
+letter,1
+to,1
+a,1
+russian,1
+correspondent,1
+1,1

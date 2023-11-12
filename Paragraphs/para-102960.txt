@@ -1,0 +1,11 @@
+30,214,15
+q,1
+did,1
+the,2
+d,1
+c,1
+leave,1
+management,1
+in,1
+your,1
+hands,1

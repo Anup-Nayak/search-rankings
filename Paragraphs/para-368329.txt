@@ -1,0 +1,9 @@
+95,237,6
+how,1
+can,1
+bribe,2
+givers,1
+and,1
+takers,1
+be,1
+punished,1

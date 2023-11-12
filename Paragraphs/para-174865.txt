@@ -1,0 +1,5 @@
+50,129,10
+bapuki,1
+virat,1
+vatsalata,1
+p,1

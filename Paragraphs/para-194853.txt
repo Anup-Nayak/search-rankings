@@ -1,0 +1,9 @@
+54,464,17
+adherents,1
+have,1
+attempted,1
+to,1
+stir,1
+trouble,1
+in,1
+the,1

@@ -1,0 +1,15 @@
+89,306,7
+work,1
+they,1
+might,1
+do,1
+he,2
+had,1
+been,1
+telling,1
+repeatedly,1
+and,1
+would,1
+say,1
+again,1
+that,1

@@ -1,0 +1,7 @@
+52,250,6
+seethanagaram,1
+via,1
+kovvoor,1
+east,1
+godavari,1
+dt,1

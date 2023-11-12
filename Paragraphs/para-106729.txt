@@ -1,0 +1,12 @@
+31,312,15
+mahatmaji,1
+emphasized,1
+this,1
+saying,1
+our,1
+religion,1
+teaches,1
+us,1
+to,1
+remain,1
+engaged,1

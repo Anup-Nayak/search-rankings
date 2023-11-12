@@ -1,0 +1,11 @@
+38,144,8
+i,2
+have,1
+your,2
+letter,1
+from,1
+delhi,1
+note,1
+remarks,1
+about,1
+guru,1

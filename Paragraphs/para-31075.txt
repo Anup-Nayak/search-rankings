@@ -1,0 +1,7 @@
+10,163,6
+mohandas,1
+from,1
+gujarati,1
+gandhiji,1
+na,1
+patro,1

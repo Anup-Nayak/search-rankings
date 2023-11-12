@@ -1,0 +1,6 @@
+80,149,8
+this,1
+is,1
+not,1
+right,1
+contemplate,1

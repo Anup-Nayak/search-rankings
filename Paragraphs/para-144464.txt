@@ -1,0 +1,6 @@
+42,194,3
+those,1
+who,1
+help,2
+bardoli,1
+themselves,1

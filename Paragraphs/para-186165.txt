@@ -1,0 +1,12 @@
+52,440,8
+m,1
+k,1
+gandhi,1
+syt,1
+s,1
+satyamurti,1
+2/18,1
+car,1
+street,1
+triplicane,1
+madras,1

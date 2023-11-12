@@ -1,0 +1,8 @@
+69,442,6
+1,1
+civil,1
+surgeon,1
+2,1
+to,1
+village,1
+women,1

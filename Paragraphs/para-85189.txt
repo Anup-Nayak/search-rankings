@@ -1,0 +1,4 @@
+25,169,6
+parsis,1
+and,1
+christians,1

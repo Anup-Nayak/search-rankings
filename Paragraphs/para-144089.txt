@@ -1,0 +1,16 @@
+42,139,2
+everyone,1
+is,1
+extremely,1
+pleased,1
+with,1
+you,2
+work,1
+at,1
+present,1
+may,1
+live,1
+long,1
+and,1
+do,1
+much,1

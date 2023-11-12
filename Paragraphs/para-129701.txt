@@ -1,0 +1,13 @@
+38,69,13
+learn,1
+further,1
+the,2
+lesson,1
+of,3
+fearlessness,1
+from,1
+his,1
+life,1
+and,1
+that,1
+evils,1

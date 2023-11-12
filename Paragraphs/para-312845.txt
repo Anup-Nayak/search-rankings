@@ -1,0 +1,6 @@
+82,249,3
+rashtrabhasha,1
+hindustani,1
+part,1
+i,1
+pp,1

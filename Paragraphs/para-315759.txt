@@ -1,0 +1,10 @@
+82,416,14
+fact,1
+that,2
+i,1
+pursue,1
+the,1
+truth,1
+is,1
+my,1
+goal,1

@@ -1,0 +1,7 @@
+81,31,7
+57,1
+letter,1
+to,1
+g,1
+l,1
+khanolkar,1

@@ -1,0 +1,5 @@
+75,52,7
+57,1
+telegram,1
+to,1
+jethanand,1

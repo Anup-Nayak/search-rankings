@@ -1,0 +1,16 @@
+32,102,5
+1,1
+not,1
+reproduced,1
+here,1
+it,1
+spoke,1
+of,2
+the,1
+evils,1
+brothels,1
+cinema,1
+houses,1
+drinking,1
+and,1
+smoking,1

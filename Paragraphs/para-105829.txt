@@ -1,0 +1,7 @@
+31,190,2
+116,1
+varnashram,1
+again,1
+a,1
+correspondent,1
+writes,1

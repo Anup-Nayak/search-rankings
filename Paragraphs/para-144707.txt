@@ -1,0 +1,9 @@
+42,215,13
+maulana,1
+shaukat,1
+ali,1
+central,1
+khilafat,1
+committee,1
+dongri,1
+bombay,1

@@ -1,0 +1,14 @@
+26,134,5
+1,1
+to,2
+confine,1
+it,1
+places,1
+where,1
+atmosphere,1
+of,1
+perfect,1
+non,1
+violence,1
+is,1
+maintained,1

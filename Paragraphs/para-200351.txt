@@ -1,0 +1,9 @@
+56,176,1
+is,1
+a,1
+piece,1
+of,1
+poetry,1
+to,1
+my,1
+mind,1

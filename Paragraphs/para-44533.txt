@@ -1,0 +1,12 @@
+13,364,8
+4,1
+the,2
+government,1
+say,1
+that,1
+there,1
+is,1
+no,1
+racial,1
+bar,1
+in,1

@@ -1,0 +1,6 @@
+73,98,9
+not,1
+the,1
+obstacle,1
+be,1
+removed,1

@@ -1,0 +1,4 @@
+17,394,2
+a,1
+hasty,1
+generalization,1

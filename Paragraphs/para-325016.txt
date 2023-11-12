@@ -1,0 +1,6 @@
+85,126,5
+171,1
+letter,1
+to,1
+bipinbihari,1
+chatpat,1

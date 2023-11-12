@@ -1,0 +1,7 @@
+4,286,1
+232,1
+letter,1
+to,1
+haji,2
+mahomed,1
+dada,1

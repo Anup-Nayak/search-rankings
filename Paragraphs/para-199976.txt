@@ -1,0 +1,7 @@
+56,106,2
+i,1
+have,1
+sent,1
+wires,1
+as,1
+above,1

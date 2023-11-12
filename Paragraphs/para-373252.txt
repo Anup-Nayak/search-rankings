@@ -1,0 +1,6 @@
+96,412,8
+522,1
+letter,1
+to,1
+daniel,1
+thomas,1

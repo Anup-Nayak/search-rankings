@@ -1,0 +1,8 @@
+32,287,1
+paradise,1
+with,1
+to,2
+be,2
+good,1
+and,1
+truth,1

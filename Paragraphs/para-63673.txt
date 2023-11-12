@@ -1,0 +1,7 @@
+18,128,5
+circumstances,1
+alter,1
+situation,1
+i,1
+propose,1
+resum,1

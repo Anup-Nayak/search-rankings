@@ -1,0 +1,7 @@
+6,526,9
+resident,2
+magistrate,2
+shall,1
+include,1
+an,1
+assistant,1

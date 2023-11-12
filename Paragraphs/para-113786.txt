@@ -1,0 +1,12 @@
+33,407,8
+a,2
+friend,1
+has,1
+asked,1
+me,1
+three,1
+questions,1
+in,1
+most,1
+humble,1
+spirit,1

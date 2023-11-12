@@ -1,0 +1,6 @@
+21,125,2
+88,1
+what,1
+the,1
+scriptures,1
+say,1

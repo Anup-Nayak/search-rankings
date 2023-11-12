@@ -1,0 +1,10 @@
+41,42,7
+miss,1
+helene,1
+haussding,1
+herrsching,1
+a,1
+ammersee,1
+bei,1
+minchen,1
+germany,1

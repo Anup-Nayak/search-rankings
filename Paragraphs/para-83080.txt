@@ -1,0 +1,4 @@
+24,292,4
+picketing,1
+and,1
+love,1

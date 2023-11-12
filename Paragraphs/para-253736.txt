@@ -1,0 +1,17 @@
+68,266,8
+1,1
+bhagavad,1
+gita,1
+vi,1
+35,1
+2,1
+this,1
+was,1
+in,1
+reply,1
+to,1
+a,2
+doubt,1
+expressed,1
+by,1
+member,1

@@ -1,0 +1,9 @@
+91,284,12
+fewer,1
+people,1
+die,1
+from,2
+disease,2
+than,1
+fear,1
+of,1

@@ -1,0 +1,5 @@
+28,87,6
+an,1
+arya,1
+samaj,1
+protest,1

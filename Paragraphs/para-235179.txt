@@ -1,0 +1,14 @@
+64,198,11
+majority,1
+of,1
+seats,1
+on,1
+the,2
+harijan,1
+board,1
+gandhiji,1
+explained,1
+to,1
+them,1
+at,1
+length,1

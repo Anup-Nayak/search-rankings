@@ -1,0 +1,5 @@
+22,347,3
+179,1
+hand,1
+spinning,1
+again,1

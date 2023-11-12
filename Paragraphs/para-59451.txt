@@ -1,0 +1,10 @@
+17,74,12
+national,1
+work,1
+second,1
+officials,1
+in,1
+charge,1
+of,1
+the,1
+respective,1

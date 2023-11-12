@@ -1,0 +1,12 @@
+46,141,8
+know,1
+many,1
+ladies,1
+who,1
+attended,1
+and,1
+they,2
+assured,1
+me,1
+never,1
+contemplated,1

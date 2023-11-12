@@ -1,0 +1,8 @@
+37,283,3
+who,3
+rejoices,1
+not,3
+neither,1
+frets,1
+grieves,1
+covets,1

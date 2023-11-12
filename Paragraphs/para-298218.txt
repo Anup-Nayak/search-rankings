@@ -1,0 +1,8 @@
+79,314,6
+are,1
+you,2
+qualified,1
+do,1
+believe,1
+in,1
+constructive,1

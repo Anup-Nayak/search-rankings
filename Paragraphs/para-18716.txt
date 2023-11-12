@@ -1,0 +1,4 @@
+6,390,4
+asiatic,1
+eating,1
+houses,1

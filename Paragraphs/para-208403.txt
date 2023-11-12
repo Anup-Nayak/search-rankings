@@ -1,0 +1,9 @@
+58,119,9
+1,1
+an,1
+ex,1
+criminal,1
+tribe,1
+of,1
+central,1
+gujarat,1

@@ -1,0 +1,7 @@
+67,67,1
+109,1
+letter,1
+to,1
+avadhesh,1
+dutt,1
+avasthi,1

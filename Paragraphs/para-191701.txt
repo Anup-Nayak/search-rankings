@@ -1,0 +1,8 @@
+54,100,8
+a,1
+at,1
+present,1
+by,1
+exploiting,1
+the,1
+masses,1

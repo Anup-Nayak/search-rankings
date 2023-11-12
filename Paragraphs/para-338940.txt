@@ -1,0 +1,13 @@
+88,80,15
+1,1
+a,1
+portion,1
+is,2
+illegible,1
+in,2
+the,3
+source,1
+2,1
+letter,1
+devanagari,1
+script,1

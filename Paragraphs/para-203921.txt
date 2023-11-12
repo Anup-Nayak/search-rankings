@@ -1,0 +1,5 @@
+57,108,7
+time,1
+for,1
+your,1
+fasting,1

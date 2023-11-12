@@ -1,0 +1,15 @@
+63,302,2
+swami,1
+should,1
+not,1
+a,2
+striving,1
+satyagrahi,2
+endeavour,1
+to,2
+be,1
+more,1
+perfect,1
+by,1
+going,1
+jail,1

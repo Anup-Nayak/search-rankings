@@ -1,0 +1,7 @@
+32,260,2
+azimganj,1
+thursday,1
+august,1
+6,1
+1925,1
+1,1

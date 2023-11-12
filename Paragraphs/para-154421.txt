@@ -1,0 +1,9 @@
+44,490,21
+t4,1
+guj,1
+has,1
+had,1
+been,1
+reassured,1
+and,1
+so,1

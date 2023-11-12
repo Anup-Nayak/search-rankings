@@ -1,0 +1,6 @@
+60,161,5
+untouchability,1
+among,1
+swaminarayans,1
+and,1
+jains,1

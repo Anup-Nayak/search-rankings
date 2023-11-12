@@ -1,0 +1,15 @@
+31,312,16
+to,1
+duty,1
+he,2
+said,1
+that,1
+understood,1
+the,2
+reason,1
+of,2
+slow,1
+progress,1
+their,1
+work,1
+it,1

@@ -1,0 +1,6 @@
+66,292,12
+ramachandran,1
+harijan,1
+sevak,1
+sangh,1
+bangalore,1

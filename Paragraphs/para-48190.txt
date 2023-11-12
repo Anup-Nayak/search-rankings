@@ -1,0 +1,9 @@
+14,307,5
+more,1
+from,1
+letter,2
+to,2
+maganlal,2
+show,1
+this,1
+chi,1

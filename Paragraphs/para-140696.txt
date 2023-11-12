@@ -1,0 +1,12 @@
+41,184,6
+1hand,1
+spinning,1
+and,2
+hand,1
+weaving,1
+by,1
+s,2
+v,1
+puntambekar,1
+n,1
+varadachari,1

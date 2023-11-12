@@ -1,0 +1,17 @@
+68,324,4
+gandhiji,1
+not,1
+only,1
+you,1
+but,1
+many,1
+of,2
+us,1
+received,1
+inspiration,1
+from,1
+the,2
+noble,1
+life,1
+late,1
+swamiji,1

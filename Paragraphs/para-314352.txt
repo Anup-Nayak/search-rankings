@@ -1,0 +1,11 @@
+82,369,8
+4,1
+the,2
+modern,1
+indian,1
+languages,1
+or,1
+tertiary,1
+prakrits,1
+developed,1
+from,1

@@ -1,0 +1,8 @@
+14,16,11
+taken,1
+every,1
+leader,1
+necessary,1
+he,1
+too,1
+made,1

@@ -1,0 +1,5 @@
+28,400,2
+wanted,1
+only,1
+text,1
+books,1

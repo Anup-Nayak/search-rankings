@@ -1,0 +1,7 @@
+85,250,6
+402,1
+talk,1
+with,1
+narahari,1
+d,1
+parikh,1

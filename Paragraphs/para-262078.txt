@@ -1,0 +1,5 @@
+70,253,2
+vandemataram,1
+from,2
+mohandas,1
+guajarati,1

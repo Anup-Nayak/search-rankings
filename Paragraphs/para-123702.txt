@@ -1,0 +1,10 @@
+36,274,2
+ashram,1
+sabarmati,1
+bhadrapad,1
+sud,1
+1,2
+wednesday,1
+september,1
+8,1
+1926,1

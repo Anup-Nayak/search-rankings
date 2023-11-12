@@ -1,0 +1,8 @@
+37,33,5
+39,1
+the,1
+arts,1
+of,1
+kings,1
+and,1
+queens,1

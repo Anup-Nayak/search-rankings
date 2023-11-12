@@ -1,0 +1,12 @@
+82,299,13
+government,1
+machinery,1
+in,2
+this,1
+area,1
+has,1
+ceased,1
+the,2
+sanghar,1
+taluka,1
+all,1

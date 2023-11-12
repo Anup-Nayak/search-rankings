@@ -1,0 +1,16 @@
+64,132,17
+untouchability,1
+would,1
+not,1
+be,2
+carried,1
+out,1
+by,1
+the,1
+use,1
+of,1
+force,1
+it,1
+could,1
+only,1
+achieved,1

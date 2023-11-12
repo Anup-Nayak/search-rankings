@@ -1,0 +1,6 @@
+29,164,7
+123,1
+letter,1
+t0,1
+mathuradas,1
+trikumji,1

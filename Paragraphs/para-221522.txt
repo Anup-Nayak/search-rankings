@@ -1,0 +1,10 @@
+61,48,6
+weight,1
+would,1
+have,1
+killed,1
+any,1
+other,1
+woman,1
+i,1
+treasure,1

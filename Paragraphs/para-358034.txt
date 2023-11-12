@@ -1,0 +1,15 @@
+92,368,7
+august,1
+4,1
+1946,1
+he,1
+who,1
+is,1
+face,2
+to,1
+with,1
+god,1
+does,1
+not,1
+speak,2
+cannot,1

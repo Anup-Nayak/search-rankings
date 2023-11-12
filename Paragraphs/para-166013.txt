@@ -1,0 +1,4 @@
+47,415,10
+pandit,1
+nehru,1
+lucknow,1

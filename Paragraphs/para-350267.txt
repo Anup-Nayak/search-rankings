@@ -1,0 +1,8 @@
+90,424,2
+for,2
+indian,1
+development,1
+and,1
+racial,1
+peace,1
+many,1

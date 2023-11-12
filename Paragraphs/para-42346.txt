@@ -1,0 +1,9 @@
+13,69,15
+absenting,1
+no,1
+matter,1
+how,1
+many,1
+years,1
+can,1
+legally,1

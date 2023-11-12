@@ -1,0 +1,9 @@
+6,304,14
+impressions,1
+being,1
+taken,1
+if,1
+information,1
+rustenburg,1
+true,1
+association,1

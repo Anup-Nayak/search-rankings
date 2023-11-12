@@ -1,0 +1,10 @@
+75,6,5
+many,1
+thanks,1
+for,1
+your,1
+letter,1
+of,1
+the,1
+22nd,1
+instant,1

@@ -1,0 +1,6 @@
+14,482,2
+andrews,1
+interview,1
+with,1
+governor,1
+general1,1

@@ -1,0 +1,5 @@
+72,87,18
+irreparable,1
+loss,1
+1,1
+gandhi,1

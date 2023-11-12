@@ -1,0 +1,17 @@
+9,50,11
+mr,1
+gandhi,1
+you,1
+say,1
+he,1
+has,1
+no,1
+authority,1
+to,1
+reside,1
+in,1
+the,1
+country,1
+is,1
+that,1
+so,1

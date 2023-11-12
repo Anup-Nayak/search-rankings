@@ -1,0 +1,12 @@
+97,257,5
+the,2
+course,1
+of,1
+talks,1
+to,1
+mr,1
+churchills,1
+recent,1
+speech,1
+and,1
+advised,1

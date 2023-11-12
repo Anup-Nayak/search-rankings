@@ -1,0 +1,7 @@
+66,200,3
+291,1
+letter,1
+to,1
+p,1
+narayana,1
+reddy,1

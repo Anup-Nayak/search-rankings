@@ -1,0 +1,10 @@
+57,311,13
+first,1
+instant,1
+among,1
+other,1
+things,1
+i,1
+might,1
+be,1
+obliged,1

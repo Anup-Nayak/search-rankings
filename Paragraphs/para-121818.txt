@@ -1,0 +1,8 @@
+36,58,14
+1,1
+gandhiji,1
+has,1
+used,1
+the,1
+english,1
+expressions,1

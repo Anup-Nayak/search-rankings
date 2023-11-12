@@ -1,0 +1,5 @@
+60,507,4
+600,1
+letter,1
+to,1
+harkisendas,1

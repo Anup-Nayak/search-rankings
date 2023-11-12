@@ -1,0 +1,5 @@
+66,54,4
+bengal,1
+harijan,1
+sevak,1
+sangh,1

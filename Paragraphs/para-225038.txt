@@ -1,0 +1,15 @@
+61,423,2
+even,1
+if,1
+you,2
+stop,1
+after,1
+completing,1
+the,1
+gita,1
+will,1
+have,1
+made,1
+fairly,1
+good,1
+progress,1

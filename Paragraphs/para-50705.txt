@@ -1,0 +1,9 @@
+15,67,5
+ahmedabad,1
+kartak,1
+vad,1
+11,1
+november,1
+17,1
+1915,1
+2,1

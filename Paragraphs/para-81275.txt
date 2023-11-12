@@ -1,0 +1,13 @@
+23,483,7
+was,2
+not,1
+published,1
+with,1
+the,1
+least,1
+possible,1
+delay,1
+there,1
+already,1
+much,1
+discussion,1

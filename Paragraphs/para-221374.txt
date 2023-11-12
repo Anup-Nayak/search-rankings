@@ -1,0 +1,10 @@
+61,28,11
+10,1
+eat,1
+beef,1
+and,1
+do,2
+not,1
+reverence,1
+to,1
+cow,1

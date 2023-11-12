@@ -1,0 +1,7 @@
+86,330,11
+sorry,1
+about,1
+eyes,1
+do,1
+not,1
+strain,1

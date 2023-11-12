@@ -1,0 +1,10 @@
+87,38,4
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+lady,1
+abbas,1
+ali,1
+baig,1

@@ -1,0 +1,11 @@
+76,87,4
+poorly,1
+educated,1
+and,1
+uneducated,1
+people,1
+may,1
+follow,1
+in,1
+their,1
+sheer,1

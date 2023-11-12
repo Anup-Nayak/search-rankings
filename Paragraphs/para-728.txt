@@ -1,0 +1,15 @@
+1,147,2
+colonial,1
+office,1
+records,1
+no,1
+179,1
+vol,1
+189,1
+votes,1
+and,1
+proceedings,1
+of,1
+parliament,1
+natal,1
+1894,1

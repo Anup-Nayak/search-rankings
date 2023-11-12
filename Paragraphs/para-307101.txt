@@ -1,0 +1,6 @@
+81,185,6
+347,1
+letter,1
+to,1
+maithilisharan,1
+gupta,1

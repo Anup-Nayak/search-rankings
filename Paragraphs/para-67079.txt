@@ -1,0 +1,10 @@
+19,184,4
+from,1
+a,2
+photostat,1
+of,1
+the,1
+gujarati,1
+s,1
+n,1
+7928,1

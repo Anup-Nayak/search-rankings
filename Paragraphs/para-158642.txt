@@ -1,0 +1,11 @@
+46,43,18
+0,5
+chittoor,1
+district,1
+kalahasti,1
+1,1
+116,1
+bell,1
+metal,1
+co,1
+316,1

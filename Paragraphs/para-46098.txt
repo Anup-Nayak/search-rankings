@@ -1,0 +1,7 @@
+14,20,15
+community,1
+had,1
+shown,1
+unexpected,1
+powers,1
+of,1

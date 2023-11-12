@@ -1,0 +1,8 @@
+13,145,29
+should,1
+be,1
+deprived,1
+right,1
+possessed,1
+by,1
+them,1

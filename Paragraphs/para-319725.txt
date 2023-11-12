@@ -1,0 +1,6 @@
+84,51,7
+44,1
+telegram,1
+to,1
+frank,1
+moraes,1

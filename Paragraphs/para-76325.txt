@@ -1,0 +1,10 @@
+22,137,1
+a,1
+letter,1
+to,1
+me,1
+translated,1
+it,1
+reads,1
+as,1
+under,1

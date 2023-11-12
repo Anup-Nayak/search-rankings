@@ -1,0 +1,10 @@
+10,12,5
+1,1
+the,2
+natal,1
+indian,2
+congress,1
+and,1
+transvaal,1
+british,1
+association,1

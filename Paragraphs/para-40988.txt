@@ -1,0 +1,16 @@
+12,352,6
+address,1
+in,1
+dar,1
+es,1
+salaam,1
+mr,1
+kallenbach,1
+started,1
+learning,1
+hindi,1
+rd,1
+for,1
+tickets,1
+7,1
+0,2

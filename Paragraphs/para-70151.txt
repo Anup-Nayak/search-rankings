@@ -1,0 +1,8 @@
+20,97,6
+q,1
+and,1
+still,1
+it,1
+is,1
+your,1
+opinion,1

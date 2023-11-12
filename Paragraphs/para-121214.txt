@@ -1,0 +1,6 @@
+35,458,4
+a,1
+widow,1
+writes,1
+as,1
+follows,1

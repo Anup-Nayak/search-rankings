@@ -1,0 +1,7 @@
+6,67,3
+yours,1
+sincerely,1
+enclosure,1
+abdul,1
+qadir,1
+esq,1

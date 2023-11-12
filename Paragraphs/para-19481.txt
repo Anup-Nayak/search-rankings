@@ -1,0 +1,3 @@
+6,505,1
+turkish,1
+muslims,1

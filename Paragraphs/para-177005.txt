@@ -1,0 +1,16 @@
+50,386,2
+1,1
+note,1
+by,1
+gandhiji,1
+for,1
+this,2
+verse,1
+see,1
+107,1
+of,1
+which,1
+is,1
+an,1
+exact,1
+repetition,1

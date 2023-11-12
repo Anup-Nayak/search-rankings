@@ -1,0 +1,14 @@
+67,272,3
+m,1
+c,1
+but,1
+why,1
+not,1
+wear,1
+the,3
+lower,1
+part,1
+of,1
+shirt,1
+inside,1
+shorts,1

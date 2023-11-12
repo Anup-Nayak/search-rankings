@@ -1,0 +1,16 @@
+70,242,3
+k,1
+but,1
+i,1
+have,2
+studied,1
+all,1
+religions,1
+and,1
+found,1
+that,1
+mine,1
+is,1
+the,1
+only,1
+true,1

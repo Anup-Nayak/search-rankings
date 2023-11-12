@@ -1,0 +1,13 @@
+92,419,4
+director,1
+it,1
+does,2
+not,2
+pay,1
+to,1
+emphasize,1
+news,1
+about,1
+riots,1
+my,1
+paper,1

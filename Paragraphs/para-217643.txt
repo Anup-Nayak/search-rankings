@@ -1,0 +1,3 @@
+60,69,2
+christian,1
+harijans,1

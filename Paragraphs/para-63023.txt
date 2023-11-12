@@ -1,0 +1,5 @@
+18,37,4
+without,1
+sanction,1
+present,1
+juncture,1

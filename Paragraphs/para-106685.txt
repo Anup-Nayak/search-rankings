@@ -1,0 +1,11 @@
+31,309,7
+2,1
+sight,1
+of,1
+a,1
+person,1
+place,1
+or,1
+thing,1
+considered,1
+holy,1

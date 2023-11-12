@@ -1,0 +1,10 @@
+17,74,25
+loyal,1
+citizen,1
+of,1
+india,1
+desires,1
+whole,1
+heartedly,1
+to,2
+respond,1

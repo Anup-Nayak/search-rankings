@@ -1,0 +1,16 @@
+69,192,5
+mary,1
+this,1
+is,1
+by,1
+return,1
+post,1
+nothing,1
+wrong,1
+in,1
+your,1
+getting,1
+registered,1
+as,1
+a,1
+voter,1

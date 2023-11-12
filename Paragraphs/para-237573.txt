@@ -1,0 +1,9 @@
+65,15,1
+12,1
+letter,1
+to,1
+lalchand,1
+navalrai,1
+september,1
+17,1
+1934,1

@@ -1,0 +1,9 @@
+88,272,5
+ramchandra,1
+killawala,1
+22,1
+ram,1
+mandir,1
+road,1
+vile,1
+parle,1

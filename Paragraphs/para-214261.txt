@@ -1,0 +1,11 @@
+59,214,3
+m,1
+k,1
+gandhi,1
+sjt,1
+mathuradas,1
+jain,1
+zira,1
+dist,1
+ferozepore,1
+punjab,1

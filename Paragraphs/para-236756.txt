@@ -1,0 +1,13 @@
+64,381,8
+kisan,1
+writes,1
+to,2
+me,1
+sometimes,1
+your,1
+letter,1
+amtussalaam,1
+was,1
+a,1
+good,1
+one,1

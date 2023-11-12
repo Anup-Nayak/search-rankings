@@ -1,0 +1,3 @@
+61,493,4
+mahatma,1
+gandhi,1

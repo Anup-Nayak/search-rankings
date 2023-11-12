@@ -1,0 +1,9 @@
+18,120,3
+1,2
+vide,1
+swadeshi,1
+sabha,1
+rules,1
+before,1
+7,1
+1919,1

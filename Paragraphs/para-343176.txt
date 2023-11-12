@@ -1,0 +1,7 @@
+89,70,2
+visva,1
+bharati,1
+news,1
+vol,1
+xiv,1
+no,1

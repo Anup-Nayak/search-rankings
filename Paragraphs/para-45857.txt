@@ -1,0 +1,12 @@
+14,6,5
+announcement,1
+will,1
+not,1
+be,1
+made,1
+until,1
+i,1
+have,1
+des,1
+paired,1
+of,1

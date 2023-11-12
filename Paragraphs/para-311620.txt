@@ -1,0 +1,8 @@
+82,147,7
+political,1
+situation,1
+and,1
+special,1
+articles,1
+from,1
+harijan,1

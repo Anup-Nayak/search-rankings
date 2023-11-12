@@ -1,0 +1,9 @@
+22,9,8
+jhansi,2
+elsewhere,1
+hope,1
+if,1
+you,1
+find,1
+majority,1
+voters,1

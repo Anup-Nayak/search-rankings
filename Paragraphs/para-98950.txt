@@ -1,0 +1,7 @@
+29,193,8
+misrepresentation,1
+incitement,1
+from,1
+papers,1
+both,1
+hindu,1

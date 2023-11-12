@@ -1,0 +1,7 @@
+85,42,12
+1,1
+as,1
+noted,1
+by,1
+the,1
+addressee,1

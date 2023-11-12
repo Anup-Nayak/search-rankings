@@ -1,0 +1,9 @@
+1,160,3
+1,1
+trade,1
+tax,1
+a,1
+word,1
+of,1
+persian,1
+origin,1

@@ -1,0 +1,8 @@
+36,9,4
+5,1
+letter,1
+to,1
+v,1
+s,1
+srinivasa,1
+sastri,1

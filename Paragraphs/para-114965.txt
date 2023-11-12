@@ -1,0 +1,4 @@
+34,157,1
+the,1
+external,1
+situation,1

@@ -1,0 +1,12 @@
+2,30,9
+ask,1
+government,1
+to,1
+supply,1
+at,1
+once,1
+250,1
+blankets,1
+for,1
+passengers,1
+instead,1

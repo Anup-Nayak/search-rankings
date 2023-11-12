@@ -1,0 +1,15 @@
+82,63,8
+q,1
+please,1
+explain,1
+more,1
+fully,1
+why,1
+individual,1
+care,1
+of,1
+the,1
+cow,1
+is,1
+violent,1
+and,1

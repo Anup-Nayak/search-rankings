@@ -1,0 +1,6 @@
+18,166,4
+navajivan,1
+ane,1
+satya,1
+july,1
+1919,1

@@ -1,0 +1,15 @@
+36,486,12
+2,1
+the,3
+reference,1
+obviously,1
+is,1
+to,1
+series,1
+of,1
+articles,1
+published,1
+under,1
+titleis,1
+this,1
+humanity,1

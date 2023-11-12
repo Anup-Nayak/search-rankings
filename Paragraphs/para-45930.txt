@@ -1,0 +1,7 @@
+14,9,8
+sans,1
+stop,1
+commission,1
+according,1
+chairmans,1
+introductory,1

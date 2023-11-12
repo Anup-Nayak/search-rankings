@@ -1,0 +1,11 @@
+33,303,10
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+186,1
+courtesy,1
+narandas,1
+gandhi,1

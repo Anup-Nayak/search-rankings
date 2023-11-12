@@ -1,0 +1,6 @@
+46,114,1
+104,1
+marriage,1
+and,1
+the,1
+vedas,1

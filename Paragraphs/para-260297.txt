@@ -1,0 +1,6 @@
+70,55,4
+59,1
+letter,1
+to,1
+nandalal,1
+bose,1

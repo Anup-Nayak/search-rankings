@@ -1,0 +1,4 @@
+13,111,2
+resolution,1
+on,1
+satyagraha,1

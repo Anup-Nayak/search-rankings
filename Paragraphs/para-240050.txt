@@ -1,0 +1,17 @@
+65,289,10
+i,2
+am,1
+afraid,1
+can,1
+do,1
+nothing,1
+for,1
+you,2
+surely,1
+your,1
+son,1
+should,1
+be,1
+able,1
+to,1
+support,1

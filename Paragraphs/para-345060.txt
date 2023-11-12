@@ -1,0 +1,11 @@
+89,284,5
+s,1
+i,2
+see,1
+you,1
+think,1
+am,1
+not,1
+good,1
+for,1
+it,1

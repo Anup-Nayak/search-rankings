@@ -1,0 +1,15 @@
+91,285,6
+if,1
+the,1
+courage,1
+to,1
+endure,1
+everything,1
+with,1
+goodwill,2
+is,1
+lacking,1
+becomes,1
+a,1
+lame,1
+virtue,1

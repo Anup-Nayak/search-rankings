@@ -1,0 +1,7 @@
+14,45,9
+provisional,1
+agreement,1
+reached,1
+we,1
+not,1
+assisting,1

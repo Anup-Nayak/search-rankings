@@ -1,0 +1,14 @@
+64,226,6
+sacred,1
+occupation,1
+and,1
+scavengers,1
+no,1
+more,1
+deserved,1
+to,1
+be,1
+despised,1
+than,1
+a,2
+nurse,1

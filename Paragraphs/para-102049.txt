@@ -1,0 +1,15 @@
+30,113,6
+1,1
+a,2
+reference,1
+to,1
+the,1
+non,1
+co,1
+operation,1
+movement,1
+2,1
+backward,1
+community,1
+of,1
+gujarat,1

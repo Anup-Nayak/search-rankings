@@ -1,0 +1,12 @@
+27,453,9
+fight,1
+against,1
+an,1
+organized,1
+government,1
+with,1
+immense,1
+resources,1
+without,1
+outside,1
+help,1

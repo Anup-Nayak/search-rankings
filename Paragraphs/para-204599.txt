@@ -1,0 +1,6 @@
+57,162,1
+287,1
+letter,1
+to,1
+maitri,1
+giri,1

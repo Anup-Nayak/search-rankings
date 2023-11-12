@@ -1,0 +1,11 @@
+90,147,10
+1,1
+this,1
+and,1
+the,1
+four,1
+italicized,1
+words,1
+are,1
+in,1
+tamil,1

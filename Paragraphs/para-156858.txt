@@ -1,0 +1,6 @@
+45,279,7
+statement,1
+of,1
+objects,1
+and,1
+reasons,1

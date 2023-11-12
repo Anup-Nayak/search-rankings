@@ -1,0 +1,17 @@
+77,418,3
+again,1
+to,3
+ponder,1
+upon,1
+it,2
+i,2
+wish,1
+indeed,1
+that,1
+had,1
+not,1
+make,1
+any,1
+reference,1
+at,1
+all,1

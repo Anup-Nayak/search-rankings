@@ -1,0 +1,12 @@
+52,144,5
+m,1
+k,1
+gandhi,1
+dr,1
+syed,1
+mahmud,1
+bar,1
+at,1
+law,1
+chanra,1
+dt,1

@@ -1,0 +1,13 @@
+11,164,8
+judge,1
+president,1
+he,1
+thinks,1
+that,1
+chhotabhais,1
+son,1
+is,1
+not,1
+protected,1
+under,1
+act,1

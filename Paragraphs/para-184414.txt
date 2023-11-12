@@ -1,0 +1,11 @@
+52,243,8
+yours,1
+sincerely,1
+charles,1
+s,2
+field,1
+esq,1
+dallas,1
+texas,1
+u,1
+a,1

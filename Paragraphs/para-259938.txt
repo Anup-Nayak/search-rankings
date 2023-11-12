@@ -1,0 +1,9 @@
+70,6,8
+14,1
+speech,1
+at,1
+bharat,1
+mata,1
+mandir,1
+banaras,1
+2,1

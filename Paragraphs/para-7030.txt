@@ -1,0 +1,6 @@
+3,145,3
+93,1
+the,1
+labour,1
+importation,1
+association,1

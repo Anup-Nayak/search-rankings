@@ -1,0 +1,13 @@
+12,143,7
+the,2
+governor,1
+general,1
+is,1
+empowered,1
+to,2
+appoint,1
+an,1
+immigration,1
+board,1
+help,1
+government,1

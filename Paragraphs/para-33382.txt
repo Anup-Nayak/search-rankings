@@ -1,0 +1,12 @@
+10,489,21
+enclosed,1
+is,1
+a,1
+copy,1
+of,2
+the,2
+amendment,1
+immigrants,1
+restriction,1
+act,1
+which,1

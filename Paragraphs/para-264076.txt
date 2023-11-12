@@ -1,0 +1,6 @@
+71,76,6
+deadlock,1
+breach,1
+congress,1
+ranks,1
+impossible,1

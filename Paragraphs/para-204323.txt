@@ -1,0 +1,11 @@
+57,140,7
+fasts,1
+like,1
+shankars,1
+premature,1
+if,1
+not,1
+improper,1
+ask,1
+him,1
+to,1

@@ -1,0 +1,17 @@
+27,132,1
+your,1
+other,1
+declarations,1
+i,1
+quote,1
+the,2
+sentences,1
+from,1
+very,1
+last,1
+answer,1
+at,1
+pages,1
+34,1
+and,1
+35,1

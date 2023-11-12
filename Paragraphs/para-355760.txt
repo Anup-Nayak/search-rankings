@@ -1,0 +1,4 @@
+92,125,2
+bhagawat,1
+uruli,1
+kanchan,1

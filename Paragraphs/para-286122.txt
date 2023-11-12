@@ -1,0 +1,12 @@
+76,249,2
+a,3
+fraud,1
+on,1
+khadi,1
+the,1
+secretary,1
+i,1
+s,1
+punjab,1
+branch,1
+writes,1

@@ -1,0 +1,7 @@
+80,99,9
+struggle,1
+proceeding,1
+steadily,1
+but,1
+very,1
+gently,1

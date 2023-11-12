@@ -1,0 +1,6 @@
+8,35,7
+cartoon,1
+in,1
+the,1
+sunday,1
+times,1

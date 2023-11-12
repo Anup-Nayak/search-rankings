@@ -1,0 +1,7 @@
+52,474,4
+r,1
+m,2
+maxwell,1
+k,1
+gandhi,1
+esquire,1

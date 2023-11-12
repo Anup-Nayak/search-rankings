@@ -1,0 +1,5 @@
+43,61,3
+63,1
+curing,1
+sex,1
+obsession,1

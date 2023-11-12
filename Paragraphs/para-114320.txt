@@ -1,0 +1,16 @@
+33,468,12
+a,3
+bondsman,1
+whose,1
+labour,1
+is,2
+drudgery,1
+but,1
+it,1
+kills,1
+the,1
+mind,1
+of,1
+man,1
+who,1
+doer,1

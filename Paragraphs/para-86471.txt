@@ -1,0 +1,14 @@
+25,344,9
+he,1
+then,1
+read,1
+out,1
+the,1
+resolution,1
+in,2
+english,1
+rendering,1
+it,1
+hindi,1
+paragraph,1
+by,1

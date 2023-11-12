@@ -1,0 +1,8 @@
+72,129,0
+130,1
+the,1
+coolected,1
+works,1
+of,1
+mahatma,1
+gandhi,1

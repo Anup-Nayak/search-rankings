@@ -1,0 +1,7 @@
+45,198,5
+m,2
+k,1
+gandhi,1
+edmund,1
+privat,1
+switzerland,1

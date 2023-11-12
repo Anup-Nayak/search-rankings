@@ -1,0 +1,16 @@
+15,145,10
+1,1
+memorable,1
+statement,1
+of,1
+a,1
+great,1
+truth,1
+like,1
+tattvamasi,1
+thou,1
+art,1
+that,1
+in,1
+the,1
+upanishads,1

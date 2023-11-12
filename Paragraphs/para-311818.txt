@@ -1,0 +1,6 @@
+82,162,6
+detained,1
+probably,1
+three,1
+more,1
+days,1

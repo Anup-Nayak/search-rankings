@@ -1,0 +1,4 @@
+82,395,20
+understand,1
+the,1
+point,1

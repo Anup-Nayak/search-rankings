@@ -1,0 +1,10 @@
+89,179,4
+1,1
+vide,1
+discussion,1
+with,1
+political,1
+workers,1
+23,1
+12,1
+1945,1

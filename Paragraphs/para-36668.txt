@@ -1,0 +1,15 @@
+11,321,8
+you,2
+will,1
+laugh,1
+when,1
+i,1
+tell,1
+that,1
+the,1
+2,1
+lb,1
+of,1
+butter,1
+is,1
+still,1

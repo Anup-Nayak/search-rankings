@@ -1,0 +1,15 @@
+45,477,13
+cotton,1
+mills,1
+could,1
+never,1
+give,1
+sufficient,1
+work,1
+to,1
+relieve,1
+the,2
+vast,1
+masses,1
+of,1
+unemployed,1

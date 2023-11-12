@@ -1,0 +1,7 @@
+16,507,17
+allowed,1
+to,2
+continue,1
+subject,1
+that,1
+proviso,1

@@ -1,0 +1,17 @@
+78,35,15
+much,1
+worse,1
+between,1
+people,1
+who,1
+ought,1
+to,1
+be,1
+friends,1
+but,1
+i,1
+do,1
+not,1
+see,1
+how,1
+by,1

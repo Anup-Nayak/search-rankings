@@ -1,0 +1,9 @@
+11,269,12
+natal,1
+indians,1
+legitimately,1
+object,1
+severe,1
+test,1
+being,1
+applied,1

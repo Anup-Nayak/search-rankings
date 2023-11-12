@@ -1,0 +1,7 @@
+35,212,3
+k,1
+santanam,1
+kummutti,1
+thidal,1
+tanjore,1
+dt,1

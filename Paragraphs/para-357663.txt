@@ -1,0 +1,5 @@
+92,330,4
+insufficient,1
+data,1
+for,1
+judgment,1

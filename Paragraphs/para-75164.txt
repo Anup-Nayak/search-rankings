@@ -1,0 +1,4 @@
+21,474,8
+inform,1
+lajpatarai,1
+others,1

@@ -1,0 +1,10 @@
+92,394,2
+a,1
+f,1
+but,1
+you,1
+have,1
+not,1
+given,1
+up,1
+hope,1

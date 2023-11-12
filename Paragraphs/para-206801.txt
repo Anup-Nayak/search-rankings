@@ -1,0 +1,10 @@
+57,398,34
+but,1
+you,1
+do,1
+not,1
+follow,1
+up,1
+your,1
+thought,1
+by,1

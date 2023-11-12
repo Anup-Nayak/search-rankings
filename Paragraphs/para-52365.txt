@@ -1,0 +1,9 @@
+15,250,1
+191,1
+on,1
+ahimsa,1
+reply,1
+to,1
+lala,1
+lajpat,1
+rai,1

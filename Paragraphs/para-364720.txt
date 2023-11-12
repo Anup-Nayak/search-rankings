@@ -1,0 +1,5 @@
+94,190,4
+204,1
+telegram,1
+to,1
+choathmal,1

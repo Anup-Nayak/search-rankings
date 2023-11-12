@@ -1,0 +1,7 @@
+68,424,5
+1,1
+verrier,1
+elwin,1
+2,1
+muslim,1
+prayer,1

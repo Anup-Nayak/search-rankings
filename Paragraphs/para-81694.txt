@@ -1,0 +1,14 @@
+24,64,1
+40,1
+letter,1
+to,1
+manilal,1
+kothari,1
+and,1
+fulchand,1
+shah,1
+kanpur,1
+august,1
+9,1
+1921,1
+1,1

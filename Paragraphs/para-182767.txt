@@ -1,0 +1,8 @@
+52,72,2
+bapu,1
+pandit,1
+jawaharlal,1
+nehru,1
+nuwera,1
+eliya,1
+ceylon,1

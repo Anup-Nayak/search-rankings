@@ -1,0 +1,16 @@
+76,278,20
+produced,1
+in,1
+the,3
+village,1
+and,1
+to,1
+sell,1
+it,1
+at,1
+price,1
+which,1
+will,1
+ensure,1
+spinner,1
+a,1

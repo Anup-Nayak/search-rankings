@@ -1,0 +1,4 @@
+28,362,1
+muslim,1
+khadi,1
+committee,1

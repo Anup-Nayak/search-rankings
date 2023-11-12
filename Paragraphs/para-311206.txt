@@ -1,0 +1,5 @@
+82,111,7
+124,1
+desirability,1
+of,1
+exodus,1

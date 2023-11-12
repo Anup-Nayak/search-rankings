@@ -1,0 +1,17 @@
+83,39,1
+our,1
+course,1
+is,3
+absolutely,1
+clear,1
+risk,2
+there,1
+but,1
+attainment,1
+of,1
+freedom,1
+without,1
+not,1
+worth,1
+looking,1
+at,1

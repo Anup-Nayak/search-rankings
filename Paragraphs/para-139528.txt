@@ -1,0 +1,7 @@
+41,21,8
+bolgarh,1
+silence,1
+day,1
+december,1
+12,1
+1927,1

@@ -1,0 +1,8 @@
+44,475,23
+t10,1
+for,1
+set,1
+down,1
+guj,1
+has,1
+give,1

@@ -1,0 +1,8 @@
+86,331,5
+deals,1
+with,1
+hypothetical,1
+case,1
+no,1
+hasty,1
+opinion,1

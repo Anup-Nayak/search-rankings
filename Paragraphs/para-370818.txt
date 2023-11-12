@@ -1,0 +1,5 @@
+96,130,9
+194,1
+hindi,1
+v,1
+hindustani,1

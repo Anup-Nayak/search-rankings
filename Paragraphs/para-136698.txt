@@ -1,0 +1,7 @@
+40,26,7
+1,1
+at,1
+mani,1
+aiyar,1
+hall,1
+triplicane,1

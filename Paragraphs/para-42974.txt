@@ -1,0 +1,7 @@
+13,146,12
+impossible,1
+say,1
+whether,1
+other,1
+points,1
+satisfactori,1

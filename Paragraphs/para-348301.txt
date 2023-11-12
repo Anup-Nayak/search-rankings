@@ -1,0 +1,5 @@
+90,202,1
+260,1
+vanaspati,1
+and,1
+ghee,1

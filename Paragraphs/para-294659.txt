@@ -1,0 +1,12 @@
+78,303,10
+1,1
+vide,1
+letter,2
+to,2
+the,1
+addressee,1
+akbar,1
+hydari,1
+9,1
+5,1
+1940,1

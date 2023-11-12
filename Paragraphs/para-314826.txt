@@ -1,0 +1,12 @@
+82,389,9
+i,1
+now,1
+submit,1
+on,1
+behalf,1
+of,2
+the,3
+committee,1
+for,1
+consideration,1
+war,1

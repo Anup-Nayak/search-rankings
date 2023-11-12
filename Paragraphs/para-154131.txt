@@ -1,0 +1,13 @@
+44,481,6
+t2,1
+guj,1
+adds,1
+what,2
+help,1
+can,2
+they,2
+give,1
+understand,1
+about,1
+these,1
+problems,1

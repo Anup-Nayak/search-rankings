@@ -1,0 +1,11 @@
+37,247,12
+why,1
+is,1
+it,1
+misery,1
+to,1
+be,1
+born,1
+over,2
+and,1
+again,1

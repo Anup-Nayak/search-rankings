@@ -1,0 +1,17 @@
+21,239,32
+india,1
+lay,1
+before,1
+them,2
+and,1
+he,1
+asked,1
+to,2
+give,1
+a,1
+new,1
+gospel,1
+the,1
+world,1
+based,1
+on,1

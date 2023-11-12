@@ -1,0 +1,6 @@
+12,475,5
+how,1
+the,1
+time,1
+was,1
+spent,1

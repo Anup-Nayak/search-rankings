@@ -1,0 +1,15 @@
+75,5,4
+if,1
+you,1
+or,1
+mahatmaji,1
+desire,1
+to,1
+make,1
+use,1
+of,1
+this,1
+statement,1
+i,1
+have,1
+no,1

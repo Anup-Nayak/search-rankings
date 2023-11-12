@@ -1,0 +1,9 @@
+43,475,9
+4,1
+what,1
+follows,1
+is,1
+from,1
+amrita,1
+bazar,1
+patrika,1

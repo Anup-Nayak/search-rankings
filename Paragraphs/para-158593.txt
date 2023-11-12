@@ -1,0 +1,8 @@
+46,41,5
+ba,1
+thinks,1
+of,1
+you,1
+from,1
+time,2
+to,1

@@ -1,0 +1,9 @@
+53,101,6
+q,1
+what,1
+was,1
+the,1
+hitch,1
+to,1
+an,1
+understanding,1

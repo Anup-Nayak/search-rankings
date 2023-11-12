@@ -1,0 +1,7 @@
+72,375,1
+482,1
+talk,1
+with,1
+andamans,1
+prisoners,1
+1,1

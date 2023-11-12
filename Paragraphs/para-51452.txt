@@ -1,0 +1,5 @@
+15,120,16
+devle,1
+&,1
+gopalji,1
+left,1

@@ -1,0 +1,11 @@
+55,494,10
+1,1
+manilal,2
+gandhis,1
+father,1
+in,1
+law,1
+2,1
+gandhijis,1
+daughter,1
+dhairyabala,1

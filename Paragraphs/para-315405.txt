@@ -1,0 +1,11 @@
+82,406,20
+district,1
+administrations,2
+would,1
+elect,1
+the,1
+provincial,1
+and,1
+these,1
+in,1
+turn,1

@@ -1,0 +1,5 @@
+53,333,1
+parties,1
+for,1
+the,1
+weaker,1

@@ -1,0 +1,8 @@
+40,295,9
+publication,1
+and,1
+in,1
+view,1
+apparent,1
+urgency,1
+my,1

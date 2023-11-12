@@ -1,0 +1,12 @@
+39,17,10
+m,1
+k,1
+gandhi,1
+firoza,1
+p,1
+s,1
+taleyarkhan,1
+3,1
+residency,1
+road,1
+bangalore,1

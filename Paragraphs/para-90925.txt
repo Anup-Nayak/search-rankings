@@ -1,0 +1,13 @@
+27,77,2
+yours,1
+sincerely,1
+a,1
+w,1
+baker,1
+esq,1
+hillcrest,1
+p,1
+o,1
+north,1
+rand,1
+transvaal,1

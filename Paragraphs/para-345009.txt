@@ -1,0 +1,14 @@
+89,279,1
+gandhiji,1
+said,1
+good,1
+go,2
+all,1
+of,1
+you,2
+do,1
+now,1
+give,1
+me,1
+leave,1
+to,1

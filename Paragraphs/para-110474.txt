@@ -1,0 +1,5 @@
+32,444,3
+281,1
+untouchability,1
+and,1
+government,1

@@ -1,0 +1,14 @@
+23,301,4
+able,1
+to,1
+judge,1
+for,1
+themselves,1
+whether,1
+they,2
+were,2
+better,1
+or,1
+worse,1
+off,1
+talking,1

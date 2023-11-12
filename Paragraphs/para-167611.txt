@@ -1,0 +1,17 @@
+48,182,8
+what,1
+are,1
+your,1
+impressions,1
+of,2
+the,3
+a,1
+i,1
+c,2
+meeting,1
+considering,1
+revolutionary,1
+character,1
+two,1
+resolutions,1
+2,1

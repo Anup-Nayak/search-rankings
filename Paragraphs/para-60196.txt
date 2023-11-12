@@ -1,0 +1,10 @@
+17,171,6
+mohandas,1
+ps,1
+you,1
+will,1
+have,1
+read,1
+the,1
+other,1
+journal,1

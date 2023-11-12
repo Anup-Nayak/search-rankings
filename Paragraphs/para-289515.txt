@@ -1,0 +1,7 @@
+77,190,5
+234,1
+discussion,1
+with,1
+christian,1
+missionaries,1
+2,1

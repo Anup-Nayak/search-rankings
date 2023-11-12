@@ -1,0 +1,14 @@
+33,259,4
+do,1
+you,2
+think,1
+can,1
+get,1
+an,1
+hour,1
+each,1
+day,1
+whilst,1
+we,1
+tour,1
+about,1

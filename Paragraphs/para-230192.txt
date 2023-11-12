@@ -1,0 +1,10 @@
+63,114,1
+126,1
+letter,1
+to,1
+f,1
+mary,1
+barr,1
+february,1
+5,1
+1934,1

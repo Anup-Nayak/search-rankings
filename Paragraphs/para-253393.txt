@@ -1,0 +1,7 @@
+68,225,4
+296,1
+speech,1
+at,1
+harijan,1
+ashram,1
+2,1

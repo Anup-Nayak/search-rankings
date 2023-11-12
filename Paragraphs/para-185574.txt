@@ -1,0 +1,17 @@
+52,374,9
+1,1
+in,1
+the,2
+pictures,1
+gandhiji,1
+had,1
+been,1
+represented,1
+as,2
+lord,1
+krishna,1
+and,1
+other,1
+leaders,1
+five,1
+pandavas,1

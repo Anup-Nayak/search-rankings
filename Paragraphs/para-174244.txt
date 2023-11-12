@@ -1,0 +1,16 @@
+50,63,12
+1,1
+on,1
+the,2
+occasion,1
+of,1
+gandhijis,1
+birthday,1
+addressee,1
+had,1
+offered,1
+to,2
+dedicate,1
+her,1
+life,1
+him,1

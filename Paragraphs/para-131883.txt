@@ -1,0 +1,15 @@
+38,343,10
+1,1
+from,1
+the,2
+reference,1
+to,1
+gandhijis,1
+blood,1
+pressure,1
+having,1
+become,1
+normal,1
+vide,1
+preceding,1
+item,1

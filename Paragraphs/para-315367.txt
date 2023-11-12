@@ -1,0 +1,16 @@
+82,405,15
+or,1
+three,1
+per,1
+cent,1
+their,1
+money,1
+would,2
+be,1
+secure,1
+they,1
+earn,1
+a,1
+small,1
+profit,1
+and,1

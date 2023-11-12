@@ -1,0 +1,9 @@
+24,63,9
+swadeshi,1
+or,1
+foreign,2
+a,1
+it,1
+would,1
+be,1
+cloth,1

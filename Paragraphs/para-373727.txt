@@ -1,0 +1,9 @@
+97,13,7
+partisan,1
+summary,1
+dangerous,1
+2,1
+am,1
+quite,1
+firm,1
+on,1

@@ -1,0 +1,14 @@
+54,127,7
+light,1
+in,1
+the,2
+gloom,1
+is,1
+through,1
+children,1
+who,1
+profiting,1
+from,1
+our,1
+mistakes,1
+and,1

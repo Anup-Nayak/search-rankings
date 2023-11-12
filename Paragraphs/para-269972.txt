@@ -1,0 +1,4 @@
+72,338,9
+7,1
+physical,1
+culture,1

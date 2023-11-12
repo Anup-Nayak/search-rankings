@@ -1,0 +1,6 @@
+72,223,5
+segaon,1
+wardha,1
+september,1
+15,1
+1937,1

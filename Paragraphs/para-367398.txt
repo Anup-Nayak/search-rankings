@@ -1,0 +1,14 @@
+95,89,16
+brotherliness,1
+most,1
+of,1
+the,2
+muslims,1
+who,1
+had,1
+left,1
+province,1
+would,1
+return,1
+his,1
+work,1

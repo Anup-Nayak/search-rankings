@@ -1,0 +1,17 @@
+31,156,7
+proper,1
+pitch,1
+as,2
+well,1
+to,1
+make,1
+them,1
+fit,1
+for,1
+a,1
+fight,1
+with,1
+the,1
+bureaucracy,1
+they,1
+had,1

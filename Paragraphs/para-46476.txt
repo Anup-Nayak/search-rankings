@@ -1,0 +1,8 @@
+14,70,20
+represented,1
+wished,1
+more,1
+study,1
+india,1
+not,1
+land,1

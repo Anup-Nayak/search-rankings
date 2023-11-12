@@ -1,0 +1,7 @@
+5,43,2
+kingship,1
+and,1
+learning,1
+are,1
+never,1
+equal,1

@@ -1,0 +1,9 @@
+75,103,7
+never,1
+knew,1
+anything,1
+was,1
+serious,1
+in,1
+your,1
+univer,1

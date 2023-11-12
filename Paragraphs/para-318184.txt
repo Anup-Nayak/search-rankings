@@ -1,0 +1,14 @@
+83,312,4
+1,2
+vide,2
+letter,2
+to,2
+lord,1
+linlithgow,1
+19,1
+1943,2
+2,2
+sir,1
+richard,1
+tottenham,1
+8,1

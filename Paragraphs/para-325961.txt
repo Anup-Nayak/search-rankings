@@ -1,0 +1,10 @@
+85,206,10
+what,1
+you,1
+write,1
+about,1
+ba,1
+is,1
+but,1
+too,1
+true,1

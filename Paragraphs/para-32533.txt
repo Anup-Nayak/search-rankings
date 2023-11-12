@@ -1,0 +1,14 @@
+10,375,6
+4,1
+not,2
+published,1
+and,1
+available,1
+vide,1
+letter,1
+to,1
+the,1
+press,1
+2,1
+7,1
+1908,1

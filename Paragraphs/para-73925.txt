@@ -1,0 +1,14 @@
+21,238,17
+nationalists,1
+the,1
+congress,1
+was,1
+to,1
+him,1
+a,2
+national,1
+and,1
+not,1
+nationalist,1
+or,1
+moderate,1

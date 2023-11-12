@@ -1,0 +1,5 @@
+87,62,3
+manager,1
+ashram,1
+sevagram,1
+wardha,1

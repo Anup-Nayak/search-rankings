@@ -1,0 +1,9 @@
+17,175,7
+1,1
+an,1
+ayurvedic,1
+medicine,1
+for,1
+building,1
+up,1
+strength,1

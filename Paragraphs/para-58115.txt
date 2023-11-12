@@ -1,0 +1,6 @@
+16,466,9
+the,1
+price,1
+paid,1
+for,1
+indigo,1

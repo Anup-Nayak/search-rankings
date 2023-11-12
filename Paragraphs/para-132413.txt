@@ -1,0 +1,7 @@
+38,410,10
+bapu,1
+vasumati,1
+dhimatram,1
+navalram,1
+pandit,1
+kelapith,1

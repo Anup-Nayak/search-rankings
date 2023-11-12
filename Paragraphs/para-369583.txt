@@ -1,0 +1,7 @@
+95,415,8
+6,1
+jantar,1
+mantar,1
+road,1
+new,1
+delhi,1

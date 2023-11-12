@@ -1,0 +1,14 @@
+27,423,13
+3,1
+daughter,1
+of,2
+vallabhbhai,1
+patel,1
+4,1
+at,1
+hajira,1
+in,1
+the,1
+surat,1
+district,1
+gujarat,1

@@ -1,0 +1,5 @@
+48,88,3
+92,1
+textile,1
+labourers,1
+demand,1

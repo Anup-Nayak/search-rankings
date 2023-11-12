@@ -1,0 +1,13 @@
+66,439,17
+g,1
+when,1
+a,1
+thorn,1
+pierces,1
+your,1
+foot,1
+you,2
+pull,1
+it,1
+out,1
+dont,1

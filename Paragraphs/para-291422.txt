@@ -1,0 +1,13 @@
+77,422,20
+every,1
+detail,1
+of,1
+the,2
+differences,1
+between,1
+them,1
+in,1
+provinces,1
+to,1
+be,1
+resolved,1

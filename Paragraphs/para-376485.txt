@@ -1,0 +1,7 @@
+97,415,1
+373,1
+letter,1
+to,1
+yvonne,1
+privat,1
+1,1

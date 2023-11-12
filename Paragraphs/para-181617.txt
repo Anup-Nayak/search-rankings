@@ -1,0 +1,10 @@
+51,442,4
+dangerous,1
+to,3
+permit,1
+congress,1
+say,1
+the,1
+world,1
+that,1
+everything,1

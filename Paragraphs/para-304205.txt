@@ -1,0 +1,17 @@
+80,412,3
+for,1
+the,1
+present,1
+at,1
+least,1
+ba,1
+is,2
+able,1
+to,1
+have,1
+good,1
+walks,1
+she,1
+feeling,1
+quite,1
+energetic,1

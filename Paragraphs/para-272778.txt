@@ -1,0 +1,17 @@
+73,161,3
+arrived,1
+safe,1
+frontier,1
+visit,1
+necessary,1
+useful,1
+hope,1
+you,1
+keeping,1
+well,1
+am,1
+bombay,1
+till,1
+seventeenth,1
+at,1
+least,1

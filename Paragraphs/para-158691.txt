@@ -1,0 +1,16 @@
+46,48,9
+but,1
+will,1
+you,1
+kindly,1
+permit,1
+me,1
+to,2
+say,1
+that,1
+if,1
+education,1
+is,1
+really,1
+going,1
+bring,1

@@ -1,0 +1,14 @@
+34,462,5
+yours,1
+sincerely,1
+friedrich,1
+heiler,1
+esq,1
+professor,1
+of,2
+comparative,1
+religion,1
+at,1
+the,1
+university,1
+marburg,1

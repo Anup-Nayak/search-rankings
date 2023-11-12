@@ -1,0 +1,12 @@
+17,275,12
+2,2
+from,1
+the,1
+contents,1
+vide,1
+letter,1
+to,1
+maganlal,1
+gandhi,1
+5,1
+1919,1

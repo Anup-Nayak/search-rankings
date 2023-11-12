@@ -1,0 +1,11 @@
+75,202,7
+correspondent,1
+but,1
+dont,1
+they,1
+go,1
+to,1
+the,2
+root,1
+of,1
+situation,1

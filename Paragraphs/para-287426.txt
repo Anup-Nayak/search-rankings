@@ -1,0 +1,14 @@
+76,400,4
+gandhiji,1
+but,1
+let,1
+me,1
+know,1
+what,1
+you,1
+mean,1
+by,1
+out,2
+and,1
+gandhi,1
+ites,1

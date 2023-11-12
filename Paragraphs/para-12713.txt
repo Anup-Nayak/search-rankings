@@ -1,0 +1,10 @@
+5,135,2
+125,1
+a,1
+word,1
+to,1
+the,1
+muslim,1
+community,1
+in,1
+heidelberg,1

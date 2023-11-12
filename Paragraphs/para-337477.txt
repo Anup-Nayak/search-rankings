@@ -1,0 +1,6 @@
+87,401,19
+krishnavarma,1
+nature,1
+cure,1
+hospital,1
+malad,1

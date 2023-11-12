@@ -1,0 +1,7 @@
+1,344,4
+2,1
+is,1
+under,1
+no,1
+legal,1
+incapacity,1

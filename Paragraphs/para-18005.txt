@@ -1,0 +1,9 @@
+6,304,12
+while,1
+association,1
+has,1
+no,1
+objection,1
+to,1
+examination,1
+of,1

@@ -1,0 +1,5 @@
+36,310,2
+charkha,1
+in,1
+shahabad,1
+schools,1

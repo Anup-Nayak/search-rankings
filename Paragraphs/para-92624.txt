@@ -1,0 +1,7 @@
+27,295,7
+4,1
+the,1
+members,1
+of,1
+shevades,1
+family,1

@@ -1,0 +1,9 @@
+61,140,6
+khan,2
+saheb,1
+and,1
+abdul,1
+ghaffar,1
+hazaribag,1
+central,1
+jail,1

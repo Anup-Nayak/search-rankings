@@ -1,0 +1,7 @@
+65,432,7
+536,1
+message,1
+to,1
+prabhashanar,1
+pattani,1
+2,1

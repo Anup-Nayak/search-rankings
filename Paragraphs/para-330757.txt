@@ -1,0 +1,8 @@
+86,199,4
+364,1
+letter,1
+to,1
+mian,1
+iftikhar,1
+ud,1
+din,1

@@ -1,0 +1,6 @@
+40,24,4
+17,1
+letter,1
+to,1
+shantikumar,1
+morarji,1

@@ -1,0 +1,7 @@
+36,47,1
+43,1
+letter,1
+to,1
+kurur,1
+nilakantan,1
+nambudripad,1

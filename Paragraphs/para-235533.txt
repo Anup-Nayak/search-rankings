@@ -1,0 +1,12 @@
+64,234,16
+hundred,1
+congressmen,1
+who,2
+used,1
+khadi,1
+rather,1
+than,1
+a,1
+crore,1
+did,1
+not,1

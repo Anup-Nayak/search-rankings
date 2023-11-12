@@ -1,0 +1,8 @@
+30,97,3
+54,1
+details,1
+for,1
+working,1
+the,1
+new,1
+franchise,1

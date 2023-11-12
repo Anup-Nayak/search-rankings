@@ -1,0 +1,8 @@
+87,101,10
+bapu,1
+kaka,1
+karkhanis,1
+harijan,1
+ashram,1
+bijapur,1
+karnataka,1

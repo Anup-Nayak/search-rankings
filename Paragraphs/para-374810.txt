@@ -1,0 +1,17 @@
+97,174,15
+1,1
+a,1
+minister,1
+in,2
+the,2
+newly,1
+formed,1
+mysore,1
+state,1
+cabinet,1
+2,1
+superscription,1
+and,1
+subscription,1
+are,1
+gujarati,1

@@ -1,0 +1,7 @@
+40,481,5
+q,1
+how,1
+many,1
+varnas,1
+are,1
+there,1

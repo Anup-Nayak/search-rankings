@@ -1,0 +1,15 @@
+11,199,5
+there,1
+are,2
+other,1
+statements,1
+made,1
+by,1
+the,1
+transvaal,1
+government,1
+which,1
+also,1
+capable,1
+of,1
+refutation,1

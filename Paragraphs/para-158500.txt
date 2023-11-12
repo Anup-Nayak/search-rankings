@@ -1,0 +1,7 @@
+46,31,2
+a,1
+friend,1
+from,1
+bombay,1
+writes,1
+1,1

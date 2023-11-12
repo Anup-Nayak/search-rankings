@@ -1,0 +1,17 @@
+8,440,6
+the,1
+magistrate,1
+stated,1
+that,2
+mr,1
+gandhi,1
+had,1
+to,1
+show,1
+his,1
+client,1
+was,1
+one,1
+of,1
+those,1
+exempted,1

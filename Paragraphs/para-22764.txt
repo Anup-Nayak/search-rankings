@@ -1,0 +1,7 @@
+7,419,12
+left,1
+hand,2
+the,2
+four,2
+fingers,2
+right,1

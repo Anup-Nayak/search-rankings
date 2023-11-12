@@ -1,0 +1,17 @@
+38,58,10
+mothers,1
+if,1
+it,1
+was,1
+bad,1
+and,1
+go,1
+begging,1
+from,1
+door,2
+to,1
+for,1
+the,1
+better,1
+bread,1
+khaddar,1

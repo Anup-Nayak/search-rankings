@@ -1,0 +1,11 @@
+69,369,8
+1,1
+cesare,1
+lombroso,1
+the,1
+italian,1
+physician,1
+and,1
+criminologist,1
+2,1
+shrew,1

@@ -1,0 +1,7 @@
+74,213,4
+287,1
+khudai,1
+khidmatgars,1
+and,1
+badshah,1
+khan,1

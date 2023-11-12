@@ -1,0 +1,5 @@
+3,28,6
+burg,1
+both,1
+suffering,1
+heavily,1

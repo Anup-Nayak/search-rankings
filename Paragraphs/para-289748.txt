@@ -1,0 +1,11 @@
+77,220,7
+q,1
+now,1
+it,1
+would,1
+be,1
+mental,1
+violence,2
+and,1
+not,1
+physical,1

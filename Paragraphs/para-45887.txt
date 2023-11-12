@@ -1,0 +1,9 @@
+14,7,21
+undergoing,1
+imprisonment,1
+but,1
+not,1
+so,1
+called,1
+passive,1
+resis,1

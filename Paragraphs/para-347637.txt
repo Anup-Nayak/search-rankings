@@ -1,0 +1,11 @@
+90,117,8
+1,1
+addressees,1
+daughter,1
+2,1
+the,1
+letter,1
+is,1
+written,1
+in,1
+devanagari,1

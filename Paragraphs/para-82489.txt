@@ -1,0 +1,12 @@
+24,198,2
+1,1
+a,1
+loose,1
+garment,1
+of,1
+fine,1
+cloth,1
+worn,1
+under,1
+the,1
+shirt,1

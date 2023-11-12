@@ -1,0 +1,15 @@
+25,33,6
+1the,1
+call,1
+of,2
+truth,1
+by,1
+rabindranath,1
+tagore,1
+in,1
+the,2
+october,1
+issue,1
+modern,1
+review,1
+calcutta,1

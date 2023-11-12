@@ -1,0 +1,8 @@
+49,459,11
+bapu,1
+from,1
+hindi,1
+bapuki,1
+virat,1
+vatsalata,1
+p,1

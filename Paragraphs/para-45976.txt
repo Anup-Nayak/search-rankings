@@ -1,0 +1,8 @@
+14,10,39
+persistent,1
+advocacy,1
+our,1
+cause,1
+support,1
+from,1
+indian,1

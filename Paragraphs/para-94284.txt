@@ -1,0 +1,7 @@
+28,9,3
+a,1
+friend,1
+from,1
+the,1
+punjab,1
+writes,1

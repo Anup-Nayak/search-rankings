@@ -1,0 +1,6 @@
+44,496,26
+t2,1
+guj,1
+has,1
+beneficial,1
+effects,1

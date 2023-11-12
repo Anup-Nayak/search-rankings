@@ -1,0 +1,12 @@
+21,354,10
+the,2
+best,1
+he,2
+had,1
+been,1
+asked,1
+whether,1
+wanted,1
+separation,1
+from,1
+empire,1

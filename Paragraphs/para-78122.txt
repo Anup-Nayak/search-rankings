@@ -1,0 +1,8 @@
+22,459,3
+246,1
+speech,1
+to,1
+marwaris,1
+and,1
+gujaratis,1
+cuttack,1

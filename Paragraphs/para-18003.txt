@@ -1,0 +1,8 @@
+6,304,10
+association,1
+informed,1
+by,1
+rustenburg,1
+indians,1
+their,1
+finger,1

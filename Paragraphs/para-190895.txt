@@ -1,0 +1,10 @@
+53,510,18
+on,1
+conversation,1
+with,1
+many,1
+persons,1
+concerned,1
+is,1
+that,1
+landlords,1

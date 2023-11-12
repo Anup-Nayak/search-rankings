@@ -1,0 +1,7 @@
+7,154,6
+resisters,1
+specially,1
+inserted,1
+prayer,1
+disallowance,1
+or,1

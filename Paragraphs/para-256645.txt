@@ -1,0 +1,8 @@
+69,139,2
+your,1
+article,1
+1,1
+will,1
+receive,1
+prompt,1
+attention,1

@@ -1,0 +1,7 @@
+59,162,9
+245,1
+letter,1
+to,1
+kali,1
+mohan,1
+ghosh,1

@@ -1,0 +1,16 @@
+11,147,16
+six,1
+per,1
+year,1
+but,1
+it,1
+may,1
+be,1
+made,1
+even,1
+greater,1
+than,1
+this,2
+and,1
+other,1
+modifications,1

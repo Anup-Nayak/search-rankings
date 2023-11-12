@@ -1,0 +1,6 @@
+50,14,5
+24,1
+letter,1
+to,1
+amritlal,1
+thakkar,1

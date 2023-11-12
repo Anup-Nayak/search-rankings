@@ -1,0 +1,15 @@
+32,100,4
+1,1
+the,3
+report,1
+which,1
+spoke,1
+of,3
+inferiority,1
+much,1
+yarn,1
+spun,1
+is,1
+not,1
+reproduced,1
+here,1

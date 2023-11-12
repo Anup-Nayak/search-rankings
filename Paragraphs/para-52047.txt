@@ -1,0 +1,9 @@
+15,211,1
+157,1
+application,1
+for,1
+membership,1
+gujarat,1
+vernacular,1
+society,1
+1,1

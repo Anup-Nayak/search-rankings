@@ -1,0 +1,5 @@
+11,485,6
+authority,1
+to,1
+make,1
+regulations,1

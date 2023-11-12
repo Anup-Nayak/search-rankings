@@ -1,0 +1,9 @@
+58,131,10
+but,1
+they,1
+regard,1
+it,1
+all,1
+india,1
+question,1
+therefore,1

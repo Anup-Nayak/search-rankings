@@ -1,0 +1,8 @@
+14,8,14
+despite,1
+warnings,1
+already,1
+selling,1
+few,1
+belongings,1
+anti,1

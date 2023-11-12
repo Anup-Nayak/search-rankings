@@ -1,0 +1,8 @@
+95,262,4
+mahatma,1
+gandhithe,1
+last,1
+phase,1
+vol,1
+ii,1
+p,1

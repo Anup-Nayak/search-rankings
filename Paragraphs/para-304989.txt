@@ -1,0 +1,7 @@
+80,482,6
+a,1
+hindu,1
+muslim,1
+or,1
+communal,1
+unity,1

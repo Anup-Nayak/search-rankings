@@ -1,0 +1,5 @@
+44,483,16
+t1,1
+guj,1
+has,1
+sauntering,1

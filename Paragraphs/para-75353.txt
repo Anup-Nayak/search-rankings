@@ -1,0 +1,13 @@
+21,498,16
+were,2
+not,1
+delivered,2
+from,2
+a,1
+temple,1
+mosque,1
+or,1
+church,1
+they,1
+if,1
+i,1

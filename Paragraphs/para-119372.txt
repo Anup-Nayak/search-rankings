@@ -1,0 +1,14 @@
+35,238,3
+less,1
+1,2
+33,1
+seers,2
+lost,1
+in,1
+spinning,2
+of,2
+yarn,1
+cost,1
+rs,2
+7,1
+2,1

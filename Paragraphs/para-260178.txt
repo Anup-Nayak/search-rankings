@@ -1,0 +1,6 @@
+70,42,4
+39,1
+letter,1
+to,1
+kanu,1
+gandhi,1

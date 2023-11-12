@@ -1,0 +1,8 @@
+24,429,10
+mohandas,1
+gandhi,1
+banarasidas,1
+chaturvedi,1
+hirabag,1
+girgaum,1
+bombay,1

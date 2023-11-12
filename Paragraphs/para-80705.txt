@@ -1,0 +1,6 @@
+23,402,2
+a,1
+friend,1
+writes,1
+from,1
+manavadar,1

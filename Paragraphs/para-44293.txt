@@ -1,0 +1,6 @@
+13,325,2
+phoenix,1
+natal,1
+september,1
+24,1
+1913,1

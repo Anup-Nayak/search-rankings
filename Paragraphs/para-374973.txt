@@ -1,0 +1,11 @@
+97,201,5
+yours,1
+m,1
+k,1
+gandhi,1
+senapati,1
+mohan,1
+singh,1
+majitha,1
+house,1
+amritsar,1

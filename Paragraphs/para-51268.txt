@@ -1,0 +1,6 @@
+15,111,2
+maneklal,1
+arranged,1
+dinner,1
+for,1
+all,1

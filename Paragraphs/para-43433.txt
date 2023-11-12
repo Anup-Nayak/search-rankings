@@ -1,0 +1,17 @@
+13,197,4
+1,1
+any,1
+coarse,1
+cloth,2
+later,1
+in,1
+india,1
+the,1
+term,1
+came,1
+to,1
+signify,1
+handspun,1
+and,1
+handwoven,1
+indigenous,1

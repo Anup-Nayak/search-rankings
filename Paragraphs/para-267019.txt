@@ -1,0 +1,10 @@
+72,4,4
+gandhiji,1
+you,2
+have,1
+come,1
+to,1
+waylay,1
+me,1
+highway,1
+man,1

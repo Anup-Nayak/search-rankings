@@ -1,0 +1,10 @@
+94,59,2
+kazirkhil,1
+ramganj,1
+p,1
+s,1
+noakhali,1
+distt,1
+march,1
+1,1
+1947,1

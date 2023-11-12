@@ -1,0 +1,12 @@
+2,56,12
+feeling,1
+the,2
+pressure,1
+of,2
+ubiquitous,1
+hindoo,1
+and,1
+yet,1
+probably,1
+none,1
+these,1

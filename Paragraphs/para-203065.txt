@@ -1,0 +1,7 @@
+57,32,3
+from,1
+here,1
+or,1
+foresee,1
+future,1
+action,1

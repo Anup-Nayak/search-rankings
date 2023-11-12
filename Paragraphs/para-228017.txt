@@ -1,0 +1,5 @@
+62,292,3
+between,1
+mother,1
+and,1
+wife,1

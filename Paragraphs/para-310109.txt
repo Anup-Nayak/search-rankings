@@ -1,0 +1,11 @@
+82,22,18
+university,1
+they,1
+should,1
+of,1
+course,1
+be,1
+mostly,1
+residential,1
+personal,1
+attention,1

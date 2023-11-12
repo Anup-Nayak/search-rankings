@@ -1,0 +1,7 @@
+39,498,18
+think,1
+resigning,1
+congress,2
+stop,1
+assembly,1
+members,1

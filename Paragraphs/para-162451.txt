@@ -1,0 +1,5 @@
+47,9,7
+mathuradas,1
+tara,1
+house,1
+almora,1

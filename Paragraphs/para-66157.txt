@@ -1,0 +1,7 @@
+19,45,4
+have,1
+telegraphed,1
+simla,1
+about,1
+permission,1
+brothers,1

@@ -1,0 +1,13 @@
+24,65,8
+acquired,1
+so,1
+much,1
+mastery,1
+over,1
+themselves,1
+swaraj,1
+would,2
+be,2
+theirs,1
+and,1
+they,1

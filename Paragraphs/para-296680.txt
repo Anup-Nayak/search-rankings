@@ -1,0 +1,6 @@
+79,99,6
+rajkumari,1
+manorville,1
+summer,1
+hill,1
+simla,1

@@ -1,0 +1,16 @@
+83,443,11
+mr,1
+gandhi,1
+replied,1
+that,1
+he,1
+had,1
+once,1
+written,1
+3,1
+to,1
+government,1
+on,1
+the,1
+subject,1
+and,1

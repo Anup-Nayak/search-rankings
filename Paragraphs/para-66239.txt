@@ -1,0 +1,11 @@
+19,57,3
+47,1
+letter,1
+to,1
+h,1
+s,1
+l,1
+and,1
+millie,1
+graham,1
+polak,1

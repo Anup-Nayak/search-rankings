@@ -1,0 +1,16 @@
+19,456,6
+j,1
+marten,1
+it,2
+did,1
+not,1
+go,1
+on,2
+mr,1
+gandhi,1
+for,2
+many,1
+months,1
+went,1
+some,1
+days,1

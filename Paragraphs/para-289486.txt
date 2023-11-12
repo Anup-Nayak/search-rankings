@@ -1,0 +1,12 @@
+77,187,12
+1,1
+amritlal,1
+v,1
+thakkar,1
+secretary,1
+harijan,1
+sevak,1
+sangh,1
+2,1
+a,1
+dentist,1

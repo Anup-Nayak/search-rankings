@@ -1,0 +1,5 @@
+64,111,12
+memorial,1
+museum,1
+and,1
+library,1

@@ -1,0 +1,8 @@
+54,464,18
+tribal,1
+areas,1
+the,2
+chief,1
+commissioner,1
+with,1
+approval,1

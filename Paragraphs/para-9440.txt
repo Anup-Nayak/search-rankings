@@ -1,0 +1,6 @@
+4,119,8
+natives,1
+and,2
+themselves,1
+convention,1
+resolutions,1

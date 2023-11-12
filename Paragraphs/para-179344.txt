@@ -1,0 +1,11 @@
+51,152,16
+then,1
+there,1
+was,1
+again,1
+some,1
+discussion,1
+about,1
+safeguards,1
+regarding,1
+defence,1

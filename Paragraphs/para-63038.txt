@@ -1,0 +1,10 @@
+18,38,9
+diarism,1
+i,1
+hope,1
+you,1
+will,1
+not,1
+press,1
+them,1
+for,1

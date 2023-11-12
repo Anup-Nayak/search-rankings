@@ -1,0 +1,7 @@
+24,185,14
+trust,1
+no,1
+lovely,1
+forms,1
+of,1
+passion,1

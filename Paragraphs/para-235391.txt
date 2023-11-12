@@ -1,0 +1,16 @@
+64,224,10
+quarters,1
+they,1
+would,1
+make,2
+a,1
+small,1
+grant,1
+of,1
+money,1
+to,1
+the,1
+sangh,1
+and,1
+them,1
+their,1

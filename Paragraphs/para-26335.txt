@@ -1,0 +1,3 @@
+9,17,4
+police,1
+tyranny,1

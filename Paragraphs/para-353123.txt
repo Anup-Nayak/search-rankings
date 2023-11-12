@@ -1,0 +1,15 @@
+91,290,14
+man,1
+by,1
+himself,1
+is,2
+nothing,1
+but,1
+when,1
+he,2
+has,1
+become,1
+one,1
+with,1
+god,1
+everything,1

@@ -1,0 +1,8 @@
+15,92,9
+meeting,1
+with,1
+patwari,1
+discussion,1
+about,1
+caste,1
+restrictions,1

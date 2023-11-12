@@ -1,0 +1,6 @@
+82,380,30
+legal,1
+obligation,1
+for,1
+charitable,1
+purposes,1

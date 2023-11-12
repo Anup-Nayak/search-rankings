@@ -1,0 +1,7 @@
+90,371,4
+465,1
+ayurveda,1
+and,1
+nature,1
+cure,1
+1,1

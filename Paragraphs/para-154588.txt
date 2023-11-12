@@ -1,0 +1,6 @@
+44,496,16
+t4,1
+guj,1
+adds,1
+from,1
+experience,1

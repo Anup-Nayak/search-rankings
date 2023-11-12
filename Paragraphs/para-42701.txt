@@ -1,0 +1,15 @@
+13,119,8
+1,1
+gandhiji,1
+opened,1
+the,1
+hindu,1
+temple,1
+at,1
+verulam,1
+on,1
+may,1
+8,1
+1913,1
+a,1
+thursday,1

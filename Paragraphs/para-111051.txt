@@ -1,0 +1,5 @@
+33,29,3
+25,1
+to,1
+voluntary,1
+spinners,1

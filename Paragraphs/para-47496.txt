@@ -1,0 +1,8 @@
+14,193,2
+speaking,1
+on,1
+the,1
+new,1
+bill,1
+he,1
+said,1

@@ -1,0 +1,10 @@
+64,87,13
+the,3
+help,1
+of,2
+votes,1
+government,1
+as,2
+well,1
+other,1
+communities,1

@@ -1,0 +1,7 @@
+44,471,20
+t9,1
+guj,1
+adds,1
+as,2
+far,1
+possible,1

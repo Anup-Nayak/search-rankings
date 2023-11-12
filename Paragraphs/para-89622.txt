@@ -1,0 +1,16 @@
+26,379,2
+court,2
+mr,1
+gandhi,1
+do,1
+you,1
+wish,1
+to,2
+make,1
+a,1
+statement,1
+the,1
+on,1
+question,1
+of,1
+sentence,1

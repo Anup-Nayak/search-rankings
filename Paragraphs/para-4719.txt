@@ -1,0 +1,10 @@
+2,293,15
+cannot,1
+describe,1
+pain,1
+caused,1
+by,1
+fact,1
+that,1
+british,1
+subjects,1

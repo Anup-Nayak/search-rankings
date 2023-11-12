@@ -1,0 +1,6 @@
+45,134,10
+137,1
+letter,1
+to,1
+premabehn,1
+kantak,1

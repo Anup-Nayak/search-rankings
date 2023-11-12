@@ -1,0 +1,10 @@
+36,201,3
+janakdhari,1
+prasad,1
+gandhi,1
+vidyalaya,1
+p,1
+o,1
+hajipur,1
+dt,1
+muzaffarpur,1

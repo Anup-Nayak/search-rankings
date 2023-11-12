@@ -1,0 +1,13 @@
+27,403,16
+ex,1
+congressman,1
+and,1
+that,1
+he,1
+was,1
+given,1
+an,2
+hours,1
+exercise,1
+dailyhalf,1
+hour,1

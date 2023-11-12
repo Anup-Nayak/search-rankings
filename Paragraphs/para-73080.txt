@@ -1,0 +1,14 @@
+21,83,13
+when,1
+religion,1
+is,1
+not,1
+endangered,1
+government,1
+had,1
+more,1
+physical,1
+power,1
+and,1
+a,1
+heavier,1

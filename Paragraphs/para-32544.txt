@@ -1,0 +1,11 @@
+10,377,2
+207,1
+speech,1
+at,1
+dinner,1
+to,1
+joseph,1
+royeppen,1
+and,1
+others,1
+1,1

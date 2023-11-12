@@ -1,0 +1,8 @@
+27,69,5
+i,1
+trust,1
+your,1
+winsome,1
+eloquence,1
+will,1
+disarm,1

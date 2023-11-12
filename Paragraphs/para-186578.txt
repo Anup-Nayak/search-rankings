@@ -1,0 +1,14 @@
+52,477,16
+cases,1
+are,2
+of,1
+course,1
+inevitable,1
+but,1
+local,1
+governments,1
+prepared,1
+to,1
+give,1
+them,1
+most,1

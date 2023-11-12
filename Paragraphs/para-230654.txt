@@ -1,0 +1,8 @@
+63,186,9
+no,1
+anxiety,1
+proceed,1
+wardha,1
+soon,1
+after,1
+fast,1

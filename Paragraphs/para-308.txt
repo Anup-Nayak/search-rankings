@@ -1,0 +1,11 @@
+1,80,3
+the,4
+cost,1
+of,1
+living,1
+this,2
+is,3
+stumbling,1
+block,1
+question,1
+which,1

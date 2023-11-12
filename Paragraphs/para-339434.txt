@@ -1,0 +1,5 @@
+88,120,1
+256,1
+letter,1
+to,1
+amtussalaam,1

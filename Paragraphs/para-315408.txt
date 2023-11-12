@@ -1,0 +1,9 @@
+82,406,23
+g,1
+i,2
+did,1
+not,1
+know,1
+that,1
+dont,1
+mind,1

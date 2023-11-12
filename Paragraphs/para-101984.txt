@@ -1,0 +1,8 @@
+30,100,7
+date,2
+cotton,1
+supplied,1
+dr,1
+yarn,1
+received,1
+cr,1

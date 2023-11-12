@@ -1,0 +1,12 @@
+11,488,3
+province,1
+no,1
+and,1
+year,1
+of,2
+law,2
+title,1
+or,1
+subject,1
+section,1
+contravened,1

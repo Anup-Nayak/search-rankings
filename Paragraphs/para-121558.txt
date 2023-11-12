@@ -1,0 +1,4 @@
+36,24,7
+bhaishri,1
+dharamshi,1
+bhanji,1

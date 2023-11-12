@@ -1,0 +1,10 @@
+89,456,7
+1,2
+vide,1
+talk,1
+with,1
+indonesian,1
+sailors,1
+after,1
+21,1
+1946,1

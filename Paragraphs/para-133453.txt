@@ -1,0 +1,10 @@
+39,60,2
+a,2
+welcome,1
+step,1
+correspondent,1
+from,1
+holakere,1
+in,1
+mysore,1
+writes,1

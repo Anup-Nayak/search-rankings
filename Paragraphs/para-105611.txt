@@ -1,0 +1,17 @@
+31,157,4
+last,1
+five,1
+years,1
+on,1
+the,1
+other,1
+hand,1
+they,1
+had,1
+gained,1
+something,1
+it,1
+would,1
+never,1
+do,1
+to,1

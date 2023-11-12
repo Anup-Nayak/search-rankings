@@ -1,0 +1,8 @@
+66,400,7
+601,1
+letter,1
+to,1
+secretary,1
+hindi,1
+university,1
+committee,1

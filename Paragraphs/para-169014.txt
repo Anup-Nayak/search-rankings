@@ -1,0 +1,7 @@
+48,384,4
+satyagraha,1
+ashram,1
+sabarmati,1
+march,1
+8,1
+1930,1

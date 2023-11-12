@@ -1,0 +1,7 @@
+75,23,8
+swelling,1
+much,1
+reduced,1
+taking,1
+practically,1
+full,1

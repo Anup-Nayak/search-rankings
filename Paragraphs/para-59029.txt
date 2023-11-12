@@ -1,0 +1,16 @@
+17,23,8
+1,1
+boiled,1
+rice,1
+with,1
+pulses,1
+vegetables,1
+etc,1
+2,1
+vide,1
+letter,1
+to,1
+viceroy,1
+29,1
+4,1
+1918,1

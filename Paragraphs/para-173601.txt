@@ -1,0 +1,13 @@
+49,463,13
+the,1
+prophet,1
+is,2
+no,1
+longer,1
+at,2
+large,1
+and,1
+he,1
+now,1
+safely,1
+interned,1

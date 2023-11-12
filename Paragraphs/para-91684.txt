@@ -1,0 +1,8 @@
+27,159,9
+bapu,1
+chi,1
+maganlal,1
+gandhi,1
+satyagraha,1
+ashram,1
+sabarmati,1

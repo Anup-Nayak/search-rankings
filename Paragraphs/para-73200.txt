@@ -1,0 +1,15 @@
+21,96,21
+to,2
+put,1
+it,1
+at,1
+the,4
+lowest,1
+people,1
+had,2
+not,1
+power,1
+even,1
+if,1
+they,1
+will,1

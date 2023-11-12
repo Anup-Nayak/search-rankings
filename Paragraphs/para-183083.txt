@@ -1,0 +1,12 @@
+52,107,11
+mahatma,1
+gandhi,1
+refused,1
+the,2
+answer,1
+question,1
+if,1
+he,1
+was,1
+more,1
+optimistic,1

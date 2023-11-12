@@ -1,0 +1,9 @@
+48,375,3
+a,1
+retired,1
+inspector,1
+of,1
+schools,1
+punjab,1
+writes,1
+1,1

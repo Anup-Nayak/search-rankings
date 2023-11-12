@@ -1,0 +1,14 @@
+36,377,9
+i,2
+have,1
+your,2
+letter,1
+like,1
+idea,1
+about,1
+a,2
+calendar,1
+here,1
+are,1
+few,1
+thoughts,1

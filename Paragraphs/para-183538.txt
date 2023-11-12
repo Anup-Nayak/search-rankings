@@ -1,0 +1,4 @@
+52,149,10
+jamnadas,1
+gandhi,1
+rajkot,1

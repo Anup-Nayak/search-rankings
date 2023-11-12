@@ -1,0 +1,7 @@
+54,464,9
+engaged,1
+in,2
+activiteis,1
+against,1
+government,1
+and,1

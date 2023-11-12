@@ -1,0 +1,17 @@
+1,262,3
+1,1
+the,3
+table,1
+does,1
+not,2
+tally,1
+with,1
+figures,1
+given,1
+above,1
+and,1
+totals,1
+also,1
+are,1
+all,1
+correct,1

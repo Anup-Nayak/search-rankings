@@ -1,0 +1,7 @@
+18,250,4
+care,1
+lala,1
+dharmachand,1
+vakil,1
+anarkali,1
+lahore,1

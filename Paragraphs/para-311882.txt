@@ -1,0 +1,12 @@
+82,168,11
+the,3
+land,1
+attack,1
+caravan,1
+bats,1
+bhats,1
+point,1
+their,2
+daggers,1
+at,1
+own,1

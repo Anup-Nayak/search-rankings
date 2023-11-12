@@ -1,0 +1,4 @@
+7,113,2
+other,1
+good,1
+omens,1

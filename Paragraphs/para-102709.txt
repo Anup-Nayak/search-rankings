@@ -1,0 +1,12 @@
+30,202,2
+q,1
+was,1
+anyone,1
+of,2
+them,2
+a,1
+child,1
+or,1
+were,1
+both,1
+children,1

@@ -1,0 +1,14 @@
+16,471,20
+10,1
+the,2
+enhanced,1
+rents,1
+taken,1
+in,2
+lieu,1
+of,1
+indigo,1
+every,1
+case,1
+exceeded,1
+limit,1

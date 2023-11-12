@@ -1,0 +1,5 @@
+86,92,4
+wait,1
+watch,1
+and,1
+pray,1

@@ -1,0 +1,4 @@
+11,500,6
+extracts,1
+affecting,1
+asiatics,1

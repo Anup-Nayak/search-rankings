@@ -1,0 +1,13 @@
+54,101,13
+1,1
+the,2
+question,1
+and,1
+answer,1
+that,1
+follow,1
+are,1
+taken,1
+from,1
+young,1
+india,1

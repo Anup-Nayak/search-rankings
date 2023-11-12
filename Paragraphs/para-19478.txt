@@ -1,0 +1,11 @@
+6,504,5
+2,1
+it,1
+does,1
+not,1
+apply,1
+to,1
+kaffirs,1
+and,1
+cape,1
+boys,1

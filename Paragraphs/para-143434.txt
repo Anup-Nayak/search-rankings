@@ -1,0 +1,6 @@
+42,48,1
+68,1
+telegram,1
+to,1
+harilal,1
+desai,1

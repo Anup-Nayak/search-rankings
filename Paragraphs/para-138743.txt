@@ -1,0 +1,7 @@
+40,389,1
+265,1
+speech,1
+at,1
+public,1
+meeting,1
+matale,1

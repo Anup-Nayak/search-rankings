@@ -1,0 +1,17 @@
+82,254,16
+course,1
+if,1
+opium,1
+eaters,1
+do,1
+not,1
+get,1
+their,1
+dope,1
+at,1
+the,1
+proper,1
+time,1
+they,1
+are,1
+no,1

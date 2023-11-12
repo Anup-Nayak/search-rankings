@@ -1,0 +1,13 @@
+11,431,2
+3,1
+public,1
+opinion,1
+has,1
+been,1
+roused,1
+all,1
+over,1
+india,1
+about,1
+our,1
+disabilities,1

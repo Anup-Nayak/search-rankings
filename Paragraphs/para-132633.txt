@@ -1,0 +1,11 @@
+38,438,4
+from,2
+a,2
+photostat,1
+g,1
+n,2
+1571,1
+also,1
+microfilm,1
+s,1
+19777,1

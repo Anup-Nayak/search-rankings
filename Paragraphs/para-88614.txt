@@ -1,0 +1,5 @@
+26,203,2
+ideal,1
+father,1
+and,1
+son,1

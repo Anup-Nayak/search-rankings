@@ -1,0 +1,5 @@
+44,33,3
+50,1
+duty,1
+of,1
+resistance,1

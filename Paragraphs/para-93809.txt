@@ -1,0 +1,8 @@
+27,442,2
+354,1
+how,1
+much,1
+a,1
+weaver,1
+can,1
+earn,1

@@ -1,0 +1,9 @@
+52,340,15
+kop,1
+general,1
+buller,1
+needed,1
+our,1
+assistance,1
+within,1
+zone,1

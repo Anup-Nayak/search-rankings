@@ -1,0 +1,9 @@
+21,25,1
+17,1
+message,1
+to,1
+rajakiya,1
+mandal,1
+meeting,1
+1,1
+nadiad,1

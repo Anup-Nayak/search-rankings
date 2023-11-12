@@ -1,0 +1,10 @@
+91,289,16
+divine,1
+power,1
+is,1
+a,1
+thing,1
+that,1
+nothing,1
+can,1
+withstand,1

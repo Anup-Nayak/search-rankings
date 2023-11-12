@@ -1,0 +1,13 @@
+76,214,12
+method,1
+of,2
+production,1
+whatever,1
+may,1
+be,1
+its,1
+capacity,1
+to,1
+produce,1
+is,1
+incapable,1

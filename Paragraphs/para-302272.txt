@@ -1,0 +1,6 @@
+80,230,6
+408,1
+letter,1
+to,1
+kasturba,1
+gandhi,1

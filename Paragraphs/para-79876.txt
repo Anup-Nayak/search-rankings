@@ -1,0 +1,15 @@
+23,269,14
+1,1
+dewan,2
+of,2
+gondal,1
+2,1
+sir,1
+prabhashankar,1
+pattani,1
+the,1
+former,1
+bhavnagar,1
+state,1
+in,1
+saurashtra,1

@@ -1,0 +1,17 @@
+80,465,13
+my,1
+dear,1
+idiot,1
+your,2
+letter,1
+so,1
+far,1
+as,2
+own,1
+apples,1
+are,1
+concerned,1
+you,1
+may,1
+send,1
+often,1

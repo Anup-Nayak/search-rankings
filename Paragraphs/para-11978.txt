@@ -1,0 +1,8 @@
+5,11,4
+12,1
+instructions,1
+regarding,1
+permits,1
+to,1
+transvaal,1
+indians,1

@@ -1,0 +1,7 @@
+28,169,2
+bapu,1
+sister,1
+vasumati,1
+leelavati,1
+sanatorium,1
+deolali,1

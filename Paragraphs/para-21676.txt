@@ -1,0 +1,6 @@
+7,264,8
+the,2
+editor,1
+star,1
+johannesburg,1
+sir,1

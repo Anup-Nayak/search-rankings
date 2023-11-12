@@ -1,0 +1,10 @@
+92,122,8
+you,2
+may,1
+go,1
+to,1
+rajnandgaon,1
+if,1
+can,1
+spare,1
+yourself,1

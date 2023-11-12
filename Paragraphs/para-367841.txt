@@ -1,0 +1,12 @@
+95,150,5
+1,1
+character,1
+in,2
+a,1
+folk,1
+tale,1
+one,1
+who,1
+indulges,1
+idle,1
+dreams,1

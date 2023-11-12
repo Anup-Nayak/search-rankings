@@ -1,0 +1,17 @@
+39,372,1
+distinguishes,1
+a,1
+man,1
+from,1
+the,2
+brutes,1
+and,1
+what,1
+is,1
+only,1
+thing,1
+which,1
+makes,1
+life,1
+worth,1
+living,1

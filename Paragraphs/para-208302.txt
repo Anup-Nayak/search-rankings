@@ -1,0 +1,14 @@
+58,109,11
+mr,1
+gandhi,1
+may,1
+be,1
+allowed,1
+to,1
+do,1
+his,1
+own,1
+conservancy,1
+work,1
+if,1
+he,1

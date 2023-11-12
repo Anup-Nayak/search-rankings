@@ -1,0 +1,4 @@
+92,102,8
+sushila,1
+gandhi,1
+akola,1

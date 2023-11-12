@@ -1,0 +1,9 @@
+25,277,3
+begum,1
+khurshed,1
+khwaja,1
+saheb,1
+national,1
+muslim,1
+university,1
+aligarh,1

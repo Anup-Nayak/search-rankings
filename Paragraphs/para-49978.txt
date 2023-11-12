@@ -1,0 +1,12 @@
+14,498,2
+i,1
+am,1
+etc,1
+e,1
+m,2
+gorges,1
+k,1
+gandhi,1
+esq,1
+cape,1
+town,1

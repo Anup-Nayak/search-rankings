@@ -1,0 +1,10 @@
+38,237,9
+3,2
+for,1
+the,1
+medical,2
+opinions,2
+vide,1
+appendix,1
+29,1
+1927,1

@@ -1,0 +1,7 @@
+2,21,13
+1,1
+february,1
+7,1
+was,1
+a,1
+sunday,1

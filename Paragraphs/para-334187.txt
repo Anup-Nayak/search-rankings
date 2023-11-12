@@ -1,0 +1,4 @@
+87,89,6
+bapuki,1
+chhayamen,1
+p,1

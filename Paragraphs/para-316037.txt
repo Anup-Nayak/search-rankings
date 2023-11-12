@@ -1,0 +1,13 @@
+83,9,12
+q,1
+i,1
+am,1
+not,1
+you,1
+have,1
+been,1
+asking,1
+for,2
+it,2
+and,1
+working,1

@@ -1,0 +1,8 @@
+27,21,3
+not,1
+informed,1
+or,1
+fit,1
+enough,1
+guide,1
+delibera,1

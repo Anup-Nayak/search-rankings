@@ -1,0 +1,12 @@
+52,31,10
+103,1
+lb,1
+how,2
+are,1
+you,1
+and,1
+is,1
+your,1
+brother,1
+in,1
+law,1

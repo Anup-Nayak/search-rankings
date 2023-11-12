@@ -1,0 +1,8 @@
+86,317,8
+blessings,1
+from,1
+bapu,1
+ps,1
+reply,1
+by,1
+wire,1

@@ -1,0 +1,7 @@
+88,185,4
+ram,1
+manohar,1
+lohia,1
+central,1
+jail,1
+agra,1

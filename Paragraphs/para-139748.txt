@@ -1,0 +1,7 @@
+41,49,8
+1,1
+died,1
+in,1
+1933,1
+a,1
+philanthropist,1

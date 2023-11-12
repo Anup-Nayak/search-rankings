@@ -1,0 +1,6 @@
+77,192,6
+236,1
+letter,1
+to,1
+yakub,1
+hasan,1

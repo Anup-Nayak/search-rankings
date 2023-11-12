@@ -1,0 +1,4 @@
+33,92,2
+folly,1
+of,1
+excommunication,1

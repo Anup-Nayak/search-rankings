@@ -1,0 +1,12 @@
+84,445,5
+thou,1
+shalt,1
+fight,1
+for,2
+the,1
+right,1
+truth,1
+alone,1
+prevails,1
+not,1
+untruth,1

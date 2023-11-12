@@ -1,0 +1,8 @@
+56,245,10
+fever,1
+causes,1
+anxiety,1
+please,1
+wire,1
+her,1
+condition,1

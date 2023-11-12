@@ -1,0 +1,8 @@
+64,59,9
+bapu,1
+sjt,1
+parikshitla,1
+majmudar,1
+harijan,1
+ashram,1
+sabarmati,1

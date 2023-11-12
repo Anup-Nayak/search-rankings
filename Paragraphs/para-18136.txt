@@ -1,0 +1,6 @@
+6,320,3
+294,1
+mass,1
+meeting,1
+in,1
+natal,1

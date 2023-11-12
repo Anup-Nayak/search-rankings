@@ -1,0 +1,10 @@
+82,376,8
+q,1
+would,1
+a,1
+free,1
+india,1
+declare,1
+war,1
+against,1
+japan,1

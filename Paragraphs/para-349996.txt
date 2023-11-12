@@ -1,0 +1,12 @@
+90,398,8
+shri,1
+narahari,1
+parikh,1
+harijan,1
+ashram,1
+sabarmati,1
+b,2
+&,1
+c,1
+i,1
+rly,1

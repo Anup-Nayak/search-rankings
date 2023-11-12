@@ -1,0 +1,8 @@
+76,50,11
+is,1
+chandan,1
+should,1
+have,1
+ayurvedic,1
+treatment,1
+therefore,1

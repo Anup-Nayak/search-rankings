@@ -1,0 +1,15 @@
+24,63,8
+q,1
+if,1
+cloth,1
+were,1
+woven,1
+in,1
+india,1
+from,1
+foreign,1
+yarn,1
+would,1
+you,1
+consider,1
+it,1

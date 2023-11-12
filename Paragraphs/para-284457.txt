@@ -1,0 +1,9 @@
+76,70,8
+it,1
+does,1
+not,1
+meet,1
+situation,1
+gives,1
+no,1
+hope,1

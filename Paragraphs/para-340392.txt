@@ -1,0 +1,8 @@
+88,200,7
+hope,1
+relatives,1
+and,1
+friends,1
+will,1
+not,1
+mourn,1

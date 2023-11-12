@@ -1,0 +1,9 @@
+40,22,5
+15,1
+letter,1
+to,1
+an,1
+inmate,1
+of,1
+the,1
+ashram,1

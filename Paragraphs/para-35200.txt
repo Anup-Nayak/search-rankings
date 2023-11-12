@@ -1,0 +1,8 @@
+11,196,6
+214,1
+extract,1
+from,1
+letter,1
+to,1
+the,1
+press,1

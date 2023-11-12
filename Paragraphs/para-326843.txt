@@ -1,0 +1,12 @@
+85,296,5
+g,1
+quote,1
+my,1
+exact,1
+words,1
+and,1
+you,1
+will,1
+know,1
+the,1
+meaning,1

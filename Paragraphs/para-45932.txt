@@ -1,0 +1,10 @@
+14,9,10
+ill,1
+treatment,1
+but,1
+also,1
+policy,1
+such,1
+as,1
+grievances,1
+stop,1

@@ -1,0 +1,5 @@
+33,222,4
+indians,1
+in,1
+south,1
+africa,1

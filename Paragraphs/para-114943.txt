@@ -1,0 +1,4 @@
+34,152,3
+further,1
+internal,1
+difficulties,1

@@ -1,0 +1,13 @@
+17,184,4
+1,1
+this,1
+letter,1
+was,1
+written,1
+in,1
+reply,1
+to,1
+an,1
+enquiry,1
+about,1
+diet,1

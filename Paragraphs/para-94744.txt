@@ -1,0 +1,4 @@
+28,88,2
+punishment,1
+or,1
+reward,1

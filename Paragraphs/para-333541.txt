@@ -1,0 +1,7 @@
+87,28,7
+50,1
+note,1
+for,1
+gram,1
+udyog,1
+patrika,1

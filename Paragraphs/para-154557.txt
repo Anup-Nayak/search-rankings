@@ -1,0 +1,7 @@
+44,495,13
+t6,1
+guj,1
+does,1
+not,1
+have,1
+fairly,1

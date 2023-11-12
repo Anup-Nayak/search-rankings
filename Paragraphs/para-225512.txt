@@ -1,0 +1,9 @@
+61,474,5
+c,1
+r,1
+but,1
+hinduism,1
+does,1
+not,1
+sanction,1
+suicide,1

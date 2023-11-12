@@ -1,0 +1,9 @@
+25,363,6
+a,1
+delegate,1
+can,1
+we,1
+stop,1
+paying,1
+chowkidari,1
+tax,1

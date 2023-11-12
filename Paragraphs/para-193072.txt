@@ -1,0 +1,8 @@
+54,290,9
+take,1
+no,1
+precipitate,1
+action,1
+and,1
+shall,1
+make,1

@@ -1,0 +1,8 @@
+32,469,25
+nation,1
+either,1
+to,2
+win,1
+swaraj,1
+or,1
+die,1

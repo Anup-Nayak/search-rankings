@@ -1,0 +1,12 @@
+82,399,4
+l,1
+f,1
+it,1
+depends,1
+on,1
+the,1
+kind,1
+of,1
+peace,1
+we,1
+make,1

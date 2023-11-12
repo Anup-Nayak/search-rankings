@@ -1,0 +1,5 @@
+1,247,3
+and,1
+several,1
+other,1
+indians,1

@@ -1,0 +1,6 @@
+10,429,4
+261,1
+the,1
+cape,1
+coloured,1
+people,1

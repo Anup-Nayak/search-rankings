@@ -1,0 +1,11 @@
+36,231,8
+there,1
+is,1
+no,1
+present,1
+intention,1
+of,1
+extending,1
+the,2
+regulations,1
+beyond,1

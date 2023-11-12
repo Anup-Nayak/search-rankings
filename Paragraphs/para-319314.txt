@@ -1,0 +1,13 @@
+83,472,5
+1,1
+v,1
+de,1
+talk,1
+with,1
+nirmala,1
+and,1
+devdas,1
+gandhi,1
+7,1
+12,1
+1943,1

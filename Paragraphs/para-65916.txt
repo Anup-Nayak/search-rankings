@@ -1,0 +1,7 @@
+19,12,5
+tion,1
+of,1
+orders,1
+internment,1
+and,1
+externment,1

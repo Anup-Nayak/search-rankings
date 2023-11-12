@@ -1,0 +1,15 @@
+89,325,4
+q,1
+do,1
+you,1
+approve,1
+of,1
+smoking,1
+which,1
+was,1
+at,1
+present,1
+very,1
+common,1
+amongst,1
+students,1

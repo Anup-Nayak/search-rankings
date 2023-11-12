@@ -1,0 +1,8 @@
+44,489,21
+t3,1
+guj,1
+has,1
+was,1
+told,1
+by,1
+someone,1

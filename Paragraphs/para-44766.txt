@@ -1,0 +1,8 @@
+13,387,25
+minister,1
+to,1
+consider,1
+tax,1
+question,1
+upon,1
+merits,1

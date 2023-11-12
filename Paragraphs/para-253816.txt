@@ -1,0 +1,15 @@
+68,276,3
+rajendra,1
+prasad,1
+but,1
+is,2
+it,2
+a,2
+proven,1
+fact,1
+that,1
+cheaper,1
+to,1
+use,1
+motor,1
+car,1

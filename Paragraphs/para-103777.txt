@@ -1,0 +1,4 @@
+30,321,7
+influence,1
+of,1
+charkha,1

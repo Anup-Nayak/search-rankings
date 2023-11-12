@@ -1,0 +1,6 @@
+30,208,4
+q,1
+had,1
+anybody,1
+said,1
+so,1

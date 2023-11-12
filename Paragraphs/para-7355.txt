@@ -1,0 +1,12 @@
+3,198,5
+and,3
+you,1
+hold,1
+a,2
+diploma,2
+of,5
+public,1
+health,1
+edinburgh,2
+glasgow,2
+yes,1

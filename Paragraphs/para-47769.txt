@@ -1,0 +1,8 @@
+14,236,4
+204,1
+letter,1
+to,1
+indians,1
+in,1
+south,1
+africa,1

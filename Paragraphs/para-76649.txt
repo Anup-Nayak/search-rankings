@@ -1,0 +1,9 @@
+22,192,6
+full,1
+many,1
+a,1
+gem,1
+of,1
+purest,1
+ray,1
+serene,1

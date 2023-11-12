@@ -1,0 +1,7 @@
+70,349,4
+361,1
+interview,1
+to,1
+an,1
+egyptian,1
+1,1

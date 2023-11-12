@@ -1,0 +1,14 @@
+1,98,7
+macaroni,1
+2,8
+turnips,1
+rice,1
+sprouts,1
+tomatoes,1
+baked,1
+potatoes,1
+haricots,1
+mashed,1
+sweet,1
+puddings,1
+pastry,1

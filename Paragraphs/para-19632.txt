@@ -1,0 +1,16 @@
+6,523,10
+gov,1
+ernor,1
+of,1
+the,2
+tra,1
+nsvaa,1
+l,1
+col,2
+ony,2
+and,1
+ora,1
+nge,1
+riv,1
+er,1
+johannesburg,1

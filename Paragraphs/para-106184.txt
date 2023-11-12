@@ -1,0 +1,17 @@
+31,234,11
+lengths,1
+of,1
+carpet,1
+mr,1
+gandhi,1
+clad,1
+only,1
+in,1
+loin,1
+cloth,1
+sat,1
+cross,1
+legged,1
+and,1
+after,1
+a,1

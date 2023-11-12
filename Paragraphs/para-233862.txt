@@ -1,0 +1,15 @@
+64,56,7
+mahatma,1
+gandhi,1
+arrived,1
+here,1
+by,2
+mail,1
+en,1
+route,1
+to,1
+wardha,1
+and,1
+was,1
+greeted,1
+a,1

@@ -1,0 +1,15 @@
+63,437,4
+1gandhiji,1
+spoke,1
+in,1
+hindi,1
+this,1
+summary,1
+of,1
+the,1
+speech,1
+was,1
+prepared,1
+by,1
+gandhij,1
+himself,1

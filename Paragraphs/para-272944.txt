@@ -1,0 +1,16 @@
+73,181,1
+responsible,1
+government,1
+within,1
+their,2
+borders,1
+and,2
+otherwise,1
+extend,1
+guard,1
+the,2
+liberty,1
+of,1
+people,1
+under,1
+jurisdiction,1

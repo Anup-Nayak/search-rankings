@@ -1,0 +1,4 @@
+23,280,2
+khadi,1
+in,1
+temples,1

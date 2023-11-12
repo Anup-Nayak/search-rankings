@@ -1,0 +1,3 @@
+30,149,2
+drinking,1
+liquor,1

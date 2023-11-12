@@ -1,0 +1,15 @@
+75,455,8
+d,1
+is,1
+not,1
+what,1
+gandhiji,1
+describes,1
+the,1
+state,1
+in,1
+which,1
+thoughts,1
+themselves,1
+become,1
+foreign,1

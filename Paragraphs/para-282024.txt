@@ -1,0 +1,7 @@
+75,262,3
+335,1
+letter,1
+to,1
+khwaja,1
+hasan,1
+nizami,1

@@ -1,0 +1,12 @@
+35,317,2
+from,1
+a,1
+photostat,1
+of,1
+the,1
+urdu,1
+devanagari,1
+script,1
+s,1
+n,1
+11069,1

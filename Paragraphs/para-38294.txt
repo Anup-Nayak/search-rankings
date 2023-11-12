@@ -1,0 +1,11 @@
+12,4,2
+1,1
+the,1
+individual,1
+self,1
+which,1
+neither,1
+does,1
+nor,1
+suffers,1
+anything,1

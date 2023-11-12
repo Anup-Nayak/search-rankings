@@ -1,0 +1,13 @@
+65,190,5
+blessings,1
+from,1
+bapu,1
+ps,1
+how,1
+did,1
+you,1
+like,1
+my,1
+second,1
+statement,1
+1,1

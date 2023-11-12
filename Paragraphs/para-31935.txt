@@ -1,0 +1,8 @@
+10,300,2
+reader,1
+then,1
+what,1
+education,1
+shall,1
+we,1
+give,1

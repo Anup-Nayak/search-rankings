@@ -1,0 +1,9 @@
+44,480,30
+t1,1
+guj,1
+does,1
+not,1
+have,1
+the,1
+preceding,1
+clause,1

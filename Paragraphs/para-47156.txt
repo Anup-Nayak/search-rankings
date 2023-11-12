@@ -1,0 +1,8 @@
+14,157,11
+draw,1
+attention,1
+fact,1
+that,1
+when,1
+question,1
+arose,1

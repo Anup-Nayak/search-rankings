@@ -1,0 +1,7 @@
+13,425,4
+280,1
+speech,1
+at,1
+maritzburg,1
+mass,1
+meeting,1

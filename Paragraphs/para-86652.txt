@@ -1,0 +1,7 @@
+25,369,7
+ered,1
+not,1
+for,2
+their,1
+sake,2
+but,1

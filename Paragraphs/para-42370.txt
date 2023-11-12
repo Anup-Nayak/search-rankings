@@ -1,0 +1,11 @@
+13,70,4
+admission,1
+in,1
+fact,1
+to,1
+free,1
+state,1
+unnecessary,1
+existence,1
+right,1
+enter,1

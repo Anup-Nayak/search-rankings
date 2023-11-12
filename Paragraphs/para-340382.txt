@@ -1,0 +1,7 @@
+88,199,5
+shriman,1
+narayan,1
+agrawal,1
+commerce,1
+college,1
+wardha,1

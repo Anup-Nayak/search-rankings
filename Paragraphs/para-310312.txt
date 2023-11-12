@@ -1,0 +1,14 @@
+82,37,2
+who,1
+knows,1
+said,1
+the,1
+madame,1
+we,1
+may,1
+be,1
+back,1
+here,1
+sooner,1
+than,1
+later,1

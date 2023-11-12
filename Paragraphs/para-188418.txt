@@ -1,0 +1,8 @@
+53,210,26
+ordinary,1
+contract,1
+but,1
+if,1
+for,1
+this,1
+solemn,1

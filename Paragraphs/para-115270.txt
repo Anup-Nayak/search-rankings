@@ -1,0 +1,12 @@
+34,244,5
+1,1
+the,1
+original,1
+has,1
+thinking,1
+2,1
+this,1
+letter,1
+is,1
+not,1
+available,1

@@ -1,0 +1,7 @@
+38,7,4
+13,1
+speech,1
+at,1
+villagers,1
+meeting,1
+comilla,1

@@ -1,0 +1,8 @@
+18,128,22
+by,1
+civil,1
+resisters,1
+from,1
+government,1
+in,1
+an,1

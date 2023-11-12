@@ -1,0 +1,15 @@
+28,89,1
+because,1
+we,1
+have,1
+believed,1
+only,1
+somewhat,1
+in,2
+non,2
+co,1
+operation,1
+and,1
+still,1
+less,1
+violence,1

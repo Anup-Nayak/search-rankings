@@ -1,0 +1,6 @@
+2,162,17
+employment,2
+or,1
+means,1
+of,1
+subsistence,1

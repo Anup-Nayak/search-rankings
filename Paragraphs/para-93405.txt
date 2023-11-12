@@ -1,0 +1,14 @@
+27,402,12
+was,1
+an,1
+engineer,1
+he,1
+has,1
+become,1
+a,1
+cultivator,1
+now,1
+ploughing,1
+his,1
+own,1
+field,1

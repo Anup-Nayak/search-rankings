@@ -1,0 +1,11 @@
+92,4,1
+stature,1
+unless,1
+that,1
+handicap,1
+was,1
+removed,1
+harijan,1
+18,1
+8,1
+1946,1

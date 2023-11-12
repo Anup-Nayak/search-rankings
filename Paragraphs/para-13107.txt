@@ -1,0 +1,5 @@
+5,202,2
+195,1
+workmens,1
+living,1
+habits,1

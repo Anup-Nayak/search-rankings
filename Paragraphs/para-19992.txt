@@ -1,0 +1,4 @@
+7,30,6
+meeting,1
+in,1
+volksrust,1

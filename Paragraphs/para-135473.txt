@@ -1,0 +1,6 @@
+39,345,7
+341,1
+letter,1
+to,1
+w,1
+lutostawski,1

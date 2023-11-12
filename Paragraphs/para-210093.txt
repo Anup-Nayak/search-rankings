@@ -1,0 +1,16 @@
+58,292,13
+hamid,1
+i,1
+was,1
+glad,1
+to,2
+see,1
+your,1
+letter,1
+try,1
+and,1
+learn,1
+write,1
+well,1
+formed,1
+characters,1

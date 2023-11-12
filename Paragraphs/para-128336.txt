@@ -1,0 +1,6 @@
+37,364,3
+93,1
+letter,1
+to,1
+purushottamdas,1
+thakurdas,1

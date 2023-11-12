@@ -1,0 +1,11 @@
+85,316,12
+1,1
+the,3
+meaning,1
+of,1
+sentences,1
+is,1
+not,1
+clear,1
+in,1
+source,1

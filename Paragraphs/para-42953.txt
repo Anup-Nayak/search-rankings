@@ -1,0 +1,8 @@
+13,145,22
+reply,1
+same,1
+date,1
+stop,1
+community,1
+could,1
+never,1

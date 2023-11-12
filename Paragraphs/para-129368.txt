@@ -1,0 +1,11 @@
+38,29,4
+electors,1
+should,1
+always,1
+keep,1
+this,2
+ideal,1
+guiding,1
+principle,1
+in,1
+view,1

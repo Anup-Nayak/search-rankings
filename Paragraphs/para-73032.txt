@@ -1,0 +1,6 @@
+21,78,1
+50,1
+hartal,1
+on,1
+first,1
+august,1

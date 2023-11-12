@@ -1,0 +1,7 @@
+67,199,10
+317,1
+letter,1
+to,1
+purushottam,1
+l,1
+bavishi,1

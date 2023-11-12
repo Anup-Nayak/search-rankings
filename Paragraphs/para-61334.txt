@@ -1,0 +1,7 @@
+17,299,5
+given,1
+prayerful,1
+consideration,1
+wish,1
+you,1
+were,1

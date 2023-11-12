@@ -1,0 +1,10 @@
+82,323,13
+and,3
+damaged,1
+the,2
+cooking,1
+other,1
+utensils,1
+threatened,1
+local,1
+people,1

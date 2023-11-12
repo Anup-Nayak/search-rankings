@@ -1,0 +1,17 @@
+89,165,12
+1,1
+this,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+of,1
+the,1
+kasturba,1
+gandhi,1
+national,1
+memorial,1
+trust,1
+for,1
+gujarat,1

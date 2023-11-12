@@ -1,0 +1,15 @@
+32,393,3
+10,1
+do,1
+you,1
+say,1
+that,1
+such,1
+schools,1
+should,1
+not,1
+be,1
+given,1
+help,1
+from,1
+congress,1

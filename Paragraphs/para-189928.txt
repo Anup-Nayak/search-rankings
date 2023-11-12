@@ -1,0 +1,9 @@
+53,382,10
+subbarayan,1
+not,2
+special,1
+constituencies,1
+but,1
+supposing,1
+women,1
+do,1

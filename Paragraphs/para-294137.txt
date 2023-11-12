@@ -1,0 +1,6 @@
+78,253,8
+292,1
+letter,1
+to,1
+chandan,1
+kalelkar,1

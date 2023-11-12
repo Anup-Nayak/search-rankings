@@ -1,0 +1,6 @@
+73,27,3
+34,1
+talk,1
+with,1
+co,1
+workers1,1

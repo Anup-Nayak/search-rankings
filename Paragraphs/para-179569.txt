@@ -1,0 +1,8 @@
+51,173,7
+camp,1
+1,1
+daryaganj,1
+delhi,1
+february,1
+23,1
+1931,1

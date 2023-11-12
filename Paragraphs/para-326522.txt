@@ -1,0 +1,5 @@
+85,265,3
+head,1
+mistress,1
+pilani,1
+school,1

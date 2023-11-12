@@ -1,0 +1,16 @@
+82,401,29
+l,1
+f,1
+but,1
+isnt,1
+it,1
+a,1
+fact,1
+that,1
+in,1
+the,2
+united,1
+provinces,1
+congress,1
+and,1
+muslims,1

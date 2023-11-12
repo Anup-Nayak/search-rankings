@@ -1,0 +1,14 @@
+52,91,9
+at,1
+the,2
+octroi,1
+post,1
+car,1
+stopped,1
+for,1
+a,2
+minute,1
+when,1
+letter,1
+from,1
+mr,1

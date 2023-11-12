@@ -1,0 +1,12 @@
+49,460,21
+1,1
+vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+sabarmati,1
+ashram,1
+12,1
+3,1
+1930,1

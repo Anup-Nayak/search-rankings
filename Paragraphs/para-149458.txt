@@ -1,0 +1,10 @@
+43,278,7
+m,1
+k,1
+gandhi,1
+pandit,1
+jawaharlal,1
+nehru,1
+anand,1
+bhawan,1
+allahabad,1

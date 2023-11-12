@@ -1,0 +1,15 @@
+42,464,27
+3,1
+that,1
+the,2
+boom,1
+period,1
+covering,1
+years,1
+from,1
+1918,1
+19,1
+to,1
+1924,1
+25,1
+should,1

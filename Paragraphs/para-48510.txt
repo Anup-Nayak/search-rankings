@@ -1,0 +1,8 @@
+14,347,13
+1,1
+a,1
+place,1
+near,1
+dhoraji,1
+in,1
+saurashtra,1

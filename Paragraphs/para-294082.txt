@@ -1,0 +1,5 @@
+78,247,13
+the,1
+mangoes,1
+have,1
+arrived,1

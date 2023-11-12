@@ -1,0 +1,13 @@
+69,175,9
+my,1
+europe,1
+is,2
+in,1
+segaon,1
+it,1
+difficult,1
+even,1
+to,1
+wait,1
+till,1
+september,1

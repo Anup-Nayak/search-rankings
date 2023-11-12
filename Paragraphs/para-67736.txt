@@ -1,0 +1,9 @@
+19,260,6
+they,2
+had,2
+no,2
+plan,2
+before,2
+that,2
+at,1
+all,1

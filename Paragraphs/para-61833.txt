@@ -1,0 +1,7 @@
+17,369,10
+only,1
+secure,1
+withdrawal,1
+rowlatt,1
+legislation,1
+but,1

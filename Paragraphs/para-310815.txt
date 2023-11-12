@@ -1,0 +1,14 @@
+82,83,16
+3,1
+per,1
+cent,1
+of,1
+the,2
+population,1
+we,1
+would,1
+far,1
+rather,1
+suggest,1
+to,2
+students,1

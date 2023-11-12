@@ -1,0 +1,12 @@
+91,285,18
+he,1
+who,1
+looks,1
+for,1
+faults,1
+in,1
+others,1
+cannot,1
+see,1
+his,1
+own,1

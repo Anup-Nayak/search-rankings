@@ -1,0 +1,7 @@
+21,500,5
+284,1
+satyagraha,1
+and,1
+the,1
+suppressed,1
+classes,1

@@ -1,0 +1,7 @@
+83,389,4
+n,1
+friends,1
+ambulance,1
+unit,1
+in,1
+india,1

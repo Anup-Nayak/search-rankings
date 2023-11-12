@@ -1,0 +1,11 @@
+66,442,6
+g,1
+i,1
+know,1
+the,1
+conviction,1
+has,1
+been,1
+long,1
+with,1
+you,1

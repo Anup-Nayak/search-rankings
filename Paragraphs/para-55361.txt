@@ -1,0 +1,9 @@
+16,67,1
+36,1
+speech,1
+at,1
+reception,1
+by,1
+merchants,1
+broach,1
+1,1

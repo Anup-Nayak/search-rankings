@@ -1,0 +1,14 @@
+78,365,8
+gandhiji,1
+it,1
+is,1
+improper,1
+of,1
+you,1
+to,1
+judge,1
+a,1
+co,1
+worker,1
+from,1
+one,1

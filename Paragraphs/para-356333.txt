@@ -1,0 +1,10 @@
+92,189,6
+a,2
+strikes,1
+have,1
+today,1
+become,1
+universal,1
+plague,1
+there,1
+are,1

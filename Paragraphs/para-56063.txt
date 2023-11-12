@@ -1,0 +1,6 @@
+16,182,1
+84,1
+letter,1
+t0,1
+jamnadas,1
+gandhi,1

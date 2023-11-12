@@ -1,0 +1,10 @@
+64,174,7
+gandhiji,1
+then,1
+explained,1
+the,2
+meaning,1
+of,1
+untouchability,1
+to,1
+women,1

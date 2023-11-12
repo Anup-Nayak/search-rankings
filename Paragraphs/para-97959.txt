@@ -1,0 +1,13 @@
+29,70,8
+speaker,1
+appealed,1
+to,1
+all,1
+for,1
+spinning,1
+hindu,1
+muslim,1
+unity,1
+and,1
+removal,1
+of,1

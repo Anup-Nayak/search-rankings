@@ -1,0 +1,11 @@
+16,468,4
+another,1
+important,1
+objection,1
+to,1
+the,3
+tinkathia,1
+system,1
+is,1
+fact,1
+that,1

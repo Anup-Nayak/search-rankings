@@ -1,0 +1,4 @@
+62,190,3
+katra,1
+khushal,1
+delhi,1

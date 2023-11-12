@@ -1,0 +1,11 @@
+6,151,2
+hotel,1
+cecil,1
+london,2
+november,1
+22,1
+1906,1
+the,1
+editor,1
+south,1
+africa,1

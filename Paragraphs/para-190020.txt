@@ -1,0 +1,10 @@
+53,392,7
+charlie,1
+chaplin,1
+is,1
+it,1
+then,1
+only,1
+as,1
+regards,1
+cloth,1

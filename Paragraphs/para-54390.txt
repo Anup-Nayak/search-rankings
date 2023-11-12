@@ -1,0 +1,5 @@
+15,480,9
+these,1
+proposals,1
+were,1
+accepted,1

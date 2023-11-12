@@ -1,0 +1,13 @@
+78,306,14
+2,1
+on,1
+which,1
+date,1
+the,1
+congress,1
+working,1
+committee,1
+was,1
+meeting,1
+at,1
+wardha,1

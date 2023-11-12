@@ -1,0 +1,14 @@
+62,419,11
+individual,1
+views,1
+or,1
+in,1
+the,1
+name,1
+of,1
+rousseau,1
+tolstoy,1
+lenin,1
+etc,1
+but,1
+under,1

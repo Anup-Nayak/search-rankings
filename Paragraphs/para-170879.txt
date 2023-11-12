@@ -1,0 +1,6 @@
+49,155,11
+may,1
+god,1
+give,1
+you,1
+strength,1

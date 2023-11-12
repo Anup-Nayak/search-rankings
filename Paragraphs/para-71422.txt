@@ -1,0 +1,7 @@
+20,302,4
+96,1
+neither,1
+a,2
+saint,1
+nor,1
+politician,1

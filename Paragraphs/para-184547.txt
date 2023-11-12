@@ -1,0 +1,14 @@
+52,257,2
+save,1
+me,1
+from,2
+my,1
+admirers,1
+a,1
+correspondent,1
+writes,1
+far,1
+off,1
+cape,1
+comorin,1
+1,1

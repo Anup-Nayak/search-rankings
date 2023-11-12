@@ -1,0 +1,15 @@
+82,213,2
+q,1
+6,1
+today,1
+the,1
+national,1
+language,1
+is,1
+written,1
+in,1
+both,1
+scripts,1
+whoever,1
+wants,1
+to,1

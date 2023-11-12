@@ -1,0 +1,12 @@
+9,263,17
+the,3
+indians,1
+latter,1
+would,2
+be,1
+amashed,1
+but,1
+former,1
+suffer,1
+severe,1
+loss,1

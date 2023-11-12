@@ -1,0 +1,5 @@
+12,452,6
+the,1
+exemption,1
+clause,1
+includes,1

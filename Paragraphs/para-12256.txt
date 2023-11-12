@@ -1,0 +1,8 @@
+5,62,2
+1,1
+prominent,1
+indian,1
+congressman,1
+2,1
+oslo,1
+norway,1

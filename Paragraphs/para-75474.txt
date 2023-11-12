@@ -1,0 +1,6 @@
+21,507,9
+294,1
+to,1
+hindus,1
+and,1
+muslims,1

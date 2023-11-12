@@ -1,0 +1,13 @@
+37,312,12
+at,1
+the,2
+right,2
+place,1
+and,2
+time,1
+to,2
+person,1
+is,1
+said,1
+be,1
+sattvik,1

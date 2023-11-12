@@ -1,0 +1,4 @@
+7,348,6
+stir,1
+among,1
+whites,1

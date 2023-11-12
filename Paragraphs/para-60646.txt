@@ -1,0 +1,10 @@
+17,222,5
+satyagraha,1
+ashram,1
+ganesh,1
+chaturthi,1
+monday,1
+september,1
+9,1
+1918,1
+2,1

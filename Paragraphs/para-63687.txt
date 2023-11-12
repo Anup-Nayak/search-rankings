@@ -1,0 +1,8 @@
+18,128,19
+may,1
+be,2
+and,1
+can,1
+directed,1
+healthy,1
+chan,1

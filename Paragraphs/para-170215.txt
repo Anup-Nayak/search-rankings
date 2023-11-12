@@ -1,0 +1,14 @@
+49,69,10
+blessings,1
+from,2
+bapu,1
+ps,1
+the,2
+money,1
+coming,1
+other,1
+places,1
+which,1
+was,1
+received,1
+in,1

@@ -1,0 +1,15 @@
+80,170,5
+wardha,1
+april,1
+12,1
+1941,1
+gurudev,1
+santiniketan,1
+four,1
+score,1
+not,1
+enough,1
+may,1
+you,1
+finish,1
+five,1

@@ -1,0 +1,6 @@
+38,333,6
+m,1
+k,1
+gandhi,1
+from,1
+hindi,1

@@ -1,0 +1,11 @@
+13,355,2
+1,1
+a,1
+gujarati,1
+saying,1
+for,1
+who,1
+can,1
+control,1
+his,1
+fate,1

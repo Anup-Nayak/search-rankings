@@ -1,0 +1,11 @@
+38,266,3
+2,1
+this,1
+paragraph,1
+is,1
+taken,1
+from,1
+navajivan,1
+10,1
+4,1
+1927,1

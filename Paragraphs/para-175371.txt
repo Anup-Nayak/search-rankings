@@ -1,0 +1,14 @@
+50,184,9
+1,1
+books,1
+by,1
+the,1
+author,1
+published,1
+in,1
+1925,1
+and,1
+1930,1
+respectively,1
+2,1
+ibid,1

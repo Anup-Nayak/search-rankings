@@ -1,0 +1,15 @@
+52,323,12
+liquor,1
+shops,1
+was,1
+not,2
+the,2
+principal,1
+thing,1
+if,1
+drunkards,1
+did,1
+give,1
+up,1
+habit,1
+of,1

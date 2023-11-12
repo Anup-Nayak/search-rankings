@@ -1,0 +1,11 @@
+89,89,2
+q,1
+what,1
+could,1
+congressmen,1
+do,1
+to,2
+draw,1
+muslims,1
+the,1
+congress,1

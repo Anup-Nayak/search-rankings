@@ -1,0 +1,7 @@
+74,309,10
+in,1
+hot,1
+blushes,1
+on,1
+their,1
+cheek,1

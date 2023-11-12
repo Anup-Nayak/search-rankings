@@ -1,0 +1,7 @@
+36,77,5
+79,1
+letter,1
+to,1
+saiyid,1
+haidar,1
+riza,1

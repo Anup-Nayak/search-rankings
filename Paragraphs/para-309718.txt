@@ -1,0 +1,5 @@
+81,502,3
+762,1
+individual,1
+or,1
+collective,1

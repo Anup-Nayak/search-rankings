@@ -1,0 +1,7 @@
+46,394,10
+1,1
+association,1
+with,1
+good,2
+or,1
+persons,1

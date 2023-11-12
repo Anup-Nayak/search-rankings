@@ -1,0 +1,6 @@
+41,432,1
+498,1
+letter,1
+to,1
+elisabeth,1
+knudsen,1

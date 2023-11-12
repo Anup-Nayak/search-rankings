@@ -1,0 +1,8 @@
+11,282,19
+full,1
+protection,1
+wives,1
+minor,1
+children,1
+as,1
+hitherto,1

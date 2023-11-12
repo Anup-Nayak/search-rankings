@@ -1,0 +1,9 @@
+64,287,10
+1,1
+gandhiji,1
+had,1
+wrongly,1
+addressed,1
+the,1
+letter,1
+khurda,1

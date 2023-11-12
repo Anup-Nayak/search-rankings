@@ -1,0 +1,10 @@
+58,300,15
+1,2
+vide,1
+also,1
+letter,1
+to,1
+mrs,1
+hunter,1
+6,1
+1933,1

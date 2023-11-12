@@ -1,0 +1,8 @@
+12,35,4
+30,1
+letter,1
+to,1
+chhaganlal,1
+and,1
+maganlal,1
+gandhi,1

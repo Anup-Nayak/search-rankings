@@ -1,0 +1,7 @@
+21,38,7
+27,1
+speech,1
+on,1
+fiji,1
+affairs,1
+bombay,1

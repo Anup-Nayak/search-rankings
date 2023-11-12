@@ -1,0 +1,10 @@
+93,158,5
+214,1
+letter,1
+to,1
+aruna,1
+asaf,1
+ali,1
+december,1
+18,1
+1946,1

@@ -1,0 +1,10 @@
+69,128,6
+some,1
+fruits,1
+will,1
+go,1
+with,1
+this,1
+if,1
+the,1
+bearer,1

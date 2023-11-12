@@ -1,0 +1,9 @@
+68,209,7
+personal,1
+and,1
+other,1
+outstandings,1
+clear,1
+all,1
+salable,1
+stock,1

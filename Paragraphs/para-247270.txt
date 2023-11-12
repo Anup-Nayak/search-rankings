@@ -1,0 +1,8 @@
+67,47,1
+80,1
+interview,1
+to,1
+a,1
+missionary,1
+nurse,1
+1,1

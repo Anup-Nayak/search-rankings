@@ -1,0 +1,7 @@
+16,2,6
+3,1
+indian,1
+review,1
+report,1
+has,1
+colonies,1

@@ -1,0 +1,7 @@
+82,407,13
+germany,1
+and,1
+identified,1
+himself,1
+with,1
+it,1

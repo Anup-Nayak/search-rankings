@@ -1,0 +1,5 @@
+25,195,2
+todharalas,1
+garasias,1
+and,1
+others,1

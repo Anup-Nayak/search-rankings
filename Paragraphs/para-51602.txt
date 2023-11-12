@@ -1,0 +1,16 @@
+15,139,10
+3,1
+a,2
+gujarati,1
+poet,1
+4,1
+friend,1
+of,1
+shri,1
+krishna,1
+the,2
+lines,1
+are,1
+spoken,1
+by,1
+gopis,1

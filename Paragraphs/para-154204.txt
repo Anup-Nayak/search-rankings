@@ -1,0 +1,11 @@
+44,483,20
+t5,1
+guj,1
+does,1
+not,1
+have,1
+when,1
+they,1
+had,1
+no,1
+school,1

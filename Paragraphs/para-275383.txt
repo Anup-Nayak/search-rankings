@@ -1,0 +1,15 @@
+73,438,10
+1,2
+the,3
+gujarati,1
+original,1
+has,1
+swada,1
+which,1
+means,1
+relish,1
+of,1
+palate,1
+from,1
+hindustan,1
+times,1

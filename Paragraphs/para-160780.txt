@@ -1,0 +1,17 @@
+46,291,1
+i,3
+hope,1
+kamala,1
+is,1
+better,1
+do,1
+want,1
+to,2
+see,1
+her,1
+healthy,1
+and,1
+bright,1
+when,1
+come,1
+allahabad,1

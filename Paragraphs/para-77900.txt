@@ -1,0 +1,4 @@
+22,419,3
+223,1
+famine,1
+insurance,1

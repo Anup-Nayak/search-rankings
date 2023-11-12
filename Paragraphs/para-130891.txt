@@ -1,0 +1,7 @@
+38,226,10
+214,1
+face,2
+to,1
+with,1
+the,1
+pauper,1

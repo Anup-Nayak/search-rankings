@@ -1,0 +1,5 @@
+24,185,6
+perish,1
+policy,1
+and,1
+cunning,1

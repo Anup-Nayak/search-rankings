@@ -1,0 +1,7 @@
+11,287,14
+resisters,1
+will,1
+be,1
+strongly,1
+continue,1
+struggle,1

@@ -1,0 +1,6 @@
+74,308,3
+stand,1
+ye,1
+calm,1
+and,1
+resolute,1

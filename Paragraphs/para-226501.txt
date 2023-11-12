@@ -1,0 +1,11 @@
+62,95,3
+sense,1
+objects,1
+such,1
+a,2
+one,1
+wholly,1
+deluded,1
+is,1
+called,1
+hypocrite,1

@@ -1,0 +1,12 @@
+36,403,11
+total,1
+the,2
+counts,1
+and,1
+divide,1
+by,1
+six,1
+you,1
+have,1
+average,1
+count,1

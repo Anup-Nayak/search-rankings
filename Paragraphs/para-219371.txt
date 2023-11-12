@@ -1,0 +1,17 @@
+60,292,8
+1,1
+the,4
+article,1
+bearing,1
+caption,1
+racial,1
+segregation,1
+and,1
+untouchability,1
+appeared,1
+in,1
+march,1
+issue,1
+of,1
+modern,1
+review,1

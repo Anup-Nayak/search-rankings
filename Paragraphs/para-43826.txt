@@ -1,0 +1,6 @@
+13,253,8
+phoenix,1
+monday,1
+august,1
+18,1
+1913,1

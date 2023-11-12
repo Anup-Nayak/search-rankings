@@ -1,0 +1,7 @@
+92,30,5
+f,1
+cannot,1
+government,1
+formulate,1
+a,1
+scheme,1

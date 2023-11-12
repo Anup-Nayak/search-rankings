@@ -1,0 +1,12 @@
+12,314,4
+cole,1
+went,1
+to,2
+town,1
+&,1
+returnedwrote,1
+schlesin,1
+for,1
+stamps,1
+0,2
+1,1

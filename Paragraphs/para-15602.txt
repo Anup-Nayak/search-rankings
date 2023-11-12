@@ -1,0 +1,16 @@
+6,43,3
+the,2
+earl,1
+of,2
+elgin,1
+oh,1
+yes,1
+i,2
+am,1
+thinking,1
+today,1
+and,1
+answer,1
+have,1
+to,1
+give,1

@@ -1,0 +1,13 @@
+66,304,1
+at,1
+what,1
+time,1
+are,1
+you,2
+supposed,1
+to,1
+get,1
+up,1
+do,1
+have,1
+prayer,1

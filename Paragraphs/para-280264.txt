@@ -1,0 +1,9 @@
+75,62,4
+even,1
+if,1
+she,1
+was,1
+well,1
+and,1
+otherwise,1
+free,1

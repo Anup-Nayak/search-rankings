@@ -1,0 +1,5 @@
+25,440,2
+the,1
+purchaser,1
+will,1
+perish,1

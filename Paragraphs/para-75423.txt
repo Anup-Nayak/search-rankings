@@ -1,0 +1,8 @@
+21,502,18
+1,1
+for,1
+teaching,1
+blacksmiths,1
+and,1
+carpenters,1
+work,1

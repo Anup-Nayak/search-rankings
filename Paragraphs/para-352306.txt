@@ -1,0 +1,7 @@
+91,202,6
+the,1
+life,1
+of,1
+mahatma,1
+gandhi,1
+p,1

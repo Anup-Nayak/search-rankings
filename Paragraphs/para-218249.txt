@@ -1,0 +1,6 @@
+60,151,3
+183,1
+aundh,1
+state,1
+and,1
+untouchability,1

@@ -1,0 +1,7 @@
+50,15,2
+kanya,1
+ashram,1
+rajat,1
+jayanti,1
+smritigranth,1
+p,1

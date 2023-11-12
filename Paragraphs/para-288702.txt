@@ -1,0 +1,6 @@
+77,91,5
+hope,1
+trouble,1
+subsiding,1
+keep,1
+well,1

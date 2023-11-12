@@ -1,0 +1,13 @@
+82,382,20
+government,1
+and,1
+the,1
+constitution,1
+making,1
+body,1
+this,1
+treaty,1
+will,1
+cover,1
+all,1
+necessary,1

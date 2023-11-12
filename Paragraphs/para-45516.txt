@@ -1,0 +1,7 @@
+13,448,29
+and,1
+other,1
+communications,1
+to,1
+passive,1
+resistance,1

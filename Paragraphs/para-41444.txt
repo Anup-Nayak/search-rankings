@@ -1,0 +1,7 @@
+12,418,4
+296,1
+general,1
+knowledge,1
+about,1
+health,1
+ix,1

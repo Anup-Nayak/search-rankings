@@ -1,0 +1,14 @@
+62,292,16
+he,2
+did,2
+not,3
+enter,1
+the,2
+temples,1
+let,1
+them,1
+go,1
+under,1
+impression,1
+that,1
+wish,1

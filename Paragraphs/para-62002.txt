@@ -1,0 +1,7 @@
+17,382,3
+mr,1
+gandhi,1
+in,1
+his,1
+speech,1
+said,1

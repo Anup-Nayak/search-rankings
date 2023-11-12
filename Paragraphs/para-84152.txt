@@ -1,0 +1,12 @@
+24,472,12
+ordering,1
+their,2
+release,2
+had,1
+been,1
+mislaid,1
+and,1
+after,1
+no,1
+policeman,1
+was,1

@@ -1,0 +1,11 @@
+80,327,8
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10980,1
+courtesy,1
+dr,1
+abraham,1
+paul,1

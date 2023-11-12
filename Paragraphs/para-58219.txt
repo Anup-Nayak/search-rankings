@@ -1,0 +1,13 @@
+16,475,1
+rise,1
+in,1
+prices,1
+of,2
+the,1
+rent,1
+a,1
+tenant,1
+who,1
+has,1
+paid,1
+tawan,1

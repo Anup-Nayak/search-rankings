@@ -1,0 +1,6 @@
+44,504,22
+t2,1
+guj,1
+has,1
+public,1
+workers,1

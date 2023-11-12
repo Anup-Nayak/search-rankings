@@ -1,0 +1,5 @@
+98,410,10
+satyagraha,1
+ashram,1
+sabarmati,1
+tuesday,1

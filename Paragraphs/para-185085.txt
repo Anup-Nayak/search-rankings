@@ -1,0 +1,14 @@
+52,323,28
+the,2
+field,1
+now,1
+they,1
+had,1
+to,1
+do,1
+work,2
+of,1
+sowing,1
+that,1
+was,1
+constructive,1

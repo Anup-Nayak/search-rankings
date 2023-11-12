@@ -1,0 +1,8 @@
+71,407,2
+495,1
+a,1
+plea,1
+for,1
+the,1
+village,1
+cart,1

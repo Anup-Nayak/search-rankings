@@ -1,0 +1,14 @@
+23,488,5
+the,2
+acts,1
+of,2
+cruelty,1
+and,1
+licence,1
+which,1
+national,1
+soldiery,1
+have,1
+been,1
+guilty,1
+in,1

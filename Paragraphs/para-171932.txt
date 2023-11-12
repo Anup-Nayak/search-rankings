@@ -1,0 +1,10 @@
+49,289,10
+but,1
+we,1
+are,1
+not,1
+offered,1
+a,1
+status,1
+like,1
+theirs,1

@@ -1,0 +1,10 @@
+71,72,17
+my,1
+appreciation,1
+for,2
+your,2
+stand,1
+god,1
+bless,1
+you,1
+courage,1

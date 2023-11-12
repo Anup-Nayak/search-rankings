@@ -1,0 +1,9 @@
+23,226,2
+105,1
+speech,1
+on,1
+non,1
+violence,1
+resolution,1
+broach,1
+1,1

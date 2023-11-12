@@ -1,0 +1,5 @@
+16,504,9
+letter,1
+from,1
+baban,1
+gokhalay,1

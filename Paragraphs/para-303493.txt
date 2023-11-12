@@ -1,0 +1,8 @@
+80,345,6
+simla,1
+wire,1
+received,1
+welcoming,1
+you,1
+1,1
+come,1

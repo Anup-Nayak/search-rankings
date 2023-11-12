@@ -1,0 +1,12 @@
+87,431,2
+statement,1
+made,1
+in,1
+parliament,1
+by,1
+secretary,1
+of,1
+state,1
+for,1
+india,1
+1,1

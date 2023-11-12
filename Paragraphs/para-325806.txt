@@ -1,0 +1,10 @@
+85,194,12
+blessings,1
+from,1
+bapu,1
+kusum,1
+manilal,1
+kothari,1
+takhteshwar,1
+plot,1
+bhavnagar,1

@@ -1,0 +1,10 @@
+49,293,2
+bapu,1
+pps,1
+prabhavatis,1
+address,1
+a,1
+i,1
+c,2
+office,1
+allahabad,1

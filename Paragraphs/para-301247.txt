@@ -1,0 +1,10 @@
+80,130,7
+bapu,1
+ps,1
+amtul,1
+salaam,1
+is,1
+doing,1
+well,1
+no,1
+asthma,1

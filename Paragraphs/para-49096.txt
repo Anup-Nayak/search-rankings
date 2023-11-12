@@ -1,0 +1,5 @@
+14,413,7
+nawab,1
+saheb,1
+and,1
+friends,1

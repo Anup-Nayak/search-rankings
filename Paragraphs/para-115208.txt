@@ -1,0 +1,7 @@
+34,227,2
+1,1
+the,1
+original,1
+has,1
+were,1
+living,1

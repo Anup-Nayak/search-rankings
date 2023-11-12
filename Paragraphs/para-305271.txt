@@ -1,0 +1,5 @@
+81,11,10
+4,1
+harijan,1
+sevak,1
+sangh,1

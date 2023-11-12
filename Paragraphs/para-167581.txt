@@ -1,0 +1,10 @@
+48,179,5
+mahatmaji,1
+i,1
+do,1
+not,1
+think,1
+there,1
+is,1
+any,1
+exception,1

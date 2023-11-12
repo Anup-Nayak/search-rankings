@@ -1,0 +1,4 @@
+7,40,22
+certificate,1
+of,1
+registration,1

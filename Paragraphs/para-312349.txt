@@ -1,0 +1,7 @@
+82,207,5
+256,1
+meaning,1
+of,1
+yarn,1
+currency,1
+1,1

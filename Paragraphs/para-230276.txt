@@ -1,0 +1,6 @@
+63,126,2
+140,1
+letter,1
+to,1
+narmadabehn,1
+rana,1

@@ -1,0 +1,17 @@
+97,440,7
+daughter,1
+raihana,1
+i,2
+have,2
+your,1
+long,1
+letter,2
+how,1
+can,1
+argue,1
+with,1
+you,2
+must,1
+received,1
+my,1
+last,1

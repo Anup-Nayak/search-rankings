@@ -1,0 +1,7 @@
+84,168,13
+rajajis,1
+formula,2
+7,1
+accidental,1
+regard,1
+consistent,1

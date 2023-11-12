@@ -1,0 +1,6 @@
+10,377,6
+2,1
+imam,1
+abdul,1
+kadir,1
+bawazeer,1

@@ -1,0 +1,14 @@
+65,236,8
+1,1
+at,1
+this,1
+stage,1
+the,2
+loudspeakers,1
+failed,1
+gandhiji,1
+continued,1
+after,1
+current,1
+was,1
+restored,1

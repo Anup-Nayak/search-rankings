@@ -1,0 +1,16 @@
+18,141,6
+1,1
+the,3
+meeting,1
+was,1
+held,1
+in,1
+jain,2
+upashraya,1
+at,1
+lalbaug,1
+under,1
+auspices,1
+of,1
+cutchchi,1
+mandal,1

@@ -1,0 +1,10 @@
+54,289,3
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4520,1
+courtesy,1
+r,1
+briscoe,1

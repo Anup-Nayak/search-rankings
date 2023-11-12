@@ -1,0 +1,5 @@
+11,128,1
+143,1
+indentured,1
+indians,1
+plight,1

@@ -1,0 +1,10 @@
+78,47,7
+1,1
+gopabandhu,1
+chaudhri,1
+2,1
+this,1
+sentence,1
+is,1
+in,1
+hindi,1

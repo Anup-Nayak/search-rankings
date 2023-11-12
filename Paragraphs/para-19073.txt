@@ -1,0 +1,5 @@
+6,442,4
+from,1
+damascus,1
+to,1
+medina,1

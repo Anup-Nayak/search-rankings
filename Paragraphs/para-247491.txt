@@ -1,0 +1,11 @@
+67,70,2
+gandhiji,1
+but,1
+even,1
+in,1
+mathematics,1
+you,1
+have,1
+your,1
+recurring,1
+decimals,1

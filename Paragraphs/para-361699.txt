@@ -1,0 +1,17 @@
+93,287,3
+gandhiji,1
+said,1
+that,1
+he,2
+had,1
+received,1
+certain,1
+questions,1
+from,1
+some,1
+muslims,1
+while,1
+was,1
+in,1
+narayanpur,1
+yesterday,1

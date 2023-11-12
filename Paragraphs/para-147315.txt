@@ -1,0 +1,9 @@
+43,28,5
+i,1
+consent,1
+have,1
+no,1
+irrevocable,1
+objection,1
+if,1
+you,1

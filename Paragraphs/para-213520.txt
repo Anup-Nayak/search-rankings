@@ -1,0 +1,15 @@
+59,134,19
+if,1
+he,2
+mr,1
+gandhi,1
+had,1
+been,1
+guided,1
+by,1
+political,1
+instead,1
+of,1
+religious,1
+instinct,1
+would,1

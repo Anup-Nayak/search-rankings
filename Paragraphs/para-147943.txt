@@ -1,0 +1,17 @@
+43,100,10
+yours,1
+sincerely,1
+isaac,1
+santra,1
+esq,1
+officer,1
+in,1
+charge,1
+leprosy,1
+survey,1
+c|o,1
+post,1
+master,1
+jamner,1
+east,1
+khandesh,1

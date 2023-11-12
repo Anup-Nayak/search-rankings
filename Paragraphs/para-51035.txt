@@ -1,0 +1,10 @@
+15,96,18
+visited,1
+park,1
+wrote,1
+letters,1
+walked,1
+the,1
+distance,1
+both,1
+ways,1

@@ -1,0 +1,5 @@
+42,430,2
+price,1
+of,1
+a,1
+bridegroom,1

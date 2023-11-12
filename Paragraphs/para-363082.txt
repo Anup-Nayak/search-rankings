@@ -1,0 +1,11 @@
+94,8,8
+a,1
+he,1
+had,1
+supported,1
+the,2
+proposition,1
+from,1
+non,1
+violent,1
+standpoint,1

@@ -1,0 +1,4 @@
+60,125,3
+dear,1
+lala,1
+girdharilal,1

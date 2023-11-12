@@ -1,0 +1,13 @@
+69,457,1
+nothing,1
+can,1
+be,2
+arranged,1
+for,1
+khan,1
+saheb,1
+whatever,1
+is,1
+done,1
+shoud,1
+spontaneous,1

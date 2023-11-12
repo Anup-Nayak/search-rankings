@@ -1,0 +1,9 @@
+11,257,14
+present,1
+association,1
+not,1
+with,1
+a,1
+view,1
+to,1
+hinder,1

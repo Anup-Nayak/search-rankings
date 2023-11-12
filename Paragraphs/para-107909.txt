@@ -1,0 +1,12 @@
+31,484,22
+giving,1
+to,1
+what,1
+is,1
+temporary,1
+and,2
+unimportant,1
+preference,1
+over,1
+the,1
+permanent,1

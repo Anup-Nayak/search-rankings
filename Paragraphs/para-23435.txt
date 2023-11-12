@@ -1,0 +1,9 @@
+8,57,4
+the,3
+magistrate,1
+said,1
+evidence,1
+did,1
+not,1
+affect,1
+position,1

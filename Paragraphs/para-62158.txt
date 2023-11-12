@@ -1,0 +1,6 @@
+17,402,12
+custody,1
+constables,1
+severely,1
+assaulted,1
+police,1

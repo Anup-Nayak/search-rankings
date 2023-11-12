@@ -1,0 +1,7 @@
+33,289,15
+perfect,2
+condition,1
+peace,1
+please,1
+break,1
+your,1

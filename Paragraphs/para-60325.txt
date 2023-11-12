@@ -1,0 +1,7 @@
+17,184,5
+2,1
+from,1
+the,2
+entry,1
+in,1
+diary,1

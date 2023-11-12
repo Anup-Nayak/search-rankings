@@ -1,0 +1,6 @@
+60,456,4
+god,1
+spare,1
+you,1
+wire,1
+condition,1

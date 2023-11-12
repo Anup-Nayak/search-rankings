@@ -1,0 +1,13 @@
+78,56,7
+villagers,1
+must,1
+be,1
+made,1
+to,1
+realize,1
+their,1
+own,1
+inherent,1
+strength,1
+and,2
+capacities,1

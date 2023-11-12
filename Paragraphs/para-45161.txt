@@ -1,0 +1,7 @@
+13,429,8
+terdays,1
+durban,1
+resolutions,1
+impossible,1
+accept,1
+commis,1

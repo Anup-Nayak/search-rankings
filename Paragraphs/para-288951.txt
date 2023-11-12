@@ -1,0 +1,17 @@
+77,111,16
+1,1
+at,1
+the,1
+congress,1
+working,2
+committee,1
+meeting,1
+on,1
+september,1
+14,2
+1939,2
+vide,1
+appendix,1
+committees,1
+manifesto,1
+9,1

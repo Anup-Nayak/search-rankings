@@ -1,0 +1,11 @@
+42,38,2
+yours,1
+sincerely,1
+dr,1
+zakir,1
+husain,1
+jamia,1
+millia,1
+karol,1
+bagh,1
+delhi,1

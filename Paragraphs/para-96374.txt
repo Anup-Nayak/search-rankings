@@ -1,0 +1,11 @@
+28,356,6
+m,1
+k,1
+gandhi,1
+mr,1
+w,1
+poton,1
+111a,1
+russa,1
+road,1
+calcutta,1

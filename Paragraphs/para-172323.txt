@@ -1,0 +1,14 @@
+49,325,4
+bapu,1
+ps,1
+if,1
+you,1
+cannot,1
+attend,1
+to,1
+cotton,1
+let,1
+someone,1
+else,1
+do,1
+it,1

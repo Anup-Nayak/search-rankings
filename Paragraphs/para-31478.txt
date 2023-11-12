@@ -1,0 +1,17 @@
+10,224,8
+sir,1
+i,1
+have,1
+the,4
+honour,1
+to,2
+draw,1
+attention,1
+of,2
+earl,1
+crewe,1
+following,1
+cablegram,1
+received,1
+from,1
+rangoon,1

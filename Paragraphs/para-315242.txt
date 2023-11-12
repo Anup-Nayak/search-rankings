@@ -1,0 +1,14 @@
+82,401,19
+g,1
+yes,1
+but,1
+that,1
+is,2
+impossible,1
+as,2
+long,1
+the,1
+third,1
+power,1
+england,1
+here,1

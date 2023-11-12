@@ -1,0 +1,11 @@
+2,78,8
+regularly,1
+every,1
+day,1
+ventilated,1
+cleaned,1
+and,2
+disinfected,1
+throughout,1
+all,1
+quarantine,1

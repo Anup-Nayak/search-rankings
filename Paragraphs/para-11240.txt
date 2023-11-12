@@ -1,0 +1,15 @@
+4,382,6
+tayob,1
+sheth,1
+will,1
+not,2
+require,1
+a,1
+permit,1
+so,1
+you,1
+have,1
+to,1
+worry,1
+about,1
+that,1

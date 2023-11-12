@@ -1,0 +1,6 @@
+72,283,1
+363,1
+doing,1
+not,1
+idle,1
+thinking,1

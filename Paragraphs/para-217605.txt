@@ -1,0 +1,14 @@
+60,64,4
+85,1
+letter,1
+to,1
+j,1
+s,1
+m,1
+joseph,1
+and,1
+helen,1
+konard,1
+march,1
+17,1
+1933,1

@@ -1,0 +1,4 @@
+18,462,5
+letter,1
+from,1
+pennsylvanian,1

@@ -1,0 +1,8 @@
+42,254,7
+292,1
+letter,1
+to,1
+c,1
+s,1
+vishwanatha,1
+iyer,1

@@ -1,0 +1,6 @@
+21,260,2
+149,1
+interview,1
+on,1
+indians,1
+abroad,1

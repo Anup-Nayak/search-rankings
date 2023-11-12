@@ -1,0 +1,13 @@
+23,415,4
+one,1
+the,2
+increase,1
+resulting,1
+in,1
+loss,1
+of,1
+public,1
+morals,1
+health,1
+and,1
+wealth,1

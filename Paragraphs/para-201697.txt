@@ -1,0 +1,10 @@
+56,342,2
+miss,1
+mary,1
+barr,1
+karim,1
+nagar,1
+h,2
+e,1
+nizams,1
+dominions,1

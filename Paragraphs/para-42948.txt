@@ -1,0 +1,8 @@
+13,145,17
+mention,1
+was,1
+made,1
+about,1
+south,1
+africa,1
+born,1

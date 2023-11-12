@@ -1,0 +1,7 @@
+79,313,9
+from,1
+my,1
+press,1
+statements,1
+sentences,1
+which,1

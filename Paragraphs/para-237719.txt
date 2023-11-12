@@ -1,0 +1,13 @@
+65,29,1
+looked,1
+after,1
+and,1
+treated,1
+in,3
+ahmedabad,2
+there,1
+are,1
+facilities,1
+regard,1
+to,1
+both,1

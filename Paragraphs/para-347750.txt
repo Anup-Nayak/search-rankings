@@ -1,0 +1,4 @@
+90,130,5
+reaching,1
+delhi,1
+3rd,1

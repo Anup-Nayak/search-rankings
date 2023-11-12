@@ -1,0 +1,17 @@
+5,118,8
+1,1
+the,2
+gujarati,1
+original,1
+has,2
+this,1
+resulted,1
+in,1
+government,1
+cutting,1
+its,1
+own,1
+foot,1
+with,1
+an,1
+axe,1

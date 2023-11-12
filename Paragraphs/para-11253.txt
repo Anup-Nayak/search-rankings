@@ -1,0 +1,9 @@
+4,383,1
+not,1
+a,1
+single,1
+hard,1
+word,1
+about,1
+any,1
+religion,1

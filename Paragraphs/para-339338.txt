@@ -1,0 +1,7 @@
+88,111,5
+radhakant,1
+malaviya,1
+18,1
+hamilton,1
+road,1
+allahabad,1

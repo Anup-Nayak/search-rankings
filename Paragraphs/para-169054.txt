@@ -1,0 +1,13 @@
+48,393,4
+1,1
+the,1
+addressee,1
+had,1
+been,1
+ailing,1
+and,1
+was,1
+receiving,1
+treatment,1
+in,1
+bombay,1

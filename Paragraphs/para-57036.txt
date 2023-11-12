@@ -1,0 +1,10 @@
+16,312,6
+1,1
+vide,1
+the,1
+concluding,1
+sentence,1
+in,1
+leaflet,1
+no,1
+9,1

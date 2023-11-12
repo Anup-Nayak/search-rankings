@@ -1,0 +1,8 @@
+52,166,14
+carl,1
+j,1
+brunskog,1
+lilla,1
+nygatan,1
+4,1
+stockholm,1

@@ -1,0 +1,8 @@
+38,64,2
+50,1
+speech,1
+at,1
+public,1
+meeting,1
+ramna,1
+1,1

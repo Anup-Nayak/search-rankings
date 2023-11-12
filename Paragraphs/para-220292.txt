@@ -1,0 +1,7 @@
+60,408,10
+489,1
+letter,1
+to,1
+rash,1
+behary,1
+chatterjee,1

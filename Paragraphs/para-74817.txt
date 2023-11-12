@@ -1,0 +1,8 @@
+21,401,2
+1,1
+tribe,1
+in,1
+central,1
+india,1
+and,1
+gujarat,1

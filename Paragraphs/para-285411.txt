@@ -1,0 +1,15 @@
+76,173,4
+2,1
+neither,1
+is,1
+it,1
+a,1
+propagandic,1
+survey,1
+to,2
+gather,1
+evidence,1
+prove,1
+pre,1
+conceived,1
+theories,1

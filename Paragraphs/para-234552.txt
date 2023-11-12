@@ -1,0 +1,14 @@
+64,133,12
+on,1
+sunday,1
+morning,1
+mahatma,1
+gandhi,1
+had,1
+a,1
+heart,2
+to,1
+talk,1
+with,1
+the,1
+sind,1

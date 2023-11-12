@@ -1,0 +1,13 @@
+42,440,3
+john,1
+haynes,1
+holmes,1
+12,1
+park,1
+avenue,1
+new,1
+york,1
+city,1
+u,1
+s,1
+a,1

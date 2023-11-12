@@ -1,0 +1,8 @@
+13,377,9
+241,1
+letter,1
+to,1
+minister,1
+of,1
+interior,1
+2,1

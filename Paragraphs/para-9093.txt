@@ -1,0 +1,7 @@
+4,50,7
+44,1
+foot,1
+paths,1
+in,1
+the,1
+transvaal,1

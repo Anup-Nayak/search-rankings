@@ -1,0 +1,9 @@
+77,86,11
+1,1
+to,1
+attend,1
+the,1
+congress,1
+working,1
+committee,1
+meeting,1

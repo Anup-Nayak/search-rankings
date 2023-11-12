@@ -1,0 +1,7 @@
+42,20,2
+sabarmati,1
+ashram,1
+wednesday,1
+may,1
+12,1
+1928,1

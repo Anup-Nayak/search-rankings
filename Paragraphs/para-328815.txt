@@ -1,0 +1,7 @@
+86,18,5
+34,1
+letter,1
+to,1
+jayakunwar,1
+m,1
+doctor,1

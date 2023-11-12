@@ -1,0 +1,6 @@
+40,382,4
+261,1
+varnashrama,1
+and,1
+its,1
+distortion,1

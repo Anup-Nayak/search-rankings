@@ -1,0 +1,16 @@
+67,101,10
+i,1
+had,1
+your,2
+very,1
+graphic,1
+letter,1
+take,1
+proper,1
+care,1
+of,1
+health,1
+do,1
+not,1
+forget,1
+vadaj,1

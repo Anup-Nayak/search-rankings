@@ -1,0 +1,14 @@
+76,303,5
+bear,1
+fruit,1
+moreover,1
+the,1
+weavers,1
+use,1
+foreign,1
+yarn,1
+as,1
+well,1
+side,2
+by,1
+with,1

@@ -1,0 +1,4 @@
+65,55,3
+dear,1
+dr,1
+satyapal,1

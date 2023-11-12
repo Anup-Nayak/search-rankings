@@ -1,0 +1,14 @@
+94,358,3
+zakir,1
+husain,1
+we,1
+are,1
+faced,1
+with,1
+a,2
+great,1
+difficulty,1
+to,1
+run,1
+school,1
+under,1

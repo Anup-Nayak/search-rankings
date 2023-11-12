@@ -1,0 +1,7 @@
+26,412,3
+june,1
+21,1
+wednesday,1
+finished,1
+reading,1
+faust,1

@@ -1,0 +1,7 @@
+53,395,3
+441,1
+speech,1
+at,1
+guildhouse,1
+church,1
+2,1

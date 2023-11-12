@@ -1,0 +1,9 @@
+7,40,2
+separate,1
+impressions,1
+of,1
+the,1
+left,1
+hand,1
+as,1
+above,1

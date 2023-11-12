@@ -1,0 +1,15 @@
+59,513,10
+your,1
+letter,1
+is,1
+always,1
+a,2
+tonic,1
+and,1
+when,1
+it,2
+comes,1
+after,1
+long,1
+interval,1
+brings,1

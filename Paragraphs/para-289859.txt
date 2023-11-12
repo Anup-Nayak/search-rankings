@@ -1,0 +1,11 @@
+77,235,7
+1,1
+lakshmidas,1
+purushottam,1
+asar,1
+an,1
+ashram,1
+inmate,1
+and,1
+khadi,1
+expert,1

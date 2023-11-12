@@ -1,0 +1,10 @@
+86,76,7
+march,1
+20,1
+1945,1
+read,1
+my,1
+article,1
+on,1
+the,1
+subject,1

@@ -1,0 +1,8 @@
+33,325,10
+2,1
+at,1
+the,2
+morning,1
+prayer,1
+in,1
+ashram,1

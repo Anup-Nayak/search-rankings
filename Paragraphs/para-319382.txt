@@ -1,0 +1,8 @@
+84,5,3
+shrimati,1
+vijayalakshmi,1
+pandit,1
+2,1
+mukherji,1
+road,1
+allahabad,1

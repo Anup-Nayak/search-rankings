@@ -1,0 +1,7 @@
+35,190,6
+mohandas,1
+gandhi,1
+bhaishree,1
+paramanand,1
+kunverji,1
+bhavnagar,1

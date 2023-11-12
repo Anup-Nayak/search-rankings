@@ -1,0 +1,8 @@
+82,163,4
+197,1
+talk,1
+with,1
+an,1
+australian,1
+journalist,1
+1,1

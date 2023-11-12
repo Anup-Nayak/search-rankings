@@ -1,0 +1,8 @@
+50,84,10
+128,1
+letter,1
+to,1
+gangabehn,1
+jhaveri,2
+and,1
+nanibehn,1

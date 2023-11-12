@@ -1,0 +1,6 @@
+11,311,9
+fair,1
+interview,2
+hopeful,1
+further,1
+probable,1

@@ -1,0 +1,17 @@
+93,1,3
+g,1
+but,1
+the,2
+individual,1
+there,1
+is,2
+not,1
+alone,1
+he,1
+backed,1
+by,1
+machinery,1
+of,1
+his,1
+little,1
+state,1

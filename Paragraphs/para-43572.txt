@@ -1,0 +1,17 @@
+13,219,8
+1,1
+the,3
+reference,1
+is,1
+to,1
+strike,1
+in,2
+johannesburg,2
+gold,1
+mine,1
+area,1
+vide,1
+riot,1
+12,1
+7,1
+1913,1

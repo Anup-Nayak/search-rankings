@@ -1,0 +1,8 @@
+66,250,4
+363,1
+speech,1
+at,1
+kitchen,1
+meeting,1
+wardha,1
+1,1

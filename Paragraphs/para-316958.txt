@@ -1,0 +1,13 @@
+83,113,6
+1,1
+this,1
+was,1
+published,1
+in,1
+three,1
+japanese,1
+newspapersnichi,1
+nichi,1
+yomiuri,1
+and,1
+miyako,1

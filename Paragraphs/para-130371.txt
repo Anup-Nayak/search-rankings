@@ -1,0 +1,13 @@
+38,154,7
+priest,1
+of,1
+dheds,2
+and,3
+bhils,1
+please,1
+do,2
+come,1
+bring,1
+bhangis,1
+along,1
+with,1

@@ -1,0 +1,7 @@
+76,128,10
+your,1
+wire,1
+unbelievable,1
+have,1
+unhappy,1
+experiences,1

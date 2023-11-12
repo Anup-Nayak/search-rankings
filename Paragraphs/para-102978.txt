@@ -1,0 +1,11 @@
+30,215,16
+q,1
+when,1
+negotiations,1
+were,2
+going,1
+on,1
+at,1
+peshawar,1
+you,1
+there,1

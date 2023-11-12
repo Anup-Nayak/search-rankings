@@ -1,0 +1,6 @@
+92,419,14
+they,1
+are,1
+not,1
+sufficiently,1
+used,1

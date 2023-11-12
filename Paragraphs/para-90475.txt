@@ -1,0 +1,8 @@
+27,19,4
+sorry,1
+you,2
+have,1
+fever,1
+again,1
+hope,1
+will,1

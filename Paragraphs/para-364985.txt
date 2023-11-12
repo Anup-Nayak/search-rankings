@@ -1,0 +1,13 @@
+94,218,13
+young,1
+man,1
+give,1
+us,1
+four,1
+minutes,1
+we,1
+would,1
+like,1
+to,2
+talk,1
+you,1

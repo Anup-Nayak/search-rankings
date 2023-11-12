@@ -1,0 +1,11 @@
+96,346,3
+homes,2
+who,1
+had,2
+been,2
+driven,1
+away,1
+or,2
+whose,1
+looted,1
+destroyed,1

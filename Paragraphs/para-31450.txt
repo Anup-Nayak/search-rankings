@@ -1,0 +1,14 @@
+10,221,10
+from,1
+a,1
+photostat,1
+of,1
+the,1
+handwritten,1
+original,1
+signed,1
+by,1
+gandhiji,1
+c,1
+w,1
+4439,1

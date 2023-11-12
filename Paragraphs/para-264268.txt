@@ -1,0 +1,7 @@
+71,105,6
+2,1
+from,1
+the,1
+congress,1
+working,1
+committee,1

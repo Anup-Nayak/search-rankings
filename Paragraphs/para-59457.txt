@@ -1,0 +1,10 @@
+17,74,18
+the,2
+commission,1
+ranks,1
+in,1
+indian,1
+army,1
+are,1
+not,1
+yet,1

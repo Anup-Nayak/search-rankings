@@ -1,0 +1,5 @@
+66,139,12
+the,1
+editor,1
+nispruha,1
+nagpur,1

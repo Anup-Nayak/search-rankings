@@ -1,0 +1,8 @@
+29,69,7
+50,1
+speech,1
+at,1
+national,1
+medical,1
+college,1
+bombay,1

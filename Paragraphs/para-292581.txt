@@ -1,0 +1,12 @@
+78,106,6
+q,1
+you,2
+stand,1
+for,1
+the,2
+poor,1
+and,1
+helpless,1
+would,1
+not,1
+include,1

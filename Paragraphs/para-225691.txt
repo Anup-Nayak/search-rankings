@@ -1,0 +1,13 @@
+61,487,16
+not,1
+agree,1
+with,1
+mr,1
+gandhis,1
+policy,1
+in,1
+this,1
+matter,1
+against,1
+his,1
+being,1

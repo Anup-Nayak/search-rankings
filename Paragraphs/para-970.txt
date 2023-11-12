@@ -1,0 +1,6 @@
+1,193,1
+quoted,1
+in,1
+the,1
+franchise,1
+petition,1

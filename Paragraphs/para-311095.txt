@@ -1,0 +1,14 @@
+82,103,11
+power,1
+does,1
+not,2
+come,1
+to,1
+those,1
+who,1
+have,1
+disciplined,1
+themselves,1
+at,1
+the,1
+last,1

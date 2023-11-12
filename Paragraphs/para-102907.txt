@@ -1,0 +1,8 @@
+30,212,6
+q,1
+was,1
+there,1
+no,1
+gun,1
+with,1
+anybody,1

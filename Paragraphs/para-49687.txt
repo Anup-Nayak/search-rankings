@@ -1,0 +1,8 @@
+14,470,15
+disorder,1
+is,2
+comparatively,1
+easy,1
+but,1
+it,1
+no,1

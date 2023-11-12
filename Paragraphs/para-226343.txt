@@ -1,0 +1,13 @@
+62,73,4
+blessings,1
+from,1
+bapu,1
+smt,1
+rama,1
+devi,1
+chowdhary,1
+2,1
+chandni,1
+chowk,1
+cuttack,1
+orissa,1

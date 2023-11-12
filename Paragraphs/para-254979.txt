@@ -1,0 +1,8 @@
+68,409,8
+conference,1
+succeed,1
+and,2
+solve,1
+temple,1
+entry,1
+other,1

@@ -1,0 +1,17 @@
+12,114,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+ps,1
+the,2
+full,1
+text,1
+of,1
+germiston,1
+judgment,1
+herewith,1
+should,1
+be,1
+reproduced,1

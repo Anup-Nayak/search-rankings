@@ -1,0 +1,6 @@
+41,61,7
+75,1
+the,1
+indraraj,1
+spinning,1
+wheel,1

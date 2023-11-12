@@ -1,0 +1,15 @@
+60,146,2
+a,2
+bengali,1
+professor,1
+1,1
+writes,1
+long,1
+letter,1
+from,1
+which,1
+i,1
+take,1
+the,1
+following,1
+extracts,1

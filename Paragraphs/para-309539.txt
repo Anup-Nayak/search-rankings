@@ -1,0 +1,6 @@
+81,477,4
+735,1
+letter,1
+to,1
+prema,1
+kantak,1

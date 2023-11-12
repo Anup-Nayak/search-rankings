@@ -1,0 +1,6 @@
+30,198,18
+q,1
+when,1
+did,1
+this,1
+happen,1

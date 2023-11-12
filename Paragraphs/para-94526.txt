@@ -1,0 +1,3 @@
+28,51,2
+growing,1
+distrust,1

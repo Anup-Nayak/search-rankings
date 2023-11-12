@@ -1,0 +1,15 @@
+24,453,10
+1,1
+graduate,1
+of,2
+the,1
+gujarat,1
+vidyapith,1
+a,1
+national,1
+university,1
+ahmedabad,1
+established,1
+in,1
+october,1
+1920,1

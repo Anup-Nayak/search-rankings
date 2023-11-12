@@ -1,0 +1,6 @@
+49,290,17
+be,1
+left,1
+for,1
+future,1
+discussion,1

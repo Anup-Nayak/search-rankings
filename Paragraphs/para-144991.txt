@@ -1,0 +1,8 @@
+42,243,2
+there,1
+was,1
+none,1
+bad,1
+in,1
+our,1
+eyes,1

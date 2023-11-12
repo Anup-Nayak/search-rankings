@@ -1,0 +1,10 @@
+82,107,10
+gram,1
+panchayats,1
+in,1
+aundh,1
+the,1
+raja,1
+saheb,1
+writes,1
+1,1

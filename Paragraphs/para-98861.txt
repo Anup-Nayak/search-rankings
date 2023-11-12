@@ -1,0 +1,7 @@
+29,185,5
+cancellation,2
+fast,1
+self,1
+am,1
+fasting,1
+to,1

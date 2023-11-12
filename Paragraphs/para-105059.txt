@@ -1,0 +1,11 @@
+31,69,4
+i,1
+am,1
+sending,1
+you,1
+herewith,1
+something,1
+received,1
+from,1
+a,1
+correspondent,1

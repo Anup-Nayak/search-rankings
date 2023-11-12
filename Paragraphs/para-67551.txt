@@ -1,0 +1,14 @@
+19,242,7
+this,1
+point,1
+looking,1
+back,1
+upon,1
+what,1
+happened,1
+in,1
+the,1
+punjab,1
+and,2
+delhi,1
+other,1

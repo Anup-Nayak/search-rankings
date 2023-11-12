@@ -1,0 +1,5 @@
+32,362,2
+gujaratis,1
+living,1
+outside,1
+gujarat,1

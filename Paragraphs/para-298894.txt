@@ -1,0 +1,9 @@
+79,379,2
+from,1
+hindi,1
+c,1
+w,1
+10745,1
+courtesy,1
+navajivan,1
+trust,1

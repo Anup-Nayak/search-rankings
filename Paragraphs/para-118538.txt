@@ -1,0 +1,13 @@
+35,135,11
+ram,1
+datta,1
+chopra,1
+head,1
+master,1
+d,1
+b,1
+school,1
+janauri,1
+dt,1
+hoshiarpur,1
+punjab,1

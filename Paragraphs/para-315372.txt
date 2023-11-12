@@ -1,0 +1,16 @@
+82,405,20
+l,1
+f,1
+but,1
+surely,1
+the,1
+peasant,1
+would,1
+realize,1
+that,1
+it,1
+was,1
+better,1
+to,1
+repay,1
+money,1

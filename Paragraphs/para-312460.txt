@@ -1,0 +1,16 @@
+82,217,4
+heir,2
+1,1
+how,1
+do,1
+you,1
+like,1
+the,1
+idea,1
+of,1
+your,1
+legal,1
+advocating,1
+guerrilla,1
+warfare,1
+against,1

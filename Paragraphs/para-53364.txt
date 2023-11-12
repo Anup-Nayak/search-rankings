@@ -1,0 +1,10 @@
+15,365,1
+301,1
+report,1
+on,1
+condition,1
+of,1
+ryots,1
+in,1
+champaran,1
+1,1

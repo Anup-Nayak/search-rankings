@@ -1,0 +1,10 @@
+12,356,4
+bapubhai,1
+daulatrai,1
+medh,1
+raipur,1
+akasheths,1
+kuva,1
+pol,1
+ahmedabad,1
+gujarati,1

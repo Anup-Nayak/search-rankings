@@ -1,0 +1,8 @@
+47,284,5
+doctor,1
+rajabalis,1
+scheme,1
+approved,1
+hope,1
+you,1
+well,1

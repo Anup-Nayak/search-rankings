@@ -1,0 +1,12 @@
+25,342,3
+the,1
+subjects,1
+committee,1
+had,1
+its,1
+final,1
+sitting,1
+today,1
+and,1
+before,1
+adjourning,1

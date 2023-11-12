@@ -1,0 +1,13 @@
+59,512,7
+wrong,1
+and,1
+unjust,1
+to,1
+decide,1
+a,1
+question,1
+which,1
+is,1
+one,1
+of,1
+religion,1

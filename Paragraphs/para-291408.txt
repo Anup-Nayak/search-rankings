@@ -1,0 +1,14 @@
+77,422,6
+i,1
+next,1
+invited,1
+mr,2
+gandhi,1
+dr,1
+rajendra,1
+prasad,1
+and,1
+jinnah,1
+to,2
+come,1
+see,1

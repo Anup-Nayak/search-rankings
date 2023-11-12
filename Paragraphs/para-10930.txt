@@ -1,0 +1,6 @@
+4,349,14
+dear,1
+sheth,1
+omar,1
+haji,1
+amod,1

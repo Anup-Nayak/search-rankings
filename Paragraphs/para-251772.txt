@@ -1,0 +1,7 @@
+68,60,10
+1,2
+pinjara,1
+muslim,1
+carder,1
+darji,1
+tailor,1

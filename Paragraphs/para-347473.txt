@@ -1,0 +1,7 @@
+90,102,6
+withdraw,1
+threatened,1
+land,1
+and,1
+franchise,1
+mea,1

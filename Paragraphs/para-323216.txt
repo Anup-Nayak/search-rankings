@@ -1,0 +1,12 @@
+84,421,1
+opinion,1
+is,2
+sound,1
+on,1
+merits,1
+that,1
+my,1
+view,1
+of,1
+real,1
+democracy,1

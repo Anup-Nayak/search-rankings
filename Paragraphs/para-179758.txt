@@ -1,0 +1,15 @@
+51,194,5
+from,1
+minor,1
+and,1
+technical,1
+points,1
+there,1
+were,1
+three,1
+main,1
+matters,1
+of,1
+principle,1
+on,1
+which,1

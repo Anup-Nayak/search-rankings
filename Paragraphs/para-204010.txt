@@ -1,0 +1,8 @@
+57,115,10
+warrant,1
+my,1
+breaking,1
+the,2
+fast,2
+epic,1
+p,1

@@ -1,0 +1,10 @@
+44,503,15
+t2,1
+for,1
+to,1
+some,1
+extent,1
+reach,2
+guj,1
+has,1
+also,1

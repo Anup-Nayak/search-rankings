@@ -1,0 +1,15 @@
+19,231,2
+you,1
+gave,1
+an,1
+answer,2
+to,1
+mr,1
+guider,1
+and,1
+it,1
+was,2
+really,1
+on,1
+that,2
+i,1

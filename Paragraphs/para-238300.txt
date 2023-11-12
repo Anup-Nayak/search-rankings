@@ -1,0 +1,7 @@
+65,94,1
+106,1
+letter,1
+to,1
+akshaya,1
+kumar,1
+roy,1

@@ -1,0 +1,11 @@
+71,23,2
+and,2
+here,1
+gandhiji,1
+explained,1
+the,1
+distinction,1
+between,1
+caste,1
+varna,1
+which,1

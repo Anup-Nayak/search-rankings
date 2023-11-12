@@ -1,0 +1,6 @@
+5,33,3
+26,1
+attack,1
+on,1
+yellow,1
+skin,1

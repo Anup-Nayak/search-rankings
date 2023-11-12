@@ -1,0 +1,10 @@
+94,31,20
+nothing,1
+else,1
+this,1
+applied,1
+to,1
+the,1
+namasudras,1
+as,1
+well,1

@@ -1,0 +1,7 @@
+20,442,2
+resolutions,1
+passed,1
+at,1
+khilafat,1
+committee,1
+meeting,1

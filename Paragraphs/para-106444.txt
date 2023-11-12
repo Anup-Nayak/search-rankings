@@ -1,0 +1,7 @@
+31,266,3
+2,1
+vedic,1
+prayer,1
+to,1
+sun,1
+god,1

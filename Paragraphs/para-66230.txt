@@ -1,0 +1,9 @@
+19,55,10
+2,1
+this,1
+was,1
+published,1
+in,1
+several,1
+leading,1
+newspapers,1

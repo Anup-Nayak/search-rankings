@@ -1,0 +1,9 @@
+80,52,3
+90,1
+letter,1
+to,1
+sultana,1
+qureshi,1
+and,1
+kusum,1
+gandhi,1

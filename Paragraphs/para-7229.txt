@@ -1,0 +1,9 @@
+3,182,2
+who,1
+held,1
+licenses,1
+beginning,1
+year,1
+do,1
+not,1
+get,1

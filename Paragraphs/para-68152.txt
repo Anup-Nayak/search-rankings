@@ -1,0 +1,17 @@
+19,306,4
+1,1
+a,1
+45,1
+foot,1
+high,1
+national,1
+memorial,1
+depicting,1
+the,3
+flame,1
+of,2
+liberty,1
+now,1
+marks,1
+site,1
+tragedy,1

@@ -1,0 +1,16 @@
+92,5,8
+friend,1
+you,1
+have,1
+called,1
+mine,1
+a,1
+negative,1
+attitude,1
+but,1
+i,1
+am,1
+quite,1
+clear,1
+in,1
+my,1

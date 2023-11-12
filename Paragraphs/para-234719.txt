@@ -1,0 +1,11 @@
+64,147,5
+1,1
+this,1
+appeared,1
+under,1
+the,2
+title,1
+to,1
+students,1
+of,1
+karachi,1

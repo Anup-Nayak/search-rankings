@@ -1,0 +1,17 @@
+96,392,6
+bapu,1
+had,1
+your,1
+letter,1
+but,1
+he,2
+is,1
+not,2
+able,1
+to,2
+reply,1
+as,1
+has,1
+a,1
+minute,1
+spare,1

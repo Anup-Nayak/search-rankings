@@ -1,0 +1,8 @@
+71,419,5
+extracts,1
+from,1
+the,1
+congress,1
+election,1
+manifesto,1
+1,1

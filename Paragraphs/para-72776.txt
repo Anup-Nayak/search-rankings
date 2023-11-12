@@ -1,0 +1,14 @@
+21,40,19
+representative,1
+to,1
+meet,1
+the,1
+unfortunate,1
+people,1
+who,1
+had,1
+come,1
+here,1
+and,1
+among,1
+whom,1

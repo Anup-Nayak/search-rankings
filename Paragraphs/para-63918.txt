@@ -1,0 +1,8 @@
+18,155,3
+instructions,1
+for,1
+satyagrahis,1
+in,2
+terms,1
+and,1
+virtue,1

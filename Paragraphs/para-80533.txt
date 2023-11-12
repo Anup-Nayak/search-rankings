@@ -1,0 +1,5 @@
+23,371,5
+171,1
+telegram,1
+to,1
+navajivan,1

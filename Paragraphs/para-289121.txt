@@ -1,0 +1,11 @@
+77,140,5
+situation,1
+most,1
+critical,1
+government,1
+policy,1
+not,1
+firm,1
+pray,1
+send,1
+enquiry,1

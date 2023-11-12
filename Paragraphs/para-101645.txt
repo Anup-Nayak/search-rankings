@@ -1,0 +1,6 @@
+30,42,3
+27,1
+letter,1
+t0,1
+rehana,1
+tyabji,1

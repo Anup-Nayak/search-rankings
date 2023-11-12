@@ -1,0 +1,9 @@
+14,473,17
+as,1
+to,2
+the,2
+beneficial,1
+results,1
+likely,1
+follow,1
+from,1

@@ -1,0 +1,11 @@
+45,74,2
+yours,1
+sincerely,1
+dr,1
+parashuram,1
+punjab,1
+p,1
+c,2
+bradlaugh,1
+hall,1
+lahore,1

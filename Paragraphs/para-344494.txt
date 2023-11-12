@@ -1,0 +1,17 @@
+89,217,9
+1,1
+the,3
+letter,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+brother,1
+of,1
+kailash,1
+d,1
+master,1
+vide,1
+preceding,1
+item,1

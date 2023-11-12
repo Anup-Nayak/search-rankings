@@ -1,0 +1,4 @@
+26,69,2
+more,1
+written,1
+newspapers,1

@@ -1,0 +1,7 @@
+25,161,5
+sabarmati,1
+tuesday,1
+november,1
+29,1
+1921,1
+1,1

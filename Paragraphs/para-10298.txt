@@ -1,0 +1,12 @@
+4,267,2
+johannesburg,1
+may,1
+11,1
+1905,1
+omar,1
+haji,1
+amod,1
+esq,1
+box,1
+441,1
+durban,1

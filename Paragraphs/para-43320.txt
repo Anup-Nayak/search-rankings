@@ -1,0 +1,6 @@
+13,181,8
+hopeful,1
+failing,1
+settlement,1
+passive,1
+resistance,1

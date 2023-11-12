@@ -1,0 +1,10 @@
+82,399,23
+to,1
+be,1
+brief,1
+direct,1
+and,1
+squeeze,1
+out,1
+the,1
+water,1

@@ -1,0 +1,16 @@
+31,44,9
+in,2
+the,1
+morning,1
+and,1
+evening,1
+he,1
+was,1
+sorry,1
+to,1
+see,1
+most,1
+of,1
+them,1
+dressed,1
+dirty,1

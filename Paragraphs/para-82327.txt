@@ -1,0 +1,9 @@
+24,174,8
+1,1
+the,1
+masculine,1
+form,1
+of,1
+nadi,1
+meaning,1
+river,1

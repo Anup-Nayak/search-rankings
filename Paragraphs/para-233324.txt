@@ -1,0 +1,12 @@
+64,1,10
+mahatmajis,1
+car,1
+smashing,1
+the,2
+glass,1
+window,1
+demonstration,1
+today,1
+at,1
+this,1
+place,1

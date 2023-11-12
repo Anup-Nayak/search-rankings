@@ -1,0 +1,4 @@
+14,45,16
+now,1
+more,1
+favourable,1

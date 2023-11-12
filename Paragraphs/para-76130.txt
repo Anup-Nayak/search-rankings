@@ -1,0 +1,16 @@
+22,95,5
+d,1
+is,1
+there,1
+no,1
+danger,1
+of,2
+the,1
+movement,1
+going,1
+out,1
+control,1
+and,1
+leading,1
+to,1
+violence,1

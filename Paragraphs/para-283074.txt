@@ -1,0 +1,14 @@
+75,402,2
+co,1
+worker,1
+whether,1
+we,2
+stand,1
+the,1
+test,1
+or,1
+not,2
+you,1
+alone,1
+can,1
+say,1

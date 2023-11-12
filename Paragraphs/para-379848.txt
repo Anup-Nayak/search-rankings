@@ -1,0 +1,5 @@
+98,364,2
+ashram,1
+bhadrapad,1
+vad,1
+7,1

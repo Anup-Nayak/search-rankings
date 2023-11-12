@@ -1,0 +1,17 @@
+11,42,14
+1,1
+vide,2
+cable,1
+to,1
+royal,1
+family,1
+after,1
+6,1
+5,2
+1910,2
+2,1
+the,1
+supreme,1
+court,1
+case,1
+7,1

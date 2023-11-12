@@ -1,0 +1,7 @@
+89,247,1
+350,1
+letter,1
+to,1
+hari,1
+ganesh,1
+phatak,1

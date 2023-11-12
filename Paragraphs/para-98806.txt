@@ -1,0 +1,5 @@
+29,180,5
+shankerlal,1
+banker,1
+mirzapur,1
+ahmedabad,1

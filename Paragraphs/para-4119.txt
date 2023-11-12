@@ -1,0 +1,6 @@
+2,206,9
+68,1
+brief,1
+for,1
+counsels,1
+opinion,1

@@ -1,0 +1,6 @@
+32,184,2
+128,1
+miscellaneous,1
+visible,1
+v,1
+invisible,1

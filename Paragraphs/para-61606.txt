@@ -1,0 +1,7 @@
+17,332,1
+alarming,1
+require,1
+clear,1
+enunciation,1
+hope,1
+you,1

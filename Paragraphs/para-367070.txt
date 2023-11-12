@@ -1,0 +1,10 @@
+95,51,5
+amrita,1
+bazar,1
+patrika,1
+10,2
+5,2
+1947,2
+and,1
+the,1
+hindu,1

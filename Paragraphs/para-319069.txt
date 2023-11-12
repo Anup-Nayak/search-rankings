@@ -1,0 +1,14 @@
+83,443,5
+try,1
+for,2
+this,1
+and,1
+approach,1
+government,1
+allowing,1
+some,1
+vaidya,1
+to,1
+treat,1
+her,1
+further,1

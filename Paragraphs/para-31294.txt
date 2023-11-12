@@ -1,0 +1,8 @@
+10,195,5
+5,1
+one,1
+line,1
+is,1
+cut,1
+off,1
+here,1

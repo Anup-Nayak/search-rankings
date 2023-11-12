@@ -1,0 +1,6 @@
+61,138,9
+a,1
+harijan,1
+sevak,1
+writes,1
+3,1

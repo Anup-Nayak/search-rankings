@@ -1,0 +1,17 @@
+32,455,3
+any,1
+yarn,1
+paid,1
+to,2
+the,4
+association,2
+for,1
+membership,1
+of,2
+national,1
+congress,1
+shall,1
+be,1
+considered,1
+part,1
+subscription,1

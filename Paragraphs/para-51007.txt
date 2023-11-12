@@ -1,0 +1,14 @@
+15,95,4
+march,1
+5,1
+friday,1
+reached,1
+santiniketan,1
+meeting,1
+with,1
+gurudev,1
+fakiri,1
+had,1
+temperature,1
+on,1
+way,1

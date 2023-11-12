@@ -1,0 +1,6 @@
+69,294,1
+truth,1
+untruth,1
+and,1
+violence,2
+non,1

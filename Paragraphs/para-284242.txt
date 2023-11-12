@@ -1,0 +1,17 @@
+76,40,11
+1,1
+gandhiji,1
+returned,1
+from,1
+a,1
+tour,1
+of,1
+the,2
+frontier,1
+province,1
+on,2
+july,1
+27,1
+reaching,1
+segaon,1
+28th,1

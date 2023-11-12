@@ -1,0 +1,6 @@
+25,297,7
+no,1
+difficulty,1
+shraddha,1
+2,1
+gandhi,1

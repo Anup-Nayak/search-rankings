@@ -1,0 +1,13 @@
+70,201,16
+1,1
+this,1
+was,1
+also,1
+reported,1
+by,1
+the,3
+hindu,1
+hindustan,1
+times,1
+and,1
+hitavada,1

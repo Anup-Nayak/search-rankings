@@ -1,0 +1,9 @@
+72,184,6
+thirty,1
+was,1
+received,1
+after,1
+seven,2
+today,1
+please,1
+wire,1

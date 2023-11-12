@@ -1,0 +1,14 @@
+29,165,10
+bapu,1
+chi,1
+rukmini,1
+gandhi,2
+c/o,1
+shri,1
+khushalbhai,1
+opposite,1
+middle,1
+school,1
+navu,1
+paru,1
+rajkot,1

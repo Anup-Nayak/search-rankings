@@ -1,0 +1,3 @@
+70,290,4
+spinners,1
+wages,1

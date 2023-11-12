@@ -1,0 +1,7 @@
+8,40,5
+gandhiji,1
+are,1
+you,1
+a,1
+british,1
+subject,1

@@ -1,0 +1,8 @@
+14,466,32
+smuts,1
+that,1
+solomon,1
+did,1
+not,1
+succeed,1
+in,1

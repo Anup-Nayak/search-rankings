@@ -1,0 +1,3 @@
+49,130,10
+bhaishri,1
+munshi,1

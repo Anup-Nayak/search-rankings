@@ -1,0 +1,5 @@
+75,23,12
+government,1
+communique,1
+wholly,1
+unsatisfactory,1

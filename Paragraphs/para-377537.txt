@@ -1,0 +1,12 @@
+98,81,2
+1,1
+the,1
+all,1
+india,1
+compost,2
+conference,1
+vide,1
+manure,1
+21,1
+12,1
+1947,1

@@ -1,0 +1,7 @@
+82,402,33
+india,1
+is,1
+ninety,1
+per,1
+cent,1
+village,1

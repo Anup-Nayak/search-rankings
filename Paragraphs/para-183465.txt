@@ -1,0 +1,4 @@
+52,143,13
+wire,1
+reply,1
+nainital,1

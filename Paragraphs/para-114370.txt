@@ -1,0 +1,16 @@
+33,470,5
+fishermen,1
+bhui,1
+malis,1
+sweepers,1
+dhopas,1
+washermen,1
+muchis,1
+or,1
+reshees,1
+cobblers,1
+and,2
+drummers,1
+kapaliks,1
+namsudras,1
+others,1

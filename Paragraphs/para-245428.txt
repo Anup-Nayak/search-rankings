@@ -1,0 +1,14 @@
+66,343,11
+blessings,1
+from,1
+bapu,1
+shri,1
+annapurna,1
+kumari,1
+c/o,1
+gopa,1
+bandhu,1
+chowdhry,1
+bari,1
+dist,1
+cuttack,1

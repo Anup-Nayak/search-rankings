@@ -1,0 +1,10 @@
+80,422,4
+i,1
+consider,1
+the,3
+language,1
+of,1
+order,1
+vague,1
+and,1
+restrictions,1

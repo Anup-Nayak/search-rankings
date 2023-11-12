@@ -1,0 +1,15 @@
+82,401,10
+silence,1
+is,2
+very,1
+relaxing,2
+it,1
+not,1
+in,1
+itself,1
+but,1
+when,1
+you,1
+can,1
+talk,1
+and,1

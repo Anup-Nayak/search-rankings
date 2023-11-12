@@ -1,0 +1,6 @@
+85,197,1
+inner,1
+voice,1
+which,1
+is,1
+god,1

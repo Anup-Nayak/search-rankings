@@ -1,0 +1,10 @@
+25,27,4
+1,1
+in,2
+saurashtra,1
+2,1
+share,1
+state,1
+lands,1
+as,1
+inheritance,1

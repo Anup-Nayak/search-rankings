@@ -1,0 +1,17 @@
+93,232,14
+gandhiji,1
+pointed,1
+out,1
+that,1
+he,1
+would,1
+not,1
+like,1
+schools,1
+to,1
+be,1
+run,1
+on,1
+the,1
+same,1
+old,1

@@ -1,0 +1,5 @@
+33,105,2
+necessity,1
+of,1
+bodily,1
+labour,1

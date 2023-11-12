@@ -1,0 +1,14 @@
+13,286,4
+3,2
+the,1
+tax,1
+upon,1
+ex,1
+indentured,1
+men,1
+women,1
+and,1
+children,1
+is,1
+not,1
+removed,1

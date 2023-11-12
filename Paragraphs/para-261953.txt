@@ -1,0 +1,6 @@
+70,243,7
+g,1
+that,1
+is,1
+not,1
+enough,1

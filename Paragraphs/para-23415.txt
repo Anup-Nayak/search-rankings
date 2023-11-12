@@ -1,0 +1,13 @@
+8,56,6
+regis,1
+tration,1
+ordinance,1
+by,1
+not,1
+being,1
+in,1
+possession,1
+of,2
+a,1
+certificate,1
+registration,1

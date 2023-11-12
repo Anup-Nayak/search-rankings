@@ -1,0 +1,12 @@
+42,93,2
+gods,1
+way,1
+is,1
+for,2
+the,2
+brave,1
+it,1
+has,1
+no,1
+room,1
+coward,1

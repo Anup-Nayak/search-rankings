@@ -1,0 +1,4 @@
+8,128,6
+prison,1
+gates,1
+open,1

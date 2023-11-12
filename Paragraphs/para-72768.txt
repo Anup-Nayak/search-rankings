@@ -1,0 +1,13 @@
+21,40,11
+to,1
+say,1
+that,2
+in,2
+receiving,1
+the,1
+treatment,1
+our,1
+countrymen,1
+did,1
+british,1
+dominions,1

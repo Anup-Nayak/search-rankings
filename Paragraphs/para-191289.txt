@@ -1,0 +1,14 @@
+54,46,2
+q,1
+sometimes,1
+we,1
+have,1
+found,1
+it,1
+difficult,1
+to,1
+reconcile,1
+the,1
+special,1
+form,1
+of,1

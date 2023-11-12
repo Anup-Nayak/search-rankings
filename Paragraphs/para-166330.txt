@@ -1,0 +1,10 @@
+47,455,9
+people,1
+to,2
+do,1
+everything,1
+increase,1
+their,1
+strength,1
+and,1
+organization,1

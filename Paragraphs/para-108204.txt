@@ -1,0 +1,8 @@
+32,45,4
+2,1
+a,1
+to,1
+spread,1
+education,1
+amongst,1
+themselves,1

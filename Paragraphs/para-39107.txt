@@ -1,0 +1,17 @@
+12,132,5
+an,1
+evening,1
+chronicle,1
+man,1
+interviewed,1
+mr,1
+gandhi,1
+on,1
+the,2
+questions,1
+of,1
+trading,1
+licence,1
+smallpox,1
+outbreak,1
+etc,1

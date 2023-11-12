@@ -1,0 +1,17 @@
+6,0,8
+1,1
+this,1
+was,1
+drafted,1
+by,1
+gandhiji,1
+vide,2
+letter,2
+to,2
+sir,2
+charles,2
+schwann,3
+7,2
+11,2
+1906,2
+2,1

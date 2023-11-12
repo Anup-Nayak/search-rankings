@@ -1,0 +1,10 @@
+75,56,11
+all,1
+things,1
+considered,1
+i,1
+think,1
+it,1
+would,1
+be,1
+wise,1

@@ -1,0 +1,5 @@
+31,105,4
+64,1
+speech,1
+at,1
+bagasara,1

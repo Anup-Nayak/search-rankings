@@ -1,0 +1,4 @@
+71,58,6
+70,1
+enforced,1
+widowhood,1

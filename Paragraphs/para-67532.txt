@@ -1,0 +1,15 @@
+19,240,13
+1,1
+there,1
+were,1
+acts,1
+of,2
+mob,1
+violence,1
+involving,1
+arson,1
+looting,1
+and,1
+murder,1
+some,1
+europeans,1

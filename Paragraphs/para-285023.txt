@@ -1,0 +1,8 @@
+76,133,8
+says,1
+opening,1
+was,1
+in,1
+defiance,1
+public,1
+opinion,1

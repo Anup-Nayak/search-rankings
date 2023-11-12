@@ -1,0 +1,8 @@
+53,52,2
+tamil,1
+nadu,1
+s,1
+a,1
+and,1
+non,1
+brahmins,1

@@ -1,0 +1,4 @@
+36,317,4
+qualifications,1
+of,1
+candidates,1

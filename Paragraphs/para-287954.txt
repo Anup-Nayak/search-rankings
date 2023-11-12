@@ -1,0 +1,6 @@
+77,5,1
+4,1
+famine,1
+work,1
+in,1
+morvi,1

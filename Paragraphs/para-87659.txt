@@ -1,0 +1,5 @@
+26,27,1
+11,1
+repression,1
+in,1
+andhra,1

@@ -1,0 +1,15 @@
+30,210,10
+a,1
+there,1
+was,2
+nothing,1
+of,1
+the,1
+kind,1
+on,2
+those,1
+days,1
+ordinary,1
+business,1
+going,1
+normally,1

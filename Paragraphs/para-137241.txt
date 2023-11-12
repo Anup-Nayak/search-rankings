@@ -1,0 +1,9 @@
+40,128,8
+wants,1
+come,1
+despite,1
+my,1
+warning,1
+she,1
+is,1
+welcome,1

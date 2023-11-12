@@ -1,0 +1,9 @@
+79,122,1
+q,1
+but,1
+you,1
+had,1
+the,2
+power,1
+in,1
+congress,1

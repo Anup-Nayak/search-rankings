@@ -1,0 +1,6 @@
+46,147,9
+ghanshyamdas,1
+birla,1
+royal,1
+exchange,1
+calcutta,1

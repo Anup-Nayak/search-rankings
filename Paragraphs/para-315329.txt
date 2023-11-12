@@ -1,0 +1,14 @@
+82,404,13
+him,1
+as,2
+much,1
+money,1
+he,1
+wanted,1
+what,1
+truth,1
+is,1
+there,1
+in,1
+these,1
+assertions,1

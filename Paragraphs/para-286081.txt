@@ -1,0 +1,15 @@
+76,243,16
+spinners,1
+eager,1
+to,1
+work,1
+for,2
+less,1
+than,1
+one,1
+anna,1
+eight,1
+hours,1
+spinning,1
+other,1
+people,1

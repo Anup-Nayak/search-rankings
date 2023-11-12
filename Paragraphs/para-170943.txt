@@ -1,0 +1,17 @@
+49,162,26
+fill,1
+the,1
+albert,1
+hall,1
+with,1
+a,1
+shouting,1
+throng,1
+and,1
+it,1
+is,1
+an,1
+obvious,1
+fact,1
+that,1
+one,1

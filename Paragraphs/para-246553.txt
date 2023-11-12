@@ -1,0 +1,6 @@
+66,439,11
+g,1
+never,1
+during,1
+the,1
+day,1

@@ -1,0 +1,7 @@
+32,463,2
+against,1
+the,2
+eastern,1
+gate,1
+of,1
+temple,1

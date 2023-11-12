@@ -1,0 +1,13 @@
+78,209,5
+2,1
+rochefoucauld,1
+says,1
+hypocrisy,1
+is,1
+the,1
+homage,1
+paid,1
+by,1
+vice,1
+to,1
+virtue,1

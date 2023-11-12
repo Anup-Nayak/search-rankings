@@ -1,0 +1,10 @@
+75,164,7
+it,1
+is,1
+impossible,1
+to,1
+reach,1
+there,1
+in,1
+time,1
+doctors,1

@@ -1,0 +1,17 @@
+77,236,10
+n,1
+b*the,1
+bow,1
+should,2
+be,2
+made,2
+by,1
+bending,1
+the,2
+head,1
+forward,1
+only,1
+and,1
+not,1
+from,1
+waist,1

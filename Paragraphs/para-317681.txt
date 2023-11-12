@@ -1,0 +1,12 @@
+83,220,8
+detention,1
+camp,1
+october,1
+26,1
+1942,1
+the,1
+secretary,1
+bombay,2
+government,1
+home,1
+department,1

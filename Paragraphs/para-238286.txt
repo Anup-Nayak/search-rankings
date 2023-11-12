@@ -1,0 +1,15 @@
+65,92,10
+yours,1
+sincerely,1
+shri,1
+h,1
+g,1
+jagirdar,1
+ruby,1
+record,1
+co,1
+churchgate,2
+house,1
+street,1
+fort,1
+bombay,1

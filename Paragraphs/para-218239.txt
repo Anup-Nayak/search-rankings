@@ -1,0 +1,5 @@
+60,148,3
+182,1
+ideal,1
+harijan,1
+teacher,1

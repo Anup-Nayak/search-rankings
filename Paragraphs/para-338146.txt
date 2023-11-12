@@ -1,0 +1,10 @@
+88,15,1
+you,1
+are,1
+running,1
+a,2
+divine,1
+life,1
+institution,1
+think,1
+little,1

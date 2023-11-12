@@ -1,0 +1,11 @@
+95,242,12
+1,1
+the,1
+source,1
+does,1
+not,1
+identify,1
+them,1
+excepts,1
+as,1
+foreigners,1

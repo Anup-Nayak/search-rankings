@@ -1,0 +1,10 @@
+19,185,7
+commissions,1
+report,1
+recently,1
+published,1
+takes,1
+the,1
+same,1
+attitude,1
+mentioning,1

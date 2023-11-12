@@ -1,0 +1,8 @@
+72,11,8
+14,1
+letter,1
+to,1
+buddha,1
+gaya,1
+defence,1
+league,1

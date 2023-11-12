@@ -1,0 +1,9 @@
+19,8,9
+to,2
+district,1
+magistrate,1
+enough,1
+cover,1
+levy,1
+out,1
+of,1

@@ -1,0 +1,13 @@
+52,467,11
+persuasion,1
+direct,1
+to,2
+tenants,1
+unless,1
+congress,1
+had,1
+something,1
+better,1
+put,1
+forward,1
+than,1

@@ -1,0 +1,12 @@
+26,462,19
+you,1
+responsible,1
+for,1
+every,1
+man,1
+woman,1
+and,1
+child,1
+that,1
+is,1
+killed,1

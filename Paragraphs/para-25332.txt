@@ -1,0 +1,6 @@
+8,384,7
+mian,1
+signed,1
+bring,1
+mine,1
+station,1

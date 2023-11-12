@@ -1,0 +1,14 @@
+82,212,8
+moreover,1
+is,1
+it,1
+not,1
+easier,1
+to,1
+learn,1
+the,3
+national,1
+language,1
+through,1
+script,1
+of,1

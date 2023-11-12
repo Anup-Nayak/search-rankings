@@ -1,0 +1,12 @@
+83,4,3
+from,1
+gujarati,1
+c,1
+w,1
+2921,1
+courtesy,2
+vallabhram,1
+vaidya,1
+also,1
+pyarelal,2
+papers,1

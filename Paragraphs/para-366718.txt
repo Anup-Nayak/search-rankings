@@ -1,0 +1,17 @@
+94,434,8
+i,2
+then,1
+said,1
+that,1
+although,1
+my,1
+mind,1
+was,2
+still,1
+open,1
+now,1
+particularly,1
+studying,1
+two,1
+alternative,1
+solutions,1

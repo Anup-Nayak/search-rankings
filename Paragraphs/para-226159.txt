@@ -1,0 +1,11 @@
+62,54,19
+1,1
+jaisukhlal,1
+amritlal,1
+gandhi,1
+a,1
+khadi,1
+worker,1
+2,1
+addressees,1
+daughter,1

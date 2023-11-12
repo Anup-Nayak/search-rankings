@@ -1,0 +1,11 @@
+74,27,24
+different,1
+we,1
+mean,1
+same,1
+thing,1
+no,1
+doubt,1
+my,1
+mind,1
+writing,1

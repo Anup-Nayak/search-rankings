@@ -1,0 +1,16 @@
+47,363,4
+if,1
+you,2
+feel,1
+like,2
+talking,1
+things,1
+over,1
+with,1
+me,2
+do,1
+not,1
+hesitate,1
+to,1
+catch,1
+wherever,1

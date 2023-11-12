@@ -1,0 +1,10 @@
+18,100,5
+viceroy,1
+and,1
+governor,1
+general,1
+of,1
+india,1
+in,1
+council,1
+simla,1

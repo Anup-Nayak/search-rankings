@@ -1,0 +1,7 @@
+42,336,2
+swaraj,1
+ashram,1
+bardoli,1
+august,1
+6,1
+1928,1

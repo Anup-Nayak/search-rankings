@@ -1,0 +1,12 @@
+82,368,13
+commands,1
+wide,1
+publicity,1
+and,1
+authority,1
+the,1
+mistake,1
+must,1
+be,1
+pointed,1
+out,1

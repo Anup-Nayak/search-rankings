@@ -1,0 +1,12 @@
+2,56,20
+preference,1
+to,2
+coolies,1
+and,1
+leave,1
+the,1
+question,1
+of,1
+restrictive,1
+legislation,1
+their,1

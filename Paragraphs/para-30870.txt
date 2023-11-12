@@ -1,0 +1,8 @@
+10,129,2
+1,1
+the,1
+transvaal,1
+asiatic,1
+law,1
+amendment,1
+ordinance,1

@@ -1,0 +1,6 @@
+75,405,3
+g,1
+the,1
+differences,1
+are,1
+insubstantial,1

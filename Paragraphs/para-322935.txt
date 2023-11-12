@@ -1,0 +1,6 @@
+84,390,3
+528,1
+letter,1
+to,1
+pundalik,1
+katagde,1

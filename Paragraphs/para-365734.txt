@@ -1,0 +1,6 @@
+94,319,1
+319,1
+talk,1
+with,1
+women,1
+workers,1

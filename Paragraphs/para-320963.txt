@@ -1,0 +1,9 @@
+84,168,12
+good,1
+or,1
+not,1
+matter,1
+of,1
+opinion,1
+simultaneous,1
+publication,1

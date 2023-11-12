@@ -1,0 +1,12 @@
+38,490,3
+m,1
+k,2
+gandhi,1
+sjt,1
+vyasa,1
+rao,1
+chengalvaraya,1
+mudali,1
+street,1
+triplicane,1
+madras,1

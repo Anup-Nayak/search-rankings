@@ -1,0 +1,7 @@
+30,99,4
+box,1
+no,1
+receipt,1
+number,1
+from,1
+to,1

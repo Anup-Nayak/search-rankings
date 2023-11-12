@@ -1,0 +1,5 @@
+18,47,4
+40,1
+remarks,1
+on,1
+satyagraha,1

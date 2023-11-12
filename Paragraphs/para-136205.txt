@@ -1,0 +1,8 @@
+39,448,10
+1,1
+gujarat,2
+flood,2
+relief,2
+committee,2
+2,1
+the,1

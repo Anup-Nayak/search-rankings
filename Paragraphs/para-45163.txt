@@ -1,0 +1,6 @@
+13,429,10
+prisoners,1
+accepted,1
+people,1
+earnest,1
+enthusiastic,1

@@ -1,0 +1,7 @@
+84,64,9
+journey,1
+suggest,1
+talking,1
+through,1
+messenger,1
+after,1

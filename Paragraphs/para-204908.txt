@@ -1,0 +1,15 @@
+57,190,4
+1,1
+some,1
+words,1
+in,2
+this,1
+sentence,1
+illegible,1
+the,1
+source,1
+are,1
+supplied,1
+from,1
+mahadevbhaini,1
+diary,1

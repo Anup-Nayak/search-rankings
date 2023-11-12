@@ -1,0 +1,11 @@
+28,148,7
+temple,1
+amina,1
+took,1
+with,1
+him,2
+some,1
+persons,1
+and,2
+maltreated,1
+severely,1

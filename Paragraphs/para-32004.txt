@@ -1,0 +1,8 @@
+10,310,16
+on,1
+the,1
+duty,1
+of,1
+civil,1
+disobedience,1
+thoreau,1

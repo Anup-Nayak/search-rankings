@@ -1,0 +1,10 @@
+14,221,3
+1,1
+the,1
+individual,1
+self,1
+conscious,1
+of,1
+its,1
+separate,1
+identity,1

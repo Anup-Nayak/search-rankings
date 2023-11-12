@@ -1,0 +1,12 @@
+34,162,2
+1,1
+the,1
+letter,1
+quoting,1
+extracts,1
+from,1
+smuts,1
+speech,1
+is,1
+not,1
+available,1

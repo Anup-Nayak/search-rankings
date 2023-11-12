@@ -1,0 +1,7 @@
+24,467,4
+mohandas,1
+from,1
+gujarati,2
+6,1
+11,1
+192l,1

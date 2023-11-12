@@ -1,0 +1,7 @@
+91,396,4
+m,1
+k,1
+gandhi,1
+d,2
+joshi,1
+bombay,1

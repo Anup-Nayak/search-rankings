@@ -1,0 +1,7 @@
+20,342,6
+126,1
+letter,1
+to,1
+pandit,1
+gokaran,1
+nath,1

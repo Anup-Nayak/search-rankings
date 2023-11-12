@@ -1,0 +1,12 @@
+95,102,1
+manu,1
+had,2
+been,1
+suffering,1
+from,1
+appendicitis,1
+she,1
+to,1
+be,1
+operated,1
+upon,1

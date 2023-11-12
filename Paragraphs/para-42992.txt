@@ -1,0 +1,7 @@
+13,147,7
+during,1
+prolonged,1
+experience,1
+have,1
+not,1
+known,1

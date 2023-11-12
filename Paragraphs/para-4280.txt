@@ -1,0 +1,7 @@
+2,232,10
+1,1
+this,1
+letter,1
+is,1
+nor,1
+available,1

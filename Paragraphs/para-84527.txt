@@ -1,0 +1,5 @@
+25,55,3
+25,1
+hindus,1
+in,1
+afghanistan,1

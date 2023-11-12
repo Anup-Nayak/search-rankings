@@ -1,0 +1,6 @@
+45,376,2
+366,1
+helpless,1
+condition,1
+of,1
+women,1

@@ -1,0 +1,16 @@
+18,133,18
+1,1
+1873,1
+1933,1
+mill,1
+owner,1
+and,1
+merchant,1
+m,1
+l,2
+c,1
+bombay,1
+2,1
+h,1
+s,1
+polak,1

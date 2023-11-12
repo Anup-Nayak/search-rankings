@@ -1,0 +1,8 @@
+82,405,19
+g,1
+because,1
+the,2
+peasants,1
+wouldnt,1
+repay,1
+loans,1

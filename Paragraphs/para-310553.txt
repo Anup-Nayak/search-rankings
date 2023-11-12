@@ -1,0 +1,12 @@
+82,62,6
+not,2
+lay,1
+more,1
+stress,1
+on,2
+becoming,1
+wealthy,1
+than,1
+trusteeship,1
+of,1
+riches,1

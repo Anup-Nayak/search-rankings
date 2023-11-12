@@ -1,0 +1,9 @@
+20,433,2
+180,1
+speech,1
+to,1
+students,1
+of,1
+satyagraha,1
+ashram,1
+ahmedabad,1

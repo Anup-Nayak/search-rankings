@@ -1,0 +1,7 @@
+53,111,2
+a,1
+correspondent,1
+from,1
+trichinopoly,1
+writes,1
+1,1

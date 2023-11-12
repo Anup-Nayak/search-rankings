@@ -1,0 +1,8 @@
+72,309,3
+397,1
+to,1
+applicants,1
+for,1
+primary,1
+education,1
+teacherships,1

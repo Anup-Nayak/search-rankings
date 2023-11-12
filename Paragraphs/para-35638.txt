@@ -1,0 +1,7 @@
+11,244,7
+translate,1
+bill,1
+2,1
+there,1
+no,1
+time,1

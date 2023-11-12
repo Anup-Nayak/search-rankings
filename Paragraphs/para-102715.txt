@@ -1,0 +1,10 @@
+30,202,8
+q,1
+when,1
+did,1
+they,1
+remove,1
+to,1
+the,1
+commercial,1
+house,1

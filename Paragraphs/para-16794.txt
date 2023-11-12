@@ -1,0 +1,16 @@
+6,148,7
+word,1
+for,1
+it,2
+but,1
+there,1
+is,1
+you,1
+have,1
+to,1
+accept,1
+our,1
+present,1
+system,1
+miscalled,1
+an,1

@@ -1,0 +1,8 @@
+52,340,18
+gate,1
+and,2
+major,1
+scott,1
+moncrief,1
+other,1
+officers,1

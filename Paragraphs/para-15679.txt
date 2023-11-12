@@ -1,0 +1,10 @@
+6,49,5
+yours,1
+sincerely,1
+mrs,1
+barnes,1
+36,1
+westbourne,1
+park,1
+road,1
+w,1

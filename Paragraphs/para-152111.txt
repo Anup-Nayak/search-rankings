@@ -1,0 +1,10 @@
+44,55,9
+one,1
+who,1
+does,1
+sacrificial,1
+spinning,1
+writes,1
+to,1
+say,1
+1,1

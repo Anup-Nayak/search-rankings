@@ -1,0 +1,17 @@
+26,35,4
+1,1
+traditional,1
+repres,1
+native,1
+bodies,1
+looking,1
+after,1
+the,1
+affairs,1
+of,1
+a,2
+community,1
+or,2
+professional,1
+business,1
+group,1

@@ -1,0 +1,9 @@
+15,43,5
+ahmedabad,1
+bhadarva,1
+sud,1
+6,1
+september,1
+15,1
+1915,1
+2,1

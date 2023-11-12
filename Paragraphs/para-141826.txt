@@ -1,0 +1,14 @@
+41,328,4
+a,1
+friend,1
+sends,1
+me,1
+the,1
+following,1
+quotation,1
+from,1
+macaulays,1
+life,1
+and,1
+letters,1
+2,1

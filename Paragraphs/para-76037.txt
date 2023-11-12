@@ -1,0 +1,8 @@
+22,78,6
+order,1
+disbandment,1
+must,1
+be,1
+obeyed,1
+no,1
+law,1

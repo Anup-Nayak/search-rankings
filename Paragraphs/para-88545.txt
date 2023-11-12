@@ -1,0 +1,5 @@
+26,191,4
+satyagraha,1
+by,1
+dhasa,1
+durbar,1

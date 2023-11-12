@@ -1,0 +1,17 @@
+72,100,7
+1,1
+only,1
+excerpts,1
+from,1
+the,1
+all,1
+india,1
+village,1
+industries,1
+associations,1
+bulletin,1
+are,1
+reproduced,2
+here,2
+2,1
+not,1

@@ -1,0 +1,12 @@
+44,86,25
+1,1
+read,1
+out,1
+by,1
+jamshed,1
+mehta,1
+president,1
+of,1
+the,1
+karachi,1
+municipality,1

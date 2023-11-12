@@ -1,0 +1,7 @@
+65,361,8
+432,1
+letter,1
+to,1
+s,1
+srinivasa,1
+sastri,1

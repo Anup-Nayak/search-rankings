@@ -1,0 +1,12 @@
+12,74,2
+1,1
+manilal,1
+doctor,1
+vide,1
+letter,1
+to,1
+dr,1
+pranjivan,1
+mehta,1
+10,2
+1911,1

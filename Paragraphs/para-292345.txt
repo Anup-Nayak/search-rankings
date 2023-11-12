@@ -1,0 +1,13 @@
+78,81,9
+gandhiji,1
+replied,1
+yes,1
+that,1
+is,2
+too,1
+true,1
+the,1
+fault,1
+on,1
+both,1
+sides,1

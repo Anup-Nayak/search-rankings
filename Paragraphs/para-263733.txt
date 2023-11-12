@@ -1,0 +1,6 @@
+71,37,9
+1,1
+vanat,1
+shastra,1
+part,1
+i,1

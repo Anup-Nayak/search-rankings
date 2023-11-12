@@ -1,0 +1,6 @@
+78,81,19
+75,1
+letter,1
+to,1
+akbar,1
+hydari,1

@@ -1,0 +1,11 @@
+39,443,3
+m,1
+k,1
+gandhi,1
+sjt,1
+t,1
+r,1
+krishnaswamier,1
+sabari,1
+ashram,1
+olvakot,1

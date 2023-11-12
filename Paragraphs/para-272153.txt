@@ -1,0 +1,6 @@
+73,91,1
+88,1
+message,1
+to,1
+gurukul,1
+kangri,1

@@ -1,0 +1,12 @@
+82,402,25
+hindi,1
+and,3
+urdu,1
+are,1
+understood,1
+by,1
+both,1
+hindus,2
+muslims,1
+in,1
+madras,1

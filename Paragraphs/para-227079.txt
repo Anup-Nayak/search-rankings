@@ -1,0 +1,7 @@
+62,168,8
+188,1
+talk,1
+to,1
+khadi,1
+workers,1
+saoli,1

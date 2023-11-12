@@ -1,0 +1,16 @@
+93,51,15
+4,1
+in,1
+the,3
+source,1
+letter,1
+has,1
+been,1
+placed,1
+between,1
+items,1
+of,1
+november,1
+20,1
+and,1
+24,1

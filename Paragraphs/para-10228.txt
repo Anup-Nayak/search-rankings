@@ -1,0 +1,7 @@
+4,256,8
+he,1
+is,1
+full,1
+five,1
+cubits,1
+tall,1

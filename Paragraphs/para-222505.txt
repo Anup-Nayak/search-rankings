@@ -1,0 +1,13 @@
+61,150,1
+you,4
+decide,1
+to,2
+come,1
+may,1
+also,1
+bring,1
+with,1
+any,1
+others,1
+whom,1
+wish,1

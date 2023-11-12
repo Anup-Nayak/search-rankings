@@ -1,0 +1,13 @@
+96,249,28
+non,1
+violently,1
+their,1
+resistance,1
+was,1
+therefore,1
+inspired,1
+by,2
+violence,1
+and,1
+not,1
+a,1

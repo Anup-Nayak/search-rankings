@@ -1,0 +1,8 @@
+14,0,19
+ter,1
+and,1
+forsake,1
+making,1
+good,1
+fundamental,1
+position,1

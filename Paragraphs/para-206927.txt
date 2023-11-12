@@ -1,0 +1,6 @@
+57,410,1
+668,1
+statement,1
+on,1
+untouchability,1
+v,1

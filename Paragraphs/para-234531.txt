@@ -1,0 +1,12 @@
+64,132,16
+mahatmaji,1
+also,1
+emphasized,1
+that,2
+a,1
+noble,1
+cause,1
+like,1
+of,2
+the,1
+removal,1

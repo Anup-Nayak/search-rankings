@@ -1,0 +1,17 @@
+16,256,13
+1,1
+daughter,1
+of,2
+govindswami,1
+a,1
+colleague,1
+gandhiji,1
+in,3
+south,1
+africa,1
+2,1
+the,2
+signature,1
+original,1
+is,1
+tamil,1

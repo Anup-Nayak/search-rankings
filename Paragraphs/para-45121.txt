@@ -1,0 +1,8 @@
+13,426,21
+stoptransvaal,1
+other,1
+centres,1
+unanimous,1
+stop,1
+meeting,1
+in,1

@@ -1,0 +1,13 @@
+83,126,8
+q,1
+4,1
+whether,1
+he,1
+would,1
+rather,1
+be,1
+shot,1
+than,1
+co,1
+operate,1
+himself,1

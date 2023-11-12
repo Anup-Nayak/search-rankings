@@ -1,0 +1,14 @@
+81,95,8
+i,1
+have,1
+sent,1
+a,1
+message,1
+for,1
+women,1
+and,1
+children,1
+to,1
+this,1
+effect,1
+2,1

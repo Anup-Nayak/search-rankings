@@ -1,0 +1,15 @@
+73,194,5
+ps,1
+c,1
+s,1
+had,1
+come,1
+today,1
+the,1
+blood,1
+pressure,1
+was,1
+155/95,1
+at,1
+10,1
+oclock,1

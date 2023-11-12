@@ -1,0 +1,7 @@
+23,155,12
+wire,1
+sum,1
+required,1
+and,1
+its,1
+purpose,1

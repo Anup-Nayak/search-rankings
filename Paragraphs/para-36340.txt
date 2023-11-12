@@ -1,0 +1,9 @@
+11,299,8
+vising,1
+cape,1
+indians,1
+take,1
+up,1
+free,1
+state,1
+matter,1

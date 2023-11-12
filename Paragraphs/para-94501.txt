@@ -1,0 +1,3 @@
+28,45,6
+hindu,1
+repugnance,1

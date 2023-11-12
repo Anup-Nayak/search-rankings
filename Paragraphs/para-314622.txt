@@ -1,0 +1,15 @@
+82,383,20
+i,1
+gave,1
+mr,1
+gandhi,1
+the,1
+document,1
+to,1
+read,1
+after,1
+a,1
+few,1
+short,1
+introductory,1
+remarks,1

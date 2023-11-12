@@ -1,0 +1,13 @@
+8,39,11
+mr,1
+gandhi,1
+very,1
+well,1
+sir,1
+then,1
+i,1
+have,1
+nothing,1
+more,1
+to,1
+say,1

@@ -1,0 +1,10 @@
+14,7,3
+beg,1
+thank,1
+minister,1
+for,1
+wire,1
+1,1
+venture,1
+suggest,1
+that,1

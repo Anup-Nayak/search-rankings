@@ -1,0 +1,3 @@
+65,392,6
+tilak,1
+vidyalaya,1

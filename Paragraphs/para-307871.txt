@@ -1,0 +1,10 @@
+81,270,3
+annapurna,1
+you,1
+have,1
+made,1
+great,1
+progress,1
+mentally,1
+and,1
+physically,1

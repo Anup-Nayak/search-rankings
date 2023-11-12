@@ -1,0 +1,7 @@
+83,386,2
+d,1
+why,1
+non,2
+violent,1
+co,1
+operation,1

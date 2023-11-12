@@ -1,0 +1,6 @@
+91,86,4
+108,1
+letter,1
+to,1
+brijlal,1
+nehru,1

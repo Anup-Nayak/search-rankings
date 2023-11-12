@@ -1,0 +1,4 @@
+46,462,7
+udyoga,1
+mandir,1
+secretary,1

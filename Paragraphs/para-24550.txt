@@ -1,0 +1,11 @@
+8,245,1
+emulated,1
+by,1
+other,1
+parents,1
+from,1
+gujarati,1
+indian,1
+opinion,1
+4,2
+1908,1

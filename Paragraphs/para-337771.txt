@@ -1,0 +1,15 @@
+87,426,6
+first,1
+to,1
+prosecute,1
+the,2
+war,1
+against,1
+japan,2
+with,1
+utmost,1
+energy,1
+till,1
+is,1
+utterly,1
+defeated,1

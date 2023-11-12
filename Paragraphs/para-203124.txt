@@ -1,0 +1,7 @@
+57,37,10
+unnecessary,2
+public,1
+expense,1
+also,1
+worry,1
+to,1

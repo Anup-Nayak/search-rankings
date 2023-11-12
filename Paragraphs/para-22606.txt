@@ -1,0 +1,13 @@
+7,398,2
+1,1
+the,2
+speaker,1
+was,1
+punning,1
+on,1
+names,1
+cody,1
+cowries,1
+and,1
+chamney,1
+chimneys,1

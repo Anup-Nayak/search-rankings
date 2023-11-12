@@ -1,0 +1,9 @@
+54,464,13
+declaration,1
+of,1
+the,1
+prime,1
+minister,1
+have,1
+declared,1
+in,1

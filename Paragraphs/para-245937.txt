@@ -1,0 +1,5 @@
+66,387,3
+581,1
+priesthood,1
+and,1
+untouchability,1

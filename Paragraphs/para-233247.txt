@@ -1,0 +1,10 @@
+63,511,2
+577,1
+speech,1
+at,1
+a,1
+i,1
+c,2
+meeting,1
+patnaii,1
+1,1

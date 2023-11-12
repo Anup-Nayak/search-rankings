@@ -1,0 +1,7 @@
+40,39,6
+satyamurti,1
+even,1
+about,1
+congress,1
+doing,1
+it,1

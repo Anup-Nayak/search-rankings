@@ -1,0 +1,17 @@
+79,435,12
+1,1
+issued,1
+by,1
+the,2
+kashmir,1
+government,2
+allowing,1
+use,1
+of,1
+both,1
+devanagari,1
+and,1
+persian,1
+scripts,1
+in,1
+schools,1

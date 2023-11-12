@@ -1,0 +1,13 @@
+95,89,13
+similarly,1
+they,1
+need,1
+not,1
+beg,1
+the,2
+refugees,1
+who,1
+had,1
+left,1
+province,1
+through,1

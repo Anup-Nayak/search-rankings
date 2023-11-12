@@ -1,0 +1,5 @@
+38,282,3
+283,1
+civilization,1
+and,1
+culture,1

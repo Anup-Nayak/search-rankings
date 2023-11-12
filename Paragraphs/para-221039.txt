@@ -1,0 +1,6 @@
+60,502,3
+594,1
+telegram,1
+to,1
+narandas,1
+gandhi,1

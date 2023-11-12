@@ -1,0 +1,6 @@
+88,98,13
+binadas,1
+care,1
+comila,1
+bank,1
+bombay,1

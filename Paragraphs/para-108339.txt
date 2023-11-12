@@ -1,0 +1,15 @@
+32,71,3
+known,1
+not,1
+to,1
+have,1
+been,2
+of,2
+both,1
+these,1
+the,2
+secret,1
+has,1
+seen,1
+by,1
+seers,1

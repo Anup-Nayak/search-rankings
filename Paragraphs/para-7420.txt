@@ -1,0 +1,6 @@
+3,210,1
+136,1
+permits,1
+and,1
+non,1
+refugees,1

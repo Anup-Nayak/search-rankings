@@ -1,0 +1,12 @@
+70,80,3
+g,1
+which,1
+means,1
+that,1
+there,1
+is,1
+more,1
+evil,1
+in,1
+the,1
+world,1

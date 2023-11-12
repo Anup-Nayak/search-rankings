@@ -1,0 +1,12 @@
+49,86,9
+1,1
+wife,1
+of,2
+dr,1
+jivraj,1
+mehta,1
+physician,1
+and,1
+congress,1
+leader,1
+bombay,1

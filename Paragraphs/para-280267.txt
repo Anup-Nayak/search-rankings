@@ -1,0 +1,5 @@
+75,62,7
+struggle,1
+in,1
+full,1
+swing,1

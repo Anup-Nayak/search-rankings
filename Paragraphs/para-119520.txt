@@ -1,0 +1,9 @@
+35,256,8
+g,1
+k,1
+devadhar,1
+servants,1
+of,1
+india,1
+society,1
+bombay,1

@@ -1,0 +1,11 @@
+11,474,2
+extract,1
+from,1
+colonial,1
+secretarys,1
+speech,1
+on,1
+the,1
+second,1
+reading,1
+of,1

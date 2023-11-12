@@ -1,0 +1,10 @@
+77,96,13
+make,1
+shiftcarrying,1
+no,1
+popular,1
+sanction,1
+to,1
+fling,1
+the,1
+minorities,1

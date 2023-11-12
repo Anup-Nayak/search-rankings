@@ -1,0 +1,7 @@
+76,22,3
+28,1
+letter,1
+to,1
+binode,1
+kanungo,1
+1,1

@@ -1,0 +1,8 @@
+35,129,3
+176,1
+statement,1
+on,1
+south,1
+african,1
+indian,1
+problem,1

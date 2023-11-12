@@ -1,0 +1,14 @@
+46,460,2
+any,1
+person,1
+of,3
+the,3
+age,1
+eighteen,1
+years,1
+who,1
+subscribes,1
+to,1
+object,1
+association,1
+and,1

@@ -1,0 +1,12 @@
+52,107,7
+mahatma,1
+gandhi,1
+said,1
+his,1
+conversation,1
+was,2
+healthy,1
+and,2
+good,1
+he,1
+not,1

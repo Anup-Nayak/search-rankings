@@ -1,0 +1,11 @@
+54,258,12
+r,2
+you,1
+have,1
+a,1
+duty,1
+to,2
+speak,1
+the,1
+poor,1
+people,1

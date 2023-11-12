@@ -1,0 +1,10 @@
+74,94,1
+1,1
+the,2
+government,1
+is,1
+persisting,1
+in,1
+vidya,1
+mandir,1
+scheme,1

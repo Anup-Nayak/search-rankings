@@ -1,0 +1,13 @@
+70,243,1
+now,1
+the,2
+professor,1
+switched,1
+on,1
+to,1
+next,1
+question,1
+viz,1
+that,1
+of,1
+fighting,1

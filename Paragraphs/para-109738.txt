@@ -1,0 +1,12 @@
+32,327,4
+1,1
+a,2
+small,1
+town,1
+in,1
+saurashtra,1
+then,1
+capital,1
+of,1
+princely,1
+state,1

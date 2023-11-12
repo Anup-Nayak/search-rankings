@@ -1,0 +1,13 @@
+27,383,7
+5,1
+there,1
+should,1
+be,1
+a,1
+national,1
+school,1
+in,1
+every,1
+village,1
+and,1
+town,1

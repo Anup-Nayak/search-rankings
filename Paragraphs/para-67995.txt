@@ -1,0 +1,12 @@
+19,290,4
+i,2
+see,2
+we,1
+do,1
+not,2
+eye,2
+to,1
+there,2
+also,1
+am,1
+afraid,1

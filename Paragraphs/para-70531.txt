@@ -1,0 +1,7 @@
+20,157,6
+1,1
+charged,1
+sheeted,1
+2,1
+sikh,1
+temple,1

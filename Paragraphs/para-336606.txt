@@ -1,0 +1,6 @@
+87,316,11
+1,1
+gujarati,1
+word,1
+meaning,1
+rope,1

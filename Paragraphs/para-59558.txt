@@ -1,0 +1,6 @@
+17,90,5
+72,1
+letter,1
+t0,1
+sonja,1
+schlesin,1

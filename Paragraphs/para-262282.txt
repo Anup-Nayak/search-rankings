@@ -1,0 +1,4 @@
+70,283,6
+318,1
+travancore,1
+pilgrimage,1

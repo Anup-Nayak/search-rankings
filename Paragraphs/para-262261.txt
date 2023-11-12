@@ -1,0 +1,5 @@
+70,280,3
+315,1
+speech,1
+at,1
+thiruvattar,1

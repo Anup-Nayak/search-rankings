@@ -1,0 +1,8 @@
+7,114,10
+the,1
+private,1
+secretary,1
+to,1
+general,1
+smuts,1
+pretoria,1

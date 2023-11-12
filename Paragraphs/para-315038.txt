@@ -1,0 +1,14 @@
+82,395,25
+something,1
+in,1
+the,2
+burmese,1
+soul,1
+when,1
+british,1
+come,1
+and,1
+say,1
+we,1
+must,1
+remove,1

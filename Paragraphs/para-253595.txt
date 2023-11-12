@@ -1,0 +1,9 @@
+68,243,16
+1,1
+dr,1
+talwalkar,1
+a,1
+tuberculosis,1
+specialist,1
+of,1
+ahmedabad,1

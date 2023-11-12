@@ -1,0 +1,6 @@
+41,379,5
+442,1
+letter,1
+to,1
+alice,1
+schalek,1

@@ -1,0 +1,7 @@
+11,251,19
+do,1
+not,1
+publish,1
+correspondence,1
+with,1
+smuts,1

@@ -1,0 +1,6 @@
+82,124,5
+142,1
+letter,1
+to,1
+prema,1
+kantak,1

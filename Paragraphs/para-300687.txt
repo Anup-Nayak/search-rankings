@@ -1,0 +1,9 @@
+80,78,3
+136,1
+abstract,1
+of,1
+letter,1
+to,1
+ali,1
+gul,1
+khan,1

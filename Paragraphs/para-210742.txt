@@ -1,0 +1,17 @@
+58,351,1
+ment,1
+state,1
+their,1
+attitude,1
+i,1
+do,1
+not,1
+want,1
+to,1
+go,1
+into,1
+the,2
+question,1
+at,1
+present,1
+moment,1

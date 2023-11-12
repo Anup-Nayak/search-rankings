@@ -13,7 +13,7 @@ trie_node::~trie_node(){
 }
 
 trie::trie(){
-    root=new trie_node();
+    root=new(nothrow) trie_node();
 }
 
 int get_idx(char x){
@@ -48,13 +48,27 @@ long long trie::search(string& word){
     for(auto i:word){
         int asc=get_idx(i);
         if(asc<0) return 0;
-        if(!n->child[asc]) return -1;
+        if(!n->child[asc]) return 0;
         n=n->child[asc];
     }
     return n->word_count;
 }
 
-
+void trie::insert(string& word,long long& freq){
+    trie_node* n=root;
+    for(auto i : word){
+        int asc = get_idx(i);
+        if(n->child[asc]){
+            n = n->child[asc];
+        }
+        else{
+            n->child[asc] = new(nothrow) trie_node();
+            if(!n->child[asc]) {break; cout<<"f"<<endl;}
+            n = n->child[asc];
+        }
+    }
+    n->word_count=freq;
+}
 
 void rec_del(trie_node* n){
     for (auto i:n->child)
@@ -82,6 +96,10 @@ bool Dict::is_separator(char x){
     return false;
 }
 
+void Dict::insert_word(string&word,long long& freq){
+    t.insert(word,freq);
+}
+
 void Dict::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
     for (int i = 0; i < sentence.size(); ++i)
     {
@@ -93,7 +111,8 @@ void Dict::insert_sentence(int book_code, int page, int paragraph, int sentence_
             if(asc<0) {i++; continue;}
             if(n->child[asc]) n=n->child[asc];
             else{
-                n->child[asc]=new trie_node();
+                n->child[asc]=new(nothrow) trie_node();
+                if(!n->child[asc]) {break; cout<<"f"<<endl;}
                 n=n->child[asc];
             }
             i++;
@@ -120,7 +139,7 @@ long long Dict::get_word_count(string word){
 void Dict::dump_dictionary(string filename){
     ofstream fout(filename);
     for(auto pair:distinct_words){
-        fout<<pair.word<<", "<<pair.node->word_count<<endl;
+        fout<<pair.word<<","<<pair.node->word_count<<endl;
     }
     fout.close();
     return;

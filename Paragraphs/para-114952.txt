@@ -1,0 +1,16 @@
+34,154,1
+police,1
+made,1
+a,1
+way,1
+for,1
+me,2
+through,1
+the,1
+crowd,1
+and,1
+took,1
+to,1
+parsi,1
+rustomjis,1
+place,1

@@ -1,0 +1,15 @@
+82,211,2
+q,1
+1,1
+the,2
+persian,1
+script,1
+did,1
+not,1
+originate,1
+in,1
+india,1
+it,1
+came,1
+during,1
+mogul,1

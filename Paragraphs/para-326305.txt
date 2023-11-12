@@ -1,0 +1,6 @@
+85,243,1
+385,1
+letter,1
+to,1
+sultana,1
+qureshi,1

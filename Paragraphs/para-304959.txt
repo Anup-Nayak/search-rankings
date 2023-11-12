@@ -1,0 +1,9 @@
+80,480,12
+g,1
+the,1
+fundamental,1
+difference,1
+is,1
+about,1
+non,1
+violence,1

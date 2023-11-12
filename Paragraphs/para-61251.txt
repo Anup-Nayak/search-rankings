@@ -1,0 +1,13 @@
+17,291,5
+2,1
+ada,1
+west,2
+sister,1
+of,1
+gandhijis,1
+friend,1
+and,1
+co,1
+worker,1
+a,1
+h,1

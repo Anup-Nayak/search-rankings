@@ -1,0 +1,11 @@
+9,482,3
+from,1
+a,1
+photostat,1
+of,1
+the,1
+handwritten,1
+original,1
+s,1
+n,1
+4883,1

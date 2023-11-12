@@ -1,0 +1,7 @@
+35,322,2
+a,1
+gentleman,1
+writes,1
+as,1
+follows,1
+1,1

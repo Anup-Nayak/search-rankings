@@ -1,0 +1,17 @@
+52,467,17
+in,1
+the,2
+light,1
+of,2
+fact,1
+that,1
+many,1
+these,1
+rentals,1
+were,1
+old,1
+and,1
+spread,1
+over,1
+a,1
+long,1

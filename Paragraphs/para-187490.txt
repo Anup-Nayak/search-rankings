@@ -1,0 +1,7 @@
+53,107,16
+1857,1
+1931,1
+miscellaneous,1
+charges,1
+in,1
+respect,1

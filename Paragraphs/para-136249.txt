@@ -1,0 +1,14 @@
+39,458,2
+i,1
+was,2
+weighed,1
+on,1
+tuesday,1
+and,1
+my,1
+weight,1
+lbs,1
+1131,1
+2,1
+this,1
+is,1

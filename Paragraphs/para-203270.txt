@@ -1,0 +1,10 @@
+57,53,3
+from,1
+my,1
+wire,1
+1,1
+to,1
+you,1
+of,1
+fifteenth,1
+reproduced,1

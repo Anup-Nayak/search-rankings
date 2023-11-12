@@ -1,0 +1,6 @@
+90,436,12
+all,1
+have,1
+their,1
+wants,1
+satisfied,1

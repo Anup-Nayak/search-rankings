@@ -1,0 +1,8 @@
+80,240,1
+i,1
+hope,1
+you,1
+are,1
+keeping,1
+good,1
+health,1

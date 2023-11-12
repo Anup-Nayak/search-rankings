@@ -1,0 +1,6 @@
+48,180,4
+the,1
+resolution,1
+was,1
+unanimously,1
+passed,1

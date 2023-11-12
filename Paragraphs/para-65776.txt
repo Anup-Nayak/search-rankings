@@ -1,0 +1,12 @@
+18,468,2
+now,1
+i,4
+guess,1
+have,1
+said,1
+enough,1
+so,1
+reckon,1
+had,1
+better,1
+stop,1

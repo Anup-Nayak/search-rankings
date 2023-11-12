@@ -1,0 +1,13 @@
+52,448,10
+he,2
+has,2
+been,2
+unable,1
+to,1
+reply,1
+before,1
+because,1
+busy,1
+in,1
+studying,1
+the,1

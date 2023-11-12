@@ -1,0 +1,8 @@
+21,106,4
+your,1
+faithful,1
+servant,1
+m,1
+k,1
+gandhi,1
+note,1

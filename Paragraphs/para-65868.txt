@@ -1,0 +1,8 @@
+19,8,22
+against,1
+collection,1
+from,1
+labourers,1
+especially,1
+the,1
+sum,1

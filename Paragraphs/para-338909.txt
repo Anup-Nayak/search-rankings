@@ -1,0 +1,17 @@
+88,78,9
+1,1
+to,1
+capitalism,1
+socialism,1
+or,1
+villagism,1
+2,1
+he,1
+was,1
+arrested,1
+in,2
+1942,1
+and,1
+released,1
+january,1
+1945,1

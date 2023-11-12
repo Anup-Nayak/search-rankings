@@ -1,0 +1,8 @@
+22,135,6
+1,1
+ardeshar,1
+faramji,1
+khabardar,1
+a,1
+parsi,1
+poet,1

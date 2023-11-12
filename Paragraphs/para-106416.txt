@@ -1,0 +1,16 @@
+31,261,20
+he,2
+hoped,1
+they,1
+would,1
+take,1
+care,1
+of,1
+spinning,1
+wheel,1
+which,1
+as,1
+had,1
+said,1
+was,1
+the,1

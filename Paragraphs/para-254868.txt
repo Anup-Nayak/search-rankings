@@ -1,0 +1,10 @@
+68,396,5
+1,1
+only,1
+extracts,1
+from,1
+the,1
+quotation,1
+are,1
+reproduced,1
+here,1

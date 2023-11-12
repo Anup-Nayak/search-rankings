@@ -1,0 +1,9 @@
+65,270,10
+291,1
+letter,1
+to,1
+secretary,1
+gujarat,1
+provincial,1
+congress,1
+committee,1

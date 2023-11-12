@@ -1,0 +1,9 @@
+35,92,3
+may,1
+a,2
+vow,1
+be,1
+violated,1
+gentleman,1
+writes,1
+2,1

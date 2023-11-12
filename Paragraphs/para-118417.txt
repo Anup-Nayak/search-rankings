@@ -1,0 +1,12 @@
+35,123,3
+m,1
+k,1
+gandhi,1
+monsieur,1
+romain,1
+rolland,1
+villa,1
+olga,1
+villenguve,1
+vand,1
+switzerland,1

@@ -1,0 +1,14 @@
+77,415,19
+that,2
+dominion,1
+status,1
+is,3
+not,1
+a,2
+prize,1
+given,1
+to,1
+deserving,1
+community,1
+but,1
+the,1

@@ -1,0 +1,5 @@
+48,73,1
+delhi,1
+hindu,1
+college,1
+collection,1

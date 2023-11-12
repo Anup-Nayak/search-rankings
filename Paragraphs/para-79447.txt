@@ -1,0 +1,12 @@
+23,184,3
+sannyasa,1
+a,1
+pleader,1
+who,1
+has,1
+suspended,1
+practice,1
+asks,1
+whether,1
+every,1
+non,1

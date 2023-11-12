@@ -1,0 +1,12 @@
+32,91,6
+1,1
+c,1
+r,1
+das,1
+2,1
+the,1
+passage,1
+is,1
+not,1
+translated,1
+here,1

@@ -1,0 +1,12 @@
+21,499,8
+the,3
+occasion,1
+was,1
+for,1
+preaching,1
+of,2
+doctrine,1
+non,2
+violent,1
+co,1
+operation,1

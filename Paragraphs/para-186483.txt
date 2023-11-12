@@ -1,0 +1,15 @@
+52,470,11
+pitch,1
+of,2
+rentals,1
+throughout,1
+the,1
+province,1
+for,1
+no,1
+summary,1
+inquiry,1
+this,1
+nature,1
+can,1
+do,1

@@ -1,0 +1,9 @@
+67,438,3
+extracts,1
+from,1
+dr,1
+sokheys,1
+notes,1
+on,1
+snake,1
+poisoning,1

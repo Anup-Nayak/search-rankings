@@ -1,0 +1,12 @@
+32,189,8
+1,1
+vide,1
+appendix,1
+letter,1
+from,1
+w,1
+h,1
+pitt,1
+22,1
+7,1
+1925,1

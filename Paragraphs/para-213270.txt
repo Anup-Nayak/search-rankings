@@ -1,0 +1,7 @@
+59,108,4
+156,1
+letter,1
+to,1
+vakayil,1
+achuthan,1
+nair,1

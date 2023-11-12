@@ -1,0 +1,6 @@
+70,380,3
+400,1
+letter,1
+to,1
+pannalal,1
+jhaveri,1

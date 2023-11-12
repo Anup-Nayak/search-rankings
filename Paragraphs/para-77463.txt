@@ -1,0 +1,4 @@
+22,345,8
+dhoti,1
+and,1
+chadar,1

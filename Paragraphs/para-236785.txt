@@ -1,0 +1,7 @@
+64,384,4
+454,1
+letter,1
+to,1
+pragji,1
+k,1
+desai,1

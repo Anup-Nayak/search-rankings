@@ -1,0 +1,8 @@
+15,304,4
+232,1
+statement,1
+on,1
+abolition,1
+of,1
+indentured,1
+labour,1

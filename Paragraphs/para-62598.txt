@@ -1,0 +1,16 @@
+17,457,3
+act,1
+and,1
+speak,1
+absolutely,1
+peacefully,1
+without,1
+flinching,1
+from,2
+truth,1
+gandhi,1
+a,1
+photostat,1
+g,1
+n,1
+5222,1

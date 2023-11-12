@@ -1,0 +1,11 @@
+37,12,5
+yours,1
+sincerely,1
+m,1
+k,3
+gandhi,1
+dr,1
+kuruvilla,1
+marthouse,1
+seminary,1
+kottayam,1

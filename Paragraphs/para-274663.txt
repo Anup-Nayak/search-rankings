@@ -1,0 +1,14 @@
+73,375,10
+tao,1
+would,1
+not,1
+go,1
+without,1
+a,1
+message,1
+from,1
+gandhiji,1
+for,1
+the,1
+people,1
+of,1

@@ -1,0 +1,7 @@
+8,58,1
+have,1
+you,1
+been,1
+frightened,1
+by,1
+anyone,1

@@ -1,0 +1,6 @@
+53,388,2
+430,1
+letter,1
+to,1
+guntram,1
+prufer,1

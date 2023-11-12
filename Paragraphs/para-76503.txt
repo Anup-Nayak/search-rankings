@@ -1,0 +1,16 @@
+22,171,5
+article,1
+viii,1
+each,1
+provincial,1
+congress,2
+committee,1
+shall,1
+be,1
+responsible,1
+for,1
+the,2
+election,1
+of,1
+delegates,1
+to,1

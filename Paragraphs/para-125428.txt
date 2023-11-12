@@ -1,0 +1,11 @@
+36,475,9
+1,1
+the,2
+brahma,1
+alone,1
+is,2
+real,1
+world,1
+of,1
+appearance,1
+false,1

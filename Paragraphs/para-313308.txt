@@ -1,0 +1,10 @@
+82,291,8
+collection,1
+cant,1
+we,2
+wait,1
+until,1
+have,1
+won,1
+our,1
+freedom,1

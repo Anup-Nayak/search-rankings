@@ -1,0 +1,6 @@
+34,463,6
+my,1
+dear,1
+friend,1
+and,1
+brother,1

@@ -1,0 +1,14 @@
+46,157,3
+crop,1
+of,1
+the,2
+district,1
+labourer,1
+gets,1
+his,1
+cotton,1
+as,1
+wages,1
+when,1
+picking,1
+up,1

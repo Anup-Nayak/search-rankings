@@ -1,0 +1,6 @@
+17,459,1
+420,1
+satyagraha,1
+leaflet,1
+1,1
+no,1

@@ -1,0 +1,6 @@
+13,413,6
+273,1
+speech,1
+at,1
+johannesburg,1
+1,1

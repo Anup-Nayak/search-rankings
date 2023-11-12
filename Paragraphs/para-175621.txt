@@ -1,0 +1,11 @@
+50,211,4
+blessings,1
+from,2
+bapu,1
+gujarati,1
+c,1
+w,1
+286,1
+courtesy,1
+lakshmibehn,1
+khare,1

@@ -1,0 +1,8 @@
+13,140,21
+marriages,1
+to,1
+restore,1
+right,1
+south,1
+africa,1
+born,1

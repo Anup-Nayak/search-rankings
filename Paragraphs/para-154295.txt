@@ -1,0 +1,9 @@
+44,486,18
+t7,1
+for,1
+half,1
+baked,1
+knowledge,1
+guj,1
+has,1
+ignorance,1

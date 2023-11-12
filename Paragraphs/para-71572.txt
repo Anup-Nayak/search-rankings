@@ -1,0 +1,12 @@
+20,328,2
+bapu,1
+ps,1
+miss,1
+faering,1
+leaves,1
+for,1
+denmark,1
+the,1
+day,1
+after,1
+tomorrow,1

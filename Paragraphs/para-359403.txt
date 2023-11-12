@@ -1,0 +1,5 @@
+93,35,5
+kazirkhil,1
+november,1
+17,1
+1946,1

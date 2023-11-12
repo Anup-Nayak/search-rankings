@@ -1,0 +1,10 @@
+32,445,3
+enclosed,1
+please,1
+find,1
+a,1
+small,1
+cutting,2
+read,1
+this,1
+first,1

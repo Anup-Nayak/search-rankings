@@ -1,0 +1,6 @@
+96,87,3
+m,1
+k,1
+gandhi,1
+from,1
+hindi,1

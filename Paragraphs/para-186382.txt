@@ -1,0 +1,14 @@
+52,466,19
+governments,1
+chief,1
+secretary,1
+might,1
+ascertain,1
+any,1
+facts,1
+that,1
+he,1
+can,1
+on,1
+the,1
+subject,1

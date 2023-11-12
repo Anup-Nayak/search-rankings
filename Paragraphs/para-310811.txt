@@ -1,0 +1,15 @@
+82,83,12
+hindu,1
+or,1
+join,1
+this,2
+faith,1
+of,1
+primitive,1
+barbarians,1
+for,1
+it,1
+is,1
+on,1
+barbarity,1
+that,1

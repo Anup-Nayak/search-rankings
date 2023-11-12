@@ -1,0 +1,7 @@
+88,345,14
+1,1
+gandhiji,1
+uses,1
+the,1
+english,1
+word,1

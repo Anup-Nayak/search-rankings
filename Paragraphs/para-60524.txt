@@ -1,0 +1,8 @@
+17,208,9
+1,1
+in,1
+gujarati,1
+entitled,1
+hindu,1
+dharmani,1
+balpothi,1

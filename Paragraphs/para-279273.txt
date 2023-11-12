@@ -1,0 +1,8 @@
+74,413,16
+you,1
+are,1
+a,1
+good,1
+guide,1
+for,1
+life,1

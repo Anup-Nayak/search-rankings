@@ -1,0 +1,8 @@
+61,102,9
+1,1
+in,2
+the,2
+source,1
+superscription,1
+is,1
+devanagari,1

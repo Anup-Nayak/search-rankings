@@ -1,0 +1,7 @@
+39,349,1
+347,1
+letter,1
+to,1
+gulzar,1
+mohamad,1
+aquil,1

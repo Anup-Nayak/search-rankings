@@ -1,0 +1,14 @@
+15,408,10
+intention,1
+to,1
+appoint,1
+a,1
+committee,1
+of,1
+enquiry,1
+into,1
+the,1
+relations,1
+between,1
+zamindars,1
+and,1

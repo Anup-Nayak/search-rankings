@@ -1,0 +1,7 @@
+78,100,11
+102,1
+letter,1
+to,1
+jayaprakash,1
+narayan,1
+sevagram,1

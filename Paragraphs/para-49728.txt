@@ -1,0 +1,12 @@
+14,472,21
+pretoria,1
+january,1
+5,1
+1914,1
+to,1
+gandhi,1
+1,1
+10,1
+field,1
+street,1
+durban,1

@@ -1,0 +1,11 @@
+82,406,22
+l,1
+f,1
+that,1
+is,1
+very,1
+much,1
+like,1
+the,1
+soviet,1
+system,1

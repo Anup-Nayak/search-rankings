@@ -1,0 +1,7 @@
+42,12,4
+18,1
+letter,1
+to,1
+mrs,1
+e,1
+bjerrum,1

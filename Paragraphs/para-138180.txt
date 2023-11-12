@@ -1,0 +1,15 @@
+40,298,4
+1,1
+gandhijis,1
+speech,1
+in,1
+english,1
+was,1
+translated,1
+into,1
+tamil,1
+by,2
+c,1
+rajagopala,1
+chari,1
+sentence,2

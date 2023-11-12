@@ -1,0 +1,5 @@
+34,488,2
+bezvada,1
+municipality,1
+and,1
+khaddar,1

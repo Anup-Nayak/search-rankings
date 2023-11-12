@@ -1,0 +1,4 @@
+28,46,2
+limited,1
+non,1
+violence,1

@@ -1,0 +1,14 @@
+41,336,3
+yours,1
+sincerely,1
+miss,1
+muriel,1
+lester,1
+kingsley,1
+hall,1
+powis,1
+road,1
+bow,1
+london,1
+e,1
+3,1

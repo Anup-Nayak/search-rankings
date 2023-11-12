@@ -1,0 +1,16 @@
+65,6,2
+1,1
+vide,2
+resolution,1
+on,1
+council,1
+entry,1
+19,1
+5,1
+1934,2
+2,2
+statement,1
+to,1
+the,1
+press,1
+4,1

@@ -1,0 +1,10 @@
+13,141,8
+one,1
+wife,1
+in,1
+law,1
+as,1
+justice,1
+wessels,1
+did,1
+jus,1

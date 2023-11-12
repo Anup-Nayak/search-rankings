@@ -1,0 +1,6 @@
+35,28,5
+44,1
+letter,1
+to,1
+lallu,1
+morar,1

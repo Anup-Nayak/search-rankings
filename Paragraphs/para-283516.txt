@@ -1,0 +1,5 @@
+75,444,14
+vala,1
+shri,1
+vira,1
+mulu,1

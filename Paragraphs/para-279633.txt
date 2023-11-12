@@ -1,0 +1,10 @@
+74,453,5
+the,2
+first,1
+question,2
+they,1
+asked,1
+related,1
+to,1
+of,1
+taxation,1

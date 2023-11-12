@@ -1,0 +1,11 @@
+6,125,3
+to,1
+the,3
+private,1
+secretary,2
+of,3
+earl,1
+elgin,1
+state,1
+for,1
+colonies,1

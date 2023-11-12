@@ -1,0 +1,8 @@
+64,140,9
+fulchand,1
+kasturchand,1
+shah,1
+kelvani,1
+mandal,1
+wadhwan,1
+city,1

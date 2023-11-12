@@ -1,0 +1,8 @@
+49,289,19
+nevertheless,1
+he,1
+did,1
+not,1
+refuse,1
+to,1
+negotiate,1

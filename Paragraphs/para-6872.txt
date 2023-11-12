@@ -1,0 +1,9 @@
+3,116,12
+british,1
+indians,1
+residing,1
+in,1
+the,1
+colony,1
+of,1
+natal,1

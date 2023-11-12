@@ -1,0 +1,6 @@
+15,285,3
+mahatma,1
+gandhi,1
+by,1
+ramchandra,1
+varma,1

@@ -1,0 +1,6 @@
+47,58,3
+61,1
+letter,1
+to,1
+brijkrishna,1
+chandiwala,1

@@ -1,0 +1,11 @@
+74,220,11
+my,1
+dear,1
+idiot,1
+agatha,1
+is,1
+sitting,1
+in,1
+front,1
+of,1
+me,1

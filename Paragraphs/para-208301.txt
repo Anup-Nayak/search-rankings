@@ -1,0 +1,17 @@
+58,109,10
+dear,1
+col,1
+doyle,1
+at,1
+about,1
+7,1
+15,1
+this,1
+morning,1
+major,1
+mehta,1
+handed,1
+me,1
+the,1
+following,1
+message,1

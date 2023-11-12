@@ -1,0 +1,7 @@
+92,40,8
+1,1
+sumitra,1
+gandhi,2
+daughter,1
+of,1
+ramdas,1

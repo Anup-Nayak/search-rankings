@@ -1,0 +1,11 @@
+5,186,5
+2,1
+the,1
+press,1
+was,1
+shifted,1
+to,1
+phoenix,1
+in,1
+december,1
+1904,1

@@ -1,0 +1,9 @@
+43,36,2
+discount,1
+in,1
+khadi,1
+prices,1
+for,1
+a,1
+limited,1
+period,1

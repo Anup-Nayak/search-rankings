@@ -1,0 +1,4 @@
+24,341,2
+the,1
+proper,1
+spirit,1

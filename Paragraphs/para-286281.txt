@@ -1,0 +1,14 @@
+76,267,14
+organization,1
+such,1
+as,1
+praja,1
+mandal,1
+can,1
+be,1
+allowed,1
+to,1
+exist,1
+within,1
+the,1
+state,1

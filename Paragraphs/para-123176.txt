@@ -1,0 +1,4 @@
+36,215,6
+bihar,1
+khadi,1
+exhibition,1

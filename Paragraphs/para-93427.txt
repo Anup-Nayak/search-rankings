@@ -1,0 +1,15 @@
+27,403,15
+large,1
+room,1
+adjoining,1
+his,1
+cell,1
+along,1
+with,1
+two,1
+associates,1
+one,1
+of,1
+whom,1
+was,1
+an,1

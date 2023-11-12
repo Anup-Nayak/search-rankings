@@ -1,0 +1,6 @@
+18,242,3
+195,1
+speech,1
+on,1
+swadeshi,1
+surat,1

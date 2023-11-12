@@ -1,0 +1,5 @@
+6,375,4
+336,1
+education,1
+in,1
+afghanistan,1

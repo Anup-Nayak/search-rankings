@@ -1,0 +1,5 @@
+19,319,4
+172,1
+letter,1
+to,1
+luchmaya,1

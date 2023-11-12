@@ -1,0 +1,5 @@
+84,294,7
+pilgrimage,1
+to,1
+freedom,1
+pp,1

@@ -1,0 +1,16 @@
+82,309,10
+q,1
+villagers,1
+here,1
+are,1
+much,1
+troubled,1
+for,1
+want,1
+of,1
+salt,1
+which,1
+they,1
+used,1
+to,1
+get,1

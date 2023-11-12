@@ -1,0 +1,14 @@
+12,182,4
+i,2
+have,1
+your,2
+letter,1
+do,1
+not,1
+mind,1
+writing,1
+to,1
+me,1
+about,1
+virji,1
+2,1

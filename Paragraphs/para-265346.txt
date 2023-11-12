@@ -1,0 +1,10 @@
+71,253,11
+2,1
+k,1
+c,1
+deka,1
+assamese,1
+labour,1
+worker,1
+in,1
+delhi,1

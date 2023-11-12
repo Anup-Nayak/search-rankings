@@ -1,0 +1,4 @@
+9,164,3
+hardships,1
+in,1
+gaol,1

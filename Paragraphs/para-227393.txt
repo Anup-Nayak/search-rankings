@@ -1,0 +1,10 @@
+62,215,3
+a,1
+correspondent,1
+sends,1
+me,1
+the,1
+following,1
+questions,1
+for,1
+answering,1

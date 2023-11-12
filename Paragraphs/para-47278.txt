@@ -1,0 +1,5 @@
+14,167,7
+from,1
+gujarati,1
+gandhijini,1
+sadhana,1

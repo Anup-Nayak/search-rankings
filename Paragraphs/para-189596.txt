@@ -1,0 +1,14 @@
+53,330,8
+go,1
+i,1
+beg,1
+of,1
+you,1
+and,2
+introspect,1
+after,1
+purification,1
+come,1
+to,1
+the,1
+altar,1

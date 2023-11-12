@@ -1,0 +1,13 @@
+82,83,8
+hinduism,1
+is,2
+the,1
+greatest,1
+curse,1
+of,1
+india,1
+and,2
+it,1
+based,1
+on,1
+intolerance,1

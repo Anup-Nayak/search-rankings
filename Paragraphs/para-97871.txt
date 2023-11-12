@@ -1,0 +1,13 @@
+29,57,8
+new,1
+india,1
+writes,1
+mr,1
+gandhi,1
+made,1
+a,1
+statement,1
+on,2
+august,1
+31,1
+published,1

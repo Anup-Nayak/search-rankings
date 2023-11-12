@@ -1,0 +1,9 @@
+9,143,9
+4,1
+no,1
+report,1
+of,1
+this,1
+speech,1
+is,1
+available,1

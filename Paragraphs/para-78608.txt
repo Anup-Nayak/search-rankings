@@ -1,0 +1,13 @@
+23,24,34
+part,1
+to,1
+import,1
+goods,1
+of,1
+foreign,1
+manufacture,1
+and,2
+thus,1
+make,2
+india,1
+poor,1

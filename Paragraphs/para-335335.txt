@@ -1,0 +1,12 @@
+87,195,1
+unalterable,1
+then,1
+the,2
+congress,1
+would,1
+have,1
+no,1
+place,1
+in,1
+new,1
+government,1

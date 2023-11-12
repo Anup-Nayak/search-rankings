@@ -1,0 +1,7 @@
+30,325,9
+198,1
+letter,1
+to,1
+narottam,1
+lalji,1
+joshi,1

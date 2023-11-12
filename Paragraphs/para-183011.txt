@@ -1,0 +1,14 @@
+52,100,5
+nation,1
+for,1
+momplete,1
+independence,1
+which,1
+is,1
+good,1
+in,1
+itself,1
+but,1
+they,1
+also,1
+give,1

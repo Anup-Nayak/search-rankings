@@ -1,0 +1,10 @@
+30,462,3
+268,1
+speech,1
+in,1
+reply,1
+to,1
+welcome,1
+addresses,1
+tiruchengode,1
+1,1

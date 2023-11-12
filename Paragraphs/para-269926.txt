@@ -1,0 +1,5 @@
+72,332,5
+434,1
+some,1
+criticism,1
+answered,1

@@ -1,0 +1,7 @@
+10,333,6
+prisoners,1
+carry,1
+slop,1
+pails,1
+for,1
+re,1

@@ -1,0 +1,6 @@
+90,28,2
+40,1
+what,1
+after,1
+finishing,1
+studies,1

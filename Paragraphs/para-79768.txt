@@ -1,0 +1,16 @@
+23,245,4
+1,1
+1844,1
+1906,1
+judge,1
+legislator,1
+president,2
+indian,2
+national,2
+congress,2
+1887,1
+2,1
+1845,1
+1915,1
+1890,1
+1909,1

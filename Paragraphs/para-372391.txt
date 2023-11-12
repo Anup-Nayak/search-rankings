@@ -1,0 +1,7 @@
+96,296,10
+409,1
+letter,1
+to,1
+abdul,1
+qayyum,1
+ansari,1

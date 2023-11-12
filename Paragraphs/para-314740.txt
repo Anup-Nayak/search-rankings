@@ -1,0 +1,15 @@
+82,386,28
+complete,1
+if,1
+social,1
+transformation,1
+is,1
+effected,1
+by,1
+a,1
+slow,1
+gradual,1
+process,1
+it,1
+will,1
+kill,1

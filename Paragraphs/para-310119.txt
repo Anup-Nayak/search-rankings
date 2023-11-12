@@ -1,0 +1,8 @@
+82,22,28
+boy,1
+at,1
+his,1
+option,1
+these,1
+will,1
+be,1

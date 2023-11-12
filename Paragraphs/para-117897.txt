@@ -1,0 +1,5 @@
+35,60,3
+95,1
+letter,1
+to,1
+mahasukh,1

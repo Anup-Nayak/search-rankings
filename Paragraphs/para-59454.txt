@@ -1,0 +1,9 @@
+17,74,15
+interminable,1
+delay,1
+is,1
+taking,1
+place,1
+in,1
+the,1
+amendments,1

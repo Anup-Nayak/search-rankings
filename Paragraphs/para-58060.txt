@@ -1,0 +1,7 @@
+16,463,6
+the,2
+duty,1
+of,1
+committee,1
+will,1
+be,1

@@ -1,0 +1,6 @@
+30,170,3
+to,1
+thakers,1
+1,1
+gokaldas,1
+morvi,1

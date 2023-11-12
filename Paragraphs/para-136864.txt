@@ -1,0 +1,6 @@
+40,58,3
+28,1
+speech,1
+to,1
+arundhatiyas,1
+perambur,1

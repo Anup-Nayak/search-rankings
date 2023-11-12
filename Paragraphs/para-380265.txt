@@ -1,0 +1,9 @@
+98,398,2
+from,1
+the,2
+photostat,1
+of,1
+gujarati,1
+g,1
+n,1
+9012,1

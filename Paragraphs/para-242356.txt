@@ -1,0 +1,10 @@
+66,44,11
+2,1
+for,1
+other,1
+people,1
+learning,1
+about,1
+the,1
+addressees,1
+fast,1

@@ -1,0 +1,9 @@
+57,106,2
+untouchability,1
+in,1
+every,1
+shape,1
+or,1
+from,1
+and,1
+therefore,1

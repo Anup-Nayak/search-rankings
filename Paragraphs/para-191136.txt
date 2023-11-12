@@ -1,0 +1,12 @@
+54,26,1
+14,1
+extract,1
+from,1
+proceedings,1
+of,1
+the,1
+federal,1
+structure,1
+committee,1
+meeting,1
+1,1

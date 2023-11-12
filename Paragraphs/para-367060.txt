@@ -1,0 +1,14 @@
+95,50,8
+from,1
+the,1
+hindi,1
+original,1
+rani,1
+vidyavati,1
+papers,1
+courtesy,1
+national,1
+gandhi,1
+museum,1
+and,1
+library,1

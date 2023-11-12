@@ -1,0 +1,6 @@
+12,187,5
+the,1
+editor,1
+sporting,1
+star,1
+johannesburg,1

@@ -1,0 +1,7 @@
+94,262,5
+from,1
+gujarati,1
+biharni,1
+komi,1
+agman,1
+pp,1

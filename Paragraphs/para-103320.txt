@@ -1,0 +1,10 @@
+30,257,6
+134,1
+speech,1
+in,1
+reply,1
+to,1
+welcome,1
+address,1
+rajkot,1
+2,1

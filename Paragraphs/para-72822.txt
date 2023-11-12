@@ -1,0 +1,9 @@
+21,48,10
+allowed,1
+to,2
+continue,1
+be,1
+tried,1
+under,1
+martial,1
+law,1

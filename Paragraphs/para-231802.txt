@@ -1,0 +1,6 @@
+63,336,3
+inquiring,1
+about,1
+tithal,1
+others,1
+unavailable,1

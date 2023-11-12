@@ -1,0 +1,6 @@
+3,195,17
+condition,1
+of,1
+houses,1
+and,1
+yards,1

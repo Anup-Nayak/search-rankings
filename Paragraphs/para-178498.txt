@@ -1,0 +1,8 @@
+51,77,31
+five,1
+men,1
+killed,1
+and,1
+dozen,1
+wounded,1
+in,1

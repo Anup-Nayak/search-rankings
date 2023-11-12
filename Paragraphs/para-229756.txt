@@ -1,0 +1,8 @@
+63,60,10
+certainly,1
+attend,1
+exclusively,1
+bihar,1
+calamity,1
+1,1
+love,1

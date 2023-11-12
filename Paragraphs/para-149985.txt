@@ -1,0 +1,8 @@
+43,338,4
+your,1
+wire,1
+accept,1
+presidentship,1
+on,1
+condition,1
+sammelan,1

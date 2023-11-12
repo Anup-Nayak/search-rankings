@@ -1,0 +1,7 @@
+40,486,8
+what,1
+has,1
+hinduism,1
+done,1
+for,1
+us,1

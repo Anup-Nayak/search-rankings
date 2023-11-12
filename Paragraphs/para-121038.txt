@@ -1,0 +1,7 @@
+35,433,7
+553,1
+letter,1
+to,1
+laxmidas,1
+p,1
+asar,1

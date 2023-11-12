@@ -1,0 +1,10 @@
+56,8,3
+the,3
+worship,1
+of,1
+lord,1
+reaches,1
+unto,1
+him,1
+clay,2
+remains,1

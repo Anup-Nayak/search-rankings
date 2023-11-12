@@ -1,0 +1,11 @@
+44,498,12
+t4,1
+for,1
+and,1
+that,2
+of,2
+my,2
+people,2
+guj,1
+has,1
+is,1

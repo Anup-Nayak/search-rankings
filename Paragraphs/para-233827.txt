@@ -1,0 +1,16 @@
+64,53,5
+settlement,1
+of,1
+the,1
+labour,1
+strike,1
+during,1
+his,1
+visit,1
+to,1
+bombay,1
+but,1
+he,2
+knew,1
+that,1
+had,1

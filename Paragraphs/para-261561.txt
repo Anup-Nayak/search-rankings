@@ -1,0 +1,6 @@
+70,190,11
+the,1
+missionaries,1
+as,1
+a,1
+class,1

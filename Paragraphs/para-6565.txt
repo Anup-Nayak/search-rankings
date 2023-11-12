@@ -1,0 +1,10 @@
+3,59,10
+war,1
+and,1
+that,1
+the,2
+laws,1
+are,1
+contrary,1
+to,1
+proclamation,1

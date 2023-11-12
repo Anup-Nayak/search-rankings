@@ -1,0 +1,8 @@
+32,469,1
+this,1
+country,1
+the,1
+reasons,1
+are,1
+as,1
+follows,1

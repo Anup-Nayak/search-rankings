@@ -1,0 +1,14 @@
+54,40,4
+the,1
+scientist,1
+bishop,1
+made,1
+out,1
+a,1
+strong,1
+case,1
+for,1
+science,1
+and,1
+machinery,1
+which,1

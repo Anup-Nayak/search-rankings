@@ -1,0 +1,15 @@
+12,340,9
+again,1
+went,1
+to,2
+town,1
+in,1
+the,1
+afternoon,1
+returned,1
+phoenix,1
+with,1
+pragji,1
+by,1
+evening,1
+train,1

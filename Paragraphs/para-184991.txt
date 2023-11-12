@@ -1,0 +1,6 @@
+52,312,7
+coarse,1
+mill,1
+cloth,1
+as,1
+khadi,1

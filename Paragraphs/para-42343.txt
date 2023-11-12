@@ -1,0 +1,8 @@
+13,69,12
+accepts,1
+three,1
+yea,1
+rs,1
+residence,1
+equivalent,1
+domicile,1

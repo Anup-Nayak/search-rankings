@@ -1,0 +1,13 @@
+82,414,15
+thirty,1
+eight,2
+million,2
+in,2
+1931,1
+to,1
+three,1
+hundred,1
+and,1
+eighty,1
+1941,1
+fifty,1

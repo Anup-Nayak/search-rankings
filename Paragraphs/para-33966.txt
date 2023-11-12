@@ -1,0 +1,4 @@
+11,46,1
+wisdom,1
+and,1
+strength,1

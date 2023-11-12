@@ -1,0 +1,10 @@
+31,9,2
+1,1
+g,1
+k,1
+gokhale,1
+1866,1
+1915,1
+educationist,1
+and,1
+statesman,1

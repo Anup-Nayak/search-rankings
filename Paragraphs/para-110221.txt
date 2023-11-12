@@ -1,0 +1,8 @@
+32,405,7
+regret,1
+have,1
+no,1
+influence,1
+over,1
+either,1
+section,1

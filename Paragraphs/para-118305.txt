@@ -1,0 +1,13 @@
+35,109,11
+1,1
+the,2
+year,1
+is,1
+inferred,1
+from,1
+mention,1
+of,2
+cancellation,1
+trip,1
+to,1
+mussoorie,1

@@ -1,0 +1,15 @@
+76,278,7
+of,2
+yarn,2
+she,1
+has,1
+to,3
+spin,1
+we,1
+are,1
+not,1
+able,1
+control,1
+the,2
+count,1
+suit,1

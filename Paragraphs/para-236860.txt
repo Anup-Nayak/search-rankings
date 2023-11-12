@@ -1,0 +1,13 @@
+64,392,7
+on,2
+the,3
+gospel,1
+of,1
+day,1
+and,2
+spoke,1
+strict,1
+honesty,1
+integrity,1
+in,1
+business,1

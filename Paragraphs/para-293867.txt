@@ -1,0 +1,9 @@
+78,228,17
+the,1
+minimum,1
+quantity,1
+of,1
+yarn,1
+he,1
+should,1
+produce,1

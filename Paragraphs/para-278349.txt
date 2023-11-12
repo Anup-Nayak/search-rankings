@@ -1,0 +1,7 @@
+74,308,7
+and,1
+if,1
+then,1
+the,1
+tyrants,1
+dare,1

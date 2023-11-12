@@ -1,0 +1,10 @@
+15,110,3
+july,1
+19,1
+monday,1
+meeting,1
+with,1
+several,1
+gentlemen,1
+shyamlal,1
+came,1

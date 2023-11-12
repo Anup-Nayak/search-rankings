@@ -1,0 +1,6 @@
+68,114,5
+140,1
+need,1
+for,1
+humane,1
+custom,1

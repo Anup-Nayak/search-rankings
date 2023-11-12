@@ -1,0 +1,4 @@
+67,299,4
+wealth,1
+well,1
+used,1

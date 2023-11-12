@@ -1,0 +1,5 @@
+81,360,1
+5,1
+other,1
+village,1
+industries,1

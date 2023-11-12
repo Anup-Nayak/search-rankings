@@ -1,0 +1,8 @@
+14,13,8
+postponement,1
+but,1
+told,1
+public,1
+we,1
+shall,1
+suspend,1

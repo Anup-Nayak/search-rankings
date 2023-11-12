@@ -1,0 +1,11 @@
+82,147,8
+2,1
+explaining,1
+to,1
+them,1
+the,1
+present,1
+emergency,1
+and,1
+possible,1
+events,1

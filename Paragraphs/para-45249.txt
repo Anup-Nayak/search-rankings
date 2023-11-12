@@ -1,0 +1,10 @@
+13,432,17
+said,1
+tax,1
+ought,1
+not,1
+be,1
+repealed,1
+is,1
+colonel,1
+defence,1

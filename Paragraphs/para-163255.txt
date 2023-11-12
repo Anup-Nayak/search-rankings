@@ -1,0 +1,11 @@
+47,103,2
+these,1
+are,1
+the,3
+remarks,1
+of,2
+chief,1
+justice,1
+patna,1
+high,1
+court,1

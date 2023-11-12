@@ -1,0 +1,5 @@
+6,67,4
+69,1
+shepherds,1
+bush,1
+road,1

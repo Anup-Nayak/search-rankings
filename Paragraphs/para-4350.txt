@@ -1,0 +1,6 @@
+2,238,7
+70,1
+covering,1
+letter,1
+to,1
+petition,1

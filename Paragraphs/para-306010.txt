@@ -1,0 +1,17 @@
+81,80,10
+relevant,1
+questions,1
+that,2
+i,1
+put,1
+to,1
+you,2
+do,1
+think,1
+this,1
+silence,1
+of,1
+yours,1
+is,1
+helpful,1
+for,1

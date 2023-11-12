@@ -1,0 +1,14 @@
+33,20,5
+west,1
+had,1
+gone,1
+very,1
+much,1
+ahead,1
+in,2
+the,1
+western,1
+countries,1
+particularly,1
+england,1
+and,1

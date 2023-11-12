@@ -1,0 +1,14 @@
+82,71,17
+1,1
+the,2
+paragraphs,1
+which,1
+follow,1
+have,1
+been,1
+separated,1
+in,1
+source,1
+by,1
+two,1
+dashes,1

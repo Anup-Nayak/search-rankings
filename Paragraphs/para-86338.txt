@@ -1,0 +1,9 @@
+25,331,7
+stopped,1
+can,1
+you,1
+point,1
+one,1
+but,1
+i,1
+am,1

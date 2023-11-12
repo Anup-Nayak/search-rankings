@@ -1,0 +1,15 @@
+80,254,7
+1,1
+this,2
+and,2
+the,2
+following,2
+paragraph,1
+are,2
+reproduced,2
+from,2
+congress,2
+bulletin,2
+2,1
+three,1
+paragraphs,1

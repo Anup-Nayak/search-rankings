@@ -1,0 +1,12 @@
+10,99,9
+dear,1
+sir,1
+the,2
+transvaal,1
+deputation,1
+have,1
+received,1
+following,1
+cablegram,1
+from,1
+johannesburg,1

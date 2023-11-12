@@ -1,0 +1,8 @@
+58,433,6
+616,1
+letter,1
+to,1
+k,1
+r,1
+krishna,1
+murthi,1

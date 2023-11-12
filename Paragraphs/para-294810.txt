@@ -1,0 +1,10 @@
+78,316,20
+facts,1
+are,2
+known,1
+and,2
+your,1
+deliberate,1
+moderation,1
+openness,1
+interpreted,1

@@ -1,0 +1,6 @@
+6,418,5
+360,1
+letter,1
+to,1
+rand,1
+pioneers1,1

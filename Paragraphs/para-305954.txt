@@ -1,0 +1,17 @@
+81,76,2
+september,1
+10,1
+1941,1
+i,2
+am,1
+doing,1
+whatever,2
+can,1
+and,1
+is,1
+possible,1
+while,1
+remaining,1
+in,1
+the,1
+background,1

@@ -1,0 +1,14 @@
+34,409,4
+i,2
+attach,1
+great,1
+importance,1
+to,1
+charkha,1
+and,1
+khaddar,1
+but,1
+sorry,1
+do,1
+not,1
+feel,1

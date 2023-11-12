@@ -1,0 +1,6 @@
+67,325,5
+510,1
+letter,1
+to,1
+ramdas,1
+gandhi,1

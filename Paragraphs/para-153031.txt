@@ -1,0 +1,12 @@
+44,268,3
+the,1
+journey,1
+was,1
+from,1
+calcutta,1
+to,2
+rajkot,1
+and,1
+i,1
+planned,1
+halt,1

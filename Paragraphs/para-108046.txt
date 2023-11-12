@@ -1,0 +1,12 @@
+32,17,3
+calcutta,1
+june,1
+18,1
+1925,1
+1,1
+pandit,1
+motilal,1
+nehru,1
+hurst,1
+lodge,1
+dalhousie,1

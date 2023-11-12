@@ -1,0 +1,10 @@
+29,42,10
+1,1
+vice,1
+chancellor,1
+of,1
+the,1
+national,1
+university,1
+at,1
+aligarh,1

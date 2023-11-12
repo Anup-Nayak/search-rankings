@@ -1,0 +1,5 @@
+79,287,7
+a,1
+friend,1
+writes,1
+thus,1

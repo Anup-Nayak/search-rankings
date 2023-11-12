@@ -1,0 +1,16 @@
+20,96,11
+a,2
+yes,1
+after,1
+i,1
+got,1
+the,1
+necessary,1
+guarantee,1
+that,1
+such,1
+thing,1
+would,1
+not,1
+happen,1
+again,1

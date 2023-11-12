@@ -1,0 +1,17 @@
+49,182,3
+got,1
+up,1
+and,1
+said,1
+long,1
+ago,1
+he,2
+had,1
+done,1
+so,1
+asked,1
+the,1
+parents,1
+to,1
+withdraw,1
+students,1

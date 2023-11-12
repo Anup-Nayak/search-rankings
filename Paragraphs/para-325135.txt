@@ -1,0 +1,7 @@
+85,136,6
+192,1
+letter,1
+to,1
+jyotilal,1
+a,1
+mehta,1

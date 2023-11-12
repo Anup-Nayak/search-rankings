@@ -1,0 +1,12 @@
+82,385,9
+date,1
+what,1
+happened,1
+in,1
+the,1
+intervening,1
+period,1
+was,1
+of,1
+comparatively,1
+small,1

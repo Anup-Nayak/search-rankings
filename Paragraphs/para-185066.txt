@@ -1,0 +1,15 @@
+52,323,9
+gandhi,1
+would,1
+not,1
+have,1
+believed,1
+it,1
+althought,1
+he,1
+had,1
+appreciated,1
+the,1
+work,1
+of,1
+parsis,1

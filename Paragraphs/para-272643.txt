@@ -1,0 +1,9 @@
+73,146,1
+159,1
+speech,1
+at,1
+edwards,1
+mission,1
+college,1
+peshawar,1
+1,1

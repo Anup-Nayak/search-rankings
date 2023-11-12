@@ -1,0 +1,13 @@
+28,346,7
+health,1
+is,1
+perfectly,1
+good,1
+do,1
+not,1
+believe,1
+any,1
+rumours,1
+to,1
+the,1
+contrary,1

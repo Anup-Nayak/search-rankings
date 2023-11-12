@@ -1,0 +1,6 @@
+91,188,5
+238,1
+talk,1
+with,1
+vallabhbhai,1
+pateli,1

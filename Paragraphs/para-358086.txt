@@ -1,0 +1,7 @@
+92,374,5
+15,1
+college,1
+square,1
+khadi,1
+pratishthan,1
+calcutta,1

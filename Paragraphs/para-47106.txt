@@ -1,0 +1,10 @@
+14,152,10
+published,1
+if,1
+i,1
+can,1
+have,1
+reassuring,1
+answer,1
+it,1
+will,1

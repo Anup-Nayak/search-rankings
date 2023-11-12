@@ -1,0 +1,9 @@
+42,127,7
+aparigraha,1
+enjoy,1
+it,1
+after,1
+giving,1
+up,1
+its,1
+possession,1

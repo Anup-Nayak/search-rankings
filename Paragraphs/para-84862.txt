@@ -1,0 +1,4 @@
+25,110,3
+an,1
+ingenious,1
+suggestion,1

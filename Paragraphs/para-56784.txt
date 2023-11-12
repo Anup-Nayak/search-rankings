@@ -1,0 +1,13 @@
+16,280,8
+extract,1
+from,1
+a,1
+photostat,1
+of,1
+wests,1
+original,1
+typewritten,1
+letter,1
+g,1
+n,1
+7605,1

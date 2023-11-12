@@ -1,0 +1,3 @@
+7,355,3
+from,1
+gujarati,1

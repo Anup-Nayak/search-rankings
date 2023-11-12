@@ -1,0 +1,9 @@
+94,354,8
+blessings,1
+from,1
+bapu,1
+ps,1
+i,1
+got,1
+the,1
+list,1

@@ -1,0 +1,13 @@
+82,347,11
+us,1
+in,2
+this,1
+country,1
+indulges,1
+when,1
+taking,1
+our,1
+meals,1
+morning,1
+and,1
+evening,1

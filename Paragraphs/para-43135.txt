@@ -1,0 +1,9 @@
+13,157,5
+1,1
+vide,1
+plague,1
+in,1
+johannesburg,1
+9,1
+4,1
+1904,1

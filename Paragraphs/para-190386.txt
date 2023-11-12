@@ -1,0 +1,15 @@
+53,443,5
+mr,1
+arthur,1
+j,1
+davis,1
+the,1
+massachusetts,1
+anti,1
+saloon,1
+league,1
+345,1
+tremont,2
+building,1
+73,1
+street,1

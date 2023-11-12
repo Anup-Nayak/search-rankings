@@ -1,0 +1,14 @@
+93,83,11
+dear,1
+friend,1
+i,1
+thank,1
+you,1
+for,1
+inviting,1
+me,1
+there,1
+is,1
+no,1
+possibility,1
+whatsoever,1

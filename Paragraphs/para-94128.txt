@@ -1,0 +1,15 @@
+27,470,9
+government,1
+based,1
+on,2
+violence,1
+is,1
+only,1
+a,1
+question,1
+of,1
+degree,1
+and,1
+depends,1
+the,1
+object,1

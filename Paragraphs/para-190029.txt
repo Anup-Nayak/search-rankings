@@ -1,0 +1,9 @@
+53,393,5
+438,1
+speech,1
+at,1
+meeting,1
+of,1
+federal,1
+structure,1
+committee,1

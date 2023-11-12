@@ -1,0 +1,11 @@
+26,73,1
+advising,1
+them,1
+to,1
+pay,1
+the,2
+rents,1
+due,1
+for,1
+current,1
+period,1

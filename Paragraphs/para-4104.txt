@@ -1,0 +1,12 @@
+2,205,2
+v,2
+a,4
+chetty,1
+pillay,1
+and,1
+co,1
+moorroosamy,1
+modeliar,1
+kestnasamy,1
+appasamy,1
+annexure,1

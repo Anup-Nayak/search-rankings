@@ -1,0 +1,8 @@
+60,87,5
+everything,1
+will,1
+be,1
+achieved,1
+through,1
+purity,1
+2,1

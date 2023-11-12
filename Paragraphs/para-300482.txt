@@ -1,0 +1,7 @@
+80,57,3
+about,1
+election,1
+2,1
+follow,1
+maulanas,1
+direction,1

@@ -1,0 +1,7 @@
+27,166,7
+178,1
+letter,1
+to,1
+h,1
+walter,1
+heegstra,1

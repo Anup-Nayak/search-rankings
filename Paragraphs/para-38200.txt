@@ -1,0 +1,14 @@
+11,502,2
+a,1
+that,1
+the,1
+applicant,1
+has,1
+failed,1
+to,1
+produce,1
+satisfactory,1
+evidence,1
+of,1
+good,1
+character,1

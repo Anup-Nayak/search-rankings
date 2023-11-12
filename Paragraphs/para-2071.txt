@@ -1,0 +1,7 @@
+1,423,2
+buckingham,1
+hotel,1
+madras,1
+october,1
+18,1
+1896,1

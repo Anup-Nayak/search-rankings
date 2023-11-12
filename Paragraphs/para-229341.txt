@@ -1,0 +1,6 @@
+63,1,4
+3,1
+speech,1
+at,1
+palluruthy,1
+1,1

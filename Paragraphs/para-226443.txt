@@ -1,0 +1,9 @@
+62,87,6
+do,1
+take,1
+n,1
+temple,1
+s,1
+if,1
+she,1
+wishes,1

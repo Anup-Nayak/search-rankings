@@ -1,0 +1,12 @@
+72,108,8
+1,1
+vide,2
+letter,1
+to,2
+amtussalaam,2
+6,1
+8,2
+1937,2
+2,1
+telegram,1
+7,1

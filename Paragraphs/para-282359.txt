@@ -1,0 +1,9 @@
+75,302,4
+a,1
+always,1
+all,1
+congress,1
+people,1
+work,1
+for,1
+peace,1

@@ -1,0 +1,3 @@
+42,307,2
+foreign,1
+propaganda,1

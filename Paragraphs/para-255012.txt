@@ -1,0 +1,6 @@
+68,412,4
+from,1
+devanagari,1
+transliteration,1
+of,1
+urdu,1

@@ -1,0 +1,13 @@
+6,145,21
+welcome,1
+these,1
+indian,1
+traders,1
+because,1
+they,2
+find,1
+can,1
+get,1
+things,1
+more,1
+cheaply,1

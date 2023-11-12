@@ -1,0 +1,6 @@
+14,10,31
+acceptance,1
+present,1
+commission,1
+implied,1
+communitys,1

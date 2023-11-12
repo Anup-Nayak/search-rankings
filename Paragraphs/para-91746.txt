@@ -1,0 +1,12 @@
+27,164,9
+m,1
+k,1
+gandhi,1
+the,1
+rev,1
+h,1
+r,1
+scott,1
+mission,1
+house,1
+surat,1

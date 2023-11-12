@@ -1,0 +1,10 @@
+35,407,12
+1,1
+wife,1
+of,2
+the,1
+addressee,1
+and,1
+daughter,1
+laxmidas,1
+asar,1

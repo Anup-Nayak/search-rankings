@@ -1,0 +1,7 @@
+74,322,14
+even,1
+in,1
+face,1
+of,1
+provoking,1
+restrictions,1

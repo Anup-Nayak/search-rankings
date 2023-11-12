@@ -1,0 +1,7 @@
+64,429,5
+m,1
+k,1
+g,1
+abbas,1
+tyabji,1
+baroda,1

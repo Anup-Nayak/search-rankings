@@ -1,0 +1,7 @@
+80,440,4
+760,1
+letter,1
+to,1
+natvarlal,1
+j,1
+vepari,1

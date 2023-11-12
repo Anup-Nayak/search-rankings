@@ -1,0 +1,11 @@
+15,478,18
+mr,1
+gandhi,1
+then,1
+half,1
+of,1
+the,1
+ryots,1
+story,1
+is,1
+true,1

@@ -1,0 +1,16 @@
+33,52,4
+1,1
+gandhiji,1
+reached,1
+kutch,2
+on,1
+october,1
+22,1
+1925,1
+2,1
+the,2
+ruler,1
+of,2
+then,1
+princely,1
+state,1

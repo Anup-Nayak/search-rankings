@@ -1,0 +1,9 @@
+22,382,3
+203,1
+message,1
+to,1
+lahore,1
+sikhs,1
+on,1
+nankana,1
+tragedy,1

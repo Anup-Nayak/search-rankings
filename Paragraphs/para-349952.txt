@@ -1,0 +1,6 @@
+90,395,3
+500,1
+telegram,1
+to,1
+seth,1
+govinddas,1

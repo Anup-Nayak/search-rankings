@@ -1,0 +1,6 @@
+96,359,1
+477,1
+statement,1
+to,1
+the,1
+press,1

@@ -1,0 +1,13 @@
+46,160,5
+inhabitants,1
+are,1
+all,1
+peasants,1
+there,1
+is,1
+the,2
+usual,1
+poverty,1
+village,1
+sends,1
+a,1

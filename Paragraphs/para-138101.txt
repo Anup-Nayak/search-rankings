@@ -1,0 +1,10 @@
+40,290,10
+consider,1
+this,1
+satisfactory,1
+please,1
+repeat,1
+whole,1
+text,1
+proper,1
+quarters,1

@@ -1,0 +1,4 @@
+66,3,9
+2,1
+wounded,1
+humanity,1

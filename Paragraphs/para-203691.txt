@@ -1,0 +1,12 @@
+57,89,3
+from,1
+a,1
+photostat,1
+g,1
+n,1
+783,1
+also,1
+the,1
+epic,1
+fast,1
+pp,1

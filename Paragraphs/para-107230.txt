@@ -1,0 +1,6 @@
+31,374,2
+inverted,1
+untouchability,1
+a,1
+correspondent,1
+writes,1

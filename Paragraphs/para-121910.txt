@@ -1,0 +1,6 @@
+36,73,2
+yours,1
+shrimati,1
+basanti,1
+devi,1
+calcutta,1

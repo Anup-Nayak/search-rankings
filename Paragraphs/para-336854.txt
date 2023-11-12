@@ -1,0 +1,8 @@
+87,343,5
+from,1
+the,1
+hindi,1
+original,1
+pyarelal,2
+papers,1
+courtesy,1

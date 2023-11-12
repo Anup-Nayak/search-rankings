@@ -1,0 +1,12 @@
+82,393,9
+intercourse,1
+which,1
+is,1
+written,1
+in,1
+both,1
+the,3
+devanagari,1
+and,2
+persian,1
+scripts,1

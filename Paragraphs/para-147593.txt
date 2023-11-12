@@ -1,0 +1,7 @@
+43,56,10
+2,1
+the,1
+gujarati,1
+original,1
+has,1
+ahimsa,1

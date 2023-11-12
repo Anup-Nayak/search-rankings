@@ -1,0 +1,10 @@
+84,188,3
+250,1
+letter,1
+to,1
+editor,1
+in,1
+charge,1
+free,1
+press,1
+journal,1

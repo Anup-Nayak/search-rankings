@@ -1,0 +1,11 @@
+91,301,6
+l,1
+f,1
+there,1
+is,1
+so,1
+much,1
+anti,1
+white,1
+feeling,1
+today,1

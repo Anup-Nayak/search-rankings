@@ -1,0 +1,12 @@
+80,261,7
+1,1
+addressees,1
+eldest,1
+son,1
+2,1
+owner,1
+of,2
+the,1
+janmabhoomi,1
+group,1
+papers,1

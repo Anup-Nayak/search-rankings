@@ -1,0 +1,16 @@
+78,353,3
+poet,1
+put,1
+into,1
+the,2
+mouth,1
+of,2
+god,1
+who,1
+addresses,1
+moses,1
+in,1
+verse,1
+14,1
+poem,1
+viz,1

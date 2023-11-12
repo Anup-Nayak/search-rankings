@@ -1,0 +1,13 @@
+52,189,3
+i,1
+am,1
+in,2
+full,1
+agreement,1
+with,1
+you,1
+your,1
+protest,1
+against,1
+the,1
+methods,1

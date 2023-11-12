@@ -1,0 +1,7 @@
+6,63,9
+52,1
+letter,1
+to,1
+sir,1
+henry,1
+cotton,1

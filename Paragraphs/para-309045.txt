@@ -1,0 +1,8 @@
+81,402,3
+670,1
+letter,1
+to,1
+madalasa,1
+january,1
+2,1
+1942,1

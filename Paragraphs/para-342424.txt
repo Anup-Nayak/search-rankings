@@ -1,0 +1,14 @@
+88,419,11
+1,1
+this,1
+is,1
+in,1
+reply,1
+to,1
+the,1
+addressees,1
+letter,1
+dated,1
+december,1
+4,1
+1945,1

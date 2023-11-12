@@ -1,0 +1,14 @@
+81,510,36
+situation,1
+these,1
+tendencies,1
+are,1
+likely,1
+to,1
+be,1
+accentuated,1
+in,1
+the,1
+future,1
+and,1
+dislocation,1

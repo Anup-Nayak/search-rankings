@@ -1,0 +1,10 @@
+19,405,5
+2,1
+the,2
+lt,1
+governor,1
+of,1
+punjab,1
+3,1
+charge,1
+sheeted,1

@@ -1,0 +1,14 @@
+9,488,13
+i,1
+am,1
+not,1
+aware,1
+that,2
+the,1
+prison,1
+regulations,1
+demand,1
+a,1
+prisoner,1
+when,1
+giving,1

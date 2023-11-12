@@ -1,0 +1,12 @@
+92,402,3
+a,1
+be,1
+ineligible,1
+for,1
+office,1
+under,2
+any,2
+authority,1
+constituted,1
+law,1
+or,1

@@ -1,0 +1,7 @@
+65,207,7
+267,1
+letter,1
+to,1
+draupadi,1
+devi,1
+sharma,1

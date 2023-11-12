@@ -1,0 +1,12 @@
+58,313,7
+was,1
+not,1
+opened,1
+before,1
+then,1
+if,1
+fast,1
+were,1
+to,1
+be,1
+taken,1

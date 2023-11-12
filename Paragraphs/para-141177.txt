@@ -1,0 +1,8 @@
+41,250,8
+taking,1
+milk,1
+from,1
+yesterday,1
+for,1
+moral,1
+reasons,1

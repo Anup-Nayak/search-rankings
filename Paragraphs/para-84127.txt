@@ -1,0 +1,14 @@
+24,471,10
+between,1
+300,1
+and,3
+400,1
+indians,1
+he,1
+enjoys,1
+a,2
+pension,1
+of,1
+900,1
+year,1
+his,1

@@ -1,0 +1,16 @@
+32,458,11
+hundred,1
+and,1
+twenty,1
+five,1
+but,1
+for,1
+this,1
+he,1
+was,1
+not,1
+going,1
+to,1
+blame,1
+the,1
+teachers,1

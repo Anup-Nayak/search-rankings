@@ -1,0 +1,7 @@
+29,136,11
+going,1
+delhi,2
+tomorrow,1
+morning,1
+come,1
+directly,1

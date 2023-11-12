@@ -1,0 +1,16 @@
+10,494,7
+i,2
+have,1
+not,1
+seen,1
+the,1
+statement,1
+by,1
+reuters,1
+agent,1
+to,1
+which,1
+you,1
+refer,1
+but,1
+will,1

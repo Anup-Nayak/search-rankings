@@ -1,0 +1,3 @@
+10,440,5
+satyagraha,1
+fund,1

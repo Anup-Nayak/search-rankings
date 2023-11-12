@@ -1,0 +1,7 @@
+54,288,5
+162,1
+speech,1
+at,1
+womens,1
+meeting,1
+rome,1

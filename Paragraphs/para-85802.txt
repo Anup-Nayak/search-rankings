@@ -1,0 +1,4 @@
+25,260,2
+agha,1
+saheb,1
+safdar,1

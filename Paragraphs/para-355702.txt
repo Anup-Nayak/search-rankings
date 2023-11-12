@@ -1,0 +1,15 @@
+92,119,5
+month,1
+or,1
+5,1
+hanks,1
+if,1
+he,1
+has,1
+done,1
+his,1
+own,1
+ginning,1
+carding,1
+and,1
+slivering,1

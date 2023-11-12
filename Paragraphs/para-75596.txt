@@ -1,0 +1,8 @@
+22,1,4
+2,2
+speech,1
+on,1
+non,1
+co,1
+operation,1
+agra,1

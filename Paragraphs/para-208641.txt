@@ -1,0 +1,8 @@
+58,138,7
+1,1
+ambalal,1
+sarabhai,1
+2,1
+amritlal,1
+v,1
+thakkar,1

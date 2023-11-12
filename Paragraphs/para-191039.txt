@@ -1,0 +1,15 @@
+54,11,10
+scheme,2
+i,1
+am,1
+still,1
+at,1
+a,2
+loss,1
+to,1
+understand,1
+what,1
+is,1
+meant,1
+by,1
+minimum,1

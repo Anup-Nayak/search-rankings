@@ -1,0 +1,7 @@
+73,76,12
+glad,1
+your,1
+discharge,1
+health,1
+all,1
+right,1

@@ -1,0 +1,6 @@
+15,215,3
+mohandas,1
+karamchand,1
+gandhi,1
+from,1
+gujarati,1

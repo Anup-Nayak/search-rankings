@@ -1,0 +1,14 @@
+3,272,2
+2,1
+the,1
+age,1
+of,1
+majority,1
+has,1
+now,1
+been,1
+arbitrarily,1
+fixed,1
+at,1
+sixteen,1
+years,1

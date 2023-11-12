@@ -1,0 +1,6 @@
+13,149,1
+102,1
+telegram,1
+to,1
+senator,1
+schreiner,1

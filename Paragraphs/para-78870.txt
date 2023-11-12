@@ -1,0 +1,12 @@
+23,77,9
+congress,1
+creed,1
+and,2
+running,1
+of,3
+20,1
+lakhs,1
+spinning,1
+wheels,1
+the,1
+curse,1

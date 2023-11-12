@@ -1,0 +1,8 @@
+86,160,15
+a,1
+that,1
+charge,1
+is,1
+only,1
+partly,1
+true,1

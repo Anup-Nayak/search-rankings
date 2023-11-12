@@ -1,0 +1,11 @@
+47,354,4
+i,1
+do,1
+not,1
+wish,1
+add,1
+anything,1
+to,1
+all,1
+parties,1
+joint,1

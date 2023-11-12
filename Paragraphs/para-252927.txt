@@ -1,0 +1,14 @@
+68,183,4
+2,1
+the,1
+paragraph,1
+relating,1
+to,1
+tamarind,1
+and,1
+lemon,1
+might,1
+be,1
+modified,1
+as,1
+follows,1

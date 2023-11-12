@@ -1,0 +1,6 @@
+25,88,13
+1,1
+gujarati,1
+sayings,1
+2,1
+ibid,1

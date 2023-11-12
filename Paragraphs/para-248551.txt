@@ -1,0 +1,9 @@
+67,175,13
+was,1
+carried,1
+on,1
+hindustani,1
+request,1
+waive,1
+condition,1
+english,1

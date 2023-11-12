@@ -1,0 +1,7 @@
+46,399,5
+becomes,1
+imperative,1
+uncooked,1
+stopped,1
+since,1
+thursday,1

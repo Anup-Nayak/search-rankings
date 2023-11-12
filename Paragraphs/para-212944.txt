@@ -1,0 +1,13 @@
+59,72,4
+1,1
+of,2
+the,2
+all,1
+india,1
+harijan,1
+sevak,1
+sangh,1
+2,1
+on,1
+question,1
+untouchability,1

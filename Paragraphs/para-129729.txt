@@ -1,0 +1,12 @@
+38,73,2
+ble,1
+ssings,1
+from,2
+bapu,1
+chi,1
+manibehn,1
+patel,1
+satyagraha,1
+ashram,1
+sabarmati,1
+gujarati,1

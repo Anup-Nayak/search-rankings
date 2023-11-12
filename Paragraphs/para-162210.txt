@@ -1,0 +1,16 @@
+46,453,12
+hindu,1
+muslim,1
+unity,1
+people,1
+should,1
+pray,1
+to,1
+god,1
+that,2
+being,1
+so,1
+will,1
+you,1
+say,1
+the,1

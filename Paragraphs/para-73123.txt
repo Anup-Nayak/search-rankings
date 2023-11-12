@@ -1,0 +1,5 @@
+21,86,20
+caliphate,1
+and,1
+jallianwala,1
+affairs,1

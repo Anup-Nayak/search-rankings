@@ -1,0 +1,14 @@
+76,436,23
+the,1
+a,1
+i,1
+c,2
+however,1
+does,1
+not,1
+wish,1
+to,1
+take,1
+any,1
+final,1
+decision,1

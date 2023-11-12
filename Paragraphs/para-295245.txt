@@ -1,0 +1,10 @@
+78,364,5
+m,1
+k,1
+gandhi,1
+lala,1
+bishan,1
+nath,1
+advocate,1
+anarkali,1
+lahore,1

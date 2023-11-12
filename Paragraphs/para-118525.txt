@@ -1,0 +1,8 @@
+35,134,8
+shankaran,1
+nambudripad,1
+koprattu,1
+illam,1
+kottayam,1
+north,1
+travancore,1

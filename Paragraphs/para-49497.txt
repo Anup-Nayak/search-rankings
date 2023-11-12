@@ -1,0 +1,7 @@
+14,462,4
+extract,1
+from,1
+general,1
+bothas,1
+speech,1
+1,1

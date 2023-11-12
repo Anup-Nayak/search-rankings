@@ -1,0 +1,15 @@
+92,213,3
+a,1
+correspondent,1
+who,1
+sends,1
+his,1
+name,1
+and,1
+describes,1
+himself,1
+as,1
+devoted,1
+to,1
+service,1
+writes,1

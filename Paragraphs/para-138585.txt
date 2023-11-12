@@ -1,0 +1,7 @@
+40,355,8
+246,1
+speech,1
+to,1
+chettiar,1
+community,1
+colombo,1

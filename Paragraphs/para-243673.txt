@@ -1,0 +1,9 @@
+66,179,6
+if,1
+you,1
+have,1
+confidence,1
+may,1
+accept,1
+bank,1
+offer,1

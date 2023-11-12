@@ -1,0 +1,5 @@
+69,84,10
+106,1
+the,1
+leprosy,1
+problem,1

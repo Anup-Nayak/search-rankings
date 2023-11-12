@@ -1,0 +1,7 @@
+14,136,2
+1,1
+remain,1
+yours,1
+mohandas,1
+k,1
+gandhi,1

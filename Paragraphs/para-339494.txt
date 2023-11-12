@@ -1,0 +1,6 @@
+88,124,2
+shanker,1
+kutir,1
+ranka,1
+colony,1
+nagpur,1

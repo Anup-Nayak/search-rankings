@@ -1,0 +1,11 @@
+19,170,5
+from,1
+the,1
+gujarati,1
+original,1
+in,1
+gandhijis,1
+hand,1
+s,1
+n,1
+7021,1

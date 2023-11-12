@@ -1,0 +1,11 @@
+66,133,2
+khan,2
+saheb,1
+abdul,1
+ghaffar,1
+b,1
+class,1
+prisoner,1
+central,1
+prison,1
+sabarmati,1

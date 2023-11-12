@@ -1,0 +1,5 @@
+72,289,2
+for,1
+orissa,1
+flood,1
+relief,1

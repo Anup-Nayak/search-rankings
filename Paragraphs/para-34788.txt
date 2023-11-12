@@ -1,0 +1,12 @@
+11,147,12
+some,1
+fairly,1
+important,1
+concessions,1
+to,1
+british,1
+indians,1
+which,1
+without,1
+weakening,1
+the,1

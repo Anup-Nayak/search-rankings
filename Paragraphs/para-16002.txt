@@ -1,0 +1,9 @@
+6,78,5
+yours,1
+faithfully,1
+bernard,1
+holland,1
+esq,1
+colonial,1
+office,1
+london,1

@@ -1,0 +1,13 @@
+78,184,15
+taken,1
+of,2
+the,2
+fact,1
+that,1
+exhibition,1
+attracted,1
+large,1
+crowds,1
+people,1
+to,1
+hold,1

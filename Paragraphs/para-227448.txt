@@ -1,0 +1,12 @@
+62,224,7
+1,1
+this,1
+appeared,1
+in,1
+harijan,1
+under,1
+the,1
+title,1
+conditions,1
+for,1
+templeentry,1

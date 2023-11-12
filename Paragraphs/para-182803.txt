@@ -1,0 +1,10 @@
+52,75,10
+98,1
+letter,1
+to,1
+prabhavati,1
+borsad,1
+friday,1
+may,1
+8,1
+1931,1

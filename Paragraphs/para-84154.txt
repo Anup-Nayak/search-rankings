@@ -1,0 +1,15 @@
+24,472,14
+in,1
+sind,1
+one,1
+man,1
+died,1
+about,1
+a,2
+dozen,1
+were,1
+wounded,1
+white,1
+washing,1
+official,1
+version,1

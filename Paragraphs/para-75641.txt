@@ -1,0 +1,11 @@
+22,8,6
+daily,1
+drill,1
+study,1
+at,1
+home,1
+till,1
+new,1
+high,1
+school,1
+opened,1

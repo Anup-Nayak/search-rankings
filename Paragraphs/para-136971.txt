@@ -1,0 +1,9 @@
+40,80,6
+8,1
+which,1
+is,1
+your,1
+favourite,1
+book,1
+the,1
+gita,1

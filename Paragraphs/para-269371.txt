@@ -1,0 +1,17 @@
+72,270,5
+1,2
+chhotelal,1
+jain,1
+who,1
+had,1
+committed,1
+suicide,1
+vide,1
+a,2
+silent,1
+co,2
+worker,2
+gone,2
+slient,1
+9,1
+1937,1

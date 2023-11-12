@@ -1,0 +1,5 @@
+27,446,5
+blessings,1
+and,1
+salaam,1
+from,1

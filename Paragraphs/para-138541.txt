@@ -1,0 +1,15 @@
+40,350,6
+blessings,1
+from,1
+bapu,1
+bhaishri,1
+dahyabhai,1
+district,1
+congress,1
+committee,1
+dholka,1
+b,2
+&,1
+c,1
+i,1
+rly,1

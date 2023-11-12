@@ -1,0 +1,8 @@
+79,243,7
+cious,1
+worker,1
+muslim,1
+and,1
+hindu,1
+jats,1
+opposing,1

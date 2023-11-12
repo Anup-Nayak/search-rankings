@@ -1,0 +1,8 @@
+18,239,7
+ded,1
+civil,1
+resistance,1
+time,1
+being,1
+this,1
+throws,1

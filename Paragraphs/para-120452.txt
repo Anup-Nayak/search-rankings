@@ -1,0 +1,6 @@
+35,366,8
+471,1
+letter,1
+to,1
+gangabehn,1
+majmudar,1

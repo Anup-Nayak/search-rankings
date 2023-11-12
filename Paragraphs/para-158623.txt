@@ -1,0 +1,8 @@
+46,42,20
+fund,1
+vangellu,1
+126,1
+0,4
+annareddipalem,1
+146,1
+pallepalli,1

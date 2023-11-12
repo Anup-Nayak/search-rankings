@@ -1,0 +1,7 @@
+92,449,7
+1,1
+extracted,1
+from,1
+pyarelals,1
+weekly,1
+letter,1

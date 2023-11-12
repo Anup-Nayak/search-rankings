@@ -1,0 +1,17 @@
+50,295,4
+bapu,1
+ps,1
+i,1
+never,1
+knew,1
+that,1
+your,1
+urdu,1
+letters,1
+were,1
+like,1
+print,1
+they,1
+are,1
+very,1
+good,1

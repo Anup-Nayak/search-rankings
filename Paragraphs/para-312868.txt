@@ -1,0 +1,11 @@
+82,251,8
+should,1
+not,2
+use,1
+those,1
+temples,1
+where,1
+they,1
+are,1
+allowed,1
+entry,1

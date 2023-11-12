@@ -1,0 +1,14 @@
+27,153,11
+disease,1
+has,1
+reduced,1
+you,2
+much,1
+therefore,1
+in,1
+the,1
+fitness,1
+of,1
+things,1
+may,1
+live,1

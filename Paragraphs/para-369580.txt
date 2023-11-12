@@ -1,0 +1,7 @@
+95,415,5
+rajshahi,2
+divisionbogra,1
+dinajpur,1
+malda,1
+pabna,1
+rangpur,1

@@ -1,0 +1,10 @@
+51,107,10
+1,4
+vide,1
+letter,2
+to,2
+manmohandas,2
+gandhi,2
+1931,2
+&,1
+20,1

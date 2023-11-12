@@ -1,0 +1,17 @@
+24,334,7
+1,1
+at,1
+municipal,1
+hostel,1
+ground,1
+2,1
+the,1
+four,1
+castes,1
+and,1
+stages,1
+of,1
+life,1
+sanctioned,1
+by,1
+hinduism,1

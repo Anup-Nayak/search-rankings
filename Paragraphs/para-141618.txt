@@ -1,0 +1,12 @@
+41,301,11
+q,1
+would,1
+you,1
+do,1
+it,1
+all,1
+on,1
+capitalistic,1
+basis,2
+or,1
+communistic,1

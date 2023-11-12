@@ -1,0 +1,9 @@
+17,221,4
+1,1
+preparation,1
+of,1
+rice,1
+pulses,1
+etc,1
+cooked,1
+together,1

@@ -1,0 +1,4 @@
+23,210,10
+the,1
+afghan,1
+alarm,1

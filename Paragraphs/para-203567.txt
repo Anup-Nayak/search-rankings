@@ -1,0 +1,8 @@
+57,81,10
+understand,1
+your,2
+struggle,1
+god,1
+will,1
+guide,1
+step,1

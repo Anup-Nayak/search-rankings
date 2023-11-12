@@ -1,0 +1,8 @@
+68,60,12
+1,1
+khoja,1
+ismaili,1
+muslim,1
+2,1
+mochi,1
+cobbler,1

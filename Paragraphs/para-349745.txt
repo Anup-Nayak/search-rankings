@@ -1,0 +1,12 @@
+90,371,5
+vaidya,1
+vallabhram,1
+professor,1
+of,1
+ayurveda,1
+and,1
+vanaspati,1
+shastra,1
+2,1
+writes,1
+3,1

@@ -1,0 +1,13 @@
+27,403,23
+c,1
+convalescent,1
+from,1
+14,1
+12,2
+23,2
+to,1
+28,1
+ordinary,1
+diet,1
+and,1
+one,1

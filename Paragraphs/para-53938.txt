@@ -1,0 +1,7 @@
+15,430,20
+pressing,1
+regret,1
+appearance,1
+information,1
+makes,1
+my,1

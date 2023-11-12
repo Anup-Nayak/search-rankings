@@ -1,0 +1,11 @@
+78,107,4
+creatures,1
+their,1
+condition,1
+is,1
+deserving,1
+of,1
+your,1
+pity,1
+and,1
+consideration,1

@@ -1,0 +1,5 @@
+32,251,2
+intimidation,1
+in,1
+public,1
+life,1

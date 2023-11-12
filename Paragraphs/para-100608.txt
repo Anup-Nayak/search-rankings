@@ -1,0 +1,12 @@
+29,392,2
+1,1
+a,1
+mythical,1
+cow,1
+which,1
+yielded,1
+whatever,1
+was,1
+asked,1
+of,1
+her,1

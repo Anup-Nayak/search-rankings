@@ -1,0 +1,7 @@
+36,107,3
+115,1
+letter,1
+to,1
+ramanlal,1
+bhogilal,1
+chinai,1

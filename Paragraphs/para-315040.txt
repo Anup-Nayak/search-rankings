@@ -1,0 +1,17 @@
+82,395,27
+why,1
+did,1
+you,1
+not,1
+think,1
+of,1
+that,1
+yesterday,1
+and,2
+give,1
+the,1
+poor,1
+people,1
+time,1
+to,1
+go,1

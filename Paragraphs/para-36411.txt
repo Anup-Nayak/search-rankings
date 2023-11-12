@@ -1,0 +1,10 @@
+11,304,8
+free,1
+state,1
+law,1
+stop,1
+passive,1
+resisters,1
+i,1
+venture,1
+to,1

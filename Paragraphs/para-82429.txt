@@ -1,0 +1,6 @@
+24,185,26
+courage,1
+brother,1
+do,1
+not,1
+stumble,1

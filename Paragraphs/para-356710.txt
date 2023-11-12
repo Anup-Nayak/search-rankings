@@ -1,0 +1,10 @@
+92,230,8
+a,2
+it,1
+seems,1
+to,1
+be,1
+universal,1
+malady,1
+an,1
+epidemic,1

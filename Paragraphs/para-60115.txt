@@ -1,0 +1,6 @@
+17,161,4
+142,1
+letter,1
+t0,1
+kishorelal,1
+mashruwala,1

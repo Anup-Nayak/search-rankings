@@ -1,0 +1,7 @@
+14,153,3
+134,1
+telegram,1
+to,1
+minister,1
+of,1
+interior,1

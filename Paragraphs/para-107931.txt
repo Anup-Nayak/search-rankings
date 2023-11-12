@@ -1,0 +1,8 @@
+32,0,20
+and,1
+all,1
+will,1
+heartily,1
+join,1
+do,1
+honour,1

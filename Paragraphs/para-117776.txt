@@ -1,0 +1,6 @@
+35,46,3
+j,1
+chatterjee,1
+1,1
+johnstonganj,1
+allahabad,1

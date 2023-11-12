@@ -1,0 +1,9 @@
+3,123,1
+74,1
+the,1
+cape,1
+indians,1
+and,1
+sir,1
+pieter,1
+faure,1

@@ -1,0 +1,9 @@
+57,126,7
+influence,1
+securing,1
+opening,1
+guruvayur,1
+and,1
+if,1
+possible,1
+other,1

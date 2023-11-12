@@ -1,0 +1,7 @@
+23,210,1
+100,1
+letter,1
+to,1
+kunverji,1
+anandji,1
+kapadia,1

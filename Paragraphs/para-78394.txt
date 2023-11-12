@@ -1,0 +1,8 @@
+22,510,3
+congress,1
+resolution,1
+on,1
+non,1
+co,1
+operati0n,1
+1,1

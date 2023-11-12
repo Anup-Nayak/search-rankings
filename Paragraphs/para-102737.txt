@@ -1,0 +1,9 @@
+30,203,13
+q,1
+since,1
+when,1
+do,1
+you,1
+live,1
+in,1
+kohat,1

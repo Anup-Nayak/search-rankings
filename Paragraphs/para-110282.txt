@@ -1,0 +1,6 @@
+32,414,11
+when,1
+all,1
+mankind,1
+are,1
+neighbours,1

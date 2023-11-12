@@ -1,0 +1,10 @@
+66,360,12
+m,1
+k,1
+gandhi,1
+dr,1
+trank,1
+lanbeah,1
+mindan,1
+p,1
+i,1

@@ -1,0 +1,6 @@
+60,89,4
+a,1
+harijan,1
+worker,1
+writes,1
+1,1

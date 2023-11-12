@@ -1,0 +1,8 @@
+23,50,4
+19,1
+speech,1
+at,1
+cultivators,1
+meeting,1
+halol,1
+2,1

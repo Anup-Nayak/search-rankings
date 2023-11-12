@@ -1,0 +1,16 @@
+20,153,2
+a,1
+no,1
+not,1
+at,1
+that,1
+time,1
+people,1
+were,1
+coming,1
+out,1
+and,1
+going,1
+into,1
+the,1
+village,1

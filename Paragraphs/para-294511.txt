@@ -1,0 +1,6 @@
+78,290,9
+a,1
+temple,1
+trustee,1
+s,1
+poser,1

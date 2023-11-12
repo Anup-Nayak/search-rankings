@@ -1,0 +1,9 @@
+61,62,3
+from,1
+photostat,1
+of,1
+the,1
+hindi,1
+g,1
+n,1
+780,1

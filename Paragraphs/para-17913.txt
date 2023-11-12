@@ -1,0 +1,7 @@
+6,294,4
+and,2
+wished,1
+him,1
+health,1
+success,1
+fame,1

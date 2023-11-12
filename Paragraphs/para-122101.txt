@@ -1,0 +1,6 @@
+36,96,4
+98,1
+letter,1
+to,1
+maganlal,1
+sunderji,1

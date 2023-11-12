@@ -1,0 +1,13 @@
+41,493,23
+without,1
+families,1
+must,1
+be,1
+small,1
+nor,1
+is,1
+there,1
+good,1
+reason,1
+why,1
+if,1

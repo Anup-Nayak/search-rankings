@@ -1,0 +1,16 @@
+15,253,6
+1,1
+the,2
+translation,1
+is,1
+based,1
+on,1
+that,1
+in,1
+problem,1
+of,1
+education,1
+navajivan,1
+publishing,1
+house,1
+ahmedabad,1

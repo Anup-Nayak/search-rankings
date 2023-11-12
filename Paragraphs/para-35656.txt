@@ -1,0 +1,9 @@
+11,246,8
+equality,1
+granted,1
+and,1
+act,1
+1907,1
+repealed,1
+passive,1
+resistance,1

@@ -1,0 +1,7 @@
+78,208,10
+1,1
+the,1
+questioner,1
+was,1
+an,1
+american,1

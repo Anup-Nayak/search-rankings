@@ -1,0 +1,12 @@
+44,505,24
+t11,1
+guj,1
+has,1
+i,1
+have,1
+reflected,1
+over,1
+it,1
+all,1
+and,1
+yet,1

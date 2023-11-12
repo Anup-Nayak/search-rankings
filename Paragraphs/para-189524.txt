@@ -1,0 +1,8 @@
+53,324,9
+383,1
+speech,1
+to,1
+indian,1
+residents,1
+in,1
+egypt,1

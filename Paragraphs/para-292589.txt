@@ -1,0 +1,5 @@
+78,107,7
+105,1
+a,1
+baffling,1
+situation,1

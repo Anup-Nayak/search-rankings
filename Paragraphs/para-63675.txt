@@ -1,0 +1,9 @@
+18,128,7
+me,1
+it,1
+is,1
+a,1
+creed,1
+stop,1
+whilst,1
+prosperity,1

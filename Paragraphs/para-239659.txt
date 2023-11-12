@@ -1,0 +1,8 @@
+65,243,9
+the,1
+sub,1
+committees,1
+report,1
+was,1
+unanimously,1
+passed,1

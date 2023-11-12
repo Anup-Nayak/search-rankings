@@ -1,0 +1,7 @@
+16,269,2
+nadiad,1
+wednesday,1
+february,1
+20,1
+1918,1
+1,1

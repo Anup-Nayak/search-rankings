@@ -1,0 +1,7 @@
+94,230,3
+234,1
+talk,1
+with,1
+egyptian,1
+delegates,1
+2,1

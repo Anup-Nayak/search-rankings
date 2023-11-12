@@ -1,0 +1,7 @@
+27,68,4
+gramme,1
+suffering,1
+success,1
+yours,1
+if,1
+you,1

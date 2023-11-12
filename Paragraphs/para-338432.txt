@@ -1,0 +1,13 @@
+88,38,2
+blessings,1
+from,1
+m,1
+k,1
+gandhi,1
+shri,1
+shyamlalji,1
+secretary,1
+kasturba,1
+memorial,1
+bajajwadi,1
+wardha,1

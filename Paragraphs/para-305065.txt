@@ -1,0 +1,10 @@
+80,487,18
+rajendra,1
+babu,2
+and,1
+mathura,1
+described,1
+the,1
+conditions,1
+in,1
+bihar,1

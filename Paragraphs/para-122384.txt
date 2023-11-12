@@ -1,0 +1,5 @@
+36,125,2
+to,1
+some,1
+bengali,1
+ladies,1

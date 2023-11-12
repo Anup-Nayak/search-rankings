@@ -1,0 +1,7 @@
+76,292,5
+rural,1
+v,1
+urban,1
+an,1
+educationist,1
+writes,1

@@ -1,0 +1,5 @@
+82,23,9
+of,1
+our,1
+own,1
+culture,1

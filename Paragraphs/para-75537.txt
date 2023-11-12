@@ -1,0 +1,7 @@
+21,516,12
+2,1
+boycott,1
+of,1
+government,1
+functions,1
+etc,1

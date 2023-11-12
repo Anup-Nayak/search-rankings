@@ -1,0 +1,17 @@
+8,94,3
+a,1
+regular,1
+cordon,1
+of,1
+police,2
+was,1
+formed,1
+by,1
+mounted,1
+and,1
+foot,1
+around,1
+the,2
+entrance,1
+to,1
+court,1

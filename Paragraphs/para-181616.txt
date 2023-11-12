@@ -1,0 +1,15 @@
+51,442,3
+i,3
+have,1
+hope,1
+kept,1
+it,2
+clear,1
+up,1
+to,1
+date,1
+but,1
+am,1
+sure,1
+would,1
+be,1

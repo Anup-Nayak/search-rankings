@@ -1,0 +1,7 @@
+87,137,13
+can,1
+now,1
+pay,1
+sardar,1
+agrees,1
+blessings,1

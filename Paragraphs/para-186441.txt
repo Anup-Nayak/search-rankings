@@ -1,0 +1,17 @@
+52,468,8
+generally,1
+we,1
+left,1
+the,1
+matter,1
+at,1
+that,2
+and,1
+it,2
+may,1
+be,1
+is,1
+not,1
+a,1
+very,1
+satisfactory,1

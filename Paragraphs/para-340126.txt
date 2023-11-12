@@ -1,0 +1,10 @@
+88,177,4
+s,1
+k,1
+gupta,1
+excise,1
+inspector,1
+6,1
+rly,1
+road,1
+farukhabad,1

@@ -1,0 +1,14 @@
+67,392,12
+lower,1
+life,1
+average,1
+than,2
+we,1
+though,1
+you,1
+regard,1
+yourselves,1
+as,1
+more,1
+spiritual,1
+the,1

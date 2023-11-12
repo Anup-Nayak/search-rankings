@@ -1,0 +1,15 @@
+21,476,4
+for,1
+national,1
+colleges,1
+and,1
+schools,1
+but,1
+the,1
+speaker,1
+asked,1
+when,1
+a,2
+man,1
+saw,1
+snake,1

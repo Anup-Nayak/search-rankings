@@ -1,0 +1,11 @@
+78,185,8
+government,1
+building,1
+the,3
+flying,1
+of,2
+congress,1
+flag,1
+from,1
+ramparts,1
+an,1

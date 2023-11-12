@@ -1,0 +1,3 @@
+7,240,2
+nesers,1
+letter,1

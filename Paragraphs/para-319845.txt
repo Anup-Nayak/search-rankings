@@ -1,0 +1,7 @@
+84,60,4
+62,1
+letter,1
+to,1
+vijaya,1
+m,1
+pancholi,1

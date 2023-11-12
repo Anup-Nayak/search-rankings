@@ -1,0 +1,6 @@
+60,300,3
+366,1
+harijans,1
+and,1
+temple,1
+entry,1

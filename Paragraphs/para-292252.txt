@@ -1,0 +1,15 @@
+78,64,4
+straight,1
+to,2
+your,1
+subject,1
+but,1
+somehow,1
+or,1
+other,1
+you,1
+seem,1
+have,1
+walked,1
+round,1
+this,1

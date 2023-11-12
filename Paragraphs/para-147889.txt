@@ -1,0 +1,6 @@
+43,96,2
+104,1
+letter,1
+to,1
+khurshed,1
+naoroji,1

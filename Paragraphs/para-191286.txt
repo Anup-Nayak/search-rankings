@@ -1,0 +1,10 @@
+54,45,7
+not,1
+a,2
+great,1
+hindrance,1
+in,1
+the,1
+way,1
+of,1
+settlement,1

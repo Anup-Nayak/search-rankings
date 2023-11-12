@@ -1,0 +1,12 @@
+36,240,5
+satis,1
+chandra,1
+das,1
+gupta,1
+khadi,1
+pratishthan,1
+170,1
+bow,1
+bazaar,1
+street,1
+calcutta,1

@@ -1,0 +1,13 @@
+82,402,20
+not,1
+create,1
+nationality,1
+if,1
+some,1
+influential,1
+christian,1
+divine,1
+converted,1
+us,1
+all,1
+to,1

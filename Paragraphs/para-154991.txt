@@ -1,0 +1,8 @@
+45,11,1
+13,1
+speech,1
+at,1
+sikhs,1
+meeting,1
+karachi,1
+1,1

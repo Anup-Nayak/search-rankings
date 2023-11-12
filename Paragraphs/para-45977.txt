@@ -1,0 +1,8 @@
+14,10,40
+english,1
+public,1
+too,1
+have,1
+consoled,1
+it,1
+during,1

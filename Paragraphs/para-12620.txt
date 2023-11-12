@@ -1,0 +1,6 @@
+5,119,2
+responsible,1
+government,1
+for,1
+the,1
+transvaal,1

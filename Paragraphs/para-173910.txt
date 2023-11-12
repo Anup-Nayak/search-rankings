@@ -1,0 +1,12 @@
+50,23,7
+1,1
+the,2
+draft,2
+did,2
+not,2
+have,2
+this,1
+paragraph,1
+2,1
+these,1
+paragraphs,1

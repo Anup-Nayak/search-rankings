@@ -1,0 +1,6 @@
+27,28,5
+31,1
+statement,1
+on,1
+akali,1
+movement,1

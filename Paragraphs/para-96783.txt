@@ -1,0 +1,11 @@
+28,423,5
+health,1
+all,1
+right,1
+friday,1
+early,1
+enough,1
+how,1
+are,1
+you,1
+padmaja,1

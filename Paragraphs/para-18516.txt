@@ -1,0 +1,5 @@
+6,366,5
+meaning,1
+of,1
+second,1
+resolution,1

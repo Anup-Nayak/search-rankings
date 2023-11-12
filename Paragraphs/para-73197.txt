@@ -1,0 +1,14 @@
+21,96,18
+he,2
+considered,1
+the,2
+present,1
+government,1
+to,1
+be,1
+would,1
+not,1
+hesitate,1
+for,1
+time,1
+being,1

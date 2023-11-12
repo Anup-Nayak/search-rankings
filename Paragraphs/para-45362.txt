@@ -1,0 +1,7 @@
+13,438,16
+continue,1
+traditions,1
+passive,1
+resistance,1
+thus,1
+re,1

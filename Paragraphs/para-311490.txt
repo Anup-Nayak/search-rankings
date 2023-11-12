@@ -1,0 +1,11 @@
+82,136,2
+q,1
+you,2
+oppose,1
+all,1
+conversion,1
+without,1
+conviction,1
+but,1
+are,1
+not,1

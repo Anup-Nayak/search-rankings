@@ -1,0 +1,4 @@
+70,66,7
+chi,1
+amtul,1
+salaam,1

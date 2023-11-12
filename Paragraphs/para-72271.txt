@@ -1,0 +1,13 @@
+20,442,10
+maulana,1
+abul,1
+kalam,1
+azad,1
+maulvi,1
+mohamad,1
+ali,1
+mr,1
+ahmad,1
+haji,1
+siddick,1
+khatri,1

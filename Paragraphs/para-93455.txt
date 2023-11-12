@@ -1,0 +1,14 @@
+27,404,16
+1,1
+1879,1
+1949,1
+poetess,1
+orator,1
+and,1
+social,1
+reformer,1
+president,1
+indian,1
+national,1
+congress,1
+1925,1

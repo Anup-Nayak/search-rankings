@@ -1,0 +1,11 @@
+61,28,8
+7,1
+are,1
+denied,1
+access,1
+to,1
+the,1
+interior,1
+of,1
+hindu,1
+temples,1

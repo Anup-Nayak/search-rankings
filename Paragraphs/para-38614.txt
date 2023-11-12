@@ -1,0 +1,10 @@
+12,58,3
+1,1
+the,2
+reference,1
+presumably,1
+is,1
+to,1
+fasts,1
+during,1
+navaratri,1

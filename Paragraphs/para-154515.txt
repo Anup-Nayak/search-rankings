@@ -1,0 +1,10 @@
+44,493,23
+t2,1
+for,1
+contact,2
+of,1
+friends,1
+guj,1
+has,1
+with,1
+others,1

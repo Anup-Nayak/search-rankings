@@ -1,0 +1,7 @@
+76,136,4
+all,1
+classes,1
+including,1
+harijans,1
+visit,1
+temple,1

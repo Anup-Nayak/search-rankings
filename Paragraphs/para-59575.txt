@@ -1,0 +1,6 @@
+17,92,4
+74,1
+letter,1
+to,1
+mohandas,1
+nagji,1

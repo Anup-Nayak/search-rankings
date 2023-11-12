@@ -1,0 +1,11 @@
+70,241,12
+gandhiji,1
+do,1
+you,1
+therefore,1
+say,1
+that,1
+other,1
+religions,1
+are,1
+untrue,1

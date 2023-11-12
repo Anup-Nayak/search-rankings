@@ -1,0 +1,12 @@
+92,39,7
+1,1
+daughter,1
+of,1
+amritlal,1
+tulsidas,1
+gandhi,1
+gandhis,1
+cousin,1
+2,1
+addressees,1
+son,1

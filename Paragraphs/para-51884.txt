@@ -1,0 +1,6 @@
+15,191,1
+139,1
+speech,1
+at,1
+hyderabad,1
+sind,1

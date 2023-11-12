@@ -1,0 +1,6 @@
+13,157,2
+4,1
+fever,1
+and,1
+its,1
+remedies,1

@@ -1,0 +1,3 @@
+52,142,4
+suffering,1
+spinner,1

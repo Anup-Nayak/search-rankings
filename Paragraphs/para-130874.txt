@@ -1,0 +1,8 @@
+38,224,4
+212,1
+speech,1
+at,1
+santa,1
+cruz,1
+bombay,1
+1,1

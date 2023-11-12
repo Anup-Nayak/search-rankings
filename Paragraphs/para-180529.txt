@@ -1,0 +1,13 @@
+51,287,4
+the,1
+mahatma,1
+is,1
+pledged,1
+not,1
+to,1
+say,1
+anything,1
+publicly,1
+which,1
+might,1
+prejudice,1

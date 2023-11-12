@@ -1,0 +1,17 @@
+32,435,12
+1,1
+perinbehn,1
+captain,1
+a,1
+congress,1
+worker,1
+of,3
+bombay,1
+grand,1
+daughter,1
+dadabhai,1
+naoroji,1
+2,1
+son,1
+vallabhbhai,1
+patel,1

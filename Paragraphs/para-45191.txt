@@ -1,0 +1,9 @@
+13,430,16
+some,1
+deprived,1
+sandals,1
+on,1
+asking,1
+socks,1
+dirty,1
+un,1

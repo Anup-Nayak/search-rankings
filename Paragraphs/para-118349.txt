@@ -1,0 +1,6 @@
+35,114,4
+158,1
+drugs,1
+drink,1
+and,1
+devil,1

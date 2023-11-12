@@ -1,0 +1,16 @@
+75,447,6
+mr,1
+gibson,1
+no,1
+he,2
+is,1
+a,1
+talukdar,1
+cannot,1
+come,2
+i,1
+would,1
+not,1
+let,1
+him,1
+now,1

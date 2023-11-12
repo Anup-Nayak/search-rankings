@@ -1,0 +1,9 @@
+41,31,1
+35,1
+letter,1
+to,1
+i,1
+sanyasa,1
+razu,1
+and,1
+others,1

@@ -1,0 +1,8 @@
+38,211,7
+197,1
+convocation,1
+address,1
+at,1
+gurukul,1
+kangri,1
+2,1

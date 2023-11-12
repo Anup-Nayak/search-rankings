@@ -1,0 +1,10 @@
+58,132,3
+do,1
+not,1
+worry,1
+about,1
+coming,1
+here,1
+unless,1
+cause,1
+requires,1

@@ -1,0 +1,9 @@
+15,101,7
+1,1
+vide,1
+speech,1
+at,1
+reception,1
+by,1
+gujaratis,1
+madras,1

@@ -1,0 +1,15 @@
+64,114,12
+invested,1
+with,1
+occupancy,1
+rights,1
+in,1
+the,1
+land,1
+they,2
+built,1
+upon,1
+so,1
+that,1
+might,1
+no,1

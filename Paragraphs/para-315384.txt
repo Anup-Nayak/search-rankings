@@ -1,0 +1,10 @@
+82,405,32
+become,1
+a,1
+self,1
+governing,1
+unit,1
+living,1
+its,1
+own,1
+life,1

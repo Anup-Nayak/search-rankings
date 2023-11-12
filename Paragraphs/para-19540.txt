@@ -1,0 +1,5 @@
+6,512,2
+letter,1
+to,1
+the,1
+star,1

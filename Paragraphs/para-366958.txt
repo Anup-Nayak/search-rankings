@@ -1,0 +1,15 @@
+95,32,6
+the,2
+whole,2
+country,2
+is,1
+with,1
+you,1
+in,1
+a,1
+sense,1
+yes,1
+but,1
+i,1
+suppose,1
+includes,1

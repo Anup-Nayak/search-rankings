@@ -1,0 +1,13 @@
+72,254,7
+5,1
+mahura,1
+flowers,1
+are,1
+regarded,1
+as,1
+tonic,1
+for,1
+both,1
+men,1
+and,1
+cattle,1

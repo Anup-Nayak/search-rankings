@@ -1,0 +1,6 @@
+61,305,7
+g,1
+yeravda,1
+jail,1
+now,1
+laughter,1

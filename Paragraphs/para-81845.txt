@@ -1,0 +1,10 @@
+24,91,5
+2,1
+one,1
+of,1
+the,1
+communities,1
+traditionally,1
+regarded,1
+as,1
+untouchable,1

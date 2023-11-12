@@ -1,0 +1,7 @@
+14,0,22
+present,1
+state,1
+tension,1
+suspicion,1
+indignation,1
+request,1

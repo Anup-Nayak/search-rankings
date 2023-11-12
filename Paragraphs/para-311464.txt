@@ -1,0 +1,14 @@
+82,133,24
+i,1
+should,1
+be,1
+thankful,1
+if,1
+you,1
+kindly,1
+advised,1
+me,1
+on,1
+the,1
+following,1
+points,1

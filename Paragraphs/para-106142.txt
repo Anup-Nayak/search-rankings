@@ -1,0 +1,12 @@
+31,228,12
+without,1
+the,3
+co,1
+operation,1
+of,1
+governed,2
+now,1
+we,1
+are,1
+not,1
+pure,1

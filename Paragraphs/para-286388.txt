@@ -1,0 +1,17 @@
+76,277,12
+loss,1
+to,2
+her,1
+be,1
+paid,2
+ten,1
+annas,1
+per,1
+lb,1
+she,2
+is,2
+not,1
+sorry,1
+if,1
+only,1
+eight,1

@@ -1,0 +1,6 @@
+90,289,1
+350,1
+harijan,1
+in,1
+urdu,1
+script,1

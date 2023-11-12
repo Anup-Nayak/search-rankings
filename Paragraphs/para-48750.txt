@@ -1,0 +1,8 @@
+14,372,4
+314,1
+extract,1
+from,1
+letter,1
+to,1
+mathuradas,1
+trikumji,1

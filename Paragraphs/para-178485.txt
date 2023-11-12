@@ -1,0 +1,7 @@
+51,77,18
+withdrawal,1
+of,1
+repressive,1
+ordinances,1
+and,1
+restoration,1

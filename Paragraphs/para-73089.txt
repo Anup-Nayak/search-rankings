@@ -1,0 +1,4 @@
+21,84,3
+famine,1
+relief,1
+puri,1

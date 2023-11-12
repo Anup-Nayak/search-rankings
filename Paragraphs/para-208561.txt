@@ -1,0 +1,8 @@
+58,131,5
+have,1
+learnt,1
+something,1
+about,1
+putting,1
+yourself,1
+on,1

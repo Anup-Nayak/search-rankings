@@ -1,0 +1,11 @@
+11,379,5
+b,1
+ownership,1
+of,1
+landed,1
+property,1
+except,1
+in,1
+bazaars,1
+and,1
+locations,1

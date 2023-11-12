@@ -1,0 +1,12 @@
+14,69,7
+with,1
+reference,1
+to,2
+our,1
+criticism,1
+mr,2
+anglia,1
+writes,1
+as,1
+follows,1
+gandhi,1

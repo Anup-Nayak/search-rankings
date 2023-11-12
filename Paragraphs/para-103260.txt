@@ -1,0 +1,8 @@
+30,246,6
+1,1
+darkness,1
+here,1
+inaction,1
+due,1
+to,1
+helplessness,1

@@ -1,0 +1,6 @@
+90,107,2
+144,1
+famines,1
+and,1
+birth,1
+rate,1

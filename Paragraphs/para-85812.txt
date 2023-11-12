@@ -1,0 +1,11 @@
+25,262,2
+1,1
+heroine,1
+of,1
+the,1
+mahabharata,1
+admired,1
+for,1
+her,1
+dauntless,1
+spirit,1

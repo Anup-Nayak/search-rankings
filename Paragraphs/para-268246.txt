@@ -1,0 +1,9 @@
+72,137,4
+pray,1
+depend,1
+upon,1
+my,1
+doing,1
+utmost,1
+end,1
+andaman,1

@@ -1,0 +1,11 @@
+51,472,13
+i,1
+payment,1
+of,1
+land,1
+revenue,1
+by,1
+ras,1
+and,1
+other,1
+villages,1

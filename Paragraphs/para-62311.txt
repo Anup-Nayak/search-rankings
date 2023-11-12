@@ -1,0 +1,9 @@
+17,415,3
+editor,1
+mohandas,1
+karamchand,1
+gandhi,1
+laburnum,1
+road,1
+gamdevi,1
+bombay,1

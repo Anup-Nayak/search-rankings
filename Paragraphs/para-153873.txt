@@ -1,0 +1,6 @@
+44,472,27
+t7,1
+guj,1
+has,1
+any,1
+disease,1

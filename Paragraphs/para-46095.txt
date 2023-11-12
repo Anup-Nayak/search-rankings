@@ -1,0 +1,11 @@
+14,20,12
+support,1
+us,1
+in,1
+this,1
+pray,1
+ask,1
+all,1
+not,1
+to,1
+be,1

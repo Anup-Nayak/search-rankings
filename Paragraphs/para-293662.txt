@@ -1,0 +1,13 @@
+78,211,12
+c,1
+a,2
+person,1
+who,1
+though,1
+khadi,1
+wearer,1
+himself,1
+trades,1
+in,1
+foreign,1
+cloth,1

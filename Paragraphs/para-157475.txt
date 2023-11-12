@@ -1,0 +1,7 @@
+45,366,5
+jewellery,1
+approximate,1
+value,1
+rs,1
+600,1
+0,2

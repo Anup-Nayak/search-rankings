@@ -1,0 +1,12 @@
+16,465,14
+the,2
+agricultural,1
+economy,1
+of,1
+district,1
+was,1
+much,1
+greater,1
+than,1
+this,1
+percentage,1

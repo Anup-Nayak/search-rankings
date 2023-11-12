@@ -1,0 +1,7 @@
+42,248,6
+1,1
+this,1
+is,1
+not,1
+translated,1
+here,1

@@ -1,0 +1,7 @@
+7,111,7
+white,1
+stands,1
+up,1
+against,1
+finger,1
+prints,1

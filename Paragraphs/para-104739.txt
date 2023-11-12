@@ -1,0 +1,15 @@
+31,22,7
+what,1
+the,2
+villages,1
+had,1
+turned,1
+out,1
+they,1
+found,1
+nothing,1
+was,1
+done,1
+students,1
+at,1
+once,1

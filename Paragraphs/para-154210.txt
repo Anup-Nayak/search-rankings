@@ -1,0 +1,11 @@
+44,483,26
+t11,1
+guj,1
+does,1
+not,1
+have,1
+in,1
+the,1
+upper,1
+class,1
+quarters,1

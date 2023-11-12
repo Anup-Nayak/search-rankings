@@ -1,0 +1,9 @@
+14,10,10
+not,1
+informed,1
+reasons,1
+therefore,1
+nor,1
+consulted,1
+as,1
+to,1

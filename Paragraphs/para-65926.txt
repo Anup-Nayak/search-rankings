@@ -1,0 +1,7 @@
+19,12,15
+central,1
+body,1
+exclusively,1
+devoted,1
+to,1
+collect,1

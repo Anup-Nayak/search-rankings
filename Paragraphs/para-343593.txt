@@ -1,0 +1,10 @@
+89,116,3
+kamalnayan,1
+i,1
+have,1
+written,1
+to,1
+the,2
+ashram,1
+about,1
+money,1

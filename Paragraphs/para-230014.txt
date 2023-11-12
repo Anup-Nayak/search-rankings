@@ -1,0 +1,11 @@
+63,90,8
+1,1
+for,1
+the,2
+text,1
+of,1
+statement,2
+vide,1
+appendix,1
+rabindranath,1
+tagores,1

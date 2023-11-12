@@ -1,0 +1,6 @@
+24,128,4
+non,1
+violence,1
+as,1
+a,1
+policy,1

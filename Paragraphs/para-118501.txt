@@ -1,0 +1,7 @@
+35,132,2
+180,1
+letter,1
+to,1
+g,1
+stanley,1
+jones,1

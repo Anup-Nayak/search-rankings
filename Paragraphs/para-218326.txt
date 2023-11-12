@@ -1,0 +1,6 @@
+60,163,2
+only,1
+one,1
+varna,1
+nowadays,1
+1,1

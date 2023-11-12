@@ -1,0 +1,14 @@
+54,289,1
+ps,1
+do,1
+please,1
+thank,1
+mrs,1
+wood,1
+for,1
+all,1
+the,1
+trouble,1
+she,1
+had,1
+taken,1

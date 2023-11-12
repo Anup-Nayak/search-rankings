@@ -1,0 +1,6 @@
+19,22,1
+21,1
+telegram,1
+to,1
+esther,1
+faering,1

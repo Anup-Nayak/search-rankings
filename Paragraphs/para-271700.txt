@@ -1,0 +1,17 @@
+73,22,14
+prisoners,1
+but,1
+on,1
+return,1
+from,1
+delang,1
+he,1
+would,1
+be,1
+free,1
+to,2
+devote,1
+his,1
+time,1
+and,1
+energy,1

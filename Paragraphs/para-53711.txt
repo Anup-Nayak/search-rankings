@@ -1,0 +1,15 @@
+15,406,3
+1,1
+this,1
+article,1
+in,2
+hindi,1
+was,1
+sent,1
+for,1
+publication,1
+to,1
+various,1
+papers,1
+may,1
+1917,1

@@ -1,0 +1,10 @@
+40,290,5
+my,1
+opinion,1
+present,1
+juncture,1
+am,1
+not,1
+hopeful,1
+personally,1
+rendering,1

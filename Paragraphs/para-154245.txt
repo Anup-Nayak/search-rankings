@@ -1,0 +1,12 @@
+44,484,31
+t1,1
+guj,1
+does,1
+not,1
+have,1
+gave,1
+me,1
+a,1
+cold,1
+reception,1
+and,1

@@ -1,0 +1,4 @@
+25,42,2
+the,1
+logical,1
+result,1

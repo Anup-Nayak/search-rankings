@@ -1,0 +1,7 @@
+13,424,10
+279,1
+speech,1
+on,1
+kasturba,1
+gandhis,1
+release,1

@@ -1,0 +1,6 @@
+74,309,4
+and,2
+little,1
+fear,1
+less,1
+surprise,1

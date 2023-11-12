@@ -1,0 +1,10 @@
+25,393,4
+1,1
+during,1
+the,1
+congress,1
+session,1
+in,2
+ahmedabad,1
+december,1
+1921,1

@@ -1,0 +1,9 @@
+31,154,7
+monday,1
+chaitra,1
+krishna,1
+5,1
+april,1
+13,1
+1925,1
+2,1

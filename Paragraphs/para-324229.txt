@@ -1,0 +1,16 @@
+85,45,6
+j,1
+we,1
+shall,1
+then,1
+have,1
+to,2
+supply,1
+khadi,1
+the,1
+people,1
+in,1
+lieu,1
+of,1
+yarn,1
+alone,1

@@ -1,0 +1,6 @@
+53,107,11
+redemption,1
+of,2
+the,1
+capital,1
+stock,1

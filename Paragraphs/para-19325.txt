@@ -1,0 +1,13 @@
+6,480,6
+1,1
+premier,1
+of,3
+the,2
+transvaal,1
+1907,1
+10,1
+union,1
+south,1
+africa,1
+1910,1
+9,1

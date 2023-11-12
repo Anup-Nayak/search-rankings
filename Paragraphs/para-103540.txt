@@ -1,0 +1,8 @@
+30,295,14
+pay,1
+vykom,1
+satyagraha,1
+one,1
+thousand,1
+will,1
+refund,1

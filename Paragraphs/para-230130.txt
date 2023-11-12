@@ -1,0 +1,13 @@
+63,104,4
+gandhiji,1
+then,1
+made,1
+a,1
+fervent,1
+appeal,1
+on,1
+behalf,1
+of,1
+bihar,1
+earthquake,1
+victims,1

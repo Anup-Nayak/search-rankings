@@ -1,0 +1,8 @@
+87,148,19
+gain,1
+independence,1
+which,1
+will,1
+be,1
+one,1
+sided,1

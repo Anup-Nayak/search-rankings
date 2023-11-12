@@ -1,0 +1,7 @@
+51,98,11
+respec,1
+table,1
+people,1
+being,1
+summarily,1
+and,1

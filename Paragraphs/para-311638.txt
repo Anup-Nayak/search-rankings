@@ -1,0 +1,4 @@
+82,149,5
+weakening,1
+non,1
+violence,1

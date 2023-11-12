@@ -1,0 +1,12 @@
+41,12,4
+14,1
+letter,1
+to,1
+c,1
+f,1
+andrews,1
+bolgarh,1
+december,1
+10,1
+1927,1
+2,1

@@ -1,0 +1,15 @@
+43,217,1
+you,3
+came,1
+to,4
+attribute,1
+them,1
+me,3
+do,1
+not,1
+think,1
+owed,1
+it,1
+show,1
+the,1
+proof,1

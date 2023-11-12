@@ -1,0 +1,7 @@
+67,66,3
+ganga,1
+1,1
+delivered,1
+daughter,1
+both,1
+well,1

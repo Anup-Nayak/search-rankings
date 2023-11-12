@@ -1,0 +1,3 @@
+8,471,3
+the,1
+exemptions,1

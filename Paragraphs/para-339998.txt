@@ -1,0 +1,8 @@
+88,166,4
+i,1
+have,1
+no,1
+messsage,1
+to,2
+give,1
+natal,1

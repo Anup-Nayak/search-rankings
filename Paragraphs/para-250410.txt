@@ -1,0 +1,6 @@
+67,361,6
+564,1
+letter,1
+to,1
+draupadi,1
+sharma,1

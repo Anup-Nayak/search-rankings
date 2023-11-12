@@ -1,0 +1,6 @@
+35,403,7
+sabarmati,1
+tuesday,1
+june,1
+22,1
+1926,1

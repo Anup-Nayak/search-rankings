@@ -1,0 +1,13 @@
+98,349,2
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+11319,1
+courtesy,1
+narandas,1
+gandhi,1

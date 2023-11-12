@@ -1,0 +1,6 @@
+28,246,2
+133,1
+message,1
+to,1
+vykom,1
+satyagrahis,1

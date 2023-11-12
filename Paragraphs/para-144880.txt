@@ -1,0 +1,10 @@
+42,233,5
+miss,1
+barbara,1
+bauer,1
+big,1
+spring,1
+texas,1
+u,1
+s,1
+a,1

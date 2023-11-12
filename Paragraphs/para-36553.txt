@@ -1,0 +1,11 @@
+11,312,6
+g,1
+then,1
+you,1
+shall,1
+state,1
+it,1
+in,1
+your,1
+own,1
+words,1

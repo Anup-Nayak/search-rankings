@@ -1,0 +1,13 @@
+7,421,4
+left,1
+hand,2
+the,2
+four,2
+fingers,2
+right,1
+impressions,1
+of,1
+minor,1
+taken,1
+by,1
+date,1

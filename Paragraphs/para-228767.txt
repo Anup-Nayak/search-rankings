@@ -1,0 +1,9 @@
+62,393,9
+430,1
+speech,1
+at,1
+apex,1
+bank,1
+hall,1
+bangalore,1
+1,1

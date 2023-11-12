@@ -1,0 +1,12 @@
+84,436,10
+g,1
+no,1
+we,2
+learn,1
+from,1
+our,1
+mistakes,1
+by,1
+correcting,1
+them,1
+advance,1

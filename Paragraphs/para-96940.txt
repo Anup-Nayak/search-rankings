@@ -1,0 +1,7 @@
+28,443,1
+248,1
+speech,1
+at,1
+gujarat,1
+mahavidyalya,1
+1,1

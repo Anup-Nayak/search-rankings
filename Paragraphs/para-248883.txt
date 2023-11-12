@@ -1,0 +1,9 @@
+67,210,9
+1,2
+vide,1
+letter,1
+to,1
+balukaka,1
+kanitkar,1
+5,1
+1935,1

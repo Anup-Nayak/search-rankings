@@ -1,0 +1,9 @@
+95,120,3
+124,1
+letter,1
+to,1
+arbab,1
+sher,1
+akbar,1
+khan,1
+3,1

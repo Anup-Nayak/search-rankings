@@ -1,0 +1,8 @@
+13,387,15
+indians,1
+to,1
+enter,1
+cape,1
+immigration,1
+act,2
+licensing,1

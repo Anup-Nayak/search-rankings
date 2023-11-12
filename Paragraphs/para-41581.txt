@@ -1,0 +1,14 @@
+12,442,8
+2,1
+the,1
+status,1
+and,1
+condition,1
+of,1
+indians,1
+who,1
+have,1
+been,1
+allowed,1
+to,1
+enter,1

@@ -1,0 +1,13 @@
+54,294,6
+mr,1
+morris,1
+osofskey,1
+2085,1
+walton,1
+avenue,1
+bront,1
+new,1
+york,1
+u,1
+s,1
+a,1

@@ -1,0 +1,16 @@
+31,477,5
+1,1
+this,1
+telegram,1
+is,1
+not,1
+available,1
+2,1
+a,1
+m,1
+khawaja,1
+of,1
+jamia,1
+millia,1
+islamia,1
+aligarh,1

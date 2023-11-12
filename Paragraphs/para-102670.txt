@@ -1,0 +1,11 @@
+30,199,13
+a,1
+no,1
+outsiders,1
+from,1
+the,2
+vilages,1
+were,1
+present,1
+in,1
+town,1

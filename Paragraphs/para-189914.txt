@@ -1,0 +1,14 @@
+53,381,9
+sir,1
+sultan,1
+ahmed,1
+but,1
+does,1
+that,2
+not,1
+imply,1
+there,1
+will,1
+be,1
+reservation,1
+of,1

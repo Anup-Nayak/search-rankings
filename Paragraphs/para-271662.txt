@@ -1,0 +1,6 @@
+73,18,5
+25,1
+letter,1
+to,1
+mahadev,1
+desal,1

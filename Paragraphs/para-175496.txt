@@ -1,0 +1,9 @@
+50,197,2
+blessings,1
+from,2
+bapu,1
+hindi,1
+bapuki,1
+virat,1
+vatsalata,1
+pp,1

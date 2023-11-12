@@ -1,0 +1,11 @@
+78,345,9
+1,1
+this,1
+paragraph,1
+is,1
+in,2
+hindi,1
+and,1
+written,1
+the,1
+margin,1

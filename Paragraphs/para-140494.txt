@@ -1,0 +1,7 @@
+41,155,2
+january,1
+29,1
+1928,1
+a,1
+sister,1
+writes,1

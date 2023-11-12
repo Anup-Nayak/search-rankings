@@ -1,0 +1,9 @@
+54,67,1
+33,1
+letter,1
+to,1
+mirza,1
+ismail,1
+october,1
+22,1
+1931,1

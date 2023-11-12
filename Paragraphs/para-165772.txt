@@ -1,0 +1,6 @@
+47,390,7
+yours,1
+sincerely,1
+a,2
+paul,1
+esq,1

@@ -1,0 +1,16 @@
+11,433,2
+11,1
+the,2
+railway,1
+regulations,1
+which,1
+were,2
+promulgated,1
+in,1
+transvaal,1
+making,1
+distinctions,1
+between,1
+whites,1
+and,1
+coloureds,1

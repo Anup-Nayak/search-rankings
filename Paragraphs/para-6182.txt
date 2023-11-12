@@ -1,0 +1,9 @@
+3,11,6
+to,2
+the,2
+private,1
+secretary,1
+his,1
+excellency,1
+governor,1
+pretoria,1

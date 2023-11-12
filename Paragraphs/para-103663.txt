@@ -1,0 +1,4 @@
+30,309,3
+stoning,1
+to,1
+death,1

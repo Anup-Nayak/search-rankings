@@ -1,0 +1,5 @@
+49,24,3
+19,1
+wells,1
+for,1
+antyajas,1

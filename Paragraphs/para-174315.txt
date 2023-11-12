@@ -1,0 +1,6 @@
+50,70,11
+1,1
+daughter,1
+of,1
+ambalal,1
+sarabhai,1

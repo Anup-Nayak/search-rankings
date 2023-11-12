@@ -1,0 +1,8 @@
+24,185,21
+trust,1
+in,1
+god,1
+and,1
+do,1
+the,1
+right,1

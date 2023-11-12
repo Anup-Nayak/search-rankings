@@ -1,0 +1,6 @@
+8,380,2
+211,1
+laws,1
+affecting,1
+cape,1
+indians,1

@@ -1,0 +1,10 @@
+38,67,1
+characters,1
+as,1
+an,1
+interesting,1
+and,1
+useful,1
+exercise,1
+with,1
+love,1

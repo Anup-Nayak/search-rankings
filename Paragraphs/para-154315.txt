@@ -1,0 +1,14 @@
+44,487,16
+t1,1
+guj,1
+has,1
+it,1
+is,1
+time,1
+now,1
+to,2
+turn,1
+the,1
+subject,1
+of,1
+brahmacharya,1

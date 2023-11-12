@@ -1,0 +1,12 @@
+21,354,23
+the,4
+second,1
+condition,1
+was,2
+success,1
+of,1
+non,1
+co,1
+operation,1
+movement,1
+it,1

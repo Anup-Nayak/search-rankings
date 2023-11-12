@@ -1,0 +1,6 @@
+17,392,13
+reaching,1
+delhi,1
+wednesday3,1
+punjab,1
+mail,1

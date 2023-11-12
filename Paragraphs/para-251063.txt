@@ -1,0 +1,7 @@
+67,429,10
+1,1
+addressees,1
+nephew,1
+2,1
+material,1
+welfare,1

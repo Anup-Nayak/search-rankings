@@ -1,0 +1,7 @@
+7,429,6
+summary,1
+of,2
+account,1
+receipts,1
+and,1
+expenditure,1

@@ -1,0 +1,5 @@
+73,234,4
+1,1
+vide,1
+a,1
+renunciation,1

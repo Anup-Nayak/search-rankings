@@ -1,0 +1,13 @@
+66,404,17
+g,1
+do,1
+you,1
+have,1
+to,2
+speak,1
+if,1
+only,1
+beg,1
+for,1
+your,1
+flour,1

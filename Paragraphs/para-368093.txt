@@ -1,0 +1,4 @@
+95,195,3
+otabapano,1
+vadalo,1
+p,1

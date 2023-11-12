@@ -1,0 +1,4 @@
+64,341,2
+the,1
+ajmer,1
+incident,1

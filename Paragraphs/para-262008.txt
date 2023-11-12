@@ -1,0 +1,15 @@
+70,247,4
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+the,1
+hony,1
+secretary,1
+muslim,1
+university,1
+union,1
+aligarh,1
+u,1
+p,1

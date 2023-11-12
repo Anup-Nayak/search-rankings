@@ -1,0 +1,5 @@
+67,50,4
+a,1
+village,1
+worker,1
+writes,1

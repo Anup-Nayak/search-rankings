@@ -1,0 +1,9 @@
+54,314,11
+gandhiji,1
+climatic,1
+difference,1
+i,1
+do,1
+not,1
+mind,1
+laughter,1

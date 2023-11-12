@@ -1,0 +1,10 @@
+30,27,4
+16,1
+speech,1
+at,1
+all,1
+india,1
+muslim,1
+league,1
+bombay,1
+1,1

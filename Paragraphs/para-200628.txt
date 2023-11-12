@@ -1,0 +1,7 @@
+56,221,5
+me,1
+cause,1
+operation,1
+and,1
+present,1
+condition,1

@@ -1,0 +1,14 @@
+12,164,9
+1,1
+vide,2
+letter,1
+to,1
+r,1
+gregorowski,1
+2,2
+3,1
+1911,1
+appendix,1
+immigrants,1
+restriction,1
+bill,1

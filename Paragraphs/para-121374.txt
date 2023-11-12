@@ -1,0 +1,6 @@
+36,2,3
+2,1
+more,1
+animal,1
+than,1
+human,1

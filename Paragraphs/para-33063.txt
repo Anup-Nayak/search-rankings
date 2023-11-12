@@ -1,0 +1,4 @@
+10,447,2
+hind,1
+swaraj,1
+proscribed,1

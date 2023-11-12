@@ -1,0 +1,15 @@
+92,233,11
+q,1
+you,2
+have,1
+been,1
+a,1
+fighter,1
+all,1
+your,1
+life,1
+what,1
+has,1
+fighting,1
+done,1
+for,1

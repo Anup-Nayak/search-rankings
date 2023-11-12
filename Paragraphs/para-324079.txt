@@ -1,0 +1,16 @@
+85,28,2
+j,1
+chicacole,1
+is,2
+an,1
+exception,1
+and,1
+the,2
+only,1
+production,1
+centre,1
+in,1
+country,1
+for,1
+fine,1
+khadi,1

@@ -1,0 +1,6 @@
+36,250,4
+284,1
+crime,1
+of,1
+reading,1
+bible,1

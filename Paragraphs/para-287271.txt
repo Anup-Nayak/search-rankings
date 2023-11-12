@@ -1,0 +1,7 @@
+76,382,6
+received,1
+2,1
+have,1
+written,1
+regularly,1
+airmail,1

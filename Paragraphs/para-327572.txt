@@ -1,0 +1,13 @@
+85,362,9
+1,1
+the,1
+subscription,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+gruel,1
+made,1
+from,1
+milk,1

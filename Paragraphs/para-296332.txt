@@ -1,0 +1,5 @@
+79,50,1
+50,1
+spinning,1
+and,1
+character,1

@@ -1,0 +1,10 @@
+64,278,3
+wardha,1
+2,1
+august,1
+6,1
+1934,1
+brijkrishna,1
+katra,1
+khushalrai,1
+delhi,1

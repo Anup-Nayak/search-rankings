@@ -1,0 +1,9 @@
+95,246,9
+<image,1
+none,1
+width,1
+21,1
+height,1
+9,1
+bpc,1
+1>,1

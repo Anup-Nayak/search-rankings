@@ -1,0 +1,12 @@
+82,367,3
+render,1
+the,4
+united,1
+nations,1
+in,1
+course,1
+of,1
+present,1
+war,1
+against,1
+fascist,1

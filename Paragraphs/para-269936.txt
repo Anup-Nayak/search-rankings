@@ -1,0 +1,12 @@
+72,333,6
+1,1
+k,1
+t,1
+shahs,1
+article,1
+appeared,1
+in,1
+harijan,1
+31,1
+7,1
+1937,1

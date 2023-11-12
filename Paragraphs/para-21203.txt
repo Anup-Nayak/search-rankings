@@ -1,0 +1,7 @@
+7,198,2
+163,1
+duty,1
+of,1
+disobeying,1
+laws,1
+2,1

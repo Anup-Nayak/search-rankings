@@ -1,0 +1,12 @@
+21,499,21
+degree,1
+but,1
+is,1
+hopelessly,1
+inappropriate,1
+from,1
+the,1
+non,2
+violent,1
+co,1
+operation,1

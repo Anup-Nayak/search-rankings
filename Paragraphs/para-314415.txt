@@ -1,0 +1,8 @@
+82,373,7
+q,1
+but,1
+if,1
+the,1
+british,1
+dont,1
+withdraw,1

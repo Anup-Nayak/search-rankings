@@ -1,0 +1,7 @@
+5,17,2
+18,1
+mr,1
+harry,1
+smith,1
+and,1
+indians,1

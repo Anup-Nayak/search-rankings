@@ -1,0 +1,10 @@
+51,444,14
+defence,1
+external,1
+affairs,1
+finances,1
+and,2
+the,3
+public,1
+debt,1
+congress,1

@@ -1,0 +1,11 @@
+53,376,2
+1,1
+the,2
+natal,1
+indian,2
+congress,1
+and,1
+later,1
+transvaal,1
+british,1
+association,1

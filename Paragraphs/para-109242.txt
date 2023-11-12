@@ -1,0 +1,9 @@
+32,240,2
+158,1
+interview,1
+with,1
+dr,1
+h,1
+w,1
+b,1
+moreno,1

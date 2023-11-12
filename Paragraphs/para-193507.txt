@@ -1,0 +1,7 @@
+54,346,26
+nation,1
+with,1
+stamina,1
+may,1
+be,1
+left,1

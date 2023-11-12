@@ -1,0 +1,9 @@
+64,100,8
+140,1
+discussion,1
+with,1
+gujarat,1
+swadeshi,1
+sangh,1
+workers,1
+1,1

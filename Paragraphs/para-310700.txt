@@ -1,0 +1,16 @@
+82,73,13
+jamna,1
+why,1
+are,1
+you,2
+getting,1
+fever,1
+give,1
+up,1
+all,1
+worries,1
+come,1
+over,1
+here,1
+whenever,1
+wish,1

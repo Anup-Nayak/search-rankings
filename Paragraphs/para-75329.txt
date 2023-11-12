@@ -1,0 +1,12 @@
+21,496,11
+warning,1
+the,2
+sikhs,1
+become,1
+violent,1
+he,1
+shall,1
+not,1
+regret,1
+if,1
+british,1

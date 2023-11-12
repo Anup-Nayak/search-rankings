@@ -1,0 +1,8 @@
+14,152,9
+should,1
+be,1
+suspended,1
+pending,1
+legislation,1
+record,1
+being,1

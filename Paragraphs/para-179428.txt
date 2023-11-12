@@ -1,0 +1,12 @@
+51,159,2
+he,3
+said,2
+in,1
+everything,1
+had,2
+expressed,1
+his,1
+personal,1
+view,1
+only,1
+but,1

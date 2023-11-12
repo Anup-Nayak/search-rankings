@@ -1,0 +1,13 @@
+59,512,4
+votes,1
+of,3
+a,1
+majority,1
+hindu,1
+voters,1
+the,1
+area,1
+in,1
+which,1
+it,1
+is,1

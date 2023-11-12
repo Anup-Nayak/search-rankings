@@ -1,0 +1,7 @@
+9,209,6
+128,1
+letter,1
+to,1
+mrs,1
+kasturba,1
+gandhi,1

@@ -1,0 +1,7 @@
+73,179,5
+204,1
+resolution,1
+on,1
+mysore,1
+settlement,1
+2,1

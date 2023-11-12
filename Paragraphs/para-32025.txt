@@ -1,0 +1,11 @@
+10,311,16
+all,1
+pervadingfurnishing,1
+the,1
+country,1
+not,1
+only,1
+with,2
+political,1
+systems,1
+but,1

@@ -1,0 +1,14 @@
+72,422,8
+c,1
+r,1
+but,1
+why,1
+cant,1
+you,2
+forget,1
+all,1
+work,1
+until,1
+are,1
+fully,1
+well,1

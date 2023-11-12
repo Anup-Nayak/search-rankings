@@ -1,0 +1,6 @@
+41,347,6
+399,1
+letter,1
+to,1
+ottama,1
+bhikkhu,1

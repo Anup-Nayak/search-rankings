@@ -1,0 +1,11 @@
+88,200,6
+poona,1
+october,1
+22,1
+1,2
+1945,1
+brijkrishna,1
+chandiwala,1
+narendra,1
+place,1
+delhi,1

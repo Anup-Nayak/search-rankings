@@ -1,0 +1,7 @@
+35,372,8
+the,1
+position,1
+of,1
+non,1
+co,1
+operators,1

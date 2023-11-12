@@ -1,0 +1,8 @@
+14,75,3
+mr,1
+andrews,1
+who,1
+left,1
+for,1
+england,1
+on,1

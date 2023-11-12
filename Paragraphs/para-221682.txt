@@ -1,0 +1,4 @@
+61,64,3
+my,1
+good,1
+daughter,1

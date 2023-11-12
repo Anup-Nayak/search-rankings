@@ -1,0 +1,11 @@
+57,437,8
+g,1
+the,3
+fast,1
+cannot,2
+commence,1
+on,1
+20th,2
+we,1
+stick,1
+to,1

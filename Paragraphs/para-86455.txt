@@ -1,0 +1,15 @@
+25,343,3
+doing,2
+whatever,2
+it,1
+liked,1
+and,1
+non,1
+co,1
+operators,1
+they,1
+chose,1
+or,1
+if,1
+a,1
+truce,1

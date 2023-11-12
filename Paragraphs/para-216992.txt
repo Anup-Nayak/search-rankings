@@ -1,0 +1,16 @@
+59,508,9
+bapu,1
+i,2
+told,1
+you,2
+that,1
+could,1
+have,2
+nothing,1
+to,1
+say,1
+if,1
+already,1
+taken,1
+a,1
+decision,1

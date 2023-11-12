@@ -1,0 +1,16 @@
+64,200,8
+standard,2
+but,1
+do,1
+you,1
+think,1
+that,2
+it,1
+is,1
+possible,1
+for,1
+the,1
+masses,1
+to,1
+attain,1
+of,1

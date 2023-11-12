@@ -1,0 +1,9 @@
+77,91,4
+rajkumari,1
+amrit,1
+kaur,1
+2,1
+metcalfe,1
+house,1
+road,1
+delhi,1

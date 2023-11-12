@@ -1,0 +1,4 @@
+43,161,2
+foreign,1
+v,1
+swadeshi,1

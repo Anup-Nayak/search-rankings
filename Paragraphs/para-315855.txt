@@ -1,0 +1,13 @@
+82,419,4
+l,1
+f,1
+suppose,1
+the,2
+british,1
+say,1
+they,1
+will,1
+withdraw,1
+completely,1
+after,1
+war,1

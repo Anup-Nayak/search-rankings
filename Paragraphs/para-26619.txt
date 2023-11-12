@@ -1,0 +1,7 @@
+9,49,5
+mr,1
+gandhi,1
+appeared,1
+for,1
+the,1
+accused,1

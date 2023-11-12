@@ -1,0 +1,7 @@
+8,290,4
+154,1
+indentured,1
+labourers,1
+in,1
+delagoa,1
+bay,1

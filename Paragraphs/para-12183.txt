@@ -1,0 +1,9 @@
+5,50,2
+44,1
+disunity,1
+and,1
+riots,1
+in,1
+the,1
+heidelberg,1
+community,1

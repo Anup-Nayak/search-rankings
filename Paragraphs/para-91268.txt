@@ -1,0 +1,4 @@
+27,114,3
+your,1
+faithful,1
+servant,1

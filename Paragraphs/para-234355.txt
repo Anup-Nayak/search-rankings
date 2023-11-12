@@ -1,0 +1,6 @@
+64,112,9
+certainly,1
+against,1
+the,1
+congress,1
+creed,1

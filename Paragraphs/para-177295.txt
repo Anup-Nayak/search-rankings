@@ -1,0 +1,7 @@
+50,431,6
+490,1
+letter,1
+to,1
+horace,1
+g,1
+alexander,1

@@ -1,0 +1,12 @@
+7,423,1
+signature,2
+right,1
+thumb,1
+impression,2
+registrar,1
+of,1
+asiatics,1
+taken,1
+by,1
+at,1
+date,1

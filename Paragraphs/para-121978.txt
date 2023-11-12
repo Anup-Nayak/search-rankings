@@ -1,0 +1,15 @@
+36,81,8
+1,1
+ratilal,2
+pranjivandas,1
+mehta,1
+addressees,1
+nephew,1
+2,1
+wife,1
+of,2
+3,1
+punjabhai,1
+hirachand,1
+shah,1
+ahmedabad,1

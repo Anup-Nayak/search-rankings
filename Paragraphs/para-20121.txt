@@ -1,0 +1,6 @@
+7,48,2
+reply,1
+to,1
+rand,1
+daily,1
+mail,1

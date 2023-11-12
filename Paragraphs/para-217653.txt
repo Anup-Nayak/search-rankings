@@ -1,0 +1,5 @@
+60,70,4
+93,1
+what,1
+harijans,1
+think,1

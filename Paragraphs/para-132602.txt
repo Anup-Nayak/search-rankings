@@ -1,0 +1,7 @@
+38,434,3
+440,1
+an,1
+appeal,1
+to,1
+indian,1
+humanity,1

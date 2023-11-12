@@ -1,0 +1,6 @@
+51,10,8
+yeravda,1
+mandir,1
+january,1
+10,1
+1931,1

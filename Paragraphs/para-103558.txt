@@ -1,0 +1,8 @@
+30,296,13
+wired,1
+lalaji,1
+cannot,1
+postpone,1
+without,1
+refer,1
+ence,1

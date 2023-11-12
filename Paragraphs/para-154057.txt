@@ -1,0 +1,8 @@
+44,478,27
+t3,1
+guj,1
+has,1
+behaved,1
+respectfully,1
+towards,1
+them,1

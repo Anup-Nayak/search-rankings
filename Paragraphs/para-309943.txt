@@ -1,0 +1,3 @@
+82,11,4
+from,1
+gujarati,1

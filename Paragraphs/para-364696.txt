@@ -1,0 +1,7 @@
+94,188,6
+201,1
+letter,1
+to,1
+syed,1
+zafar,1
+imam,1

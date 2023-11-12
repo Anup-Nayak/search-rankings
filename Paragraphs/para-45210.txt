@@ -1,0 +1,7 @@
+13,430,35
+sensation,1
+discharged,1
+passive,1
+resisters,1
+show,1
+fixed,1

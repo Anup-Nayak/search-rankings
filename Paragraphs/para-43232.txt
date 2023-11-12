@@ -1,0 +1,5 @@
+13,172,2
+6,1
+infectious,1
+diseases,1
+smallpoxi,1

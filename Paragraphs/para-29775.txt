@@ -1,0 +1,4 @@
+9,490,3
+prime,1
+ministers,1
+office,1

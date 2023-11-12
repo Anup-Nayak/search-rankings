@@ -1,0 +1,7 @@
+86,398,1
+696,1
+letter,1
+to,1
+abdul,1
+ghani,1
+dar,1

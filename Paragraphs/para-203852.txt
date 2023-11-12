@@ -1,0 +1,7 @@
+57,105,22
+community,1
+has,1
+instinctively,1
+realized,1
+correctness,1
+and,1

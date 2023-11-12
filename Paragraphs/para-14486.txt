@@ -1,0 +1,11 @@
+5,422,2
+yours,1
+sincerely,1
+a,1
+h,1
+west,1
+esq,1
+indian,1
+opinion,1
+phoenix,1
+natal,1

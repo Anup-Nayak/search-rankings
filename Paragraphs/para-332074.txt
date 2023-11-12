@@ -1,0 +1,13 @@
+86,330,10
+mahabaleshwar,1
+may,1
+8,1
+1945,1
+satis,1
+chandra,1
+das,1
+gupta,1
+15,1
+college,1
+square,1
+calcutta,1

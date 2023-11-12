@@ -1,0 +1,13 @@
+32,80,2
+here,1
+is,1
+a,1
+letter,1
+from,1
+the,1
+secretary,1
+district,1
+congress,1
+committee,1
+pabna,1
+1,1

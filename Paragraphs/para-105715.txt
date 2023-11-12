@@ -1,0 +1,13 @@
+31,173,24
+embroidered,1
+by,1
+poor,1
+parsi,2
+women,1
+and,2
+to,2
+selling,1
+it,1
+rich,1
+hindu,1
+sisters,1

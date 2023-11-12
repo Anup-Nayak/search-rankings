@@ -1,0 +1,12 @@
+22,337,2
+manibehn,1
+c/o,1
+vallabhbhai,1
+patel,1
+bar,1
+at,1
+law,1
+bhadra,1
+ahmedabad,1
+from,1
+gujarati,1

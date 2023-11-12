@@ -1,0 +1,16 @@
+47,288,8
+1,1
+an,1
+inmate,1
+of,1
+the,1
+ashram,1
+who,1
+had,1
+gone,1
+to,1
+bombay,1
+for,1
+training,1
+in,1
+tannery,1

@@ -1,0 +1,6 @@
+70,105,11
+segaon,1
+wardha,1
+november,1
+21,1
+1936,1

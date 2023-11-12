@@ -1,0 +1,13 @@
+7,318,6
+1,1
+the,2
+translation,1
+given,1
+here,1
+has,1
+been,1
+collated,1
+with,1
+original,1
+in,1
+english,1

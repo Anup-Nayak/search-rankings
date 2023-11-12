@@ -1,0 +1,15 @@
+17,293,7
+1,1
+popular,1
+18th,1
+century,1
+gujarati,1
+poet,1
+author,1
+of,1
+several,1
+narrative,1
+religious,1
+and,1
+didactic,1
+works,1

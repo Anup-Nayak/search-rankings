@@ -1,0 +1,8 @@
+45,21,17
+training,1
+pickpockets,2
+i,1
+do,1
+no,1
+violence,1
+to,1

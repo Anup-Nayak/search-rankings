@@ -1,0 +1,10 @@
+59,283,7
+2,2
+vide,1
+letter,1
+to,2
+private,1
+secretary,1
+viceroy,1
+1,1
+1933,1

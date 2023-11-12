@@ -1,0 +1,4 @@
+70,221,2
+new,1
+maneckchowk,1
+mill,1

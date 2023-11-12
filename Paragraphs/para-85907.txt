@@ -1,0 +1,7 @@
+25,274,11
+tent,1
+and,1
+prepared,1
+recognize,1
+supremacy,1
+public,1

@@ -1,0 +1,16 @@
+27,364,5
+we,2
+have,1
+got,1
+neither,1
+workers,1
+nor,1
+funds,1
+and,1
+so,1
+are,1
+unable,1
+to,1
+carry,1
+on,1
+this,1

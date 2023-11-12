@@ -1,0 +1,5 @@
+40,382,2
+260,1
+a,1
+cotton,1
+quotation,1

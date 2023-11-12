@@ -1,0 +1,14 @@
+41,33,1
+out,1
+in,1
+gujarati,1
+english,1
+and,1
+hindi,1
+depending,1
+on,1
+the,1
+help,1
+that,1
+is,1
+recevied,1

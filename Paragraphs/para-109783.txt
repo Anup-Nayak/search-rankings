@@ -1,0 +1,14 @@
+32,332,10
+village,1
+flooded,1
+be,1
+absolutely,1
+stranded,1
+and,1
+compelled,1
+to,1
+live,1
+on,1
+charity,1
+the,1
+speaker,1

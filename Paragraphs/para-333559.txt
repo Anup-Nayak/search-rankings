@@ -1,0 +1,15 @@
+87,30,2
+panchgani,1
+june,1
+1,1
+1945,1
+professor,1
+ranga,1
+care,1
+s,1
+k,1
+patil,1
+381,1
+sandhurst,1
+road,1
+bombay,1

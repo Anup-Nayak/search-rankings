@@ -1,0 +1,10 @@
+11,251,4
+let,1
+me,1
+know,1
+wants,1
+cape,1
+natal,1
+should,1
+pay,1
+expenses,1

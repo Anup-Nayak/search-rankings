@@ -1,0 +1,6 @@
+53,107,6
+interest,1
+on,1
+companys,1
+capital,1
+stock,1

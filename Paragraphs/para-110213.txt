@@ -1,0 +1,11 @@
+32,404,13
+1,1
+the,3
+itinerary,1
+in,2
+letter,2
+indicates,1
+that,1
+was,1
+written,1
+september,1

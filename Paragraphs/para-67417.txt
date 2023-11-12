@@ -1,0 +1,14 @@
+19,230,4
+i,1
+am,1
+not,2
+sure,1
+whether,1
+you,1
+desire,1
+to,2
+answer,1
+this,1
+question,1
+or,1
+according,1

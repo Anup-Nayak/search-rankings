@@ -1,0 +1,8 @@
+42,243,1
+but,1
+when,1
+we,1
+saw,1
+our,1
+own,1
+defects,1

@@ -1,0 +1,17 @@
+39,118,9
+1,1
+the,2
+source,1
+has,1
+this,1
+letter,1
+after,1
+entries,1
+for,2
+june,2
+21,1
+and,1
+before,1
+those,1
+27,1
+1927,1

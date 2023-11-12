@@ -1,0 +1,11 @@
+92,16,4
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+harekrushna,1
+mahtab,1
+chief,1
+minister,1
+orissa,1

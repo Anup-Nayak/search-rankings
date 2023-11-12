@@ -1,0 +1,10 @@
+82,369,3
+2,1
+the,2
+secondary,1
+prakrits,1
+which,1
+were,1
+spoken,1
+dialects,1
+received,1

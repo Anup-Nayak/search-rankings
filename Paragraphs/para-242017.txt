@@ -1,0 +1,13 @@
+66,11,4
+1,1
+what,1
+follows,1
+was,1
+also,1
+issued,1
+in,1
+a,1
+statement,1
+to,1
+the,1
+press,1

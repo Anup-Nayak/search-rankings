@@ -1,0 +1,6 @@
+65,357,16
+fulnakhara,1
+p,1
+o,1
+cuttack,1
+dt,1

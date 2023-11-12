@@ -1,0 +1,15 @@
+49,287,4
+god,1
+will,1
+be,1
+your,1
+shepherd,1
+i,2
+remember,1
+you,2
+daily,1
+hope,1
+are,1
+no,1
+longer,1
+depressed,1

@@ -1,0 +1,7 @@
+21,403,1
+230,1
+speech,1
+at,1
+womens,1
+meeting,1
+dakor,1

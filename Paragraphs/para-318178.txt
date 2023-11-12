@@ -1,0 +1,11 @@
+83,311,6
+was,1
+not,1
+sardar,1
+sant,1
+singhs,1
+answer,2
+a,1
+proper,1
+how,1
+nice,1

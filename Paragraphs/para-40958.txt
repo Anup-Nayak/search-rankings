@@ -1,0 +1,5 @@
+12,350,8
+arrived,1
+in,1
+beiraat,1
+night,1

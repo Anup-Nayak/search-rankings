@@ -1,0 +1,7 @@
+96,273,10
+authority,1
+necessary,1
+2,1
+amtussalaam,1
+should,1
+wait,1

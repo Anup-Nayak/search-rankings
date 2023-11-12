@@ -1,0 +1,16 @@
+70,203,26
+gandhiji,1
+spoke,1
+in,2
+hindi,1
+reports,1
+of,1
+the,4
+speech,1
+also,1
+apeared,1
+hindu,1
+hindustan,1
+times,1
+and,1
+hitavada,1

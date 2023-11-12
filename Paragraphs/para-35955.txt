@@ -1,0 +1,10 @@
+11,269,11
+no,1
+objection,1
+to,1
+severe,1
+education,1
+test,1
+for,1
+transvaal,1
+cape,1

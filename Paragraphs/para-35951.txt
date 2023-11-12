@@ -1,0 +1,9 @@
+11,269,7
+to,1
+protect,1
+minor,1
+children,1
+wives,1
+of,1
+lawful,1
+residents,1

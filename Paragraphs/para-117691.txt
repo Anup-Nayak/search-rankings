@@ -1,0 +1,15 @@
+35,37,3
+people,1
+think,1
+that,1
+the,4
+more,1
+khadi,1
+cap,1
+wearers,1
+greater,1
+production,1
+and,1
+sale,1
+of,1
+khaddar,1

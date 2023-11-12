@@ -1,0 +1,7 @@
+35,315,10
+412,1
+letter,1
+to,1
+a,1
+muslim,1
+leader,1

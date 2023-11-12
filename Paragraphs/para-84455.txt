@@ -1,0 +1,4 @@
+25,45,3
+ten,1
+precious,1
+reasons,1

@@ -1,0 +1,7 @@
+13,70,20
+and,1
+myselfcan,1
+only,1
+take,1
+the,1
+consequence,1

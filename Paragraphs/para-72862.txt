@@ -1,0 +1,12 @@
+21,51,11
+not,1
+the,2
+slightest,1
+share,1
+in,1
+violence,1
+when,1
+however,1
+wrong,1
+was,1
+fully,1

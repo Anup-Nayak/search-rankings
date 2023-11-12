@@ -1,0 +1,10 @@
+43,150,10
+my,1
+deepest,1
+sympathy,1
+in,1
+your,1
+low,1
+which,1
+is,1
+shared,1

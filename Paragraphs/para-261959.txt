@@ -1,0 +1,14 @@
+70,243,13
+g,1
+no,1
+surely,1
+you,1
+dont,1
+care,1
+for,1
+materialism,2
+and,1
+it,2
+is,1
+all,1
+isnt,1

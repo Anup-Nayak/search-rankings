@@ -1,0 +1,8 @@
+90,83,2
+111,1
+telegram,1
+to,1
+president,1
+district,1
+congress,1
+nellore,1

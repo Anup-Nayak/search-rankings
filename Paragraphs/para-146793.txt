@@ -1,0 +1,17 @@
+42,449,4
+yours,1
+sincerely,1
+sjt,1
+chintamani,1
+balwant,1
+khadilkar,1
+fergusson,1
+college,1
+hostel,1
+room,1
+no,1
+332,1
+deccan,1
+gymkhana,1
+poona,1
+city,1

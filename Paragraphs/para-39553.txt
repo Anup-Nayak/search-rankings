@@ -1,0 +1,6 @@
+12,190,6
+155,1
+indian,1
+education,1
+in,1
+natal,1

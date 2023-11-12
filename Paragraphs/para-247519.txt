@@ -1,0 +1,4 @@
+67,72,7
+119,1
+harijan,1
+education,1

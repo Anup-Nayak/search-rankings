@@ -1,0 +1,12 @@
+54,127,18
+and,3
+who,3
+are,3
+framing,1
+it,2
+taking,1
+part,1
+in,1
+co,1
+operating,1
+with,1

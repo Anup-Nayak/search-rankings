@@ -1,0 +1,10 @@
+17,359,2
+336,1
+speech,1
+on,1
+capital,1
+and,2
+labour,1
+rowlatt,1
+bills,1
+nagapatam,1

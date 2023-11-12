@@ -1,0 +1,11 @@
+95,1,2
+bapu,1
+savitri,1
+alias,1
+francesca,1
+standenath,1
+graz,1
+in,1
+styria,1
+trantmanndorfgosset,1
+austria,1

@@ -1,0 +1,9 @@
+83,144,10
+1,1
+the,2
+questions,1
+were,1
+from,1
+united,1
+press,1
+london,1

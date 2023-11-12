@@ -1,0 +1,6 @@
+68,429,3
+the,1
+manager,1
+allahabad,2
+swadeshi,1
+league,1

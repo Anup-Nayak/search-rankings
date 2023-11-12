@@ -1,0 +1,13 @@
+77,25,7
+a,2
+muslim,1
+friend,1
+writes,1
+long,1
+letter,1
+which,1
+pruned,1
+down,1
+reads,1
+as,1
+follows,1

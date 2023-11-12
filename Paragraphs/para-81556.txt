@@ -1,0 +1,14 @@
+24,37,6
+mahatma,1
+gandhi,1
+said,1
+the,1
+large,1
+crowd,1
+had,1
+not,1
+come,1
+there,1
+to,1
+hear,1
+speeches,1

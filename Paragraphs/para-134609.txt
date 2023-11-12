@@ -1,0 +1,8 @@
+39,228,4
+i,1
+am,1
+karwar,1
+n,1
+kanara,1
+yours,1
+etc,1

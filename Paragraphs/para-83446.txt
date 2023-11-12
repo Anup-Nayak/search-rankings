@@ -1,0 +1,7 @@
+24,360,8
+lakshmidas,1
+tersi,1
+m,1
+r,1
+cholkar,1
+nagpur,1

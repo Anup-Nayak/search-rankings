@@ -1,0 +1,6 @@
+8,266,2
+136,1
+duty,1
+of,1
+natal,1
+congress,1

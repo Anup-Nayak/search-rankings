@@ -1,0 +1,11 @@
+52,444,2
+bapu,1
+syt,1
+satis,1
+chandra,1
+das,1
+gupta,1
+15,1
+college,1
+square,1
+calcutta,1

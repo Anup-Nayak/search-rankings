@@ -1,0 +1,7 @@
+13,376,13
+statement,1
+made,1
+by,1
+the,1
+government,1
+during,1

@@ -1,0 +1,15 @@
+36,116,4
+the,1
+teacher,1
+who,1
+taught,1
+his,1
+pupils,1
+to,1
+spin,1
+because,1
+it,1
+was,1
+mahatmajis,1
+order,1
+writes,1

@@ -1,0 +1,8 @@
+87,144,19
+defeat,1
+purpose,1
+of,1
+conference,1
+if,1
+parity,1
+between,1

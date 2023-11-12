@@ -1,0 +1,10 @@
+41,202,5
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4514,1
+courtesy,1
+aylmer,1
+maude,1

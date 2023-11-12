@@ -1,0 +1,4 @@
+79,86,4
+blessing,1
+from,1
+bapu,1

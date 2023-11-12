@@ -1,0 +1,13 @@
+31,350,3
+1,1
+the,2
+vanara,1
+hero,1
+in,1
+ramayana,1
+humble,1
+and,1
+devoted,1
+servant,1
+of,1
+rama,1

@@ -1,0 +1,6 @@
+73,350,5
+450,1
+harijans,1
+and,1
+hindu,1
+hotels,1

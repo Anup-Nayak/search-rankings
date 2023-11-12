@@ -1,0 +1,10 @@
+70,418,13
+from,1
+a,1
+copy,1
+c,1
+w,1
+10587,1
+courtesy,1
+madeleine,1
+rolland,1

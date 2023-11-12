@@ -1,0 +1,9 @@
+73,67,5
+52,1
+speech,1
+at,1
+a,2
+i,1
+s,1
+workers,1
+meeting,1

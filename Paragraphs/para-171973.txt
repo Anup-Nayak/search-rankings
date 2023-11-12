@@ -1,0 +1,14 @@
+49,292,4
+1,1
+this,1
+was,1
+written,2
+on,2
+may,2
+18,1
+and,1
+19,1
+the,1
+postscripts,1
+were,1
+21,1

@@ -1,0 +1,14 @@
+2,56,15
+fruits,1
+and,2
+fish,1
+that,1
+adorn,1
+a,1
+natal,1
+dinner,1
+table,1
+are,1
+grown,1
+caught,1
+hawked,1

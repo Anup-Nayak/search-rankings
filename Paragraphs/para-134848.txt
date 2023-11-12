@@ -1,0 +1,4 @@
+39,264,4
+taint,1
+of,1
+untouchability,1

@@ -1,0 +1,7 @@
+79,427,10
+pline,1
+demands,1
+fulfilment,1
+of,1
+duty,1
+undertaken,1

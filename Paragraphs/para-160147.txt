@@ -1,0 +1,13 @@
+46,212,14
+2,1
+a,1
+few,1
+incomplete,1
+sentences,1
+which,1
+yield,1
+no,1
+meaning,1
+are,1
+omitted,1
+here,1

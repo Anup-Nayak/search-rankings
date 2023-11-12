@@ -1,0 +1,3 @@
+75,103,11
+great,1
+stewardship,1

@@ -1,0 +1,6 @@
+13,49,7
+phoenix,1
+wednesday,1
+april,1
+9,1
+1913,1

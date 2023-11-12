@@ -1,0 +1,14 @@
+82,412,2
+superior,1
+to,1
+the,1
+new,1
+order,1
+in,2
+soviet,1
+russia,2
+some,1
+say,1
+there,1
+is,1
+ruthlessness,1

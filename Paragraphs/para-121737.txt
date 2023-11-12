@@ -1,0 +1,5 @@
+36,50,5
+48,1
+letter,1
+to,1
+devratna,1

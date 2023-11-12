@@ -1,0 +1,8 @@
+44,487,7
+t4,1
+guj,1
+adds,1
+and,1
+even,1
+now,1
+is,1

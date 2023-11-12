@@ -1,0 +1,9 @@
+2,150,6
+discussed,1
+from,2
+the,3
+point,2
+of,4
+view,2
+trader,1
+apart,1

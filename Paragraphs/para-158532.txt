@@ -1,0 +1,6 @@
+46,35,1
+28,1
+letter,1
+to,1
+gangabehn,1
+zaveri,1

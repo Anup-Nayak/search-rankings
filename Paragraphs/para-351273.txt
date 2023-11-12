@@ -1,0 +1,10 @@
+91,83,15
+q,1
+to,1
+a,1
+fourth,1
+why,1
+do,1
+you,1
+buy,1
+khadi,1

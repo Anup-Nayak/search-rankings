@@ -1,0 +1,16 @@
+42,438,4
+2,1
+whether,1
+india,1
+is,1
+richer,1
+or,2
+poorer,1
+today,1
+than,1
+25,1
+years,1
+ago,1
+a,1
+longer,1
+period,1

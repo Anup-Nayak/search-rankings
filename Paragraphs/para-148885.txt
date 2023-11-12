@@ -1,0 +1,8 @@
+43,214,2
+amas,1
+silence,1
+day,1
+november,1
+12,1
+1928,1
+1,1

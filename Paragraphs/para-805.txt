@@ -1,0 +1,13 @@
+1,161,5
+k,1
+c,1
+m,1
+g,1
+governor,1
+and,2
+commander,1
+in,2
+chief,1
+over,1
+the,1
+colony,1

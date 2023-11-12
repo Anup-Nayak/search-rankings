@@ -1,0 +1,8 @@
+77,418,12
+select,1
+committees,1
+and,1
+debates,1
+in,1
+this,1
+house,1

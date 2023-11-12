@@ -1,0 +1,14 @@
+82,410,26
+l,1
+f,1
+only,1
+you,2
+did,2
+not,2
+understand,2
+him,1
+and,1
+he,1
+g,1
+i,1
+found,1

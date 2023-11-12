@@ -1,0 +1,7 @@
+21,202,6
+courtesy,1
+beladevi,1
+nayyar,2
+and,1
+dr,1
+sushila,1

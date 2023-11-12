@@ -1,0 +1,6 @@
+8,127,2
+educated,1
+persons,2
+and,1
+of,1
+standing,1

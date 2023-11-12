@@ -1,0 +1,14 @@
+48,497,3
+1,1
+the,1
+paragraph,1
+that,1
+follows,1
+has,1
+been,1
+translated,1
+from,1
+navajivan,1
+6,1
+4,1
+1930,1

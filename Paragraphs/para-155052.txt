@@ -1,0 +1,14 @@
+45,21,5
+government,1
+alluding,1
+to,1
+the,1
+same,1
+subject,1
+some,1
+years,1
+ago,1
+you,1
+in,1
+an,1
+article,1

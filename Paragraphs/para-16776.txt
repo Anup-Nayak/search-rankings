@@ -1,0 +1,13 @@
+6,147,2
+i,2
+say,1
+in,1
+conclusion,1
+that,1
+cannot,1
+quite,1
+agree,1
+with,1
+the,1
+satisfaction,1
+expressed,1

@@ -1,0 +1,10 @@
+13,144,8
+born,1
+indians,1
+enter,1
+cape,1
+under,1
+para,1
+a,1
+sub,1
+sec,1

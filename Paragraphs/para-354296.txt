@@ -1,0 +1,12 @@
+91,418,2
+a,1
+gujarati,1
+khadi,1
+lover,1
+living,1
+in,1
+south,1
+india,1
+writes,1
+as,1
+follows,1

@@ -1,0 +1,16 @@
+77,5,5
+every,1
+available,1
+source,1
+of,1
+water,1
+is,1
+used,1
+for,1
+irrigation,1
+by,1
+setting,1
+up,1
+small,1
+pumping,1
+plants,1

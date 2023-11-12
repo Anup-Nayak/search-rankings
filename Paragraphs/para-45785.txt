@@ -1,0 +1,7 @@
+14,0,28
+lute,1
+necessity,1
+discharge,1
+pretoria,1
+news,1
+strongly,1

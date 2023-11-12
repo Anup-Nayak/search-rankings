@@ -1,0 +1,12 @@
+27,472,8
+out,1
+policy,1
+of,2
+the,2
+ministry,1
+appointed,1
+under,1
+government,1
+india,1
+act,1
+and,1

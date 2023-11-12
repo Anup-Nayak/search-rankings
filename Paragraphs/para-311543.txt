@@ -1,0 +1,14 @@
+82,140,4
+literary,1
+training,1
+is,1
+wholly,1
+wrong,1
+certain,1
+hours,1
+are,1
+assigned,1
+to,1
+craft,1
+work,1
+and,1

@@ -1,0 +1,15 @@
+2,79,8
+a,1
+1,1
+and,2
+copies,1
+of,1
+which,1
+are,1
+annexed,1
+to,1
+the,1
+duplicate,1
+original,1
+protocol,1
+hereof,1

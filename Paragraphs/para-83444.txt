@@ -1,0 +1,8 @@
+24,360,6
+jawaharlal,1
+nehru,1
+allahabad,1
+b,1
+s,1
+munje,1
+nagpur,1

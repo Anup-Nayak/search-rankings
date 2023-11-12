@@ -1,0 +1,8 @@
+15,21,4
+from,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+33915,1

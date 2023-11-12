@@ -1,0 +1,5 @@
+13,77,3
+55,1
+natal,1
+indians,1
+beware,1

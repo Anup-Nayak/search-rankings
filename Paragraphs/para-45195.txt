@@ -1,0 +1,8 @@
+13,430,20
+from,1
+taking,1
+their,1
+own,1
+rusty,2
+dishes,1
+pannikins,1

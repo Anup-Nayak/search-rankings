@@ -1,0 +1,12 @@
+3,196,12
+have,1
+you,1
+had,1
+any,1
+cases,1
+of,1
+enteric,1
+not,1
+a,1
+single,1
+case,1

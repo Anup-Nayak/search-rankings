@@ -1,0 +1,15 @@
+82,23,13
+this,1
+is,1
+a,2
+very,1
+rough,1
+and,1
+brief,1
+outline,1
+of,2
+my,1
+idea,1
+good,1
+high,1
+school,1

@@ -1,0 +1,8 @@
+38,192,3
+174,1
+pravartak,1
+young,1
+bengal,1
+sangh,1
+and,1
+khadi,1

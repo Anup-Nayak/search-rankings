@@ -1,0 +1,10 @@
+38,439,7
+miss,1
+jane,1
+howard,1
+rosemary,1
+50,1
+pandora,1
+road,1
+malvern,1
+johannesburg,1

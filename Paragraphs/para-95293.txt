@@ -1,0 +1,5 @@
+28,175,2
+charkha,1
+in,1
+trivandrum,1
+jail,1

@@ -1,0 +1,8 @@
+44,509,10
+t6,1
+for,1
+found,1
+out,1
+guj,1
+has,1
+brought,1

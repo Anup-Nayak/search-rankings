@@ -1,0 +1,9 @@
+29,193,11
+ask,1
+you,1
+therefore,1
+direct,1
+your,1
+effort,1
+to,1
+secure,1

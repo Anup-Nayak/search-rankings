@@ -1,0 +1,12 @@
+24,36,6
+22,1
+message,1
+to,1
+people,1
+of,1
+kheda,1
+district,1
+before,1
+august,1
+1,1
+1921,1

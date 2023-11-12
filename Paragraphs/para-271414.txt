@@ -1,0 +1,5 @@
+72,495,2
+bengal,1
+governments,1
+communique,1
+1,1

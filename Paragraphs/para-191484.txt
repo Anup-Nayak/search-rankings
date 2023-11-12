@@ -1,0 +1,16 @@
+54,73,9
+be,1
+expected,1
+from,1
+the,1
+round,1
+table,1
+conference,1
+1,1
+said,1
+that,2
+was,1
+his,1
+feeling,1
+but,1
+it,1

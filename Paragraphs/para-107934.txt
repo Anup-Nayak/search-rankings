@@ -1,0 +1,8 @@
+32,1,1
+memory,1
+this,1
+idol,1
+of,2
+bengal,1
+and,1
+one,1

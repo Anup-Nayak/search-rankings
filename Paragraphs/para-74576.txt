@@ -1,0 +1,11 @@
+21,354,29
+nations,1
+association,1
+with,1
+such,1
+a,2
+government,2
+was,2
+sin,1
+it,1
+which,1

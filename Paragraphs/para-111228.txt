@@ -1,0 +1,10 @@
+33,63,3
+1,1
+videspeech,1
+at,1
+meeting,1
+of,1
+missionaries,1
+28,1
+7,1
+1925,1

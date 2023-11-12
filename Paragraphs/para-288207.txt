@@ -1,0 +1,10 @@
+77,34,9
+utmost,1
+extent,1
+possible,1
+the,1
+minorities,1
+question,1
+is,1
+a,1
+bogey,1

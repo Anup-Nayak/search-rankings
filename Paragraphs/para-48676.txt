@@ -1,0 +1,11 @@
+14,364,2
+gandhiji,1
+ended,1
+his,2
+speech,1
+by,1
+offering,1
+thanks,1
+to,1
+the,1
+audience,1

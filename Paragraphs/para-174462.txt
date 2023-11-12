@@ -1,0 +1,4 @@
+50,84,12
+gangabehn,1
+and,1
+nanibehn,1

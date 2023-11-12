@@ -1,0 +1,8 @@
+6,346,13
+and,1
+trusts,1
+decision,1
+will,1
+be,1
+postponed,1
+meanwhile,1

@@ -1,0 +1,8 @@
+17,333,8
+all,1
+public,1
+demonstrations,1
+1,1
+health,1
+too,1
+weak,1

@@ -1,0 +1,13 @@
+13,126,5
+indian,1
+opinion,1
+editor,1
+h,1
+s,1
+l,1
+polak,1
+phoenix,1
+natal,1
+may,1
+12,1
+1913,1

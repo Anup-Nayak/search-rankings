@@ -1,0 +1,8 @@
+27,176,7
+193,1
+letter,1
+to,1
+mangal,1
+singh,2
+and,1
+raja,1

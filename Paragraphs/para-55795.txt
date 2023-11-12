@@ -1,0 +1,9 @@
+16,149,3
+55,1
+message,1
+to,1
+gujarati,1
+hindu,1
+stri,1
+mandal,1
+1,1

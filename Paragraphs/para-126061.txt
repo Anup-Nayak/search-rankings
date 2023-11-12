@@ -1,0 +1,14 @@
+37,34,6
+here,1
+are,1
+extracts,1
+from,2
+a,1
+letter,1
+mr,1
+andrews,1
+after,1
+his,1
+arrival,1
+in,1
+durban,1

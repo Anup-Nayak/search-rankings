@@ -1,0 +1,9 @@
+35,180,2
+to,1
+workers,1
+in,1
+the,1
+cause,1
+of,1
+cow,1
+protection,1

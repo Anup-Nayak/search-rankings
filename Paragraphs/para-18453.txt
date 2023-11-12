@@ -1,0 +1,9 @@
+6,358,4
+if,1
+thumb,1
+impression,1
+why,1
+not,1
+ten,1
+finger,1
+prints,1

@@ -1,0 +1,13 @@
+82,402,26
+muslims,1
+speak,2
+tamil,1
+and,2
+in,1
+bengal,1
+they,1
+both,1
+bengali,1
+neither,1
+hindi,1
+nor,1

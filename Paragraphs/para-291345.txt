@@ -1,0 +1,12 @@
+77,419,11
+stand,1
+in,1
+the,3
+way,1
+of,1
+full,1
+achievement,1
+and,2
+when,1
+war,1
+ends,2

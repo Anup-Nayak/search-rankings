@@ -1,0 +1,13 @@
+94,142,13
+gandhiji,1
+should,1
+be,1
+requested,1
+to,1
+depute,1
+two,1
+special,1
+workers,1
+for,1
+each,1
+camp,1

@@ -1,0 +1,15 @@
+14,343,8
+not,1
+a,1
+minutes,1
+rest,1
+your,1
+cable,1
+received,1
+i,2
+am,1
+sorry,1
+shall,1
+try,1
+good,1
+bye,1

@@ -1,0 +1,14 @@
+42,19,3
+30,1
+letter,1
+to,1
+satis,1
+chandra,1
+das,1
+gupta,1
+the,1
+ashram,1
+sabarmati,1
+may,1
+12,1
+1928,1

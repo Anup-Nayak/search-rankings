@@ -1,0 +1,15 @@
+82,173,1
+be,1
+like,1
+tomorrow,1
+god,1
+alone,1
+knows,1
+the,1
+weather,1
+is,1
+curious,1
+it,1
+rains,1
+too,1
+occasionally,1

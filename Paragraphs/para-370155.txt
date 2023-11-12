@@ -1,0 +1,8 @@
+96,56,4
+bhangi,1
+colony,1
+new,1
+delhi,1
+july,1
+16,1
+1947,1

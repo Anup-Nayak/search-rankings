@@ -1,0 +1,6 @@
+94,142,11
+before,1
+gandhiji,1
+for,1
+his,1
+comments,1

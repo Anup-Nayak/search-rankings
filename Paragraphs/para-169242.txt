@@ -1,0 +1,7 @@
+48,426,3
+452,1
+talk,1
+to,1
+press,1
+representatives,1
+2,1

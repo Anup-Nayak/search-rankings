@@ -1,0 +1,6 @@
+85,325,3
+superintendent,1
+jail,1
+gorakhpur,1
+u,1
+p,1

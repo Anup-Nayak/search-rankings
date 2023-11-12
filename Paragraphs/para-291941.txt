@@ -1,0 +1,14 @@
+78,34,15
+i,1
+am,1
+not,1
+concerned,1
+to,1
+defend,1
+either,1
+the,1
+circumstances,1
+under,1
+which,1
+we,1
+got,1

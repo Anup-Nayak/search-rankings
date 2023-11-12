@@ -1,0 +1,15 @@
+82,31,3
+dear,1
+prof,1
+barker,1
+1,1
+many,1
+thanks,1
+for,1
+your,1
+kind,1
+letter,1
+may,1
+we,1
+have,1
+peace,1

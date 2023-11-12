@@ -1,0 +1,10 @@
+85,53,4
+j,1
+but,1
+how,1
+to,1
+compare,1
+moral,1
+values,2
+with,1
+material,1

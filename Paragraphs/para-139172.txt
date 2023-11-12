@@ -1,0 +1,12 @@
+40,482,2
+q,1
+but,1
+may,1
+not,1
+a,2
+man,1
+follow,1
+profession,1
+after,1
+his,1
+heart,1

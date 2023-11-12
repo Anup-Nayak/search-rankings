@@ -1,0 +1,5 @@
+8,172,6
+finger,1
+prints,1
+from,1
+women,1

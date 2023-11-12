@@ -1,0 +1,10 @@
+9,15,2
+the,1
+magistrate,1
+there,1
+is,1
+a,1
+previous,1
+conviction,1
+against,1
+naidoo,1

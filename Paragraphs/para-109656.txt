@@ -1,0 +1,4 @@
+32,317,7
+a,1
+travelling,1
+charkha,1

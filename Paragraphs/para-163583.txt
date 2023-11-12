@@ -1,0 +1,15 @@
+47,139,13
+was,1
+not,1
+a,2
+bad,1
+one,1
+doctor,1
+also,1
+performs,1
+similar,1
+work,1
+there,1
+is,1
+no,1
+difference,1

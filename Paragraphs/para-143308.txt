@@ -1,0 +1,12 @@
+42,32,7
+1,1
+these,1
+articles,1
+by,1
+c,1
+f,1
+andrews,1
+are,1
+not,1
+reproduced,1
+here,1

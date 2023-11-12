@@ -1,0 +1,12 @@
+91,299,10
+l,1
+f,1
+and,1
+he,1
+said,1
+congress,1
+will,1
+not,1
+go,1
+into,1
+groupings,1

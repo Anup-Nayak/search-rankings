@@ -1,0 +1,16 @@
+96,251,25
+this,1
+art,1
+of,2
+the,1
+self,1
+defence,1
+by,2
+means,1
+which,1
+man,1
+gained,1
+his,1
+life,1
+losing,1
+it,1

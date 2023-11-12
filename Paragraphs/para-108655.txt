@@ -1,0 +1,14 @@
+32,128,12
+2,1
+which,1
+the,1
+bombay,1
+chronicle,1
+had,1
+addressed,1
+to,1
+leaders,1
+of,1
+various,1
+political,1
+parties,1

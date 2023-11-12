@@ -1,0 +1,8 @@
+59,25,11
+work,1
+may,1
+i,1
+now,1
+know,1
+government,1
+decision,1

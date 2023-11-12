@@ -1,0 +1,11 @@
+72,381,6
+1,2
+gandhijis,1
+departure,1
+for,1
+wardha,1
+was,1
+postponed,1
+on,1
+monday,1
+november,1

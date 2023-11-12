@@ -1,0 +1,7 @@
+54,113,7
+presence,1
+here,1
+necessary,1
+and,1
+thereafter,1
+travel,1

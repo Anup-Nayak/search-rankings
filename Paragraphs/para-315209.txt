@@ -1,0 +1,12 @@
+82,400,21
+a,1
+settlement,1
+in,1
+india,1
+you,2
+have,1
+reversed,1
+the,1
+cripps,2
+offer,1
+offered,1

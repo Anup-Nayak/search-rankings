@@ -1,0 +1,6 @@
+32,1,11
+5,1
+telegram,1
+to,1
+mona,1
+das,1

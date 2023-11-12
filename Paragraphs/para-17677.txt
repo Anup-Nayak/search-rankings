@@ -1,0 +1,8 @@
+6,259,6
+are,1
+not,1
+cape,1
+and,1
+natal,1
+laws,1
+enough,1

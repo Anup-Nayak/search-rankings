@@ -1,0 +1,12 @@
+28,271,5
+in,1
+this,2
+connection,1
+mr,1
+ali,1
+hassan,1
+makes,1
+curious,1
+statement,1
+he,1
+says,1

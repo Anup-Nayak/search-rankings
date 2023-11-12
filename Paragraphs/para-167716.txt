@@ -1,0 +1,6 @@
+48,197,3
+197,1
+letter,1
+to,1
+kasturba,1
+gandhi,1

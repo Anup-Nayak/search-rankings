@@ -1,0 +1,14 @@
+83,216,2
+m,1
+k,1
+gandhi,1
+aga,1
+khan,1
+palace,1
+yeravda,1
+august,1
+27,1
+1942,1
+key,1
+to,1
+health,1

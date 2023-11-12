@@ -1,0 +1,9 @@
+75,280,7
+yesterday,1
+am,1
+laid,1
+up,1
+with,1
+fever,1
+which,1
+is,1

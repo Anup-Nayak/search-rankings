@@ -1,0 +1,9 @@
+23,396,4
+president,1
+insists,1
+committee,1
+date,1
+after,1
+twenty,1
+fourth,1
+view,1

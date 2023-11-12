@@ -1,0 +1,4 @@
+30,47,1
+plea,1
+for,1
+buddhists,1

@@ -1,0 +1,17 @@
+41,42,3
+yours,1
+sincerely,1
+s,2
+n,1
+ghose,1
+esq,1
+the,1
+india,1
+freedom,1
+foundation,1
+799,1
+broadway,1
+new,1
+york,1
+u,1
+a,1

@@ -1,0 +1,5 @@
+28,12,3
+a,1
+delhi,1
+correspondent,1
+writes,1

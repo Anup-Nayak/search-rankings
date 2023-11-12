@@ -1,0 +1,7 @@
+25,457,9
+slave,1
+and,1
+thy,1
+feet,1
+are,1
+free,1

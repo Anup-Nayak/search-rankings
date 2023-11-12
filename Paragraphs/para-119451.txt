@@ -1,0 +1,9 @@
+35,249,2
+high,1
+or,1
+low,1
+a,1
+newspaper,1
+correspondent,1
+writes,1
+1,1

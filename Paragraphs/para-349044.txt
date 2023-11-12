@@ -1,0 +1,6 @@
+90,290,2
+352,1
+mercy,1
+v,1
+ruthlessness,1
+1,1

@@ -1,0 +1,4 @@
+43,36,8
+amritlal,1
+thakkar,1
+godhra,1

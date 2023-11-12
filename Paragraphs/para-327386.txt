@@ -1,0 +1,11 @@
+85,347,1
+you,1
+have,1
+only,1
+service,1
+to,2
+devote,1
+yourself,1
+so,1
+do,1
+it,1

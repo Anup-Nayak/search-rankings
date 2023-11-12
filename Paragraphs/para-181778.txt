@@ -1,0 +1,17 @@
+51,448,17
+returned,1
+except,1
+in,2
+so,1
+far,1
+as,1
+they,1
+are,1
+excess,1
+of,1
+the,2
+legal,1
+dues,1
+for,1
+which,1
+property,1

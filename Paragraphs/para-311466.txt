@@ -1,0 +1,10 @@
+82,133,26
+2,1
+supposing,1
+a,2
+soldier,1
+behaves,1
+indecently,1
+towards,1
+helpless,1
+female,1

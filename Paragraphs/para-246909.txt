@@ -1,0 +1,15 @@
+67,13,1
+get,1
+over,1
+your,1
+nose,1
+trouble,1
+i,1
+think,1
+it,1
+can,1
+be,1
+done,1
+with,1
+simple,1
+remedies,1

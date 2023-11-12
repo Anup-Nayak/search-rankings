@@ -1,0 +1,4 @@
+25,162,4
+reverse,1
+of,1
+truth,1

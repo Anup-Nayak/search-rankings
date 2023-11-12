@@ -1,0 +1,7 @@
+62,168,6
+bapu,1
+ps,1
+write,1
+always,1
+at,1
+wardha,1

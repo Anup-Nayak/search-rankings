@@ -1,0 +1,15 @@
+64,11,3
+m,1
+k,1
+gandhi,1
+sjt,1
+g,1
+v,1
+subba,1
+rao,1
+secretary,1
+andhra,1
+congress,1
+swarajya,1
+party,1
+bezwada,1

@@ -1,0 +1,16 @@
+42,224,11
+yours,1
+sincerely,1
+enclosure,1
+2,1
+sheets,1
+shah,1
+mohammed,2
+qasim,1
+c/o,1
+syed,1
+hussain,1
+p,1
+o,1
+nurhut,1
+gaya,1

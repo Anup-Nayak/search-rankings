@@ -1,0 +1,10 @@
+46,260,6
+marriages,1
+emergencies,1
+rebellions,1
+and,1
+in,1
+all,1
+festivals,1
+contact,1
+with,1

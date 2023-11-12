@@ -1,0 +1,12 @@
+76,242,9
+she,2
+had,2
+not,1
+gone,2
+to,2
+bombay,2
+at,1
+all,1
+naranbhai,1
+before,1
+left,1

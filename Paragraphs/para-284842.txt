@@ -1,0 +1,9 @@
+76,113,6
+abbottabad,1
+july,1
+12,1
+1939,1
+pyarelal,1
+birla,1
+house,1
+bombay,1

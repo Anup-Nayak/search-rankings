@@ -1,0 +1,7 @@
+3,182,6
+trade,1
+suffering,1
+suspense,1
+terrible,1
+respectfully,1
+protest,1

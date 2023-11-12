@@ -1,0 +1,4 @@
+23,379,12
+tirupati,1
+madras,1
+state,1

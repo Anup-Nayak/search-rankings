@@ -1,0 +1,10 @@
+27,429,19
+repeated,1
+conferences,1
+and,1
+the,1
+decision,1
+is,1
+practically,1
+arrived,1
+at,1

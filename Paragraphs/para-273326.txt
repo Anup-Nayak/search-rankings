@@ -1,0 +1,11 @@
+73,220,3
+no,1
+case,1
+can,1
+sushila,1
+come,2
+alone,1
+most,1
+welcome,1
+if,1
+both,1

@@ -1,0 +1,6 @@
+29,476,3
+diwan,1
+anantram,1
+refugees,1
+camp,1
+rawalpindi,1

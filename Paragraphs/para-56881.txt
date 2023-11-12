@@ -1,0 +1,6 @@
+16,293,4
+184,1
+ahmedabad,1
+mill,1
+hands,1
+strike,1

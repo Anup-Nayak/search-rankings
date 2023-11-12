@@ -1,0 +1,14 @@
+1,192,3
+1,1
+member,1
+of,1
+a,1
+south,2
+african,1
+race,1
+loosely,1
+applied,1
+to,1
+natives,1
+in,1
+africa,1

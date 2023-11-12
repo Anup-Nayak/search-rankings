@@ -1,0 +1,14 @@
+53,157,5
+john,1
+haynes,1
+holmes,1
+christal,1
+hospiz,1
+mittelstrasse,1
+5,1
+6,1
+berlin,1
+n,1
+w,1
+7,1
+germany,1

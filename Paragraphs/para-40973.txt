@@ -1,0 +1,17 @@
+12,351,4
+arrived,1
+in,3
+zanzibar,1
+the,2
+morning,1
+went,1
+to,1
+city,1
+called,1
+on,1
+mr,1
+yusufali,1
+etc,1
+function,1
+victoria,1
+gardens,1

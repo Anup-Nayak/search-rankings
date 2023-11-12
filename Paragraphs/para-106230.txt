@@ -1,0 +1,13 @@
+31,237,12
+given,1
+to,1
+the,2
+transferred,1
+department,1
+and,1
+probable,1
+date,1
+of,1
+dominion,1
+status,1
+was,1

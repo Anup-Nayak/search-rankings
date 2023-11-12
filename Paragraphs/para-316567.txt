@@ -1,0 +1,6 @@
+83,69,3
+let,1
+the,1
+ferozepur,1
+people,1
+stay,1

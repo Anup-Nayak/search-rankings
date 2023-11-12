@@ -1,0 +1,7 @@
+70,76,12
+1,1
+r,2
+keithahn,1
+an,1
+american,1
+missionary,1

@@ -1,0 +1,7 @@
+79,86,6
+93,1
+what,1
+of,1
+the,1
+weak,1
+majority,1

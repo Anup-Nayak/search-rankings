@@ -1,0 +1,14 @@
+30,219,1
+q,1
+you,2
+non,1
+co,2
+operated,1
+when,2
+the,1
+khilafat,1
+declared,1
+it,1
+did,1
+commence,1
+operating,1

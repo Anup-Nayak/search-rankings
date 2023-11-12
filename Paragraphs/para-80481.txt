@@ -1,0 +1,16 @@
+23,363,15
+khaddar,1
+then,1
+she,1
+had,1
+better,1
+not,2
+cook,1
+at,1
+all,1
+for,2
+him,1
+he,1
+would,1
+take,1
+anything,1

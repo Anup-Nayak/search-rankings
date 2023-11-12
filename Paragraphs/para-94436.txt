@@ -1,0 +1,11 @@
+28,37,7
+some,1
+facts,1
+mentioned,1
+by,1
+the,2
+khadi,1
+news,1
+centre,1
+in,1
+sixth,1

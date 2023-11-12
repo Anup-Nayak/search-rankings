@@ -1,0 +1,6 @@
+39,47,1
+58,1
+letter,1
+to,1
+william,1
+smith,1

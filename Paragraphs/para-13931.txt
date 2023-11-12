@@ -1,0 +1,10 @@
+5,342,13
+johannesburg,1
+september,1
+12,1
+1906,1
+the,2
+editor,1
+rand,1
+daily,1
+mail,1

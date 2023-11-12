@@ -1,0 +1,13 @@
+25,344,5
+taken,1
+his,1
+seat,1
+on,1
+the,1
+rostrum,1
+he,1
+spoke,1
+in,1
+hindi,1
+as,1
+under,1

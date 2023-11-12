@@ -1,0 +1,8 @@
+90,272,5
+shri,1
+uttimchand,1
+gangaram,1
+bombay,1
+bakery,1
+hyderabad,1
+sind,1

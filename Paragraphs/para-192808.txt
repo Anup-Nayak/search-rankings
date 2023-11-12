@@ -1,0 +1,12 @@
+54,254,10
+q,1
+does,1
+the,1
+happiness,1
+of,1
+man,1
+reside,1
+in,2
+knowledge,1
+or,1
+ignorance,1

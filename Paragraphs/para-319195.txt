@@ -1,0 +1,6 @@
+83,458,2
+talk,1
+with,1
+pyarelal,1
+on,1
+marxism,1

@@ -1,0 +1,6 @@
+95,413,3
+provinces,1
+general,1
+muslims,1
+sikhs,1
+total,1

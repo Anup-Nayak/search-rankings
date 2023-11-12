@@ -1,0 +1,5 @@
+92,62,1
+94,1
+alternative,1
+to,1
+industrialism,1

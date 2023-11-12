@@ -1,0 +1,5 @@
+90,6,11
+regret,1
+impossible,1
+just,1
+now,1

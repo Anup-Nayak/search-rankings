@@ -1,0 +1,9 @@
+77,50,32
+not,1
+resist,1
+independence,1
+the,1
+hindu,1
+muslim,1
+and,1
+other,1

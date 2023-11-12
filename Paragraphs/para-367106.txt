@@ -1,0 +1,7 @@
+95,56,6
+seen,1
+my,1
+social,1
+letter3,1
+rajkumari,1
+knows,1

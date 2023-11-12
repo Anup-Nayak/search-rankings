@@ -1,0 +1,6 @@
+60,451,3
+540,1
+a,1
+harijan,1
+sevaks,1
+difficulty,1

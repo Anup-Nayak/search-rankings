@@ -1,0 +1,10 @@
+2,165,4
+39,1
+exceptions,1
+in,1
+regina,1
+v,1
+petambar,1
+and,1
+others,1
+1,1

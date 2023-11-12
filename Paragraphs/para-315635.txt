@@ -1,0 +1,17 @@
+82,412,34
+l,1
+f,1
+i,2
+agree,1
+ten,1
+years,1
+ago,1
+might,1
+not,1
+have,1
+agreed,1
+but,1
+after,1
+my,1
+experiences,1
+in,1

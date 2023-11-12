@@ -1,0 +1,9 @@
+88,116,12
+1,1
+this,1
+quotation,1
+from,1
+ramacharitamanas,1
+is,1
+in,1
+hindi,1

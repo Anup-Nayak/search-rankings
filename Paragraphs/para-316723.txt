@@ -1,0 +1,16 @@
+83,88,2
+q,1
+is,1
+it,1
+proper,1
+for,1
+congressmen,1
+especially,1
+members,1
+of,1
+congress,1
+committees,1
+to,1
+accept,1
+war,1
+contracts,1

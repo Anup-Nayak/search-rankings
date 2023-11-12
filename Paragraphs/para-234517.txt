@@ -1,0 +1,10 @@
+64,132,2
+171,1
+speech,1
+in,1
+reply,1
+to,1
+municipal,1
+address,1
+2,1
+karachi,1

@@ -1,0 +1,6 @@
+88,120,15
+bhai,1
+iftikhar,1
+2,1
+and,1
+ismat,1

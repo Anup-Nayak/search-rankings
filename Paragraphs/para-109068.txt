@@ -1,0 +1,16 @@
+32,205,6
+cablegram,1
+from,1
+lord,1
+birkenhead,1
+that,1
+the,1
+bill,1
+would,1
+be,1
+passed,1
+if,1
+he,1
+subscribed,1
+to,1
+it,1

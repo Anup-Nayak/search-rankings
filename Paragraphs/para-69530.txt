@@ -1,0 +1,3 @@
+20,2,9
+punjabi,1
+mohammedans,1

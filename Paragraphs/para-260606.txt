@@ -1,0 +1,6 @@
+70,87,10
+1,1
+vide,1
+the,1
+preceding,1
+item,1

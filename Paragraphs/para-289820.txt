@@ -1,0 +1,13 @@
+77,232,9
+bhai,1
+abdul,2
+khalil,1
+c/o,1
+munshi,1
+wahab,1
+saheb,1
+vaijanath,1
+para,1
+raipur,1
+c,1
+p,1

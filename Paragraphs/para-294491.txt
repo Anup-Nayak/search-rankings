@@ -1,0 +1,15 @@
+78,288,2
+nowadays,1
+one,3
+reads,2
+about,1
+panic,1
+in,1
+the,1
+press,1
+and,1
+hears,1
+more,1
+than,1
+friend,1
+writes,1

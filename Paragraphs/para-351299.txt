@@ -1,0 +1,6 @@
+91,86,2
+bapu,1
+khurshed,1
+naoroji,1
+bhuj,1
+cutch,1

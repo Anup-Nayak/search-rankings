@@ -1,0 +1,16 @@
+82,367,7
+might,1
+or,2
+should,1
+be,1
+formulated,1
+in,1
+a,1
+treaty,1
+of,1
+alliance,1
+an,1
+agreement,1
+for,1
+mutual,1
+aid,1

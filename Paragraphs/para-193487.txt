@@ -1,0 +1,8 @@
+54,346,6
+position,1
+an,1
+advance,1
+made,1
+in,1
+the,1
+friendliest,1

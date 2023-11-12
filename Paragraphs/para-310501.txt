@@ -1,0 +1,5 @@
+82,58,6
+my,1
+dear,1
+ram,1
+manohar,1

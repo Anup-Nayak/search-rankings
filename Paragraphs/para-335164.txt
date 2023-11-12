@@ -1,0 +1,15 @@
+87,180,2
+express,1
+manor,1
+ville,1
+simla,1
+west,1
+june,1
+27,1
+1945,1
+h,2
+aga,1
+khan,1
+tanga,1
+east,1
+africa,1

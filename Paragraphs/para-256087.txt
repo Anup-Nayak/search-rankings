@@ -1,0 +1,15 @@
+69,75,5
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+hindi,1
+bapuki,1
+chhayamen,1
+mere,1
+jivanke,1
+solah,1
+varsh,1
+facing,1
+p,1

@@ -1,0 +1,6 @@
+29,123,8
+2,1
+shiromani,1
+gurdwara,1
+prabandhak,1
+committee,1

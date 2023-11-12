@@ -1,0 +1,13 @@
+78,65,3
+settling,1
+the,1
+question,1
+of,1
+minorities,1
+through,1
+a,1
+constituent,1
+assembly,1
+this,1
+means,1
+that,1

@@ -1,0 +1,12 @@
+91,288,6
+when,1
+man,1
+smites,1
+it,1
+is,1
+god,1
+who,1
+comes,1
+to,1
+our,1
+rescue,1

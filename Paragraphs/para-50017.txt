@@ -1,0 +1,10 @@
+14,502,13
+host,1
+and,1
+god,1
+is,1
+with,1
+the,1
+patiently,1
+persevering,1
+quran,1

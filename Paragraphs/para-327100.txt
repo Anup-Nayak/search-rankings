@@ -1,0 +1,7 @@
+85,321,2
+blessings,1
+from,1
+bapu,1
+chhaganlal,1
+joshi,1
+rajkot,1

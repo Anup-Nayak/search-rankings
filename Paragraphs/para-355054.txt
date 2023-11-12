@@ -1,0 +1,10 @@
+92,44,5
+on,1
+the,1
+thing,1
+if,1
+they,1
+are,1
+enough,1
+dont,1
+trouble,1

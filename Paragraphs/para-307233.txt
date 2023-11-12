@@ -1,0 +1,8 @@
+81,201,11
+368,1
+letter,1
+to,1
+madalasa,1
+october,1
+15,1
+1941,1

@@ -1,0 +1,9 @@
+64,90,9
+127,1
+letter,1
+to,1
+ramdas,1
+gandhi,1
+june,1
+25,1
+1934,1

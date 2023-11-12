@@ -1,0 +1,9 @@
+83,80,4
+96,1
+a,2
+i,1
+s,1
+and,1
+kindred,1
+institutions,1
+1,1

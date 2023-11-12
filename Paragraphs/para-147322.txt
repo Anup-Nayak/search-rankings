@@ -1,0 +1,10 @@
+43,28,13
+inclination,1
+g,1
+nor,1
+time,1
+preside,1
+am,1
+powerless,1
+under,1
+these,1

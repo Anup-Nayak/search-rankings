@@ -1,0 +1,9 @@
+97,128,4
+116,1
+letter,1
+to,1
+om,1
+prakash,1
+october,1
+21,1
+1947,1

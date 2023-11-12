@@ -1,0 +1,6 @@
+39,478,4
+467,1
+letter,1
+to,1
+sumati,1
+morarji,1

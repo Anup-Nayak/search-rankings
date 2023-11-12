@@ -1,0 +1,3 @@
+48,19,3
+gujarats,1
+duty,1

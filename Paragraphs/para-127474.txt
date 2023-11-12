@@ -1,0 +1,11 @@
+37,256,8
+even,1
+so,1
+know,1
+that,1
+all,1
+beings,1
+are,1
+contained,1
+in,1
+me,1

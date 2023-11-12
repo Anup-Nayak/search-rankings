@@ -1,0 +1,13 @@
+13,386,6
+i,1
+take,1
+it,1
+that,1
+these,1
+letters,1
+are,1
+shown,1
+to,1
+miss,1
+schlesin,1
+too,1

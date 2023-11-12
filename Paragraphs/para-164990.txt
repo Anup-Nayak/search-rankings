@@ -1,0 +1,4 @@
+47,301,3
+prejudices,1
+die,1
+hard,1

@@ -1,0 +1,8 @@
+29,80,5
+the,1
+world,1
+is,1
+sadness,1
+and,2
+sorrow,1
+gloom,1

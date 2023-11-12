@@ -1,0 +1,7 @@
+27,104,2
+104,1
+message,1
+to,1
+south,1
+african,1
+europeans,1

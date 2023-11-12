@@ -1,0 +1,8 @@
+44,504,16
+t3,1
+guj,1
+has,1
+such,1
+a,1
+tainted,1
+fast,1

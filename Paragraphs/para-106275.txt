@@ -1,0 +1,13 @@
+31,245,4
+the,2
+president,1
+1,1
+requested,1
+mahatmaji,1
+to,2
+speak,1
+a,1
+few,1
+words,1
+of,1
+advice,1

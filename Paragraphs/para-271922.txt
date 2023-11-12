@@ -1,0 +1,14 @@
+73,66,7
+raises,1
+his,2
+voice,1
+against,1
+the,2
+misdeeds,1
+of,1
+community,1
+on,1
+other,1
+hand,1
+one,1
+can,1

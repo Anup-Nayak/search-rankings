@@ -1,0 +1,8 @@
+70,147,7
+170,1
+about,1
+piercing,1
+the,2
+nose,1
+and,1
+ears,1

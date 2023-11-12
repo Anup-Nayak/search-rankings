@@ -1,0 +1,8 @@
+29,160,12
+from,1
+the,1
+truth,1
+they,1
+needs,1
+must,1
+think,1

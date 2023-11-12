@@ -1,0 +1,12 @@
+52,305,4
+yours,1
+sincerely,1
+dr,1
+henning,1
+dalsgaard,1
+lecturer,1
+in,1
+political,1
+science,1
+elsinore,1
+denmark,1

@@ -1,0 +1,9 @@
+54,4,10
+fruitful,1
+result,1
+told,1
+them,1
+could,1
+not,1
+endorse,1
+their,1

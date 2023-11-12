@@ -1,0 +1,7 @@
+80,128,7
+225,1
+letter,1
+to,1
+vithaldas,1
+v,1
+jerajani,1

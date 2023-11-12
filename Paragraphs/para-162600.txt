@@ -1,0 +1,14 @@
+47,28,6
+1,2
+held,1
+under,1
+the,1
+presidentship,1
+of,1
+jawaharlal,1
+nehru,1
+and,1
+attended,1
+by,1
+400,1
+delegates,1

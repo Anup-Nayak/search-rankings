@@ -1,0 +1,8 @@
+13,387,20
+but,1
+emphatic,1
+expression,1
+of,1
+intense,1
+feeling,1
+against,1

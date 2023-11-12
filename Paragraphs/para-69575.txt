@@ -1,0 +1,14 @@
+20,6,10
+deadly,1
+weapon,1
+aimed,1
+at,1
+the,1
+people,1
+whom,1
+it,1
+is,1
+intended,1
+to,1
+protect,1
+in,1

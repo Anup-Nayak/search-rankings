@@ -1,0 +1,6 @@
+12,197,1
+159,1
+health,1
+of,1
+indentured,1
+indians,1

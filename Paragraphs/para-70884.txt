@@ -1,0 +1,9 @@
+20,210,13
+willing,1
+grant,1
+permission,1
+not,1
+prepared,1
+give,1
+opinion,1
+regarding,1

@@ -1,0 +1,10 @@
+27,405,19
+discipline,1
+and,1
+perfect,1
+the,2
+spirit,1
+of,1
+non,1
+european,1
+people,1

@@ -1,0 +1,9 @@
+26,389,6
+little,1
+use,1
+have,1
+i,1
+for,1
+all,1
+learning,1
+else,1

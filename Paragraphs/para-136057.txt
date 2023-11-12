@@ -1,0 +1,7 @@
+39,431,3
+422,1
+speech,1
+at,1
+belur,1
+temple,1
+1,1

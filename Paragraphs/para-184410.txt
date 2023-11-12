@@ -1,0 +1,9 @@
+52,243,4
+yours,1
+sincerely,1
+wilhelm,1
+heydorn,1
+esq,1
+hamburg,1
+24,1
+germany,1

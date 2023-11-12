@@ -1,0 +1,7 @@
+10,23,9
+any,1
+nationality,1
+this,1
+makes,1
+law,1
+generally,1

@@ -1,0 +1,7 @@
+19,484,10
+that,1
+doubt,1
+and,2
+trouble,1
+fear,1
+pain,1

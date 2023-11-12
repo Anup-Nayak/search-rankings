@@ -1,0 +1,10 @@
+24,298,3
+j,1
+r,1
+huggins,1
+dt,1
+magistrate,1
+vizagapatnam,1
+september,1
+14,1
+1921,1

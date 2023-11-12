@@ -1,0 +1,13 @@
+26,384,7
+1,1
+the,1
+signed,1
+handwritten,1
+statement,1
+is,1
+available,1
+in,2
+photostat,1
+trial,1
+of,1
+gandhiji,1

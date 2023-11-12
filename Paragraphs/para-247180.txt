@@ -1,0 +1,7 @@
+67,40,2
+give,1
+the,1
+enclosed,1
+letter,1
+to,1
+father,1

@@ -1,0 +1,16 @@
+97,264,5
+i,1
+hope,1
+you,1
+will,1
+have,1
+a,1
+happy,1
+time,2
+and,1
+safe,1
+return,1
+according,1
+to,1
+your,1
+table,1

@@ -1,0 +1,9 @@
+14,0,13
+local,1
+influences,1
+working,1
+our,1
+favour,1
+you,1
+know,1
+inte,1

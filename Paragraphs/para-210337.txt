@@ -1,0 +1,11 @@
+58,313,20
+of,2
+public,1
+opinion,1
+in,1
+support,1
+bill,1
+but,1
+i,1
+do,1
+feel,1

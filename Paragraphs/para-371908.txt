@@ -1,0 +1,16 @@
+96,250,10
+friends,1
+had,1
+warned,1
+him,1
+that,1
+the,1
+so,1
+called,1
+non,2
+violent,1
+co,1
+operation,1
+of,1
+india,1
+was,1

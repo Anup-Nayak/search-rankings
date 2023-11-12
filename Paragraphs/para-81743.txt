@@ -1,0 +1,11 @@
+24,67,9
+ladies,1
+are,1
+becoming,1
+extravagant,1
+while,1
+going,1
+to,2
+temples,1
+worship,1
+god,1

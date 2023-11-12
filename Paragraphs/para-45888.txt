@@ -1,0 +1,9 @@
+14,7,22
+ters,1
+who,1
+may,1
+have,1
+been,1
+guilty,1
+of,1
+violence,1

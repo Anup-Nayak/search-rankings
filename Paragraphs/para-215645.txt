@@ -1,0 +1,12 @@
+59,369,12
+moral,1
+self,1
+flagellation,1
+those,1
+that,1
+talk,1
+to,1
+you,2
+or,1
+correspond,1
+with,1

@@ -1,0 +1,8 @@
+13,140,20
+now,1
+amend,1
+bill,1
+to,1
+recognize,1
+validity,1
+indian,1

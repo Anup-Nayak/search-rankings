@@ -1,0 +1,13 @@
+39,23,7
+1,2
+permanent,1
+address,1
+2,1
+vide,1
+appendix,1
+letter,1
+from,1
+basil,1
+mathews,1
+5,1
+1927,1

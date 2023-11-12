@@ -1,0 +1,6 @@
+57,145,12
+concentrate,1
+on,1
+removal,1
+untouchability,1
+invisibility,1

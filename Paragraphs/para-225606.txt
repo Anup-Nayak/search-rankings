@@ -1,0 +1,15 @@
+61,482,11
+c,1
+r,1
+government,1
+will,1
+not,1
+return,1
+all,1
+the,2
+properties,1
+even,1
+if,1
+we,1
+withdraw,1
+struggle,1

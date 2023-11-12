@@ -1,0 +1,10 @@
+36,242,5
+1,1
+presumably,1
+arogya,1
+vishe,1
+samanya,1
+jnan,1
+a,1
+gujarati,1
+book,1

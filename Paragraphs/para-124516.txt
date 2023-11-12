@@ -1,0 +1,6 @@
+36,370,9
+424,1
+letter,1
+to,1
+motibehn,1
+choksi,1

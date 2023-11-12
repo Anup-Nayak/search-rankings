@@ -1,0 +1,17 @@
+76,195,4
+my,1
+dear,1
+idiot,1
+i,2
+have,1
+not,1
+had,1
+a,2
+moment,1
+for,1
+writing,1
+to,1
+you,2
+gave,1
+wire,1
+1,1

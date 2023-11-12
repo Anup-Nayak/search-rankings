@@ -1,0 +1,12 @@
+38,32,3
+of,2
+ravana,1
+etc,1
+is,1
+that,1
+belief,1
+mine,1
+wrong,1
+or,1
+right,2
+entirely,1

@@ -1,0 +1,13 @@
+82,251,11
+institutions,1
+as,1
+also,1
+to,1
+draw,1
+water,1
+from,1
+public,2
+wells,1
+but,1
+sentiment,1
+still,1

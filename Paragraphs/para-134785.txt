@@ -1,0 +1,6 @@
+39,255,2
+241,1
+letter,1
+to,1
+jethalal,1
+gandhi,1

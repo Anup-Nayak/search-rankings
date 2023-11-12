@@ -1,0 +1,7 @@
+67,216,4
+342,1
+letter,1
+to,1
+shivabhai,1
+g,1
+patel,1

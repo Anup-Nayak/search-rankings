@@ -1,0 +1,8 @@
+90,12,13
+committee,2
+all,1
+india,1
+therefore,1
+advise,1
+abandon,1
+fast,1

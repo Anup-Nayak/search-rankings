@@ -1,0 +1,8 @@
+43,55,2
+bapu,1
+shrimati,1
+mirabai,1
+ashram,1
+hatundi,1
+ajmer,1
+rajputana,1

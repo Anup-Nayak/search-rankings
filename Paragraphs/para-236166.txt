@@ -1,0 +1,7 @@
+64,318,9
+sister,1
+amata,1
+eremo,1
+francescano,1
+trevi,1
+umbria,1

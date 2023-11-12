@@ -1,0 +1,7 @@
+58,136,7
+195,1
+letter,1
+to,1
+a,1
+gujarati,1
+student,1

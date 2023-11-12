@@ -1,0 +1,6 @@
+26,440,3
+204,1
+letter,1
+to,1
+indulal,1
+yagnik,1

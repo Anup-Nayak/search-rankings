@@ -1,0 +1,5 @@
+67,300,1
+471,1
+self,1
+sufficient,1
+khadi,1

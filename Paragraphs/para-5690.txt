@@ -1,0 +1,10 @@
+2,422,2
+from,1
+the,1
+photostat,1
+of,1
+a,1
+draft,1
+s,1
+n,1
+3930,1

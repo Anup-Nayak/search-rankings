@@ -1,0 +1,8 @@
+45,17,6
+16,1
+speech,1
+at,1
+parsi,1
+meeting,1
+karachi,1
+1,1

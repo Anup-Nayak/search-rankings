@@ -1,0 +1,7 @@
+45,24,4
+22,1
+the,2
+terror,1
+of,1
+penal,1
+code,1

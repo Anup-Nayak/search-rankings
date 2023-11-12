@@ -1,0 +1,7 @@
+17,214,8
+4,1
+the,1
+householders,1
+stage,1
+of,1
+life,1

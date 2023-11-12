@@ -1,0 +1,7 @@
+56,124,13
+1,1
+a,1
+student,1
+at,1
+the,1
+ashram,1

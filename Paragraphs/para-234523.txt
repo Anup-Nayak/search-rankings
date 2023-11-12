@@ -1,0 +1,14 @@
+64,132,8
+he,1
+was,1
+however,1
+not,1
+satisfied,1
+with,1
+the,1
+unhealthy,1
+quarters,1
+in,1
+which,1
+at,1
+some,1

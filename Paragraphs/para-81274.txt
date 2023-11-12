@@ -1,0 +1,14 @@
+23,483,6
+he,1
+might,1
+not,1
+be,1
+able,1
+to,1
+prevent,1
+the,2
+commencement,1
+of,1
+proceedings,1
+if,1
+statement,1

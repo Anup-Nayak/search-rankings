@@ -1,0 +1,7 @@
+44,505,15
+t2,1
+guj,1
+adds,1
+lokamanya,1
+and,1
+others,1

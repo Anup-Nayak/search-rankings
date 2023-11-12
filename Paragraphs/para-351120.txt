@@ -1,0 +1,6 @@
+91,65,8
+81,1
+faith,1
+cure,1
+v,1
+ramanama,1

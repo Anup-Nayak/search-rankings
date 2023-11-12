@@ -1,0 +1,7 @@
+51,132,6
+oclock,1
+if,1
+hour,1
+inconvenient,1
+pray,1
+appoint,1

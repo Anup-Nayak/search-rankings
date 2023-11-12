@@ -1,0 +1,14 @@
+46,157,23
+oxen,1
+used,1
+for,1
+agriculture,1
+are,1
+imported,1
+from,1
+northern,1
+circars,1
+we,1
+have,1
+not,1
+got,1

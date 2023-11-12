@@ -1,0 +1,9 @@
+38,214,1
+200,1
+speech,1
+at,1
+national,1
+education,1
+conference,1
+hardwar,1
+1,1

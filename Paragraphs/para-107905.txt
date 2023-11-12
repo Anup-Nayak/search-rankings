@@ -1,0 +1,14 @@
+31,484,18
+and,3
+self,1
+determination,1
+freedom,1
+man,1
+is,1
+the,1
+master,1
+of,1
+his,2
+own,1
+destiny,1
+in,1

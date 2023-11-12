@@ -1,0 +1,15 @@
+16,99,24
+vogue,1
+in,1
+the,1
+last,1
+generation,1
+was,1
+defective,1
+as,1
+it,1
+limited,1
+itself,1
+to,1
+turning,1
+out,1

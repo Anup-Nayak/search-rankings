@@ -1,0 +1,14 @@
+78,34,3
+you,2
+very,1
+seriously,1
+whether,1
+are,1
+really,1
+able,1
+to,1
+rule,1
+india,1
+without,1
+any,1
+help,1

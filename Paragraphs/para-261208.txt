@@ -1,0 +1,11 @@
+70,154,9
+q,1
+do,1
+they,1
+have,1
+any,1
+big,1
+hopes,1
+for,1
+the,1
+future,1

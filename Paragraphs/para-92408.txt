@@ -1,0 +1,7 @@
+27,250,5
+thank,1
+god,1
+hope,1
+improvement,1
+will,1
+continue,1

@@ -1,0 +1,12 @@
+43,252,12
+1,1
+from,1
+the,2
+reference,1
+to,1
+separation,1
+in,1
+this,1
+and,1
+preceding,1
+letter,1

@@ -1,0 +1,6 @@
+67,77,3
+127,1
+letter,1
+to,1
+shaligram,1
+verma,1

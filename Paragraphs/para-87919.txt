@@ -1,0 +1,8 @@
+26,84,2
+35,1
+extract,1
+from,1
+letter,1
+to,1
+c,1
+rajagopalachari,1

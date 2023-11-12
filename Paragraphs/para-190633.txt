@@ -1,0 +1,6 @@
+53,477,4
+513,1
+letter,1
+to,1
+s,1
+satyamurthi,1

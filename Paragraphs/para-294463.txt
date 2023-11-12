@@ -1,0 +1,9 @@
+78,283,16
+2,1
+a,1
+free,1
+primary,1
+school,1
+in,1
+their,1
+quarters,1

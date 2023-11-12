@@ -1,0 +1,15 @@
+46,178,15
+72,1
+this,1
+is,1
+the,2
+state,1
+o,1
+partha,1
+of,1
+man,1
+who,1
+rests,1
+in,1
+brahman,1
+having,1

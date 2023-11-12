@@ -1,0 +1,13 @@
+17,390,7
+1,1
+to,1
+cause,1
+as,2
+little,1
+disturbance,1
+possible,1
+among,1
+the,2
+governors,1
+and,1
+governed,1

@@ -1,0 +1,8 @@
+31,173,1
+101,1
+speech,1
+at,1
+parsis,1
+meeting,1
+navsari,1
+1,1

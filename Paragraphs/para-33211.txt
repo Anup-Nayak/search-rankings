@@ -1,0 +1,11 @@
+10,469,8
+segregate,1
+repress,1
+or,1
+turn,1
+the,1
+native,1
+into,1
+permanent,1
+unemployed,1
+and,1

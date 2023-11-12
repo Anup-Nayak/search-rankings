@@ -1,0 +1,11 @@
+86,1,3
+mu,1
+see,1
+my,1
+revised,1
+statement,1
+and,1
+then,1
+speak,1
+to,1
+me,1

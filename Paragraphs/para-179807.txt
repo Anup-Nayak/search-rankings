@@ -1,0 +1,13 @@
+51,195,18
+am,1
+not,1
+without,1
+hope,1
+that,2
+we,1
+shall,1
+eventually,1
+get,1
+settled,1
+in,1
+fashion,1

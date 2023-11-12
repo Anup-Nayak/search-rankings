@@ -1,0 +1,8 @@
+75,259,9
+efforts,1
+attend,1
+bas,1
+fever,1
+abated,1
+no,1
+danger,1

@@ -1,0 +1,7 @@
+15,43,4
+52,1
+letter,1
+to,1
+vidyagauri,1
+r,1
+nilkanth,1

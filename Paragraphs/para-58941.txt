@@ -1,0 +1,10 @@
+17,13,4
+from,1
+the,1
+original,1
+in,1
+gandhijis,1
+hand,1
+g,1
+n,1
+2291,1

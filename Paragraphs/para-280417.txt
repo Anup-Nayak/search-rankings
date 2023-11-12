@@ -1,0 +1,10 @@
+75,77,12
+1,1
+from,1
+the,1
+postmark,1
+2,1
+share,1
+in,1
+state,1
+lands,1

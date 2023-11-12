@@ -1,0 +1,12 @@
+51,159,5
+i,4
+told,1
+him,2
+would,1
+communicate,1
+with,1
+as,3
+soon,1
+could,1
+to,1
+whether,1

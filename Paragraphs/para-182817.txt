@@ -1,0 +1,10 @@
+52,77,5
+100,1
+letter,1
+to,1
+jamnadas,1
+gandhi,1
+borsad,1
+may,1
+8,1
+1931,1

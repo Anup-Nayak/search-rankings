@@ -1,0 +1,7 @@
+67,102,8
+166,1
+letter,1
+to,1
+bhagwanji,1
+p,1
+pandya,1

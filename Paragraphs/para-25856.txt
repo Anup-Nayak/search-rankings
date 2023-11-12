@@ -1,0 +1,8 @@
+8,463,8
+hawkers,1
+arrested,1
+trading,1
+without,1
+licenses,1
+which,1
+could,1

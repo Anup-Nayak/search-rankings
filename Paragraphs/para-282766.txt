@@ -1,0 +1,11 @@
+75,366,2
+amrita,1
+bazar,1
+patrika,2
+9,1
+5,1
+1939,2
+aslo,1
+gram,1
+udyog,1
+june,1

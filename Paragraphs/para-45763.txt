@@ -1,0 +1,10 @@
+14,0,6
+unflinching,1
+advocacy,1
+1,1
+has,1
+created,1
+silent,1
+subtle,1
+influence,1
+favour,1

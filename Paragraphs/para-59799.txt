@@ -1,0 +1,9 @@
+17,120,2
+1,1
+the,2
+author,1
+of,1
+original,1
+ramayana,1
+in,1
+sanskrit,1

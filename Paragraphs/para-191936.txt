@@ -1,0 +1,15 @@
+54,127,16
+lord,1
+reading,1
+i,1
+think,1
+in,1
+a,1
+matter,1
+of,1
+this,1
+character,1
+when,1
+you,1
+are,1
+dealing,1

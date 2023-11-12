@@ -1,0 +1,6 @@
+35,309,10
+justice,1
+p,1
+r,1
+das,1
+patna,1

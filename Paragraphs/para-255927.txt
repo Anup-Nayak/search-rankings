@@ -1,0 +1,10 @@
+69,59,8
+1,1
+jayaprakash,1
+narayan,1
+s,3
+brother,1
+daughter,1
+2,1
+addressee,1
+sister,1

@@ -1,0 +1,11 @@
+17,294,8
+2,1
+a,1
+european,1
+co,1
+worker,1
+of,1
+gandhiji,1
+in,1
+south,1
+africa,1

@@ -1,0 +1,8 @@
+51,128,7
+i,1
+am,1
+an,1
+optimist,1
+and,1
+by,1
+nature,1

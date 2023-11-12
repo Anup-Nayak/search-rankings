@@ -1,0 +1,9 @@
+40,490,9
+south,1
+kanara,1
+and,1
+miscellaneous,1
+rs,1
+5,2
+944,1
+6,1

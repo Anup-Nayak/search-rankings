@@ -1,0 +1,10 @@
+94,86,14
+1,1
+minister,1
+local,1
+self,1
+government,1
+and,1
+medical,1
+in,1
+bihar,1

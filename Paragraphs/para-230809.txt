@@ -1,0 +1,8 @@
+63,210,1
+222,1
+speech,1
+at,1
+jnanodaya,1
+samaj,1
+mangalore,1
+1,1

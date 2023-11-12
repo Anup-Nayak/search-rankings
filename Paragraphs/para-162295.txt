@@ -1,0 +1,17 @@
+46,460,5
+3,1
+who,1
+sends,1
+to,1
+the,1
+association,1
+every,1
+year,1
+two,1
+cow,1
+or,2
+bull,1
+hides,1
+whether,1
+raw,1
+tanned,1

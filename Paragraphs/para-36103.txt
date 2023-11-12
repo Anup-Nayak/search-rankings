@@ -1,0 +1,9 @@
+11,282,18
+requires,1
+entire,1
+absence,1
+colour,1
+bar,1
+union,1
+bill,1
+and,1

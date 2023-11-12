@@ -1,0 +1,15 @@
+21,239,6
+verdict,1
+of,1
+the,2
+people,1
+congress,1
+resolution,1
+as,1
+he,1
+conceived,1
+it,1
+was,1
+not,1
+a,1
+party,1

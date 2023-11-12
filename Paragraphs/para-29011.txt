@@ -1,0 +1,12 @@
+9,399,3
+mohandas,1
+ps,1
+talk,1
+to,1
+all,1
+the,2
+persons,1
+there,1
+about,1
+sanskrit,1
+class,1

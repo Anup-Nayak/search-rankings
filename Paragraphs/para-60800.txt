@@ -1,0 +1,7 @@
+17,238,24
+enforce,1
+the,1
+said,1
+resolution,1
+will,1
+receive,1

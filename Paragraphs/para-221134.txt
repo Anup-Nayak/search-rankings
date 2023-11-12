@@ -1,0 +1,17 @@
+60,514,3
+between,1
+carrion,1
+of,1
+an,1
+healthy,1
+animal,1
+and,1
+slaughtered,1
+meat,1
+there,1
+is,1
+no,1
+chemical,1
+or,1
+physiological,1
+difference,1

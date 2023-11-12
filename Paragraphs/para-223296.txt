@@ -1,0 +1,15 @@
+61,233,28
+1,1
+from,1
+the,2
+reference,1
+to,3
+addressees,1
+telegram,2
+vide,1
+private,1
+secretary,1
+viceroy,1
+14,1
+7,1
+1933,1

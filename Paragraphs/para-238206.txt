@@ -1,0 +1,7 @@
+65,83,1
+93,1
+letter,1
+to,1
+c,1
+abdul,1
+hakim,1

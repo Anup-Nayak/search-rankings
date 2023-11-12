@@ -1,0 +1,7 @@
+41,255,6
+287,1
+letter,1
+to,1
+v,1
+s,1
+bhaskaran,1

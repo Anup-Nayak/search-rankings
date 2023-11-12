@@ -1,0 +1,8 @@
+8,245,4
+122,1
+story,1
+of,2
+a,1
+soldier,1
+truth,1
+i,1

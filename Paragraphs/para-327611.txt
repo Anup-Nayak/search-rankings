@@ -1,0 +1,6 @@
+85,366,6
+622,1
+letter,1
+to,1
+kanam,1
+gandhi,1

@@ -1,0 +1,6 @@
+83,257,1
+rheumatism,1
+and,1
+other,1
+joint,1
+pains,1

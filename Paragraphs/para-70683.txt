@@ -1,0 +1,12 @@
+20,183,4
+your,1
+friend,1
+mohandas,1
+karamchand,1
+gandhi,1
+ps,1
+niger,1
+sum,1
+ego,1
+led,1
+pulche,1

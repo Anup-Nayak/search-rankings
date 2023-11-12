@@ -1,0 +1,12 @@
+64,174,3
+gandhiji,1
+in,1
+his,1
+speech,1
+thanked,1
+the,2
+women,1
+for,1
+addresses,1
+and,1
+purses,1

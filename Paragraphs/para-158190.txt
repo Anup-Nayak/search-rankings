@@ -1,0 +1,14 @@
+45,472,4
+1,1
+at,1
+the,1
+meeting,1
+gandhiji,1
+was,1
+presented,1
+a,1
+purse,1
+of,1
+rs,1
+7,1
+000,1

@@ -1,0 +1,7 @@
+92,180,3
+blank,1
+minute,1
+books,1
+a,1
+student,1
+writes,1

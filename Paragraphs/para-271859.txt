@@ -1,0 +1,13 @@
+73,56,3
+gandhi,1
+seva,1
+sangh,1
+ke,1
+chaturth,1
+varshik,1
+adhiveshan,1
+delang,1
+orissa,1
+ka,1
+vivaran,1
+pp,1

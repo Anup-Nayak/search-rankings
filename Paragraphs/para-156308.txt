@@ -1,0 +1,7 @@
+45,201,1
+191,1
+speech,1
+at,1
+gujaratis,1
+meeting,1
+rangoon,1

@@ -1,0 +1,14 @@
+18,336,5
+1,1
+dr,1
+saifuddin,1
+kitchlew,1
+1887,1
+1963,1
+barrister,1
+and,1
+congress,1
+leader,1
+of,1
+the,1
+punjab,1

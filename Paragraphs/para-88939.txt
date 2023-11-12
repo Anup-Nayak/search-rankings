@@ -1,0 +1,8 @@
+26,267,4
+mahatma,1
+gandhis,1
+message,1
+to,1
+non,1
+co,1
+operators,1

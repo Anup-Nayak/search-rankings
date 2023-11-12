@@ -1,0 +1,8 @@
+17,370,12
+certainly,1
+go,1
+england,1
+please,1
+wire,1
+date,1
+departure,1

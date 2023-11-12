@@ -1,0 +1,13 @@
+78,290,5
+married,1
+woman,2
+to,1
+own,1
+property,1
+on,1
+the,1
+ground,1
+that,1
+economic,1
+independence,1
+of,1

@@ -1,0 +1,9 @@
+84,168,17
+interpret,1
+satyagraha,1
+but,1
+i,1
+should,1
+be,2
+allowed,1
+to,1

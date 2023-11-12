@@ -1,0 +1,14 @@
+39,227,9
+andrews,1
+is,1
+one,1
+of,2
+those,1
+who,1
+seem,1
+to,1
+have,1
+realized,1
+the,1
+truth,1
+it,1

@@ -1,0 +1,13 @@
+96,421,6
+1,2
+from,1
+september,1
+to,1
+4,1
+2,1
+walchand,1
+hirachand,1
+3vide,1
+the,1
+following,1
+item,1

@@ -1,0 +1,5 @@
+19,146,9
+removal,1
+of,1
+all,1
+wrongs,1

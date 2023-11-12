@@ -1,0 +1,5 @@
+60,144,2
+women,1
+workers,1
+in,1
+cuttack,1

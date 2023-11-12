@@ -1,0 +1,12 @@
+46,107,21
+wedderburn,1
+sir,1
+henry,1
+cotton,1
+and,2
+many,2
+others,1
+in,1
+the,1
+past,1
+today,1

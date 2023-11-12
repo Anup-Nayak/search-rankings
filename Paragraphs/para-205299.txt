@@ -1,0 +1,6 @@
+57,232,3
+422,1
+letter,1
+to,1
+narmada,1
+bhuskute,1

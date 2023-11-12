@@ -1,0 +1,8 @@
+54,193,4
+ordinances,1
+continuing,1
+detenus,1
+number,1
+approaching,1
+one,1
+thousand,1

@@ -1,0 +1,6 @@
+62,197,2
+208,1
+letter,1
+to,1
+gordhanbhai,1
+patel,1

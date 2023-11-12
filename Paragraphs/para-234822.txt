@@ -1,0 +1,15 @@
+64,164,6
+his,1
+brain,1
+was,1
+not,1
+working,1
+owing,1
+to,1
+the,3
+fatigue,1
+from,1
+strain,1
+of,1
+journey,1
+but,1

@@ -1,0 +1,7 @@
+3,455,3
+whites,1
+proved,1
+cases,1
+6,1
+suspected,1
+9,1

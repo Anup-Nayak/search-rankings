@@ -1,0 +1,8 @@
+97,197,8
+179,1
+hindustani,1
+written,1
+in,1
+nagari,1
+only,1
+2,1

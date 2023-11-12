@@ -1,0 +1,7 @@
+55,347,4
+424,1
+cleanliness,1
+truthfulness,1
+purity,1
+neatness,1
+1,1

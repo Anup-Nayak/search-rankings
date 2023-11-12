@@ -1,0 +1,6 @@
+81,400,4
+665,1
+letter,1
+to,1
+khwaja,1
+saheb,1

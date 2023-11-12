@@ -1,0 +1,15 @@
+10,489,11
+any,1
+bargain,1
+with,1
+the,2
+passive,1
+resisters,1
+would,1
+you,1
+not,1
+take,1
+wind,1
+out,1
+of,1
+their,1

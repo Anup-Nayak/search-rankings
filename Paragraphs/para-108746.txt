@@ -1,0 +1,5 @@
+32,145,5
+105,1
+a,1
+deceptive,1
+speech,1

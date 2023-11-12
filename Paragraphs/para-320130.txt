@@ -1,0 +1,7 @@
+84,84,2
+bapu,1
+sadar,1
+villa,1
+fyzabad,1
+road,1
+lucknow,1

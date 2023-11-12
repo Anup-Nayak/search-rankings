@@ -1,0 +1,14 @@
+63,45,5
+1,1
+this,1
+was,1
+in,1
+reply,1
+to,1
+the,3
+address,1
+of,2
+welcome,1
+by,1
+chairman,1
+municipality,1

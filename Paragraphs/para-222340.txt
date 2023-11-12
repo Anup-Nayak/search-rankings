@@ -1,0 +1,12 @@
+61,135,13
+talisman,1
+am,1
+well,1
+and,1
+at,1
+peace,1
+pray,1
+do,1
+not,1
+trouble,1
+come,1

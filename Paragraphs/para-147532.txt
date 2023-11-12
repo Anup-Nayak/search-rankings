@@ -1,0 +1,6 @@
+43,49,7
+arrived,1
+safe,1
+detaining,1
+pending,1
+your,1

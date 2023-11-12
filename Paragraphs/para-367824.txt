@@ -1,0 +1,6 @@
+95,146,6
+150,1
+talk,1
+with,1
+socialists,1
+2,1

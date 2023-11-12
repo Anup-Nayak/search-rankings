@@ -1,0 +1,8 @@
+75,164,10
+the,2
+rajkot,1
+work,1
+may,1
+god,1
+guide,1
+congress,1

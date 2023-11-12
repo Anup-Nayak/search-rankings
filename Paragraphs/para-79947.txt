@@ -1,0 +1,5 @@
+23,285,1
+128,1
+magisterial,1
+high,1
+handedness,1

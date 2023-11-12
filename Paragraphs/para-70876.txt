@@ -1,0 +1,9 @@
+20,210,5
+public,1
+regarding,1
+khilafat,1
+question,1
+and,1
+without,1
+prejudice,1
+other,1

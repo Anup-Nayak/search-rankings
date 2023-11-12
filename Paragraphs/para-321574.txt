@@ -1,0 +1,7 @@
+84,235,4
+320,1
+letter,1
+to,1
+manjula,1
+m,1
+mehta,1

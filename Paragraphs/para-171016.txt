@@ -1,0 +1,4 @@
+49,175,8
+dear,1
+little,1
+friend,1

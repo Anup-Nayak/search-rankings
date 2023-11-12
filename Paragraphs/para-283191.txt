@@ -1,0 +1,16 @@
+75,415,5
+it,1
+is,1
+true,1
+that,1
+the,1
+jews,1
+have,1
+not,1
+been,1
+actively,1
+violent,1
+in,1
+their,1
+own,1
+persons,1

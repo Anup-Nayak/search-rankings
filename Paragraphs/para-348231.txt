@@ -1,0 +1,13 @@
+90,192,10
+let,1
+me,1
+share,1
+with,1
+you,1
+the,1
+thoughts,1
+that,1
+have,1
+been,1
+crowding,1
+in,1

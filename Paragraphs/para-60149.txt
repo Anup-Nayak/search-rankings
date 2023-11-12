@@ -1,0 +1,6 @@
+17,165,1
+146,1
+letter,1
+t0,1
+manilal,1
+gandhi,1

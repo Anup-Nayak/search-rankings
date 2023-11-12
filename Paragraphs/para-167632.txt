@@ -1,0 +1,8 @@
+48,187,4
+blessings,1
+from,1
+bapu,1
+chi,1
+manibehn,1
+patel,1
+nadiad,1

@@ -1,0 +1,7 @@
+14,184,3
+169,1
+the,1
+late,1
+sir,1
+david,1
+hunter,1

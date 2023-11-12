@@ -1,0 +1,16 @@
+16,502,28
+will,1
+not,1
+of,1
+course,1
+be,2
+able,2
+to,2
+give,2
+us,1
+any,1
+absolute,1
+pledge,1
+but,1
+he,1
+may,1

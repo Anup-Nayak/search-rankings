@@ -1,0 +1,17 @@
+32,449,4
+over,1
+10,1
+000,1
+yards,1
+per,1
+day,1
+i,1
+do,1
+not,1
+insist,1
+on,2
+our,1
+doing,1
+any,1
+work,1
+sundays,1

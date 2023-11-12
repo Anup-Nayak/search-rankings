@@ -1,0 +1,13 @@
+45,38,6
+1,1
+the,1
+gujarati,1
+original,1
+of,1
+this,1
+appeared,1
+in,1
+navajivan,1
+10,1
+2,1
+1929,1

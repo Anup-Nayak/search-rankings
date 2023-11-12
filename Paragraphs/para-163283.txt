@@ -1,0 +1,9 @@
+47,106,18
+persons,1
+employed,1
+by,1
+a,2
+i,1
+s,1
+1,1
+lakhs,1

@@ -1,0 +1,4 @@
+26,121,2
+aggressive,1
+v,1
+defensive,1

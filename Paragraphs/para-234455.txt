@@ -1,0 +1,7 @@
+64,125,5
+158,1
+letter,1
+to,1
+u,1
+rajagopala,1
+krishnaiyya,1

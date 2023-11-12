@@ -1,0 +1,6 @@
+71,85,7
+g,1
+jawaharlal,1
+can,1
+prescribe,1
+one,1

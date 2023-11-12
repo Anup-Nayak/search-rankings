@@ -1,0 +1,7 @@
+39,280,6
+266,1
+letter,1
+to,1
+k,1
+t,1
+chakravarti,1

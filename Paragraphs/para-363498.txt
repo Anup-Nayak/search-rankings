@@ -1,0 +1,13 @@
+94,50,15
+any,1
+other,1
+human,1
+being,1
+the,2
+neighbours,1
+would,1
+then,1
+understand,1
+spirit,1
+in,1
+which,1

@@ -1,0 +1,6 @@
+11,383,4
+406,1
+speech,1
+at,1
+johannesburg,1
+farewell,1

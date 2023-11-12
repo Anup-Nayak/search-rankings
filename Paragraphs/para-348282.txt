@@ -1,0 +1,7 @@
+90,198,14
+follows,1
+are,1
+translated,1
+from,1
+harijan,1
+sevak,1

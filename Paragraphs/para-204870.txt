@@ -1,0 +1,12 @@
+57,186,8
+m,1
+k,1
+gandhi,1
+sjt,1
+c,1
+y,1
+chintamani,1
+the,1
+leader,1
+office,1
+allahabad,1

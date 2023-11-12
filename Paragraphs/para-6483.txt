@@ -1,0 +1,7 @@
+3,50,10
+to,1
+the,2
+honorable,1
+colonial,1
+secretary,1
+pretoria,1

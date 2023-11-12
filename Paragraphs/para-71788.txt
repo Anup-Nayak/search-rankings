@@ -1,0 +1,14 @@
+20,361,4
+not,1
+seen,1
+a,2
+single,1
+member,1
+of,1
+the,1
+delegation,1
+even,1
+from,1
+distance,1
+you,1
+are,1

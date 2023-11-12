@@ -1,0 +1,10 @@
+51,401,10
+m,1
+k,1
+gandhi,1
+dr,1
+syed,1
+mahmud,1
+swaraj,1
+bhavan,1
+allahabad,1

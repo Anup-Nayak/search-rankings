@@ -1,0 +1,7 @@
+61,355,4
+445,1
+letter,1
+to,1
+charu,1
+prova,1
+sen,1

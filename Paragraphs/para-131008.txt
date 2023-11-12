@@ -1,0 +1,6 @@
+38,240,6
+231,1
+conditions,1
+of,1
+cow,1
+protection2,1

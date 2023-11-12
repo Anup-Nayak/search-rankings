@@ -1,0 +1,17 @@
+81,116,12
+1,1
+the,3
+period,1
+is,1
+inferred,1
+from,1
+contents,1
+nanibehn,1
+addressees,1
+wife,1
+passed,1
+away,1
+on,1
+september,1
+23,1
+1941,1

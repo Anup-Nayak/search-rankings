@@ -1,0 +1,5 @@
+41,455,1
+526,1
+to,1
+european,1
+friends,1

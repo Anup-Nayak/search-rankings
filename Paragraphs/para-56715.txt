@@ -1,0 +1,16 @@
+16,267,3
+1,1
+for,1
+gandhijis,1
+speech,2
+while,1
+moving,1
+the,1
+resolution,1
+vide,1
+at,1
+calcutta,1
+congress,1
+27,1
+12,1
+1901,1

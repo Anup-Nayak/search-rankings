@@ -1,0 +1,13 @@
+63,252,15
+untouchability,1
+from,2
+shastras,1
+why,1
+do,1
+you,1
+take,1
+the,2
+opinion,1
+those,1
+who,1
+hold,1

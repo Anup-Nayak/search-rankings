@@ -1,0 +1,6 @@
+44,489,7
+t3,1
+guj,1
+adds,1
+and,1
+training,1

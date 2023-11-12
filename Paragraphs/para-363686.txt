@@ -1,0 +1,8 @@
+94,66,3
+your,1
+wire,1
+1,1
+regret,1
+inability,1
+send,1
+messenger,1

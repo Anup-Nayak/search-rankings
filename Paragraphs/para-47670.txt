@@ -1,0 +1,9 @@
+14,215,3
+195,1
+the,1
+theory,1
+and,1
+practice,1
+of,1
+passive,1
+resistance,1

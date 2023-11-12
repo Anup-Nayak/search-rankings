@@ -1,0 +1,12 @@
+42,375,14
+1,1
+from,1
+the,2
+reference,1
+to,2
+rajagopalacharis,1
+going,1
+bangalore,1
+vide,1
+preceding,1
+item,1

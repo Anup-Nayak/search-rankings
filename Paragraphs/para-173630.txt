@@ -1,0 +1,14 @@
+49,464,13
+the,2
+main,1
+object,1
+of,1
+government,1
+has,1
+been,1
+to,1
+put,1
+gandhi,1
+safely,1
+under,1
+lock,1

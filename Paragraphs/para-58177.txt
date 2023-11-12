@@ -1,0 +1,6 @@
+16,471,16
+zirat,1
+cultivation,1
+10,1
+697,1
+acres,1

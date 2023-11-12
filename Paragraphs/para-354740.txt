@@ -1,0 +1,6 @@
+92,11,2
+16,1
+letter,1
+to,1
+uttimchand,1
+gangaram,1

@@ -1,0 +1,6 @@
+47,387,16
+camp,1
+hathras,1
+november,1
+8,1
+1929,1

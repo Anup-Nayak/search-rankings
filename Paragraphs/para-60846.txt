@@ -1,0 +1,8 @@
+17,242,9
+231,1
+message,1
+on,1
+opening,1
+swadeshi,1
+store,1
+3,1

@@ -1,0 +1,7 @@
+73,222,6
+read,1
+letters,1
+both,1
+start,1
+today,1
+unfailingly,1

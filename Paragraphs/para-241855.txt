@@ -1,0 +1,14 @@
+65,460,4
+mary,1
+chesley,1
+do,1
+you,1
+believe,1
+your,1
+guidance,1
+comes,1
+from,2
+subconscious,1
+reasoning,1
+or,1
+god,1

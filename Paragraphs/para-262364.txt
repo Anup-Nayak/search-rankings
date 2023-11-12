@@ -1,0 +1,6 @@
+70,299,3
+328,1
+cow,2
+protection,1
+or,1
+slaughter,1

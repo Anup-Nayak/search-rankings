@@ -1,0 +1,8 @@
+74,393,15
+but,1
+you,1
+should,1
+secure,1
+authoritative,1
+ruling,1
+from,1

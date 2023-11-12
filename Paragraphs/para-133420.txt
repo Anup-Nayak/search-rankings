@@ -1,0 +1,8 @@
+39,52,7
+66,1
+letter,1
+to,1
+secretary,1
+a,2
+i,1
+s,1

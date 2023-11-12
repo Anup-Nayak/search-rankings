@@ -1,0 +1,7 @@
+38,345,5
+351,1
+letter,1
+to,1
+tarini,1
+p,1
+sinha,1

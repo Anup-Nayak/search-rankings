@@ -1,0 +1,5 @@
+62,72,3
+86,1
+letter,1
+tomathuradas,1
+trikumji,1

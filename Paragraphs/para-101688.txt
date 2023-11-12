@@ -1,0 +1,8 @@
+30,45,2
+agrees,1
+and,1
+properly,1
+insists,1
+my,1
+being,1
+guest,1

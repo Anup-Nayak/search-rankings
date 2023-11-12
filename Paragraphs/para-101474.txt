@@ -1,0 +1,7 @@
+30,6,6
+resolution,1
+xiii,1
+drink,1
+and,1
+opium,1
+traffic,1

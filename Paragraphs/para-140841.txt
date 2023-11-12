@@ -1,0 +1,7 @@
+41,203,7
+1,1
+the,1
+original,1
+is,1
+damaged,1
+here,1

@@ -1,0 +1,8 @@
+11,269,13
+its,1
+effect,1
+is,1
+secure,1
+virtual,1
+exclusion,1
+asiatics,1

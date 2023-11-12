@@ -1,0 +1,11 @@
+93,1,6
+a,2
+worker,1
+it,1
+is,1
+part,1
+of,1
+their,1
+plan,1
+for,1
+pakistan,1

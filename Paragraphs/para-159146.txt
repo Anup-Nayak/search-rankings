@@ -1,0 +1,11 @@
+46,107,20
+carpenter,1
+professor,1
+fawcett,1
+charles,1
+bradlaugh,1
+a,1
+o,1
+hume,1
+sir,1
+william,1

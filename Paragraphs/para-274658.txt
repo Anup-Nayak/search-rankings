@@ -1,0 +1,15 @@
+73,375,5
+child,1
+the,1
+little,1
+teacher,1
+had,1
+to,1
+share,1
+his,2
+or,1
+her,1
+learning,1
+with,1
+illiterate,1
+parents,1

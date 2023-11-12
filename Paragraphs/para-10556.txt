@@ -1,0 +1,7 @@
+4,299,7
+250,1
+letter,1
+to,1
+issa,1
+haji,1
+soomar,1

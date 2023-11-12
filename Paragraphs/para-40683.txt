@@ -1,0 +1,10 @@
+12,331,11
+1,1
+telegraphic,1
+address,1
+of,2
+the,1
+registrar,1
+asiatics,1
+2,1
+illegible,1

@@ -1,0 +1,7 @@
+6,518,4
+415,1
+condition,1
+of,1
+muslims,1
+in,1
+afghanistan,1

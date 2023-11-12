@@ -1,0 +1,9 @@
+84,64,8
+your,1
+kind,1
+wire,1
+1,1
+doctors,1
+wont,1
+countenance,1
+such,1

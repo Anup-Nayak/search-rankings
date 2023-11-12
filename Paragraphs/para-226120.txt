@@ -1,0 +1,15 @@
+62,52,1
+make,1
+good,1
+use,1
+of,2
+every,1
+moment,1
+their,1
+time,1
+more,1
+after,1
+i,1
+hear,1
+from,1
+you,1

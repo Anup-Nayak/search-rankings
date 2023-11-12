@@ -1,0 +1,5 @@
+60,365,8
+10/1,1
+nepal,1
+battacherji,1
+st,1

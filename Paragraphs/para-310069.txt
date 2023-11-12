@@ -1,0 +1,10 @@
+82,20,9
+bapu,1
+smt,1
+rajkumari,1
+amrit,1
+kaur,1
+c/o,1
+principal,1
+secretary,1
+indore,1

@@ -1,0 +1,6 @@
+11,382,2
+foot,1
+paths,1
+by,1
+laws,1
+etc,1

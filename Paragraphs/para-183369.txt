@@ -1,0 +1,7 @@
+52,136,2
+181,1
+congress,1
+voters,1
+a,1
+correspondent,1
+asks,1

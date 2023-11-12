@@ -1,0 +1,10 @@
+86,254,12
+1,1
+vide,1
+the,1
+preceding,1
+item,1
+2,1
+ram,1
+narayan,1
+chaudharys,1

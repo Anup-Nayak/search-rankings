@@ -1,0 +1,3 @@
+36,419,2
+khadi,1
+statistics,1

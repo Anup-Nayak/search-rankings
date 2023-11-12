@@ -1,0 +1,13 @@
+12,73,6
+tolstoy,1
+farm,1
+lawley,1
+station,1
+transvaal,1
+aso,1
+vad,1
+0,1
+october,1
+22,1
+1911,1
+2,1

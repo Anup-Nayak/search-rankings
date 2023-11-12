@@ -1,0 +1,14 @@
+38,255,11
+concerned,1
+are,1
+prepared,1
+to,1
+consult,1
+not,1
+merely,1
+the,2
+needs,2
+of,2
+his,1
+body,1
+but,1

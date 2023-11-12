@@ -1,0 +1,4 @@
+12,72,4
+1,1
+maganlal,1
+gandhi,1

@@ -1,0 +1,15 @@
+58,128,7
+the,2
+mahatma,1
+would,1
+not,1
+agree,1
+to,2
+put,1
+a,1
+black,1
+mark,1
+on,1
+harijan,1
+and,1
+say,1

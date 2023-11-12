@@ -1,0 +1,13 @@
+71,362,3
+each,1
+milch,1
+animal,2
+twice,1
+daily,1
+the,2
+four,2
+legs,1
+of,1
+are,1
+tied,1
+to,1

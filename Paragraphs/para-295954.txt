@@ -1,0 +1,12 @@
+78,448,26
+political,1
+situation,1
+and,1
+in,1
+view,1
+of,2
+the,2
+desirability,1
+clarifying,1
+congress,1
+position,1

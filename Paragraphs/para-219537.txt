@@ -1,0 +1,7 @@
+60,314,4
+379,1
+significance,1
+of,1
+the,1
+varna,1
+system,1

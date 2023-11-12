@@ -1,0 +1,5 @@
+8,477,5
+extracts,1
+from,1
+the,1
+act,1

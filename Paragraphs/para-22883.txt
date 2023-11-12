@@ -1,0 +1,8 @@
+7,430,20
+advocate,1
+gregorowski,1
+for,1
+pretoria,1
+fare,1
+1,1
+0,2

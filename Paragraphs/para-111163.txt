@@ -1,0 +1,4 @@
+33,55,1
+33,1
+spinners,1
+association,1

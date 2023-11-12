@@ -1,0 +1,13 @@
+93,302,4
+a,1
+perfect,1
+muslim,1
+is,2
+he,1
+from,1
+whose,1
+tongue,1
+and,1
+hands,1
+mankind,1
+safe,1

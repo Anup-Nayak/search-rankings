@@ -1,0 +1,8 @@
+84,54,15
+from,1
+gujarati,1
+li,1
+hun,1
+avun,1
+chhun,1
+p,1

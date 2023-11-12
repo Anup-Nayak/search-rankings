@@ -1,0 +1,9 @@
+71,132,13
+legal,1
+tribunal,1
+will,1
+raise,1
+the,1
+strong,1
+presumption,1
+that,1

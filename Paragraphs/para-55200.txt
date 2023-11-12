@@ -1,0 +1,6 @@
+16,43,8
+1,1
+agreements,1
+to,1
+pay,1
+rent,1

@@ -1,0 +1,5 @@
+35,126,5
+maulana,1
+shaukat,1
+ali,1
+delhi,1

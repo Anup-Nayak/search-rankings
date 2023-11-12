@@ -1,0 +1,13 @@
+36,75,10
+bhaishri,1
+paramanand,1
+i,2
+have,1
+your,2
+letter,1
+understand,1
+point,1
+about,1
+the,1
+use,1
+of,1

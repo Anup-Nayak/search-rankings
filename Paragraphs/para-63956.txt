@@ -1,0 +1,8 @@
+18,162,10
+i,1
+do,1
+not,1
+say,1
+sentences,1
+are,1
+wrong,1

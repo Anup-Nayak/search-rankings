@@ -1,0 +1,13 @@
+19,10,5
+rule,1
+in,2
+her,1
+lifetime,1
+so,1
+that,1
+contentment,1
+might,1
+reign,1
+supreme,1
+everywhere,1
+india,1

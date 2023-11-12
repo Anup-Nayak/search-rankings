@@ -1,0 +1,14 @@
+82,393,7
+note,1
+hindustani,1
+is,1
+that,1
+language,1
+which,1
+in,1
+the,1
+towns,1
+and,1
+villages,1
+of,1
+north,1

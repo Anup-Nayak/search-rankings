@@ -1,0 +1,11 @@
+23,118,2
+1,1
+sikh,1
+place,1
+of,2
+worship,1
+2,1
+holy,1
+book,1
+the,1
+sikhs,1

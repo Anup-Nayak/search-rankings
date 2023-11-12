@@ -1,0 +1,11 @@
+79,257,6
+intensified,1
+hatreds,1
+a,1
+nation,1
+which,1
+accepted,1
+this,1
+doctrine,1
+would,1
+doom,1

@@ -1,0 +1,10 @@
+86,329,10
+blessings,1
+from,1
+bapu,1
+ps,1
+learn,1
+to,1
+write,1
+in,1
+hindustani,1

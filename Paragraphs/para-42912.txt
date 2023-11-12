@@ -1,0 +1,9 @@
+13,144,12
+tion,1
+marriages,1
+stop,1
+there,1
+is,1
+no,1
+system,1
+regis,1

@@ -1,0 +1,11 @@
+60,328,6
+and,1
+no,1
+one,1
+is,1
+obliged,1
+to,1
+use,1
+comforts,1
+provided,1
+in,1

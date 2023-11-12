@@ -1,0 +1,12 @@
+51,103,11
+1,2
+vide,1
+prime,1
+ministers,1
+declaration,1
+at,1
+r,1
+t,1
+c,1
+19,1
+1931,1

@@ -1,0 +1,9 @@
+77,50,33
+difficulties,1
+are,1
+there,1
+beyond,1
+dispute,1
+the,1
+question,1
+is,1

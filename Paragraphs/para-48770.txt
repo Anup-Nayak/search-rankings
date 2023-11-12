@@ -1,0 +1,13 @@
+14,375,2
+vandemataram,1
+from,1
+mohandas,1
+revered,1
+bhaishri,1
+dalpatram,1
+bhavanji,1
+shukla,1
+barrister,1
+civil,1
+station,1
+rajkot,1

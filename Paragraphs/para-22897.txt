@@ -1,0 +1,4 @@
+7,431,11
+typist,1
+september,1
+and,1

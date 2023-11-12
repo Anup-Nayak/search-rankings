@@ -1,0 +1,15 @@
+75,302,15
+q,1
+can,1
+the,3
+present,1
+tangle,1
+be,2
+said,1
+to,1
+weakening,1
+congress,1
+bargaining,1
+power,1
+with,1
+british,1

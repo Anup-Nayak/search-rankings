@@ -1,0 +1,10 @@
+39,121,9
+jamini,1
+bhushan,1
+mitra,1
+khalispur,2
+ashram,1
+p,1
+o,1
+b,1
+khulna,1

@@ -1,0 +1,11 @@
+64,132,13
+untouchable,1
+and,1
+touchable,1
+or,2
+of,1
+their,1
+being,1
+hindus,1
+mahomedans,1
+christians,1

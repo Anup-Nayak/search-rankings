@@ -1,0 +1,16 @@
+64,234,11
+get,1
+habitual,1
+wearers,1
+even,1
+in,1
+small,1
+numbers,1
+he,1
+referred,1
+to,1
+the,1
+same,1
+question,1
+when,1
+it,1

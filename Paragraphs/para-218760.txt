@@ -1,0 +1,12 @@
+60,220,3
+a,1
+graduate,1
+from,2
+madras,1
+sends,1
+the,1
+following,1
+quotation,1
+indian,1
+home,1
+rule,1

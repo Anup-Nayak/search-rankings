@@ -1,0 +1,8 @@
+59,66,5
+96,1
+letter,1
+to,1
+amtussalaam,1
+january,1
+20,1
+1933,1

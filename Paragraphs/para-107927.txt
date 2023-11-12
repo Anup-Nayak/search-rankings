@@ -1,0 +1,9 @@
+32,0,16
+arrangements,1
+think,1
+body,1
+should,1
+be,1
+received,1
+russa,1
+road,1

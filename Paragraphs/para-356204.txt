@@ -1,0 +1,4 @@
+92,175,8
+imitation,1
+wide,1
+scale,1

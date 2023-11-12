@@ -1,0 +1,7 @@
+90,131,5
+180,1
+letter,1
+to,1
+purshottamdas,1
+thakurdas,1
+3,1

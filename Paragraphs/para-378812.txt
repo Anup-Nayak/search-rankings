@@ -1,0 +1,6 @@
+98,229,3
+makar,1
+sankranti,1
+january,1
+14,1
+1948,1

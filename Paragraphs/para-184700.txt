@@ -1,0 +1,12 @@
+52,274,2
+swaraj,1
+ashram,2
+bardoli,1
+june,1
+5,1
+1931,1
+krishnadas,1
+shakti,1
+rajpur,1
+dehra,1
+dun,1

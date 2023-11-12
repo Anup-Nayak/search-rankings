@@ -1,0 +1,12 @@
+13,250,4
+1,1
+god,1
+of,1
+austerity,1
+and,1
+self,1
+mastery,1
+in,1
+the,1
+hindu,1
+trinity,1

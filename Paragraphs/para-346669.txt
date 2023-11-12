@@ -1,0 +1,13 @@
+90,7,4
+10,1
+statement,1
+to,1
+the,1
+press,1
+on,1
+or,1
+before,1
+february,1
+27,1
+1946,1
+2,1

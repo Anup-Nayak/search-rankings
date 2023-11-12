@@ -1,0 +1,15 @@
+6,45,20
+to,2
+be,1
+borne,1
+in,1
+mind,1
+when,1
+we,1
+have,1
+deal,1
+with,1
+matters,1
+of,1
+this,1
+description,1

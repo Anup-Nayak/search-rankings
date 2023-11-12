@@ -1,0 +1,11 @@
+31,213,4
+i,1
+know,1
+nothing,1
+whatsoever,1
+about,1
+it,1
+declared,1
+mahatma,1
+gandhi,1
+when,1

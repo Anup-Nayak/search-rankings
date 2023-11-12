@@ -1,0 +1,10 @@
+92,460,5
+5,1
+the,1
+interview,1
+lasted,1
+about,1
+forty,1
+minutes,1
+w,1
+avell,1

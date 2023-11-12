@@ -1,0 +1,13 @@
+24,220,3
+by,1
+foreigners,1
+and,2
+in,1
+a,1
+foreign,1
+language,1
+machinery,1
+medicines,1
+other,1
+products,1
+of,1

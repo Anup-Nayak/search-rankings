@@ -1,0 +1,14 @@
+51,146,7
+how,1
+many,1
+were,2
+dressed,1
+in,1
+foreign,1
+clothes,1
+only,1
+three,1
+hands,1
+raised,1
+he,1
+told,1

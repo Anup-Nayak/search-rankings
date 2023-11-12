@@ -1,0 +1,10 @@
+76,276,12
+to,2
+the,1
+needs,1
+of,1
+distant,1
+consumers,1
+never,1
+occured,1
+them,1

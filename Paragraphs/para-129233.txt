@@ -1,0 +1,9 @@
+38,7,1
+12,1
+prayer,1
+discourse,1
+at,1
+abhoy,1
+ashram,1
+1,1
+comilla,1

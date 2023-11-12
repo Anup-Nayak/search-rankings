@@ -1,0 +1,7 @@
+14,303,3
+blessings,1
+from,2
+bapu,1
+gujarati,1
+gandhijini,1
+sadhana,1

@@ -1,0 +1,15 @@
+76,173,5
+3,1
+nor,1
+is,1
+it,1
+a,1
+clinical,1
+survey,1
+to,1
+further,1
+the,2
+knowledge,1
+of,2
+science,1
+economics,1

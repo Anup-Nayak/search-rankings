@@ -1,0 +1,6 @@
+72,101,7
+saraswati,1
+till,1
+her,1
+education,1
+finished,1

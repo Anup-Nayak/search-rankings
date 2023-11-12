@@ -1,0 +1,8 @@
+60,26,4
+from,1
+gujarati,1
+mahadevbhaini,1
+diary,1
+vol,1
+iii,1
+p,1

@@ -1,0 +1,5 @@
+15,63,12
+blessings,1
+from,2
+mohandas,1
+gujarati,1

@@ -1,0 +1,13 @@
+28,485,7
+in,2
+spite,1
+of,1
+the,2
+bad,1
+weather,1
+conditions,1
+no,1
+effort,1
+is,1
+spared,1
+char,1

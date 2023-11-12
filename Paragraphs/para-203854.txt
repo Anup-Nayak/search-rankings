@@ -1,0 +1,9 @@
+57,105,24
+self,1
+government,1
+has,1
+been,1
+advanced,1
+by,1
+this,1
+penance,1

@@ -1,0 +1,7 @@
+8,56,18
+what,1
+expeditions,1
+have,1
+you,1
+served,1
+in,1

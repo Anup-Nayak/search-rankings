@@ -1,0 +1,6 @@
+89,80,1
+127,1
+letter,1
+to,1
+ranganayaki,1
+devi,1

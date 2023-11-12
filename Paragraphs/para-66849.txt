@@ -1,0 +1,13 @@
+19,146,4
+congress,1
+sub,1
+committee,1
+had,1
+decided,1
+to,1
+withdraw,1
+co,1
+operation,1
+from,1
+lord,1
+hunters,1

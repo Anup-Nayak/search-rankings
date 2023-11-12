@@ -1,0 +1,10 @@
+11,297,6
+tant,1
+news,1
+sent,1
+papers,1
+medicine,1
+with,1
+sorabjee,1
+3,1
+gandhi,1

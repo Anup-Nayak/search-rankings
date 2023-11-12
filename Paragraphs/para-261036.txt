@@ -1,0 +1,16 @@
+70,134,6
+it,1
+is,1
+three,1
+oclock,1
+i,2
+am,2
+still,1
+writing,1
+and,1
+therefore,1
+getting,1
+all,1
+that,1
+checked,1
+here,1

@@ -1,0 +1,5 @@
+78,445,10
+i,1
+solemnly,1
+declare,1
+that,1

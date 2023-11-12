@@ -1,0 +1,5 @@
+7,91,2
+70,1
+attack,1
+on,1
+religion,1

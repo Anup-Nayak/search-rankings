@@ -1,0 +1,14 @@
+82,402,12
+both,1
+demand,1
+independence,2
+for,1
+india,1
+he,1
+said,1
+i,1
+do,1
+not,1
+want,1
+we,1
+could,1

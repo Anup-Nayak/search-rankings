@@ -1,0 +1,7 @@
+16,47,8
+the,2
+practice,1
+and,1
+giving,1
+committees,1
+recommendations,1

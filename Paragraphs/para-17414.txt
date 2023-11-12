@@ -1,0 +1,11 @@
+6,224,3
+from,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+4684,1
+courtesy,1
+chhaganlal,1
+gandhi,1

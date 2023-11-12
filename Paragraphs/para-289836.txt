@@ -1,0 +1,7 @@
+77,233,10
+examine,1
+shankerlal,1
+banker,1
+ailing,1
+dyspepsia,1
+and,1

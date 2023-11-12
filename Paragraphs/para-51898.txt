@@ -1,0 +1,8 @@
+15,192,3
+141,1
+speech,1
+in,1
+reply,1
+to,1
+address,1
+karachi,1

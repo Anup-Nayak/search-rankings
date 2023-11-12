@@ -1,0 +1,6 @@
+7,431,17
+british,1
+indians,1
+and,1
+the,1
+transvaal,1

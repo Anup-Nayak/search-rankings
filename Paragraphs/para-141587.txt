@@ -1,0 +1,8 @@
+41,299,8
+q,1
+is,1
+not,1
+the,1
+foreign,1
+method,1
+cheaper,1

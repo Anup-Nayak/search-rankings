@@ -1,0 +1,8 @@
+13,451,29
+of,2
+the,3
+attitude,1
+cape,1
+public,1
+government,1
+has,1

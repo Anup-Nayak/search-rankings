@@ -1,0 +1,6 @@
+18,403,10
+mathuradas,1
+247,1
+bazar,1
+gate,1
+st,1

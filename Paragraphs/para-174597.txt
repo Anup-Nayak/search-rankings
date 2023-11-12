@@ -1,0 +1,17 @@
+50,99,6
+1,1
+the,2
+twelfth,1
+day,1
+of,2
+dark,1
+half,1
+bhadrapad,1
+which,1
+was,1
+gandhijis,1
+birthday,1
+according,1
+to,1
+vikram,1
+calendar,1

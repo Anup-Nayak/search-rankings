@@ -1,0 +1,11 @@
+44,495,25
+t1,1
+guj,1
+does,1
+not,1
+have,1
+or,1
+was,1
+about,1
+to,1
+commence,1

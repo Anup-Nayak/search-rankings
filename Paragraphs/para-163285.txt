@@ -1,0 +1,10 @@
+47,106,20
+cost,1
+per,1
+head,1
+of,1
+giving,1
+employment,1
+through,1
+rs,1
+21,1

@@ -1,0 +1,5 @@
+12,130,4
+assure,1
+you,1
+warm,1
+welcome,1

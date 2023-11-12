@@ -1,0 +1,7 @@
+82,12,5
+what,1
+should,1
+i,1
+write,1
+about,1
+jamnalalji,1

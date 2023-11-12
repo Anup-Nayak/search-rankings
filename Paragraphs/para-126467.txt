@@ -1,0 +1,12 @@
+37,94,8
+a,2
+kshatriya,1
+has,1
+no,1
+duty,1
+higher,1
+than,1
+that,1
+of,1
+fighting,1
+in,1

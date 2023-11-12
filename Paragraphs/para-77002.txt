@@ -1,0 +1,13 @@
+22,263,2
+1,1
+muslin,1
+2,1
+durga,1
+consort,1
+of,2
+siva,1
+worshipped,1
+as,1
+the,1
+giver,1
+plenty,1

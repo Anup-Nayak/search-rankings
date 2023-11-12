@@ -1,0 +1,17 @@
+17,390,4
+the,2
+story,1
+of,3
+a,2
+satyagrahi,1
+by,2
+m,1
+k,1
+gandhi,1
+being,1
+paraphrase,1
+defence,1
+and,1
+death,1
+socrates,1
+plato,1

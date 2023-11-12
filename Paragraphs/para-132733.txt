@@ -1,0 +1,5 @@
+38,455,6
+1,1
+a,1
+gujarati,1
+proverb,1

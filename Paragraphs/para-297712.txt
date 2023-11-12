@@ -1,0 +1,6 @@
+79,246,1
+cows,2
+milk,1
+and,1
+eat,1
+ghee,1

@@ -1,0 +1,7 @@
+81,63,6
+119,1
+letter,1
+to,1
+puratan,1
+j,1
+buch,1

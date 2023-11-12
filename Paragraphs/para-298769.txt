@@ -1,0 +1,6 @@
+79,366,11
+378,1
+letter,1
+to,1
+vasukaka,1
+joshi,1

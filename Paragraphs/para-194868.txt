@@ -1,0 +1,9 @@
+54,464,32
+understands,1
+that,1
+abdul,1
+ghaffar,1
+khan,1
+was,1
+in,1
+august,1

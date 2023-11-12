@@ -1,0 +1,6 @@
+87,326,6
+556,1
+letter,1
+to,1
+daljit,1
+singh,1

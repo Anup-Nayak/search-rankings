@@ -1,0 +1,14 @@
+64,0,10
+he,1
+said,1
+in,1
+trains,1
+i,1
+do,1
+nothing,1
+else,1
+except,1
+collect,1
+funds,1
+for,1
+harijans,1

@@ -1,0 +1,6 @@
+82,262,1
+319,1
+letter,1
+to,1
+parachure,1
+shastri,1

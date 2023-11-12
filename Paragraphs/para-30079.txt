@@ -1,0 +1,3 @@
+10,23,5
+bias,1
+johannesburg,1

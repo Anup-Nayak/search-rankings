@@ -1,0 +1,9 @@
+7,180,4
+147,1
+on,1
+the,1
+duty,1
+of,1
+civil,1
+disobedience,1
+1,1

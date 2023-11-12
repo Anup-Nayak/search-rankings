@@ -1,0 +1,12 @@
+32,393,5
+schools,1
+no,1
+help,1
+should,1
+be,1
+given,1
+young,1
+india,1
+10,1
+9,1
+1925,1

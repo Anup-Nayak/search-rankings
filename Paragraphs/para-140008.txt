@@ -1,0 +1,10 @@
+41,85,3
+to,2
+force,1
+a,1
+weaver,1
+use,1
+hand,1
+spun,1
+warp,1
+yarn,1

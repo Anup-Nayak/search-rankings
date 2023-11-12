@@ -1,0 +1,10 @@
+81,482,1
+the,2
+use,1
+of,2
+leather,1
+slaughtered,1
+cows,1
+bullocks,1
+and,1
+calves,1

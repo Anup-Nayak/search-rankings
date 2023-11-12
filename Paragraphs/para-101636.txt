@@ -1,0 +1,5 @@
+30,40,2
+1,1
+kathiawar,1
+political,1
+conference,1

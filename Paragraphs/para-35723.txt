@@ -1,0 +1,9 @@
+11,251,11
+touch,1
+authorities,1
+smuts,1
+telegraphed,1
+yesterday,1
+1,1
+he,1
+was,1

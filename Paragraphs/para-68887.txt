@@ -1,0 +1,13 @@
+19,412,2
+1,1
+amritsar,1
+lahore,1
+gujranwala,1
+gujrat,1
+and,1
+lyallpur,1
+2,1
+lord,1
+hunter,1
+s,1
+committee,1

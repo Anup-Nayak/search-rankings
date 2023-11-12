@@ -1,0 +1,12 @@
+57,115,8
+gurudev,1
+has,1
+been,1
+a,1
+tower,1
+of,1
+strength,1
+deep,1
+love,1
+all,1
+friends,1

@@ -1,0 +1,17 @@
+27,374,8
+adhiru,1
+kathiawar,1
+agami,1
+parishad,2
+antyaja,1
+satyagraha,1
+chhavanima,1
+mel,1
+namra,1
+sevakne,1
+vorano,1
+dar,1
+id,1
+mubarak,1
+jnati,1
+sudhar,1

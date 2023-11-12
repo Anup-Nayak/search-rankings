@@ -1,0 +1,14 @@
+24,27,4
+afterwards,1
+buys,1
+foreign,1
+cloth,1
+again,1
+it,1
+would,1
+do,1
+the,1
+country,1
+harm,1
+rather,1
+than,1

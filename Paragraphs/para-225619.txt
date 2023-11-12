@@ -1,0 +1,13 @@
+61,483,4
+q,1
+if,1
+any,1
+taluka,1
+wishes,1
+to,1
+sacrifice,1
+itself,1
+can,1
+it,1
+do,1
+so,1

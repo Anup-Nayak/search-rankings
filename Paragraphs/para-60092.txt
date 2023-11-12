@@ -1,0 +1,8 @@
+17,158,5
+139,1
+letter,1
+t0,1
+v,1
+s,1
+srinivasa,1
+sastri,1

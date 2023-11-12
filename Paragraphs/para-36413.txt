@@ -1,0 +1,10 @@
+11,304,10
+first,1
+they,1
+object,1
+to,1
+racial,1
+bar,1
+in,1
+present,1
+trans,1

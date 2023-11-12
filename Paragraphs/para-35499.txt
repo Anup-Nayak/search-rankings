@@ -1,0 +1,8 @@
+11,231,8
+transvaal,1
+without,1
+being,1
+liable,1
+to,1
+take,1
+out,1

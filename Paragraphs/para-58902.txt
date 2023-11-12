@@ -1,0 +1,17 @@
+17,9,9
+1,1
+the,1
+letter,1
+appears,1
+to,1
+have,1
+been,1
+drafted,1
+on,2
+april,1
+29,1
+but,1
+actually,1
+sent,1
+this,1
+date,1

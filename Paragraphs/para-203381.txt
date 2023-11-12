@@ -1,0 +1,8 @@
+57,63,10
+100,1
+letter,1
+to,1
+velanbehn,1
+l,1
+asar,1
+1,1

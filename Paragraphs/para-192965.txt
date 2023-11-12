@@ -1,0 +1,6 @@
+54,277,4
+157,1
+speech,1
+at,1
+international,1
+sanatorium,1

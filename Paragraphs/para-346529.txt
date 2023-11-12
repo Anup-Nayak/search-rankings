@@ -1,0 +1,8 @@
+89,456,4
+congress,1
+working,1
+committee,1
+resolution,1
+on,1
+indonesia,1
+1,1

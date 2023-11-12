@@ -1,0 +1,15 @@
+90,201,7
+1,1
+the,3
+speech,1
+is,2
+extracted,1
+from,2
+pyarelals,1
+communion,1
+of,1
+silence,1
+opening,1
+paragraph,1
+bombay,1
+chronicle,1

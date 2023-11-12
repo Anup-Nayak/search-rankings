@@ -1,0 +1,8 @@
+28,378,2
+m,1
+k,1
+gandhi,1
+dr,1
+pattabhi,1
+sitaramayya,1
+machlipatnam,1

@@ -1,0 +1,7 @@
+5,257,1
+244,1
+indians,1
+and,1
+the,1
+native,1
+unrest,1

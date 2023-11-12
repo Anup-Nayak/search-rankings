@@ -1,0 +1,15 @@
+46,202,3
+knowledge,2
+of,2
+truth,1
+all,1
+this,1
+is,2
+declared,1
+to,1
+be,1
+and,1
+the,1
+reverse,1
+it,1
+ignorance,1

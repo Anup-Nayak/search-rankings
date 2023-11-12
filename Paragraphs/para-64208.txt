@@ -1,0 +1,11 @@
+18,204,1
+168,1
+speech,1
+at,1
+bombay,1
+on,1
+indians,1
+in,1
+south,1
+africa,1
+1,1

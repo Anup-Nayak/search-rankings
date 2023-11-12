@@ -1,0 +1,8 @@
+67,18,6
+shri,1
+prabhudas,1
+gandhi,1
+guleria,1
+badaun,1
+u,1
+p,1

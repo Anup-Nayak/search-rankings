@@ -1,0 +1,6 @@
+14,45,14
+ledged,1
+government,1
+robertson,1
+both,1
+satisfied,1

@@ -1,0 +1,11 @@
+85,33,15
+1,1
+the,3
+superscription,1
+is,1
+in,1
+both,1
+devanagari,1
+and,1
+tamil,1
+scripts,1

@@ -1,0 +1,14 @@
+92,245,10
+v,1
+but,1
+if,1
+the,2
+league,1
+refuses,1
+to,2
+come,1
+in,1
+what,1
+happens,1
+constituent,1
+assembly,1

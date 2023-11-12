@@ -1,0 +1,6 @@
+32,104,2
+77,1
+the,1
+science,1
+of,1
+surrender,1

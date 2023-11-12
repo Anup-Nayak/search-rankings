@@ -1,0 +1,11 @@
+18,9,4
+fasting,1
+for,1
+24,1
+hours,1
+and,1
+religious,1
+devotion,1
+in,1
+every,1
+home,1

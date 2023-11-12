@@ -1,0 +1,8 @@
+30,432,6
+258,1
+speech,1
+at,1
+advait,1
+ashram,1
+alwaye,1
+2,1

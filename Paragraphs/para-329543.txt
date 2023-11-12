@@ -1,0 +1,6 @@
+86,84,6
+162,1
+letter,1
+to,1
+kulwant,1
+singh,1

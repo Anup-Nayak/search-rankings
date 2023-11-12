@@ -1,0 +1,12 @@
+87,438,21
+q,1
+you,1
+do,1
+believe,1
+that,1
+men,1
+and,1
+women,1
+have,1
+equal,1
+rights,1

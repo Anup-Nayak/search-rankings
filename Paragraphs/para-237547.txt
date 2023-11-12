@@ -1,0 +1,17 @@
+65,13,1
+all,1
+our,1
+best,1
+plans,1
+are,1
+reduced,1
+to,1
+naught,1
+in,1
+less,1
+than,1
+the,1
+twinkling,1
+of,1
+an,1
+eye,1

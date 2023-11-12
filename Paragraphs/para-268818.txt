@@ -1,0 +1,7 @@
+72,201,2
+tyrant,1
+ps,1
+j,1
+is,1
+due,1
+tomorrow,1

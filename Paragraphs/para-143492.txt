@@ -1,0 +1,6 @@
+42,55,1
+78,1
+letter,1
+to,1
+ganga,1
+prasad,1

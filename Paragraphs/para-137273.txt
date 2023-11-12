@@ -1,0 +1,17 @@
+40,133,2
+1,1
+the,1
+source,1
+has,1
+hamlet,1
+2,1
+a,1
+womans,1
+private,1
+property,1
+over,1
+which,1
+she,1
+exercises,1
+independent,1
+control,1

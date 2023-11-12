@@ -1,0 +1,14 @@
+10,489,10
+suggestion,1
+why,1
+should,1
+you,2
+not,1
+do,2
+that,1
+which,1
+are,1
+prepared,1
+to,1
+without,1
+making,1

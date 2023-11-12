@@ -1,0 +1,12 @@
+31,243,14
+spinning,1
+wheel,1
+there,1
+could,1
+be,1
+no,1
+difference,1
+of,1
+opinion,1
+about,1
+it,1

@@ -1,0 +1,9 @@
+88,226,2
+bapu,1
+dr,1
+kumarappa,1
+a,2
+i,2
+v,1
+maganwadi,1
+wardha,1

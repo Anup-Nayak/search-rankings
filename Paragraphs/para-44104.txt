@@ -1,0 +1,9 @@
+13,295,8
+1,1
+the,1
+trial,1
+came,1
+off,1
+on,1
+september,1
+23,1

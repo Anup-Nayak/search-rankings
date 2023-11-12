@@ -1,0 +1,8 @@
+54,127,14
+sir,1
+tej,1
+bahadur,1
+sapru,1
+that,1
+is,1
+so,1

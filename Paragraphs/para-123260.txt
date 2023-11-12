@@ -1,0 +1,10 @@
+36,224,2
+ashram,1
+sabarmati,1
+shravan,1
+vad,1
+1,2
+tuesday,1
+august,1
+24,1
+1926,1

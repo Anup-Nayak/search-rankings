@@ -1,0 +1,8 @@
+29,300,7
+267,1
+telegram,1
+to,1
+zafar,1
+ali,1
+khan,1
+2,1

@@ -1,0 +1,7 @@
+37,42,2
+widows,1
+and,1
+widowers,1
+a,1
+correspondent,1
+writes,1

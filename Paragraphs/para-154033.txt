@@ -1,0 +1,10 @@
+44,478,2
+t1,1
+guj,1
+has,1
+if,1
+we,1
+have,1
+not,1
+become,1
+civilized,1

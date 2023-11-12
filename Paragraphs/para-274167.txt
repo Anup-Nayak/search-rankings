@@ -1,0 +1,17 @@
+73,327,12
+1,1
+the,1
+addressee,1
+was,1
+to,3
+go,1
+satis,1
+chandra,1
+das,1
+gupta,1
+learn,1
+about,1
+cheap,1
+remedies,1
+for,1
+villagers,1

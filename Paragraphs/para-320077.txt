@@ -1,0 +1,6 @@
+84,80,7
+103,1
+letter,1
+to,1
+lord,1
+samuel,1

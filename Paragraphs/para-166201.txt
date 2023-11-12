@@ -1,0 +1,8 @@
+47,440,5
+1,1
+auspicious,1
+hour,1
+2,1
+maganlal,1
+gandhis,1
+widow,1

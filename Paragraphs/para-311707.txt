@@ -1,0 +1,11 @@
+82,155,3
+miss,1
+curies,1
+question,1
+was,1
+directon,1
+the,2
+present,1
+situation,1
+she,1
+admired,1

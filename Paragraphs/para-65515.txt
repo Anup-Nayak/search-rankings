@@ -1,0 +1,10 @@
+18,423,14
+1,1
+bhagavad,1
+gita,1
+ii,1
+63,1
+2,1
+gujarat,1
+political,1
+conference,1

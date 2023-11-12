@@ -1,0 +1,9 @@
+14,470,17
+think,1
+that,1
+they,1
+will,1
+have,1
+to,2
+go,1
+the,1

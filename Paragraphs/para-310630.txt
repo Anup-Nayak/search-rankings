@@ -1,0 +1,16 @@
+82,68,13
+you,1
+during,1
+your,1
+leisure,1
+to,1
+study,1
+both,1
+hindi,1
+and,2
+urdu,1
+in,1
+their,1
+respective,1
+scripts,1
+get,1

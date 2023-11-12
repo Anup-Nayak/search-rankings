@@ -1,0 +1,14 @@
+92,403,13
+restriction,1
+or,1
+to,1
+act,1
+in,1
+such,1
+manner,1
+shall,1
+on,1
+conviction,1
+be,1
+punished,1
+with,1

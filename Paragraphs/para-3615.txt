@@ -1,0 +1,13 @@
+2,150,21
+that,2
+individual,1
+applied,1
+to,1
+country,1
+districts,1
+how,1
+did,1
+it,1
+apply,1
+in,1
+towns,1

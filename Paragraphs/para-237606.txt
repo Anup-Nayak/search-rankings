@@ -1,0 +1,9 @@
+65,19,3
+shantikumar,1
+narottam,1
+morarjee,1
+sudama,1
+house,1
+ballard,1
+estate,1
+bombay,1

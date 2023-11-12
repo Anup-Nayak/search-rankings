@@ -1,0 +1,14 @@
+81,359,2
+1,1
+straps,1
+2,1
+the,2
+first,1
+edition,1
+here,1
+has,1
+even,1
+under,1
+stress,1
+of,1
+war,1

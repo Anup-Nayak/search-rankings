@@ -1,0 +1,6 @@
+82,312,6
+361,1
+letter,1
+to,1
+krishna,1
+varma,1

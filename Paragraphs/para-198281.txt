@@ -1,0 +1,15 @@
+55,408,12
+1vide,1
+cleanliness,1
+truthfulness,1
+purity,1
+neatness,1
+9,1
+5,2
+1932,2
+and,1
+the,1
+cat,1
+a,1
+teacher,1
+22,1

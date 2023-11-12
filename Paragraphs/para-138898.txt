@@ -1,0 +1,10 @@
+40,425,3
+285,1
+speech,1
+at,1
+public,1
+meeting,1
+galle,1
+november,1
+23,1
+1927,1

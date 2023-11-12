@@ -1,0 +1,13 @@
+6,51,11
+1,1
+1849,1
+1912,1
+journalist,1
+and,1
+publicist,1
+founder,1
+editor,1
+of,2
+the,1
+review,1
+reviews,1

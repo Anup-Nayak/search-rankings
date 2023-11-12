@@ -1,0 +1,7 @@
+14,70,16
+and,1
+settlement,2
+trusted,1
+near,1
+at,1
+hand,1

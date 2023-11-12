@@ -1,0 +1,13 @@
+92,405,12
+4,1
+character,1
+in,1
+mythology,1
+who,1
+found,1
+himself,1
+suspended,1
+between,1
+earth,1
+and,1
+heaven,1

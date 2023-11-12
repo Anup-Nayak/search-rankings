@@ -1,0 +1,10 @@
+40,60,4
+1,1
+at,1
+singrachari,1
+hall,1
+in,1
+hindu,1
+high,1
+school,1
+triplicane,1

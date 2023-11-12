@@ -1,0 +1,7 @@
+2,138,6
+transvaal,1
+hotel,1
+pretoria,1
+may,1
+21,1
+1897,1

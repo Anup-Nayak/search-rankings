@@ -1,0 +1,15 @@
+82,72,4
+you,2
+are,2
+gaining,1
+good,2
+experience,1
+since,1
+in,1
+health,1
+there,1
+is,1
+nothing,1
+to,1
+worry,1
+about,1

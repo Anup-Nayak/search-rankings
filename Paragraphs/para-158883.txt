@@ -1,0 +1,7 @@
+46,73,1
+65,1
+committee,1
+for,1
+removal,1
+of,1
+untouchability,1

@@ -1,0 +1,4 @@
+9,66,5
+mr,1
+gandhis,1
+speech,1

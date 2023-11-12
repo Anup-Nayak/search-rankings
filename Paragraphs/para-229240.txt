@@ -1,0 +1,7 @@
+62,457,4
+extracts,1
+from,1
+jawaharlal,1
+nehrus,1
+statement,1
+1,1

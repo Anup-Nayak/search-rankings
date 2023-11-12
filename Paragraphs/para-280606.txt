@@ -1,0 +1,6 @@
+75,98,13
+sir,1
+akbar,1
+hydari,1
+hyderabad,1
+dn,1

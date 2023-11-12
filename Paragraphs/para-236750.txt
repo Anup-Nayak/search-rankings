@@ -1,0 +1,6 @@
+64,381,1
+450,1
+letter,1
+to,1
+premabehn,1
+kantak,1

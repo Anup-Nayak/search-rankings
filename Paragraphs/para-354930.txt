@@ -1,0 +1,6 @@
+92,30,2
+g,1
+where,1
+are,1
+these,1
+unemployed,1

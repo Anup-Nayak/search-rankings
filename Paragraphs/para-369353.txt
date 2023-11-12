@@ -1,0 +1,6 @@
+95,386,3
+383,1
+speech,1
+at,1
+prayer,1
+meeting,1

@@ -1,0 +1,17 @@
+2,85,9
+1,1
+this,1
+should,1
+be,1
+the,5
+other,1
+way,1
+round,1
+courland,1
+left,1
+on,2
+30th,1
+and,1
+naderi,1
+2th,1
+november,1

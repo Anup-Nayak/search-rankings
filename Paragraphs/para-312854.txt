@@ -1,0 +1,13 @@
+82,250,4
+work,1
+is,2
+done,1
+among,1
+caste,1
+hindus,1
+for,1
+the,2
+removal,1
+of,1
+untouchability,1
+what,1

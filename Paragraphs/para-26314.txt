@@ -1,0 +1,16 @@
+9,15,6
+two,1
+other,1
+british,1
+indians,1
+named,1
+sinnappa,1
+rangasamy,1
+pillay,1
+and,1
+soopa,1
+veerasamy,1
+naiker,1
+were,1
+then,1
+charged,1

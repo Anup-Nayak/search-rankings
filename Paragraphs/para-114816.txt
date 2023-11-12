@@ -1,0 +1,5 @@
+34,115,3
+the,1
+first,1
+satyagrahi,1
+prisoner,1

@@ -1,0 +1,11 @@
+20,115,12
+q,1
+do,2
+you,1
+think,1
+it,1
+was,1
+a,1
+reasonable,1
+thing,1
+to,1

@@ -1,0 +1,15 @@
+49,107,3
+mr,1
+gandhi,1
+asked,1
+the,1
+village,1
+women,1
+gathered,1
+there,1
+if,1
+they,1
+knew,1
+pandit,1
+jawaharlal,1
+nehru,1

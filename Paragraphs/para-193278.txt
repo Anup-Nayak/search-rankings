@@ -1,0 +1,17 @@
+54,315,9
+another,1
+reporter,1
+requested,1
+the,2
+mahatma,1
+to,1
+give,1
+his,1
+impression,1
+about,1
+r,1
+t,1
+c,1
+in,1
+a,1
+nutshell,1

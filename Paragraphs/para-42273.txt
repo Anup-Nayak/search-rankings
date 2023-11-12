@@ -1,0 +1,15 @@
+13,56,5
+further,1
+examined,1
+from,1
+the,2
+passive,1
+resistance,1
+standpoint,1
+only,1
+bill,1
+is,1
+also,1
+defective,1
+in,1
+that,1

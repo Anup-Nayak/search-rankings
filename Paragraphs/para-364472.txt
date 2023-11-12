@@ -1,0 +1,13 @@
+94,161,8
+then,1
+gandhiji,1
+was,1
+informed,1
+of,1
+the,3
+talk,1
+that,1
+property,1
+lost,1
+by,1
+muslims,1

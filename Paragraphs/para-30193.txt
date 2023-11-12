@@ -1,0 +1,17 @@
+10,35,5
+from,1
+a,1
+photostat,1
+bc,1
+112,1
+file,1
+12,1
+3,1
+1,1
+courtesy,1
+university,1
+library,1
+cape,1
+town,1
+south,1
+africa,1

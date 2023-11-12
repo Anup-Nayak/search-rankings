@@ -1,0 +1,8 @@
+67,93,11
+147,1
+letter,1
+to,1
+kanti,1
+and,1
+kanu,1
+gandhi,1

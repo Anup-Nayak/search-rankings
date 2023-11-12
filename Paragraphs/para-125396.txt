@@ -1,0 +1,11 @@
+36,471,4
+he,1
+is,1
+a,1
+true,1
+vanik,1
+who,1
+never,1
+gives,1
+short,1
+measure,1

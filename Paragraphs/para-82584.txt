@@ -1,0 +1,13 @@
+24,211,5
+1,1
+sacred,1
+cow,1
+which,1
+according,1
+to,1
+fable,1
+yielded,1
+all,1
+that,1
+one,1
+desired,1

@@ -1,0 +1,10 @@
+21,375,5
+1,1
+lakshmi,1
+bai,1
+who,1
+fought,1
+the,1
+british,1
+in,1
+1857,1

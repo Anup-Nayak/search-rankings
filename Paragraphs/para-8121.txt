@@ -1,0 +1,12 @@
+3,345,4
+the,2
+only,2
+suitable,1
+site,1
+available,1
+in,1
+town,1
+itself,1
+there,1
+are,1
+thirty,1

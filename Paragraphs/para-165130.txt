@@ -1,0 +1,11 @@
+47,318,7
+1,2
+vide,1
+speech,1
+at,1
+kathiawar,1
+political,1
+conference,1
+porbandar,1
+22,1
+1928,1

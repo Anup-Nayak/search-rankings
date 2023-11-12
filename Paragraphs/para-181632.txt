@@ -1,0 +1,13 @@
+51,442,19
+method,1
+by,1
+which,1
+effect,1
+may,1
+be,1
+given,1
+to,2
+principal,1
+of,1
+federation,1
+and,1

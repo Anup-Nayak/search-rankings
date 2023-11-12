@@ -1,0 +1,11 @@
+59,511,22
+connection,1
+please,1
+also,1
+note,1
+proviso,1
+resolution,1
+passed,1
+at,1
+the,1
+public,1

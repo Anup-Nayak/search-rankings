@@ -1,0 +1,4 @@
+1,267,4
+death,1
+and,1
+departure,1

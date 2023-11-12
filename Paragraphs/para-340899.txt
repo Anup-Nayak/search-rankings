@@ -1,0 +1,6 @@
+88,249,10
+512,1
+letter,1
+to,1
+cherian,1
+kopen,1

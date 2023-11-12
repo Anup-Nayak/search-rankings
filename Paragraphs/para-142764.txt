@@ -1,0 +1,6 @@
+41,449,4
+departure,1
+jamnalalji,1
+must,1
+go,1
+pilgrimage,1

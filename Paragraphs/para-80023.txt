@@ -1,0 +1,16 @@
+23,296,6
+2,1
+lt,1
+governor,1
+of,2
+bihar,1
+and,1
+orissa,1
+during,1
+the,1
+period,1
+satyagraha,1
+in,2
+champa,1
+ran,1
+1917,1

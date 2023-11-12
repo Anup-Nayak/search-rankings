@@ -1,0 +1,10 @@
+11,304,16
+lay,1
+too,1
+much,1
+emphasis,1
+on,1
+fact,1
+that,1
+passive,1
+resis,1

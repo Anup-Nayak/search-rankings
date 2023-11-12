@@ -1,0 +1,6 @@
+19,17,2
+ashram,1
+friday,1
+october,1
+3,1
+1919,1

@@ -1,0 +1,7 @@
+13,46,21
+or,1
+natal,1
+of,1
+educated,1
+indians,1
+under,1

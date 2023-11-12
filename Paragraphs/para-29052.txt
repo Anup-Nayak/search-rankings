@@ -1,0 +1,13 @@
+9,404,2
+westminster,1
+palace,1
+hotel,1
+4,1
+victoria,1
+street,1
+london,1
+s,1
+w,1
+july,1
+14,1
+1909,1

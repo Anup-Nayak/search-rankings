@@ -1,0 +1,9 @@
+11,298,32
+der,1
+question,1
+women,1
+children,1
+but,1
+he,1
+considers,1
+atti,1

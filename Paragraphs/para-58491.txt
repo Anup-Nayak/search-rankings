@@ -1,0 +1,15 @@
+16,496,3
+f,1
+resolutions,1
+on,1
+all,1
+matters,1
+relating,1
+to,1
+the,2
+administration,1
+of,1
+country,1
+as,1
+a,1
+whole,1

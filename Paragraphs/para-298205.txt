@@ -1,0 +1,8 @@
+79,313,15
+key,1
+words,1
+or,1
+sentences,1
+may,1
+alter,1
+whole,1

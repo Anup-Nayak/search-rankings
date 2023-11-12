@@ -1,0 +1,12 @@
+1,230,15
+1,1
+this,1
+is,1
+zuid,1
+afrikaansche,1
+republick,1
+dutch,1
+for,1
+south,1
+african,1
+republic,1

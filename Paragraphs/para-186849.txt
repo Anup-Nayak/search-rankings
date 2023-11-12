@@ -1,0 +1,11 @@
+53,36,14
+conference,1
+when,1
+we,1
+met,1
+you,1
+were,1
+good,1
+enough,1
+to,1
+tell,1

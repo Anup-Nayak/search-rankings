@@ -1,0 +1,12 @@
+70,210,1
+249,1
+speech,1
+at,1
+opening,1
+of,1
+khadi,1
+and,1
+village,1
+industries,1
+exhibition,1
+1,1

@@ -1,0 +1,13 @@
+52,139,15
+english,1
+resentment,1
+against,1
+the,1
+united,1
+states,1
+this,1
+is,1
+due,1
+to,1
+her,1
+economic,1

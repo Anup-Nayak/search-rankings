@@ -1,0 +1,5 @@
+32,252,2
+do,1
+i,1
+hate,1
+englishmen,1

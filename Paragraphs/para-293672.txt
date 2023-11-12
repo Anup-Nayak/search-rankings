@@ -1,0 +1,12 @@
+78,212,6
+is,1
+concerned,1
+are,2
+christians,1
+and,1
+the,1
+scales,1
+weighted,1
+very,1
+heavily,1
+in,1

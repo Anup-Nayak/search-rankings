@@ -1,0 +1,12 @@
+73,98,4
+in,1
+these,1
+words,1
+gandhiji,1
+summed,1
+up,1
+the,2
+difference,1
+between,1
+socialist,1
+school,1

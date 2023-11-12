@@ -1,0 +1,11 @@
+94,250,5
+haran,1
+babu,1
+2,1
+stop,1
+case,1
+seems,1
+to,1
+be,1
+for,1
+exodus,1

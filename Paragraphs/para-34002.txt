@@ -1,0 +1,13 @@
+11,50,10
+both,1
+the,1
+hon,1
+mr,2
+r,1
+jameson,1
+2,1
+and,1
+w,1
+c,1
+daugherty,1
+3,1

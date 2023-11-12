@@ -1,0 +1,13 @@
+47,14,5
+a,1
+the,3
+population,1
+with,1
+its,1
+component,1
+parts,1
+in,1
+area,1
+covered,1
+by,1
+address,1

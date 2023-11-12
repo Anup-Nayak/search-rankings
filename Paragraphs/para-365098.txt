@@ -1,0 +1,7 @@
+94,236,3
+236,1
+talk,1
+with,1
+european,1
+visitors,1
+1,1

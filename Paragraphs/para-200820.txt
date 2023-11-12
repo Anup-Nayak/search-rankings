@@ -1,0 +1,16 @@
+56,242,12
+1,1
+amina,1
+g,1
+qureshi,1
+younger,1
+daughter,1
+of,2
+imam,1
+saheb,1
+2,1
+kedarnath,1
+kulkarni,1
+guru,1
+kishorelal,1
+mashruwala,1

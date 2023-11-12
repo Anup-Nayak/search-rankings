@@ -1,0 +1,6 @@
+43,175,8
+1,1
+vide,1
+the,1
+fiery,1
+ordeal,1

@@ -1,0 +1,8 @@
+79,427,11
+and,1
+then,1
+going,1
+therefore,1
+unless,1
+your,1
+own,1

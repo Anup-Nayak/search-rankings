@@ -1,0 +1,6 @@
+89,115,4
+174,1
+letter,1
+to,1
+hastmal,1
+patwa,1

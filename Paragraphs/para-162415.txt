@@ -1,0 +1,9 @@
+47,6,7
+m,1
+k,1
+g,1
+abbas,1
+tyabji,1
+esq,1
+camp,1
+baroda,1

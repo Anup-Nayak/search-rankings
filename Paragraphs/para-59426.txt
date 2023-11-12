@@ -1,0 +1,8 @@
+17,73,18
+inviting,1
+them,2
+to,1
+the,1
+war,1
+conference,1
+attacking,1

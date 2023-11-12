@@ -1,0 +1,7 @@
+13,144,14
+cognizes,1
+marriages,1
+europeans,1
+outside,1
+south,1
+africa,1

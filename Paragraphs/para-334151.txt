@@ -1,0 +1,9 @@
+87,86,5
+shri,1
+bharatan,1
+kumarappa,1
+a,2
+i,2
+v,1
+maganwadi,1
+wardha,1

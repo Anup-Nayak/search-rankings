@@ -1,0 +1,12 @@
+6,88,10
+it,1
+has,1
+been,2
+decided,1
+and,1
+we,1
+have,1
+authorized,1
+by,1
+the,1
+british,1

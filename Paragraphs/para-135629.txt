@@ -1,0 +1,7 @@
+39,364,2
+365,1
+indian,1
+settlers,1
+in,1
+south,1
+africa,1

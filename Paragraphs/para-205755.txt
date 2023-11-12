@@ -1,0 +1,14 @@
+57,283,4
+blessings,1
+from,2
+bapu,1
+shri,1
+dahyabhai,1
+patel,1
+ram,1
+nivas,1
+parekh,1
+street,1
+bombay,1
+4,1
+gujarati,1

@@ -1,0 +1,7 @@
+14,10,26
+grace,1
+but,1
+challenge,1
+to,1
+community,1
+therefore,1

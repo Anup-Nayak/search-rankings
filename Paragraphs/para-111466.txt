@@ -1,0 +1,5 @@
+33,105,3
+a,1
+vigilant,1
+friend,1
+writes,1

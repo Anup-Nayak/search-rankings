@@ -1,0 +1,3 @@
+8,82,3
+cowardly,1
+stuff,1

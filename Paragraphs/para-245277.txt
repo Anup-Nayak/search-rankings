@@ -1,0 +1,5 @@
+66,330,1
+cows,1
+ghee,2
+v,1
+buffalos,1

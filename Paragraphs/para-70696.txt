@@ -1,0 +1,10 @@
+20,184,6
+m,1
+k,1
+gandhi,1
+satyagraha,1
+ashram,1
+sabarmati,1
+march,1
+27,1
+1920,1

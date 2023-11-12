@@ -1,0 +1,8 @@
+11,292,8
+educated,2
+asiatic,1
+immigrants,1
+no,1
+exception,1
+taken,1
+to,1

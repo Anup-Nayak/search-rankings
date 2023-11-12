@@ -1,0 +1,11 @@
+84,451,14
+the,1
+procedure,1
+followed,1
+is,1
+a,2
+little,2
+complicated,1
+and,1
+difficult,1
+to,1

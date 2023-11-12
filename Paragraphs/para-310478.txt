@@ -1,0 +1,5 @@
+82,54,12
+58,1
+talk,1
+with,1
+friendsii,1

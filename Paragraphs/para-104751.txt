@@ -1,0 +1,14 @@
+31,22,19
+ready,1
+response,1
+from,1
+the,2
+villagers,2
+in,1
+such,1
+kinds,1
+of,1
+social,1
+service,1
+and,1
+out,1

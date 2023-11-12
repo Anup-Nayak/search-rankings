@@ -1,0 +1,16 @@
+74,121,5
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+sjt,1
+roy,1
+kumar,1
+sing,1
+zamindar,1
+nathnagar,1
+p,1
+o,1
+dt,1
+bhagalpur,1

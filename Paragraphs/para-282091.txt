@@ -1,0 +1,9 @@
+75,272,8
+to,1
+me,1
+impracticable,1
+as,1
+you,1
+have,1
+lifted,1
+ban,1

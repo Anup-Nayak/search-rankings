@@ -1,0 +1,8 @@
+79,25,14
+e,1
+k,1
+no,1
+i,1
+am,1
+a,1
+presbyterian,1

@@ -1,0 +1,13 @@
+82,298,7
+own,1
+government,1
+not,1
+only,1
+have,1
+they,2
+appointed,1
+a,1
+leader,1
+whom,1
+call,1
+their,1

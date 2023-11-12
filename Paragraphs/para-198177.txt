@@ -1,0 +1,9 @@
+55,394,7
+bapu,1
+from,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+32937,1

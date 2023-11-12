@@ -1,0 +1,8 @@
+27,13,2
+i,1
+am,1
+your,1
+sincere,1
+friend,1
+and,1
+brother,1

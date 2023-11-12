@@ -1,0 +1,9 @@
+32,2,5
+deshbandhu,1
+died,1
+yesterday,1
+darjeeling,1
+who,1
+can,1
+know,1
+or,1

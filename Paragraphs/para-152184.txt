@@ -1,0 +1,12 @@
+44,63,8
+1,1
+an,1
+african,1
+employee,1
+at,1
+the,1
+phoenix,1
+press,1
+who,1
+had,1
+died,1

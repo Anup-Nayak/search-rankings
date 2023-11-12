@@ -1,0 +1,8 @@
+90,423,23
+question,1
+of,1
+indian,1
+segrecation,1
+does,1
+not,1
+arise,1

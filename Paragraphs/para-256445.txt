@@ -1,0 +1,8 @@
+69,115,4
+137,1
+discussion,1
+with,1
+a,1
+polish,1
+student,1
+1,1

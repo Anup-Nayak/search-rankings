@@ -1,0 +1,13 @@
+2,108,15
+fair,1
+play,1
+to,1
+an,1
+opponent,1
+and,2
+answer,1
+his,1
+argument,2
+by,2
+counter,1
+not,1

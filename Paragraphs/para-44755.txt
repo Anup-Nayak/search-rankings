@@ -1,0 +1,8 @@
+13,387,14
+on,1
+general,1
+grounds,1
+marriage,1
+south,1
+africa,1
+born,1

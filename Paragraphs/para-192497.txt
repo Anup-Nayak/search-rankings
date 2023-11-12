@@ -1,0 +1,10 @@
+54,213,20
+mr,1
+gandhi,1
+you,1
+mean,1
+spinning,1
+all,1
+kinds,1
+of,1
+yarns,1

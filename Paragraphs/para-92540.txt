@@ -1,0 +1,10 @@
+27,279,2
+1,1
+institutions,1
+for,1
+care,1
+of,1
+old,1
+and,1
+infirm,1
+cattle,1

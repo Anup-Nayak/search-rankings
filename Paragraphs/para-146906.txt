@@ -1,0 +1,12 @@
+42,464,21
+made,2
+for,1
+rents,1
+charged,1
+in,1
+consequence,1
+of,2
+improvements,1
+at,1
+the,2
+cost,1

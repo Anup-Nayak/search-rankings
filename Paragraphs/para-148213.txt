@@ -1,0 +1,9 @@
+43,132,6
+1,1
+belonging,1
+to,1
+the,1
+makrana,1
+community,1
+in,1
+saurashtra,1

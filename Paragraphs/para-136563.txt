@@ -1,0 +1,12 @@
+40,2,6
+1,1
+the,2
+source,1
+has,1
+this,1
+letter,1
+after,1
+entries,1
+for,1
+september,1
+2,1

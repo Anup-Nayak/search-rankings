@@ -1,0 +1,9 @@
+79,130,12
+2,1
+alleged,1
+harassment,1
+at,1
+the,2
+hands,1
+fo,1
+police,1

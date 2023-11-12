@@ -1,0 +1,12 @@
+74,412,3
+g,1
+yes,1
+we,1
+finish,1
+the,1
+entire,1
+gita,1
+reading,1
+once,1
+every,1
+week,1

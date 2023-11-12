@@ -1,0 +1,4 @@
+30,299,10
+kashmiri,1
+gate,1
+delhi,1

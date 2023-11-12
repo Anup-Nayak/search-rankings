@@ -1,0 +1,10 @@
+16,177,6
+motihari,1
+magshar,1
+sud,1
+4,1
+samvat,1
+1974,1
+december,1
+18,1
+1917,1

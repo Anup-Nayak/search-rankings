@@ -1,0 +1,10 @@
+67,232,10
+i,1
+learn,1
+to,1
+pity,1
+them,1
+the,1
+other,1
+selection,1
+is,1

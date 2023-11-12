@@ -1,0 +1,11 @@
+33,221,3
+i,1
+have,1
+received,1
+the,2
+following,1
+letter,1
+1,1
+from,1
+spinners,1
+association,1

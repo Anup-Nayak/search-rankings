@@ -1,0 +1,8 @@
+23,473,10
+boycott,1
+foreign,1
+cloth,1
+and,1
+attending,1
+to,1
+handspinning,1

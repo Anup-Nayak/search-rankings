@@ -1,0 +1,12 @@
+15,52,6
+we,1
+are,1
+now,1
+weaving,1
+our,1
+own,1
+cloth,1
+sewing,1
+things,1
+too,1
+ourselves,1

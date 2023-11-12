@@ -1,0 +1,13 @@
+38,28,16
+people,1
+and,2
+that,1
+these,1
+elected,1
+representatives,1
+should,1
+embody,1
+the,1
+higher,1
+self,1
+not,1

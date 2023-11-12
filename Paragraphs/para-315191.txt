@@ -1,0 +1,11 @@
+82,400,3
+recently,1
+uttered,1
+some,1
+unfriendly,1
+words,1
+at,1
+the,1
+expense,1
+of,1
+america,1

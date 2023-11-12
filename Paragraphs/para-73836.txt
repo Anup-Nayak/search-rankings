@@ -1,0 +1,6 @@
+21,225,2
+132,1
+the,1
+gujarat,1
+political,1
+conference,1

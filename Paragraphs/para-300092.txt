@@ -1,0 +1,7 @@
+80,17,6
+32,1
+instructions,1
+for,1
+independence,1
+day,1
+3,1

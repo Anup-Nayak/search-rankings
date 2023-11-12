@@ -1,0 +1,11 @@
+57,115,20
+fast,1
+has,1
+no,1
+religious,1
+sanction,1
+since,1
+you,2
+feel,1
+for,1
+me,1

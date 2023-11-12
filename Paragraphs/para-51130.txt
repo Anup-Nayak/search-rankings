@@ -1,0 +1,15 @@
+15,102,2
+may,1
+5,1
+wednesday,1
+attended,1
+conference,3
+1,1
+also,1
+social,1
+there,1
+was,1
+sanatana,1
+dharma,1
+as,1
+well,1

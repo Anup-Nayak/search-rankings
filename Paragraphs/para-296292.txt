@@ -1,0 +1,9 @@
+79,45,2
+a,2
+friend,2
+quotes,1
+from,2
+letter,1
+received,1
+an,1
+english,1

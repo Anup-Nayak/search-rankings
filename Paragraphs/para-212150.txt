@@ -1,0 +1,14 @@
+58,490,3
+n,1
+is,1
+it,1
+not,1
+possible,1
+to,1
+postpone,1
+civil,1
+disobedience,1
+for,1
+the,1
+time,1
+being,1

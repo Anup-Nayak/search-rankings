@@ -1,0 +1,5 @@
+16,440,3
+302,1
+speech,1
+at,1
+chikhodra,1

@@ -1,0 +1,15 @@
+77,419,5
+that,1
+our,1
+mission,1
+in,1
+the,1
+world,1
+is,1
+not,1
+to,2
+govern,1
+other,2
+people,2
+but,1
+help,1

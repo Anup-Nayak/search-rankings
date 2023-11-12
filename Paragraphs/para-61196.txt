@@ -1,0 +1,12 @@
+17,283,10
+2,1
+dhondu,1
+keshav,1
+karve,1
+1858,1
+1962,1
+social,1
+reformer,1
+and,1
+pioneer,1
+educationist,1

@@ -1,0 +1,15 @@
+82,419,34
+l,1
+f,1
+have,1
+you,1
+sufficient,1
+confidence,1
+in,1
+the,2
+present,1
+mood,1
+of,1
+country,1
+will,1
+it,1

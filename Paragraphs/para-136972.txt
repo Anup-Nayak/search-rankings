@@ -1,0 +1,9 @@
+40,80,7
+9,1
+what,1
+is,1
+dearest,1
+to,1
+you,1
+from,1
+gujarati,1

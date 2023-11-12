@@ -1,0 +1,13 @@
+30,99,13
+haripur,1
+t,1
+c,4
+for,2
+madhubani,1
+v,1
+10,1
+5,1
+p,1
+k,1
+b,1
+weaving,1

@@ -1,0 +1,10 @@
+46,65,7
+dattapuram,1
+116,1
+0,4
+muddanum,1
+342,1
+chilmakuru,1
+166,1
+5,1
+9,1

@@ -1,0 +1,10 @@
+70,15,12
+no,1
+fear,1
+they,1
+emphatically,1
+protested,1
+but,1
+if,1
+you,1
+do,1

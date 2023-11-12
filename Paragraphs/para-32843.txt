@@ -1,0 +1,5 @@
+10,418,6
+krugersdorp,1
+february,1
+18,1
+1910,1

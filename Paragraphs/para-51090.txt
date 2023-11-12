@@ -1,0 +1,7 @@
+15,99,6
+april,1
+15,1
+thursday,1
+in,1
+the,1
+train,1

@@ -1,0 +1,14 @@
+31,136,10
+which,1
+professes,1
+of,1
+serve,1
+india,1
+you,1
+are,1
+ready,1
+to,1
+make,1
+compromises,1
+with,1
+other,1

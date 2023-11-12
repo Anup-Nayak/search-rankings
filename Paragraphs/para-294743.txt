@@ -1,0 +1,17 @@
+78,310,8
+bapu,1
+ps,1
+i,1
+hope,1
+she,2
+will,1
+be,1
+allowed,1
+to,1
+wear,1
+the,1
+same,1
+clothes,1
+that,1
+does,1
+here,1

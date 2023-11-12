@@ -1,0 +1,17 @@
+63,136,1
+sardar,1
+is,1
+enjoying,1
+himself,2
+chandrashankar,2
+and,1
+mira,1
+are,1
+quite,1
+well,2
+continues,1
+to,1
+acquit,1
+in,1
+mahadevs,1
+place,1

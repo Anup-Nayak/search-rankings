@@ -1,0 +1,9 @@
+23,355,4
+6,1
+payment,1
+of,1
+sick,1
+allowance,1
+to,1
+coolies,1
+compulsory,1

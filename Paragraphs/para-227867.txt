@@ -1,0 +1,14 @@
+62,273,4
+gandhiji,1
+retorted,1
+that,1
+the,2
+only,1
+true,1
+test,1
+of,2
+sanatan,1
+dharma,1
+was,1
+touchstone,1
+truth,1

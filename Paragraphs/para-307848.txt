@@ -1,0 +1,7 @@
+81,268,10
+472,1
+letter,1
+to,1
+maganlal,1
+p,1
+mehta,1

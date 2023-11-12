@@ -1,0 +1,7 @@
+1,23,2
+1,1
+gandhiji,1
+perhaps,1
+means,1
+at,1
+variance,1

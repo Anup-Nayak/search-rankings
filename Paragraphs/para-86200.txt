@@ -1,0 +1,4 @@
+25,311,2
+round,1
+table,1
+conference,1

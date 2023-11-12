@@ -1,0 +1,12 @@
+93,70,5
+86,1
+interview,1
+to,1
+members,1
+of,1
+communist,1
+party,1
+and,1
+students,1
+federation,1
+1,1

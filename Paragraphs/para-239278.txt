@@ -1,0 +1,8 @@
+65,192,6
+253,1
+letter,1
+to,1
+meherbai,1
+f,1
+s,1
+talyarkhan,1

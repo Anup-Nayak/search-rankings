@@ -1,0 +1,12 @@
+10,469,3
+replace,1
+the,3
+black,1
+man,1
+at,1
+bottom,1
+by,1
+white,1
+take,1
+away,1
+as,1

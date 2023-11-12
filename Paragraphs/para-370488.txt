@@ -1,0 +1,15 @@
+96,92,6
+1vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+18,1
+7,1
+1947,1
+2,1
+omission,1
+as,1
+in,1
+the,1
+source,1

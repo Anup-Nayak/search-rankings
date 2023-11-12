@@ -1,0 +1,6 @@
+35,459,4
+578,1
+gujarat,1
+khadi,1
+pracharak,1
+mandal,1

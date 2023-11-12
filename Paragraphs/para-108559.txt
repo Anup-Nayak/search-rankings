@@ -1,0 +1,11 @@
+32,109,3
+all,1
+the,2
+above,1
+applies,1
+mutatis,1
+mutandis,1
+also,1
+to,1
+christian,1
+indians,1

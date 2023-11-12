@@ -1,0 +1,13 @@
+93,145,9
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+hindi,1
+badoken,1
+preranadayak,1
+kuchh,1
+patra,1
+front,1
+cover,1

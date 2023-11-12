@@ -1,0 +1,12 @@
+2,272,1
+it,1
+may,1
+throw,1
+a,1
+great,1
+deal,1
+of,1
+light,1
+on,1
+the,1
+question,1

@@ -1,0 +1,4 @@
+77,289,7
+355,1
+gujarati,1
+spelling,1

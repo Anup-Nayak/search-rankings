@@ -1,0 +1,17 @@
+86,25,8
+a,1
+i,2
+had,1
+full,1
+discussion,1
+with,1
+prof,1
+4,1
+agree,1
+generally,1
+about,1
+the,1
+points,1
+you,1
+have,1
+raised,1

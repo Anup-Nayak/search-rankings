@@ -1,0 +1,12 @@
+81,510,9
+congress,1
+committees,1
+are,1
+able,1
+to,1
+command,1
+confidence,1
+in,1
+their,1
+respective,1
+localities,1

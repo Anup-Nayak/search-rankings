@@ -1,0 +1,4 @@
+63,443,2
+493,1
+harijans,1
+handicap,1

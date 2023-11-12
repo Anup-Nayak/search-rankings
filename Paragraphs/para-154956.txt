@@ -1,0 +1,10 @@
+45,7,13
+give,1
+him,1
+a,1
+very,1
+big,1
+amount,1
+for,1
+this,1
+fund,1

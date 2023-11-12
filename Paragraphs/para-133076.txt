@@ -1,0 +1,17 @@
+39,5,8
+1,1
+gandhiji,1
+descended,1
+from,1
+nandi,1
+hills,1
+to,1
+bangalore,1
+on,1
+june,1
+5,1
+1927,1
+2,1
+not,1
+translated,1
+here,1

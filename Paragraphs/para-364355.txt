@@ -1,0 +1,7 @@
+94,145,8
+160,1
+letter,1
+to,1
+nirmal,1
+kumar,1
+bose,1

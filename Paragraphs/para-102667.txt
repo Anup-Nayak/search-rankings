@@ -1,0 +1,16 @@
+30,199,10
+q,1
+did,2
+you,2
+come,1
+to,1
+know,1
+all,1
+this,1
+from,1
+hearsay,1
+or,1
+see,1
+these,1
+things,1
+yourself,1

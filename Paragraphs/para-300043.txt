@@ -1,0 +1,6 @@
+80,12,4
+24,1
+letter,1
+to,1
+purushottmdas,1
+tandon,1

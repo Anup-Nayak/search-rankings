@@ -1,0 +1,5 @@
+4,18,1
+13,1
+the,1
+indian,1
+interpreters,1

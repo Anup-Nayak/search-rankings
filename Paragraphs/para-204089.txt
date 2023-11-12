@@ -1,0 +1,6 @@
+57,122,4
+presence,1
+gurudev,1
+other,1
+loving,1
+friends,1

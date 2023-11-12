@@ -1,0 +1,7 @@
+27,173,1
+send,1
+a,1
+copy,1
+regularly,1
+to,1
+you,1

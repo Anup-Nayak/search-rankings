@@ -1,0 +1,8 @@
+15,118,8
+doctor,1
+deva,1
+came,1
+vrajlal,1
+left,1
+for,1
+bombay,1

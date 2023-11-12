@@ -1,0 +1,12 @@
+24,295,3
+here,1
+is,1
+a,1
+wire,1
+received,1
+from,1
+sind,1
+which,1
+speaks,1
+for,1
+itself,1

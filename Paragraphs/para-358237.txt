@@ -1,0 +1,15 @@
+92,387,10
+an,1
+accidental,1
+omission,1
+he,1
+had,1
+been,1
+opposed,1
+to,1
+illuminations,1
+even,1
+in,1
+the,1
+olden,1
+days,1

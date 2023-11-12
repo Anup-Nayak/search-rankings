@@ -1,0 +1,4 @@
+12,353,19
+december,1
+18,1
+wednesday,1

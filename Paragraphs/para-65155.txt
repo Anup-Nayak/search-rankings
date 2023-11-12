@@ -1,0 +1,7 @@
+18,363,5
+272,1
+speech,1
+on,1
+swadeshi,1
+bombay,1
+2,1

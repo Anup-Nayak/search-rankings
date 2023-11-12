@@ -1,0 +1,6 @@
+53,440,1
+485,1
+letter,1
+to,1
+pastor,1
+forell,1

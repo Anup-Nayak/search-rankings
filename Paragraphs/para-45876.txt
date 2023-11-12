@@ -1,0 +1,9 @@
+14,7,10
+that,1
+they,1
+did,1
+not,1
+intend,1
+give,1
+commission,1
+partisan,1

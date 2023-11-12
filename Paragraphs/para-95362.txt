@@ -1,0 +1,7 @@
+28,187,3
+mohandas,1
+gandhi,1
+abbas,1
+tyabji,1
+camp,1
+bawda,1

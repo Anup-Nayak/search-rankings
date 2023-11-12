@@ -1,0 +1,15 @@
+94,61,16
+parity,1
+of,2
+reasoning,1
+man,1
+was,1
+half,1
+woman,1
+they,1
+were,1
+not,1
+two,1
+separate,1
+entities,1
+but,1

@@ -1,0 +1,10 @@
+39,333,4
+exhibition,1
+stall,1
+cloth,1
+worth,1
+rs,2
+3,1
+051,1
+salesretail,1
+980,1

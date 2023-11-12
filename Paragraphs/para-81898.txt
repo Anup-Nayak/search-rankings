@@ -1,0 +1,12 @@
+24,99,18
+in,1
+conclusion,1
+mahatma,1
+gandhi,1
+again,1
+appealed,1
+to,2
+the,1
+audience,1
+throw,1
+away,1

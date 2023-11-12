@@ -1,0 +1,6 @@
+26,198,4
+91,1
+letter,1
+to,1
+vijayalakshmi,1
+pandit,1

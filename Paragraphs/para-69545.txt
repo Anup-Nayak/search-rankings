@@ -1,0 +1,5 @@
+20,3,8
+punjabi,1
+christians,1
+4,1
+000,1

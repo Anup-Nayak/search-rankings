@@ -1,0 +1,11 @@
+30,197,8
+q,1
+do,1
+you,1
+know,1
+in,1
+what,1
+respect,1
+it,1
+fell,1
+short,1

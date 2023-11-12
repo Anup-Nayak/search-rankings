@@ -1,0 +1,10 @@
+30,208,13
+q,1
+did,1
+you,1
+meet,1
+in,1
+the,2
+presence,1
+of,1
+public,1

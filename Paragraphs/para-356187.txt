@@ -1,0 +1,14 @@
+92,172,14
+1,1
+the,2
+note,1
+is,1
+scribbled,1
+on,1
+a,1
+sheet,1
+bearing,1
+date,1
+september,1
+12,1
+1946,1

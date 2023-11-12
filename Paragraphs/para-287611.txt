@@ -1,0 +1,13 @@
+76,417,15
+while,1
+they,2
+are,1
+not,1
+opposed,1
+to,2
+prohibition,1
+on,1
+principle,1
+have,1
+objection,1
+the,1

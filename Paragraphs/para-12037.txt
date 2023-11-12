@@ -1,0 +1,4 @@
+5,24,2
+bazaars,1
+and,1
+locations,1

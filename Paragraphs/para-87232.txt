@@ -1,0 +1,16 @@
+25,458,6
+1,2
+a,1
+gujarati,1
+translation,1
+of,1
+the,2
+letter,2
+followed,1
+for,1
+original,1
+vide,1
+young,1
+india,1
+12,1
+1922,1

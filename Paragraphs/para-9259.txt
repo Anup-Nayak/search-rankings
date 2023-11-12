@@ -1,0 +1,8 @@
+4,86,1
+64,1
+the,2
+origin,1
+of,1
+fire,1
+at,1
+potchefstroom,1

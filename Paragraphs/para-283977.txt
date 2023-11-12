@@ -1,0 +1,12 @@
+76,9,3
+h,1
+p,1
+modi,1
+where,1
+do,1
+you,1
+see,1
+the,1
+ruin,1
+in,1
+india,1

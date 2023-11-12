@@ -1,0 +1,6 @@
+14,10,28
+commission,1
+community,1
+openly,1
+demanded,1
+it,1

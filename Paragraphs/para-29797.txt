@@ -1,0 +1,7 @@
+9,492,3
+europeans,1
+letter,1
+to,1
+the,1
+times,1
+1,1

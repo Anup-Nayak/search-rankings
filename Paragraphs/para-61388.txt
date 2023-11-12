@@ -1,0 +1,6 @@
+17,306,1
+300,1
+summary,1
+of,1
+rowlatt,1
+bills,1

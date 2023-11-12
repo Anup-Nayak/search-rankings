@@ -1,0 +1,8 @@
+37,9,9
+rs,1
+500,1
+worth,1
+of,1
+khadi,1
+was,1
+purchased,1

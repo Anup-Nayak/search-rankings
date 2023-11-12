@@ -1,0 +1,15 @@
+59,295,10
+1,1
+an,1
+extract,1
+from,1
+this,1
+letter,2
+appears,1
+in,1
+to,1
+mathuradas,1
+trikumji,1
+17,1
+2,1
+1933,1

@@ -1,0 +1,3 @@
+43,184,3
+true,1
+independence,1

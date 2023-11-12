@@ -1,0 +1,9 @@
+13,72,2
+of,1
+non,2
+christian,2
+religions,1
+and,1
+performed,1
+before,1
+priests,1

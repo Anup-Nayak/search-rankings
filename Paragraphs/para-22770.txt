@@ -1,0 +1,13 @@
+7,420,6
+name,1
+in,1
+full,1
+race,1
+residence,1
+relation,1
+of,3
+guardian,1
+to,1
+minor,2
+certificate,1
+particulars,1

@@ -1,0 +1,16 @@
+36,258,6
+1,1
+dr,1
+norman,2
+leys,2
+replied,1
+to,1
+the,1
+letter,1
+on,1
+september,1
+20,2
+videletter,1
+from,1
+9,1
+1926,1

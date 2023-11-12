@@ -1,0 +1,7 @@
+44,495,20
+t1,1
+guj,1
+adds,1
+the,1
+utmost,1
+possible,1

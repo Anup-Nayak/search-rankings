@@ -1,0 +1,7 @@
+25,88,8
+40,1
+letter,1
+to,1
+a,1
+s,1
+freemantle,1

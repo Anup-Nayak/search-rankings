@@ -1,0 +1,5 @@
+82,94,20
+1,1
+influence,1
+of,1
+upbringing,1

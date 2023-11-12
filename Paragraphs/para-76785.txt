@@ -1,0 +1,7 @@
+22,218,4
+municipal,1
+co,1
+operation,1
+the,1
+friend,1
+proceeds,1

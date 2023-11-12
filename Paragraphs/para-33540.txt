@@ -1,0 +1,9 @@
+10,502,6
+mr,1
+edulji,1
+khodi,1
+next,1
+moved,1
+the,1
+following,1
+resolution,1

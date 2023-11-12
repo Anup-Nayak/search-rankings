@@ -1,0 +1,13 @@
+82,386,26
+pyarelal,1
+surely,1
+you,1
+do,1
+not,1
+mean,1
+that,1
+the,2
+change,1
+would,1
+depend,1
+upon,1

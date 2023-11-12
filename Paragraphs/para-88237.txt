@@ -1,0 +1,8 @@
+26,136,5
+62,1
+speech,1
+to,1
+congress,1
+workers,1
+bardoli,1
+2,1

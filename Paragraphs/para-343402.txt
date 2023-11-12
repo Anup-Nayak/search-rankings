@@ -1,0 +1,14 @@
+89,93,11
+1as,1
+it,1
+was,2
+gandhijis,1
+silence,1
+day,1
+the,1
+speech,1
+read,1
+out,1
+by,1
+kanu,1
+gandhi,1

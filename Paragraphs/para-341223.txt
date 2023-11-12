@@ -1,0 +1,6 @@
+88,292,6
+562,1
+letter,1
+to,1
+noralmal,1
+phulomal,1

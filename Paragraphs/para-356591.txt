@@ -1,0 +1,6 @@
+92,218,1
+315,1
+karachi,1
+khadi,1
+bhandar,1
+1,1

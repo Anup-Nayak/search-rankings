@@ -1,0 +1,7 @@
+80,345,9
+personal,1
+sevagram,1
+wardha,1
+july,1
+5,1
+1941,1

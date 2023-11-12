@@ -1,0 +1,14 @@
+73,38,2
+1,1
+vide,1
+speech,1
+at,1
+congress,1
+session,1
+ahmedabad,1
+28,1
+12,1
+1921,1
+2,1
+muslim,1
+divines,1

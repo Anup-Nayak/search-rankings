@@ -1,0 +1,7 @@
+21,508,2
+1,1
+self,1
+suffering,1
+as,1
+moral,1
+discipline,1

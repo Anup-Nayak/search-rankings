@@ -1,0 +1,12 @@
+72,216,6
+you,1
+think,1
+if,1
+faith,2
+plus,3
+knowledge,2
+are,2
+potent,1
+capital,1
+more,1
+so,1

@@ -1,0 +1,8 @@
+13,430,18
+dirty,1
+dangerously,1
+insanitary,1
+habit,1
+unheeded,1
+andjeered,1
+at,1

@@ -1,0 +1,12 @@
+27,404,4
+milk,1
+diet,1
+plus,1
+a,1
+loaf,1
+of,1
+bread,1
+and,1
+one,1
+ounce,1
+butter,1

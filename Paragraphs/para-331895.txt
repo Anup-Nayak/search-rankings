@@ -1,0 +1,12 @@
+86,313,4
+blessings,1
+from,1
+bapu,1
+sita,1
+gandhi,1
+rashtriya,1
+sevika,1
+class,1
+omari,1
+akola,1
+berar,1

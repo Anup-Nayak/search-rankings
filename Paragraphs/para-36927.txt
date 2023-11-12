@@ -1,0 +1,6 @@
+11,350,9
+consent,1
+nothing,1
+known,1
+before,1
+wednesday,1

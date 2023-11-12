@@ -1,0 +1,9 @@
+8,470,16
+accused,1
+i,1
+took,1
+to,2
+hawking,1
+defend,1
+my,1
+people,1

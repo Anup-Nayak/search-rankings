@@ -1,0 +1,5 @@
+68,382,3
+467,1
+a,1
+youths,1
+difficulty,1

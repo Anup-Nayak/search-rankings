@@ -1,0 +1,7 @@
+75,258,13
+helpful,1
+convinced,1
+best,1
+course,1
+national,1
+interest,1

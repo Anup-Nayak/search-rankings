@@ -1,0 +1,11 @@
+84,265,5
+r,1
+what,1
+is,1
+the,1
+relationship,1
+between,2
+god,2
+and,2
+man,1
+truth,1

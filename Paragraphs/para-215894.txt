@@ -1,0 +1,12 @@
+59,392,2
+bapu,1
+ps,1
+in,1
+all,2
+there,1
+are,2
+14,1
+letters,1
+they,1
+stitched,1
+together,1

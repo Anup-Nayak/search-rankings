@@ -1,0 +1,6 @@
+29,153,10
+present,1
+think,1
+therefore,1
+representative,1
+both,1

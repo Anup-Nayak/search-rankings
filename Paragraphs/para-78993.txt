@@ -1,0 +1,7 @@
+23,96,2
+42,1
+a,1
+non,1
+brahmin,1
+s,1
+complaint,1

@@ -1,0 +1,13 @@
+31,424,5
+m,1
+k,1
+gandhi,1
+sjt,1
+jitendranath,1
+kusary,1
+satyashram,1
+bahrok,1
+p,1
+o,1
+dacca,1
+dt,1

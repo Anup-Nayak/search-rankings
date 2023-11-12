@@ -1,0 +1,15 @@
+16,172,11
+2,1
+the,3
+mission,1
+authorities,1
+had,1
+refused,1
+her,1
+permission,1
+to,1
+spend,1
+christmas,1
+holidays,1
+at,1
+ashram,1

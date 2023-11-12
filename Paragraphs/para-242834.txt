@@ -1,0 +1,8 @@
+66,97,3
+127,1
+speech,1
+at,1
+jamia,1
+millia,1
+delhi,1
+1,1

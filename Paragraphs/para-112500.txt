@@ -1,0 +1,11 @@
+33,259,1
+how,1
+long,1
+do,1
+you,2
+think,1
+will,1
+take,1
+to,1
+learn,1
+it,1

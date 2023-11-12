@@ -1,0 +1,10 @@
+12,354,12
+parbhudas,1
+2,1
+fell,1
+ill,1
+west,1
+went,1
+to,1
+towngajjar,1
+came,1

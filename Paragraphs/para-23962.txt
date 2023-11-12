@@ -1,0 +1,5 @@
+8,136,5
+voluntary,1
+versus,1
+compulsory,1
+registration,1

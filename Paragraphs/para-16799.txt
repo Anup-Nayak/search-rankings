@@ -1,0 +1,11 @@
+6,149,4
+to,3
+lord,1
+elgin,1
+and,3
+myself,1
+perhaps,1
+other,2
+ministers,1
+persons,1
+will,1

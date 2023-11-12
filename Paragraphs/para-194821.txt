@@ -1,0 +1,6 @@
+54,463,14
+with,2
+all,2
+political,1
+parties,1
+and,1

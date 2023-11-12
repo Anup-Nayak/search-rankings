@@ -1,0 +1,17 @@
+74,94,5
+5,1
+my,1
+university,2
+bill,1
+demanding,1
+representation,1
+for,1
+muslims,1
+and,1
+depressed,1
+classes,1
+in,1
+the,1
+is,1
+turned,1
+down,1

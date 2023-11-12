@@ -1,0 +1,9 @@
+57,403,9
+1,1
+wife,1
+of,1
+a,1
+khadi,1
+worker,1
+from,1
+maharashtra,1

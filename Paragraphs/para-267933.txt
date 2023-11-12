@@ -1,0 +1,6 @@
+72,102,7
+142,1
+letter,1
+to,1
+jamubhai,1
+dani,1

@@ -1,0 +1,15 @@
+40,89,4
+48,1
+letter,1
+to,1
+ashram,1
+women,1
+silence,1
+day,1
+bhadarva,1
+vad,1
+1,1
+september,1
+12,1
+1927,1
+2,1

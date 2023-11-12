@@ -1,0 +1,4 @@
+91,42,3
+peaceful,1
+strikes,1
+1,1

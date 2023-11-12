@@ -1,0 +1,9 @@
+8,15,12
+1,1
+this,1
+was,1
+however,1
+declined,1
+by,1
+the,1
+authorities,1

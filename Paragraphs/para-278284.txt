@@ -1,0 +1,9 @@
+74,302,5
+from,1
+gujarati,1
+c,1
+w,1
+9794,1
+courtesy,1
+lilavati,1
+asar,1

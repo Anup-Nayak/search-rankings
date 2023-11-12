@@ -1,0 +1,13 @@
+40,294,4
+vandemataram,1
+from,1
+mohandas,1
+shree,1
+jethalaljee,1
+khadi,1
+karyalaya,1
+bijolia,1
+p,1
+mandalgadh,1
+mewar,1
+rajasthan,1

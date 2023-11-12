@@ -1,0 +1,15 @@
+74,192,3
+1,1
+vide,1
+if,1
+i,1
+were,1
+a,1
+czech,1
+15,1
+10,2
+1938,2
+and,1
+logical,1
+consequence,1
+8,1

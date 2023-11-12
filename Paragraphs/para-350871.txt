@@ -1,0 +1,6 @@
+91,37,4
+46,1
+letter,1
+to,1
+labanyalata,1
+chanda,1

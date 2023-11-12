@@ -1,0 +1,4 @@
+10,403,2
+white,1
+traders,1
+meanness,1

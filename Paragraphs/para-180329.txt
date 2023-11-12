@@ -1,0 +1,12 @@
+51,259,11
+militate,1
+very,1
+strongly,1
+against,1
+the,2
+development,1
+of,1
+latter,1
+in,1
+competition,1
+with,1

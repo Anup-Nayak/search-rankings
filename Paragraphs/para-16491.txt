@@ -1,0 +1,15 @@
+6,121,7
+the,2
+private,1
+secretary,2
+of,2
+winston,1
+churchill,1
+esq,1
+his,1
+majestys,1
+under,1
+state,1
+for,1
+colonies,1
+whitehall,1

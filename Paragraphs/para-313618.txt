@@ -1,0 +1,12 @@
+82,310,16
+ensure,1
+a,1
+supply,1
+of,1
+the,3
+commodity,1
+despite,1
+price,1
+fixed,1
+by,1
+government,1

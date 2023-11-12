@@ -1,0 +1,7 @@
+64,155,1
+depend,1
+on,1
+the,2
+verdict,1
+of,1
+voters,1

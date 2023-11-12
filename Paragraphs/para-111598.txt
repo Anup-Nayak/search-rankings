@@ -1,0 +1,15 @@
+33,124,9
+should,1
+keep,1
+a,1
+person,1
+belonging,1
+to,1
+some,1
+so,1
+called,1
+untouchable,1
+class,1
+mr,1
+gandhi,1
+was,1

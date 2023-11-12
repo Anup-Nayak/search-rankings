@@ -1,0 +1,5 @@
+29,10,2
+khadi,1
+association,1
+at,1
+amreli,1

@@ -1,0 +1,15 @@
+95,89,14
+fear,1
+or,1
+due,1
+to,2
+false,1
+propaganda,1
+come,1
+back,2
+they,1
+should,1
+win,1
+them,1
+by,1
+the,1

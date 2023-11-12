@@ -1,0 +1,15 @@
+12,455,3
+the,2
+following,1
+are,1
+sections,1
+7,1
+and,1
+8,1
+of,1
+orange,1
+free,1
+state,1
+constitution,1
+chapter,1
+xxxiii,1

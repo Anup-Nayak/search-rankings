@@ -1,0 +1,16 @@
+82,408,4
+include,1
+the,1
+freedom,1
+to,2
+be,1
+free,1
+we,1
+are,1
+asked,1
+fight,1
+for,1
+democracy,1
+in,1
+germany,1
+italy,1

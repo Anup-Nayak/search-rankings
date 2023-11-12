@@ -1,0 +1,12 @@
+18,57,8
+a,1
+any,1
+person,1
+born,1
+within,1
+h,1
+m,1
+s,1
+dominions,1
+and,1
+allegiance,1

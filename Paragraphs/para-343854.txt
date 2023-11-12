@@ -1,0 +1,16 @@
+89,147,4
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+ramamurti,1
+from,1
+a,1
+copy,1
+of,1
+the,1
+hindi,1
+pyarelal,2
+paperes,1
+courtesy,1

@@ -1,0 +1,17 @@
+71,267,8
+1,1
+dr,1
+w,1
+r,1
+aykroyed,1
+director,1
+of,1
+the,2
+nutrition,1
+research,1
+laboratories,1
+2,1
+superscription,1
+is,1
+in,1
+urdu,1

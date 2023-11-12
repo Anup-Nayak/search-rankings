@@ -1,0 +1,7 @@
+81,88,9
+166,1
+letter,1
+to,1
+iqbal,1
+krishan,1
+kapoor,1

@@ -1,0 +1,13 @@
+33,190,11
+1,1
+perin,1
+captain,2
+and,1
+nargis,1
+grand,1
+daughters,1
+of,1
+dadabhai,1
+naoroji,1
+2,1
+ibid,1

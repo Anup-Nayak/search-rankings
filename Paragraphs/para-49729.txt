@@ -1,0 +1,10 @@
+14,472,22
+32366,1
+delay,1
+in,1
+replying,1
+to,1
+your,1
+telegram,1
+29,1
+decem,1

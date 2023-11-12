@@ -1,0 +1,10 @@
+10,480,6
+m,1
+k,1
+gandhi,1
+count,1
+leo,1
+tolstoy,1
+yasnaya,1
+polyana,1
+russia,1

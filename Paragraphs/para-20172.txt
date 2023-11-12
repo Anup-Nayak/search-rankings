@@ -1,0 +1,9 @@
+7,54,4
+i,1
+shall,1
+take,1
+it,1
+out,1
+if,1
+others,1
+do,1

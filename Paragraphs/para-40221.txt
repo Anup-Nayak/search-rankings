@@ -1,0 +1,6 @@
+12,293,4
+phoenix,1
+natal,1
+december,1
+28,1
+1912,1

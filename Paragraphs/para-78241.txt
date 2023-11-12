@@ -1,0 +1,10 @@
+22,479,2
+259,1
+resolutions,1
+at,1
+a,1
+i,1
+c,2
+meeting,1
+bezwada,1
+2,1

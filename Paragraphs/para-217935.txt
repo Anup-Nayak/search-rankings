@@ -1,0 +1,7 @@
+60,111,3
+139,1
+letter,1
+to,1
+ann,1
+marie,1
+petersen,1

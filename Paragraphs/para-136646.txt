@@ -1,0 +1,9 @@
+40,19,4
+1,1
+at,1
+singarachari,1
+hall,1
+hindu,1
+high,1
+school,1
+triplicane,1

@@ -1,0 +1,15 @@
+78,229,6
+non,1
+violence,1
+demand,1
+that,2
+we,2
+should,1
+say,1
+to,1
+her,1
+while,1
+do,1
+not,1
+resile,1
+in,1

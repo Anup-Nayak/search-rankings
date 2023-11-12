@@ -1,0 +1,14 @@
+62,455,16
+two,1
+days,1
+per,1
+week,1
+preferably,1
+monday,1
+and,1
+tuesday,1
+will,1
+be,1
+free,1
+from,1
+travelling,1

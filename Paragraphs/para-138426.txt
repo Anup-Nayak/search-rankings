@@ -1,0 +1,6 @@
+40,339,4
+leaving,1
+ahmedabad,1
+tonight,1
+for,1
+bombay,1

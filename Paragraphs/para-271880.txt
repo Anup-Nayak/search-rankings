@@ -1,0 +1,7 @@
+73,59,4
+46,1
+letter,1
+to,1
+vijaya,1
+n,1
+patel,1

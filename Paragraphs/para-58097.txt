@@ -1,0 +1,13 @@
+16,465,12
+4,1
+the,3
+area,1
+under,1
+indigo,1
+at,1
+time,1
+of,2
+settlement,1
+1892,1
+99,1
+was,1

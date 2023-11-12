@@ -1,0 +1,9 @@
+53,42,13
+1,1
+vide,1
+proposed,1
+communal,1
+solution,1
+16,1
+7,1
+1931,1

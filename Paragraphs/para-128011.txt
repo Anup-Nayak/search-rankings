@@ -1,0 +1,12 @@
+37,312,14
+charity,1
+given,1
+at,1
+the,1
+wrong,1
+place,1
+and,2
+time,1
+to,1
+an,1
+undeserving,1

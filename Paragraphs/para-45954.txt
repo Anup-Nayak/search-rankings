@@ -1,0 +1,5 @@
+14,10,17
+ordinarily,1
+humane,1
+treatment,2
+prison,1

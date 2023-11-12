@@ -1,0 +1,13 @@
+97,19,12
+1,1
+dr,1
+john,1
+r,1
+mott,1
+american,1
+evangelist,1
+chairman,1
+international,1
+missio,1
+nary,1
+council,1

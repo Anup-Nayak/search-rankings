@@ -1,0 +1,7 @@
+50,138,7
+thursday,1
+evening,1
+october,1
+16,1
+1930,1
+1,1

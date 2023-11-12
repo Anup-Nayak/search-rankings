@@ -1,0 +1,15 @@
+30,219,3
+q,1
+did,1
+you,1
+go,1
+to,1
+the,1
+d,1
+c,1
+before,1
+that,1
+and,1
+ask,1
+his,1
+help,1

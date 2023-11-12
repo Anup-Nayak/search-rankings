@@ -1,0 +1,11 @@
+74,312,4
+q,1
+is,1
+there,1
+any,1
+place,1
+for,1
+supplication,1
+in,1
+your,1
+prayer,1

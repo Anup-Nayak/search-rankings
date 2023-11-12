@@ -1,0 +1,15 @@
+16,488,15
+the,2
+progress,1
+towards,1
+goal,1
+shall,1
+be,1
+reasonably,1
+rapid,1
+we,1
+hope,1
+that,1
+this,1
+point,1
+will,1

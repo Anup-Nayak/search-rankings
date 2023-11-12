@@ -1,0 +1,17 @@
+70,203,12
+your,1
+letter,1
+ba,1
+i,2
+expect,1
+on,1
+24th,1
+it,1
+is,1
+well,1
+did,1
+not,1
+bring,1
+her,1
+with,1
+me,1

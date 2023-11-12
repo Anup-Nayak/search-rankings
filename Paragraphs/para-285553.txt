@@ -1,0 +1,7 @@
+76,191,5
+urgent,1
+work,1
+demands,1
+exhausting,1
+journey,1
+from,1

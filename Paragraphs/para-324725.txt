@@ -1,0 +1,5 @@
+85,97,7
+bapu,1
+thakkar,1
+bapa,1
+delhi,1

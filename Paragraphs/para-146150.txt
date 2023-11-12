@@ -1,0 +1,6 @@
+42,375,11
+take,1
+rest,1
+medical,1
+treatment,1
+there,1

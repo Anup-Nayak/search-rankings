@@ -1,0 +1,6 @@
+47,456,1
+521,1
+draft,1
+resolution,1
+for,1
+congress,1

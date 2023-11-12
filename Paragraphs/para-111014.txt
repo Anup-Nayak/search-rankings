@@ -1,0 +1,9 @@
+33,21,20
+concluding,1
+the,3
+speaker,1
+appealed,1
+to,3
+people,1
+present,1
+contribute,1

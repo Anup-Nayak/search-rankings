@@ -1,0 +1,10 @@
+31,70,6
+operation,1
+with,1
+all,1
+parties,1
+any,1
+day,1
+is,1
+possible,1
+on,1

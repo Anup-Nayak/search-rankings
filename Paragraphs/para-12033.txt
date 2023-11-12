@@ -1,0 +1,7 @@
+5,23,2
+the,1
+entry,1
+of,1
+special,1
+clerks,1
+etc,1

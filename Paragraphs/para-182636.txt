@@ -1,0 +1,7 @@
+52,57,8
+hand,2
+spun,1
+and,1
+woven,1
+in,1
+kashmir,1

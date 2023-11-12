@@ -1,0 +1,14 @@
+78,206,10
+the,1
+temperature,1
+was,1
+108,1
+he,1
+laughed,1
+uproariously,1
+at,1
+my,1
+obvious,1
+retort,1
+it,1
+is,1

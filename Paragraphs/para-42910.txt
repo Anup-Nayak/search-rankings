@@ -1,0 +1,9 @@
+13,144,10
+stop,1
+bill,1
+as,1
+amended,1
+yesterday,1
+does,1
+not,1
+solve,1

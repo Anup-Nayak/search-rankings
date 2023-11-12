@@ -1,0 +1,7 @@
+67,275,6
+doesnt,1
+the,1
+teacher,1
+joshi,1
+wear,1
+khadi,1

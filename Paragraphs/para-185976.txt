@@ -1,0 +1,15 @@
+52,423,22
+fight,1
+men,1
+and,1
+women,1
+volunteered,1
+their,1
+services,1
+for,1
+this,2
+work,1
+but,1
+now,1
+task,1
+had,1

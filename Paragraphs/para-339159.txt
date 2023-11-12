@@ -1,0 +1,11 @@
+88,98,7
+pulsion,1
+in,2
+demanding,1
+part,1
+of,3
+the,2
+price,1
+khadi,1
+form,1
+yarn,1

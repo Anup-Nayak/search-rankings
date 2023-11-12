@@ -1,0 +1,7 @@
+78,94,10
+92,1
+telegram,1
+to,1
+mrs,1
+yakub,1
+hasan,1

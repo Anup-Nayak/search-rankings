@@ -1,0 +1,16 @@
+4,201,6
+this,1
+is,1
+a,2
+brief,1
+report,1
+of,1
+gandhijis,1
+speech,1
+at,1
+johannesburg,1
+function,1
+to,2
+bid,1
+farewell,1
+ritch,1

@@ -1,0 +1,6 @@
+20,229,3
+44,1
+the,2
+cause,1
+of,1
+vernaculars,1

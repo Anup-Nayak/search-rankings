@@ -1,0 +1,10 @@
+38,112,7
+sjt,1
+kshitish,1
+babu,1
+170,1
+bow,1
+bazar,1
+street,1
+calcutta,1
+enclosure,1

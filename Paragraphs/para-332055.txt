@@ -1,0 +1,15 @@
+86,329,4
+blessings,1
+from,1
+bapu,1
+shri,1
+parachure,1
+shastri,1
+maharogi,1
+seva,1
+mandal,1
+dattapur,1
+nalvadi,1
+p,1
+o,1
+wardha,1

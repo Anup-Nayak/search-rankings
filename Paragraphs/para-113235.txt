@@ -1,0 +1,16 @@
+33,344,15
+that,1
+it,1
+is,2
+racial,1
+in,1
+character,1
+and,1
+calculated,1
+not,1
+only,1
+to,1
+make,1
+the,1
+position,1
+of,1

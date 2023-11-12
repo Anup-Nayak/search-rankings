@@ -1,0 +1,8 @@
+11,299,4
+at,1
+satisfactory,1
+solution,1
+am,1
+repeating,1
+my,1
+reply,1

@@ -1,0 +1,16 @@
+73,441,11
+2,1
+the,2
+dewan,1
+in,1
+his,1
+statement,1
+had,1
+said,1
+mahatma,1
+gandhi,1
+is,1
+thoroughly,1
+unaware,1
+of,1
+facts,1

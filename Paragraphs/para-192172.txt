@@ -1,0 +1,12 @@
+54,161,6
+q,1
+what,1
+is,1
+then,1
+left,1
+for,1
+the,1
+constituent,1
+assembly,1
+to,1
+decide,1

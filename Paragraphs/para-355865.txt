@@ -1,0 +1,7 @@
+92,139,2
+195,1
+telegram,1
+to,1
+manager,1
+sevagram,1
+ashram,1

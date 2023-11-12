@@ -1,0 +1,6 @@
+29,4,6
+maulana,1
+shaukat,1
+ali,1
+in,1
+kathiawar,1

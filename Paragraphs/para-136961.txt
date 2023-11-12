@@ -1,0 +1,7 @@
+40,79,3
+40,1
+replies,1
+to,1
+a,1
+students,1
+questions,1

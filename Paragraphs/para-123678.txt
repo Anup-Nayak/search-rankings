@@ -1,0 +1,9 @@
+36,271,6
+mohandas,1
+gandhi,1
+bhai,1
+krishnakant,1
+malaviya,1
+abhyudaya,1
+press,1
+allahabad,1

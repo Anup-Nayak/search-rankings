@@ -1,0 +1,16 @@
+82,194,4
+blessings,1
+from,1
+bapu,1
+shri,1
+annapurna,1
+swarajya,1
+ashram,1
+bardoli,1
+tapti,1
+v,1
+rly,2
+b,2
+&,1
+c,1
+i,1

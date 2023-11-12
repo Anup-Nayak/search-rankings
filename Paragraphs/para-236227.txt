@@ -1,0 +1,12 @@
+64,324,4
+that,1
+he,2
+had,2
+consulted,1
+trustees,1
+when,1
+not,1
+done,1
+so,1
+from,1
+gujarati,1

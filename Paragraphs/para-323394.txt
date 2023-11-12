@@ -1,0 +1,12 @@
+84,437,2
+w,2
+you,1
+want,1
+us,1
+to,1
+feel,1
+indignant,1
+and,1
+yet,1
+sit,1
+quiet,1

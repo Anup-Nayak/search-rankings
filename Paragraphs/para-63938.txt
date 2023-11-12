@@ -1,0 +1,11 @@
+18,160,2
+m,1
+k,1
+gandhi,1
+from,1
+a,1
+printed,1
+copy,1
+s,1
+n,1
+6662,1

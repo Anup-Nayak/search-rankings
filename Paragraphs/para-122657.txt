@@ -1,0 +1,6 @@
+36,154,4
+money,1
+for,1
+general,1
+khadi,1
+work,1

@@ -1,0 +1,10 @@
+14,21,13
+22,1
+speech,1
+at,1
+reception,1
+to,1
+c,1
+f,1
+andrews,1
+2,1

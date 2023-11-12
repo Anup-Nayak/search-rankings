@@ -1,0 +1,13 @@
+54,312,4
+but,1
+this,1
+opinion,1
+may,1
+be,1
+due,1
+to,2
+the,2
+wish,1
+being,1
+father,1
+thought,1

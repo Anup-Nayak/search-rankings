@@ -1,0 +1,14 @@
+38,312,9
+1,1
+a,1
+few,1
+words,1
+are,1
+illegible,1
+at,1
+each,1
+of,1
+these,1
+places,1
+2,1
+ibid,1

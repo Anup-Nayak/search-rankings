@@ -1,0 +1,4 @@
+12,349,15
+november,1
+14,1
+thursday,1

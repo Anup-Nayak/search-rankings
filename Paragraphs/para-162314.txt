@@ -1,0 +1,13 @@
+46,460,24
+cow,1
+protection,1
+in,1
+india,1
+has,1
+not,1
+been,1
+placed,1
+on,1
+a,1
+satisfactory,1
+footing,1

@@ -1,0 +1,15 @@
+32,210,1
+young,1
+india,1
+of,1
+july,1
+16,1
+the,2
+friend,1
+tells,1
+me,1
+that,1
+i,1
+misunderstood,1
+second,1
+question,1

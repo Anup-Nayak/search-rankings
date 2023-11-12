@@ -1,0 +1,13 @@
+34,372,10
+lethargy,1
+the,1
+village,1
+is,1
+a,1
+living,1
+entity,1
+you,1
+cannot,1
+neglect,1
+any,1
+one,1

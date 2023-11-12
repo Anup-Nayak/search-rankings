@@ -1,0 +1,8 @@
+76,70,6
+have,1
+been,1
+just,1
+supplied,1
+with,1
+talchers,1
+revised,1

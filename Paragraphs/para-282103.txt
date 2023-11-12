@@ -1,0 +1,7 @@
+75,273,8
+am,1
+against,1
+proclaiming,1
+days,1
+for,1
+grievances,1

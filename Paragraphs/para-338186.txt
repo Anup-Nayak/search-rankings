@@ -1,0 +1,10 @@
+88,18,7
+blessings,1
+from,1
+bapu,1
+badshah,1
+khan,1
+charsadda,1
+post,1
+frontier,1
+province,1

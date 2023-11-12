@@ -1,0 +1,11 @@
+47,167,2
+fasting,1
+or,1
+true,1
+conduct,1
+a,1
+reader,1
+writes,1
+to,1
+say,1
+1,1

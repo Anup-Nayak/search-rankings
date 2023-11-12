@@ -1,0 +1,11 @@
+95,415,15
+1vide,1
+speech,1
+at,1
+congress,1
+working,1
+committee,1
+meeting,1
+2,1
+6,1
+1947,1

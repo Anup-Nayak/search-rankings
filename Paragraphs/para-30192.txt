@@ -1,0 +1,14 @@
+10,35,4
+m,1
+k,1
+gandhi,1
+the,1
+honourable,1
+w,2
+p,1
+schreiner,1
+morleys,1
+hotel,1
+trafalgar,1
+square,1
+c,1

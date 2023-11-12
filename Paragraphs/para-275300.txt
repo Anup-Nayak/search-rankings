@@ -1,0 +1,8 @@
+73,428,9
+dutt,1
+2,1
+political,1
+prisoner,1
+lodged,1
+bihar,1
+province,1

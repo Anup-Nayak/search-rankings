@@ -1,0 +1,15 @@
+27,408,19
+dining,1
+saloon,1
+at,1
+the,2
+same,1
+place,1
+this,1
+time,1
+it,1
+was,1
+not,1
+touched,1
+and,1
+so,1

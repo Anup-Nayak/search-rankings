@@ -1,0 +1,11 @@
+18,91,4
+1,1
+a,1
+kind,1
+of,1
+cloth,1
+used,1
+by,1
+women,1
+in,1
+kathiawar,1

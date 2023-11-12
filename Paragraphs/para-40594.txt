@@ -1,0 +1,11 @@
+12,325,2
+valji,1
+k,1
+&,3
+gordon,1
+leftdano,1
+bhago,1
+also,1
+edlestein,1
+came,1
+left,1

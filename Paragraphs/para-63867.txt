@@ -1,0 +1,14 @@
+18,146,12
+19,1
+average,1
+no,1
+of,1
+workmen,1
+re,1
+quired,1
+for,1
+spinning,1
+as,2
+well,1
+weaving,1
+mills,1

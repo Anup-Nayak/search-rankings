@@ -1,0 +1,10 @@
+14,465,21
+indians,1
+working,1
+coal,1
+mines,1
+and,1
+on,1
+south,1
+coast,1
+about,1

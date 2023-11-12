@@ -1,0 +1,8 @@
+80,482,17
+i,1
+cultivating,1
+love,1
+of,1
+ones,1
+own,1
+language,1

@@ -1,0 +1,16 @@
+61,99,8
+may,1
+6,1
+1933,1
+i,2
+am,1
+not,2
+anxious,1
+to,1
+die,2
+will,1
+dont,1
+worry,1
+yourself,1
+about,1
+me,1

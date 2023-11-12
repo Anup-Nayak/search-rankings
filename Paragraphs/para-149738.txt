@@ -1,0 +1,4 @@
+43,315,8
+free,1
+press,2
+associated,1

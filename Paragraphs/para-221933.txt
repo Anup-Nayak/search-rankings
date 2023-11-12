@@ -1,0 +1,10 @@
+61,93,13
+they,1
+and,2
+all,1
+should,1
+cleanse,1
+themselves,1
+in,1
+speech,1
+deed,1

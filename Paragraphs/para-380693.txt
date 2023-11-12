@@ -1,0 +1,8 @@
+98,432,9
+558,1
+silence,1
+day,1
+note,1
+to,1
+amrit,1
+kaur,1

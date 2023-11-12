@@ -1,0 +1,5 @@
+15,75,1
+80,1
+speech,1
+at,1
+viramgam,1

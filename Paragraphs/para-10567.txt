@@ -1,0 +1,12 @@
+4,300,6
+johannesburg,2
+june,1
+2,1
+1905,1
+to,1
+h,1
+j,1
+hofmeyr,1
+esq,1
+zimans,1
+bldgs,1

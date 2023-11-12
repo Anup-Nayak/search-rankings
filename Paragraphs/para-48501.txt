@@ -1,0 +1,7 @@
+14,347,4
+282,1
+speech,1
+at,2
+reception,1
+darbargadh,1
+1,1

@@ -1,0 +1,13 @@
+42,81,4
+114,1
+draft,1
+of,1
+letter,1
+to,1
+sir,1
+leslie,1
+wilson,1
+june,1
+7,1
+1928,1
+1,1

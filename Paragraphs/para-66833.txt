@@ -1,0 +1,10 @@
+19,143,1
+this,1
+last,1
+day,1
+in,1
+lahore,1
+before,1
+my,1
+voyage,1
+out,1

@@ -1,0 +1,14 @@
+64,234,9
+in,1
+the,2
+end,1
+he,1
+was,1
+asked,1
+why,1
+clause,1
+of,2
+habitual,1
+wearer,1
+khadi,1
+for,1

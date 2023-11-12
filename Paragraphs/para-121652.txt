@@ -1,0 +1,6 @@
+36,38,3
+39,1
+towards,1
+moral,1
+bankruptcy,1
+iii,1

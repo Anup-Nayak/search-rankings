@@ -1,0 +1,13 @@
+57,166,5
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+urdu,1
+in,1
+mahatma,1
+vol,1
+ii,1
+facing,1
+p,1

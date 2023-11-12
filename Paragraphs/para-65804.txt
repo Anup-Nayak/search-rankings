@@ -1,0 +1,7 @@
+19,3,2
+ashram,1
+sabharmati,1
+wednesday,1
+september,1
+1919,1
+1,1

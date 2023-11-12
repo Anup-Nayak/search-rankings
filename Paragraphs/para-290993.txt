@@ -1,0 +1,15 @@
+77,395,5
+jaju,1
+it,2
+is,1
+not,1
+a,1
+question,1
+of,1
+breaking,1
+up,1
+we,1
+are,1
+reorganizing,1
+even,1
+those,1

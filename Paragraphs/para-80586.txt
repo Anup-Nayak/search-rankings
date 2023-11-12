@@ -1,0 +1,5 @@
+23,379,15
+the,1
+beginning,1
+of,1
+responsibility,1

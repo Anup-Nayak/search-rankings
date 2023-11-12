@@ -1,0 +1,12 @@
+58,341,10
+mohandas,1
+gandhi,1
+shri,1
+sohanlal,1
+sharma,1
+hindu,1
+mahasabha,1
+pushkar,1
+near,1
+ajmer,1
+rajputana,1

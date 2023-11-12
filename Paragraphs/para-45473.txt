@@ -1,0 +1,12 @@
+13,447,13
+section,2
+1,1
+4,1
+first,1
+point,1
+you,1
+raise,1
+appears,1
+is,1
+covered,1
+by,1

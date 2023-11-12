@@ -1,0 +1,15 @@
+78,141,12
+on,1
+the,1
+friendliest,1
+terms,1
+with,1
+its,1
+neighbours,1
+whether,1
+they,1
+be,1
+great,1
+powers,1
+or,1
+small,1

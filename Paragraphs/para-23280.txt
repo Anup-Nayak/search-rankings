@@ -1,0 +1,12 @@
+8,40,13
+cross,1
+examined,1
+by,1
+mr,1
+schuurman,1
+how,1
+long,1
+have,1
+you,1
+been,1
+here,1

@@ -1,0 +1,17 @@
+80,442,9
+my,1
+dear,1
+amritlal,1
+i,2
+am,1
+sorry,1
+for,1
+your,2
+troubles,1
+hope,1
+daughter,1
+is,1
+out,1
+of,1
+the,1
+wood,1

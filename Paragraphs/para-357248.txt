@@ -1,0 +1,5 @@
+92,287,1
+416,1
+uncertified,1
+but,1
+genuine,1

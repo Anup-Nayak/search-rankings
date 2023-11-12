@@ -1,0 +1,6 @@
+29,238,8
+197,1
+letter,1
+to,1
+mahomed,1
+ali,1

@@ -1,0 +1,13 @@
+57,406,13
+mohandas,1
+gandhi,1
+shri,1
+keshoram,1
+tandon,1
+jamuna,1
+coal,1
+trading,1
+co,1
+farukhabad,1
+u,1
+p,1

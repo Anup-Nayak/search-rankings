@@ -1,0 +1,7 @@
+24,464,2
+224,1
+speech,1
+on,1
+swadeshi,1
+ahmedabad,1
+2,1

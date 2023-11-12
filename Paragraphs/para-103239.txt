@@ -1,0 +1,13 @@
+30,243,1
+you,1
+mean,1
+to,1
+say,1
+that,1
+the,1
+experiment,1
+was,1
+not,1
+tried,1
+long,1
+enough,1

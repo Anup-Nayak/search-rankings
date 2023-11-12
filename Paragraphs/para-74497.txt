@@ -1,0 +1,13 @@
+21,346,5
+what,1
+should,1
+people,1
+do,1
+if,1
+the,2
+government,1
+forced,1
+national,1
+schools,1
+to,1
+close,1

@@ -1,0 +1,6 @@
+53,36,11
+working,1
+committee,1
+is,1
+considering,1
+resolution,1

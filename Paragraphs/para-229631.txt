@@ -1,0 +1,7 @@
+63,42,2
+42,1
+letter,1
+to,1
+lakshmi,1
+narayan,1
+agrawal,1

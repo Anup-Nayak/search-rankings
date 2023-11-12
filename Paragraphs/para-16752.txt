@@ -1,0 +1,12 @@
+6,145,11
+population,2
+in,1
+south,1
+africa,1
+and,1
+especially,1
+of,2
+the,1
+growth,1
+i,1
+am,1

@@ -1,0 +1,8 @@
+27,394,8
+4,1
+daughter,1
+of,1
+harilal,1
+gandhi,2
+5,1
+kasturba,1

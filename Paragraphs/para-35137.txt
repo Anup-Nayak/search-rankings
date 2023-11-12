@@ -1,0 +1,12 @@
+11,188,5
+i,1
+must,1
+not,1
+omit,1
+to,1
+mention,1
+how,1
+thankful,1
+the,1
+passive,1
+resisters,1

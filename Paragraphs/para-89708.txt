@@ -1,0 +1,4 @@
+26,391,4
+lesson,1
+11,1
+housework,1

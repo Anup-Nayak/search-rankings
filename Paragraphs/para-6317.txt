@@ -1,0 +1,16 @@
+3,32,2
+natal,2
+contrary,1
+to,1
+expectations,1
+the,3
+bill,1
+taxing,1
+children,1
+of,1
+indentured,1
+parents,1
+has,1
+received,1
+royal,1
+assent,1

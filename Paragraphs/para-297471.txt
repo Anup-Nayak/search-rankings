@@ -1,0 +1,6 @@
+79,200,7
+are,1
+not,1
+all,1
+fasts,1
+violent,1

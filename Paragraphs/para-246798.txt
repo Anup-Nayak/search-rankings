@@ -1,0 +1,16 @@
+67,0,10
+1,1
+the,2
+addressee,1
+was,1
+not,1
+allowed,1
+to,1
+enter,1
+akola,1
+district,2
+under,1
+an,1
+order,1
+from,1
+magistrate,1

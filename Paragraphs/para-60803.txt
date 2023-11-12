@@ -1,0 +1,11 @@
+17,238,27
+1,1
+sent,1
+by,1
+gandhiji,1
+as,1
+president,1
+of,1
+the,1
+gujarat,1
+sabha,1

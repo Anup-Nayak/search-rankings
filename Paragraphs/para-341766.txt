@@ -1,0 +1,10 @@
+88,343,12
+2,1
+the,3
+verse,1
+from,1
+koran,1
+included,1
+in,1
+ashram,1
+prayer,1

@@ -1,0 +1,9 @@
+92,39,6
+from,1
+microfilm,1
+of,1
+the,1
+gujarati,1
+m,2
+u,1
+/xxiii,1

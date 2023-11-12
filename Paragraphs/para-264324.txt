@@ -1,0 +1,6 @@
+71,111,4
+128,1
+letter,1
+to,1
+bhujangilal,1
+chhaya,1

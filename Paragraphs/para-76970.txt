@@ -1,0 +1,13 @@
+22,258,3
+mr,2
+sita,1
+ram,1
+in,2
+a,1
+somewhat,1
+angry,1
+letter,1
+reply,1
+to,1
+foy,1
+1,1

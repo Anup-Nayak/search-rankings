@@ -1,0 +1,15 @@
+62,286,3
+from,1
+a,1
+photostat,1
+g,2
+n,1
+1476,1
+314,1
+letter,1
+to,1
+horace,1
+alexander,1
+december,1
+15,1
+1933,1

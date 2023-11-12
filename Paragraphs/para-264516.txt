@@ -1,0 +1,12 @@
+71,133,10
+electorate,1
+is,1
+sound,1
+if,1
+it,1
+can,1
+be,1
+proved,1
+workable,1
+and,1
+not,1

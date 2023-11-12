@@ -1,0 +1,8 @@
+13,448,17
+fall,1
+under,1
+the,1
+exemption,1
+regarding,1
+declaration,1
+as,1

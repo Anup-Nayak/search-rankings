@@ -1,0 +1,6 @@
+5,235,10
+new,1
+law,1
+for,1
+the,1
+municipality,1

@@ -1,0 +1,6 @@
+78,353,14
+thy,2
+heavy,1
+shoes,1
+comb,1
+hair,1

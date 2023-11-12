@@ -1,0 +1,5 @@
+45,42,1
+40,1
+a,1
+demoniacal,1
+system,1

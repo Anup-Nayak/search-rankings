@@ -1,0 +1,6 @@
+5,125,4
+118,1
+under,1
+population,1
+in,1
+australia,1

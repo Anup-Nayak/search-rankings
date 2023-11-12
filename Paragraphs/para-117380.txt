@@ -1,0 +1,6 @@
+35,5,9
+11,1
+letter,1
+to,1
+helene,1
+haussding,1

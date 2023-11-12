@@ -1,0 +1,7 @@
+46,464,2
+m,1
+r,1
+j,1
+mahatma,1
+gandhi,1
+sabarmati,1

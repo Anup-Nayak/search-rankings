@@ -1,0 +1,9 @@
+64,349,10
+bapu,1
+shri,1
+kashibehn,1
+gandhi,1
+udyogalaya,1
+vijapur,1
+baroda,1
+state,1

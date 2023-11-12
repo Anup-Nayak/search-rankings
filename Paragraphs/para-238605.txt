@@ -1,0 +1,6 @@
+65,120,9
+151,1
+letter,1
+to,1
+khurshedbehn,1
+naoroji,1

@@ -1,0 +1,6 @@
+66,111,1
+143,1
+questions,1
+and,1
+answers,1
+1,1

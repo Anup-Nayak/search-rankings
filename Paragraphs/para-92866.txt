@@ -1,0 +1,11 @@
+27,342,5
+1,1
+village,1
+in,1
+the,1
+surat,1
+district,1
+of,1
+gujarat,1
+2,1
+ibid,1

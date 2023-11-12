@@ -1,0 +1,3 @@
+39,105,2
+indecent,1
+advertisements,1

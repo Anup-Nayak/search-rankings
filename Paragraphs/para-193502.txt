@@ -1,0 +1,9 @@
+54,346,21
+if,1
+not,1
+met,1
+with,1
+stubborn,1
+resistance,1
+result,1
+in,1

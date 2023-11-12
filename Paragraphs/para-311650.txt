@@ -1,0 +1,15 @@
+82,149,17
+instructions,1
+of,1
+the,1
+working,1
+committee,1
+are,1
+not,1
+to,1
+be,2
+strictly,1
+carried,1
+out,1
+it,1
+would,1

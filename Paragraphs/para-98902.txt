@@ -1,0 +1,8 @@
+29,186,26
+a,1
+mist,1
+around,1
+the,1
+glow,1
+of,1
+heaven,1

@@ -1,0 +1,6 @@
+86,134,6
+1,1
+a,1
+harijan,1
+welfare,1
+worker,1

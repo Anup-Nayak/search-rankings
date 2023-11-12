@@ -1,0 +1,16 @@
+97,342,5
+1,1
+the,2
+name,1
+is,1
+omitted,1
+in,1
+source,1
+2,1
+from,1
+lead,1
+kindly,1
+light,1
+by,1
+cardinal,1
+newman,1

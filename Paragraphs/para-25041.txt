@@ -1,0 +1,12 @@
+8,336,2
+johannesburg,1
+may,1
+23,1
+1908,1
+m,1
+chamney,1
+esq,1
+registrar,1
+of,1
+asiatics,1
+pretoria,1

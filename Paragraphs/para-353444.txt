@@ -1,0 +1,12 @@
+91,321,7
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+rama,1
+shetty,1
+president,1
+town,1
+congress,1
+trichinopoly,1

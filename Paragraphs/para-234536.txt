@@ -1,0 +1,6 @@
+64,132,21
+172,1
+letter,1
+to,1
+balukaka,1
+kanitkar,1

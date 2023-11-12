@@ -1,0 +1,17 @@
+23,303,5
+man,1
+was,1
+a,1
+selfish,1
+creature,1
+and,1
+if,1
+the,1
+japanese,1
+found,1
+that,1
+they,1
+could,1
+not,1
+send,1
+their,1

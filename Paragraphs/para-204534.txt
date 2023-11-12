@@ -1,0 +1,10 @@
+57,157,5
+not,1
+opened,1
+expect,1
+you,1
+and,1
+friends,1
+concentrate,1
+on,1
+opening,1

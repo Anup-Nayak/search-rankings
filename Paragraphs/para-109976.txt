@@ -1,0 +1,6 @@
+32,367,2
+a,1
+friend,1
+writes,1
+from,1
+purulia,1

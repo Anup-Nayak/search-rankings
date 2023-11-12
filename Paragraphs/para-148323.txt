@@ -1,0 +1,9 @@
+43,145,7
+messrs,1
+svenska,1
+kyrkans,1
+diakonistyrelses,1
+hokforlag,1
+stockholm,1
+7,1
+sweden,1

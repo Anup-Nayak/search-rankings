@@ -1,0 +1,6 @@
+97,481,2
+extract,1
+from,2
+letter,1
+pyarelal,1
+1,1

@@ -1,0 +1,11 @@
+84,30,7
+dear,1
+khan,1
+bahadur,1
+you,1
+have,1
+given,1
+me,1
+the,1
+following,1
+memorandum,1

@@ -1,0 +1,7 @@
+17,376,11
+your,1
+wire3,1
+received,1
+pray,1
+wire,1
+whether,1

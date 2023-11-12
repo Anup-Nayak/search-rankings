@@ -1,0 +1,10 @@
+22,150,3
+the,2
+interpreter,1
+is,1
+however,1
+more,1
+to,1
+point,1
+in,1
+asking,1

@@ -1,0 +1,8 @@
+94,312,5
+314,1
+talk,1
+with,1
+syed,1
+jafar,1
+imam,1
+1,1

@@ -1,0 +1,9 @@
+57,244,5
+i,1
+remain,1
+your,1
+servant,1
+mohandas,1
+gandhi,1
+from,1
+hindi,1

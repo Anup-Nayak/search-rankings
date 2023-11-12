@@ -1,0 +1,6 @@
+43,12,7
+6,1
+letter,1
+to,1
+brijkrishana,1
+chandiwala,1

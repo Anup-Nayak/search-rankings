@@ -1,0 +1,7 @@
+18,162,12
+execution,1
+death,1
+sentences,1
+be,1
+stayed,1
+pending,1

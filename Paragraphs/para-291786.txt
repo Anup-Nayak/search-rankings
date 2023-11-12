@@ -1,0 +1,4 @@
+78,22,1
+mill,1
+yarn,1
+khadi,1

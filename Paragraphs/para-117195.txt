@@ -1,0 +1,7 @@
+34,492,6
+256,1
+letter,1
+to,1
+binode,1
+behari,1
+dutt,1

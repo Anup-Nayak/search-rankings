@@ -1,0 +1,9 @@
+40,130,4
+1,1
+only,1
+very,1
+few,1
+were,2
+raised,2
+2,1
+many,1

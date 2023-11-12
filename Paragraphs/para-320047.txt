@@ -1,0 +1,13 @@
+84,77,12
+1,1
+elder,1
+sister,1
+of,1
+manu,1
+gandhi,1
+2,1
+omission,1
+as,1
+in,1
+the,1
+source,1

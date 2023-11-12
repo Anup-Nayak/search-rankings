@@ -1,0 +1,6 @@
+71,50,7
+kaka,1
+kalelkar,1
+harijan,1
+hostel,1
+wardha,1

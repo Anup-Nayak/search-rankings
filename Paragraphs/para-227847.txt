@@ -1,0 +1,7 @@
+62,270,9
+2,1
+younger,1
+brother,1
+of,1
+jayaprakash,1
+narayan,1

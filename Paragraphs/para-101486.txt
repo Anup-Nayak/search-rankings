@@ -1,0 +1,10 @@
+30,8,3
+10,1
+speech,1
+announcing,1
+results,1
+of,1
+spinning,1
+competition,1
+belgaum,1
+congress,1

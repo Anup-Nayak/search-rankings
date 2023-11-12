@@ -1,0 +1,11 @@
+46,89,7
+a,1
+the,3
+foreign,1
+cloth,1
+boycott,1
+committee,1
+notes,1
+response,1
+made,1
+by,1

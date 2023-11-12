@@ -1,0 +1,8 @@
+18,101,1
+87,1
+circular,1
+letter,1
+on,1
+kalinath,1
+roys,1
+case,1

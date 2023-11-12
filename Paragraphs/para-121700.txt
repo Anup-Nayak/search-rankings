@@ -1,0 +1,17 @@
+36,46,7
+kirby,1
+page,1
+esq,1
+editor,1
+of,1
+the,1
+world,1
+tomorrow,1
+347,1
+madison,1
+avenue,1
+new,1
+york,1
+u,1
+s,1
+a,1

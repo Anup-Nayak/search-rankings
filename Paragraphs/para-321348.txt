@@ -1,0 +1,12 @@
+84,213,1
+normal,1
+activity,1
+of,1
+the,2
+congress,1
+not,1
+satyagraha,1
+do,1
+you,1
+get,1
+difference,1

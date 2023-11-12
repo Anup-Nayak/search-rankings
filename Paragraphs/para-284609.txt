@@ -1,0 +1,8 @@
+76,88,6
+112,1
+war,1
+spurs,1
+invention,1
+of,1
+new,1
+machine,1

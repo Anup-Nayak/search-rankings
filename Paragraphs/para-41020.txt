@@ -1,0 +1,7 @@
+12,353,20
+left,1
+for,1
+durban,1
+by,1
+morning,1
+train,1

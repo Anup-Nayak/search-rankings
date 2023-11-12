@@ -1,0 +1,8 @@
+66,439,19
+g,1
+when,1
+you,3
+feel,1
+hungry,1
+eat,1
+dont,1

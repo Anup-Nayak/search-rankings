@@ -1,0 +1,6 @@
+74,237,3
+hope,1
+despondency,1
+gone,1
+cheerfulness,1
+returned,1

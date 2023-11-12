@@ -1,0 +1,8 @@
+14,11,17
+acts,1
+military,1
+other,1
+ill,1
+treatment,1
+but,1
+community,1

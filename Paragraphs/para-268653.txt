@@ -1,0 +1,9 @@
+72,184,8
+me,1
+greatly,1
+achieve,1
+common,1
+object,1
+i,1
+personally,1
+accept,1

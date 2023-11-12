@@ -1,0 +1,6 @@
+76,331,2
+a,1
+polish,1
+sisters,1
+1,1
+agony,1

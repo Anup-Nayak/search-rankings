@@ -1,0 +1,11 @@
+31,228,19
+to,2
+the,1
+person,1
+whom,1
+you,1
+now,1
+consider,1
+be,1
+your,1
+enemy,1

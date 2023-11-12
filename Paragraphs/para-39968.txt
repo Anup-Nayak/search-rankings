@@ -1,0 +1,14 @@
+12,256,1
+the,1
+journal,1
+itself,1
+has,1
+not,1
+been,1
+self,1
+supporting,1
+is,1
+a,1
+widely,1
+known,1
+fact,1

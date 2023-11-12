@@ -1,0 +1,6 @@
+58,189,5
+264,1
+statement,1
+on,1
+untouchability,1
+xi,1

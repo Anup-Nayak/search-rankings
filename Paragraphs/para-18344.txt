@@ -1,0 +1,3 @@
+6,345,8
+association,1
+meeting,1

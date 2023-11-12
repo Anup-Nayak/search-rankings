@@ -1,0 +1,12 @@
+89,241,3
+sumi,1
+i,2
+will,1
+not,1
+reply,1
+separately,1
+how,1
+can,1
+spare,1
+the,1
+time,1

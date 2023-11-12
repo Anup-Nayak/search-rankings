@@ -1,0 +1,17 @@
+15,496,9
+majority,1
+that,1
+a,2
+25,1
+per,1
+cent,1
+reduction,1
+was,1
+fair,1
+mr,1
+gandhi,1
+would,1
+in,1
+note,1
+of,1
+dissent,1

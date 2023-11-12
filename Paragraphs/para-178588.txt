@@ -1,0 +1,12 @@
+51,87,13
+resuming,1
+mahatma,1
+gandhi,1
+said,1
+that,1
+he,2
+would,1
+reiterate,1
+what,1
+had,1
+been,1

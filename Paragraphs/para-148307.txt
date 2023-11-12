@@ -1,0 +1,7 @@
+43,143,7
+2,1
+navajivan,1
+article,1
+has,1
+july,1
+7,1

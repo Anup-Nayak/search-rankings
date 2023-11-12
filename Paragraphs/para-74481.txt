@@ -1,0 +1,14 @@
+21,342,2
+1,1
+hammock,1
+slung,1
+from,1
+a,1
+stick,1
+carried,1
+by,1
+two,1
+men,1
+on,1
+their,1
+shoulders,1

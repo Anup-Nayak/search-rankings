@@ -1,0 +1,7 @@
+13,247,2
+13,1
+accidents,1
+scorpion,1
+and,1
+other,1
+stings,1

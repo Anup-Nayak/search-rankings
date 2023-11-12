@@ -1,0 +1,13 @@
+96,102,9
+1,1
+the,1
+quotation,1
+from,1
+edwin,1
+arnolds,1
+song,1
+celestial,1
+is,1
+not,1
+reproduced,1
+here,1

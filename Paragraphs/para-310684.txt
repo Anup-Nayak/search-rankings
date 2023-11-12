@@ -1,0 +1,6 @@
+82,72,8
+82,1
+plea,1
+for,1
+more,1
+fruits,1

@@ -1,0 +1,6 @@
+85,321,12
+bapu,1
+ram,1
+naresh,1
+tripathi,1
+sultanpur,1

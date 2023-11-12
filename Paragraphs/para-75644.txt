@@ -1,0 +1,9 @@
+22,8,9
+if,1
+any,1
+consult,1
+banker,1
+4,1
+three,1
+schoolmasters,1
+have,1

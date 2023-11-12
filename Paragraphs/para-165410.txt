@@ -1,0 +1,9 @@
+47,354,5
+statement,1
+completed,1
+last,1
+night,1
+beyond,1
+saying,1
+that,1
+i,1

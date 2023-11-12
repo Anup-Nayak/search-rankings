@@ -1,0 +1,7 @@
+48,110,1
+114,1
+to,1
+whom,1
+does,1
+congress,1
+belong,1

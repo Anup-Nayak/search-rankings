@@ -1,0 +1,11 @@
+62,454,2
+10,1
+0,2
+to,1
+11,1
+opening,1
+of,2
+a,1
+temple,1
+presentation,1
+addresses,1

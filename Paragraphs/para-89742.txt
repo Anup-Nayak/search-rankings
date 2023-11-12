@@ -1,0 +1,14 @@
+26,400,3
+from,1
+a,1
+handwritten,1
+copy,1
+s,1
+n,1
+8011,1
+also,1
+young,1
+india,1
+28,1
+2,1
+1924,1

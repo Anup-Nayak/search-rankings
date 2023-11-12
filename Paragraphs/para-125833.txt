@@ -1,0 +1,7 @@
+37,12,2
+7,1
+letter,1
+to,1
+dr,1
+k,2
+kuruvilla,1

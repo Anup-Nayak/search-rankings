@@ -1,0 +1,12 @@
+6,145,10
+of,4
+the,2
+future,1
+race,1
+destiny,1
+south,1
+africa,1
+from,1
+an,1
+examination,1
+statistics,1

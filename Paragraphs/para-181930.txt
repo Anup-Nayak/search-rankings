@@ -1,0 +1,11 @@
+51,459,29
+avoid,1
+if,2
+possible,1
+preventive,1
+action,1
+which,1
+may,1
+however,1
+be,1
+unavoidable,1

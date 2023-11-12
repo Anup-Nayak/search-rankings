@@ -1,0 +1,8 @@
+22,92,3
+60,1
+note,1
+on,1
+boycotting,1
+government,1
+educational,1
+institutions,1

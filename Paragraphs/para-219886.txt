@@ -1,0 +1,10 @@
+60,357,4
+431,1
+letter,1
+to,1
+dorothy,1
+e,1
+newman,1
+april,1
+13,1
+1933,1

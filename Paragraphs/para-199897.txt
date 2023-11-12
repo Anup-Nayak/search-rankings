@@ -1,0 +1,12 @@
+56,94,10
+1,1
+wife,1
+of,3
+maganlal,2
+mehta,2
+son,1
+dr,1
+pranjivan,1
+2,1
+daughter,1
+gandhi,1

@@ -1,0 +1,10 @@
+60,415,13
+from,1
+a,1
+photostat,1
+of,1
+the,1
+urdu,1
+g,1
+n,1
+284,1

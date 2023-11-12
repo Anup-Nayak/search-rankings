@@ -1,0 +1,9 @@
+70,94,1
+102,1
+letter,1
+to,1
+amrit,1
+kaur,1
+november,1
+19,1
+1936,1

@@ -1,0 +1,6 @@
+47,14,9
+e,1
+number,1
+of,1
+self,1
+spinners,1

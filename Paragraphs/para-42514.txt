@@ -1,0 +1,5 @@
+13,91,5
+9,1
+an,1
+intimate,1
+chapter,1

@@ -1,0 +1,15 @@
+77,416,12
+removed,2
+but,1
+we,2
+shall,1
+never,1
+get,1
+them,1
+if,1
+shut,1
+our,1
+eyes,1
+to,1
+their,1
+existence,1

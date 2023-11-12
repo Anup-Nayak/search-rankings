@@ -1,0 +1,9 @@
+46,186,14
+28,1
+some,2
+sacrifice,1
+with,4
+material,1
+gifts,1
+austerities,1
+yoga,1

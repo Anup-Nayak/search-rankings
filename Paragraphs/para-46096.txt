@@ -1,0 +1,8 @@
+14,20,13
+over,1
+anxious,1
+on,2
+our,1
+account,1
+we,1
+discovered,1

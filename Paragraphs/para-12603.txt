@@ -1,0 +1,10 @@
+5,117,3
+110,1
+new,1
+regulations,1
+for,1
+domicile,1
+passes,1
+etc,1
+in,1
+natal,1

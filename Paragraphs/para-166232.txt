@@ -1,0 +1,7 @@
+47,444,1
+509,1
+the,1
+value,1
+of,1
+national,1
+education1,1

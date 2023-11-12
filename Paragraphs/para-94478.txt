@@ -1,0 +1,11 @@
+28,42,4
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+255,1
+courtesy,1
+lakshmibai,1
+khare,1

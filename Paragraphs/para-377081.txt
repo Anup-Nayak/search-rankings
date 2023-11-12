@@ -1,0 +1,5 @@
+98,15,9
+begum,1
+iftikhar,1
+ud,1
+din,1

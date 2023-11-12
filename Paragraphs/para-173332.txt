@@ -1,0 +1,17 @@
+49,438,4
+1,1
+a,1
+measure,1
+of,2
+weight,1
+current,1
+before,1
+the,2
+introduction,1
+metric,1
+system,1
+approximately,1
+equivalent,1
+to,1
+two,1
+pounds,1

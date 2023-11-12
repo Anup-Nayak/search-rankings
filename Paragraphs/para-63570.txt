@@ -1,0 +1,9 @@
+18,110,7
+99,1
+letter,1
+to,1
+zafar,1
+ul,1
+mulk,1
+alawi,1
+3,1

@@ -1,0 +1,17 @@
+82,125,6
+1,1
+this,1
+appeared,1
+under,1
+notes,1
+2,1
+in,1
+the,3
+article,1
+passing,1
+of,2
+first,1
+stage,1
+a,2
+i,2
+v,1

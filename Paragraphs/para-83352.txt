@@ -1,0 +1,15 @@
+24,341,3
+a,2
+friend,1
+in,1
+reply,1
+to,3
+letter,1
+asking,1
+her,1
+dedicate,1
+herself,1
+more,1
+fully,1
+swadeshi,1
+writes,1

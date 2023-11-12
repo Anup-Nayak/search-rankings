@@ -1,0 +1,4 @@
+8,84,4
+hindus,1
+and,1
+muslims,1

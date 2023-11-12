@@ -1,0 +1,12 @@
+13,83,2
+1,1
+monks,1
+of,1
+cistercian,1
+order,1
+noted,1
+for,1
+silence,1
+and,1
+other,1
+austerities,1

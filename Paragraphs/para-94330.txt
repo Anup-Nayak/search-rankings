@@ -1,0 +1,10 @@
+28,18,6
+no,1
+trace,1
+wire,1
+about,1
+forcible,1
+conversion,1
+1,1
+taking,1
+all,1

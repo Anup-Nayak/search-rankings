@@ -1,0 +1,4 @@
+25,43,2
+divide,1
+and,1
+rule,1

@@ -1,0 +1,16 @@
+39,149,5
+besides,1
+doing,1
+their,1
+own,1
+reading,1
+if,1
+they,1
+do,1
+not,1
+get,1
+enough,1
+time,1
+to,1
+fulfil,1
+even,1

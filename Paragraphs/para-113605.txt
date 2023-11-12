@@ -1,0 +1,6 @@
+33,386,6
+288,1
+khadi,1
+in,1
+maha,1
+gujarat,1

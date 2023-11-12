@@ -1,0 +1,11 @@
+54,101,7
+profits,1
+of,1
+the,2
+latter,1
+class,1
+goes,1
+to,1
+government,1
+gandhi,1
+agreed,1

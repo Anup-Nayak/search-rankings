@@ -1,0 +1,15 @@
+23,363,2
+foreign,2
+things,1
+from,1
+the,1
+next,1
+day,1
+those,1
+who,1
+dealt,1
+in,1
+cloth,1
+would,1
+have,1
+to,1

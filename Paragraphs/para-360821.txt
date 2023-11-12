@@ -1,0 +1,5 @@
+93,196,7
+262,1
+extract,1
+from,1
+diary,1

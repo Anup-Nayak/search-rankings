@@ -1,0 +1,11 @@
+32,151,3
+108,1
+when,1
+can,1
+we,1
+rise,1
+a,1
+public,1
+worker,1
+writes,1
+1,1

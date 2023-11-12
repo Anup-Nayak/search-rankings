@@ -1,0 +1,5 @@
+58,79,14
+gulab,1
+learn,1
+gujarati,1
+well,1

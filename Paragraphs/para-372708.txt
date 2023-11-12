@@ -1,0 +1,15 @@
+96,335,11
+communal,1
+virus,1
+he,2
+would,2
+feel,1
+that,1
+life,1
+was,1
+not,2
+worth,1
+living,1
+and,1
+care,1
+to,1

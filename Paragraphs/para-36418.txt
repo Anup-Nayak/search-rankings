@@ -1,0 +1,10 @@
+11,304,15
+free,1
+state,1
+in,1
+a,1
+provincial,1
+law,1
+stop,1
+i,1
+cannot,1

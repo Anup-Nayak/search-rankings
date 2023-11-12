@@ -1,0 +1,4 @@
+53,42,7
+meanwhile,1
+write,1
+simla,1

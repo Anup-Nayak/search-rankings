@@ -1,0 +1,6 @@
+41,307,1
+354,1
+foreign,1
+cloth,1
+boycottsome,1
+questions,1

@@ -1,0 +1,9 @@
+87,145,15
+time,1
+appears,1
+to,1
+be,1
+against,1
+date,1
+fixed,1
+by,1

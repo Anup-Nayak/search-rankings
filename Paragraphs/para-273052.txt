@@ -1,0 +1,6 @@
+73,192,5
+221,1
+note,1
+to,1
+jamnalal,1
+bajaj,1

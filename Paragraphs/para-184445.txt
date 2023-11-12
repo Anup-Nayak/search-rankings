@@ -1,0 +1,6 @@
+52,246,5
+345,1
+letter,1
+to,1
+the,1
+secretary,1

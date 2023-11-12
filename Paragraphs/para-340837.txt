@@ -1,0 +1,6 @@
+88,244,3
+kasturba,1
+gandhi,1
+smarak,1
+nidhi,1
+wardha,1

@@ -1,0 +1,11 @@
+77,96,3
+how,1
+they,1
+should,1
+behave,1
+during,1
+the,2
+world,1
+crisis,1
+issue,1
+thus,1

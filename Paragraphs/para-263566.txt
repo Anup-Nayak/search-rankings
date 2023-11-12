@@ -1,0 +1,3 @@
+71,20,10
+minerva,1
+theatre,1

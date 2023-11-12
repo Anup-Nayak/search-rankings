@@ -1,0 +1,5 @@
+70,146,1
+167,1
+segaon,1
+not,1
+shegaon,1

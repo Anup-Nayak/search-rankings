@@ -1,0 +1,5 @@
+19,3,6
+5,1
+the,1
+punjab,1
+students,1

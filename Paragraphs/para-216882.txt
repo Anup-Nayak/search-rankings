@@ -1,0 +1,10 @@
+59,500,9
+non,1
+stealing,1
+purity,1
+of,2
+body,1
+and,2
+mind,1
+control,1
+senses,1

@@ -1,0 +1,10 @@
+30,210,5
+q,1
+were,1
+the,2
+hindus,1
+told,1
+of,1
+shrah,1
+and,1
+jirga,1

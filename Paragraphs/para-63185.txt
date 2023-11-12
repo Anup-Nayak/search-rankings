@@ -1,0 +1,7 @@
+18,53,2
+not,1
+for,1
+publication,1
+in,1
+the,1
+press,1

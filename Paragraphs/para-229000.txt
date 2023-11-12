@@ -1,0 +1,8 @@
+62,434,6
+461,1
+speech,1
+at,1
+public,1
+meeting,1
+kalpetta,1
+1,1

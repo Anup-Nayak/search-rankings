@@ -1,0 +1,5 @@
+90,436,7
+no,1
+delusion,1
+nor,1
+desire,1

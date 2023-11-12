@@ -1,0 +1,16 @@
+40,327,10
+1,1
+gandhiji,1
+left,1
+mangalore,1
+on,2
+the,2
+morning,1
+of,1
+october,1
+27,1
+to,1
+see,1
+viceroy,1
+november,1
+2,1

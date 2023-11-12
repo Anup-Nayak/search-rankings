@@ -1,0 +1,9 @@
+5,43,3
+a,1
+king,1
+is,1
+worshipped,1
+in,1
+his,1
+own,1
+kingdom,1

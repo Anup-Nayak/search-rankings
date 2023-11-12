@@ -1,0 +1,7 @@
+33,306,12
+observe,1
+devdas,1
+cant,1
+come,1
+girdhari,1
+leaving,1

@@ -1,0 +1,6 @@
+85,201,14
+320,1
+letter,1
+to,1
+kailas,1
+hakoor,1

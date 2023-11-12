@@ -1,0 +1,7 @@
+13,370,8
+they,1
+not,1
+invited,1
+join,1
+general,1
+struggle,1

@@ -1,0 +1,7 @@
+21,474,7
+obey,1
+order,1
+prohibition,1
+motilalji,1
+not,1
+here,1

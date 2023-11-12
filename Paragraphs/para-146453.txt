@@ -1,0 +1,7 @@
+42,410,11
+emma,1
+harker,1
+2,1
+belgrade,1
+terrace,1
+karachi,1

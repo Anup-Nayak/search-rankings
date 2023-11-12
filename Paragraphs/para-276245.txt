@@ -1,0 +1,8 @@
+74,58,10
+1,1
+chhaganlal,1
+gandhi,1
+2,1
+gratification,1
+of,1
+sense,1

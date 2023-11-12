@@ -1,0 +1,10 @@
+1,250,11
+than,1
+coolies,1
+and,1
+natives,1
+has,1
+always,1
+been,1
+very,1
+small,1

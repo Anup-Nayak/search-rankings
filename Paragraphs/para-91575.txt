@@ -1,0 +1,13 @@
+27,144,6
+from,1
+a,2
+microfilm,1
+of,1
+newspaper,1
+cutting,1
+s,1
+n,1
+10273,1
+also,1
+the,1
+hindu,1

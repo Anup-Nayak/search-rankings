@@ -1,0 +1,8 @@
+14,7,33
+any,1
+future,1
+misunderstanding,1
+if,1
+government,1
+could,1
+en,1

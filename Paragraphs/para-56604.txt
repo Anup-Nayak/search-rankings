@@ -1,0 +1,6 @@
+16,253,2
+satyagraha,1
+ashram,1
+february,1
+12,1
+1918,1

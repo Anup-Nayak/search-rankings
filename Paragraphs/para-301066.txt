@@ -1,0 +1,14 @@
+80,111,15
+satyagrahis,1
+able,1
+to,2
+pay,1
+the,1
+fine,1
+may,1
+not,2
+evade,1
+payment,1
+but,1
+are,1
+bound,1

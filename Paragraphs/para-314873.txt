@@ -1,0 +1,12 @@
+82,390,23
+constitution,1
+can,1
+be,1
+framed,1
+his,1
+majestys,1
+government,1
+must,1
+inevitably,1
+the,1
+full,1

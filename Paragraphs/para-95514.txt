@@ -1,0 +1,15 @@
+28,215,3
+a,1
+friend,1
+who,1
+at,1
+one,1
+time,1
+swore,1
+by,1
+the,1
+spinning,1
+wheel,1
+says,1
+in,1
+effect,1

@@ -1,0 +1,15 @@
+96,290,11
+speaker,1
+in,1
+his,2
+unadulterated,1
+non,1
+violence,1
+was,1
+a,1
+life,1
+full,1
+of,1
+perilous,1
+adventure,1
+and,1

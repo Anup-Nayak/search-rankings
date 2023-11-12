@@ -1,0 +1,15 @@
+23,458,6
+wov,1
+en,1
+of,1
+foreign,1
+yarn,1
+and,2
+asked,1
+all,1
+to,1
+be,1
+careful,1
+scrupulous,1
+about,1
+it,1

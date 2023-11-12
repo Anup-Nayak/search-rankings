@@ -1,0 +1,14 @@
+84,0,5
+1,2
+vide,2
+the,1
+preceding,1
+item,1
+2,1
+letter,1
+to,1
+ardeshir,1
+e,1
+kateli,1
+6,1
+1944,1

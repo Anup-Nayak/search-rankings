@@ -1,0 +1,6 @@
+54,213,3
+leaving,1
+saturday,1
+reaching,1
+villeneuve,1
+sunday,1

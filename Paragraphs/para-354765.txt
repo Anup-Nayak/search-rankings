@@ -1,0 +1,13 @@
+92,13,12
+1,1
+the,1
+source,1
+has,1
+this,1
+letter,1
+among,1
+those,1
+dated,1
+august,1
+13,1
+1946,1

@@ -1,0 +1,12 @@
+90,77,4
+105,1
+telegram,1
+to,1
+joint,1
+secretary,1
+hindu,1
+sangha,1
+samskarana,1
+samaj,1
+nellore,1
+2,1

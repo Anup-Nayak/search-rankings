@@ -1,0 +1,14 @@
+54,38,3
+people,1
+of,2
+india,1
+will,1
+be,1
+satisfied,1
+with,2
+partial,1
+home,1
+rule,1
+the,1
+possibility,1
+a,1

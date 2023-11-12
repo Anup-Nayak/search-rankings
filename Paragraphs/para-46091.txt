@@ -1,0 +1,7 @@
+14,20,8
+least,1
+one,1
+european,1
+member,1
+in,1
+whose,1

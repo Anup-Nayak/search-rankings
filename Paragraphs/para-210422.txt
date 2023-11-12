@@ -1,0 +1,4 @@
+58,320,3
+november,1
+24,1
+thursday,1

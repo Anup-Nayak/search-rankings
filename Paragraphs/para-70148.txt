@@ -1,0 +1,10 @@
+20,97,3
+a,2
+that,1
+is,1
+so,1
+unless,1
+exempted,1
+by,1
+medical,1
+certificate,1

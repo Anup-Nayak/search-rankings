@@ -1,0 +1,7 @@
+63,299,8
+333,1
+talk,1
+with,1
+ashram,1
+inmates,1
+2,1

@@ -1,0 +1,7 @@
+81,100,5
+187,1
+letter,1
+to,1
+annapurna,1
+c,1
+mehta,1

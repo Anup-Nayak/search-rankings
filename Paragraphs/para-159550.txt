@@ -1,0 +1,11 @@
+46,156,22
+and,1
+always,1
+prefer,1
+that,1
+if,1
+available,1
+at,1
+a,1
+reasonable,1
+price,1

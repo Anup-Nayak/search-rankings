@@ -1,0 +1,6 @@
+15,288,12
+toda,1
+pole,2
+in,1
+raja,1
+mehta,1

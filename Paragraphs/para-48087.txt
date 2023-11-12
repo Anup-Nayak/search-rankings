@@ -1,0 +1,10 @@
+14,293,9
+1,1
+the,2
+gathering,1
+was,1
+then,1
+addressed,1
+by,1
+aga,1
+khan,1

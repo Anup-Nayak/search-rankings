@@ -1,0 +1,12 @@
+78,184,14
+land,1
+which,1
+is,1
+under,1
+the,2
+control,1
+of,1
+municipal,1
+committee,1
+advantage,1
+was,1

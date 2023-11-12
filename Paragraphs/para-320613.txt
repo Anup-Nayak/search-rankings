@@ -1,0 +1,17 @@
+84,130,3
+too,1
+busy,1
+to,1
+send,1
+you,3
+more,1
+than,1
+my,1
+love,1
+of,1
+which,1
+have,1
+as,2
+much,1
+can,1
+carry,1

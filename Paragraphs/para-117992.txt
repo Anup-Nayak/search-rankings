@@ -1,0 +1,8 @@
+35,71,7
+an,1
+indian,1
+correspondent,1
+living,1
+in,1
+london,1
+writes,1

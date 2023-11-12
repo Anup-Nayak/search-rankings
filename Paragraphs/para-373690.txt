@@ -1,0 +1,8 @@
+97,9,4
+m,1
+k,1
+gandhi,1
+sir,1
+harisingh,1
+gour,1
+sagor,1

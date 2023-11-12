@@ -1,0 +1,8 @@
+27,135,3
+ramanand,1
+sanyasi,1
+baldev,1
+ashram,1
+khurja,1
+u,1
+p,1

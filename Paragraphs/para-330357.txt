@@ -1,0 +1,12 @@
+86,160,4
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+prabhakar,1
+sakhalkar,1
+sakhalkarwadi,1
+rajapur,1
+distt,1
+ratnagiri,1

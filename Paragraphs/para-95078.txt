@@ -1,0 +1,14 @@
+28,144,3
+here,1
+are,1
+some,1
+extracts,1
+from,1
+a,1
+mussalman,1
+letter,1
+on,1
+the,1
+hindu,1
+muslim,1
+statement,1

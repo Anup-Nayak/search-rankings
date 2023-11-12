@@ -1,0 +1,5 @@
+92,50,10
+sir,1
+krishnamachari,1
+diwan,1
+jaipur,1

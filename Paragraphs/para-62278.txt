@@ -1,0 +1,5 @@
+17,412,4
+382,1
+instructions,1
+regarding,1
+satyagraha,1

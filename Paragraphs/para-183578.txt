@@ -1,0 +1,6 @@
+52,152,2
+i,1
+remain,1
+yours,1
+sincerely,1
+encl,1

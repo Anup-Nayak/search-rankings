@@ -1,0 +1,13 @@
+49,290,12
+2,1
+satisfaction,1
+to,2
+be,1
+granted,1
+mr,1
+gandhis,1
+demands,1
+for,1
+the,2
+repeal,1
+of,1

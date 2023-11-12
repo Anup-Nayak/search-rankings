@@ -1,0 +1,5 @@
+16,386,3
+257,1
+speech,1
+at,1
+karamsad,1

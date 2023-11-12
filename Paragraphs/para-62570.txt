@@ -1,0 +1,12 @@
+17,453,3
+bombay,1
+secret,1
+abstracts,1
+1919,2
+pp,1
+339,1
+40,1
+also,1
+gujarati,1
+4,1
+5,1

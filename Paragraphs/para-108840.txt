@@ -1,0 +1,5 @@
+32,162,6
+118,1
+the,1
+spinning,1
+franchise,1

@@ -1,0 +1,14 @@
+82,387,30
+control,1
+and,1
+guide,1
+power,1
+without,1
+capturing,1
+the,1
+machinery,1
+of,1
+government,1
+that,1
+is,1
+its,1

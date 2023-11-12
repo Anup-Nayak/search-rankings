@@ -1,0 +1,16 @@
+70,156,6
+a,1
+i,1
+will,1
+not,1
+say,1
+that,1
+they,3
+are,2
+harmful,1
+because,1
+cheap,1
+but,1
+leave,1
+us,1
+poorer,1

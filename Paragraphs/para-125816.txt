@@ -1,0 +1,7 @@
+37,11,3
+teach,1
+me,1
+my,1
+god,1
+and,1
+king,1

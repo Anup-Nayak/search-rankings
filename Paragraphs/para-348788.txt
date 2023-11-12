@@ -1,0 +1,8 @@
+90,259,4
+1vide,1
+extract,1
+from,1
+talk,1
+with,1
+a,1
+soliders,1

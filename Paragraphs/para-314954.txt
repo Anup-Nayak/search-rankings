@@ -1,0 +1,13 @@
+82,393,8
+india,1
+hindus,1
+muslims,1
+and,2
+all,1
+other,1
+people,1
+speak,1
+understand,1
+employ,1
+for,1
+mutual,1

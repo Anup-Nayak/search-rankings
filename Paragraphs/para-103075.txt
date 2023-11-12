@@ -1,0 +1,7 @@
+30,220,4
+reaching,1
+delhi,1
+tomorrow,1
+morning,1
+bhatinda,1
+mail,1

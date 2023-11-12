@@ -1,0 +1,8 @@
+26,202,2
+1,1
+c,1
+r,1
+das,1
+the,1
+president,1
+elect,1

@@ -1,0 +1,12 @@
+31,216,4
+possesses,1
+property,1
+he,2
+wants,1
+others,1
+to,1
+become,1
+poor,2
+but,1
+is,1
+not,1

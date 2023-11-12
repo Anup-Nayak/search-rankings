@@ -1,0 +1,6 @@
+77,217,2
+259,1
+a,1
+voluntary,1
+labour,1
+tax,1

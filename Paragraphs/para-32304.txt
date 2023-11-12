@@ -1,0 +1,10 @@
+10,346,5
+1,1
+imam,1
+abdul,1
+kadir,1
+bawazeer,1
+vide,1
+the,1
+preceding,1
+item,1

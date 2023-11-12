@@ -1,0 +1,13 @@
+61,360,7
+q,1
+how,1
+do,1
+you,1
+see,1
+coercion,1
+in,1
+my,1
+proposed,1
+fast,1
+unto,1
+death,1

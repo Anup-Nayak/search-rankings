@@ -1,0 +1,9 @@
+36,154,3
+already,1
+decided,1
+send,1
+5000,1
+utkal,1
+but,1
+do,1
+raise,1

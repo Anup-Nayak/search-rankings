@@ -1,0 +1,12 @@
+63,345,7
+answer,1
+not,2
+at,1
+all,1
+if,1
+they,1
+do,1
+feel,1
+it,1
+from,1
+within,1

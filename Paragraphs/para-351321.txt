@@ -1,0 +1,14 @@
+91,88,7
+1,1
+omission,1
+as,1
+in,1
+the,2
+source,1
+2,1
+on,1
+sarvopayogi,1
+gai,1
+all,1
+purpose,1
+cow,1

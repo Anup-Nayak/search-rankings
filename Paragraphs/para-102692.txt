@@ -1,0 +1,16 @@
+30,200,16
+q,1
+were,2
+the,3
+three,1
+mussalmans,1
+who,1
+in,1
+car,1
+with,1
+hindu,1
+gentleman,1
+unable,1
+to,1
+save,1
+him,1

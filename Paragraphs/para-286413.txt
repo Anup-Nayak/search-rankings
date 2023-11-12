@@ -1,0 +1,13 @@
+76,278,3
+be,2
+made,1
+a,1
+commercial,1
+product,1
+produced,1
+in,2
+villages,1
+to,1
+sold,1
+distant,1
+towns,1

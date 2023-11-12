@@ -1,0 +1,12 @@
+97,200,3
+1,1
+adopted,1
+daughter,1
+of,1
+dr,1
+m,1
+a,1
+ansari,2
+married,1
+to,1
+shaukat,1

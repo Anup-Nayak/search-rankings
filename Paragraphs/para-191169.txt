@@ -1,0 +1,10 @@
+54,31,4
+m,1
+k,1
+gandhi,1
+from,1
+a,1
+photostat,1
+c,1
+w,1
+9439,1

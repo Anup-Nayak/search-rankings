@@ -1,0 +1,8 @@
+93,365,2
+513,1
+letter,1
+to,1
+edmond,1
+and,1
+yvonne,1
+privat,1

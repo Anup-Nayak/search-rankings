@@ -1,0 +1,6 @@
+26,72,2
+a,1
+warning,1
+voice,1
+from,1
+bengal,1

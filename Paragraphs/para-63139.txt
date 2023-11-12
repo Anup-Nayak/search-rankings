@@ -1,0 +1,7 @@
+18,47,24
+govardhandas,1
+has,1
+been,1
+arrested,1
+for,1
+statements,1

@@ -1,0 +1,7 @@
+46,226,8
+yours,1
+rev,1
+g,2
+early,1
+lusselty,1
+pet,1

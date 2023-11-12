@@ -1,0 +1,13 @@
+23,25,6
+this,1
+country,1
+he,3
+had,2
+come,1
+from,2
+orissa,1
+and,2
+andhra,1
+what,1
+seen,1
+there,1

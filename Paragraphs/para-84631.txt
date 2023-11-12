@@ -1,0 +1,6 @@
+25,70,3
+the,1
+same,1
+writer,1
+further,1
+asks,1

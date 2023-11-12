@@ -1,0 +1,8 @@
+35,286,3
+372,1
+non,1
+co,1
+operation,1
+and,1
+education,1
+1,1

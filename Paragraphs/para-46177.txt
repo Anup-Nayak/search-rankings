@@ -1,0 +1,7 @@
+14,29,6
+reporter,1
+what,1
+about,1
+the,1
+railway,1
+strike,1

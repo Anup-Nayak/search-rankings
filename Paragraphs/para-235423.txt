@@ -1,0 +1,8 @@
+64,226,13
+settlement,1
+of,1
+disputes,1
+before,1
+they,1
+downed,1
+tools,1

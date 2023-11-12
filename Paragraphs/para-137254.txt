@@ -1,0 +1,7 @@
+40,130,1
+76,1
+speech,1
+at,1
+national,1
+college,1
+trichinopoly,1

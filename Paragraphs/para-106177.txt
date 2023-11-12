@@ -1,0 +1,16 @@
+31,234,4
+a,1
+few,1
+coppers,1
+may,1
+not,1
+mean,2
+much,1
+to,2
+you,1
+but,1
+they,1
+everything,1
+those,1
+poor,1
+villagers,1

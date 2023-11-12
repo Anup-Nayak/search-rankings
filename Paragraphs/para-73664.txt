@@ -1,0 +1,9 @@
+21,187,3
+108,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+bangalore,1
+1,1

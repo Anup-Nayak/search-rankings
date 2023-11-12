@@ -1,0 +1,16 @@
+46,28,1
+ps,1
+i,1
+have,1
+written,1
+this,1
+in,1
+the,1
+midst,1
+of,2
+a,1
+crowd,1
+people,1
+coming,1
+and,1
+going,1

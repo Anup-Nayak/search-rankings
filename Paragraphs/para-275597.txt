@@ -1,0 +1,12 @@
+73,456,23
+the,2
+poignant,1
+utterance,1
+became,1
+a,1
+call,1
+to,1
+greater,1
+dedication,1
+for,1
+cause,1

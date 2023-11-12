@@ -1,0 +1,11 @@
+87,68,6
+blessings,1
+from,1
+bapu,1
+shri,1
+rasiklal,1
+parikh,1
+kathiawar,2
+political,1
+conference,1
+joravarnagar,1

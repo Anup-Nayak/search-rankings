@@ -1,0 +1,6 @@
+73,78,2
+robber,1
+ps,1
+wire,1
+just,1
+received,1

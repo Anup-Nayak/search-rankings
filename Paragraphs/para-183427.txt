@@ -1,0 +1,16 @@
+52,141,7
+i,2
+do,1
+not,1
+know,1
+how,1
+it,2
+happened,1
+asked,1
+many,1
+about,1
+they,1
+say,1
+that,1
+bilati,1
+2,1

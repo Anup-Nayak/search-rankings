@@ -1,0 +1,16 @@
+32,310,5
+now,1
+you,1
+again,1
+want,1
+to,1
+turn,1
+it,1
+into,1
+a,1
+place,1
+for,2
+vocal,1
+protests,1
+arm,1
+chair,1

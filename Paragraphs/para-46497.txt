@@ -1,0 +1,7 @@
+14,72,7
+india,1
+had,1
+developed,1
+perhaps,1
+far,1
+above,1

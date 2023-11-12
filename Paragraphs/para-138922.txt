@@ -1,0 +1,12 @@
+40,431,4
+1,1
+the,1
+chauffeurs,1
+union,1
+had,1
+given,1
+a,1
+purse,1
+of,1
+rs,1
+100,1

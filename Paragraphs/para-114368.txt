@@ -1,0 +1,14 @@
+33,470,3
+group,1
+i,1
+consists,1
+of,1
+brahmins,1
+baidyas,1
+kayasthas,1
+navashakas,1
+meaning,1
+9,1
+or,1
+10,1
+castes,1

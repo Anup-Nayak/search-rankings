@@ -1,0 +1,4 @@
+19,45,3
+sadiq,1
+ali,1
+rampore,1

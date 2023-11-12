@@ -1,0 +1,5 @@
+55,324,11
+from,2
+living,1
+death,1
+gujarati,1

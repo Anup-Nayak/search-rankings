@@ -1,0 +1,8 @@
+84,55,8
+53,1
+silence,1
+day,1
+note,1
+to,1
+doctors,1
+5,1

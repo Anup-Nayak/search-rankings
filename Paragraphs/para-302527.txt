@@ -1,0 +1,14 @@
+80,257,9
+1,1
+the,2
+name,2
+is,2
+in,2
+english,2
+2,1
+heroine,1
+of,1
+a,1
+persian,1
+romance,1
+3,1

@@ -1,0 +1,12 @@
+16,29,12
+two,1
+methods,1
+which,1
+had,1
+been,1
+proposed,1
+to,1
+get,1
+over,1
+this,1
+were,1

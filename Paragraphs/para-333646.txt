@@ -1,0 +1,8 @@
+87,38,1
+67,1
+letter,1
+to,1
+lady,1
+abbas,1
+ali,1
+baig,1

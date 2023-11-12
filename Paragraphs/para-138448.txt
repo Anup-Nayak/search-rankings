@@ -1,0 +1,5 @@
+40,340,5
+colombo,2
+about,1
+tenth,1
+wire,1

@@ -1,0 +1,9 @@
+61,103,4
+110,1
+extract,1
+from,1
+letter,1
+to,1
+princess,1
+efy,1
+aristarchi,1

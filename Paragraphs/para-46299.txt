@@ -1,0 +1,6 @@
+14,45,11
+robertson,1
+suspending,1
+passive,1
+resistance,1
+pending,1

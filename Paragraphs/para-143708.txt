@@ -1,0 +1,15 @@
+42,81,2
+yours,1
+sincerely,1
+h,1
+e,1
+maharajah,1
+sir,1
+kishun,1
+parshad,1
+yaminus,1
+sultanath,1
+city,1
+palace,1
+hyderabad,1
+deccan,1

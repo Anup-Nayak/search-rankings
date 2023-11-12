@@ -1,0 +1,8 @@
+39,389,3
+385,1
+speech,1
+to,1
+adi,1
+karnatakas,1
+davangere,1
+1,1

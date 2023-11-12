@@ -1,0 +1,9 @@
+11,287,7
+against,1
+colour,1
+bar,1
+cannot,1
+close,1
+if,1
+educated,1
+asiatics,1

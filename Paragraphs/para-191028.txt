@@ -1,0 +1,13 @@
+54,10,15
+1,1
+khurshedbehn,1
+naoroji,1
+had,1
+gone,1
+to,2
+north,1
+west,1
+frontier,1
+province,1
+teach,1
+spinning,1

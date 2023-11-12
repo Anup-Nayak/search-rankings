@@ -1,0 +1,14 @@
+73,22,6
+legislature,1
+if,1
+the,2
+administration,1
+of,1
+province,1
+was,1
+run,1
+on,1
+purely,1
+national,1
+lines,1
+and,1

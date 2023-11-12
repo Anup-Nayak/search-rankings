@@ -1,0 +1,6 @@
+58,234,12
+yeravda,1
+mandir,1
+december,1
+18,1
+1932,1

@@ -1,0 +1,12 @@
+51,150,13
+bhagat,1
+singh,1
+he,2
+did,1
+not,1
+plead,1
+for,1
+commutation,1
+although,1
+would,1
+being,1

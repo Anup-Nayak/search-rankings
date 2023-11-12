@@ -1,0 +1,7 @@
+76,70,13
+coming,1
+but,1
+before,1
+making,1
+public,1
+declaration,1

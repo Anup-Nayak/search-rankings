@@ -1,0 +1,8 @@
+12,155,6
+johannesburg,1
+february,1
+15,1
+1912,1
+dear,1
+mr,1
+gregorowski,1

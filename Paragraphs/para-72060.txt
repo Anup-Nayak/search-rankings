@@ -1,0 +1,7 @@
+20,406,5
+even,1
+a,1
+little,1
+of,1
+this,1
+dharma,1

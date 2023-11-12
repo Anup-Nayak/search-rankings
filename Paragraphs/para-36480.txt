@@ -1,0 +1,8 @@
+11,306,17
+duce,1
+racial,1
+bar,1
+resisters,1
+fighting,1
+purely,1
+national,1

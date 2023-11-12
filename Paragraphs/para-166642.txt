@@ -1,0 +1,8 @@
+48,31,7
+28,1
+some,1
+thoughts,1
+on,1
+u,1
+p,1
+tour,1

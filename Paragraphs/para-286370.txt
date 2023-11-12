@@ -1,0 +1,15 @@
+76,276,17
+it,1
+acted,1
+as,1
+a,1
+check,1
+against,1
+individuals,1
+entering,1
+the,2
+field,1
+and,1
+trying,1
+to,1
+exploit,1

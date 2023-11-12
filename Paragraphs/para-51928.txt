@@ -1,0 +1,7 @@
+15,196,9
+145,1
+interview,1
+to,1
+press,1
+at,1
+karachi,1

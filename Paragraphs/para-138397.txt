@@ -1,0 +1,12 @@
+40,333,11
+1,1
+addressees,1
+wife,1
+who,1
+had,1
+passed,1
+away,1
+a,1
+few,1
+days,1
+earlier,1

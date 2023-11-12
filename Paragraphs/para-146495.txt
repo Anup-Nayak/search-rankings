@@ -1,0 +1,9 @@
+42,414,7
+k,1
+s,1
+karanth,1
+vasanta,1
+p,1
+o,1
+kodaibail,1
+mangalore,1

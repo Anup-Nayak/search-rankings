@@ -1,0 +1,9 @@
+53,203,19
+not,1
+make,1
+public,1
+announcement,1
+until,1
+i,1
+had,1
+communicated,1

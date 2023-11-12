@@ -1,0 +1,11 @@
+67,70,3
+pierre,1
+ceresole,1
+but,1
+each,1
+recurs,1
+with,1
+a,1
+definite,1
+new,1
+fact,1

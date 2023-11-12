@@ -1,0 +1,13 @@
+80,422,8
+working,1
+in,1
+the,2
+bannu,1
+district,1
+of,1
+north,1
+west,1
+frontier,1
+province,1
+trying,1
+to,1

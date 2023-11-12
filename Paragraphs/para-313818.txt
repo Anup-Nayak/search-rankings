@@ -1,0 +1,11 @@
+82,324,8
+abusive,1
+language,1
+to,1
+the,1
+villagers,1
+and,2
+womenfolk,1
+threatened,1
+them,1
+with,1

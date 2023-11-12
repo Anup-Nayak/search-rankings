@@ -1,0 +1,10 @@
+82,405,5
+when,1
+congress,2
+was,1
+in,2
+office,1
+the,2
+provinces,1
+1937,1
+39,1

@@ -1,0 +1,6 @@
+81,13,2
+a,1
+discipline,1
+for,1
+non,1
+violence,1

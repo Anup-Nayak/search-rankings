@@ -1,0 +1,6 @@
+80,89,6
+157,1
+letter,1
+to,1
+abdul,1
+qaiyum,1

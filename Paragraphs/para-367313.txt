@@ -1,0 +1,16 @@
+95,80,10
+1vide,1
+letter,2
+to,2
+manilal,2
+gandhi,2
+29,1
+4,1
+1947,1
+2,1
+the,2
+name,1
+is,1
+omitted,1
+in,1
+source,1

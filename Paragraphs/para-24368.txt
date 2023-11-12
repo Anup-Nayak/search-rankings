@@ -1,0 +1,5 @@
+8,211,3
+indians,1
+dinner,1
+to,1
+europeans,1

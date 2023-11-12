@@ -1,0 +1,13 @@
+59,428,8
+some,1
+others,1
+have,2
+been,1
+great,1
+at,1
+delivering,1
+lectures,1
+all,1
+come,1
+to,1
+us,1

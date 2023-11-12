@@ -1,0 +1,8 @@
+11,78,5
+deportees,1
+rejected,1
+by,1
+natal,1
+1,1
+returned,1
+to,1

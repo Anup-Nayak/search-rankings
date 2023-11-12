@@ -1,0 +1,14 @@
+46,186,9
+fires,2
+1,1
+of,3
+restraint,1
+others,1
+sacrifice,1
+sound,1
+and,1
+the,2
+other,1
+objects,1
+sense,1
+in,1

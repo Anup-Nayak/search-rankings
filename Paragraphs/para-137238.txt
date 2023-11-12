@@ -1,0 +1,8 @@
+40,128,5
+perfectly,1
+well,1
+gods,1
+voice,1
+often,1
+indistinguishable,1
+from,1

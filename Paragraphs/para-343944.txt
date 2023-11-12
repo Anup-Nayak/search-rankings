@@ -1,0 +1,13 @@
+89,155,13
+2,1
+there,1
+were,1
+many,1
+among,1
+the,1
+audience,1
+who,1
+did,1
+not,1
+know,1
+hindustani,1

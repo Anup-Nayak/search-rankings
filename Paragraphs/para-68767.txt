@@ -1,0 +1,16 @@
+19,392,1
+happy,1
+grief,1
+and,2
+mournful,1
+joy,1
+are,1
+wonderful,1
+expressions,1
+but,1
+no,1
+more,1
+today,1
+with,1
+love,1
+prayer,1

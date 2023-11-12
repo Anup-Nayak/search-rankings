@@ -1,0 +1,9 @@
+60,297,2
+bapu,1
+ps,1
+letters,1
+enclosed,1
+rama,1
+amina,1
+mani,1
+kusum,1

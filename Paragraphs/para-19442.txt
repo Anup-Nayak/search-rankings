@@ -1,0 +1,13 @@
+6,497,2
+6,1
+they,1
+are,1
+subject,1
+to,1
+altera,1
+tion,1
+at,1
+the,2
+will,1
+of,1
+government,1

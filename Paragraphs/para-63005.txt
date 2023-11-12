@@ -1,0 +1,5 @@
+18,35,7
+hatred,1
+ever,2
+killslove,1
+dies,1

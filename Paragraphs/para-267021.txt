@@ -1,0 +1,8 @@
+72,4,6
+of,3
+the,2
+inauguration,1
+new,1
+policy,1
+trying,1
+office,1

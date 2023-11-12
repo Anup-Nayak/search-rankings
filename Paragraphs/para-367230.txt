@@ -1,0 +1,6 @@
+95,71,3
+60,1
+advice,1
+to,1
+constructive,1
+workers,1

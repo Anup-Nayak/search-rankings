@@ -1,0 +1,11 @@
+60,10,2
+bhai,1
+moolchand,1
+your,1
+query,1
+has,1
+already,1
+been,1
+answered,1
+in,1
+harijan,1

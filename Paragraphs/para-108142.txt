@@ -1,0 +1,6 @@
+32,35,2
+31,1
+interview,1
+to,1
+the,1
+statesman,1

@@ -1,0 +1,12 @@
+43,32,3
+muster,1
+sufficient,1
+courage,1
+to,2
+lodge,1
+a,1
+complaint,1
+about,1
+it,1
+the,1
+superintendent,1

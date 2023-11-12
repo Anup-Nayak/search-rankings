@@ -1,0 +1,13 @@
+64,200,6
+absolutely,1
+non,1
+violent,1
+in,3
+thought,1
+and,1
+action,1
+spite,1
+of,1
+all,1
+possible,1
+provocations,1

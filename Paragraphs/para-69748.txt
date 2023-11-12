@@ -1,0 +1,8 @@
+20,31,7
+mr,1
+mazharul,1
+haque,1
+d,1
+de,1
+s,1
+bray,1

@@ -1,0 +1,6 @@
+13,433,16
+essence,1
+struggle,1
+recognition,1
+right,1
+consultation,1

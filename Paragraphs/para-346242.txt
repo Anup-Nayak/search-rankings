@@ -1,0 +1,10 @@
+89,423,3
+general,1
+awaris,1
+fast,1
+1,1
+entirely,1
+misplaced,1
+he,1
+should,1
+desist,1

@@ -1,0 +1,11 @@
+6,107,22
+to,1
+the,2
+manager,1
+empire,1
+typewriting,1
+company,1
+77,1
+queen,1
+victoria,1
+street,1

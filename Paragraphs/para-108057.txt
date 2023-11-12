@@ -1,0 +1,10 @@
+32,18,4
+themselves,1
+where,1
+commis,1
+sioner,1
+does,1
+not,2
+object,1
+your,1
+wire,1

@@ -1,0 +1,15 @@
+18,27,1
+this,1
+letter,1
+is,1
+my,2
+first,1
+attempt,1
+after,1
+many,1
+days,1
+to,1
+write,1
+in,1
+own,1
+hand,1

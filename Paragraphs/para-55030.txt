@@ -1,0 +1,4 @@
+16,22,2
+1,1
+satyagraha,1
+ashram,1

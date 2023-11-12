@@ -1,0 +1,10 @@
+82,271,4
+1,1
+vide,1
+scorched,1
+earth,1
+policy,1
+again,1
+27,1
+4,1
+1942,1

@@ -1,0 +1,7 @@
+36,368,12
+421,1
+letter,1
+to,1
+lalta,1
+pershad,1
+shad,1

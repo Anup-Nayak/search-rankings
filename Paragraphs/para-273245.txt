@@ -1,0 +1,10 @@
+73,210,6
+pyarelal,1
+there,1
+is,1
+not,1
+enough,1
+time,1
+to,2
+write,1
+you,1

@@ -1,0 +1,5 @@
+40,100,4
+57,1
+speech,1
+at,1
+kumbakonam,1

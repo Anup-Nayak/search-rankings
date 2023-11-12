@@ -1,0 +1,6 @@
+49,48,6
+44,1
+letter,1
+to,1
+amina,1
+tyabji,1

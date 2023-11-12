@@ -1,0 +1,8 @@
+13,436,18
+no,1
+human,1
+being,1
+could,1
+induce,1
+alteration,1
+declaration,1

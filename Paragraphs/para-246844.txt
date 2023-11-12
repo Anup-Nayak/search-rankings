@@ -1,0 +1,16 @@
+67,5,13
+g,1
+you,2
+are,1
+right,1
+but,1
+if,1
+must,1
+work,1
+why,1
+not,1
+do,1
+this,1
+thing,1
+for,1
+me,1

@@ -1,0 +1,7 @@
+19,187,7
+all,1
+superintendents,1
+heads,1
+and,1
+sub,1
+postmasters,1

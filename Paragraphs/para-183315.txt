@@ -1,0 +1,13 @@
+52,131,10
+m,1
+k,1
+gandhi,1
+syt,1
+c,1
+vijayaraghavachariar,1
+fairyfalls,1
+view,1
+kodaikanal,1
+observatory,1
+p,1
+o,1

@@ -1,0 +1,16 @@
+79,4,2
+1,1
+the,4
+gujarati,1
+has,1
+bharat,1
+savitri,1
+verse,2
+for,1
+text,1
+of,1
+vide,1
+a,1
+cry,1
+in,1
+wilderness,1

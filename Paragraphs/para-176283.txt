@@ -1,0 +1,7 @@
+50,287,6
+bapu,1
+pps,1
+there,1
+are,1
+52,1
+letter,1

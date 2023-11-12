@@ -1,0 +1,6 @@
+37,328,3
+1,1
+striving,1
+or,1
+determined,1
+effort,1

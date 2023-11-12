@@ -1,0 +1,5 @@
+90,68,1
+94,1
+high,1
+handedness,1
+exposed,1

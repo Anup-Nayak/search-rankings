@@ -1,0 +1,14 @@
+15,49,1
+course,1
+ought,1
+not,1
+to,2
+allow,1
+yourself,1
+be,1
+upset,1
+the,1
+burden,1
+is,1
+on,1
+you,1

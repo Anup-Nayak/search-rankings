@@ -1,0 +1,10 @@
+40,332,6
+silence,1
+day,1
+kartak,1
+sud,1
+6,1
+october,1
+31,1
+1927,1
+2,1

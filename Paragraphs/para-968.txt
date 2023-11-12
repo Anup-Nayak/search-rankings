@@ -1,0 +1,17 @@
+1,192,4
+2,1
+sage,1
+of,2
+ancient,1
+india,1
+circa,1
+seventh,1
+century,1
+b,1
+c,1
+who,1
+founded,1
+the,1
+sankhya,1
+system,1
+philosophy,1

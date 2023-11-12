@@ -1,0 +1,4 @@
+25,172,6
+sardar,1
+gurdut,1
+singh,1

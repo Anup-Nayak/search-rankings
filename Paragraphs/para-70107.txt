@@ -1,0 +1,15 @@
+20,95,5
+q,1
+it,2
+was,2
+not,1
+in,1
+the,1
+first,1
+list,1
+prominent,1
+though,1
+but,1
+subse,1
+quently,1
+added,1

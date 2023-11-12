@@ -1,0 +1,6 @@
+38,341,5
+345,1
+mans,1
+inhumanity,1
+to,1
+man,1

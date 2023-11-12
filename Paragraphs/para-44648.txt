@@ -1,0 +1,8 @@
+13,377,3
+we,1
+are,1
+advising,1
+the,2
+strikers,1
+to,1
+leave,1

@@ -1,0 +1,10 @@
+29,27,7
+international,1
+convention,1
+negro,1
+peoples,1
+of,1
+the,1
+world,1
+marius,1
+garney,1

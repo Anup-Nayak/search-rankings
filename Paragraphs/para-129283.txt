@@ -1,0 +1,14 @@
+38,19,3
+extent,1
+the,1
+national,1
+psychology,1
+and,1
+has,1
+lent,1
+a,1
+new,1
+dignity,1
+to,1
+our,1
+manhood,1

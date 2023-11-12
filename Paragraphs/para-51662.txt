@@ -1,0 +1,14 @@
+15,150,2
+1,1
+sir,2
+j,1
+c,2
+bose,1
+f,1
+r,1
+s,1
+botanist,1
+2,1
+p,1
+ray,1
+chemist,1

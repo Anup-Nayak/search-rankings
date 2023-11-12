@@ -1,0 +1,6 @@
+11,282,13
+pointedly,1
+insulting,1
+indians,1
+highest,1
+culture,1

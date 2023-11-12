@@ -1,0 +1,6 @@
+14,45,5
+bande,1
+mataram,1
+from,1
+mohandas,1
+gandhi,1

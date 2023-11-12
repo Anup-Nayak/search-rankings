@@ -1,0 +1,14 @@
+32,460,22
+like,1
+the,2
+bengal,1
+ordinance,1
+in,1
+name,1
+of,1
+every,1
+indian,1
+nationalist,1
+who,1
+has,1
+rendered,1

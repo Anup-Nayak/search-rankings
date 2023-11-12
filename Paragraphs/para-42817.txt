@@ -1,0 +1,8 @@
+13,139,18
+ments,1
+carried,1
+committee,1
+do,1
+not,1
+include,1
+pro,1

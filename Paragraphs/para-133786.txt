@@ -1,0 +1,7 @@
+39,106,8
+doctor,1
+send,1
+full,1
+reply,1
+by,1
+post,1

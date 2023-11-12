@@ -1,0 +1,14 @@
+66,440,16
+g,1
+i,2
+will,1
+not,1
+think,1
+of,1
+giving,1
+you,2
+up,1
+but,1
+want,1
+to,1
+do,1

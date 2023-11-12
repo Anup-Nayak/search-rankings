@@ -1,0 +1,14 @@
+31,33,15
+ayurveda,1
+but,1
+today,1
+because,1
+they,2
+had,2
+forgotten,1
+the,2
+art,1
+really,1
+lost,1
+use,1
+of,1

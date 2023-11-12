@@ -1,0 +1,9 @@
+13,115,7
+1,1
+physician,1
+practising,1
+the,1
+unani,1
+system,1
+of,1
+medicine,1

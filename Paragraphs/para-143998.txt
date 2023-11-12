@@ -1,0 +1,17 @@
+42,127,3
+truth,3
+as,1
+brevity,1
+is,2
+the,1
+armour,1
+of,1
+it,2
+contained,1
+in,1
+alone,1
+will,1
+triumph,1
+and,1
+not,1
+untruth,1

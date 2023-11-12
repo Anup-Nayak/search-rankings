@@ -1,0 +1,14 @@
+80,112,3
+satyagraha,1
+may,1
+not,1
+be,1
+offered,1
+in,2
+a,1
+place,1
+where,1
+section,1
+144,1
+is,1
+force,1

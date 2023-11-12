@@ -1,0 +1,5 @@
+30,34,3
+20,1
+meaning,1
+of,1
+bolshevism,1

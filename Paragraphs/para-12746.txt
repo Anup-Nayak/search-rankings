@@ -1,0 +1,6 @@
+5,141,2
+131,1
+the,1
+early,1
+closing,1
+act,1

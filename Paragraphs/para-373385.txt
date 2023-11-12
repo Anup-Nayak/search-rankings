@@ -1,0 +1,7 @@
+96,432,3
+1,1
+pandit,1
+thakur,1
+dutt,1
+of,1
+lahore,1

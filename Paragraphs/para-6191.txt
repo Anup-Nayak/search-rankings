@@ -1,0 +1,16 @@
+3,12,6
+to,1
+the,2
+right,1
+honourable,1
+joseph,1
+chamberlain,1
+his,1
+majestys,1
+principal,1
+secretary,1
+of,1
+state,1
+for,1
+colonies,1
+pretoria,1

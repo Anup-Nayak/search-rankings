@@ -1,0 +1,16 @@
+24,0,7
+their,1
+foreign,1
+made,1
+saris,1
+said,1
+that,1
+they,1
+were,2
+unwilling,1
+to,1
+do,1
+so,1
+no,1
+doubt,1
+there,1

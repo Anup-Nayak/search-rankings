@@ -1,0 +1,7 @@
+35,131,2
+178,1
+letter,1
+to,1
+aksel,1
+f,1
+knudsen,1

@@ -1,0 +1,13 @@
+83,388,2
+but,1
+it,1
+is,1
+the,2
+british,1
+troops,1
+you,1
+have,1
+in,1
+mind,1
+not,1
+american,1

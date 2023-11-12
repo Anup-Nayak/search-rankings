@@ -1,0 +1,7 @@
+77,72,10
+shri,1
+rajkumari,1
+amrit,1
+kaur,1
+poona,2
+hotel,1

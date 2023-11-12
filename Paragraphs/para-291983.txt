@@ -1,0 +1,10 @@
+78,35,25
+i,2
+do,1
+believe,1
+have,1
+been,1
+honestly,1
+sympathetic,1
+towards,1
+congress,1

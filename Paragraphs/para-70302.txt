@@ -1,0 +1,17 @@
+20,120,5
+1,1
+machine,1
+guns,1
+were,1
+used,1
+or,1
+bombs,1
+dropped,1
+on,1
+gharjak,1
+bhagwanpura,1
+dhulla,1
+and,1
+other,1
+neighbouring,1
+villages,1

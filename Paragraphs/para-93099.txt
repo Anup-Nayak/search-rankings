@@ -1,0 +1,15 @@
+27,365,6
+once,1
+otherwise,1
+even,1
+the,2
+few,1
+who,1
+are,2
+with,1
+us,1
+will,1
+leave,1
+work,1
+that,1
+they,1

@@ -1,0 +1,14 @@
+89,20,7
+1,1
+a,2
+few,2
+words,2
+are,2
+indistinct,2
+here,2
+in,2
+the,2
+source,2
+2,1
+ibid,1
+3,1

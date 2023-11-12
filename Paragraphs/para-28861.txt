@@ -1,0 +1,6 @@
+9,376,2
+226,1
+letter,1
+to,1
+transvaal,1
+indians,1

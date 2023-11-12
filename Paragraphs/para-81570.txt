@@ -1,0 +1,10 @@
+24,37,20
+give,1
+up,1
+swadeshi,1
+even,1
+after,1
+they,1
+had,1
+got,1
+swaraj,1

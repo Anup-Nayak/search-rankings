@@ -1,0 +1,8 @@
+40,204,2
+1,1
+a,1
+community,1
+which,1
+was,1
+considered,1
+unapproachable,1

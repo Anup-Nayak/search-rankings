@@ -1,0 +1,7 @@
+7,300,2
+the,1
+law,1
+is,1
+unwise,1
+and,1
+unjust,1

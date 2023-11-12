@@ -1,0 +1,6 @@
+52,106,5
+133,1
+cable,1
+to,1
+evening,1
+standard,1

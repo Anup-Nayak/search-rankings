@@ -1,0 +1,15 @@
+90,212,8
+1vide,1
+draft,1
+letter,1
+of,1
+authority,1
+9,1
+4,1
+1946,1
+2vide,1
+the,2
+following,1
+item,2
+3vide,1
+preceding,1

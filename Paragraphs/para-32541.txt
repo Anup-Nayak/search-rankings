@@ -1,0 +1,15 @@
+10,376,6
+1,1
+it,1
+left,1
+south,1
+africa,1
+on,2
+june,1
+23,1
+and,1
+reached,1
+england,1
+july,1
+10,1
+1909,1

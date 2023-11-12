@@ -1,0 +1,7 @@
+38,203,1
+190,1
+speech,1
+at,1
+madhi,1
+mandvi,1
+taluk,1

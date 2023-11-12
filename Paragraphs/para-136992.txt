@@ -1,0 +1,8 @@
+40,85,3
+silence,1
+day,1
+after,1
+september,1
+11,1
+1927,1
+1,1

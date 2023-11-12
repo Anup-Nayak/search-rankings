@@ -1,0 +1,15 @@
+55,150,11
+1,1
+the,2
+addressee,1
+was,1
+aspiring,1
+to,1
+observe,1
+brahmacharya,1
+2,1
+god,1
+in,1
+form,1
+of,1
+truth,1

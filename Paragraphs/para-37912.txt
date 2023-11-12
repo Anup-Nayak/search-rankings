@@ -1,0 +1,4 @@
+11,478,7
+persons,1
+not,1
+prohibited,1

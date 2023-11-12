@@ -1,0 +1,10 @@
+40,22,2
+may,1
+god,1
+be,1
+your,1
+rock,1
+help,1
+strength,1
+and,1
+all,1

@@ -1,0 +1,9 @@
+6,58,1
+main,1
+station,1
+from,1
+which,1
+i,1
+get,1
+my,1
+ticket,1

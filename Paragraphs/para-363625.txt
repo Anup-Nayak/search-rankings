@@ -1,0 +1,14 @@
+94,61,14
+a,1
+gandhiji,1
+said,1
+that,1
+there,1
+was,1
+no,1
+occasion,1
+for,1
+women,1
+to,1
+consider,1
+themselves,1

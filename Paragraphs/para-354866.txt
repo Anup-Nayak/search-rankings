@@ -1,0 +1,4 @@
+92,23,5
+a,1
+correspondent,1
+writes,1

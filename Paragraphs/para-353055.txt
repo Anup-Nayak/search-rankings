@@ -1,0 +1,13 @@
+91,287,13
+no,1
+joy,2
+can,1
+compare,1
+with,1
+the,1
+of,1
+doing,1
+ones,1
+duty,1
+in,1
+silence,1

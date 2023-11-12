@@ -1,0 +1,8 @@
+88,126,2
+aminbhai,1
+anti,1
+cholera,1
+camp,1
+sindi,1
+khandala,1
+wardha,1

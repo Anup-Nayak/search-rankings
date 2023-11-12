@@ -1,0 +1,6 @@
+39,40,5
+51,1
+letter,1
+to,1
+ottama,1
+bhikkhu,1

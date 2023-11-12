@@ -1,0 +1,6 @@
+38,253,3
+bapu,1
+ps,1
+movement,1
+uncertain,1
+yet,1

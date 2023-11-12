@@ -1,0 +1,7 @@
+22,73,2
+48,1
+speech,1
+at,1
+bettiah,1
+goshala,1
+1,1

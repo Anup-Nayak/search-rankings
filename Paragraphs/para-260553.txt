@@ -1,0 +1,13 @@
+70,81,14
+1,1
+vide,1
+the,3
+preceding,1
+item,1
+2,1
+in,1
+source,1
+letters,1
+are,1
+smudged,1
+here,1

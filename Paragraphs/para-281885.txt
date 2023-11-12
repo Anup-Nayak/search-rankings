@@ -1,0 +1,10 @@
+75,246,13
+rule,1
+the,1
+world,1
+there,1
+is,1
+no,1
+chance,1
+at,1
+all,1

@@ -1,0 +1,9 @@
+47,369,9
+cond,1
+letter2,1
+but,1
+there,1
+should,1
+be,1
+no,1
+hurry,1

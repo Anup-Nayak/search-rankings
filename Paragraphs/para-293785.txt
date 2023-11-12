@@ -1,0 +1,7 @@
+78,221,29
+1,1
+the,1
+source,1
+is,1
+damaged,1
+here,1

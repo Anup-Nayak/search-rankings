@@ -1,0 +1,12 @@
+27,471,22
+that,1
+the,2
+government,1
+is,1
+absolutely,1
+independent,1
+of,1
+legislative,1
+bodies,1
+which,1
+do,1

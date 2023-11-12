@@ -1,0 +1,7 @@
+6,534,6
+provision,1
+as,1
+to,1
+holding,1
+fixed,1
+property,1

@@ -1,0 +1,12 @@
+53,82,5
+q,1
+do,1
+these,1
+conditions,1
+apply,1
+only,2
+to,2
+the,2
+pact,2
+a,1
+yes,1

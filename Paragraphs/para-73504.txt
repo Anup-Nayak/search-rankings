@@ -1,0 +1,12 @@
+21,144,4
+1,1
+at,1
+a,1
+public,1
+meeting,1
+on,1
+the,2
+beach,1
+opposite,1
+presidency,1
+college,1

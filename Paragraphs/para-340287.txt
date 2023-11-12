@@ -1,0 +1,6 @@
+88,190,3
+400,1
+letter,1
+to,1
+navnit,1
+shah,1

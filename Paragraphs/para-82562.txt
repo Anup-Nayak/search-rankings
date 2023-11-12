@@ -1,0 +1,15 @@
+24,210,4
+a,2
+no,1
+sir,1
+those,1
+of,1
+us,1
+who,1
+are,1
+advanced,1
+in,1
+age,1
+beg,1
+for,1
+living,1

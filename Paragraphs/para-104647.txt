@@ -1,0 +1,11 @@
+31,3,3
+3,1
+the,1
+rule,1
+making,1
+khadi,1
+compulsory,1
+proclaims,1
+that,1
+its,1
+voluntary,1

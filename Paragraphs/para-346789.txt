@@ -1,0 +1,6 @@
+90,19,9
+redress,1
+grievance,1
+if,1
+any,1
+bapu,1

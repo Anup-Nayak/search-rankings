@@ -1,0 +1,6 @@
+8,384,4
+interview,1
+unsatisfactory,1
+immigration,1
+amendment,1
+drastic,1

@@ -1,0 +1,9 @@
+24,433,11
+your,1
+cow,1
+of,1
+plenty,1
+giving,1
+back,1
+her,1
+milk,1

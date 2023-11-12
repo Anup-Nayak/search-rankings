@@ -1,0 +1,14 @@
+41,301,5
+q,1
+there,1
+is,2
+no,1
+country,1
+in,1
+the,1
+world,1
+which,1
+free,1
+from,1
+foreign,1
+competition,1

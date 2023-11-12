@@ -1,0 +1,13 @@
+84,350,7
+1,1
+the,2
+superscription,1
+and,1
+subscription,1
+are,1
+in,1
+devanagari,1
+script,1
+2,1
+ammu,1
+swaminathan,1

@@ -1,0 +1,6 @@
+87,149,21
+dinshah,1
+mehta,1
+nature,1
+cure,1
+clinic,1

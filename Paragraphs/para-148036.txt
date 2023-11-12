@@ -1,0 +1,6 @@
+43,112,1
+127,1
+letter,1
+to,1
+vipin,1
+bihari,1

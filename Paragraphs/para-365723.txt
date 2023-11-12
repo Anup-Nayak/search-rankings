@@ -1,0 +1,10 @@
+94,316,10
+2,1
+to,1
+a,1
+person,1
+who,1
+had,1
+confessed,1
+his,1
+guilt,1

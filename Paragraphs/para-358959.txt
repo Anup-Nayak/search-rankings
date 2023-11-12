@@ -1,0 +1,8 @@
+92,454,5
+656,1
+speech,1
+at,1
+goalundo,1
+november,1
+6,1
+1946,1

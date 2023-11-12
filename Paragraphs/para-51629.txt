@@ -1,0 +1,6 @@
+15,145,5
+kashiji,1
+friday,1
+february,1
+4,1
+1916,1

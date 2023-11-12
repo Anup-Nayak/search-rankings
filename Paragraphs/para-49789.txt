@@ -1,0 +1,6 @@
+14,480,4
+letter,1
+from,1
+minister,1
+of,1
+interior,1

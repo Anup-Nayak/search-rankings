@@ -1,0 +1,16 @@
+25,247,6
+allahabad,1
+pandit,4
+motilal,1
+nehru,4
+maulana,1
+sherar,1
+jawaharlal,1
+n,1
+sherwani,1
+shyamlal,1
+kamaluddin,1
+jafferi,1
+mohanlal,1
+ranendranath,1
+basu,1

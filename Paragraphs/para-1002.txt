@@ -1,0 +1,5 @@
+1,197,1
+character,1
+of,1
+the,1
+indians,1

@@ -1,0 +1,10 @@
+12,356,5
+pragji,1
+k,1
+desai,1
+salej,1
+post,1
+amalsad,1
+taluka,1
+jalalpur,1
+gujarati,1

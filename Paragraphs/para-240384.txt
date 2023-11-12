@@ -1,0 +1,7 @@
+65,322,13
+371,1
+letter,1
+to,1
+g,1
+s,1
+narasimhachari,1

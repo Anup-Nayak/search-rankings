@@ -1,0 +1,9 @@
+14,152,6
+victions,1
+have,1
+taken,1
+place,1
+during,1
+the,1
+current,1
+month,1

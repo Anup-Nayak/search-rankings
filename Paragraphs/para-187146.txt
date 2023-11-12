@@ -1,0 +1,7 @@
+53,64,3
+71,1
+interview,1
+to,1
+the,1
+hindustan,1
+times,1

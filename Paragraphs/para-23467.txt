@@ -1,0 +1,8 @@
+8,62,1
+40,1
+letter,1
+to,1
+receiver,1
+of,1
+revenues,1
+1,1

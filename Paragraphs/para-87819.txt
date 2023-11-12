@@ -1,0 +1,4 @@
+26,66,1
+frightfulness,1
+in,1
+meerut,1

@@ -1,0 +1,4 @@
+61,168,10
+while,1
+observing,1
+silence,1

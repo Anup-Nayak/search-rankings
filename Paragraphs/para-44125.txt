@@ -1,0 +1,9 @@
+13,297,10
+8,1
+maganbhai,1
+patel,1
+a,1
+teacher,1
+in,1
+phoenix,1
+school,1

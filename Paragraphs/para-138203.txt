@@ -1,0 +1,9 @@
+40,304,3
+192,1
+letter,1
+to,1
+r,1
+parthasarthi,1
+october,1
+24,1
+1927,1

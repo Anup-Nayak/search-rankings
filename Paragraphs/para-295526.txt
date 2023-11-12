@@ -1,0 +1,15 @@
+78,405,10
+but,1
+it,1
+is,1
+not,2
+strange,1
+that,2
+they,1
+will,1
+listen,1
+to,1
+you,1
+seeing,1
+the,1
+congress,1

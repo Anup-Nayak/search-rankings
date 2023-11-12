@@ -1,0 +1,9 @@
+14,7,4
+one,1
+member,1
+be,1
+selected,1
+by,1
+planters,1
+and,2
+others,1

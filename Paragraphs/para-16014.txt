@@ -1,0 +1,6 @@
+6,79,5
+yours,1
+faithfully,1
+theodore,1
+morison,1
+esq,1

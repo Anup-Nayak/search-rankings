@@ -1,0 +1,11 @@
+27,288,4
+while,1
+commenting,1
+on,1
+the,2
+tibbya,1
+college,1
+incident,1
+in,1
+young,1
+india,1

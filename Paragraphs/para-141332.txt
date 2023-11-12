@@ -1,0 +1,8 @@
+41,270,1
+307,1
+letter,1
+to,1
+a,1
+s,1
+mannadi,1
+nayar,1

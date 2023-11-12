@@ -1,0 +1,4 @@
+35,413,4
+a,1
+teacher,1
+writes,1

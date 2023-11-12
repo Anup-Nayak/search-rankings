@@ -1,0 +1,10 @@
+66,4,6
+8,1
+letter,1
+to,1
+amritlal,1
+v,1
+thakkar,1
+december,1
+17,1
+1934,1

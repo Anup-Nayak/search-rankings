@@ -1,0 +1,3 @@
+31,218,2
+transvaal,1
+indians,1

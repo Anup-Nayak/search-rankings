@@ -1,0 +1,8 @@
+34,308,1
+40,1
+letter,1
+to,1
+superintendent,1
+leper,1
+asylum,1
+purulia,1

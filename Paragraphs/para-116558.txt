@@ -1,0 +1,7 @@
+34,420,11
+164,1
+letter,1
+to,1
+nalini,1
+r,1
+sarkar,1

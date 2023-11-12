@@ -1,0 +1,6 @@
+38,17,3
+prize,1
+essay,1
+on,1
+hand,1
+spinning,1

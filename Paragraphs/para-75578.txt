@@ -1,0 +1,9 @@
+21,520,8
+sanskrit,1
+ramachandra,1
+balwant,1
+athavale,1
+and,1
+rasiklal,1
+chhotalal,1
+parikh,1

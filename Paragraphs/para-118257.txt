@@ -1,0 +1,6 @@
+35,105,5
+143,1
+letter,1
+to,1
+william,1
+doull,1

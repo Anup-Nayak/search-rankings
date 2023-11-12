@@ -1,0 +1,14 @@
+28,65,3
+mani,1
+wasnt,1
+it,1
+nice,1
+of,1
+you,1
+to,1
+have,1
+come,1
+yesterday,1
+and,1
+gone,1
+away,1

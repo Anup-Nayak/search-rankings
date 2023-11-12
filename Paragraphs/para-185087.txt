@@ -1,0 +1,12 @@
+52,323,30
+1,1
+a,1
+small,1
+village,1
+about,1
+12,1
+miles,1
+from,1
+surat,1
+in,1
+gujarat,1

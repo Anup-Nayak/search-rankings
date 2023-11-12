@@ -1,0 +1,7 @@
+83,36,9
+46,1
+interview,1
+to,1
+the,1
+united,1
+press,1

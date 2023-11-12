@@ -1,0 +1,9 @@
+53,202,8
+for,1
+london,1
+letter,1
+raises,1
+issues,1
+of,1
+first,1
+magnitude,1

@@ -1,0 +1,17 @@
+49,162,11
+ideal,1
+but,1
+unless,1
+he,1
+can,1
+get,1
+it,2
+incorporated,1
+in,1
+a,1
+crowd,1
+is,1
+barren,1
+of,1
+effect,1
+and,1

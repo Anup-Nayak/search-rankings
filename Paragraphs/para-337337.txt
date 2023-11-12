@@ -1,0 +1,10 @@
+87,390,6
+blessings,1
+from,1
+bapu,1
+shri,1
+amritlal,1
+nanavati,1
+gujarat,1
+vidyapith,1
+ahmedabad,1

@@ -1,0 +1,16 @@
+47,285,9
+1,1
+from,1
+a,1
+poem,1
+by,1
+manibhai,1
+nabhubhai,1
+dwivedi,1
+the,1
+original,1
+has,1
+hidden,1
+instead,1
+of,1
+covered,1

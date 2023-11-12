@@ -1,0 +1,13 @@
+72,206,7
+christian,1
+indians,1
+who,1
+love,1
+india,1
+and,1
+care,1
+for,1
+the,2
+real,1
+welfare,1
+of,1

@@ -1,0 +1,14 @@
+94,410,5
+i,2
+think,1
+what,1
+you,1
+write,1
+about,1
+abha,1
+is,1
+correct,1
+am,1
+writing,1
+to,1
+kanu,1

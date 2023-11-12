@@ -1,0 +1,11 @@
+14,494,13
+powers,1
+to,2
+grant,1
+free,1
+passage,1
+india,1
+at,1
+request,1
+of,1
+indians,1

@@ -1,0 +1,8 @@
+86,386,8
+have,1
+authority,1
+contradict,1
+all,1
+his,1
+many,1
+mis,1

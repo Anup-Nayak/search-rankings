@@ -1,0 +1,7 @@
+5,56,2
+50,1
+the,1
+status,1
+of,1
+british,1
+indians,1

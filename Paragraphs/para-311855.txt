@@ -1,0 +1,15 @@
+82,165,4
+to,2
+england,1
+europe,1
+and,1
+you,2
+stayed,1
+long,1
+in,1
+south,1
+africa,1
+but,1
+have,1
+never,1
+been,1

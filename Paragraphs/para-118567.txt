@@ -1,0 +1,6 @@
+35,138,5
+190,1
+letter,1
+to,1
+amritlal,1
+bahechardas,1

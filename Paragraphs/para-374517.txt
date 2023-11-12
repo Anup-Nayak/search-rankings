@@ -1,0 +1,14 @@
+97,132,12
+1,1
+gandhiji,1
+gave,1
+this,1
+name,1
+to,1
+the,3
+addressee,1
+superscription,1
+is,1
+in,1
+devanagari,1
+script,1

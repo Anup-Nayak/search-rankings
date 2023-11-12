@@ -1,0 +1,15 @@
+24,219,18
+destruction,1
+and,1
+the,2
+clothing,1
+of,1
+even,1
+poorest,1
+among,1
+us,1
+with,1
+such,1
+cloth,1
+would,1
+be,1

@@ -1,0 +1,14 @@
+23,300,6
+bulwark,1
+against,1
+bolshevism,1
+indians,1
+did,1
+not,1
+want,1
+chaos,1
+and,1
+terror,1
+in,1
+this,1
+land,1

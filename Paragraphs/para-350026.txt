@@ -1,0 +1,11 @@
+90,401,3
+from,1
+a,1
+copy,1
+of,1
+the,1
+hindi,1
+pyarela,1
+papers,1
+courtesy,1
+pyarelal,1

@@ -1,0 +1,15 @@
+55,280,13
+1,1
+this,1
+paragraph,1
+is,1
+in,1
+urdu,1
+the,1
+passages,1
+copied,1
+out,1
+are,1
+not,1
+translated,1
+here,1

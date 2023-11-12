@@ -1,0 +1,10 @@
+48,36,7
+your,1
+wire,1
+replied,1
+letter,1
+for,1
+present,1
+better,1
+serve,1
+common,1

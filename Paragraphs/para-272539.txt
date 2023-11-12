@@ -1,0 +1,7 @@
+73,135,3
+would,1
+be,1
+equally,1
+valuable,1
+and,1
+consistent,1

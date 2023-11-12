@@ -1,0 +1,7 @@
+2,274,6
+to,1
+the,2
+honourable,1
+colonial,1
+secretary,1
+pietermaritzburg,1

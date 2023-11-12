@@ -1,0 +1,12 @@
+86,61,4
+blessings,1
+from,2
+bapu,1
+gujarati,1
+c,1
+w,1
+7686,1
+courtesy,1
+k,1
+m,1
+munshi,1

@@ -1,0 +1,7 @@
+26,345,3
+weather,1
+permitting,1
+1,1
+going,1
+bardoli,1
+sunday,1

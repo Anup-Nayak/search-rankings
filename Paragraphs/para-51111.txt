@@ -1,0 +1,16 @@
+15,100,14
+2,1
+vide,2
+speech,2
+at,2
+reception,2
+by,2
+mahajan,1
+sabha,1
+and,1
+congress,1
+committee,1
+madras,2
+3,1
+muslim,1
+league,1

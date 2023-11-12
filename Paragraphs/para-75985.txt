@@ -1,0 +1,6 @@
+22,68,2
+46,1
+speech,1
+at,1
+muzaffarpur,1
+1,1

@@ -1,0 +1,6 @@
+40,54,4
+i,1
+shall,1
+give,1
+the,1
+meaning,1

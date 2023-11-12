@@ -1,0 +1,17 @@
+11,384,4
+the,2
+chinese,1
+have,2
+also,1
+held,1
+meetings,1
+and,1
+passed,1
+resolutions,1
+accepting,1
+proposed,1
+settlement,1
+asking,1
+mr,1
+gandhi,1
+to,1

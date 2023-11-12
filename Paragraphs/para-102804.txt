@@ -1,0 +1,7 @@
+30,207,13
+a,1
+some,1
+leaves,1
+were,1
+shown,1
+separately,1

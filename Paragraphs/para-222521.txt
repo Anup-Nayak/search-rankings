@@ -1,0 +1,9 @@
+61,151,6
+guest,1
+room,1
+accommodation,1
+but,1
+if,1
+he,2
+must,1
+should,1

@@ -1,0 +1,14 @@
+52,448,18
+reports,1
+were,2
+not,1
+true,2
+or,1
+if,1
+they,1
+that,1
+you,1
+are,1
+now,1
+alright,1
+again,1

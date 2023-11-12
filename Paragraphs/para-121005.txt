@@ -1,0 +1,9 @@
+35,430,6
+m,1
+k,1
+gandhi,1
+sjt,1
+g,1
+d,1
+chatterjee,1
+lahore,1

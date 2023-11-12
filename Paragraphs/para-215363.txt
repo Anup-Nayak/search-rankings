@@ -1,0 +1,8 @@
+59,339,4
+1,1
+vide,1
+also,1
+a,2
+sanatanists,2
+conclusions,1
+conclursions,1

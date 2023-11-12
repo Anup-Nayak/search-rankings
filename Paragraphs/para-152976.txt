@@ -1,0 +1,10 @@
+44,253,4
+1,1
+vide,1
+speech,1
+at,1
+farewell,1
+meeting,1
+october,1
+15,1
+1901,1

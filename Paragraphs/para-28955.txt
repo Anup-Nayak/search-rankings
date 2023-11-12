@@ -1,0 +1,14 @@
+9,389,4
+1,1
+a,2
+small,1
+four,1
+wheeled,1
+cart,1
+by,1
+pushing,1
+which,1
+child,1
+learns,1
+to,1
+walk,1

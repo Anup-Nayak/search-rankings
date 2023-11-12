@@ -1,0 +1,10 @@
+57,86,4
+learn,1
+bharati,1
+had,1
+fall,1
+from,1
+horse,1
+wire,1
+correct,1
+state,1

@@ -1,0 +1,16 @@
+24,220,26
+i,1
+do,1
+not,1
+question,1
+the,1
+spectacular,1
+effect,1
+of,1
+destruction,1
+by,1
+fire,1
+or,1
+its,1
+efficacy,1
+to,1

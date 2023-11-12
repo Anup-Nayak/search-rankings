@@ -1,0 +1,6 @@
+5,372,2
+336,1
+indians,1
+in,1
+delagoa,1
+bay,1

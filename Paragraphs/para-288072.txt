@@ -1,0 +1,6 @@
+77,16,7
+25,1
+letter,1
+to,1
+tara,1
+jasani,1

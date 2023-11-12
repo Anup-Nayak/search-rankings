@@ -1,0 +1,17 @@
+83,101,1
+it,1
+cant,1
+change,1
+the,1
+will,1
+of,2
+a,1
+group,1
+people,1
+who,1
+are,1
+determined,1
+to,1
+go,1
+their,1
+way,1

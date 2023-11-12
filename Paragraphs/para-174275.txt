@@ -1,0 +1,14 @@
+50,67,4
+blessings,1
+from,1
+bapu,1
+ps,1
+do,1
+you,1
+go,1
+out,1
+for,1
+a,1
+daily,1
+walk,1
+there,1

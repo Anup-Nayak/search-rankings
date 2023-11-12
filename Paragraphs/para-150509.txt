@@ -1,0 +1,6 @@
+43,392,2
+wardha,1
+friday,1
+december,1
+14,1
+1928,1

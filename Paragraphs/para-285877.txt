@@ -1,0 +1,6 @@
+76,223,10
+3,1
+son,1
+of,1
+narandas,1
+gandhi,1

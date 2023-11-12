@@ -1,0 +1,6 @@
+80,360,6
+628,1
+letter,1
+to,1
+margarete,1
+spiegel,1

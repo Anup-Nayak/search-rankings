@@ -1,0 +1,17 @@
+74,27,8
+give,1
+it,1
+i,2
+will,2
+have,1
+to,1
+assure,1
+myself,1
+further,1
+about,1
+her,1
+if,1
+necessary,1
+make,1
+a,1
+change,1

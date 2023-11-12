@@ -1,0 +1,16 @@
+72,333,2
+iii,1
+primary,1
+education,1
+should,1
+be,1
+fully,1
+up,1
+to,1
+the,1
+matriculation,1
+standard,1
+less,1
+of,1
+course,1
+english,1

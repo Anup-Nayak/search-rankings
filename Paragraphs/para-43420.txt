@@ -1,0 +1,13 @@
+13,195,4
+7,1
+if,1
+anything,1
+can,1
+bring,1
+about,1
+a,1
+cure,1
+these,1
+measures,1
+certainly,1
+will,1

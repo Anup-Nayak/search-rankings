@@ -1,0 +1,10 @@
+34,379,10
+yours,1
+encl,1
+1,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+19354,1

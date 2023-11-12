@@ -1,0 +1,8 @@
+46,157,6
+present,1
+day,1
+civilization,1
+still,1
+plying,1
+their,1
+charkhas,1

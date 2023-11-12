@@ -1,0 +1,8 @@
+85,310,5
+bapu,1
+mahendra,1
+bhogibhai,1
+kevalram,1
+mavjis,1
+building,1
+rajkot,1

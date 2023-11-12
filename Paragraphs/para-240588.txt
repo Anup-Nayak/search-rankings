@@ -1,0 +1,10 @@
+65,340,4
+francisca,1
+standenath,1
+trautmausdorfgasse,1
+no,1
+1,1
+graz,1
+styria,1
+austria,1
+europe,1

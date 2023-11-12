@@ -1,0 +1,5 @@
+97,81,5
+a,1
+muslim,1
+friend,1
+writes,1

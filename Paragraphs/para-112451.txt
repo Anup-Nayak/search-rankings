@@ -1,0 +1,10 @@
+33,253,4
+cannibalism,1
+were,1
+the,2
+only,1
+two,1
+expedients,1
+that,1
+civilized,1
+scientific,1

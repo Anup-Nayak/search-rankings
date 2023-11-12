@@ -1,0 +1,11 @@
+32,0,18
+must,1
+not,1
+stop,1
+but,1
+advance,1
+double,1
+speed,1
+his,1
+great,1
+spirit,1

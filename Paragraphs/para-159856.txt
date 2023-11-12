@@ -1,0 +1,7 @@
+46,188,3
+of,2
+sin,1
+by,1
+the,1
+boat,1
+knowledge,1

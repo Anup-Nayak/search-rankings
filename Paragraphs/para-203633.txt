@@ -1,0 +1,9 @@
+57,85,8
+pray,1
+tell,1
+urmiladevi,1
+your,1
+heart,1
+rending,1
+wire,1
+never,1

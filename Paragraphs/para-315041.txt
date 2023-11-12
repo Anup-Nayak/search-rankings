@@ -1,0 +1,10 @@
+82,395,28
+why,1
+dont,1
+you,1
+find,1
+places,1
+for,1
+them,1
+to,2
+go,1

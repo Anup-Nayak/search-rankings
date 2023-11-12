@@ -1,0 +1,7 @@
+11,129,7
+immigration,1
+act,2
+according,1
+old,1
+persons,1
+born,1

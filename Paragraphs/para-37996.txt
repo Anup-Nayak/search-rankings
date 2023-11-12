@@ -1,0 +1,15 @@
+11,485,7
+26,1
+1,1
+the,1
+governor,1
+general,1
+may,1
+make,1
+regulations,1
+not,1
+inconsistent,1
+with,1
+this,1
+act,1
+prescribing,1

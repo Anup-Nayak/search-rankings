@@ -1,0 +1,8 @@
+13,451,34
+parliament,1
+after,1
+full,1
+discussion,1
+refused,1
+to,2
+agree,1

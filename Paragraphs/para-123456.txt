@@ -1,0 +1,7 @@
+36,245,10
+mohandas,1
+sjt,1
+ghanshyamdasji,1
+birla,1
+pilani,1
+rajputana,1

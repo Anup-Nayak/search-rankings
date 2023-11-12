@@ -1,0 +1,8 @@
+86,60,12
+1,1
+sir,1
+mirza,1
+ismail,1
+dewan,1
+of,1
+mysore,1

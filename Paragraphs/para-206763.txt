@@ -1,0 +1,7 @@
+57,397,18
+congress,1
+tentative,1
+programme,1
+civil,1
+disobedience,1
+sequence,1

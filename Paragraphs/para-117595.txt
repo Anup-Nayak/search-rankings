@@ -1,0 +1,13 @@
+35,27,8
+john,1
+haynes,1
+holmes,1
+esq,1
+12,1
+park,1
+avenue,1
+34th,1
+street,1
+new,1
+york,1
+city,1

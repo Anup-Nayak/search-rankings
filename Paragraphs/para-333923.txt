@@ -1,0 +1,9 @@
+87,63,8
+1,1
+ishopanished,1
+invocation,1
+2,1
+the,1
+text,1
+is,1
+incomplete,1

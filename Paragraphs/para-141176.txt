@@ -1,0 +1,8 @@
+41,250,7
+may,1
+go,1
+delhi,1
+if,1
+necessary,1
+health,1
+excellent,1

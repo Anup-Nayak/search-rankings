@@ -1,0 +1,9 @@
+33,258,8
+there,1
+was,1
+a,2
+pause,1
+for,1
+minute,1
+or,1
+two,1

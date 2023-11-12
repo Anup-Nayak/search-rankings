@@ -1,0 +1,7 @@
+71,185,2
+near,1
+hudli,1
+belgaum,1
+april,1
+21,1
+1937,1

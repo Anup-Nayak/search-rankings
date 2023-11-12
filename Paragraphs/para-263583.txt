@@ -1,0 +1,12 @@
+71,22,3
+g,1
+yes,1
+all,1
+prophets,1
+are,1
+equal,1
+it,1
+is,1
+a,1
+horizontal,1
+plane,1

@@ -1,0 +1,11 @@
+82,190,7
+he,1
+was,2
+reduced,1
+physically,1
+his,2
+complexion,1
+pale,1
+and,1
+face,1
+drawn,1

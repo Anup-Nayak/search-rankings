@@ -1,0 +1,7 @@
+92,50,6
+76,1
+letter,1
+to,1
+v,1
+t,1
+krishnamachari,1

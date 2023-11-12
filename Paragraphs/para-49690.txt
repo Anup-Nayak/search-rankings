@@ -1,0 +1,9 @@
+14,470,18
+root,1
+of,2
+the,1
+trouble,1
+do,1
+you,1
+think,1
+repatriation,1

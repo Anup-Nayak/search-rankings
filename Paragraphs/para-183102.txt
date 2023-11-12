@@ -1,0 +1,7 @@
+52,108,14
+khan,1
+chand,1
+dev,1
+bradlaugh,1
+hall,1
+lahore,1

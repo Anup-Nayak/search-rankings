@@ -1,0 +1,9 @@
+23,26,1
+9,1
+message,1
+for,1
+last,1
+day,1
+of,1
+satyagraha,1
+week,1

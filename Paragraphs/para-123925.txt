@@ -1,0 +1,8 @@
+36,303,1
+345,1
+letter,1
+to,1
+rev,1
+dewdney,1
+w,1
+drew,1

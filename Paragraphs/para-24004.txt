@@ -1,0 +1,12 @@
+8,143,5
+1vide,1
+cape,2
+immigration,2
+act,2
+2,2
+3,2
+1907,2
+&,1
+new,1
+in,1
+the,1

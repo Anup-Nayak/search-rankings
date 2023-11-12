@@ -1,0 +1,13 @@
+90,354,4
+1,1
+the,1
+words,1
+in,3
+italics,1
+are,1
+gandhijis,2
+hand,2
+2,1
+this,1
+paragraph,1
+is,1

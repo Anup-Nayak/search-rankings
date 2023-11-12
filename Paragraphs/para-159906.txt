@@ -1,0 +1,11 @@
+46,192,8
+can,1
+become,1
+a,1
+yogi,1
+who,1
+has,1
+not,1
+renounced,1
+selfish,1
+purpose,1

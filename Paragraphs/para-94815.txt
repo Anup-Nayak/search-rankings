@@ -1,0 +1,13 @@
+28,95,7
+2,1
+vide,1
+hindu,1
+muslim,1
+tension,1
+its,1
+cause,1
+and,1
+cure,1
+29,1
+5,1
+l924,1

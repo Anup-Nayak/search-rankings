@@ -1,0 +1,17 @@
+77,417,4
+i,2
+do,1
+not,1
+wish,1
+to,1
+give,1
+a,1
+final,1
+answer,1
+but,1
+would,1
+point,1
+out,1
+that,1
+in,1
+certain,1

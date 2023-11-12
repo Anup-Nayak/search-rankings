@@ -1,0 +1,6 @@
+35,31,5
+52,1
+letter,1
+to,1
+mathurdas,1
+trikumji,1

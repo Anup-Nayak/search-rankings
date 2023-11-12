@@ -1,0 +1,17 @@
+98,128,2
+the,3
+curious,1
+may,1
+get,1
+a,1
+copy,1
+of,1
+leaflet,1
+from,1
+her,1
+at,1
+kisan,1
+ashram,1
+rishikesh,1
+near,1
+haridwar,1

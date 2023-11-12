@@ -1,0 +1,12 @@
+33,29,4
+the,3
+secretaries,1
+ask,1
+me,1
+to,2
+draw,1
+attention,1
+of,1
+voluntary,1
+spinners,1
+following,1

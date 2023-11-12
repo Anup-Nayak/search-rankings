@@ -1,0 +1,6 @@
+88,204,3
+427,1
+letter,1
+to,1
+kamaal,1
+khan,1

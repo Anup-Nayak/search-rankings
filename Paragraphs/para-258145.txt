@@ -1,0 +1,11 @@
+69,283,7
+are,1
+you,1
+happy,2
+i,2
+can,1
+answer,1
+that,1
+question,1
+am,1
+perfectly,1

@@ -1,0 +1,11 @@
+73,394,4
+your,2
+wire,1
+patient,1
+better,1
+self,1
+well,1
+praying,1
+success,1
+mission,1
+anxious,1

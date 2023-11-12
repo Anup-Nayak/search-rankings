@@ -1,0 +1,14 @@
+56,382,7
+1,1
+jayakunvar,1
+elder,1
+daughter,1
+of,3
+dr,2
+pranjivan,2
+mehta,2
+and,1
+wife,2
+manilal,1
+doctor,1
+2,1

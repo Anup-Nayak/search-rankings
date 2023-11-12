@@ -1,0 +1,13 @@
+66,36,8
+it,1
+was,1
+bed,1
+time,1
+beds,1
+were,1
+being,1
+brought,1
+and,1
+immediately,1
+gandhiji,1
+said,1

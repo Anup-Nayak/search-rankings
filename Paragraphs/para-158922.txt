@@ -1,0 +1,8 @@
+46,81,8
+1,1
+daughter,1
+of,2
+maganlal,2
+gandhi,2
+2,1
+wife,1

@@ -1,0 +1,4 @@
+14,488,2
+the,1
+licensing,1
+acts,1

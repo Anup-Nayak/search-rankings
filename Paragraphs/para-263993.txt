@@ -1,0 +1,7 @@
+71,67,4
+nothing,1
+short,1
+prescribed,1
+assurance,1
+can,1
+answer,1

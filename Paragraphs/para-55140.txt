@@ -1,0 +1,14 @@
+16,36,1
+to,2
+the,2
+written,1
+evidence,1
+of,1
+three,1
+raiyats,1
+who,1
+had,1
+been,1
+examined,1
+publicly,1
+be,1

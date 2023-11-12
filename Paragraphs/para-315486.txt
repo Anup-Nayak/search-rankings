@@ -1,0 +1,12 @@
+82,408,29
+untouchables,1
+here,1
+in,2
+the,4
+ashram,2
+most,1
+of,1
+work,1
+is,1
+done,1
+by,1

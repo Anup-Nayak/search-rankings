@@ -1,0 +1,4 @@
+24,357,2
+gujaratis,1
+in,1
+madras,1

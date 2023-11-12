@@ -1,0 +1,7 @@
+13,430,21
+continuously,1
+issued,1
+food,1
+inferior,1
+quality,1
+ghee,1

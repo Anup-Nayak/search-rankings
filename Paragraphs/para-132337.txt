@@ -1,0 +1,13 @@
+38,400,9
+to,1
+the,1
+tune,1
+of,2
+crores,1
+rupees,1
+and,2
+retain,1
+lakhs,1
+for,1
+themselves,1
+in,1

@@ -1,0 +1,5 @@
+58,200,10
+vishva,1
+jyoti,1
+october,1
+1959,1

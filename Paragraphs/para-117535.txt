@@ -1,0 +1,7 @@
+35,22,7
+35,1
+letter,1
+to,1
+milton,1
+newberry,1
+frantz,1

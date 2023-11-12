@@ -1,0 +1,7 @@
+30,322,15
+reaching,1
+bombay,1
+thursday,1
+morning,1
+leaving,1
+same,1

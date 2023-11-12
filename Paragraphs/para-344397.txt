@@ -1,0 +1,11 @@
+89,206,6
+1,2
+the,1
+report,1
+appeared,1
+in,1
+amrita,1
+bazar,1
+patrika,1
+8,1
+1946,1

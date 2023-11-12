@@ -1,0 +1,13 @@
+76,238,10
+return,1
+1,1
+propose,1
+issuing,1
+a,1
+statement,1
+2,1
+on,1
+crisis,1
+and,1
+war,1
+resolution,1

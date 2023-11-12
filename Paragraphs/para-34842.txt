@@ -1,0 +1,9 @@
+11,152,10
+gaol,1
+as,1
+passive,1
+resister,1
+after,1
+due,1
+notice,1
+immi,1

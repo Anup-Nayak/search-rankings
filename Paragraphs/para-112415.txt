@@ -1,0 +1,6 @@
+33,250,1
+142,1
+letter,1
+to,1
+vasumati,1
+pandit,1

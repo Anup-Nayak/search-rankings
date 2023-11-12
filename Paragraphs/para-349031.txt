@@ -1,0 +1,5 @@
+90,287,15
+1,1
+unfermented,1
+palm,1
+juice,1

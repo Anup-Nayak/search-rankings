@@ -1,0 +1,6 @@
+81,54,1
+104,1
+letter,1
+to,1
+amrit,1
+kaur,1

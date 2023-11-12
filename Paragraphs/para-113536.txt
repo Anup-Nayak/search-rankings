@@ -1,0 +1,9 @@
+33,378,4
+the,3
+resolution,1
+about,1
+congress,1
+franchise,1
+and,1
+debate,1
+in,1

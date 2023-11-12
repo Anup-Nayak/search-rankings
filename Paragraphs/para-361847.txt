@@ -1,0 +1,9 @@
+93,302,6
+when,1
+a,1
+man,1
+committeth,1
+adultery,1
+iman,1
+leaveth,1
+him,1

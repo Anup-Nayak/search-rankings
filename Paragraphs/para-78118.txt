@@ -1,0 +1,17 @@
+22,458,6
+1,1
+the,3
+language,1
+spoken,1
+by,1
+majority,1
+of,2
+people,1
+in,1
+now,1
+separate,1
+province,1
+orissa,1
+also,1
+called,1
+utkal,1

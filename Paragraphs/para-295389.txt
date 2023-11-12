@@ -1,0 +1,3 @@
+78,383,5
+compulsory,1
+prayer,1

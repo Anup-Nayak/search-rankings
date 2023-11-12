@@ -1,0 +1,7 @@
+14,10,35
+revive,1
+struggle,1
+unless,1
+above,1
+demands,1
+affecting,1

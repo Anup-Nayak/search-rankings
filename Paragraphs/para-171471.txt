@@ -1,0 +1,16 @@
+49,232,10
+q,1
+2,1
+do,1
+you,2
+consider,1
+the,1
+ali,1
+brothers,1
+to,1
+be,1
+sincere,1
+in,1
+differing,1
+from,1
+over,1

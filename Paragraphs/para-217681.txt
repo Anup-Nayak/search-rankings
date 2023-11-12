@@ -1,0 +1,10 @@
+60,76,2
+97,1
+letter,1
+to,1
+dr,1
+mohammad,1
+alam,1
+march,1
+18,1
+1933,1

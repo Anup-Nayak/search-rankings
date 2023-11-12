@@ -1,0 +1,17 @@
+82,407,12
+l,1
+f,1
+no,1
+but,1
+that,1
+you,1
+regretted,1
+the,1
+passing,1
+of,1
+a,1
+man,1
+who,1
+went,1
+to,1
+fascist,1

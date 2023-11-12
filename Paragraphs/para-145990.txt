@@ -1,0 +1,7 @@
+42,356,6
+421,1
+speech,1
+to,1
+volunteers,1
+bardoli,1
+2,1

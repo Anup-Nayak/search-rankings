@@ -1,0 +1,12 @@
+39,9,3
+12,1
+letter,1
+to,1
+ashram,1
+women,1
+jeth,1
+sud,1
+6,1
+june,1
+5,1
+1927,1

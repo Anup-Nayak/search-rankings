@@ -1,0 +1,6 @@
+96,195,1
+276,1
+talk,1
+with,1
+congress,1
+workers,1

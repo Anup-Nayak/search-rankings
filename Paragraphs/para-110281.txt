@@ -1,0 +1,14 @@
+32,414,10
+human,1
+civilization,1
+be,1
+made,1
+radically,1
+superior,1
+in,1
+india,1
+to,1
+the,2
+rest,1
+of,1
+worldnow,1

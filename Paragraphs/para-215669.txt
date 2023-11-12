@@ -1,0 +1,13 @@
+59,370,10
+page,1
+8,1
+therefore,1
+a,1
+person,1
+who,1
+is,1
+to,2
+attend,1
+scavenging,1
+whether,1
+it,1

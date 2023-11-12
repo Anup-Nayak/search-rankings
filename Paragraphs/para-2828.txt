@@ -1,0 +1,4 @@
+2,78,9
+regulations,1
+strictly,1
+observed,1

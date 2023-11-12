@@ -1,0 +1,7 @@
+91,192,1
+243,1
+talk,1
+with,1
+vallabhbhai,1
+patelii,1
+1,1

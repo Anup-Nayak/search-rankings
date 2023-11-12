@@ -1,0 +1,5 @@
+7,366,8
+resolution,1
+of,1
+stanger,1
+indians,1

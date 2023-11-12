@@ -1,0 +1,10 @@
+81,190,3
+1,1
+vide,1
+implications,1
+of,1
+constructive,1
+program,1
+13,1
+8,1
+1940,1

@@ -1,0 +1,7 @@
+10,333,8
+finement,1
+prominent,1
+moslems,1
+hindus,1
+parsis,1
+in,1

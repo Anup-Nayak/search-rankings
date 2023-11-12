@@ -1,0 +1,11 @@
+82,398,30
+g,1
+yes,1
+we,1
+could,1
+have,1
+a,1
+written,1
+agreement,1
+with,1
+england,1

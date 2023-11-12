@@ -1,0 +1,4 @@
+82,17,6
+3,1
+village,1
+industries,1

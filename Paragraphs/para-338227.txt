@@ -1,0 +1,9 @@
+88,22,3
+48,1
+letter,1
+to,1
+amritlal,1
+batra,1
+september,1
+2,1
+1945,1

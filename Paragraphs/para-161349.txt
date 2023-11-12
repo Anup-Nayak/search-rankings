@@ -1,0 +1,7 @@
+46,357,3
+a,2
+patriots,1
+death,1
+correspondent,1
+writes,1
+2,1

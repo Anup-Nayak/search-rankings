@@ -1,0 +1,11 @@
+59,375,5
+sanatanists,1
+do,1
+not,1
+hate,2
+untouchables,1
+but,1
+their,1
+customs,1
+and,1
+daily,1

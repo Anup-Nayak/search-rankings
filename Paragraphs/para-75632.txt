@@ -1,0 +1,6 @@
+22,7,2
+7,1
+state,1
+of,1
+primary,1
+education,1

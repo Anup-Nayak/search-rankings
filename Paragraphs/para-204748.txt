@@ -1,0 +1,10 @@
+57,175,8
+from,1
+a,2
+photostat,1
+c,1
+w,1
+4435,1
+courtesy,1
+h,1
+west,1

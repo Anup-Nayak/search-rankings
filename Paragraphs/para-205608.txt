@@ -1,0 +1,16 @@
+57,262,7
+1,1
+vide,1
+the,2
+following,1
+item,2
+2,1
+a,1
+co,1
+worker,1
+of,1
+gandhiji,1
+in,1
+south,1
+africavide,1
+preceding,1

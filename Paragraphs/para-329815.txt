@@ -1,0 +1,15 @@
+86,111,1
+would,1
+advise,1
+you,1
+to,2
+work,1
+with,1
+full,1
+devotion,1
+also,1
+learn,1
+read,1
+and,1
+write,1
+well,1

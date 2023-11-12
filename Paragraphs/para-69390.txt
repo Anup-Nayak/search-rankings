@@ -1,0 +1,6 @@
+19,484,14
+a,1
+dreary,1
+labyrinth,1
+may,1
+thread,1

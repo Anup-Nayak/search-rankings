@@ -1,0 +1,14 @@
+27,308,3
+1,1
+the,1
+kathiawar,1
+political,1
+conference,1
+it,1
+was,1
+held,1
+at,1
+bhavnagar,1
+in,1
+january,1
+1925,1

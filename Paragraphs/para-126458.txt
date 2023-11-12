@@ -1,0 +1,12 @@
+37,93,10
+one,1
+looks,1
+upon,1
+this,2
+as,2
+a,1
+marvel,1
+another,1
+speaks,1
+of,1
+such,1

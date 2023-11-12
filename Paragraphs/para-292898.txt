@@ -1,0 +1,14 @@
+78,141,9
+the,1
+free,1
+indian,1
+nation,1
+shall,1
+work,1
+for,1
+peace,1
+between,1
+nations,1
+and,1
+total,1
+rejection,1

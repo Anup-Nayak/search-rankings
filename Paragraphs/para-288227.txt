@@ -1,0 +1,4 @@
+77,35,8
+general,1
+smuts,1
+pretoria,1

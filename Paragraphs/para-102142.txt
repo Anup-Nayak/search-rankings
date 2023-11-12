@@ -1,0 +1,8 @@
+30,131,5
+1,1
+a,1
+community,1
+of,1
+cultivators,1
+and,1
+farmers,1

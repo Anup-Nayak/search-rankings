@@ -1,0 +1,6 @@
+53,214,14
+am,1
+here,1
+some,1
+time,1
+writing,1

@@ -1,0 +1,11 @@
+61,214,4
+wired,1
+nasik,1
+early,1
+morning,1
+do,1
+come,1
+if,1
+you,1
+are,1
+well,1

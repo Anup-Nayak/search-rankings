@@ -1,0 +1,10 @@
+87,148,18
+or,1
+non,1
+caste,1
+hindus,1
+and,1
+never,1
+can,1
+even,1
+to,1

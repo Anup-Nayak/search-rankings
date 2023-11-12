@@ -1,0 +1,9 @@
+8,121,2
+71,1
+to,2
+those,1
+who,1
+submitted,1
+the,1
+obnoxious,1
+law,1

@@ -1,0 +1,10 @@
+49,149,9
+1,1
+up,1
+to,1
+here,1
+the,1
+letter,1
+is,1
+in,1
+pencil,1

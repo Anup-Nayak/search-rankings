@@ -1,0 +1,12 @@
+50,244,4
+1,1
+vide,1
+letters,1
+on,1
+the,1
+gita,2
+21,1
+2,2
+1932,1
+bhagavad,1
+xvi,1

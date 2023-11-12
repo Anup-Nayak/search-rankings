@@ -1,0 +1,13 @@
+50,61,12
+1,1
+gandhijis,1
+birthday,1
+according,1
+to,1
+the,1
+vikram,1
+calendar,1
+fell,1
+on,1
+september,1
+19,1

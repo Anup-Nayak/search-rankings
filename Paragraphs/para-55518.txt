@@ -1,0 +1,15 @@
+16,99,22
+from,1
+its,1
+recognition,1
+of,2
+these,1
+two,1
+facts,1
+it,1
+is,1
+the,2
+duty,1
+new,1
+age,1
+to,1

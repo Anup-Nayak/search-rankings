@@ -1,0 +1,13 @@
+33,124,5
+mr,2
+gandhi,1
+endorsed,1
+the,2
+remark,1
+of,1
+late,1
+gakhale,1
+that,1
+by,1
+treating,1
+some,1

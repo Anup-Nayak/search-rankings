@@ -1,0 +1,13 @@
+31,22,5
+they,2
+were,1
+disappointed,1
+because,1
+the,2
+villagers,1
+did,1
+not,1
+respond,1
+to,1
+them,1
+asked,1

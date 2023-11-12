@@ -1,0 +1,17 @@
+87,16,10
+1,1
+vide,2
+letter,1
+to,2
+valji,1
+g,1
+desai,1
+30,2
+5,2
+1945,2
+2,1
+draft,1
+forwarded,1
+gita,1
+ani,1
+gitai,1

@@ -1,0 +1,8 @@
+84,69,1
+77,1
+silence,1
+day,1
+note,1
+to,1
+mathuradas,1
+trikumji,1

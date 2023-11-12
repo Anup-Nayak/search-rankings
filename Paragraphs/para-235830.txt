@@ -1,0 +1,7 @@
+64,276,5
+1,2
+vide,1
+the,1
+preceding,1
+item,1
+footnote,1

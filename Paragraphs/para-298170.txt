@@ -1,0 +1,15 @@
+79,310,2
+mr,1
+stephen,1
+j,1
+thorne,1
+secretary,1
+to,1
+the,2
+society,1
+of,1
+friends,1
+sends,1
+me,1
+following,1
+letter,1

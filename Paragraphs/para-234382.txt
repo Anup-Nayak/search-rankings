@@ -1,0 +1,16 @@
+64,113,13
+be,1
+done,1
+to,2
+get,1
+it,1
+abolished,1
+gandhiji,1
+said,1
+his,1
+whole,1
+life,1
+had,1
+been,1
+dedicated,1
+the,1

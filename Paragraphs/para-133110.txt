@@ -1,0 +1,10 @@
+39,11,2
+kumara,1
+park,1
+bangalore,1
+city,1
+after,1
+june,1
+5,1
+1972,1
+1,1

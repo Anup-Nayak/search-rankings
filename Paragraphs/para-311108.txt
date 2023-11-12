@@ -1,0 +1,16 @@
+82,103,25
+then,1
+i,2
+would,1
+rather,1
+be,1
+damned,1
+than,1
+let,1
+these,1
+things,1
+go,1
+on,1
+without,1
+doing,1
+all,1

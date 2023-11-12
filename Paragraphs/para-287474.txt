@@ -1,0 +1,12 @@
+76,405,11
+the,4
+statement,1
+throws,1
+much,1
+light,1
+on,1
+place,1
+of,1
+palm,1
+for,1
+gur,1

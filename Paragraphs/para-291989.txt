@@ -1,0 +1,15 @@
+78,35,31
+manoeuvring,1
+is,1
+there,1
+any,1
+way,1
+in,1
+which,1
+a,1
+private,1
+soldier,1
+like,1
+myself,1
+could,1
+be,1

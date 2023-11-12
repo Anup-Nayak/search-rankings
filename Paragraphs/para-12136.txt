@@ -1,0 +1,10 @@
+5,42,1
+good,1
+to,2
+the,1
+colony,1
+is,1
+highly,1
+offensive,1
+british,1
+indians,1

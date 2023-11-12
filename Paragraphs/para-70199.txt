@@ -1,0 +1,15 @@
+20,104,5
+willing,1
+to,2
+pay,1
+they,1
+could,1
+not,1
+find,1
+any,2
+counsel,1
+of,1
+standing,1
+take,1
+up,1
+their,1

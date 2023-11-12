@@ -1,0 +1,4 @@
+57,435,8
+november,1
+12,1
+saturday,1

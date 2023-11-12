@@ -1,0 +1,9 @@
+13,46,16
+natal,1
+indians,1
+not,1
+strictly,1
+domiciled,1
+but,1
+of,1
+long,1

@@ -1,0 +1,6 @@
+82,165,6
+gandhiji,1
+no,1
+thanks,1
+to,1
+you,1

@@ -1,0 +1,13 @@
+54,127,3
+he,1
+said,1
+that,1
+if,2
+the,3
+children,1
+received,1
+right,1
+kind,1
+of,1
+training,1
+and,1

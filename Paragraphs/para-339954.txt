@@ -1,0 +1,6 @@
+88,161,10
+345,1
+letter,1
+to,1
+tarabehn,1
+modak,1

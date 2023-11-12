@@ -1,0 +1,7 @@
+69,9,7
+12,1
+letter,1
+to,1
+govind,1
+v,1
+gurjale,1

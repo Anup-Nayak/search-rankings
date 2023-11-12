@@ -1,0 +1,14 @@
+56,8,2
+an,1
+image,1
+of,2
+lord,1
+pashupati,1
+is,1
+made,1
+out,1
+clay,2
+what,1
+then,1
+would,1
+called,1

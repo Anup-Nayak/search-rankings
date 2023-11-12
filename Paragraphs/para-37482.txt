@@ -1,0 +1,5 @@
+11,420,4
+433,1
+for,1
+passive,1
+resisters,1

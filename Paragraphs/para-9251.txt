@@ -1,0 +1,16 @@
+4,84,3
+in,2
+another,1
+column,1
+we,1
+publish,1
+the,3
+prospectus,1
+of,1
+transvaal,1
+white,1
+league,1
+formed,1
+pietersburg,1
+objects,1
+are,1

@@ -1,0 +1,6 @@
+77,266,4
+322,1
+letter,1
+to,1
+kanu,1
+gandhi,1

@@ -1,0 +1,16 @@
+17,167,17
+1,1
+the,2
+mention,1
+of,1
+war,1
+effort,1
+makes,1
+it,1
+clear,1
+that,1
+letter,1
+was,1
+written,1
+in,1
+1918,1

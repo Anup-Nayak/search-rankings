@@ -1,0 +1,16 @@
+33,20,4
+bad,1
+and,3
+see,1
+accept,1
+good,1
+even,1
+in,2
+things,1
+evil,1
+this,1
+matter,1
+of,1
+civic,1
+life,1
+the,1

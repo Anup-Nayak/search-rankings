@@ -1,0 +1,10 @@
+22,333,2
+1,1
+during,1
+the,2
+martial,1
+law,1
+regime,1
+in,2
+punjab,1
+1919,1

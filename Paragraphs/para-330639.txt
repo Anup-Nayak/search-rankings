@@ -1,0 +1,6 @@
+86,187,1
+344,1
+letter,1
+to,1
+mohammad,1
+yunus,1

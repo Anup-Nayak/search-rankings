@@ -1,0 +1,14 @@
+54,112,10
+in,1
+answer,1
+to,1
+a,1
+question,1
+on,1
+the,1
+hindu,1
+muslim,1
+problem,1
+mahatma,1
+gandhi,1
+said,1

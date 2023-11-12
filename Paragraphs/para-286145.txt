@@ -1,0 +1,15 @@
+76,252,1
+am,1
+sure,1
+i,1
+shall,1
+get,1
+a,2
+letter,1
+from,2
+her,1
+in,1
+day,1
+or,1
+two,1
+blessings,1

@@ -1,0 +1,15 @@
+24,220,12
+poisonous,1
+food,1
+to,2
+a,2
+poor,1
+and,1
+starving,1
+indian,1
+might,1
+he,1
+offer,1
+it,1
+helpless,1
+turk,1

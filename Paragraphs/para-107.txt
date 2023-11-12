@@ -1,0 +1,6 @@
+1,27,2
+13,1
+some,1
+indian,1
+festivals,1
+i,1

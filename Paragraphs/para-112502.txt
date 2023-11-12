@@ -1,0 +1,6 @@
+33,259,3
+an,1
+hour,1
+each,1
+day,1
+regularly,1

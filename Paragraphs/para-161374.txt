@@ -1,0 +1,15 @@
+46,362,4
+4,1
+there,1
+is,1
+no,1
+difficulty,1
+about,1
+digesting,1
+uncooked,2
+sprouted,1
+grains,1
+and,2
+pulses,1
+green,1
+vegetables,1

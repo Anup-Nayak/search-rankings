@@ -1,0 +1,6 @@
+4,303,6
+255,1
+smallpox,1
+epidemic,1
+in,1
+johannesburg,1

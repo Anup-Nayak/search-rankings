@@ -1,0 +1,9 @@
+7,414,7
+act,2
+shall,1
+mean,1
+the,1
+asiatic,1
+law,1
+amendment,1
+1907,1

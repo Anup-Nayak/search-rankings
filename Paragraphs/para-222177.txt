@@ -1,0 +1,5 @@
+61,115,11
+rejoice,1
+do,1
+duty,1
+there,1

@@ -1,0 +1,10 @@
+46,86,5
+1,1
+vide,2
+in,1
+andhra,1
+desha,1
+iii,1
+2,1
+goseva,1
+sangha,1

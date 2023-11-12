@@ -1,0 +1,6 @@
+84,116,6
+162,1
+letter,1
+to,1
+kamala,1
+devi,1

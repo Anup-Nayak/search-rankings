@@ -1,0 +1,12 @@
+57,186,10
+1,1
+the,1
+addressee,1
+had,1
+suggested,1
+withdrawal,1
+or,1
+suspension,1
+of,1
+civil,1
+disobedience,1

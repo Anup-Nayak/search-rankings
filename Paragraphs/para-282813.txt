@@ -1,0 +1,6 @@
+75,370,11
+1,1
+dewan,1
+of,1
+mysore,1
+state,1

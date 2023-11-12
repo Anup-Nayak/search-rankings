@@ -1,0 +1,9 @@
+16,105,3
+41,1
+speech,1
+at,1
+conference,1
+of,1
+humanitarian,1
+league,1
+1,1

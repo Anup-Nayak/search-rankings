@@ -1,0 +1,9 @@
+31,106,5
+65,1
+speech,1
+in,1
+reply,1
+to,1
+welcome,1
+address,1
+palitana,1

@@ -1,0 +1,13 @@
+14,98,3
+from,1
+a,2
+photostat,1
+of,2
+copy,1
+the,1
+original,1
+s,1
+n,1
+5945,1
+&,1
+5954,1

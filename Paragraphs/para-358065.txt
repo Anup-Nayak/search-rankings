@@ -1,0 +1,14 @@
+92,371,4
+friday,1
+september,1
+13,1
+1946,1
+dying,2
+for,2
+religion,1
+is,1
+good,1
+fanaticism,1
+neither,1
+nor,1
+living,1

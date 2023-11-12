@@ -1,0 +1,3 @@
+14,21,11
+stantial,1
+education,1

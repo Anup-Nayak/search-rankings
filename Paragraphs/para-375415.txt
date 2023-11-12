@@ -1,0 +1,5 @@
+97,262,7
+fie,1
+upon,1
+physical,1
+force,1

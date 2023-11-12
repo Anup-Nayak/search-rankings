@@ -1,0 +1,17 @@
+35,429,4
+a,2
+gentleman,1
+writes,1
+as,1
+follows,1
+in,1
+support,1
+of,2
+my,1
+note,1
+explaining,1
+the,1
+qualities,1
+true,1
+guru,1
+1,1

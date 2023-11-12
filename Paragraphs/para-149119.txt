@@ -1,0 +1,9 @@
+43,238,3
+a,2
+lad,1
+of,1
+sixteen,1
+and,1
+half,1
+writes,1
+1,1

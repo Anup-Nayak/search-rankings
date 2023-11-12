@@ -1,0 +1,14 @@
+30,424,7
+1,1
+a,1
+medieval,1
+gujarati,1
+saint,1
+poet,1
+2,1
+the,1
+letter,1
+is,1
+not,1
+translated,1
+here,1

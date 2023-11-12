@@ -1,0 +1,11 @@
+16,360,4
+1,1
+this,1
+sentence,1
+is,1
+not,1
+found,1
+in,2
+the,1
+report,1
+gujarati,1

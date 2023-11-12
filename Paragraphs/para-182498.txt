@@ -1,0 +1,10 @@
+52,40,5
+53,1
+letter,1
+to,1
+boyd,1
+tucker,1
+borsad,1
+may,1
+5,1
+1931,1

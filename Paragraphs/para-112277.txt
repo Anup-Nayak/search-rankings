@@ -1,0 +1,6 @@
+33,231,7
+8,2
+chhaganlal,1
+shivlal,1
+dahod,1
+000,1

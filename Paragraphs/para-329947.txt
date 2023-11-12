@@ -1,0 +1,5 @@
+86,121,8
+abdul,1
+ghaffar,1
+khan,1
+charsada,1

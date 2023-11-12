@@ -1,0 +1,6 @@
+7,278,2
+221,1
+for,1
+passive,1
+resisters,1
+1,1

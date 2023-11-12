@@ -1,0 +1,6 @@
+10,23,6
+negotiations,1
+proceeding,1
+government,1
+agree,1
+repeal,1

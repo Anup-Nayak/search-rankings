@@ -1,0 +1,13 @@
+50,302,9
+bapu,1
+pandit,1
+totaramji,1
+harijan,1
+ashram,1
+sabarmati,1
+jn,1
+b,2
+&,1
+c,1
+i,1
+rly,1

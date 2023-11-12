@@ -1,0 +1,13 @@
+11,162,7
+1,1
+vide,2
+telegram,2
+to,2
+minister,2
+of,2
+interior,2
+8,1
+11,2
+1910,2
+2,1
+10,1

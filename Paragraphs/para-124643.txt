@@ -1,0 +1,10 @@
+36,384,10
+1,1
+videnon,1
+resistance,1
+true,1
+and,1
+false,1
+23,1
+9,1
+1926,1

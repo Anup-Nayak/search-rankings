@@ -1,0 +1,13 @@
+12,150,1
+being,2
+subject,1
+to,2
+the,2
+satisfaction,1
+of,2
+an,1
+immigration,1
+officer,1
+instead,1
+left,1
+court,1

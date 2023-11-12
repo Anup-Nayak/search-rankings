@@ -1,0 +1,8 @@
+15,212,7
+159,1
+speech,1
+at,1
+condolence,1
+meeting,1
+ahmedabad,1
+2,1

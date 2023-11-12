@@ -1,0 +1,4 @@
+36,249,3
+283,1
+widow,1
+remarriage,1

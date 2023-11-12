@@ -1,0 +1,13 @@
+96,49,3
+71,1
+talk,1
+with,1
+a,1
+visitor,1
+on,1
+or,1
+before,1
+july,1
+14,1
+1947,1
+1,1

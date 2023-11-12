@@ -1,0 +1,9 @@
+53,440,4
+yours,1
+sincerely,1
+herr,1
+pastor,1
+forell,1
+swedish,1
+church,1
+berlin,1

@@ -1,0 +1,9 @@
+14,275,1
+unhappy,1
+vraj,1
+lovers,1
+all,1
+happy,1
+in,1
+their,1
+love,1

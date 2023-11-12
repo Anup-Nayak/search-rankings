@@ -1,0 +1,11 @@
+61,28,9
+8,1
+cause,1
+pollution,1
+a,2
+by,1
+touch,1
+b,1
+within,1
+certain,1
+distance,1

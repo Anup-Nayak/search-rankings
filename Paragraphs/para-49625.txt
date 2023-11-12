@@ -1,0 +1,10 @@
+14,468,25
+and,1
+respect,1
+indian,1
+sentiments,1
+it,1
+was,1
+impossible,1
+for,1
+indians,1

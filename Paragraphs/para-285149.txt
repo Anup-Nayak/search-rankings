@@ -1,0 +1,8 @@
+76,143,10
+1,1
+the,1
+source,1
+has,1
+these,1
+in,1
+gujarati,1

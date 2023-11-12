@@ -1,0 +1,10 @@
+62,292,24
+1,1
+gandhiji,1
+then,1
+declared,1
+open,1
+to,1
+harijans,1
+two,1
+temples,1

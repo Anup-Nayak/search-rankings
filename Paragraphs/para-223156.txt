@@ -1,0 +1,17 @@
+61,217,6
+1,1
+this,1
+item,1
+has,1
+been,1
+collated,1
+with,1
+the,1
+gujarati,1
+version,1
+published,1
+in,1
+harijanbandhu,1
+9,1
+7,1
+1933,1

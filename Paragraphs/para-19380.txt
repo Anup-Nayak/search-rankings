@@ -1,0 +1,6 @@
+6,490,2
+penalty,1
+for,1
+giving,1
+false,1
+evidence,1

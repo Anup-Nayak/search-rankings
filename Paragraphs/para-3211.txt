@@ -1,0 +1,12 @@
+2,106,10
+the,2
+government,1
+needs,1
+no,1
+reminder,1
+of,2
+its,1
+responsibility,1
+for,1
+maintenance,1
+order,1

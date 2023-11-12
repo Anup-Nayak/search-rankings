@@ -1,0 +1,6 @@
+9,224,1
+142,1
+exemplary,1
+case,1
+of,1
+satyagraha,1

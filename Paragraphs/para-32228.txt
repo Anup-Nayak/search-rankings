@@ -1,0 +1,12 @@
+10,337,4
+from,1
+mahatma,1
+gandhiji,1
+na,1
+patro,1
+in,1
+gujarati,1
+edited,1
+by,1
+dahyabhai,1
+patel,1

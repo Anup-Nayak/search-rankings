@@ -1,0 +1,11 @@
+77,51,1
+her,2
+own,2
+difficulties,1
+in,1
+way,1
+when,1
+the,1
+war,1
+is,1
+over,1

@@ -1,0 +1,11 @@
+42,449,7
+a,1
+student,1
+of,1
+the,1
+gujarat,1
+vidyapith,1
+writes,1
+to,1
+say,1
+1,1

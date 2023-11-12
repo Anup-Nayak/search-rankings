@@ -1,0 +1,12 @@
+24,65,12
+nor,1
+should,1
+they,1
+force,1
+their,1
+mohammedan,1
+brethrem,1
+to,1
+spare,1
+the,1
+cow,1

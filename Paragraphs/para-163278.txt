@@ -1,0 +1,7 @@
+47,106,13
+total,1
+employees,1
+in,1
+mills,1
+factories,1
+workshops,1

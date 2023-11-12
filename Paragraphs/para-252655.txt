@@ -1,0 +1,7 @@
+68,152,25
+1,1
+only,1
+excerpts,1
+are,1
+reproduced,1
+here,1

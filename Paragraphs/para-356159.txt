@@ -1,0 +1,6 @@
+92,170,6
+242,1
+letter,1
+to,1
+mohammed,1
+yunus,1

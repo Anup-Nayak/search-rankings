@@ -1,0 +1,16 @@
+43,136,1
+perfect,1
+non,1
+violence,1
+is,1
+sincere,1
+do,1
+ask,1
+me,1
+again,1
+if,1
+you,1
+still,1
+have,1
+any,1
+doubt,1

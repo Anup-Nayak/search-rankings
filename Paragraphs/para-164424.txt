@@ -1,0 +1,6 @@
+47,240,1
+270,1
+letter,1
+of,1
+frederic,1
+standenath,1

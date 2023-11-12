@@ -1,0 +1,10 @@
+54,347,33
+is,1
+of,1
+a,1
+long,1
+standing,1
+and,1
+involves,1
+well,1
+being,1

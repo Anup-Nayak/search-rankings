@@ -1,0 +1,7 @@
+30,370,4
+229,1
+letter,1
+to,1
+dr,1
+varadarajulu,1
+naidu,1

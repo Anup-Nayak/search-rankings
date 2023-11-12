@@ -1,0 +1,10 @@
+70,156,9
+q,1
+so,1
+then,1
+you,1
+are,1
+against,1
+this,1
+machine,1
+age,1

@@ -1,0 +1,8 @@
+85,215,8
+yours,1
+m,1
+k,1
+gandhi,1
+shivlal,1
+gupta,1
+jaipur,1

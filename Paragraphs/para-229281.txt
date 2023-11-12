@@ -1,0 +1,13 @@
+62,459,6
+nor,1
+is,2
+it,2
+enough,2
+to,2
+blame,1
+muslim,1
+communalists,1
+easy,1
+do,1
+so,1
+for,1

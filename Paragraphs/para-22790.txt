@@ -1,0 +1,4 @@
+7,422,3
+certificate,1
+of,1
+registration,1

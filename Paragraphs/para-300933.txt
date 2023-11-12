@@ -1,0 +1,8 @@
+80,101,0
+102,1
+the,1
+collected,1
+works,1
+of,1
+mahatma,1
+gandhi,1

@@ -1,0 +1,11 @@
+49,303,13
+1,1
+this,1
+is,2
+a,1
+translation,1
+the,1
+original,1
+letter,1
+not,1
+available,1

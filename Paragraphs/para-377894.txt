@@ -1,0 +1,17 @@
+98,123,7
+in,1
+regard,1
+to,1
+the,1
+two,1
+parts,1
+about,1
+which,1
+you,1
+have,1
+sought,1
+my,1
+opinion,1
+it,1
+is,1
+yes,1

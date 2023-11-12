@@ -1,0 +1,12 @@
+41,70,6
+asked,1
+why,1
+he,1
+was,2
+not,1
+present,1
+when,1
+the,1
+independence,1
+resolution,1
+2,1

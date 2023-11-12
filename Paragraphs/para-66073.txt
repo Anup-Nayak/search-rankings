@@ -1,0 +1,7 @@
+19,32,4
+28,1
+telegram,1
+to,1
+kisan,1
+sabha,1
+khajauli,1

@@ -1,0 +1,6 @@
+39,232,5
+1,1
+gandhiji,1
+spoke,1
+in,1
+hindi,1

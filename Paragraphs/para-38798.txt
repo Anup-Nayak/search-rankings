@@ -1,0 +1,12 @@
+12,87,2
+yours,1
+sincerely,1
+upper,1
+house,1
+ps,1
+i,1
+can,1
+report,1
+nothing,1
+about,1
+call,1

@@ -1,0 +1,12 @@
+28,148,9
+school,2
+mr,1
+rangam,1
+chetty,1
+took,1
+the,2
+party,1
+to,1
+weaving,1
+and,1
+proved,1

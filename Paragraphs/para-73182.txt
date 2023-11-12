@@ -1,0 +1,13 @@
+21,96,3
+before,1
+a,1
+crowded,1
+meeting,1
+of,1
+mussulmans,1
+in,1
+muzaffarabad,1
+at,1
+bombay,1
+held,1
+on,1

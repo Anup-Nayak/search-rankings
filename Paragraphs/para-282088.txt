@@ -1,0 +1,10 @@
+75,272,5
+a,1
+i,1
+c,2
+twenty,1
+ninth,1
+shall,1
+attend,1
+impossible,1
+for,1

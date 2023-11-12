@@ -1,0 +1,14 @@
+38,345,1
+amount,1
+i,3
+might,1
+have,1
+managed,1
+it,1
+if,1
+were,1
+there,1
+but,1
+now,1
+am,1
+helpless,1

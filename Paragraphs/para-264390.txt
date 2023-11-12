@@ -1,0 +1,9 @@
+71,120,3
+my,1
+statement,1
+2,1
+given,1
+after,1
+greatest,1
+deliberation,1
+in,1

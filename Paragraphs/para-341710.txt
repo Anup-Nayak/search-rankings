@@ -1,0 +1,4 @@
+88,338,6
+3,1
+householders,1
+estate,1

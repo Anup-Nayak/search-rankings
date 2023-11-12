@@ -1,0 +1,7 @@
+65,12,10
+7,1
+letter,1
+to,1
+mahesh,1
+charan,1
+mowar,1

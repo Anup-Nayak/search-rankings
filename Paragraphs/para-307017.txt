@@ -1,0 +1,8 @@
+81,177,14
+1,1
+this,1
+is,1
+in,1
+the,1
+devanagari,1
+script,1

@@ -1,0 +1,16 @@
+83,385,3
+but,1
+asked,1
+a,1
+friend,1
+have,1
+we,1
+not,2
+to,1
+see,1
+that,1
+the,1
+remedy,1
+may,1
+be,1
+worse,1

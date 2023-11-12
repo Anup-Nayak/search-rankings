@@ -1,0 +1,12 @@
+19,85,9
+from,1
+a,2
+microfilm,1
+of,1
+the,1
+original,1
+in,2
+gandhijis,1
+hand,1
+n,1
+i,1

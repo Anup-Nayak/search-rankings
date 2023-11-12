@@ -1,0 +1,8 @@
+10,311,1
+defence,1
+and,1
+death,1
+of,1
+socrates,1
+from,1
+plato,1

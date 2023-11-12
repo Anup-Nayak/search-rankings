@@ -1,0 +1,14 @@
+39,379,4
+m,1
+k,1
+gandhi,1
+a,1
+baqui,1
+esq,1
+koath,1
+p,1
+o,1
+district,1
+shahabad,1
+bihar,1
+province,1

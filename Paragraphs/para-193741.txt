@@ -1,0 +1,9 @@
+54,359,22
+government,1
+resented,1
+attitude,1
+it,1
+was,1
+open,1
+to,1
+them,1

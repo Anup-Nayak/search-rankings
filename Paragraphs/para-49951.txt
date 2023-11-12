@@ -1,0 +1,5 @@
+14,495,8
+ex,1
+indentured,1
+i,1
+ndians,1

@@ -1,0 +1,7 @@
+8,23,1
+18,1
+speech,1
+at,1
+hamidia,1
+islamic,1
+society,1

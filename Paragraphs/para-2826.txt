@@ -1,0 +1,16 @@
+2,78,7
+on,1
+the,2
+1st,1
+2nd,1
+3rd,1
+4th,1
+5th,1
+6th,1
+7th,1
+and,1
+8th,1
+january,1
+1897,1
+ship,1
+was,1

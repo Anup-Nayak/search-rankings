@@ -1,0 +1,15 @@
+24,308,9
+l,2
+think,1
+you,1
+had,1
+better,1
+write,1
+to,1
+mr,1
+c,1
+sankara,1
+menon,1
+b,2
+a,1
+yes,1

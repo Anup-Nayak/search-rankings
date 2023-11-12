@@ -1,0 +1,8 @@
+32,308,5
+wednesday,1
+shravana,1
+vad,1
+15,1
+august,1
+19,1
+1925,1

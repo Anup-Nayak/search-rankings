@@ -1,0 +1,8 @@
+13,146,10
+point,1
+was,1
+clearly,1
+brought,1
+out,1
+last,1
+years,1

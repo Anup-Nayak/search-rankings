@@ -1,0 +1,7 @@
+44,29,2
+satyagraha,1
+ashram,1
+sabarmati,1
+january,1
+23,1
+1929,1

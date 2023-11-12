@@ -1,0 +1,12 @@
+10,415,4
+the,1
+chairman,1
+this,1
+is,1
+not,1
+a,2
+commission,1
+but,1
+committee,1
+of,1
+inquiry,1

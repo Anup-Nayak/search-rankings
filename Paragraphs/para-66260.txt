@@ -1,0 +1,7 @@
+19,59,4
+50,1
+father,1
+of,1
+the,1
+world,1
+iii,1

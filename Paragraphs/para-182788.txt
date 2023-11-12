@@ -1,0 +1,5 @@
+52,74,10
+abdur,1
+razzaq,1
+malihabadi,1
+esq,1

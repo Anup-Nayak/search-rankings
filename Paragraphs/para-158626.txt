@@ -1,0 +1,8 @@
+46,43,2
+minagallu,1
+56,1
+0,6
+damaramadugu,1
+10,1
+penuballi,1
+15,1

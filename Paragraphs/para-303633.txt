@@ -1,0 +1,7 @@
+80,359,10
+627,1
+letter,1
+to,1
+dr,1
+abraham,1
+paul,1

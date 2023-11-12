@@ -1,0 +1,12 @@
+89,404,3
+vandemataram,1
+from,1
+m,1
+k,1
+gandhi,1
+purushottambhai,1
+patel,1
+69,1
+baroda,2
+college,1
+hostel,1

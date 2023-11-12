@@ -1,0 +1,11 @@
+88,1,19
+your,1
+committee,1
+but,1
+she,2
+should,1
+not,1
+work,1
+till,1
+gets,1
+well,1

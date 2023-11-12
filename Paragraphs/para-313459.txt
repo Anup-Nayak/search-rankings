@@ -1,0 +1,13 @@
+82,299,30
+terror,1
+stricken,1
+that,1
+they,2
+do,2
+not,1
+function,1
+as,1
+would,1
+normally,1
+even,1
+the,1

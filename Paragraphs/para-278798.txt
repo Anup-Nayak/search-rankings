@@ -1,0 +1,12 @@
+74,362,4
+your,1
+health,1
+causes,1
+me,2
+anxiety,1
+the,2
+sooner,1
+you,1
+come,1
+to,1
+better,1

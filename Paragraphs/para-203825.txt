@@ -1,0 +1,7 @@
+57,104,9
+william,1
+shirer,1
+chicago,1
+tribune,1
+vienna,1
+austria,1

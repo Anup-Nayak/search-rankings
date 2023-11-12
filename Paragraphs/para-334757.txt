@@ -1,0 +1,8 @@
+87,145,6
+position,1
+and,1
+mine,1
+remains,1
+uncertain,1
+hence,1
+i,1

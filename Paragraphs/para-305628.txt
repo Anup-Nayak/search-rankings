@@ -1,0 +1,11 @@
+81,47,11
+1,1
+f,1
+mary,1
+barr,1
+who,1
+had,1
+gone,1
+to,1
+south,1
+africa,1

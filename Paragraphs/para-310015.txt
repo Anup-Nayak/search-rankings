@@ -1,0 +1,9 @@
+82,17,3
+yours,1
+m,1
+k,1
+gandhi,1
+jamnalaljis,1
+activitiesin,1
+chronological,1
+order,1

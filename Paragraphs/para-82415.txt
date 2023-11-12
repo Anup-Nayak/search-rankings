@@ -1,0 +1,7 @@
+24,185,12
+but,1
+in,1
+every,1
+word,1
+and,1
+action,1

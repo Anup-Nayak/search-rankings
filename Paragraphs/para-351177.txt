@@ -1,0 +1,5 @@
+91,73,3
+is,1
+lying,1
+ever,1
+justiflable,1

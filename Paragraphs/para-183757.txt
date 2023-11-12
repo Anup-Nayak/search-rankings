@@ -1,0 +1,7 @@
+52,170,6
+231,1
+letter,1
+to,1
+cowasji,1
+jehangir,1
+1,1

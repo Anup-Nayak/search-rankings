@@ -1,0 +1,13 @@
+47,206,8
+3,1
+he,1
+or,1
+she,1
+has,1
+a,1
+good,1
+handwriting,1
+and,1
+can,1
+write,1
+fast,1

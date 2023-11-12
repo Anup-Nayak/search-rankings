@@ -1,0 +1,15 @@
+82,412,27
+whatever,1
+they,1
+like,1
+a,1
+central,1
+government,1
+will,2
+evolve,1
+but,1
+it,1
+act,1
+according,1
+to,1
+the,1

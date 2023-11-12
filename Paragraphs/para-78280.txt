@@ -1,0 +1,7 @@
+22,483,3
+my,1
+hindu,1
+and,2
+mohammedan,1
+countrymen,1
+women,1

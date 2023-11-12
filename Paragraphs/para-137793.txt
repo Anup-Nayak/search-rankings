@@ -1,0 +1,6 @@
+40,232,3
+147,1
+letter,1
+to,1
+maganlal,1
+gandhi,1

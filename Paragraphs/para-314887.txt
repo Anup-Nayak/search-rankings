@@ -1,0 +1,9 @@
+82,391,8
+emergencies,1
+that,1
+may,1
+arise,1
+in,1
+the,1
+immediate,1
+future,1

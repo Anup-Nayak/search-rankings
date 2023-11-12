@@ -1,0 +1,15 @@
+46,57,12
+countries,1
+a,1
+vast,1
+area,1
+that,1
+bears,1
+testimony,1
+to,1
+the,1
+triumph,1
+of,1
+man,1
+over,1
+nature,1

@@ -1,0 +1,15 @@
+28,386,4
+the,1
+nations,1
+are,1
+face,2
+to,1
+with,1
+a,1
+growing,1
+evil,1
+which,1
+unless,1
+it,1
+is,1
+dealt,1

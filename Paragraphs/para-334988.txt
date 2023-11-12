@@ -1,0 +1,8 @@
+87,163,7
+sitting,1
+am,1
+leaving,1
+today,1
+by,1
+frontier,1
+mail,1

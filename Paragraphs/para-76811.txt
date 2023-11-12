@@ -1,0 +1,17 @@
+22,224,2
+1,1
+gandhiji,1
+here,1
+refers,1
+to,1
+the,2
+practice,1
+of,1
+horse,1
+sacrifice,1
+performed,1
+by,1
+kings,1
+in,1
+vedic,1
+age,1

@@ -1,0 +1,12 @@
+47,455,4
+to,1
+get,1
+would,2
+not,1
+come,2
+from,3
+london,1
+but,1
+the,1
+indians,1
+themselves,1

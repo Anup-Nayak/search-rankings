@@ -1,0 +1,12 @@
+23,391,3
+1,1
+renunciation,1
+2,1
+a,1
+sanskrit,1
+treatise,1
+on,1
+vedanta,1
+with,1
+many,1
+stories,1

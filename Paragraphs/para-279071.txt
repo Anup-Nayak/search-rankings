@@ -1,0 +1,8 @@
+74,393,14
+wire,1
+redirected,1
+my,1
+opinion,1
+such,1
+candidate,1
+ineligible,1

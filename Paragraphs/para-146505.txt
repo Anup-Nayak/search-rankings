@@ -1,0 +1,10 @@
+42,415,4
+shrimati,1
+rohini,1
+pooviah,1
+lady,1
+principal,1
+crosthwaite,1
+girls,1
+college,1
+allahabad,1

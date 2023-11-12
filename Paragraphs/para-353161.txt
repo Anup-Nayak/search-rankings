@@ -1,0 +1,7 @@
+91,294,3
+352,1
+letter,1
+to,1
+ghulam,1
+rasool,1
+qureshi,1

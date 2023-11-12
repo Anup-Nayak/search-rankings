@@ -1,0 +1,13 @@
+32,339,8
+on,1
+men,1
+and,2
+women,1
+the,2
+importance,1
+of,1
+both,1
+supporting,1
+bill,1
+living,1
+up,1

@@ -1,0 +1,8 @@
+82,22,26
+what,1
+they,1
+learn,1
+for,1
+the,1
+matriculation,1
+course,1

@@ -1,0 +1,6 @@
+78,40,18
+wages,1
+of,1
+the,1
+wage,1
+earners,1

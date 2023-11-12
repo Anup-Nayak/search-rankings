@@ -1,0 +1,7 @@
+8,87,2
+1,2
+from,3
+potchefstroom,1
+3,2
+pietersburg,1
+pretoria,1

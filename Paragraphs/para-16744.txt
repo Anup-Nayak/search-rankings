@@ -1,0 +1,11 @@
+6,145,3
+indian,2
+shopkeeper,2
+or,1
+the,2
+trader,1
+is,1
+more,1
+efficient,1
+than,1
+white,1

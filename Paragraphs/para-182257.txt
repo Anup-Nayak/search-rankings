@@ -1,0 +1,17 @@
+52,16,1
+he,1
+therefore,1
+declined,1
+to,1
+give,1
+a,2
+sitting,1
+in,2
+suitable,1
+courtyard,1
+the,1
+interview,1
+took,1
+place,1
+his,1
+room,1

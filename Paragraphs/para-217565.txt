@@ -1,0 +1,5 @@
+60,59,1
+77,1
+letter,1
+to,1
+amtussalaam,1

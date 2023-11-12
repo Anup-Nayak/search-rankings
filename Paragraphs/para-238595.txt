@@ -1,0 +1,15 @@
+65,119,12
+1,1
+kanti,2
+gandhi,2
+was,1
+staying,1
+with,1
+the,1
+addressee,1
+vide,1
+letter,1
+to,2
+25,1
+9,1
+1934,1

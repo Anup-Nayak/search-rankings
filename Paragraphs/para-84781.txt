@@ -1,0 +1,6 @@
+25,98,7
+bhaishri,1
+ahmed,1
+haji,1
+siddik,1
+katri,1

@@ -1,0 +1,8 @@
+39,498,22
+alternative,1
+despite,1
+my,2
+persuasions,1
+to,1
+contrary,1
+stop,1

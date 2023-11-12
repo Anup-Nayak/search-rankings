@@ -1,0 +1,5 @@
+8,54,6
+stand,1
+case,1
+in,1
+pretoria,1

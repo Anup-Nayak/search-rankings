@@ -1,0 +1,16 @@
+14,126,9
+he,2
+can,1
+reflect,1
+those,1
+loves,1
+after,1
+all,1
+the,2
+money,1
+must,1
+go,1
+way,1
+it,1
+has,1
+come,1

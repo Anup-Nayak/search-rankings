@@ -1,0 +1,15 @@
+10,489,14
+annually,1
+as,1
+permanent,1
+residents,1
+if,1
+it,2
+is,1
+right,1
+to,1
+do,2
+this,1
+why,1
+not,1
+anyhow,1

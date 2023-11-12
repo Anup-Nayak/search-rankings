@@ -1,0 +1,15 @@
+97,70,2
+from,1
+a,1
+facsimile,1
+mahatma,1
+gandhithe,1
+last,1
+phase,1
+vol,1
+ii,1
+between,1
+pp,1
+496,1
+and,1
+497,1

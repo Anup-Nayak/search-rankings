@@ -1,0 +1,10 @@
+14,472,24
+which,1
+arrived,1
+from,1
+durban,1
+as,1
+to,1
+revival,1
+of,1
+passive,1

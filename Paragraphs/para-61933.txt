@@ -1,0 +1,5 @@
+17,376,14
+collected,1
+enough,1
+for,1
+them,1

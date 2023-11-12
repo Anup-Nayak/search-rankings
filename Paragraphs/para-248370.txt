@@ -1,0 +1,8 @@
+67,157,7
+253,1
+talk,1
+with,1
+a,1
+harijan,1
+sevak,1
+3,1

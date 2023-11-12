@@ -1,0 +1,7 @@
+65,148,1
+193,1
+letter,1
+to,1
+vidya,1
+a,1
+hingorani,1

@@ -1,0 +1,4 @@
+29,197,3
+helplessness,1
+not,1
+hopelessness,1

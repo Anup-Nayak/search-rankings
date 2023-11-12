@@ -1,0 +1,9 @@
+14,8,11
+anxious,1
+about,1
+us,1
+we,1
+here,1
+are,1
+perfectly,1
+cheerful,1

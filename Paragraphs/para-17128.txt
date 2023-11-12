@@ -1,0 +1,13 @@
+6,184,10
+yours,1
+truly,1
+d,1
+g,1
+panse,1
+esq,1
+inns,1
+of,1
+court,1
+hotel,1
+high,1
+holborn,1

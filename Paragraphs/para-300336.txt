@@ -1,0 +1,11 @@
+80,44,10
+1,2
+vide,1
+also,1
+letter,2
+to,2
+the,1
+addressee,1
+mirabehn,1
+24,1
+1941,1

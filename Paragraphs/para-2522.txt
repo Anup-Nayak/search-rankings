@@ -1,0 +1,13 @@
+2,30,5
+as,1
+verbal,1
+time,1
+changes,1
+with,1
+every,1
+visit,1
+of,2
+quarantine,1
+officer,1
+no,1
+case,1

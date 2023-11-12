@@ -1,0 +1,8 @@
+30,203,20
+a,1
+there,1
+were,1
+some,1
+mutual,1
+dissensions,1
+also,1

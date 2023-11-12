@@ -1,0 +1,11 @@
+46,42,12
+9,1
+5,1
+1929east,1
+godavari,1
+district,1
+korukonda,1
+rs,1
+50,1
+0,2
+sitanagaram,1

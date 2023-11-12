@@ -1,0 +1,16 @@
+28,150,7
+happy,1
+scenes,1
+have,1
+become,1
+now,1
+very,2
+rare,1
+and,1
+it,1
+is,1
+seldom,1
+that,1
+one,1
+witnesses,1
+them,1

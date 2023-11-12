@@ -1,0 +1,14 @@
+92,387,11
+when,2
+there,2
+was,2
+no,1
+food,1
+shortage,1
+to,1
+burn,1
+oil,1
+or,1
+ghee,1
+today,1
+not,1

@@ -1,0 +1,16 @@
+39,221,4
+1,1
+vide,2
+village,1
+cattle,1
+improvement,1
+4,1
+8,1
+1927,2
+2,1
+navajivan,1
+in,1
+devanagari,1
+script,1
+26,1
+6,1

@@ -1,0 +1,6 @@
+25,242,4
+the,1
+simple,1
+beauty,1
+of,1
+it,1

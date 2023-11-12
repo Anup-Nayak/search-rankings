@@ -1,0 +1,9 @@
+72,500,9
+from,1
+a,1
+copy,1
+birla,2
+papers,1
+courtesy,1
+g,1
+d,1

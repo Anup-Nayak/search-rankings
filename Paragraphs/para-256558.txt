@@ -1,0 +1,7 @@
+69,130,10
+1,1
+for,1
+segaon,1
+2,1
+leafy,1
+vegetable,1

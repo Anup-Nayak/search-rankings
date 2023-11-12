@@ -1,0 +1,10 @@
+41,211,6
+yours,1
+sincerly,1
+mons,2
+l,1
+le,1
+baclieu,1
+french,1
+cochin,1
+china,1

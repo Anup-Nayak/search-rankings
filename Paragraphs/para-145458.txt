@@ -1,0 +1,8 @@
+42,298,12
+bardoli,1
+people,1
+reported,1
+absolutely,1
+firm,1
+ready,1
+for,1

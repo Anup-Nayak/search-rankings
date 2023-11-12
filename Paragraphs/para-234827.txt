@@ -1,0 +1,11 @@
+64,164,11
+your,1
+kind,1
+wire,1
+the,1
+calcutta,1
+visit,1
+is,1
+urgent,1
+friends,1
+are,1

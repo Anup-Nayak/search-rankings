@@ -1,0 +1,17 @@
+16,212,7
+please,1
+congratulate,1
+waldo,1
+on,1
+his,2
+vegetarian,1
+work,1
+when,1
+is,1
+he,1
+going,1
+to,3
+fulfil,1
+promise,1
+write,1
+me,1

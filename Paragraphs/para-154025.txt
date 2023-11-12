@@ -1,0 +1,8 @@
+44,477,28
+t3,1
+in,1
+guj,1
+the,1
+sentence,1
+ends,1
+here,1

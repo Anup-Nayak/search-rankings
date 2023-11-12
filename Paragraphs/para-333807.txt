@@ -1,0 +1,6 @@
+87,53,8
+ba,1
+bapuni,1
+shili,1
+chhayaman,1
+p,1

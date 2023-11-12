@@ -1,0 +1,8 @@
+10,22,12
+fixing,1
+limit,1
+numbers,1
+any,1
+nationality,1
+just,1
+satisfies,1

@@ -1,0 +1,6 @@
+46,459,6
+religious,1
+obligation,1
+of,1
+cow,1
+protection,1

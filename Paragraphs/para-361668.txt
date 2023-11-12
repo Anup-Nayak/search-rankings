@@ -1,0 +1,6 @@
+93,284,2
+398,1
+telegram,1
+to,1
+baqi,1
+khan,1

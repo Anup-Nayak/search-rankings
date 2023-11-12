@@ -1,0 +1,7 @@
+36,156,3
+mohandas,1
+sir,1
+prabhashankar,1
+pattani,1
+anantwadi,1
+bhavnagar,1

@@ -1,0 +1,14 @@
+76,278,5
+requirements,1
+and,1
+that,1
+of,1
+her,1
+family,1
+as,1
+for,2
+selling,1
+the,1
+yarn,1
+an,1
+unknown,1

@@ -1,0 +1,10 @@
+9,484,8
+this,1
+30th,1
+day,1
+of,2
+november,1
+1908,1
+justice,1
+the,1
+peace,1

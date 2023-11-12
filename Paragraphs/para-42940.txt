@@ -1,0 +1,7 @@
+13,145,9
+amendment,1
+will,1
+not,1
+solve,1
+marriage,1
+difficulty,1

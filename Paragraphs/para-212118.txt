@@ -1,0 +1,9 @@
+58,487,18
+not,2
+revive,2
+varna,1
+dharma,1
+too,1
+is,1
+going,1
+to,1

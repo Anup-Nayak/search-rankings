@@ -1,0 +1,6 @@
+42,72,6
+104,1
+letter,1
+to,1
+chhotalal,1
+mansinha,1

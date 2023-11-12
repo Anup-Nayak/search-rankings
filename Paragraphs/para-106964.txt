@@ -1,0 +1,9 @@
+31,335,5
+bapu,1
+chi,1
+vasumati,1
+dhimatram,1
+doulatram,1
+kasiram,1
+co,1
+etc,1

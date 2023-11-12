@@ -1,0 +1,13 @@
+21,155,9
+then,1
+he,1
+went,1
+to,1
+the,1
+third,1
+and,1
+fourth,1
+stepswithdrawal,1
+from,1
+military,1
+service,1

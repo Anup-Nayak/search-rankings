@@ -1,0 +1,15 @@
+82,408,16
+gets,1
+into,1
+bed,1
+gandhi,1
+inquired,1
+about,1
+roosevelts,1
+health,1
+and,1
+then,1
+asked,1
+me,1
+to,1
+describe,1

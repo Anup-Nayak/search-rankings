@@ -1,0 +1,13 @@
+78,391,4
+a,1
+litter,1
+girl,1
+asked,1
+gandhiji,1
+how,1
+satyagraha,1
+could,1
+avail,1
+against,1
+raiders,1
+from,1

@@ -1,0 +1,6 @@
+85,5,6
+10,1
+letter,1
+to,1
+tejwanti,1
+dhir,1

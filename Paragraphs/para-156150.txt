@@ -1,0 +1,9 @@
+45,175,9
+mohandas,1
+bhai,1
+ramnarayan,1
+ashram,1
+chhaya,1
+via,1
+porbandar,1
+kathiawar,1

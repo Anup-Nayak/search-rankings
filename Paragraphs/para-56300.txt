@@ -1,0 +1,10 @@
+16,213,4
+convincing,1
+reply,1
+by,2
+argument,1
+and,1
+illustrations,1
+press,1
+for,1
+an,1

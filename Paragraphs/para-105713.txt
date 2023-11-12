@@ -1,0 +1,11 @@
+31,173,22
+exclusive,1
+use,1
+of,1
+khaddar,1
+mrs,2
+perin,1
+captain,2
+nargis,1
+and,1
+miss,1

@@ -1,0 +1,12 @@
+52,142,13
+real,1
+mother,1
+to,1
+us,1
+who,1
+would,1
+other,1
+wise,1
+have,1
+felt,1
+motherless,1

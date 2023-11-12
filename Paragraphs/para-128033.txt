@@ -1,0 +1,8 @@
+37,314,9
+1,2
+abdul,1
+kadir,1
+bawazeer,1
+2,2
+xviii,2
+3,1

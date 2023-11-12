@@ -1,0 +1,14 @@
+67,246,6
+this,1
+questionnaire,1
+is,1
+sent,1
+out,1
+to,1
+inivite,1
+your,1
+opinion,1
+on,1
+the,1
+following,1
+points,1

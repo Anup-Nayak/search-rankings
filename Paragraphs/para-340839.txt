@@ -1,0 +1,6 @@
+88,244,5
+501,1
+letter,1
+to,1
+vasanji,1
+hansji,1

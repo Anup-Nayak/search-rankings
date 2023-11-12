@@ -1,0 +1,6 @@
+4,132,2
+108,1
+the,1
+rand,1
+plague,1
+committee,1

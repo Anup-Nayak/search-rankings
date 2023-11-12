@@ -1,0 +1,8 @@
+38,66,10
+and,1
+even,1
+those,1
+few,1
+not,1
+properly,1
+conducted,1

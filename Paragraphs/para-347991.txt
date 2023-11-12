@@ -1,0 +1,13 @@
+90,160,5
+a,1
+i,1
+am,1
+not,1
+enamoured,1
+of,1
+equality,1
+or,1
+any,1
+other,1
+proportion,1
+in,1

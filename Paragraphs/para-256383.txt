@@ -1,0 +1,10 @@
+69,109,9
+1,1
+a,2
+servant,1
+2,1
+from,1
+ghazal,1
+by,1
+nazir,1
+akbarabadi,1

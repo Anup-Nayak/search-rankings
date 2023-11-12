@@ -1,0 +1,6 @@
+39,50,5
+64,1
+letter,1
+to,1
+gulzarilal,1
+nanda,1

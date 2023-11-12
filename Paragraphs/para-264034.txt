@@ -1,0 +1,12 @@
+71,72,11
+plea,1
+for,1
+voting,1
+against,1
+the,1
+congress,1
+we,1
+therefore,1
+consider,1
+it,1
+prudent,1

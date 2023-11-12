@@ -1,0 +1,8 @@
+24,278,2
+144,1
+reply,1
+to,1
+editor,1
+indian,1
+daily,1
+telegraph,1

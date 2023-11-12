@@ -1,0 +1,11 @@
+21,313,3
+the,3
+officer,1
+kneeled,1
+upon,1
+body,1
+and,2
+cut,1
+deep,1
+in,1
+neck,1

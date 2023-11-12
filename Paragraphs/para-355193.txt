@@ -1,0 +1,7 @@
+92,60,1
+92,1
+hindustani,1
+v,1
+urdu,1
+and,1
+hindi,1

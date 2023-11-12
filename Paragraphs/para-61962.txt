@@ -1,0 +1,8 @@
+17,379,7
+not,1
+quail,1
+in,1
+presence,1
+of,2
+sacrifice,1
+demanded,1

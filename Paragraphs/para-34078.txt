@@ -1,0 +1,7 @@
+11,59,9
+deported,1
+bhayat,1
+discharged,1
+emaciated,1
+condition,1
+and,1

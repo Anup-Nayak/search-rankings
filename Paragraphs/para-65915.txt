@@ -1,0 +1,8 @@
+19,12,4
+wrote,1
+1,1
+from,1
+ahmedabad,1
+applying,1
+for,1
+revoca,1

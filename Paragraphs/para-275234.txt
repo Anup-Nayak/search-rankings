@@ -1,0 +1,11 @@
+73,423,5
+m,1
+k,1
+gandhi,1
+s,1
+gurcharan,1
+singh,1
+overseer,1
+ex,1
+political,1
+prisoner,1

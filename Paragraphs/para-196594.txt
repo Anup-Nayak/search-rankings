@@ -1,0 +1,17 @@
+55,195,6
+1,1
+the,1
+reference,1
+is,1
+to,1
+standing,1
+with,1
+knees,1
+bent,1
+and,1
+arms,1
+stretched,1
+out,1
+like,1
+a,1
+chair,1

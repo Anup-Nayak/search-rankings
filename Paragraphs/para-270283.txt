@@ -1,0 +1,5 @@
+72,371,2
+480,1
+social,1
+service,1
+conscription,1

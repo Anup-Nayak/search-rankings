@@ -1,0 +1,15 @@
+77,105,8
+personal,1
+affection,1
+and,1
+for,1
+you,2
+they,1
+will,1
+do,1
+anything,1
+if,1
+can,1
+get,1
+the,1
+ban,1

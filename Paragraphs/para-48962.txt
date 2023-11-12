@@ -1,0 +1,11 @@
+14,396,3
+the,1
+amrita,1
+bazar,1
+patrika,1
+1,1
+4,1
+1915,1
+courtesy,1
+national,1
+library,1

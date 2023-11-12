@@ -1,0 +1,7 @@
+84,50,10
+god,1
+disposes,1
+hope,1
+you,1
+are,1
+well,1

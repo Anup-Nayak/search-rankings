@@ -1,0 +1,6 @@
+74,190,2
+arya,1
+samaj,1
+and,1
+filthy,1
+literature,1

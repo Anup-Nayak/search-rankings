@@ -1,0 +1,10 @@
+44,480,6
+t2,1
+for,1
+the,2
+other,1
+party,1
+guj,1
+has,1
+all,1
+people,1

@@ -1,0 +1,9 @@
+96,273,9
+tell,1
+kanu,1
+idea,1
+good,1
+but,1
+permission,1
+of,1
+local,1

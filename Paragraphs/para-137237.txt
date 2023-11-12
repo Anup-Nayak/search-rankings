@@ -1,0 +1,9 @@
+40,128,4
+tell,1
+mirabehn,1
+if,1
+still,1
+there,1
+not,1
+be,1
+hasty,1

@@ -1,0 +1,7 @@
+14,473,22
+2,1
+extract,1
+from,1
+governor,1
+generals,1
+despatch2,1

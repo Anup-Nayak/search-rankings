@@ -1,0 +1,17 @@
+9,42,1
+mum,1
+penalty,1
+for,2
+him,1
+and,1
+his,1
+associates,1
+it,2
+was,1
+their,1
+misfortune,1
+that,1
+they,1
+did,1
+not,1
+get,1

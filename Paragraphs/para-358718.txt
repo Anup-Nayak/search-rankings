@@ -1,0 +1,13 @@
+92,428,5
+1,1
+the,1
+list,1
+which,1
+named,1
+some,1
+45,1
+items,1
+is,1
+not,1
+reproduced,1
+here,1

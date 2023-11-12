@@ -1,0 +1,10 @@
+50,26,2
+m,1
+k,1
+gandhi,1
+sarojini,1
+naidu,1
+vallabhbhai,1
+patel,1
+jairamdas,1
+doulatram,1

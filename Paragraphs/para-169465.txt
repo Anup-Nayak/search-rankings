@@ -1,0 +1,7 @@
+48,466,1
+498,1
+letter,1
+to,1
+abdul,1
+kadir,1
+bawazeer,1

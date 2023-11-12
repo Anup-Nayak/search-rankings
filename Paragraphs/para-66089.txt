@@ -1,0 +1,12 @@
+19,33,11
+from,1
+a,2
+photostat,1
+of,1
+copy,1
+in,1
+gandhiji,1
+s,2
+hand,1
+n,1
+6936,1

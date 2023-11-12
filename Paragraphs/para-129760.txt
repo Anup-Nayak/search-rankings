@@ -1,0 +1,16 @@
+38,77,7
+1,1
+the,2
+statement,1
+which,1
+gave,1
+figures,1
+of,2
+production,1
+and,1
+sale,1
+khaddar,1
+is,1
+not,1
+reproduced,1
+here,1

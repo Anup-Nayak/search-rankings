@@ -1,0 +1,14 @@
+52,408,10
+2,1
+the,2
+addressee,1
+had,1
+written,1
+to,1
+gandhiji,1
+about,1
+excommunication,1
+of,1
+two,1
+kshatriya,1
+families,1

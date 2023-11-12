@@ -1,0 +1,11 @@
+82,214,3
+national,1
+language,1
+is,2
+not,1
+the,3
+devanagari,1
+script,2
+best,1
+persian,1
+surely,1

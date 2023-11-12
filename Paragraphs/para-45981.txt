@@ -1,0 +1,7 @@
+14,11,3
+communitys,1
+prayer,1
+for,1
+consultation,1
+and,1
+additional,1

@@ -1,0 +1,7 @@
+47,369,10
+arriving,1
+at,1
+decision,1
+resignation3,1
+must,1
+not,1

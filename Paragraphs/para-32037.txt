@@ -1,0 +1,12 @@
+10,311,28
+europe,1
+we,1
+discover,1
+there,1
+so,2
+many,1
+truths,2
+and,2
+profound,1
+which,1
+make,1

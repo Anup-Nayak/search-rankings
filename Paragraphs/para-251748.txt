@@ -1,0 +1,10 @@
+68,58,2
+72,1
+speech,1
+at,1
+a,2
+i,1
+s,1
+council,1
+meeting,1
+1,1

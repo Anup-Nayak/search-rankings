@@ -1,0 +1,17 @@
+10,375,7
+5,1
+patrick,1
+duncan,1
+colonial,1
+secretary,1
+of,2
+the,2
+transvaal,1
+before,1
+smuts,1
+6,1
+monthly,1
+organ,1
+closer,1
+union,1
+societies,1

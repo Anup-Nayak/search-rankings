@@ -1,0 +1,4 @@
+3,318,1
+klerksdorp,1
+mining,1
+record,1

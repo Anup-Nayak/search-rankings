@@ -1,0 +1,14 @@
+78,381,10
+permit,1
+this,1
+whom,1
+are,1
+we,3
+to,2
+follow,2
+you,2
+or,1
+the,1
+prophet,1
+if,1
+cease,1

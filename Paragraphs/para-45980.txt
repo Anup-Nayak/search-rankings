@@ -1,0 +1,6 @@
+14,11,2
+endeavouring,1
+remove,1
+deadlock,1
+secure,1
+acceptance,1

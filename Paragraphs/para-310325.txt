@@ -1,0 +1,12 @@
+82,37,15
+labourers,1
+wanted,1
+dearness,1
+allowance,1
+if,1
+dr,1
+bannerjis,1
+stay,1
+in,1
+the,1
+labour,1

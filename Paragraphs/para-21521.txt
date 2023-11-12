@@ -1,0 +1,15 @@
+7,240,4
+2,1
+for,1
+the,1
+text,1
+vide,1
+representation,1
+to,1
+turkish,1
+consul,1
+general,1
+before,1
+5,1
+10,1
+1907,1

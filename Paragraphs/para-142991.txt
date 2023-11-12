@@ -1,0 +1,4 @@
+41,484,3
+part,1
+apolitical,1
+rights,1

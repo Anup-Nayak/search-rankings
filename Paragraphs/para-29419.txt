@@ -1,0 +1,14 @@
+9,457,3
+4,1
+this,1
+is,1
+not,1
+available,1
+5,1
+vide,1
+speech,1
+at,1
+germiston,1
+7,1
+6,1
+1909,1

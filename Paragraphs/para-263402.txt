@@ -1,0 +1,16 @@
+71,1,2
+crane,1
+but,1
+when,2
+you,2
+say,1
+that,1
+all,1
+religions,1
+are,2
+true,1
+what,1
+do,2
+there,1
+conflicting,1
+counsels,1

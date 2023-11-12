@@ -1,0 +1,9 @@
+80,44,8
+wardha,1
+january,1
+30,1
+1941,1
+mirabai,1
+palampur,1
+kangra,1
+district,1

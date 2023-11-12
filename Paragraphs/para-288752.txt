@@ -1,0 +1,10 @@
+77,96,22
+issuingthe,1
+challenge,1
+it,2
+cannot,1
+be,1
+denied,1
+that,1
+is,1
+pertinent,1

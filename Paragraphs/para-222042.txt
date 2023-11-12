@@ -1,0 +1,14 @@
+61,104,18
+you,1
+do,1
+not,1
+expect,1
+a,1
+long,1
+letter,1
+from,1
+me,1
+i,2
+know,1
+that,1
+shall,1

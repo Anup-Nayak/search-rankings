@@ -1,0 +1,6 @@
+4,84,2
+63,1
+the,1
+transvaal,1
+white,1
+league,1

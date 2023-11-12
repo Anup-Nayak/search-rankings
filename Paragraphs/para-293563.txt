@@ -1,0 +1,6 @@
+78,202,16
+1,1
+vide,1
+the,1
+proceding,1
+item,1

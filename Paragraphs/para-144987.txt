@@ -1,0 +1,7 @@
+42,242,6
+we,1
+kept,1
+looking,1
+at,1
+others,1
+failings,1

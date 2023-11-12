@@ -1,0 +1,13 @@
+27,128,9
+r,1
+b,1
+sapre,1
+esq,1
+secretary,1
+indian,1
+merchants,1
+club,1
+glockengieserwall,1
+2,1
+hamburg,1
+germany,1

@@ -1,0 +1,14 @@
+21,97,15
+fineries,2
+he,1
+asked,1
+the,2
+nation,1
+to,1
+sacrifice,1
+its,1
+liking,1
+for,1
+of,1
+europe,1
+and,1

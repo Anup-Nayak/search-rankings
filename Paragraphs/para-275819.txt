@@ -1,0 +1,16 @@
+74,16,2
+blessings,1
+from,1
+bapu,1
+ps,1
+pyarelal,1
+is,2
+down,1
+with,1
+typhoid,1
+cholera,1
+too,1
+fairly,1
+wide,1
+spread,1
+here,1

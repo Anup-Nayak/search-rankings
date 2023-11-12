@@ -1,0 +1,11 @@
+54,84,4
+q,1
+do,1
+you,2
+say,1
+that,1
+are,1
+completely,1
+fit,1
+for,1
+independence,1

@@ -1,0 +1,16 @@
+82,216,6
+q,1
+if,1
+the,1
+japanese,1
+really,1
+mean,1
+what,1
+they,1
+say,1
+and,1
+are,1
+willing,1
+to,2
+help,1
+free,1

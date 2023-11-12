@@ -1,0 +1,11 @@
+13,451,18
+contention,1
+you,1
+are,1
+now,1
+setting,1
+up,1
+with,1
+regard,1
+to,1
+the,1

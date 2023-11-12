@@ -1,0 +1,17 @@
+93,350,1
+answer,2
+the,1
+question,1
+you,3
+are,2
+in,1
+no,1
+way,1
+bound,1
+to,2
+it,1
+if,1
+dont,1
+wish,1
+hope,1
+well,1

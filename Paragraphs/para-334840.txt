@@ -1,0 +1,7 @@
+87,149,10
+hindu,1
+interests,1
+subject,1
+to,1
+working,1
+committes,1

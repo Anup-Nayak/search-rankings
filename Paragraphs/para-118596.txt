@@ -1,0 +1,5 @@
+35,141,5
+194,1
+prejudice,1
+against,1
+khadi,1

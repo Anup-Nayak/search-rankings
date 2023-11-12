@@ -1,0 +1,6 @@
+59,362,4
+509,1
+higher,1
+education,1
+for,1
+harijans,1

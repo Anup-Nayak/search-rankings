@@ -1,0 +1,16 @@
+98,408,7
+1,1
+gandhiji,1
+follows,1
+this,1
+with,1
+a,1
+quotation,1
+from,1
+the,1
+bhagavad,1
+gita,1
+ch,1
+xii,1
+18,1
+19,1

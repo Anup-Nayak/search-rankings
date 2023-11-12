@@ -1,0 +1,17 @@
+20,95,17
+q,1
+and,1
+during,1
+that,1
+march,1
+they,1
+were,1
+ordered,1
+to,1
+carry,1
+their,2
+bedding,1
+on,1
+shoulders,1
+or,1
+heads,1

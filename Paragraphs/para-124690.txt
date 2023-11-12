@@ -1,0 +1,12 @@
+36,388,12
+2,1
+the,2
+articles,1
+are,1
+placed,1
+under,1
+date,1
+of,1
+publication,1
+in,1
+navajivan,1

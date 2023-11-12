@@ -1,0 +1,9 @@
+22,258,9
+134,1
+hind,1
+swaraj,1
+or,1
+the,1
+indian,1
+home,1
+rule,1

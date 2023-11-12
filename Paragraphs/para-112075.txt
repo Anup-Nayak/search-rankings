@@ -1,0 +1,17 @@
+33,201,7
+what,2
+is,1
+your,3
+view,1
+on,1
+tolstoy,1
+calls,1
+bread,1
+labour,2
+do,1
+you,1
+really,1
+earn,1
+living,1
+by,1
+bodily,1

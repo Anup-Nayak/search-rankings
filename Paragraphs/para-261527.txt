@@ -1,0 +1,9 @@
+70,185,5
+i,1
+publish,1
+the,1
+following,1
+without,1
+any,1
+alteration,1
+1,1

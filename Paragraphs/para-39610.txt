@@ -1,0 +1,8 @@
+12,200,6
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+11275,1

@@ -1,0 +1,14 @@
+88,67,4
+blessings,1
+from,1
+bapu,1
+shri,2
+ramnarayan,1
+chowdhary,1
+anand,1
+cotton,1
+mill,1
+near,1
+saraspur,1
+darwaja,1
+ahmedabad,1

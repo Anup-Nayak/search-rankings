@@ -1,0 +1,16 @@
+31,314,10
+not,1
+to,1
+quarrel,1
+with,1
+each,1
+other,1
+and,1
+they,1
+should,1
+work,1
+at,1
+the,2
+charkha,1
+neither,1
+hindu,1

@@ -1,0 +1,16 @@
+86,110,1
+he,2
+is,1
+your,1
+father,1
+it,1
+will,2
+be,1
+good,1
+if,1
+recovers,1
+suru,1
+you,1
+pass,1
+the,1
+examination,1

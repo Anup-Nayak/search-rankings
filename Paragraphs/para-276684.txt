@@ -1,0 +1,12 @@
+74,110,10
+1,1
+the,1
+letter,1
+addressed,1
+to,2
+ahmedabad,1
+was,1
+redirected,1
+dakshinamurti,1
+in,1
+saurashtra,1

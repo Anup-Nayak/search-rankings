@@ -1,0 +1,6 @@
+24,185,22
+simple,1
+rule,1
+and,1
+safest,1
+guiding,1

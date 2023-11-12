@@ -1,0 +1,14 @@
+40,492,1
+attangalla,1
+rs,2
+210,1
+00,1
+miscellaneous,1
+from,1
+kandy,1
+to,1
+colombo,1
+162,1
+68,1
+1,1
+2,1

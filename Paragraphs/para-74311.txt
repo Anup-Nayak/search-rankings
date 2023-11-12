@@ -1,0 +1,7 @@
+21,305,7
+our,1
+countrymen,1
+east,1
+africa,1
+strong,1
+enough,1

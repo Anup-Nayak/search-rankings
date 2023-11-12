@@ -1,0 +1,6 @@
+19,73,11
+do,1
+not,1
+come,1
+just,1
+now,1

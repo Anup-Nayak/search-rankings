@@ -1,0 +1,7 @@
+75,246,14
+1,1
+only,1
+extracts,1
+are,1
+reproduced,1
+here,1

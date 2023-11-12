@@ -1,0 +1,6 @@
+93,368,2
+srinagar,1
+bengal,1
+february,1
+5,1
+1947,1

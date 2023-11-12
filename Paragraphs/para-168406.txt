@@ -1,0 +1,6 @@
+48,288,4
+299,1
+letter,1
+to,1
+reginald,1
+reynolds,1

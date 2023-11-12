@@ -1,0 +1,13 @@
+28,93,7
+2,1
+on,1
+account,1
+of,1
+its,1
+weight,1
+it,1
+is,1
+not,1
+easy,1
+to,1
+wash,1

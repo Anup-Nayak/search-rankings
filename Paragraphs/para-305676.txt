@@ -1,0 +1,6 @@
+81,51,7
+98,1
+letter,1
+to,1
+jugalkishore,1
+birla,1

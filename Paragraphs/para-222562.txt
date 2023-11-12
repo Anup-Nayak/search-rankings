@@ -1,0 +1,6 @@
+61,155,8
+wi,1
+se,1
+regard,1
+happy,1
+coincidence,1

@@ -1,0 +1,9 @@
+13,341,3
+1,1
+this,1
+was,1
+published,1
+as,1
+a,1
+special,1
+memoir,1

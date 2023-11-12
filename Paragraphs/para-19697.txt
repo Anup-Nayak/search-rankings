@@ -1,0 +1,8 @@
+6,528,1
+registrar,1
+to,1
+register,1
+applicants,1
+if,1
+approved,1
+and,1

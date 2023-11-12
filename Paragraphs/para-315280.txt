@@ -1,0 +1,14 @@
+82,402,22
+the,2
+same,1
+manner,1
+two,2
+religions,1
+of,1
+india,1
+do,1
+not,1
+make,1
+nationalities,1
+europe,1
+is,1

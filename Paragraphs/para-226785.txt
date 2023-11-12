@@ -1,0 +1,7 @@
+62,131,7
+150,1
+letter,1
+to,1
+dhiru,1
+c,1
+joshi,1

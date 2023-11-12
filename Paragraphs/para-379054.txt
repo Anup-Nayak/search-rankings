@@ -1,0 +1,17 @@
+98,267,1
+the,1
+whole,1
+world,1
+has,2
+turned,1
+topsyturvy,1
+everyone,1
+to,2
+stand,1
+face,2
+with,1
+god,1
+else,1
+there,1
+is,1
+perdition,1

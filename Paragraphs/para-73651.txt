@@ -1,0 +1,4 @@
+21,183,2
+freedoms,1
+battle,1
+pp,1

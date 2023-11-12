@@ -1,0 +1,8 @@
+11,269,17
+union,1
+parliament,1
+about,1
+everything,1
+probable,1
+necessary,1
+am,1

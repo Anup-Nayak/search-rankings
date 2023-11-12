@@ -1,0 +1,9 @@
+67,182,7
+290,1
+discussion,1
+with,1
+a,1
+visitor,1
+from,1
+quetta,1
+1,1

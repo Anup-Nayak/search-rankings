@@ -1,0 +1,15 @@
+85,59,11
+1,1
+1887,1
+1955,1
+gujarati,2
+scholar,1
+and,2
+man,2
+of,2
+letters,2
+2,1
+umashankar,1
+j,1
+joshi,1
+poet,1

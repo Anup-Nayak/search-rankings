@@ -1,0 +1,9 @@
+21,0,1
+1,2
+path,1
+of,1
+truth,1
+for,1
+the,1
+brave,1
+alone,1

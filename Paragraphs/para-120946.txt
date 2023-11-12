@@ -1,0 +1,8 @@
+35,422,14
+1,1
+hindi,1
+navajivan,1
+vide,1
+the,1
+following,1
+item,1

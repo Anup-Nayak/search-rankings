@@ -1,0 +1,9 @@
+90,19,8
+by,1
+sardar,1
+and,2
+jawaharlalji,1
+abandon,1
+fast,1
+agitate,1
+for,1

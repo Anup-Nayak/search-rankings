@@ -1,0 +1,5 @@
+47,106,14
+and,1
+industries,1
+15,1
+lakhs,1

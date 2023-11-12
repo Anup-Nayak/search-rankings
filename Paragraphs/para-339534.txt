@@ -1,0 +1,9 @@
+88,126,11
+maulana,1
+saheb,1
+abul,1
+kalam,1
+azad,1
+falettis,1
+hotel,1
+lahore,1

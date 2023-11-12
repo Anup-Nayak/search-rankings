@@ -1,0 +1,6 @@
+80,308,11
+536,1
+letter,1
+to,1
+walchand,1
+hirachand,1

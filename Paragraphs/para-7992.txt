@@ -1,0 +1,9 @@
+3,323,6
+the,3
+situation,1
+remains,1
+still,1
+same,1
+summary,1
+given,1
+last,1

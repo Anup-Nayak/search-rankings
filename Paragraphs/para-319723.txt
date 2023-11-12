@@ -1,0 +1,8 @@
+84,51,4
+progressing,1
+slowly,1
+see,1
+daily,1
+bulletins,1
+get,1
+well,1

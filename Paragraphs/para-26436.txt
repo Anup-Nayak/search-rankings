@@ -1,0 +1,5 @@
+9,29,2
+19,1
+parliament,1
+for,1
+turkey,1

@@ -1,0 +1,13 @@
+45,231,7
+the,2
+head,1
+master,1
+of,1
+new,1
+english,1
+school,1
+achra,1
+writes,1
+as,1
+follows,1
+1,1

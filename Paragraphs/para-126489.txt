@@ -1,0 +1,9 @@
+37,98,1
+to,1
+put,1
+this,1
+teaching,1
+into,1
+action,1
+is,1
+saved,1

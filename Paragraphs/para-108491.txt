@@ -1,0 +1,15 @@
+32,96,9
+1,2
+in,2
+1925,1
+gandhiji,1
+was,1
+midnapur,1
+on,1
+this,1
+date,1
+which,1
+corresponded,1
+to,1
+ashadh,1
+vad,1

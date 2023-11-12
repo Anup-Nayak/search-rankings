@@ -1,0 +1,4 @@
+24,359,12
+abbas,1
+taiyabji,1
+calcutta,1

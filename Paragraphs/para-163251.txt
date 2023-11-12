@@ -1,0 +1,9 @@
+47,102,6
+i,1
+condense,1
+the,1
+following,1
+from,1
+a,1
+newspaper,1
+report,1

@@ -1,0 +1,16 @@
+82,404,30
+the,2
+editor,1
+facts,1
+are,2
+true,1
+but,1
+it,1
+has,1
+nothing,1
+to,1
+do,1
+with,1
+congress,1
+you,1
+right,1

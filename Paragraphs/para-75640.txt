@@ -1,0 +1,8 @@
+22,8,5
+boys,1
+should,2
+remain,1
+firm,1
+avoid,1
+rowdyism,1
+undergo,1

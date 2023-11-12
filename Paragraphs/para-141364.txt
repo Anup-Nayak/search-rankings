@@ -1,0 +1,15 @@
+41,274,4
+yours,1
+sincerely,1
+miss,1
+jane,1
+howard,1
+rosemary,1
+50,1
+pandora,1
+road,1
+malvern,1
+johannesburg,1
+transvaal,1
+s,1
+africa,1

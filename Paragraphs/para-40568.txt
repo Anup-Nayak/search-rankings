@@ -1,0 +1,9 @@
+12,323,2
+letters,1
+editor,1
+purshottamdas,1
+manga,1
+soma,1
+chhaganlal,1
+jamun,1
+adas,1

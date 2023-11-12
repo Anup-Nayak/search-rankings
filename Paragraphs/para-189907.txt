@@ -1,0 +1,16 @@
+53,381,2
+sir,1
+sultan,1
+ahmed,1
+i,2
+have,1
+a,1
+question,1
+want,1
+to,2
+put,1
+mr,1
+gandhi,1
+if,1
+you,1
+will,1

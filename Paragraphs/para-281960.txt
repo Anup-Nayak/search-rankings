@@ -1,0 +1,8 @@
+75,256,8
+1,1
+gandhiji,1
+used,1
+this,1
+expression,1
+for,1
+lavatory,1

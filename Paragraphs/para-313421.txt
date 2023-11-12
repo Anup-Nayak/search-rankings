@@ -1,0 +1,15 @@
+82,298,30
+shoot,1
+under,1
+orders,1
+they,1
+are,1
+also,1
+said,1
+to,1
+be,1
+levying,1
+taxes,1
+from,1
+zamindars,1
+and,1

@@ -1,0 +1,9 @@
+30,214,4
+q,1
+can,1
+you,2
+recognize,1
+the,1
+hindus,1
+whom,1
+helped,1

@@ -1,0 +1,13 @@
+69,142,2
+if,1
+the,2
+writing,1
+is,1
+too,1
+faint,1
+to,1
+read,1
+please,1
+throw,1
+away,1
+letter,1

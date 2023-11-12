@@ -1,0 +1,7 @@
+19,484,9
+as,2
+broad,1
+the,1
+blue,1
+sky,1
+above,1

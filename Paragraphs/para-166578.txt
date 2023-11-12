@@ -1,0 +1,6 @@
+48,21,4
+20,1
+declaration,1
+of,1
+trust,1
+1,1

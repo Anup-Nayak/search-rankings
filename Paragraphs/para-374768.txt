@@ -1,0 +1,11 @@
+97,170,12
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+pyarelal,2
+papers,1
+co,1
+urtesy,1

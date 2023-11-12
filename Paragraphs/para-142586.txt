@@ -1,0 +1,7 @@
+41,430,5
+496,1
+letter,1
+to,1
+julia,1
+isbrucker,1
+2,1

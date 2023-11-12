@@ -1,0 +1,15 @@
+12,417,5
+from,1
+a,1
+copy,1
+of,1
+the,1
+original,1
+c,1
+w,1
+4902,1
+courtesy,1
+eugene,1
+joseph,1
+paul,1
+pietermaritzburg,1

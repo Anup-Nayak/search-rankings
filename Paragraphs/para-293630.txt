@@ -1,0 +1,11 @@
+78,208,4
+bapu,1
+dr,1
+margarete,1
+spiegel,1
+ivanhoe,1
+opp,1
+backbay,1
+baths,1
+fort,1
+bombay,1

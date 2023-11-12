@@ -1,0 +1,6 @@
+97,48,4
+dear,1
+general,1
+shah,1
+nawaz,1
+1,1

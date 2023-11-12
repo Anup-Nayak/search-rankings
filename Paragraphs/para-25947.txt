@@ -1,0 +1,12 @@
+8,470,8
+the,2
+magistrate,1
+said,1
+it,1
+was,1
+not,1
+a,1
+matter,1
+which,1
+concerned,1
+court,1

@@ -1,0 +1,9 @@
+90,299,2
+363,1
+talk,1
+with,1
+missionaries,1
+before,1
+april,1
+23,1
+1946,1

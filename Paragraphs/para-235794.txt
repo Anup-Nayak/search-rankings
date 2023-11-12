@@ -1,0 +1,9 @@
+64,272,7
+no,1
+temperature,1
+both,1
+1,1
+well,1
+hope,1
+ramdas,1
+strong,1

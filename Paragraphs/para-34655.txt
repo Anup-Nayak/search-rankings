@@ -1,0 +1,11 @@
+11,131,4
+148,1
+interview,1
+to,1
+reuter,1
+and,1
+s,1
+a,1
+press,1
+agency,1
+1,1

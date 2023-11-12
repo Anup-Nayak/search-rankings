@@ -1,0 +1,6 @@
+83,420,1
+simultaneous,1
+decision,1
+on,1
+both,1
+issues,1

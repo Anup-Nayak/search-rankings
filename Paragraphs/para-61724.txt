@@ -1,0 +1,7 @@
+17,347,18
+forgive,1
+inability,1
+reply,1
+overwhelmed,1
+with,1
+work,1

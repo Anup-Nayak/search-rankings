@@ -1,0 +1,6 @@
+7,60,9
+44,1
+measure,1
+of,1
+indian,1
+strength,1

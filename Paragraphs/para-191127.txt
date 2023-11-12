@@ -1,0 +1,9 @@
+54,24,8
+q,1
+are,1
+you,1
+hopeful,1
+of,1
+a,1
+successful,1
+outcome,1

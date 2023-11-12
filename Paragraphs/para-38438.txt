@@ -1,0 +1,6 @@
+12,27,1
+22,1
+indians,1
+support,1
+mr,1
+ritch,1

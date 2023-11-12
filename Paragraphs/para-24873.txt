@@ -1,0 +1,13 @@
+8,305,5
+yours,1
+truly,1
+m,1
+k,1
+gandhi,1
+general,1
+j,1
+c,1
+smuts,1
+colonial,1
+office,1
+pretoria,1

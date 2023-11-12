@@ -1,0 +1,9 @@
+42,408,8
+sabarmati,1
+bhadrapad,1
+shukla,1
+11,1
+august,1
+26,1
+1928,1
+2,1

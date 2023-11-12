@@ -1,0 +1,7 @@
+6,86,7
+82,1
+letter,1
+to,1
+sir,1
+richard,1
+solomon,1

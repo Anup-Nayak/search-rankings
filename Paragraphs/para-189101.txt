@@ -1,0 +1,14 @@
+53,274,10
+come,1
+simla,1
+wire,1
+care,1
+doctor,1
+ansari,1
+gandhi,1
+from,1
+a,1
+copy,1
+s,1
+n,1
+17579,1

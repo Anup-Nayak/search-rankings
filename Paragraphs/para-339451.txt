@@ -1,0 +1,6 @@
+88,121,2
+21,1
+rook,1
+main,1
+road,1
+lahore,1

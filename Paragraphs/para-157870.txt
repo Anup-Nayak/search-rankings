@@ -1,0 +1,3 @@
+45,426,2
+hospital,1
+occupied,1

@@ -1,0 +1,6 @@
+31,173,28
+identify,1
+themselves,1
+with,1
+the,1
+poor,1

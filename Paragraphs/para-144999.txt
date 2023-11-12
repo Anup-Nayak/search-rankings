@@ -1,0 +1,5 @@
+42,243,10
+silk,1
+and,1
+tiger,1
+skin,1

@@ -1,0 +1,11 @@
+42,236,10
+w,2
+coldstream,1
+esq,1
+69,1
+west,1
+cromwell,1
+road,1
+london,1
+s,1
+5,1

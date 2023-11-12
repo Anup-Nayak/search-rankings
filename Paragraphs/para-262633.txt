@@ -1,0 +1,11 @@
+70,350,7
+a,1
+i,1
+base,1
+my,1
+faith,1
+in,1
+god,1
+and,1
+his,1
+justice,1

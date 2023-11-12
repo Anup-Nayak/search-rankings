@@ -1,0 +1,7 @@
+10,310,8
+the,1
+slavery,1
+of,1
+our,1
+times,1
+tolstoy,1

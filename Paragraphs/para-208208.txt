@@ -1,0 +1,16 @@
+58,102,3
+give,1
+dr,1
+talwalkars,1
+letter,1
+to,1
+him,1
+after,1
+reading,1
+it,2
+and,1
+only,1
+if,1
+you,1
+approve,1
+of,1

@@ -1,0 +1,6 @@
+27,69,7
+men,1
+easier,1
+for,1
+your,1
+presence,1

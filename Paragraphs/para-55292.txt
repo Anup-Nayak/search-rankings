@@ -1,0 +1,8 @@
+16,53,1
+her,1
+husband,1
+baban,1
+gokhale,1
+and,1
+some,1
+others,1

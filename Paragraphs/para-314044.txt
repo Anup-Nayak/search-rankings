@@ -1,0 +1,14 @@
+82,343,7
+section,1
+of,1
+the,2
+indian,1
+public,1
+rightly,1
+or,1
+wrongly,1
+that,1
+wish,1
+is,1
+based,1
+upon,1

@@ -1,0 +1,7 @@
+8,39,6
+mr,1
+gandhi,1
+that,1
+is,1
+perfectly,1
+true,1

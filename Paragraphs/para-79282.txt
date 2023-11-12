@@ -1,0 +1,6 @@
+23,154,2
+67,1
+letter,1
+to,1
+s,1
+satyamurti,1

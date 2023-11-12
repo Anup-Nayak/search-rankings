@@ -1,0 +1,14 @@
+13,199,4
+1,1
+the,1
+gujarati,1
+saying,1
+literally,1
+means,1
+a,2
+mustard,1
+seed,1
+being,1
+magnified,1
+into,1
+mountain,1

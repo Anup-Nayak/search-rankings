@@ -1,0 +1,10 @@
+15,360,4
+1,1
+tej,1
+bahadur,1
+sapru,1
+1875,1
+1949,1
+lawyer,1
+and,1
+statesman,1

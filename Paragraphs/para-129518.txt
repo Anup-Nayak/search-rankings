@@ -1,0 +1,12 @@
+38,48,9
+1,1
+the,3
+text,1
+in,1
+source,1
+is,2
+incomplete,1
+2,1
+addressee,1
+not,1
+known,1

@@ -1,0 +1,7 @@
+17,322,13
+committee,1
+gandhi,1
+leaving,1
+for,1
+delhi,1
+to,1

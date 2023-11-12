@@ -1,0 +1,5 @@
+6,438,2
+encounter,1
+with,1
+the,1
+star,1

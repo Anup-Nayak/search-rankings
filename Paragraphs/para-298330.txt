@@ -1,0 +1,9 @@
+79,323,14
+paid,1
+251,1
+mortgaging,1
+grand,1
+daughters,1
+ornaments,1
+population,1
+terrorized,1

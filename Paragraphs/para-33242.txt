@@ -1,0 +1,16 @@
+10,476,2
+from,1
+the,1
+gujarati,1
+gandhiji,2
+ni,1
+sadhana,1
+by,2
+raojibhai,1
+patel,2
+and,1
+mahatma,1
+na,1
+patro,1
+edited,1
+dahyabhai,1

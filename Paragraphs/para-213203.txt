@@ -1,0 +1,12 @@
+59,101,3
+dear,1
+friend,1
+i,1
+have,2
+your,1
+letter,1
+you,1
+given,1
+me,1
+interesting,1
+information,1

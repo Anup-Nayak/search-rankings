@@ -1,0 +1,10 @@
+46,107,24
+england,2
+it,1
+is,1
+the,1
+which,2
+fought,1
+against,1
+magna,1
+charta,1

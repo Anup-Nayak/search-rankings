@@ -1,0 +1,16 @@
+11,291,9
+1,1
+this,1
+letter,1
+was,1
+apparently,1
+written,1
+before,1
+chhaganlal,1
+gandhis,1
+arrival,1
+in,2
+south,1
+africa,1
+july,1
+1911,1

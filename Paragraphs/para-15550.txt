@@ -1,0 +1,16 @@
+6,39,7
+asked,1
+for,2
+and,1
+we,2
+do,1
+not,1
+now,1
+ask,1
+political,1
+rights,1
+are,1
+content,1
+that,1
+the,1
+white,1

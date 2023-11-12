@@ -1,0 +1,11 @@
+64,95,9
+1,2
+this,1
+paragraph,1
+has,1
+been,1
+translated,1
+from,1
+harijanbandhu,1
+7,1
+1934,1

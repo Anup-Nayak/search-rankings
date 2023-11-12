@@ -1,0 +1,13 @@
+58,129,5
+animals,2
+caste,1
+hindus,1
+did,1
+not,2
+like,1
+the,1
+harijans,1
+decision,1
+to,1
+remove,1
+dead,1

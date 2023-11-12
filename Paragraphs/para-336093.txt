@@ -1,0 +1,13 @@
+87,267,5
+y,1
+o,1
+u,1
+r,1
+s,1
+m,1
+k,1
+gandhi,1
+shri,1
+aurobindo,1
+ashram,1
+pondicherry,1

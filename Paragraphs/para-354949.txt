@@ -1,0 +1,13 @@
+92,32,4
+g,1
+it,2
+may,1
+but,1
+the,1
+labour,1
+expended,1
+on,1
+wont,1
+have,1
+been,1
+wasted,1

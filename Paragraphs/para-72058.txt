@@ -1,0 +1,9 @@
+20,406,3
+no,1
+effort,1
+on,1
+this,1
+path,1
+is,1
+ever,1
+wasted,1

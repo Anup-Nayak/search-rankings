@@ -1,0 +1,6 @@
+18,343,4
+power,1
+investigate,1
+judgment,1
+and,1
+recommend,1

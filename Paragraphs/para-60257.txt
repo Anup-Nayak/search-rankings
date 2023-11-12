@@ -1,0 +1,12 @@
+17,177,11
+4,1
+passed,1
+at,1
+a,1
+dhulia,1
+meeting,1
+deploring,1
+the,2
+rift,1
+in,1
+congress,1

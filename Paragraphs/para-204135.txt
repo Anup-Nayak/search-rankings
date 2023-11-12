@@ -1,0 +1,5 @@
+57,126,14
+oranges,1
+grapes,1
+allaho,1
+akbar,1

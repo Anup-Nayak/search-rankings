@@ -1,0 +1,3 @@
+28,57,2
+cow,1
+slaughter,1

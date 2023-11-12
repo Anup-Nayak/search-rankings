@@ -1,0 +1,17 @@
+83,12,3
+q,1
+what,1
+specific,1
+things,1
+would,1
+be,1
+done,1
+by,1
+india,2
+to,1
+save,1
+china,1
+if,1
+is,1
+declared,1
+independent,1

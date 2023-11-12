@@ -1,0 +1,10 @@
+11,96,7
+1,1
+in,1
+the,1
+house,1
+of,1
+commons,1
+2,1
+tolstoy,1
+farm,1

@@ -1,0 +1,6 @@
+44,492,21
+t8,1
+guj,1
+has,1
+friends,1
+stay,1

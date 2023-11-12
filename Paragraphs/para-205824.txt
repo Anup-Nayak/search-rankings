@@ -1,0 +1,9 @@
+57,291,13
+1,1
+the,1
+original,1
+english,1
+text,1
+is,1
+not,1
+available,1

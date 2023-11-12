@@ -1,0 +1,8 @@
+62,116,4
+a,1
+correspondent,1
+has,1
+raised,1
+the,1
+following,1
+question,1

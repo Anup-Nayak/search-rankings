@@ -1,0 +1,7 @@
+26,415,8
+october,1
+3,1
+tuesday,1
+finished,1
+reading,1
+galilean,1

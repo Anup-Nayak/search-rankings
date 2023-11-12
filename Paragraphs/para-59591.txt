@@ -1,0 +1,9 @@
+17,93,12
+2,1
+gordhandas,1
+patel,1
+secretary,1
+ahmedabad,1
+mill,1
+owners,1
+association,1

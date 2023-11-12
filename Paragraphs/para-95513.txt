@@ -1,0 +1,5 @@
+28,215,2
+machine,1
+spinning,2
+v,1
+hand,1

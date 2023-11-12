@@ -1,0 +1,8 @@
+14,14,4
+final,1
+reply,1
+will,1
+if,1
+satisfactory,1
+have,1
+announce,1

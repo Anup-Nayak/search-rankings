@@ -1,0 +1,16 @@
+30,197,21
+1,1
+khilafat,2
+secretary,1
+2,1
+the,2
+delegation,1
+of,1
+peshawar,1
+which,1
+tried,1
+to,1
+pacify,1
+parties,1
+but,1
+failed,1

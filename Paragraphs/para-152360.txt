@@ -1,0 +1,10 @@
+44,85,4
+bapu,1
+from,1
+gujarati,1
+bapuna,1
+patro7,1
+shri,1
+chhaganlal,1
+joshine,1
+p,1

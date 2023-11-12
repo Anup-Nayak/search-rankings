@@ -1,0 +1,15 @@
+2,108,4
+unfitted,1
+to,2
+be,1
+a,1
+member,1
+of,2
+an,1
+honourable,1
+profession,1
+or,1
+hold,1
+the,1
+position,1
+leader,1

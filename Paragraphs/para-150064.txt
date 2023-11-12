@@ -1,0 +1,16 @@
+43,344,5
+john,1
+haynes,1
+holmes,1
+12,1
+park,1
+avenue,1
+new,1
+york,1
+city,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+15122,1

@@ -1,0 +1,16 @@
+21,96,28
+purge,1
+itself,1
+of,2
+the,1
+canker,1
+injustice,1
+and,1
+untruth,1
+it,1
+was,1
+their,1
+duty,1
+to,1
+withdraw,1
+all,1

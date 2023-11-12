@@ -1,0 +1,5 @@
+21,13,3
+pure,1
+civil,1
+disobedience,1
+1,1

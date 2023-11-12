@@ -1,0 +1,9 @@
+53,41,12
+a,1
+i,1
+hope,1
+so,1
+but,1
+cannot,1
+say,1
+when,1

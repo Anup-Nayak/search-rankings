@@ -1,0 +1,16 @@
+53,57,2
+the,3
+working,1
+committee,1
+adopted,1
+following,1
+pledge,1
+for,1
+guidance,1
+of,1
+foreign,1
+cloth,1
+merchants,1
+and,1
+congress,1
+workers,1

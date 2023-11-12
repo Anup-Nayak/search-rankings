@@ -1,0 +1,4 @@
+18,242,7
+swaraj,1
+in,1
+swadeshi,1

@@ -1,0 +1,8 @@
+37,288,7
+self,1
+others,2
+by,2
+sankhya,1
+yoga,2
+and,1
+karma,1

@@ -1,0 +1,13 @@
+19,290,2
+by,1
+these,1
+facts,2
+do,1
+you,2
+mean,1
+the,1
+that,1
+have,1
+elicited,1
+from,1
+information,1

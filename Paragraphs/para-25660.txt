@@ -1,0 +1,9 @@
+8,436,7
+johannesburg,1
+july,1
+10,1
+1908,1
+the,2
+editor,1
+transvaal,1
+leader,1

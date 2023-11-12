@@ -1,0 +1,11 @@
+31,101,2
+61,1
+difficulties,1
+in,1
+dholka,2
+taluk,1
+a,1
+correspondent,1
+writes,1
+from,1
+1,1

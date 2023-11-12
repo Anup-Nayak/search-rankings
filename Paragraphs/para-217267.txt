@@ -1,0 +1,5 @@
+60,14,2
+23,1
+are,1
+temples,1
+necessary,1

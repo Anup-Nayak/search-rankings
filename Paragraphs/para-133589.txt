@@ -1,0 +1,7 @@
+39,76,8
+3,1
+the,2
+doctrine,1
+of,2
+plurality,1
+truth,1

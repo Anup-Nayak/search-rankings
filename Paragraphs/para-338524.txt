@@ -1,0 +1,5 @@
+88,44,9
+97,1
+letter,1
+to,1
+hoshiari,1

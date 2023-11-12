@@ -1,0 +1,8 @@
+57,398,13
+personal,1
+belongings,1
+of,1
+prisoners,1
+punitive,1
+taxes,1
+imposed,1

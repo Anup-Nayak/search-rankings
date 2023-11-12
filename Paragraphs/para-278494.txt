@@ -1,0 +1,10 @@
+74,323,2
+wardha,1
+december,1
+17,1
+1938,1
+thanupillay,1
+president,1
+state,1
+congress,1
+trivandrum,1

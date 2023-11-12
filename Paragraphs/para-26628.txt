@@ -1,0 +1,8 @@
+9,49,14
+mr,1
+gandhi,1
+i,1
+am,1
+afraid,1
+so,1
+sir,1

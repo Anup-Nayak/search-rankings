@@ -1,0 +1,8 @@
+19,245,10
+truth,1
+that,1
+he,1
+will,1
+pursue,1
+most,1
+decidedly,1

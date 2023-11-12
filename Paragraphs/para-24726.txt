@@ -1,0 +1,17 @@
+8,277,5
+1,1
+a,1
+gujarati,1
+saying,1
+has,1
+it,2
+that,2
+when,1
+two,1
+buffaloes,1
+fight,1
+is,1
+the,1
+tree,1
+gets,1
+uprooted,1

@@ -1,0 +1,9 @@
+6,496,10
+5,2
+asiatics,1
+holding,1
+permits,1
+these,1
+are,1
+not,1
+allowed,1

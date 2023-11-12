@@ -1,0 +1,16 @@
+59,24,15
+1,1
+the,2
+addressee,1
+is,1
+described,1
+in,1
+source,1
+as,1
+a,1
+young,1
+man,1
+of,1
+dar,1
+es,1
+salaam,1

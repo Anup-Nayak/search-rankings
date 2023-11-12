@@ -1,0 +1,10 @@
+55,80,3
+60,1
+letter,1
+to,1
+shakaribehn,1
+c,1
+shah,1
+february,1
+25,1
+1932,1

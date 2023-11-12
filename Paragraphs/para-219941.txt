@@ -1,0 +1,6 @@
+60,363,8
+440,1
+deprived,1
+even,1
+of,1
+water,1

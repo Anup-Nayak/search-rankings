@@ -1,0 +1,10 @@
+20,210,6
+deputation,1
+place,1
+before,1
+ministers,1
+and,1
+public,1
+true,1
+hindu,1
+moslem,1

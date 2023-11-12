@@ -1,0 +1,15 @@
+75,246,11
+3,1
+war,1
+may,1
+destroy,1
+liberty,1
+but,1
+if,1
+the,1
+democracies,1
+survive,1
+there,1
+is,1
+at,1
+least,1

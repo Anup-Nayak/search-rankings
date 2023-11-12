@@ -1,0 +1,6 @@
+13,426,33
+shown,1
+unexpected,1
+powers,1
+endurance,1
+sufferings,1

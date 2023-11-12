@@ -1,0 +1,17 @@
+2,83,6
+as,1
+witnesses,1
+sd,4
+f,1
+j,1
+raffin,1
+george,1
+goodricke,1
+quod,1
+attestor,1
+godfrey,1
+weller,1
+miller,1
+john,1
+m,1
+cooke,1

@@ -1,0 +1,13 @@
+31,406,1
+foreign,1
+clothes,1
+she,1
+used,1
+to,1
+spin,2
+regularly,1
+and,1
+they,1
+must,1
+like,1
+her,1

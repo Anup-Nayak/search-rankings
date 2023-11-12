@@ -1,0 +1,14 @@
+78,48,4
+but,1
+the,1
+friends,1
+who,1
+came,1
+were,2
+sure,1
+that,1
+they,2
+leaders,1
+and,1
+asked,1
+for,1

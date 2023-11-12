@@ -1,0 +1,7 @@
+15,126,7
+1,1
+from,1
+gujarat,2
+mitra,1
+ane,1
+darpan,1

@@ -1,0 +1,4 @@
+19,103,2
+spinning,1
+wheel,1
+movement,1

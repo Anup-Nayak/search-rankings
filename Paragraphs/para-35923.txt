@@ -1,0 +1,8 @@
+11,267,20
+association,1
+offers,1
+no,1
+comment,1
+on,1
+bearing,1
+bill,1

@@ -1,0 +1,7 @@
+92,71,5
+treatment,1
+of,1
+prisoner,1
+kakodkar,1
+please,1
+wire,1

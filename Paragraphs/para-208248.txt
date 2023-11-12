@@ -1,0 +1,6 @@
+58,105,11
+146,1
+letter,1
+to,1
+shamji,1
+marwadi,1

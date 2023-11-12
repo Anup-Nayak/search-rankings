@@ -1,0 +1,8 @@
+23,171,1
+whether,1
+ganga,1
+water,1
+is,1
+costly,1
+or,1
+cheap,1

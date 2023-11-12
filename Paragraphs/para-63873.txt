@@ -1,0 +1,13 @@
+18,146,18
+22,1
+average,1
+cost,1
+of,1
+production,1
+for,1
+dhotis,1
+towels,1
+and,1
+other,1
+important,1
+articles,1

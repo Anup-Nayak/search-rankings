@@ -1,0 +1,10 @@
+59,250,4
+from,1
+gujarati,1
+c,1
+w,1
+9493,1
+courtesy,1
+d,1
+b,1
+kalelkar,1

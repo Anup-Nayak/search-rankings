@@ -1,0 +1,9 @@
+30,197,2
+q,1
+were,1
+many,1
+copies,1
+of,1
+this,1
+poem,1
+sold,1

@@ -1,0 +1,8 @@
+30,114,6
+1,1
+a,1
+poet,1
+and,1
+writer,1
+from,1
+saurashtra,1

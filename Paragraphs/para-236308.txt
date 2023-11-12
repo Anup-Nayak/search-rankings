@@ -1,0 +1,14 @@
+64,332,2
+wardha,1
+august,1
+23,1
+1934,1
+abul,1
+kalam,1
+azad,1
+19,1
+a,1
+ballyganj,1
+circular,1
+road,1
+calcutta,1

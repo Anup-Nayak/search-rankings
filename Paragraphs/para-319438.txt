@@ -1,0 +1,17 @@
+84,12,4
+4,2
+the,5
+speeches,1
+recently,1
+made,1
+on,3
+behalf,1
+of,1
+governm,1
+ent,1
+in,1
+assembly,1
+release,1
+motion,1
+and,1
+gagging,1

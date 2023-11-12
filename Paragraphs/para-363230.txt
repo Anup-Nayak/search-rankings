@@ -1,0 +1,5 @@
+94,24,2
+kazirkhil,1
+ramganj,1
+p,1
+s,1

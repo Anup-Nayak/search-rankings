@@ -1,0 +1,9 @@
+59,261,1
+9,1
+the,2
+next,1
+sentence,1
+in,1
+committees,1
+statement,1
+runs,1

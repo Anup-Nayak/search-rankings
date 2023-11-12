@@ -1,0 +1,7 @@
+13,70,17
+legitimate,1
+method,1
+demonstrating,1
+intensity,1
+feeling,1
+and,1

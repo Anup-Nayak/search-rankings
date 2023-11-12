@@ -1,0 +1,14 @@
+64,227,12
+harijans,1
+and,1
+the,2
+other,1
+citizens,1
+of,1
+lucknow,1
+for,1
+reception,1
+accorded,1
+to,1
+him,1
+but,1

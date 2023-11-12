@@ -1,0 +1,6 @@
+69,123,2
+142,1
+a,1
+witness,1
+from,1
+america,1

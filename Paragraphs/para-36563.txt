@@ -1,0 +1,11 @@
+11,312,16
+g,1
+but,1
+you,1
+repeated,1
+the,2
+same,1
+thing,1
+at,1
+second,1
+reading,1

@@ -1,0 +1,7 @@
+62,398,2
+434,1
+talk,1
+with,1
+harijan,1
+workers,1
+2,1

@@ -1,0 +1,7 @@
+88,34,1
+72,1
+letter,1
+to,1
+ali,1
+reza,1
+dabeer,1

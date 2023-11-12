@@ -1,0 +1,3 @@
+28,457,4
+teaching,1
+facilities,1

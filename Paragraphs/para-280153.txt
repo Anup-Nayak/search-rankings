@@ -1,0 +1,7 @@
+75,52,14
+58,1
+telegram,1
+to,1
+dr,1
+khan,1
+saheb,1

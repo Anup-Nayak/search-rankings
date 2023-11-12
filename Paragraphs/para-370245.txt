@@ -1,0 +1,7 @@
+96,66,8
+100,1
+letter,1
+to,1
+mohammed,1
+husain,1
+khan,1

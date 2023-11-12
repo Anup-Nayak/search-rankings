@@ -1,0 +1,8 @@
+44,489,20
+t2,1
+guj,1
+adds,1
+a,2
+long,1
+shirt,1
+turban,1

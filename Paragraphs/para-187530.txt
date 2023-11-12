@@ -1,0 +1,9 @@
+53,111,11
+their,4
+want,1
+of,1
+self,1
+assertion,1
+apathy,1
+towards,1
+wrongs,1

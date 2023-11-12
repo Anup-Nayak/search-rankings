@@ -1,0 +1,6 @@
+83,90,10
+109,1
+if,1
+harijan,1
+is,1
+suppressed,1

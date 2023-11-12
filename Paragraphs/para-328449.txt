@@ -1,0 +1,16 @@
+85,454,11
+5,1
+the,3
+establishment,1
+of,2
+confederation,1
+eliminates,1
+necessity,1
+a,1
+plebiscite,1
+which,1
+therefore,1
+need,1
+not,1
+be,1
+held,1

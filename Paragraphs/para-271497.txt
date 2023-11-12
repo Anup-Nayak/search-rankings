@@ -1,0 +1,7 @@
+73,0,3
+ask,1
+jeramdas,1
+to,1
+do,1
+it,1
+today,1

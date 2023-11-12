@@ -1,0 +1,7 @@
+47,196,8
+219,1
+letter,1
+to,1
+pratap,1
+s,1
+pandit,1

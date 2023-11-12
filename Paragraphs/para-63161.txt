@@ -1,0 +1,6 @@
+18,49,1
+43,1
+letter,1
+to,1
+sakarlal,1
+dave,1

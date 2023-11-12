@@ -1,0 +1,13 @@
+82,392,25
+government,1
+do,1
+not,1
+need,1
+any,1
+help,1
+from,1
+us,1
+beyond,1
+our,1
+non,1
+interference,1

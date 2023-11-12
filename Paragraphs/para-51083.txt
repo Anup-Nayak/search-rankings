@@ -1,0 +1,7 @@
+15,98,17
+2,1
+vide,1
+speech,1
+at,1
+gurukul,1
+hardwar,1

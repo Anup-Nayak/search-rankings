@@ -1,0 +1,17 @@
+58,491,4
+d,1
+try,1
+to,2
+find,1
+some,1
+way,1
+so,1
+that,1
+you,1
+are,1
+able,1
+have,1
+these,1
+other,1
+people,1
+released,1

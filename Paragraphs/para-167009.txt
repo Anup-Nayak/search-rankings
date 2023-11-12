@@ -1,0 +1,13 @@
+48,85,1
+ahmedabad,2
+navajivan,2
+karyalaya,1
+and,1
+udyoga,1
+mandir,1
+sabarmati,1
+from,1
+gujarati,1
+15,1
+12,1
+1929,1

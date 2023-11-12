@@ -1,0 +1,7 @@
+1,151,1
+41,1
+deputation,1
+to,1
+natal,1
+governor,1
+11,1

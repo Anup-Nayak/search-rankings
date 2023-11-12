@@ -1,0 +1,10 @@
+53,210,10
+civilians,1
+here,1
+do,1
+not,1
+want,1
+me,1
+to,1
+attend,1
+conference,1

@@ -1,0 +1,16 @@
+19,277,4
+i,2
+think,1
+that,1
+is,1
+your,1
+principle,1
+would,1
+draw,1
+a,1
+sharp,1
+distinction,1
+between,1
+lawlessness,1
+and,1
+assertiveness,1

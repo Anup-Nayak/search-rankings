@@ -1,0 +1,7 @@
+22,117,2
+68,1
+letter,1
+to,1
+k,1
+w,1
+bhattacharya,1

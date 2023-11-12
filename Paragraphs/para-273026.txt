@@ -1,0 +1,11 @@
+73,190,2
+segaon,1
+may,1
+23,1
+1938,1
+i,2
+have,1
+your,1
+wire,1
+await,1
+letter,1

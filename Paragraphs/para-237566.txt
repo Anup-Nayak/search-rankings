@@ -1,0 +1,6 @@
+65,14,6
+11,1
+letter,1
+to,1
+vidya,1
+parkash,1

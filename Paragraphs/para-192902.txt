@@ -1,0 +1,8 @@
+54,266,7
+154,1
+speech,1
+at,1
+meeting,1
+in,1
+lausanne,1
+2,1

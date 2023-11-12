@@ -1,0 +1,14 @@
+48,324,10
+1,1
+in,2
+the,3
+g,1
+n,1
+series,1
+this,1
+is,1
+first,1
+letter,1
+hindi,1
+to,1
+addressee,1

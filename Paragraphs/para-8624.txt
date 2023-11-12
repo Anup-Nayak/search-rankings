@@ -1,0 +1,4 @@
+3,455,8
+whites,1
+asiatics,1
+natives,1

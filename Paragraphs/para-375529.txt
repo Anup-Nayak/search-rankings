@@ -1,0 +1,7 @@
+97,276,1
+255,1
+when,1
+a,2
+blessing,1
+becomes,1
+curse,1

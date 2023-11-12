@@ -1,0 +1,9 @@
+24,32,2
+17,1
+congress,1
+working,1
+committee,1
+resolution,1
+on,1
+elections,1
+1,1

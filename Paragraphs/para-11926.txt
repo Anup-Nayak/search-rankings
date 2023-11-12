@@ -1,0 +1,15 @@
+5,2,7
+british,1
+indians,1
+transvaal,1
+tender,1
+to,1
+his,2
+gracious,1
+majesty,1
+humble,1
+congratulations,1
+on,1
+sixty,1
+fifth,1
+birthday,1

@@ -1,0 +1,15 @@
+89,54,9
+blessings,1
+from,1
+bapu,1
+shri,2
+h,1
+c,1
+dasappa,1
+kasturba,1
+shibir,1
+paduravally,1
+v,2
+mohalla,1
+post,1
+mysore,1

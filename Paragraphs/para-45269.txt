@@ -1,0 +1,8 @@
+13,433,10
+trollable,1
+proportions,1
+mass,1
+people,1
+so,1
+indignant,1
+that,1

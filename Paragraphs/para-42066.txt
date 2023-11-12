@@ -1,0 +1,12 @@
+13,32,6
+if,1
+the,2
+hindus,1
+are,1
+faced,1
+with,1
+anything,1
+similar,1
+to,1
+turkish,1
+war,1

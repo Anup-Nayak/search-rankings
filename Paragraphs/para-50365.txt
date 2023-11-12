@@ -1,0 +1,16 @@
+15,32,1
+internment,1
+has,1
+brought,1
+you,3
+nearer,2
+to,2
+me,1
+if,1
+it,1
+is,1
+possible,1
+for,1
+be,1
+than,1
+were,1

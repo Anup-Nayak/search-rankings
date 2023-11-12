@@ -1,0 +1,5 @@
+11,154,1
+avoid,1
+importing,1
+women,1
+struggle,1

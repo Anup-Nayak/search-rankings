@@ -1,0 +1,4 @@
+49,220,12
+nadiad,1
+from,1
+gujarati,1

@@ -1,0 +1,9 @@
+24,360,12
+s,1
+e,1
+stokes,1
+kotgadh,1
+simla,1
+gudur,1
+ramachandra,1
+rao,1

@@ -1,0 +1,13 @@
+74,367,4
+q,1
+dont,1
+the,2
+villages,1
+need,1
+a,1
+lot,1
+of,1
+things,1
+that,1
+cities,1
+produce,1

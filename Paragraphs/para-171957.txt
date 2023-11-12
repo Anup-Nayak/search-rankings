@@ -1,0 +1,13 @@
+49,290,13
+salt,1
+tax,1
+the,1
+prohibition,1
+of,1
+liquor,1
+and,1
+a,1
+ban,1
+on,1
+foreign,1
+cloth,1

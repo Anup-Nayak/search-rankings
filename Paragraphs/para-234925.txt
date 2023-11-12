@@ -1,0 +1,12 @@
+64,174,6
+protected,1
+the,1
+religion,1
+of,2
+this,1
+country,1
+and,1
+they,1
+were,1
+embodiments,1
+renunciation,1

@@ -1,0 +1,13 @@
+18,227,2
+before,1
+proceeding,1
+to,2
+consider,1
+the,1
+case,1
+of,1
+each,1
+accused,1
+it,1
+is,1
+necessary,1

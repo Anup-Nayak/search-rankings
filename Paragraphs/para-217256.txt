@@ -1,0 +1,13 @@
+60,10,8
+1,1
+perhaps,1
+gandhiji,1
+meant,1
+harijan,2
+sevak,1
+as,1
+no,1
+answer,1
+is,1
+identified,1
+in,1

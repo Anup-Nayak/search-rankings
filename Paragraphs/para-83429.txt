@@ -1,0 +1,7 @@
+24,359,6
+m,1
+k,1
+gandhi,1
+konda,1
+venkatappayya,1
+guntur,1

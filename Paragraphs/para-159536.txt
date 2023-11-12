@@ -1,0 +1,11 @@
+46,156,8
+ginned,1
+by,2
+foreign,1
+mechanism,1
+driven,1
+steam,1
+power,1
+till,1
+then,1
+ginning,1

@@ -1,0 +1,17 @@
+82,415,23
+l,1
+f,1
+general,1
+strike,1
+i,1
+know,1
+that,1
+you,1
+have,1
+in,1
+the,1
+past,1
+had,1
+a,1
+large,1
+following,1

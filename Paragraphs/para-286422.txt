@@ -1,0 +1,14 @@
+76,278,12
+produced,1
+the,2
+entire,1
+spinning,1
+is,1
+done,1
+in,1
+a,1
+limited,1
+space,1
+and,1
+spindles,1
+are,1

@@ -1,0 +1,7 @@
+35,275,3
+syed,1
+raza,1
+ali,1
+at,1
+inverarm,1
+simla,1

@@ -1,0 +1,10 @@
+21,10,7
+does,1
+not,1
+head,1
+khilafat,1
+agitation,1
+now,1
+in,1
+his,1
+excellencys,1

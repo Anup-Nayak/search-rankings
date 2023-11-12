@@ -1,0 +1,10 @@
+77,96,18
+their,1
+own,1
+government,1
+are,2
+they,2
+to,1
+remain,1
+serfs,1
+which,1

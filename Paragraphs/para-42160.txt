@@ -1,0 +1,11 @@
+13,46,8
+section,1
+four,1
+seems,1
+to,1
+take,1
+away,1
+the,1
+rights,1
+of,1
+educated,1

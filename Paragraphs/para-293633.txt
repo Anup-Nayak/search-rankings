@@ -1,0 +1,5 @@
+78,208,7
+democracy,1
+and,1
+non,1
+violence,1

@@ -1,0 +1,12 @@
+94,205,20
+that,2
+he,3
+was,1
+a,1
+poor,1
+man,1
+and,1
+though,1
+had,1
+opportunities,1
+scrupulously,1

@@ -1,0 +1,11 @@
+67,60,7
+1,1
+harilal,2
+gandhis,1
+granddaughter,1
+2,1
+son,2
+of,2
+gandhi,2
+3,1
+narandas,1

@@ -1,0 +1,11 @@
+82,194,10
+ba,1
+is,1
+much,1
+better,1
+the,1
+others,1
+also,1
+are,1
+quite,1
+well,1

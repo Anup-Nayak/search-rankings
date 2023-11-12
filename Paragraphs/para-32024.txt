@@ -1,0 +1,11 @@
+10,311,15
+intellectual,1
+races,1
+the,1
+civilization,1
+was,1
+not,1
+perfunctory,1
+but,1
+universal,1
+and,1

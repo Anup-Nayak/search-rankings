@@ -1,0 +1,14 @@
+35,468,7
+i,1
+enclose,1
+herewith,1
+a,1
+cheque,1
+for,2
+rs,1
+1,1
+625,1
+the,1
+month,1
+of,1
+april,1

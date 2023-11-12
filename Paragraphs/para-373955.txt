@@ -1,0 +1,11 @@
+97,48,8
+1,1
+the,2
+superscription,1
+is,1
+in,3
+devanagari,1
+script,1
+2,1
+masaurhi,1
+bihar,1

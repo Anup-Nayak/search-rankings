@@ -1,0 +1,9 @@
+3,489,2
+322,1
+if,1
+the,1
+plague,1
+broke,1
+out,1
+in,1
+natal,1

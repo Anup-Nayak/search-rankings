@@ -1,0 +1,8 @@
+7,231,2
+188,1
+movement,1
+for,1
+self,1
+government,1
+in,1
+egypt,1

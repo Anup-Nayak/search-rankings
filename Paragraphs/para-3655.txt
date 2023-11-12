@@ -1,0 +1,8 @@
+2,155,12
+2,1
+this,1
+act,1
+shall,1
+not,1
+apply,1
+to,1

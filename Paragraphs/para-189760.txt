@@ -1,0 +1,15 @@
+53,351,1
+working,1
+men,1
+and,2
+women,1
+of,1
+lancashire,1
+has,1
+been,1
+in,1
+touch,1
+with,1
+many,1
+mill,1
+owners,1

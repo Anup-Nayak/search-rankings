@@ -1,0 +1,9 @@
+60,2,4
+yours,1
+sincerely,1
+madam,1
+e,1
+lindsay,1
+balliol,1
+college,1
+oxford,1

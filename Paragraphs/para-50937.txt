@@ -1,0 +1,7 @@
+15,90,10
+january,1
+14,1
+thursday,1
+interview,1
+with,1
+governor,1

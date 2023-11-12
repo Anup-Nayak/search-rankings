@@ -1,0 +1,14 @@
+71,29,5
+1,1
+wife,1
+of,1
+addressees,1
+brother,1
+wahid,1
+khan,1
+2,1
+omission,1
+as,1
+in,1
+the,1
+source,1

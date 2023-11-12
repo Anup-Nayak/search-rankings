@@ -1,0 +1,13 @@
+96,436,16
+first,1
+instance,1
+alone,1
+with,1
+the,2
+states,1
+representatives,1
+on,1
+basis,1
+of,1
+their,1
+being,1

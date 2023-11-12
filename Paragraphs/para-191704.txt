@@ -1,0 +1,16 @@
+54,100,11
+q,1
+have,1
+these,1
+people,1
+any,1
+social,1
+right,1
+to,1
+live,1
+better,1
+than,1
+the,1
+simple,1
+workers,1
+or,1

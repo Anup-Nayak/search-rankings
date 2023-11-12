@@ -1,0 +1,5 @@
+82,125,5
+the,1
+medium,1
+of,1
+instruction,1

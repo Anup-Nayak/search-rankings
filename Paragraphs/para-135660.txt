@@ -1,0 +1,17 @@
+39,370,2
+i,1
+extract,1
+the,3
+following,1
+interesting,1
+paragraphs,1
+from,1
+an,1
+article,1
+headed,1
+war,1
+in,1
+march,1
+number,1
+of,1
+brotherhood,1

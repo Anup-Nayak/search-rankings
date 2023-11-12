@@ -1,0 +1,15 @@
+10,76,1
+it,1
+was,1
+a,1
+mistake,1
+on,1
+the,2
+part,1
+of,1
+purushottamdas,1
+not,1
+to,1
+have,1
+sent,1
+letter,1

@@ -1,0 +1,6 @@
+88,105,15
+1,1
+wife,1
+of,1
+krishnadas,1
+gandhi,1

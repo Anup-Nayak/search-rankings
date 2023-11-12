@@ -1,0 +1,5 @@
+8,410,2
+satyagraha,1
+in,1
+full,1
+bloom,1

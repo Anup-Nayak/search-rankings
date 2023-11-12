@@ -1,0 +1,8 @@
+24,139,8
+after,1
+calcutta,1
+bapuna,1
+patro,1
+2,1
+sardar,1
+vallabhbhaine,1

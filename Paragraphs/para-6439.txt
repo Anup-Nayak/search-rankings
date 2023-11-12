@@ -1,0 +1,10 @@
+3,45,8
+b,1
+whether,1
+the,2
+renewal,1
+will,1
+be,1
+granted,1
+in,1
+cases,1

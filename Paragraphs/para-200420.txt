@@ -1,0 +1,15 @@
+56,195,5
+yours,1
+m,2
+k,1
+gandhi,1
+moulvi,1
+saheb,1
+a,1
+khan,1
+kotwal,1
+street,1
+bazaar,1
+3,1
+ferozepur,1
+cantt,1

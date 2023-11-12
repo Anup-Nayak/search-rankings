@@ -1,0 +1,11 @@
+93,200,9
+blessings,1
+from,1
+bapu,1
+ps,1
+write,2
+to,2
+me,1
+or,1
+ask,1
+someone,1

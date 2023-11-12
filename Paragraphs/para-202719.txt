@@ -1,0 +1,11 @@
+56,455,6
+1,1
+the,1
+addressee,1
+had,1
+renounced,1
+his,2
+claim,1
+to,1
+ancestral,1
+property,1

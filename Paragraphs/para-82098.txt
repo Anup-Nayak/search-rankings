@@ -1,0 +1,3 @@
+24,132,2
+chirala,1
+perala,1

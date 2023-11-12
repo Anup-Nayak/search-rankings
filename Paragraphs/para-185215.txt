@@ -1,0 +1,5 @@
+52,337,7
+away,1
+from,1
+the,1
+shops,1

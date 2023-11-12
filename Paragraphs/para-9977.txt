@@ -1,0 +1,7 @@
+4,220,1
+171,1
+the,1
+value,1
+of,1
+stray,1
+moments,1

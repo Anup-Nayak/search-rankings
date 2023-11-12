@@ -1,0 +1,6 @@
+25,246,5
+in,1
+the,1
+absence,1
+of,1
+president,1

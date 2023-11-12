@@ -1,0 +1,5 @@
+8,441,6
+247,1
+hindu,1
+cremation,1
+ground,1

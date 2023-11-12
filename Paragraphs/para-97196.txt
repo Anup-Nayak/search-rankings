@@ -1,0 +1,14 @@
+28,477,10
+government,1
+to,1
+fight,1
+in,1
+the,2
+darkness,1
+and,1
+behind,1
+trenches,1
+at,1
+safe,1
+distance,1
+it,1

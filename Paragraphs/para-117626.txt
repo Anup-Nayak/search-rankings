@@ -1,0 +1,8 @@
+35,29,12
+48,1
+letter,1
+to,1
+amritlal,1
+nanavati,1
+and,1
+others,1

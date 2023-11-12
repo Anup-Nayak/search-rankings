@@ -1,0 +1,6 @@
+93,313,12
+1,1
+extracted,1
+from,1
+srirampur,1
+diary,1

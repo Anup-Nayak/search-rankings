@@ -1,0 +1,14 @@
+65,71,10
+shri,1
+jhinabhai,1
+joshi,1
+congress,1
+house,1
+a,1
+i,1
+khadi,1
+exhibition,1
+and,1
+swadeshi,1
+bazar,1
+bombay,1

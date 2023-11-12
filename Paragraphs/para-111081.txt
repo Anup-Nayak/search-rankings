@@ -1,0 +1,17 @@
+33,35,4
+i,2
+draw,1
+the,3
+attention,1
+of,2
+congress,1
+organization,1
+and,1
+other,1
+public,1
+bodies,1
+to,1
+following,1
+resolution,1
+a,1
+c,2

@@ -1,0 +1,6 @@
+48,85,3
+a,1
+perplexed,1
+husband,1
+writes,1
+1,1

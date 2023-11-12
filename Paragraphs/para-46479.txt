@@ -1,0 +1,8 @@
+14,71,2
+explained,1
+lord,1
+gladstone,1
+spoke,1
+with,1
+deep,1
+feeling,1

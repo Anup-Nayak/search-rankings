@@ -1,0 +1,7 @@
+10,489,17
+effective,1
+answer,1
+to,1
+complaints,1
+in,1
+india,1

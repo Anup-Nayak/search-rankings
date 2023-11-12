@@ -1,0 +1,8 @@
+93,258,7
+1,1
+wife,1
+of,1
+kanti,1
+mashruwala,1
+addressees,1
+brother,1

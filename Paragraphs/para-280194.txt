@@ -1,0 +1,8 @@
+75,56,5
+instinct,1
+i,1
+do,1
+not,1
+appreciate,1
+sending,1
+notice,1

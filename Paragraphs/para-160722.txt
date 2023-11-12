@@ -1,0 +1,8 @@
+46,284,3
+deputy,1
+commissioners,1
+bungalow,1
+gonda,1
+june,1
+19,1
+1929,1

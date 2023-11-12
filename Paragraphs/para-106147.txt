@@ -1,0 +1,16 @@
+31,228,17
+not,1
+if,1
+he,1
+sends,1
+you,2
+to,2
+jail,1
+tell,1
+him,1
+also,1
+that,1
+propose,1
+as,1
+much,1
+change,1

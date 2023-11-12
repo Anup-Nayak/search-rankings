@@ -1,0 +1,11 @@
+62,290,8
+1,1
+what,2
+follows,2
+is,2
+from,2
+the,2
+bombay,1
+chronicle,1
+2,1
+hindu,1

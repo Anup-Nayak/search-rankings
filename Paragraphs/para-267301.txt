@@ -1,0 +1,17 @@
+72,31,4
+1,1
+the,3
+addressee,1
+was,1
+superintendent,1
+of,1
+harijan,1
+udyogshala,1
+delhi,1
+where,1
+tailoring,1
+shoemaking,1
+carpentry,1
+etc,1
+were,1
+taught,1

@@ -1,0 +1,5 @@
+46,89,6
+foreign,1
+cloth,1
+boycott,1
+resolution,1

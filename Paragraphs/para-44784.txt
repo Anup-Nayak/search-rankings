@@ -1,0 +1,8 @@
+13,389,7
+ladies,1
+not,1
+supplied,1
+with,1
+ghee,1
+request,1
+investi,1

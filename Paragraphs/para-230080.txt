@@ -1,0 +1,10 @@
+63,98,2
+blessings,1
+from,2
+bapu,1
+gujarati,1
+panchven,1
+putrako,1
+bapuke,1
+ashirvad,1
+p,1

@@ -1,0 +1,6 @@
+14,86,10
+balance,1
+here,1
+nearly,1
+eighteen,1
+thousand,1

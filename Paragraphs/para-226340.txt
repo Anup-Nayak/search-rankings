@@ -1,0 +1,7 @@
+62,73,1
+88,1
+letter,1
+to,1
+rama,1
+devi,1
+chowdhary,1

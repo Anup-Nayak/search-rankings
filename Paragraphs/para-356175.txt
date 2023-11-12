@@ -1,0 +1,13 @@
+92,172,1
+hearing,1
+both,1
+the,3
+sides,1
+all,1
+committees,1
+can,1
+jointly,1
+decide,1
+on,1
+right,1
+course,1

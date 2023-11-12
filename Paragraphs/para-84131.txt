@@ -1,0 +1,15 @@
+24,471,14
+and,1
+even,1
+in,1
+1914,1
+when,1
+the,2
+war,1
+broke,1
+out,1
+national,1
+congress,1
+resolved,1
+that,1
+india,1

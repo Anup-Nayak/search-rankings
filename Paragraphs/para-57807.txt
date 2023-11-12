@@ -1,0 +1,9 @@
+16,427,1
+covered,1
+the,2
+chothai,2
+amounts,2
+should,1
+not,1
+be,1
+refunded,1

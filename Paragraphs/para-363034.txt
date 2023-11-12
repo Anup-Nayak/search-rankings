@@ -1,0 +1,14 @@
+94,2,8
+1,1
+gandhiji,1
+wrote,1
+this,1
+in,1
+manu,1
+gandhis,1
+diary,1
+just,1
+after,1
+the,1
+morning,1
+prayers,1

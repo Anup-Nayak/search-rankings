@@ -1,0 +1,16 @@
+1,430,1
+question,1
+in,2
+natal,1
+thus,1
+puts,1
+it,1
+its,1
+issue,1
+of,3
+the,1
+27th,1
+day,1
+june,1
+this,1
+year,1

@@ -1,0 +1,7 @@
+13,145,6
+beg,1
+thank,1
+minister,1
+for,1
+conciliatory,1
+tone,1

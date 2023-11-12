@@ -1,0 +1,16 @@
+27,116,4
+1,1
+this,1
+is,2
+not,1
+available,1
+2,1
+the,2
+reference,1
+to,1
+death,1
+of,1
+amina,1
+mahomed,1
+alis,1
+daughter,1

@@ -1,0 +1,8 @@
+35,151,6
+ashram,1
+sabarmati,1
+chaitra,1
+poornima,1
+april,1
+27,1
+1926,1

@@ -1,0 +1,15 @@
+55,127,2
+1,1
+bhagavad,1
+gita,1
+2,1
+a,1
+resident,1
+of,1
+amreli,1
+who,1
+came,1
+to,1
+join,1
+the,1
+ashram,1

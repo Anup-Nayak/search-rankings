@@ -1,0 +1,5 @@
+75,105,13
+bapuna,1
+bane,1
+patro,1
+p,1

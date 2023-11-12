@@ -1,0 +1,8 @@
+19,53,7
+44,1
+speech,1
+at,1
+gujarat,1
+college,1
+ahmedabad,1
+2,1

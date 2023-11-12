@@ -1,0 +1,13 @@
+23,488,8
+directors,1
+of,3
+church,1
+and,2
+school,1
+politics,1
+the,3
+press,1
+save,1
+for,1
+war,1
+most,1

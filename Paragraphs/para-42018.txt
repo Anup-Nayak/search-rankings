@@ -1,0 +1,6 @@
+13,24,1
+18,1
+the,1
+marriage,1
+question,1
+1,1

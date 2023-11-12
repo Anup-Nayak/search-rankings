@@ -1,0 +1,7 @@
+43,35,3
+30,1
+cow,1
+protection,1
+true,1
+and,1
+false,1

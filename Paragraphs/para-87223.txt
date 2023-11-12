@@ -1,0 +1,9 @@
+25,457,10
+thy,2
+bonds,1
+and,1
+beliefs,1
+are,1
+one,1
+in,1
+kind,1

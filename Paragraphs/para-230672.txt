@@ -1,0 +1,6 @@
+63,188,1
+present,1
+tour,1
+for,1
+constructive,1
+effort,1

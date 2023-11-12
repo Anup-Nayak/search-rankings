@@ -1,0 +1,11 @@
+61,421,15
+1,1
+selections,1
+from,1
+gandhi,1
+2,1
+omission,1
+as,1
+in,1
+the,1
+source,1

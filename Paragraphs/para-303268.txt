@@ -1,0 +1,11 @@
+80,325,10
+also,1
+is,1
+here,1
+at,1
+present,1
+he,1
+will,1
+soon,1
+be,1
+leaving,1

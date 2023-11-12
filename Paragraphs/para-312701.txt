@@ -1,0 +1,16 @@
+82,238,9
+that,1
+there,1
+is,1
+no,1
+such,1
+preparation,1
+it,1
+would,1
+be,1
+foolish,1
+in,1
+the,2
+midst,1
+of,1
+present,1

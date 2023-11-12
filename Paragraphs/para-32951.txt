@@ -1,0 +1,10 @@
+10,431,8
+2,2
+vide,1
+speech,1
+at,1
+kathiawad,1
+arya,1
+mandal,1
+23,1
+1910,1

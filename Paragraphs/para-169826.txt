@@ -1,0 +1,6 @@
+49,4,7
+kapilrai,1
+sainik,1
+anavil,1
+ashram,1
+surat,1

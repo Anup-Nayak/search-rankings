@@ -1,0 +1,13 @@
+27,405,8
+impossible,1
+white,1
+south,1
+africa,1
+angry,1
+and,1
+alarmed,1
+but,1
+to,1
+the,1
+coloured,1
+people,1

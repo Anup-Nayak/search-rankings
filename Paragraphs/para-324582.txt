@@ -1,0 +1,4 @@
+85,80,10
+bapuke,1
+ashirvad,1
+p,1

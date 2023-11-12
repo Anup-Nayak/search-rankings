@@ -1,0 +1,7 @@
+8,468,10
+belongs,1
+mahomedan,1
+priestly,1
+class,1
+profound,1
+sensation,1

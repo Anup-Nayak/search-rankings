@@ -1,0 +1,16 @@
+43,342,9
+v,1
+g,1
+tcherkoff,1
+esq,1
+president,1
+moscow,2
+vegetarian,1
+society,1
+oulitza,1
+ogareva,1
+12,1
+9,1
+u,1
+s,2
+r,1

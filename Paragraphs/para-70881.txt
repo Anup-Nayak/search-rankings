@@ -1,0 +1,9 @@
+20,210,10
+feeling,1
+in,1
+this,1
+important,1
+matter,1
+and,1
+understand,1
+ministers,1

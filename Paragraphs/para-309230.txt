@@ -1,0 +1,14 @@
+81,425,9
+1,1
+british,1
+minister,1
+to,1
+afghanistan,1
+since,1
+august,1
+1941,1
+2,1
+this,1
+is,1
+not,1
+available,1

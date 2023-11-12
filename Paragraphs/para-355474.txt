@@ -1,0 +1,8 @@
+92,91,8
+portuguese,1
+government,1
+was,1
+indifferent,1
+to,1
+criticism,1
+of,1

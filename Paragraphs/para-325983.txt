@@ -1,0 +1,13 @@
+85,210,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+malik,1
+wahid,1
+saheb,1
+jogeshwari,1
+b,1
+s,1
+d,1

@@ -1,0 +1,12 @@
+61,485,9
+of,2
+mind,1
+to,2
+enable,1
+us,1
+think,1
+quietly,1
+about,1
+the,2
+possible,1
+consequences,1

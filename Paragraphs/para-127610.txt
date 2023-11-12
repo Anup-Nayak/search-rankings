@@ -1,0 +1,12 @@
+37,271,6
+with,1
+many,5
+mouths,1
+and,2
+eyes,1
+wondrous,1
+aspects,1
+divine,2
+ornaments,1
+brandished,1
+weapons,1

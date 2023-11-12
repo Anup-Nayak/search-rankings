@@ -1,0 +1,8 @@
+35,433,5
+mohandas,1
+shri,1
+bhagwanji,1
+anupchand,1
+mehta,1
+sadar,1
+rajkot,1

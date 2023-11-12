@@ -1,0 +1,6 @@
+39,19,9
+25,1
+telegram,1
+to,1
+satyagraha,1
+ashram,1

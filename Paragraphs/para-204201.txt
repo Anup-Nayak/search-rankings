@@ -1,0 +1,9 @@
+57,130,26
+lying,1
+similar,1
+situation,1
+myself,1
+i,1
+dare,1
+not,1
+interfere,1

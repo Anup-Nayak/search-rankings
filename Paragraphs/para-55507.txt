@@ -1,0 +1,10 @@
+16,99,11
+her,2
+religions,1
+and,1
+philosophy,1
+expounded,1
+always,1
+by,1
+foreign,1
+scholars,1

@@ -1,0 +1,11 @@
+81,509,11
+committee,2
+expects,1
+every,1
+member,1
+of,1
+an,1
+elective,1
+congress,1
+to,1
+devote,1

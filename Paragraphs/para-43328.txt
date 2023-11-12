@@ -1,0 +1,15 @@
+13,181,18
+1,1
+vide,1
+letter,1
+to,2
+private,1
+secretary,1
+minister,1
+of,1
+interior,1
+28,1
+6,1
+1913,1
+2,1
+ibid,1

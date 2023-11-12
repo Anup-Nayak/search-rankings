@@ -1,0 +1,10 @@
+33,296,17
+1,1
+written,1
+on,1
+the,2
+twelfth,1
+day,1
+after,1
+breaking,1
+fast,1

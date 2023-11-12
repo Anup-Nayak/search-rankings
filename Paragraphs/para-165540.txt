@@ -1,0 +1,7 @@
+47,365,10
+aligarh,1
+silence,1
+day,1
+november,1
+4,1
+1929,1

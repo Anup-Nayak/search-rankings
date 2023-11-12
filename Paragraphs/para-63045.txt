@@ -1,0 +1,7 @@
+18,38,16
+whom,1
+we,1
+were,1
+preventing,1
+from,1
+committing,1

@@ -1,0 +1,4 @@
+25,190,4
+a,1
+novel,1
+struggle,1

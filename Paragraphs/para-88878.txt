@@ -1,0 +1,5 @@
+26,256,2
+the,1
+bhils,1
+of,1
+rajputana,1

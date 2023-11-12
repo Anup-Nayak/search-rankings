@@ -1,0 +1,12 @@
+28,381,2
+on,1
+or,1
+after,1
+july,1
+30,1
+1924,1
+president,1
+congress,1
+relief,1
+committee,1
+trivandrum,1

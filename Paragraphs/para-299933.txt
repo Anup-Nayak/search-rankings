@@ -1,0 +1,7 @@
+80,1,4
+4,1
+letter,1
+to,1
+j,1
+b,1
+kripalani,1

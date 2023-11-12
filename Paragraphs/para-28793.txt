@@ -1,0 +1,4 @@
+9,365,8
+tailors,1
+kanbis,1
+etc,1

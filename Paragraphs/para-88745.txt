@@ -1,0 +1,9 @@
+26,227,2
+103,1
+resolution,1
+at,1
+a,1
+i,1
+c,2
+meeting,1
+delhi,1

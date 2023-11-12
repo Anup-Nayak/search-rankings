@@ -1,0 +1,8 @@
+54,465,34
+certain,1
+conditions,1
+are,2
+satisfied,1
+which,1
+stated,1
+in,1

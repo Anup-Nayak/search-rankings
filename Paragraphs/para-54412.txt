@@ -1,0 +1,17 @@
+15,482,7
+1,1
+j,1
+a,1
+sweeney,1
+settlement,1
+officer,1
+north,1
+bihar,1
+2,1
+gandhiji,1
+was,1
+in,1
+motihari,1
+on,1
+this,1
+day,1

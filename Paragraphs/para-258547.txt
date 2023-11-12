@@ -1,0 +1,7 @@
+69,324,9
+your,1
+wire,2
+thank,1
+god,1
+condition,1
+daily,1

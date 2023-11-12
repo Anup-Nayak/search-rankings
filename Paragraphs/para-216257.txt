@@ -1,0 +1,11 @@
+59,431,7
+3,1
+the,2
+hindu,1
+ceremony,1
+of,2
+oblation,1
+for,1
+spirit,1
+deceased,1
+ancestors,1

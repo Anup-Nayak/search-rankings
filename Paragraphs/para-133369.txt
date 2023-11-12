@@ -1,0 +1,9 @@
+39,45,4
+bangalore,1
+jyaishtha,1
+shukla,1
+13,1
+june,1
+12,1
+1927,1
+1,1

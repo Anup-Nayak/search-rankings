@@ -1,0 +1,6 @@
+30,2,1
+society,1
+and,1
+pandit,1
+benarsidas,1
+chaturvedi,1

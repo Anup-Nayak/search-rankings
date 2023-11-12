@@ -1,0 +1,6 @@
+68,54,2
+for,1
+four,1
+rupees,1
+a,1
+month,1

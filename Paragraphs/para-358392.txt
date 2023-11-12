@@ -1,0 +1,5 @@
+92,401,14
+frustrate,1
+their,1
+knavish,1
+tricks,1

@@ -1,0 +1,9 @@
+71,132,16
+they,1
+dislike,1
+i,1
+prefer,1
+an,1
+honourable,1
+deadlock,1
+to,1

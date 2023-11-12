@@ -1,0 +1,14 @@
+86,250,8
+dip,1
+ti,1
+das,1
+gup,1
+ta,1
+may,1
+you,1
+live,1
+long,1
+and,1
+serve,1
+the,1
+country,1

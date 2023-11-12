@@ -1,0 +1,15 @@
+59,134,16
+ex,1
+judge,1
+had,3
+spoken,1
+so,1
+irresponsibly,1
+as,1
+he,2
+done,1
+1,1
+if,1
+taken,1
+the,1
+trouble,1

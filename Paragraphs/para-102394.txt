@@ -1,0 +1,9 @@
+30,170,4
+convey,1
+one,1
+other,1
+earlier,1
+date,1
+according,1
+ly,1
+joshi,1

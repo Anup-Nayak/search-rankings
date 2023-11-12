@@ -1,0 +1,16 @@
+64,132,14
+parsis,1
+etc,1
+and,1
+until,1
+that,1
+was,1
+done,1
+india,1
+would,1
+not,1
+attain,1
+her,1
+salvation,1
+by,1
+doing,1

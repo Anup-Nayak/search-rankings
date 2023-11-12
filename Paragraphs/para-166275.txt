@@ -1,0 +1,6 @@
+47,450,2
+camp,1
+allahabad,1
+november,1
+17,1
+1929,1

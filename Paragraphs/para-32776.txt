@@ -1,0 +1,17 @@
+10,411,6
+from,1
+the,1
+gujarati,1
+in,2
+gandhiji,2
+na,1
+patre,1
+edited,1
+by,2
+dahyabhai,1
+patel,2
+also,1
+quoted,1
+ni,1
+sadhna,1
+raojibhai,1

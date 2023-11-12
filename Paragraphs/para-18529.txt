@@ -1,0 +1,10 @@
+6,367,10
+exchange,1
+for,1
+present,1
+certificates,1
+held,1
+by,1
+community,1
+form,1
+new,1

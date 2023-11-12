@@ -1,0 +1,7 @@
+88,89,1
+193,1
+letter,1
+to,1
+kanji,1
+j,1
+desai,1

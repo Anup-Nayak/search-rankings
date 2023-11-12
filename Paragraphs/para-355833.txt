@@ -1,0 +1,6 @@
+92,134,4
+a,1
+gentleman,1
+from,1
+bihar,1
+writes,1

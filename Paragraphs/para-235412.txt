@@ -1,0 +1,13 @@
+64,226,2
+in,1
+the,1
+end,1
+mahatma,1
+gandhi,1
+appealed,1
+to,2
+students,1
+both,1
+male,1
+and,1
+female,1

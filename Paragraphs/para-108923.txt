@@ -1,0 +1,12 @@
+32,179,3
+1,1
+the,2
+gandhi,1
+nehru,1
+das,1
+pact,1
+finally,1
+ratified,1
+at,1
+belgaum,1
+session,1

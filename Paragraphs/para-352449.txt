@@ -1,0 +1,8 @@
+91,215,3
+271,1
+marriages,1
+between,1
+harijans,2
+and,1
+non,1
+1,1

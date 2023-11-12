@@ -1,0 +1,8 @@
+81,273,15
+1,1
+daughter,1
+of,1
+narayan,2
+moreshwar,2
+khare,2
+2,1

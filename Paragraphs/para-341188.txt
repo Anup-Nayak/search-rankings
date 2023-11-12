@@ -1,0 +1,7 @@
+88,288,8
+bapu,1
+thakkar,1
+bapa,1
+bajaj,1
+wadi,1
+wardha,1

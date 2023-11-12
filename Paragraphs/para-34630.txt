@@ -1,0 +1,8 @@
+11,129,8
+or,1
+domiciled,1
+any,1
+part,1
+south,1
+africa,1
+entitled,1

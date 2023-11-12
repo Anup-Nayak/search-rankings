@@ -1,0 +1,14 @@
+82,251,7
+q,1
+harijans,1
+are,2
+of,1
+opinion,1
+that,1
+caste,1
+hindus,1
+who,1
+sympathetic,1
+to,1
+their,1
+cause,1

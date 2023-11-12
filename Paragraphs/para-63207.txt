@@ -1,0 +1,6 @@
+18,55,1
+50,1
+letter,1
+to,1
+ali,1
+brothers,1

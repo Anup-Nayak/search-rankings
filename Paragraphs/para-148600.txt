@@ -1,0 +1,14 @@
+43,175,9
+2,1
+for,1
+addressees,1
+letter,2
+vide,1
+from,1
+dr,1
+b,1
+c,1
+roy,1
+28,1
+10,1
+1928,1

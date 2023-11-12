@@ -1,0 +1,6 @@
+7,97,6
+query,1
+by,1
+the,1
+sunday,1
+times,1

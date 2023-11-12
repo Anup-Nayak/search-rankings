@@ -1,0 +1,15 @@
+27,465,24
+subject,1
+from,2
+mr,1
+gandhi,1
+was,1
+his,2
+message,1
+to,1
+reuter,1
+on,1
+the,1
+eve,1
+of,1
+departure,1

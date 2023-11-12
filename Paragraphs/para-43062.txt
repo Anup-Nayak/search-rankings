@@ -1,0 +1,8 @@
+13,150,16
+would,1
+certainly,1
+be,1
+more,1
+honest,1
+to,1
+withdraw,1

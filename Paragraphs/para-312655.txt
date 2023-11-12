@@ -1,0 +1,6 @@
+82,235,3
+dead,1
+animals,1
+to,1
+tanned,1
+leather,1

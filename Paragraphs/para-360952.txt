@@ -1,0 +1,11 @@
+93,209,2
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10539,1
+courtesy,1
+n,1
+k,1
+bose,1

@@ -1,0 +1,7 @@
+17,326,5
+pause,1
+and,1
+consider,1
+before,1
+passing,1
+rowlatt,1

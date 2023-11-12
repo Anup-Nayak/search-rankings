@@ -1,0 +1,10 @@
+9,314,11
+1,1
+the,2
+original,2
+has,1
+alright,1
+2,1
+here,1
+is,1
+damaged,1

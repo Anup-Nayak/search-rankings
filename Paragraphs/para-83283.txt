@@ -1,0 +1,12 @@
+24,330,5
+mohandas,1
+shri,2
+manibehn,1
+patel,1
+c/o,1
+vallabhbhai,1
+barrister,1
+bhadra,1
+ahmedabad,1
+from,1
+gujarati,1

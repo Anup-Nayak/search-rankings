@@ -1,0 +1,9 @@
+85,9,2
+m,1
+k,1
+gandhi,1
+j,1
+r,1
+d,1
+tata,1
+bombay,1

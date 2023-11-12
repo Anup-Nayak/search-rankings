@@ -1,0 +1,11 @@
+36,224,8
+the,1
+ashram,1
+sabarmati,1
+wednesday,1
+sravana,1
+vad,1
+2,1
+august,1
+25,1
+1926,1

@@ -1,0 +1,13 @@
+94,8,13
+minority,1
+at,1
+the,3
+point,1
+of,1
+bayonet,1
+suppose,1
+for,1
+instance,1
+that,1
+majority,1
+would,1

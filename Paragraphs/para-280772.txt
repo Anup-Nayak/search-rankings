@@ -1,0 +1,6 @@
+75,116,3
+146,1
+khadi,1
+as,1
+famine,1
+relief,1

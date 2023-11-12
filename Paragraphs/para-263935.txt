@@ -1,0 +1,6 @@
+71,61,1
+72,1
+interview,1
+to,1
+pandit,1
+indra,1

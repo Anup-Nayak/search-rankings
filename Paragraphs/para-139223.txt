@@ -1,0 +1,12 @@
+40,485,8
+q,1
+do,1
+you,2
+know,1
+that,1
+many,1
+of,1
+your,1
+followers,1
+distort,1
+teaching,1

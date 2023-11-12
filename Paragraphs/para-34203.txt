@@ -1,0 +1,16 @@
+11,74,12
+he,2
+is,2
+still,1
+lodged,1
+in,1
+pretoria,1
+it,1
+has,1
+not,1
+been,1
+decided,1
+where,1
+to,1
+be,1
+sent,1

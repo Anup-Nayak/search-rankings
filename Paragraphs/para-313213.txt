@@ -1,0 +1,17 @@
+82,280,4
+and,1
+if,1
+they,1
+do,2
+not,1
+listen,1
+to,2
+your,1
+advice,1
+you,1
+intend,1
+non,1
+co,1
+operate,1
+with,1
+them,1

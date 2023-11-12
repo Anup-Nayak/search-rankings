@@ -1,0 +1,10 @@
+91,163,9
+i,1
+do,1
+not,1
+ask,1
+to,1
+see,1
+the,1
+distant,1
+scene,1

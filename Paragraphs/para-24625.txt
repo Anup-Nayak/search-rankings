@@ -1,0 +1,13 @@
+8,257,8
+1,1
+they,1
+did,1
+not,1
+have,1
+this,1
+freedom,1
+at,1
+the,1
+time,1
+of,1
+writing,1

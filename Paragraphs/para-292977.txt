@@ -1,0 +1,7 @@
+78,149,19
+friends,1
+companions,1
+and,2
+society,1
+i,1
+find,1

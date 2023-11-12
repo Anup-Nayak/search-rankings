@@ -1,0 +1,15 @@
+88,29,1
+nobody,1
+has,1
+paid,3
+me,2
+the,1
+rs,1
+25,1
+it,2
+will,1
+be,2
+to,1
+if,1
+they,1
+let,1

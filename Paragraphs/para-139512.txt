@@ -1,0 +1,6 @@
+41,18,8
+bolgarh,1
+orissa,1
+december,1
+11,1
+1927,1

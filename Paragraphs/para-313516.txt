@@ -1,0 +1,7 @@
+82,302,11
+percentage,1
+of,1
+deduction,1
+should,1
+be,1
+determined,1

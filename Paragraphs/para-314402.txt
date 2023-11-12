@@ -1,0 +1,12 @@
+82,372,13
+q,1
+why,1
+non,2
+violent,1
+co,1
+operation,1
+rather,1
+than,1
+honest,1
+straight,1
+forward,1

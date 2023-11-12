@@ -1,0 +1,11 @@
+24,452,3
+a,2
+correspondent,1
+asked,1
+few,1
+questions,1
+some,1
+time,1
+ago,1
+to,1
+know,1

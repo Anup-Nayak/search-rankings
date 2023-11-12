@@ -1,0 +1,10 @@
+30,277,7
+real,1
+peace,1
+which,1
+i,1
+hold,1
+is,1
+almost,1
+impossible,1
+with,1

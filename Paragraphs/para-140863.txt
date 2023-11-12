@@ -1,0 +1,14 @@
+41,207,7
+yours,1
+sincerely,1
+mrs,1
+alice,1
+mckay,1
+kelly,1
+130,1
+east,1
+40th,1
+street,1
+new,1
+york,1
+city,1

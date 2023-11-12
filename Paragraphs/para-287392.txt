@@ -1,0 +1,8 @@
+76,394,2
+the,1
+following,1
+letter,1
+comes,1
+from,1
+a,1
+friend,1

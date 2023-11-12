@@ -1,0 +1,6 @@
+9,45,8
+32,1
+speech,1
+at,1
+mass,1
+meeting,1

@@ -1,0 +1,15 @@
+28,412,5
+i,2
+have,1
+your,1
+letter,1
+am,1
+in,1
+constant,1
+touch,1
+with,1
+the,1
+a,1
+s,1
+bureau,1
+2,1

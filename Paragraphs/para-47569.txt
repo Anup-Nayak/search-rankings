@@ -1,0 +1,10 @@
+14,199,4
+yours,1
+truly,1
+m,2
+k,1
+gandhi,1
+e,1
+gorges,1
+esq,1
+pretoria,1

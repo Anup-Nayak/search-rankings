@@ -1,0 +1,13 @@
+14,68,5
+with,1
+due,1
+regards,1
+mohandas,1
+from,1
+gujarati,1
+mahatma,1
+gandhijina,1
+patro,1
+and,1
+gandhijini,1
+sadhana,1

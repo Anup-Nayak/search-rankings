@@ -1,0 +1,12 @@
+84,3,6
+she,1
+has,1
+no,1
+particular,1
+ayurvedic,1
+physician,1
+in,1
+mind,1
+but,1
+my,1
+son,1

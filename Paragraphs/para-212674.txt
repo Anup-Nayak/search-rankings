@@ -1,0 +1,9 @@
+59,44,10
+publishing,1
+i,2
+told,1
+him,2
+was,1
+unprepared,1
+to,1
+give,1

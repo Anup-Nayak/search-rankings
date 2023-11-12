@@ -1,0 +1,16 @@
+92,130,1
+is,1
+that,1
+the,1
+english,2
+knowing,1
+people,1
+are,1
+unable,1
+to,1
+render,1
+even,1
+common,1
+words,1
+into,1
+hindustani,1

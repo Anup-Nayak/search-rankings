@@ -1,0 +1,6 @@
+94,410,12
+1,1
+bhagirath,1
+kanodia,1
+an,1
+industrialist,1

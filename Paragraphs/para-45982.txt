@@ -1,0 +1,8 @@
+14,11,4
+impartial,1
+nominations,1
+stop,1
+can,1
+but,1
+hope,1
+india,1

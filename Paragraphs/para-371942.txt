@@ -1,0 +1,13 @@
+96,251,11
+paradoxical,1
+but,1
+this,1
+is,1
+what,1
+he,1
+meant,1
+violence,2
+always,1
+thrived,1
+on,1
+counter,1

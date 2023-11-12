@@ -1,0 +1,17 @@
+90,186,8
+1,1
+the,3
+speech,1
+is,2
+extracted,1
+from,1
+pyarelals,1
+prayer,1
+discourses,1
+in,1
+harijan,1
+opening,1
+paragraph,1
+form,1
+hindustan,1
+times,1

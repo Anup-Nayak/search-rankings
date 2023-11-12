@@ -1,0 +1,7 @@
+70,255,3
+292,1
+a,1
+humble,1
+villager,1
+of,1
+birbhum,1

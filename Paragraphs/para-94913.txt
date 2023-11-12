@@ -1,0 +1,7 @@
+28,112,6
+60,1
+aim,1
+of,1
+kathiawar,1
+political,1
+conference,1

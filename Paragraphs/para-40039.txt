@@ -1,0 +1,7 @@
+12,267,3
+222,1
+speech,1
+at,1
+kimberley,1
+meeting,1
+2,1

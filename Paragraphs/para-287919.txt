@@ -1,0 +1,11 @@
+76,437,6
+democracy,1
+and,3
+unity,1
+the,2
+full,1
+recognition,1
+protection,1
+of,2
+rights,1
+all,1

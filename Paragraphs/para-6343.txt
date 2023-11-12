@@ -1,0 +1,13 @@
+3,34,10
+1,1
+principal,1
+secretary,1
+of,1
+state,1
+for,1
+colonies,1
+vide,1
+petition,1
+to,1
+transvaal,1
+governor,1

@@ -1,0 +1,8 @@
+36,307,4
+regret,1
+inability,1
+reach,1
+your,1
+letter,1
+2,1
+earlier,1

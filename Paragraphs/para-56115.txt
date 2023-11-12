@@ -1,0 +1,8 @@
+16,187,5
+92,1
+speech,1
+at,1
+national,1
+language,1
+conference,1
+2,1

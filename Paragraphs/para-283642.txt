@@ -1,0 +1,9 @@
+75,452,7
+resignation,1
+letter,1
+of,1
+congress,1
+working,1
+comittee,1
+members,1
+1,1

@@ -1,0 +1,11 @@
+10,153,4
+1,1
+vide,1
+enclosure,1
+to,2
+letter,1
+lord,1
+ampthill,1
+5,1
+10,1
+1909,1

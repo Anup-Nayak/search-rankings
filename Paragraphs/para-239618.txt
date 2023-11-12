@@ -1,0 +1,15 @@
+65,240,3
+4,1
+in,2
+article,1
+v,1
+we,1
+have,1
+changed,1
+the,2
+original,1
+scheme,1
+of,1
+delegates,1
+following,1
+manner,1

@@ -1,0 +1,13 @@
+40,37,6
+volunteer,1
+yes,1
+therefore,1
+no,1
+money,1
+is,1
+required,1
+for,1
+their,1
+support,1
+at,1
+present,1

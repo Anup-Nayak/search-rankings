@@ -1,0 +1,7 @@
+45,134,4
+136,1
+letter,1
+to,1
+ponaka,1
+kanakamma,1
+2,1

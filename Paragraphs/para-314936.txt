@@ -1,0 +1,16 @@
+82,392,22
+forces,1
+are,1
+fighting,1
+our,1
+non,1
+co,1
+operation,1
+will,1
+be,1
+fruitless,1
+and,1
+unnecessary,1
+not,1
+to,1
+put,1

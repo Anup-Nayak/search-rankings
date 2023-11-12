@@ -1,0 +1,7 @@
+13,359,8
+1,1
+daughter,1
+of,1
+rev,1
+j,2
+doke,1

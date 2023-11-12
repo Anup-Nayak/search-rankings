@@ -1,0 +1,10 @@
+66,96,11
+it,1
+is,1
+home,1
+made,1
+khadi,1
+you,2
+make,1
+me,1
+envy,1

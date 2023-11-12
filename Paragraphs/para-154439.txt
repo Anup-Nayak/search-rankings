@@ -1,0 +1,14 @@
+44,491,7
+t3,1
+for,1
+in,2
+the,2
+legal,1
+quarters,1
+of,1
+city,1
+guj,1
+has,1
+a,1
+good,1
+locality,1

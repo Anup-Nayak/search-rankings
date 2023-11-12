@@ -1,0 +1,7 @@
+96,118,5
+177,1
+talk,1
+to,1
+maharani,1
+of,1
+nabha,1

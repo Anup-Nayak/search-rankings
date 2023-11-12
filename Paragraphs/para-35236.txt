@@ -1,0 +1,17 @@
+11,200,12
+in,1
+reply,1
+the,1
+accused,1
+said,2
+that,2
+she,2
+did,1
+not,2
+know,1
+any,1
+european,1
+language,1
+but,1
+was,1
+guilty,1

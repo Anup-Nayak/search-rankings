@@ -1,0 +1,10 @@
+44,117,1
+for,1
+a,1
+simple,1
+penny,1
+pay,1
+thou,1
+back,1
+with,1
+gold,1

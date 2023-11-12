@@ -1,0 +1,13 @@
+72,326,4
+old,1
+master,1
+dr,1
+m,2
+jaisoorya,1
+d,1
+gopal,1
+clinic,1
+station,1
+road,1
+hyderabad,1
+deccan,1

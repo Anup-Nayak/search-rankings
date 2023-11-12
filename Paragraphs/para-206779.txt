@@ -1,0 +1,10 @@
+57,398,12
+heavy,1
+fines,1
+recovered,1
+from,1
+relatives,1
+or,1
+by,1
+sale,1
+of,1

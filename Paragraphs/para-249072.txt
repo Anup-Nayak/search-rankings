@@ -1,0 +1,15 @@
+67,229,7
+5,1
+preferential,1
+appointments,1
+to,1
+the,2
+harijans,1
+who,1
+have,1
+passed,1
+high,1
+schools,1
+and,1
+college,1
+examinations,1

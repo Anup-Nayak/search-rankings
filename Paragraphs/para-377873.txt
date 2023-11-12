@@ -1,0 +1,12 @@
+98,121,2
+1,1
+viz,1
+brahmin,1
+kshatriya,1
+vaishya,1
+and,1
+shudra,1
+2,1
+hemp,2
+3,1
+flowers,1

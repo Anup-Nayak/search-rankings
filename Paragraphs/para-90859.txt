@@ -1,0 +1,8 @@
+27,69,4
+is,1
+tantamount,1
+to,1
+political,1
+and,1
+civil,1
+suicide,1

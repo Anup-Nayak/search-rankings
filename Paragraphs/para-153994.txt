@@ -1,0 +1,12 @@
+44,476,27
+t6,1
+for,1
+belong,1
+to,1
+any,2
+religious,1
+body,1
+guj,1
+has,1
+join,1
+sect,1

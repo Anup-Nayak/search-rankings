@@ -1,0 +1,12 @@
+13,402,6
+mr,1
+gandhi,1
+obtained,1
+the,3
+permission,1
+of,1
+court,1
+and,1
+made,1
+following,1
+statement,1

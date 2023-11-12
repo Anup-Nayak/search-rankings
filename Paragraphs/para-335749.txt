@@ -1,0 +1,11 @@
+87,230,8
+god,1
+give,1
+you,1
+zohra,1
+2,1
+courage,1
+bear,1
+loss,1
+3,1
+love,1

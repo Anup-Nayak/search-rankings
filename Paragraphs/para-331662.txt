@@ -1,0 +1,9 @@
+86,290,3
+m,1
+k,1
+gandhi,1
+dr,1
+tarachand,1
+hindustani,1
+academy,1
+allahabad,1

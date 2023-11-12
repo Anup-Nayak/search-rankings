@@ -1,0 +1,5 @@
+48,51,4
+47,1
+zamindars,1
+and,1
+talukdars,1

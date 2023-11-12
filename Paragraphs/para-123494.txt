@@ -1,0 +1,10 @@
+36,251,1
+reply,1
+and,1
+give,1
+preference,1
+to,1
+the,2
+vedas,1
+over,1
+bible,1

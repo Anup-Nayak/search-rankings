@@ -1,0 +1,14 @@
+45,255,1
+240,1
+the,4
+hand,2
+of,3
+man,2
+author,1
+following,1
+article,1
+which,1
+he,1
+heads,1
+writes,1
+1,1

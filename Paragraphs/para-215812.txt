@@ -1,0 +1,17 @@
+59,383,13
+1,1
+the,1
+addressee,1
+was,1
+suffering,1
+from,1
+fever,1
+2,2
+vide,1
+letter,1
+to,1
+m,1
+r,1
+jayakar,1
+19,1
+1933,1

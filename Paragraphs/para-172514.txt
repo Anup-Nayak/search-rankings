@@ -1,0 +1,6 @@
+49,347,7
+375,1
+letter,1
+to,1
+ishvarlal,1
+joshi,1

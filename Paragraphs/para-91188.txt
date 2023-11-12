@@ -1,0 +1,10 @@
+27,105,4
+106,1
+letter,1
+to,1
+r,1
+piggott,1
+and,1
+a,1
+m,1
+ward,1

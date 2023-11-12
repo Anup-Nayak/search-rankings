@@ -1,0 +1,16 @@
+46,12,10
+sufficient,1
+for,2
+400,1
+yards,1
+of,1
+cloth,1
+was,1
+spun,1
+by,1
+9,1
+families,1
+last,1
+year,1
+their,1
+own,1

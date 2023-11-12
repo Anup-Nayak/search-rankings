@@ -1,0 +1,4 @@
+92,348,4
+what,1
+about,1
+dakore,1

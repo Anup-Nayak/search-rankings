@@ -1,0 +1,10 @@
+30,213,13
+q,1
+did,1
+he,1
+die,1
+by,1
+sardar,1
+makhan,1
+singhs,1
+shot,1

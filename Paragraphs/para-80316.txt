@@ -1,0 +1,15 @@
+23,337,3
+feel,1
+or,2
+realize,1
+recognize,1
+a,1
+thing,1
+which,1
+they,1
+themselves,1
+were,1
+incapable,1
+of,1
+so,1
+doing,1

@@ -1,0 +1,5 @@
+84,446,2
+opinion,1
+gandhijis,1
+responsibility,1
+1,1

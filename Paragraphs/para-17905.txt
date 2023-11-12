@@ -1,0 +1,9 @@
+6,292,5
+yet,1
+man,1
+is,1
+not,1
+distinct,1
+from,1
+gods,1
+glory,1

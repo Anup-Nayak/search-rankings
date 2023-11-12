@@ -1,0 +1,11 @@
+11,495,13
+1,1
+the,1
+preceding,1
+paragraphs,1
+of,1
+this,1
+minute,1
+are,1
+not,1
+available,1

@@ -1,0 +1,15 @@
+70,253,5
+a,3
+correspondent,1
+from,2
+greenville,1
+s,2
+c,1
+u,1
+writes,1
+enclosing,1
+clipping,1
+an,1
+american,1
+newspaper,1
+1,1

@@ -1,0 +1,16 @@
+28,499,9
+i,1
+you,1
+say,1
+at,1
+p,1
+176,1
+1,1
+my,1
+own,1
+experience,1
+but,1
+confirms,1
+the,2
+opinion,1
+that,1

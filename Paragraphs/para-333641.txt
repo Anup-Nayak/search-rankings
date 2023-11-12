@@ -1,0 +1,5 @@
+87,37,8
+teacher,1
+will,1
+give,1
+satisfaction,1

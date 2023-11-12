@@ -1,0 +1,6 @@
+6,294,9
+less,1
+modest,1
+pure,1
+and,1
+kind,1

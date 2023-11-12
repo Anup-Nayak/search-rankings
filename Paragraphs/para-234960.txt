@@ -1,0 +1,8 @@
+64,176,7
+so,1
+called,1
+untouchables,1
+who,1
+professed,1
+sikh,1
+faith,1

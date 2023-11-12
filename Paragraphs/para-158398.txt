@@ -1,0 +1,15 @@
+46,18,2
+in,2
+one,1
+of,1
+the,1
+addresses,1
+received,1
+by,1
+me,1
+andhra,1
+desha,1
+there,1
+occurs,1
+this,1
+passage,1

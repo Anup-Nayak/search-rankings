@@ -1,0 +1,4 @@
+39,29,1
+37,1
+khadi,1
+franchise,1

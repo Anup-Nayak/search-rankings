@@ -1,0 +1,4 @@
+20,31,1
+currimbhoy,1
+h,1
+sharp,1

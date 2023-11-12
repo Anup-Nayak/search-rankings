@@ -1,0 +1,10 @@
+1,151,7
+of,1
+the,2
+same,1
+an,1
+supreme,1
+chief,1
+over,1
+native,1
+population,1

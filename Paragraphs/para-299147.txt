@@ -1,0 +1,10 @@
+79,400,1
+with,1
+him,1
+await,1
+instructions,1
+remain,1
+silent,1
+quiet,1
+without,1
+worry,1

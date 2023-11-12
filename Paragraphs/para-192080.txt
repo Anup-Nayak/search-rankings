@@ -1,0 +1,12 @@
+54,145,11
+request,1
+moreover,1
+the,2
+provinces,1
+should,1
+be,1
+free,1
+to,2
+refuse,1
+contributions,1
+central,1

@@ -1,0 +1,9 @@
+13,149,16
+cape,1
+colony,1
+and,1
+natal,1
+would,1
+not,1
+be,1
+accep,1

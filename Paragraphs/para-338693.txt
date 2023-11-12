@@ -1,0 +1,6 @@
+88,59,6
+128,1
+letter,1
+to,1
+saraswati,1
+gadodia,1

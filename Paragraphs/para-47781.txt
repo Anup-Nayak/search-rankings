@@ -1,0 +1,6 @@
+14,239,2
+1,1
+complete,1
+freedom,1
+of,1
+trade,1

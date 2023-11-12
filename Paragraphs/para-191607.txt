@@ -1,0 +1,9 @@
+54,90,10
+q,1
+is,1
+not,1
+the,1
+charkha,1
+a,1
+mediaeval,1
+device,1

@@ -1,0 +1,6 @@
+77,71,1
+86,1
+letter,1
+to,1
+kundar,1
+diwan,1

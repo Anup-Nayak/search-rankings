@@ -1,0 +1,9 @@
+92,396,3
+satis,1
+babu,1
+khadi,1
+pratishthan,1
+15,1
+college,1
+square,1
+calcutta,1

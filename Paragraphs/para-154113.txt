@@ -1,0 +1,7 @@
+44,480,22
+t8,1
+guj,1
+has,1
+i,1
+seek,1
+freedom,1

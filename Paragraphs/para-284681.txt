@@ -1,0 +1,8 @@
+76,97,10
+is,1
+bad,1
+and,1
+inadvisable,1
+in,1
+any,1
+case,1

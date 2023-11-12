@@ -1,0 +1,7 @@
+13,443,2
+text,1
+of,1
+the,1
+searle,1
+judgment,1
+1,1

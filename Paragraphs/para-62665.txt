@@ -1,0 +1,10 @@
+17,463,9
+power,2
+of,2
+non,1
+anger,1
+and,1
+evil,1
+by,1
+the,1
+good,1

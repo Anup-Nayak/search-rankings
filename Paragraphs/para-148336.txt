@@ -1,0 +1,10 @@
+43,146,8
+harriette,1
+ashbrook,1
+coward,1
+mccann,1
+425,1
+fourth,1
+avenue,1
+new,1
+york,1

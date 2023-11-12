@@ -1,0 +1,10 @@
+84,223,13
+government,1
+and,1
+congress,1
+accept,1
+proposal,1
+it,1
+presupposes,1
+hearty,1
+co,1

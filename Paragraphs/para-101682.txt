@@ -1,0 +1,8 @@
+30,44,14
+before,1
+receiving,1
+your,1
+wire,1
+i,1
+replied,1
+reception,1

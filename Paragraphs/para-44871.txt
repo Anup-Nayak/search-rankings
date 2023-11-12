@@ -1,0 +1,8 @@
+13,398,8
+resistance,1
+struggle,1
+cannot,1
+help,1
+remarking,1
+that,1
+from,1

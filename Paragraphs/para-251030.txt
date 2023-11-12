@@ -1,0 +1,15 @@
+67,425,13
+1,1
+the,2
+letter,1
+was,1
+in,1
+reply,1
+to,1
+one,1
+dated,1
+september,1
+19,1
+1935,1
+from,1
+addressee,1

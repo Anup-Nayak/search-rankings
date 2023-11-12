@@ -1,0 +1,15 @@
+48,156,5
+1,1
+in,1
+1920,1
+2,1
+the,1
+resolution,1
+was,1
+declared,1
+lost,1
+by,1
+111,1
+against,1
+101,1
+votes,1

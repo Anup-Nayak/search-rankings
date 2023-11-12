@@ -1,0 +1,10 @@
+73,104,12
+3,1
+the,1
+addressee,1
+had,1
+married,1
+ethel,1
+mannin,1
+a,1
+divorcee,1

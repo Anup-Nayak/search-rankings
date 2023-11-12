@@ -1,0 +1,15 @@
+78,33,7
+i,1
+have,1
+just,1
+been,1
+reading,1
+with,1
+very,1
+real,1
+concern,1
+the,2
+text,1
+of,1
+resolution,1
+2,1

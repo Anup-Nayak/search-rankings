@@ -1,0 +1,6 @@
+19,11,6
+the,1
+indian,1
+review,1
+october,1
+1919,1

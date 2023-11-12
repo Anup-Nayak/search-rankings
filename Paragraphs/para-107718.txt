@@ -1,0 +1,9 @@
+31,457,3
+286,1
+not,1
+mans,1
+work,1
+thus,1
+writes,1
+a,1
+professor,1

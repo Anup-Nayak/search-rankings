@@ -1,0 +1,14 @@
+38,28,15
+government,1
+is,1
+that,1
+all,1
+the,3
+laws,1
+should,1
+be,1
+made,1
+by,1
+elected,1
+representatives,1
+of,1

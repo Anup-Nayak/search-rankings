@@ -1,0 +1,7 @@
+54,114,7
+63,1
+speech,1
+at,1
+friends,1
+house,1
+2,1

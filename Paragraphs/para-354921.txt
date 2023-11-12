@@ -1,0 +1,11 @@
+92,29,4
+f,1
+you,2
+mean,1
+to,2
+say,1
+want,1
+them,1
+produce,1
+for,1
+self,1

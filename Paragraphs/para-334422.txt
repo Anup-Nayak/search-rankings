@@ -1,0 +1,9 @@
+87,114,15
+exploited,1
+races,1
+freedom,1
+victory,2
+west,1
+front,1
+and,1
+impending,1

@@ -1,0 +1,12 @@
+37,354,1
+do,2
+you,3
+know,2
+sanskrit,1
+how,1
+far,1
+have,1
+studied,1
+what,1
+langua,1
+ges,1

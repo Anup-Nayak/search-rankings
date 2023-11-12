@@ -1,0 +1,8 @@
+75,34,7
+though,1
+do,1
+not,2
+like,1
+your,1
+suggestion,1
+knowing,1

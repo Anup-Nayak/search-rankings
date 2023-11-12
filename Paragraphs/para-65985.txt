@@ -1,0 +1,12 @@
+19,18,5
+labourers,1
+employed,1
+during,1
+september,1
+1919,1
+in,1
+the,2
+mill,1
+out,1
+of,1
+amount,1

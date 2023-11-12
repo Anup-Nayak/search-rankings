@@ -1,0 +1,15 @@
+78,188,19
+i,3
+have,1
+your,1
+letter,1
+see,1
+no,1
+flaw,1
+in,1
+it,1
+shall,1
+not,1
+enter,1
+into,1
+an,1

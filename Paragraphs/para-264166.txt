@@ -1,0 +1,7 @@
+71,92,7
+1,1
+she,1
+was,1
+ailing,1
+in,1
+indore,1

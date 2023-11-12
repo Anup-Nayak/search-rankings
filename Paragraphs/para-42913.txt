@@ -1,0 +1,8 @@
+13,144,13
+tration,1
+india,1
+stop,1
+transvaal,1
+marriage,1
+law,1
+re,1

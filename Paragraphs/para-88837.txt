@@ -1,0 +1,4 @@
+26,246,2
+for,1
+khilafat,1
+committees,1

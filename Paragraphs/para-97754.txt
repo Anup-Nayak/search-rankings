@@ -1,0 +1,12 @@
+29,40,10
+the,3
+following,1
+rendering,1
+of,2
+mr,1
+gandhis,1
+speech,1
+in,1
+reply,1
+to,1
+address,1

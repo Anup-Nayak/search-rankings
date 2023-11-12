@@ -1,0 +1,8 @@
+94,156,12
+noakhali,1
+and,1
+expect,1
+you,1
+to,1
+act,1
+nobly,1

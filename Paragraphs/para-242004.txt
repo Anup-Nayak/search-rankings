@@ -1,0 +1,11 @@
+66,9,7
+17,1
+bye,1
+laws,1
+of,1
+the,1
+all,1
+india,1
+village,1
+industries,1
+association,1

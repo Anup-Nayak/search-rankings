@@ -1,0 +1,5 @@
+72,192,3
+256,1
+letter,1
+to,1
+pyarelal,1

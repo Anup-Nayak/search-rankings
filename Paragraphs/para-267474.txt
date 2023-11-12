@@ -1,0 +1,17 @@
+72,50,12
+1,1
+the,3
+addressees,1
+birthday,1
+was,1
+on,1
+july,1
+17,1
+1937,1
+10th,1
+day,1
+dashami,1
+of,2
+bright,1
+half,1
+ashadh,1

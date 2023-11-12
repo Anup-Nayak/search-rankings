@@ -1,0 +1,12 @@
+51,149,3
+action,1
+by,1
+government,1
+was,1
+dependent,1
+upon,1
+the,2
+effective,1
+abandonment,1
+of,1
+civil,1

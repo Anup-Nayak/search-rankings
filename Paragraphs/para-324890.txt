@@ -1,0 +1,15 @@
+85,115,9
+1,1
+in,1
+the,1
+source,1
+this,1
+letter,1
+is,1
+placed,1
+before,1
+those,1
+of,1
+october,1
+31,1
+1944,1

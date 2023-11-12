@@ -1,0 +1,14 @@
+21,348,9
+mr,1
+gandhi,1
+in,2
+gujarati,1
+which,1
+he,2
+said,1
+that,1
+did,1
+not,1
+understand,1
+what,1
+connection,1

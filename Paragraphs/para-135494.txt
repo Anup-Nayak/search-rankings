@@ -1,0 +1,5 @@
+39,347,5
+about,1
+necessity,1
+my,1
+presence,1

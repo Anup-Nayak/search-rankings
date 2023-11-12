@@ -1,0 +1,5 @@
+10,500,8
+tolstoys,1
+letter,1
+to,1
+gandhiji,1

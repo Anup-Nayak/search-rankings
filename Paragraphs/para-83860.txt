@@ -1,0 +1,8 @@
+24,433,18
+who,1
+eat,1
+of,1
+food,1
+after,1
+their,1
+sacrifice,1

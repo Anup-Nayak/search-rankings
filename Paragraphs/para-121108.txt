@@ -1,0 +1,6 @@
+35,441,10
+1,1
+caused,1
+by,1
+insect,1
+bite,1

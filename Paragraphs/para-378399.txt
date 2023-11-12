@@ -1,0 +1,6 @@
+98,178,1
+186,1
+certified,1
+and,1
+uncertified,1
+khadi1,1

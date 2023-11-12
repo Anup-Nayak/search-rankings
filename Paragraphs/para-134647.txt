@@ -1,0 +1,15 @@
+39,234,10
+1,1
+the,2
+addressee,1
+received,1
+letter,1
+on,1
+july,1
+16,1
+1927,1
+2,1
+gandhiji,1
+spoke,1
+in,1
+hindi,1

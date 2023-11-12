@@ -1,0 +1,15 @@
+14,171,2
+one,1
+does,1
+not,1
+know,1
+though,1
+there,1
+has,1
+been,1
+no,1
+meeting,1
+yet,1
+with,1
+general,1
+smuts,1

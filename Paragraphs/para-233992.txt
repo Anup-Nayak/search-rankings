@@ -1,0 +1,17 @@
+64,68,18
+gandhiji,1
+would,1
+be,1
+glad,1
+if,1
+the,1
+doctor,1
+was,1
+good,1
+enough,1
+to,1
+send,1
+him,1
+full,1
+facts,1
+about,1

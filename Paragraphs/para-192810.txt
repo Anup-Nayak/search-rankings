@@ -1,0 +1,9 @@
+54,254,12
+q,1
+are,1
+all,1
+men,1
+capable,1
+of,1
+seeking,1
+perfection,1

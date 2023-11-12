@@ -1,0 +1,10 @@
+76,156,2
+i,1
+remain,1
+your,1
+sincere,1
+friend,1
+herr,1
+hitler,1
+berlin,1
+germany,1

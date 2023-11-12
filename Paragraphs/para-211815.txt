@@ -1,0 +1,7 @@
+58,460,6
+1,1
+seeker,2
+after,2
+knowledge,1
+2,1
+moksha,1

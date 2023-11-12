@@ -1,0 +1,8 @@
+13,143,6
+plates,1
+registration,1
+stop,1
+there,1
+is,1
+no,1
+system,1

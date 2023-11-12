@@ -1,0 +1,7 @@
+84,140,12
+received,1
+telegram,1
+have,1
+no,1
+anxiety,1
+writing,1

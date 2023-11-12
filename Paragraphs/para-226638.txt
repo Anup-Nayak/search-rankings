@@ -1,0 +1,11 @@
+62,113,3
+how,1
+can,1
+you,1
+close,1
+the,4
+columns,1
+of,2
+harijan,1
+to,1
+distress,1

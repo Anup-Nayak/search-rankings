@@ -1,0 +1,16 @@
+59,56,9
+oh,1
+yes,1
+it,1
+is,1
+necessary,1
+for,1
+you,1
+to,2
+write,1
+me,1
+although,1
+p,1
+and,1
+l,1
+2,1

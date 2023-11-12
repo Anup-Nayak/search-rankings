@@ -1,0 +1,11 @@
+6,153,8
+yours,1
+truly,1
+m,1
+n,1
+doctor,1
+esq,1
+102,1
+wharton,1
+road,1
+w,1

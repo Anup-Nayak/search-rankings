@@ -1,0 +1,5 @@
+57,145,7
+i,1
+cannot,1
+give,1
+opinion,1

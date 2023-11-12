@@ -1,0 +1,12 @@
+2,286,3
+from,1
+the,1
+photostat,1
+of,1
+an,1
+original,1
+printed,1
+copy,1
+s,1
+n,1
+3245,1

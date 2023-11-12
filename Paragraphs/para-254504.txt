@@ -1,0 +1,14 @@
+68,356,4
+1,1
+this,1
+paragraph,2
+is,3
+from,1
+harijan,3
+the,1
+following,1
+sevak,1
+2,1
+what,1
+follows,1
+form,1

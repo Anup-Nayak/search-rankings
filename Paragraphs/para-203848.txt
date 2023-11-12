@@ -1,0 +1,10 @@
+57,105,18
+from,1
+my,1
+religion,1
+if,1
+god,1
+has,1
+ordained,1
+death,1
+by,1

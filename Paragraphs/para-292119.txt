@@ -1,0 +1,6 @@
+78,49,12
+objection,1
+preliminary,1
+small,1
+meeting,1
+representatives,1

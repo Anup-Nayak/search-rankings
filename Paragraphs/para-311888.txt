@@ -1,0 +1,15 @@
+82,168,17
+thing,1
+does,1
+happen,1
+if,1
+a,1
+caravan,1
+is,1
+attacked,1
+and,1
+the,2
+suicide,1
+of,1
+bats,1
+bhats,1

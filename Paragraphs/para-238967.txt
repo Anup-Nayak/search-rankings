@@ -1,0 +1,6 @@
+65,157,9
+dear,1
+sir,1
+hari,1
+singh,1
+gour,1

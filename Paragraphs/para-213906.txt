@@ -1,0 +1,9 @@
+59,174,3
+reuters,1
+summary,1
+fair,1
+humanly,1
+speaking,1
+that,1
+is,1
+logical,1

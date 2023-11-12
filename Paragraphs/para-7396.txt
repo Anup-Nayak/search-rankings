@@ -1,0 +1,10 @@
+3,204,3
+to,1
+private,1
+secretary,1
+his,1
+excellency,1
+the,1
+lieutenant,1
+governor,1
+pretoria,1

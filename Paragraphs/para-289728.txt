@@ -1,0 +1,7 @@
+77,218,2
+260,1
+english,1
+opinion,1
+on,1
+indian,1
+struggle,1

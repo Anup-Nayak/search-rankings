@@ -1,0 +1,7 @@
+54,466,6
+statement,1
+no,1
+government,1
+consistent,1
+with,1
+the,1

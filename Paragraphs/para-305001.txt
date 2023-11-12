@@ -1,0 +1,6 @@
+80,482,18
+m,1
+working,1
+for,1
+economic,1
+equality,1

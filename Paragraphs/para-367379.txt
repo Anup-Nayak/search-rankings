@@ -1,0 +1,6 @@
+95,88,3
+82,1
+letter,1
+to,1
+a,1
+physician,1

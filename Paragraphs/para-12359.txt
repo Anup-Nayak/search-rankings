@@ -1,0 +1,6 @@
+5,79,2
+johannesburg,1
+sunday,1
+february,1
+18,1
+1906,1

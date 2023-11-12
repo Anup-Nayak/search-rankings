@@ -1,0 +1,7 @@
+60,328,3
+seth,1
+poonamchand,1
+prisoner,1
+district,1
+jails,1
+khandwa,1

@@ -1,0 +1,11 @@
+12,280,6
+r,1
+p,1
+d,1
+kronprinz,1
+on,1
+or,1
+after,1
+november,1
+19,1
+1912,1

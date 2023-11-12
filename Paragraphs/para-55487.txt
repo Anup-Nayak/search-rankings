@@ -1,0 +1,6 @@
+16,98,3
+38,1
+letter,1
+to,1
+maganlal,1
+gandh1,1

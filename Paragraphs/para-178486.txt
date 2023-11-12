@@ -1,0 +1,5 @@
+51,77,19
+confiscated,1
+property,1
+absolutely,1
+essential,1

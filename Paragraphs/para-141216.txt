@@ -1,0 +1,7 @@
+41,256,1
+288,1
+letter,1
+to,1
+r,1
+nora,1
+brockway,1

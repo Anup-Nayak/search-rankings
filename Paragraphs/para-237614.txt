@@ -1,0 +1,11 @@
+65,19,11
+1,1
+widow,1
+of,2
+maganlal,1
+gandhi,1
+2,1
+prabhavati,1
+wife,1
+jayaprakash,1
+narayan,1

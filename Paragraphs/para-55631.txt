@@ -1,0 +1,17 @@
+16,119,4
+1,1
+in,3
+1904,3
+vide,1
+plague,3
+johannesburg,2
+9,1
+4,2
+the,2
+2,1
+and,1
+history,1
+of,1
+28,1
+10,1
+1905,1

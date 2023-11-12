@@ -1,0 +1,13 @@
+62,454,28
+c,1
+p,1
+delhi,1
+andhra,1
+madras,1
+city,1
+mysore,1
+states,1
+and,1
+malabar,1
+district,1
+cochin,1

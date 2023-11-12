@@ -1,0 +1,17 @@
+30,206,11
+a,1
+the,2
+crowd,1
+in,1
+mosque,1
+said,1
+so,1
+as,1
+some,1
+knew,1
+about,1
+it,1
+and,1
+others,1
+did,1
+not,1

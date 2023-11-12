@@ -1,0 +1,8 @@
+52,179,11
+1,1
+vide,1
+national,1
+universities,1
+18,1
+6,1
+1931,1

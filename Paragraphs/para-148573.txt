@@ -1,0 +1,5 @@
+43,173,6
+and,1
+condition,1
+of,1
+health,1

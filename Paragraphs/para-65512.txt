@@ -1,0 +1,8 @@
+18,423,10
+secure,1
+intervention,1
+uttamlal,1
+trivedi,1
+if,1
+parekh,1
+not,1

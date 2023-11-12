@@ -1,0 +1,14 @@
+19,134,7
+maulana,1
+suleman,1
+saheb,1
+of,1
+fulwari,1
+he,2
+writes,1
+to,2
+say,1
+that,1
+has,1
+decided,1
+not,1

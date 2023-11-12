@@ -1,0 +1,15 @@
+82,400,20
+l,1
+f,1
+if,1
+you,2
+permit,1
+me,1
+to,1
+summarize,1
+the,1
+suggestions,1
+have,1
+made,1
+today,1
+about,1

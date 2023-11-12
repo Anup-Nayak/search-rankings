@@ -1,0 +1,16 @@
+70,368,6
+i,3
+wont,1
+write,2
+a,1
+separate,1
+letter,1
+to,2
+manilal,1
+now,1
+wanted,1
+one,1
+but,1
+have,1
+no,1
+time,1

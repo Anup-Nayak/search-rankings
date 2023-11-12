@@ -1,0 +1,13 @@
+68,444,14
+each,1
+shall,1
+be,2
+previously,1
+defined,1
+private,1
+certified,1
+producers,1
+will,1
+not,1
+encouraged,1
+by,1

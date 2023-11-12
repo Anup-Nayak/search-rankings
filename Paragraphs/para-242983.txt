@@ -1,0 +1,15 @@
+66,112,7
+1,1
+this,2
+is,1
+followed,1
+by,1
+the,1
+instructions,1
+no,1
+one,1
+but,1
+mahadev,1
+may,2
+read,1
+kaka,1

@@ -1,0 +1,4 @@
+1,247,2
+abdulla,1
+haji,1
+adam,1

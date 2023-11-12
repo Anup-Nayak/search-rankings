@@ -1,0 +1,9 @@
+11,436,3
+28,1
+the,2
+community,1
+has,1
+demonstrated,1
+power,1
+of,1
+truth,1

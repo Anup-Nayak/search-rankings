@@ -1,0 +1,7 @@
+87,230,4
+particulars,1
+by,1
+doctor,1
+raju,1
+1,1
+bapu,1

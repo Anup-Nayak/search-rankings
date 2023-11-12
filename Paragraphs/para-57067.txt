@@ -1,0 +1,12 @@
+16,317,2
+4,3
+2,3
+5,2
+6,1
+acceptance,1
+of,1
+my,1
+figures,1
+brings,1
+the,1
+annawari,1

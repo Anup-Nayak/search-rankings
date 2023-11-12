@@ -1,0 +1,11 @@
+23,479,10
+deduct,1
+price,1
+of,1
+cotton,1
+seed,1
+35,1
+lbs,2
+20,1
+per,1
+re,1

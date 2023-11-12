@@ -1,0 +1,6 @@
+66,380,10
+570,1
+letter,1
+to,1
+bhujangilal,1
+chhaya,1

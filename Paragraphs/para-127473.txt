@@ -1,0 +1,12 @@
+37,256,7
+as,1
+the,1
+mighty,1
+wind,1
+moving,1
+everywhere,1
+is,1
+ever,1
+contained,1
+in,1
+ether,1

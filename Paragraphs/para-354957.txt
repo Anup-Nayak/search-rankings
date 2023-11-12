@@ -1,0 +1,5 @@
+92,33,2
+46,1
+confusion,1
+about,1
+ramanama,1

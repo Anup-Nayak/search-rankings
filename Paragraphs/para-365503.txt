@@ -1,0 +1,8 @@
+94,290,4
+287,1
+advice,1
+to,1
+a,1
+chinese,1
+friend,1
+2,1

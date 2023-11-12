@@ -1,0 +1,17 @@
+37,260,3
+i,8
+am,2
+the,8
+sacrificial,1
+vow,1
+sacrifice,1
+ancestral,1
+oblation,1
+herb,1
+sacred,1
+text,1
+clarified,1
+butter,1
+fire,1
+burnt,1
+offering,1

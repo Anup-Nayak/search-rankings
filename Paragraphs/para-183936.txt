@@ -1,0 +1,4 @@
+52,189,22
+must,1
+reign,1
+supreme,1

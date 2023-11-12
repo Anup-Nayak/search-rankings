@@ -1,0 +1,6 @@
+92,112,6
+161,1
+letter,1
+to,1
+dhirubhai,1
+dikshit,1

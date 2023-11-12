@@ -1,0 +1,10 @@
+73,340,13
+ways,1
+and,1
+means,1
+of,2
+avoiding,1
+a,1
+repetition,1
+such,1
+tragedies,1

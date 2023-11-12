@@ -1,0 +1,12 @@
+74,73,6
+both,1
+mahadev,2
+self,1
+quite,1
+well,1
+leaving,1
+tomorrow,1
+remaining,1
+delhi,1
+lilavati,1
+also,1

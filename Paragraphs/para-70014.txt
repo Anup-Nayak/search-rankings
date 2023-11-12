@@ -1,0 +1,12 @@
+20,75,3
+when,1
+the,2
+enquiry,1
+was,2
+going,1
+on,2
+i,1
+taken,1
+to,1
+kotwali,1
+two,1

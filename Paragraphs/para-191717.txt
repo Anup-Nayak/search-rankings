@@ -1,0 +1,12 @@
+54,101,10
+but,1
+you,1
+cant,1
+do,1
+everything,1
+at,1
+one,1
+and,1
+the,1
+same,1
+time,1

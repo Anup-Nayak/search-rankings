@@ -1,0 +1,14 @@
+29,436,6
+5,1
+any,1
+solution,2
+must,2
+be,2
+an,1
+all,2
+india,2
+and,1
+by,1
+the,1
+consent,1
+of,1

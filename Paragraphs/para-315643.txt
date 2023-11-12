@@ -1,0 +1,13 @@
+82,413,5
+another,1
+question,1
+is,1
+will,1
+nations,1
+co,1
+operate,1
+inside,1
+an,1
+international,1
+organization,1
+or,1

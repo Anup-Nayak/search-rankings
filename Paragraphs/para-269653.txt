@@ -1,0 +1,17 @@
+72,306,1
+the,3
+name,1
+and,1
+address,1
+i,1
+shall,1
+certainly,1
+forward,1
+letter,1
+to,1
+right,1
+quarters,1
+blessings,1
+from,2
+bapu,1
+hindi,1

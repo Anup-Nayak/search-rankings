@@ -1,0 +1,17 @@
+66,354,1
+fields,1
+daily,1
+urine,1
+is,2
+a,1
+valuable,1
+manure,1
+and,1
+the,3
+less,1
+we,1
+use,1
+it,1
+greater,1
+harm,1
+done,1

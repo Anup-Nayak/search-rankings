@@ -1,0 +1,15 @@
+37,10,5
+the,2
+other,1
+employees,1
+of,2
+municipality,1
+are,1
+about,1
+100,1
+and,1
+almost,1
+all,1
+them,1
+wear,1
+khadi,1

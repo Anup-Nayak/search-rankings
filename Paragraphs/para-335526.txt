@@ -1,0 +1,14 @@
+87,212,15
+pyarelal,1
+shri,1
+a,1
+r,1
+tijaraye,1
+tilak,1
+vidyalaya,1
+village,1
+uplift,1
+centre,1
+kolapardi,1
+post,1
+madamendhi,1

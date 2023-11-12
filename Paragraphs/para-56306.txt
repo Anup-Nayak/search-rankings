@@ -1,0 +1,13 @@
+16,213,10
+hesitate,1
+to,1
+give,1
+the,2
+government,1
+may,1
+do,1
+what,1
+it,1
+likes,1
+if,1
+hardship,1

@@ -1,0 +1,6 @@
+50,170,4
+249,1
+letter,1
+to,1
+gangabehn,1
+jhaveri,1

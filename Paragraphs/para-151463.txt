@@ -1,0 +1,7 @@
+43,515,1
+640,1
+letter,1
+to,1
+bui,1
+quang,1
+chieu,1

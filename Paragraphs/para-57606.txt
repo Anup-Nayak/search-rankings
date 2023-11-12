@@ -1,0 +1,8 @@
+16,402,1
+day,1
+and,1
+if,1
+so,1
+at,1
+what,1
+hour,1

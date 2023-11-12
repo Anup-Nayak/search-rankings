@@ -1,0 +1,17 @@
+35,138,12
+bhaishri,1
+dungarsey,1
+kachara,1
+i,2
+have,1
+your,2
+letter,1
+think,1
+you,1
+should,2
+not,1
+mind,1
+if,1
+parents,1
+suffer,1
+nor,1

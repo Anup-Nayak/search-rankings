@@ -1,0 +1,12 @@
+82,419,28
+l,1
+f,1
+why,1
+will,1
+it,1
+not,1
+wait,1
+until,1
+after,1
+the,1
+war,1

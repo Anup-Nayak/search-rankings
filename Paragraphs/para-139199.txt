@@ -1,0 +1,9 @@
+40,484,5
+a,2
+wife,1
+follows,1
+the,1
+varna,1
+of,1
+her,1
+husband,1

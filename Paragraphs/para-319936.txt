@@ -1,0 +1,7 @@
+84,68,5
+bapu,1
+shri,1
+pranlal,1
+devkaran,1
+nanji,1
+bombay,1

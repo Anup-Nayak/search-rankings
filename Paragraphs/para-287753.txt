@@ -1,0 +1,8 @@
+76,426,23
+outside,1
+the,1
+congress,1
+but,1
+not,1
+inside,1
+it,1

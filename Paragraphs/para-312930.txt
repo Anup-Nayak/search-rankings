@@ -1,0 +1,14 @@
+82,255,11
+resist,1
+any,1
+foreign,1
+aggression,1
+or,1
+domination,1
+if,1
+you,1
+had,2
+it,1
+we,1
+could,1
+never,1

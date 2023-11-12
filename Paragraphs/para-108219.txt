@@ -1,0 +1,16 @@
+32,47,10
+of,1
+non,2
+violent,1
+co,1
+operation,1
+or,1
+does,1
+it,1
+prove,1
+that,1
+your,1
+power,1
+as,1
+the,1
+greatest,1

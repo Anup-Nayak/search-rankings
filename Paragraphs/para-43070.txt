@@ -1,0 +1,9 @@
+13,150,24
+cape,1
+natal,1
+free,1
+state,1
+points,1
+which,1
+they,1
+are,1

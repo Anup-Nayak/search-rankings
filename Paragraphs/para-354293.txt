@@ -1,0 +1,15 @@
+91,417,10
+1,1
+that,1
+is,1
+inability,1
+to,1
+decide,1
+between,1
+action,2
+and,1
+non,1
+bhagavad,1
+gita,1
+iv,1
+16,1

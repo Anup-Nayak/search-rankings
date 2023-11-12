@@ -1,0 +1,10 @@
+58,199,8
+from,1
+gujarati,1
+c,1
+w,1
+256,1
+courtesy,1
+lakshmibehn,1
+n,1
+khare,1

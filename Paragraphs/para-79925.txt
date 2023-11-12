@@ -1,0 +1,11 @@
+23,281,5
+employed,1
+violence,1
+where,1
+tenderness,1
+was,1
+required,1
+they,1
+have,1
+brought,1
+down,1

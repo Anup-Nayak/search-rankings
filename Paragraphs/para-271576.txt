@@ -1,0 +1,8 @@
+73,10,4
+from,1
+a,1
+copy,1
+pyarelal,1
+papers,1
+courtesy,1
+pyarclal,1

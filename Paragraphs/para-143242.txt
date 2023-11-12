@@ -1,0 +1,10 @@
+42,21,2
+bhaishri,1
+bhagwanji,1
+i,1
+have,1
+of,1
+course,1
+written,1
+to,1
+devchandbhai,1

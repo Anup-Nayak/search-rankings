@@ -1,0 +1,10 @@
+86,85,14
+1,1
+the,2
+reference,1
+is,1
+to,1
+recitation,1
+of,1
+ashram,1
+prayers,1

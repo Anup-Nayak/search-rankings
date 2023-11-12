@@ -1,0 +1,16 @@
+11,51,3
+1,1
+memorandum,1
+to,1
+the,1
+durban,1
+town,1
+council,1
+reproduced,2
+in,2
+indian,2
+opinion,2
+21,2
+5,2
+1910,2
+2,1

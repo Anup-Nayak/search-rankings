@@ -1,0 +1,14 @@
+52,8,9
+work,1
+of,1
+quenching,1
+the,2
+fire,1
+on,1
+learning,1
+that,1
+there,1
+were,1
+children,1
+in,1
+house,1

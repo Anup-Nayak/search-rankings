@@ -1,0 +1,8 @@
+85,106,1
+holdings,1
+in,1
+the,1
+name,1
+of,2
+collectivization,1
+land,1

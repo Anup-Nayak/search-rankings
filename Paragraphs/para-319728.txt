@@ -1,0 +1,9 @@
+84,51,10
+thanks,1
+please,1
+wait,1
+a,1
+while,1
+will,1
+write,1
+when,1

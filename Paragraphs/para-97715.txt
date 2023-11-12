@@ -1,0 +1,6 @@
+29,35,7
+the,1
+same,1
+journalist,1
+says,1
+2,1

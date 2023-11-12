@@ -1,0 +1,6 @@
+60,156,4
+187,1
+letter,1
+to,1
+satyendranath,1
+ganguli,1

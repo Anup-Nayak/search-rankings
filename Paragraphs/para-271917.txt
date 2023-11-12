@@ -1,0 +1,12 @@
+73,66,2
+gangadharrao,1
+if,1
+the,2
+resolution,1
+is,1
+withdrawn,1
+consequence,1
+will,1
+not,1
+be,1
+good,1

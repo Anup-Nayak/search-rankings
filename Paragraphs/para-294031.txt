@@ -1,0 +1,17 @@
+78,242,14
+sevagram,1
+wardha,1
+may,1
+24,1
+1940,1
+chi,1
+mathuradas,1
+i,1
+wrote,1
+you,2
+a,1
+letter,1
+which,1
+have,1
+not,1
+answered,1

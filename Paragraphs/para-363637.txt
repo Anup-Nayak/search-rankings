@@ -1,0 +1,14 @@
+94,62,2
+can,1
+they,1
+get,1
+over,1
+that,1
+feeling,1
+and,1
+look,1
+upon,1
+the,2
+community,1
+from,1
+which,1

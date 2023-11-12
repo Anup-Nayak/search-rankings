@@ -1,0 +1,13 @@
+15,319,7
+after,1
+speaking,1
+in,1
+hindi,1
+for,1
+half,1
+an,1
+hour,1
+he,1
+left,1
+the,1
+hall,1

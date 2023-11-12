@@ -1,0 +1,10 @@
+75,52,5
+property,1
+limbs,1
+and,1
+life,1
+victory,1
+is,1
+theirs,1
+keep,1
+me,1

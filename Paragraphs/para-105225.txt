@@ -1,0 +1,13 @@
+31,95,3
+i,1
+ask,1
+whether,1
+public,1
+opinion,1
+has,1
+ever,1
+been,1
+strong,1
+enough,1
+to,1
+restrain,1

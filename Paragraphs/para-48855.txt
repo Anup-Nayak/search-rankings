@@ -1,0 +1,13 @@
+14,382,18
+2,1
+this,1
+superscription,1
+in,1
+a,1
+letter,1
+addressed,1
+to,1
+maganlal,1
+gandhi,1
+is,1
+unsual,1

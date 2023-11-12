@@ -1,0 +1,14 @@
+82,403,11
+fischer,1
+give,2
+me,1
+your,1
+bowl,1
+and,1
+i,1
+will,1
+you,2
+some,1
+vegetables,2
+dont,1
+like,1

@@ -1,0 +1,8 @@
+6,149,9
+influence,1
+upon,1
+the,2
+responsible,1
+bodies,1
+in,1
+transvaal,1

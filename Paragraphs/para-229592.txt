@@ -1,0 +1,14 @@
+63,36,7
+a,1
+i,2
+do,1
+there,1
+is,1
+no,1
+question,1
+about,1
+that,2
+said,1
+at,1
+palluruthy,1
+1,1

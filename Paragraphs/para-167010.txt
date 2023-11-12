@@ -1,0 +1,5 @@
+48,85,2
+90,1
+a,1
+perplexed,1
+husband,1

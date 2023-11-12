@@ -1,0 +1,5 @@
+69,50,12
+66,1
+telegram,1
+to,1
+pyarelal,1

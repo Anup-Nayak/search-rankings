@@ -1,0 +1,5 @@
+52,62,2
+80,1
+foreign,1
+missionaries,1
+again,1

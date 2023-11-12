@@ -1,0 +1,7 @@
+6,107,18
+103,1
+letter,1
+to,1
+empire,1
+typewriting,1
+company,1

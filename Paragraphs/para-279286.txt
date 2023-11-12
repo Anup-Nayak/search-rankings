@@ -1,0 +1,6 @@
+74,415,3
+538,1
+drinking,1
+methylated,1
+spirits,1
+2,1

@@ -1,0 +1,6 @@
+24,360,11
+m,1
+s,1
+ane,1
+amraoti,1
+bombay,1

@@ -1,0 +1,16 @@
+31,173,18
+a,1
+quality,1
+of,3
+the,2
+soul,1
+and,1
+they,2
+excelled,1
+in,1
+it,1
+if,1
+had,1
+given,1
+out,1
+largeness,1

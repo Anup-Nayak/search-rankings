@@ -1,0 +1,5 @@
+35,243,3
+317,1
+punjab,1
+comparative,1
+figures,1

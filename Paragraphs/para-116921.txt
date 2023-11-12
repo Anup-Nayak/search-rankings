@@ -1,0 +1,6 @@
+34,463,4
+218,1
+letter,1
+to,1
+mohammed,1
+ali,1

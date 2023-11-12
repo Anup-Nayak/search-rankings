@@ -1,0 +1,16 @@
+80,11,9
+1,1
+daughter,1
+of,1
+s,1
+srinivasa,1
+iyengar,1
+the,2
+source,1
+has,1
+this,1
+in,1
+devanagari,1
+2,1
+from,1
+postmark,1

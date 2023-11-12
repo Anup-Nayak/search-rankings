@@ -1,0 +1,4 @@
+49,120,2
+124,1
+satyagraha,1
+yuddha,1

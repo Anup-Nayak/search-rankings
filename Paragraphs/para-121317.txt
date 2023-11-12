@@ -1,0 +1,11 @@
+35,468,8
+i,1
+trust,1
+you,1
+will,1
+not,1
+decline,1
+to,1
+take,1
+this,1
+responsibility,1

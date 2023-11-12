@@ -1,0 +1,14 @@
+69,296,8
+1,1
+satis,1
+chandra,1
+das,1
+gupta,1
+2,1
+a,1
+word,1
+or,1
+two,1
+are,1
+illegible,1
+here,1

@@ -1,0 +1,9 @@
+68,9,1
+the,1
+school,1
+and,1
+narandass,1
+fitness,1
+as,1
+a,1
+teacher,1

@@ -1,0 +1,4 @@
+24,196,13
+108,1
+benevolent,1
+parsis,1

@@ -1,0 +1,13 @@
+21,298,9
+1,1
+for,1
+the,4
+text,1
+of,2
+circular,1
+vide,1
+meaning,1
+empire,1
+29,1
+9,1
+1920,1

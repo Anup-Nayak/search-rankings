@@ -1,0 +1,13 @@
+41,251,3
+282,1
+cattle,2
+in,2
+kathiawar,2
+an,1
+expert,1
+breeding,1
+writes,1
+from,1
+to,1
+say,1
+2,1

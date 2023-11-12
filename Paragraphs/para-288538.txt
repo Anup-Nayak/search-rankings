@@ -1,0 +1,8 @@
+77,70,13
+my,1
+sympathy,1
+with,1
+you,1
+in,1
+your,1
+loss,1

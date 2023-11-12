@@ -1,0 +1,16 @@
+77,417,17
+and,3
+while,1
+again,1
+i,1
+do,1
+not,1
+want,1
+to,1
+dogmatize,1
+use,1
+terms,1
+like,1
+never,1
+in,1
+no,1

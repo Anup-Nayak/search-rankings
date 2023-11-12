@@ -1,0 +1,8 @@
+10,22,10
+government,1
+agree,1
+repeal,1
+want,1
+insert,1
+limit,1
+law,1

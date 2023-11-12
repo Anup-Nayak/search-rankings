@@ -1,0 +1,9 @@
+10,357,4
+sensation,1
+at,1
+the,2
+time,1
+of,1
+congress,1
+mr,1
+fazandar,1

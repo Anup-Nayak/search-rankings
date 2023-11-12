@@ -1,0 +1,11 @@
+78,367,2
+p,1
+i,3
+understand,2
+all,1
+there,1
+were,1
+occasions,1
+when,1
+sensed,1
+the,1

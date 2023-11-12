@@ -1,0 +1,12 @@
+45,231,3
+a,1
+friend,1
+from,1
+akola,1
+sends,1
+the,1
+two,1
+following,1
+apparently,1
+dissimilar,1
+questions,1

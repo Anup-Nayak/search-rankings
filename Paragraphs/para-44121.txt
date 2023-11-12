@@ -1,0 +1,6 @@
+13,297,6
+4,1
+wife,1
+of,1
+maganlal,1
+gandhi,1

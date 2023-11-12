@@ -1,0 +1,8 @@
+61,475,13
+g,1
+from,1
+the,1
+medical,1
+point,1
+of,1
+view,1

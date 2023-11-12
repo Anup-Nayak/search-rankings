@@ -1,0 +1,6 @@
+36,13,6
+kewanee,1
+illinois,1
+u,1
+s,1
+a,1

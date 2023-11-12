@@ -1,0 +1,8 @@
+23,135,6
+proper,1
+share,1
+in,1
+proportion,1
+of,1
+their,1
+population,1

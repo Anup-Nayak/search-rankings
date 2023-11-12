@@ -1,0 +1,6 @@
+19,473,5
+turning,1
+each,1
+night,1
+to,1
+day,1

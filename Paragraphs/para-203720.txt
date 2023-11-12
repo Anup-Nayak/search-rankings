@@ -1,0 +1,8 @@
+57,93,2
+awake,1
+o,1
+traveller,1
+it,1
+is,1
+morning,1
+now,1

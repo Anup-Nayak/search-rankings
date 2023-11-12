@@ -1,0 +1,5 @@
+20,31,13
+bahadur,1
+a,1
+p,1
+muddiman,1

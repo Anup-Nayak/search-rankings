@@ -1,0 +1,10 @@
+11,282,16
+intention,1
+expressed,1
+in,1
+telegram,1
+2,1
+to,1
+me,1
+wish,1
+res,1

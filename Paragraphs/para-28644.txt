@@ -1,0 +1,6 @@
+9,338,2
+210,1
+who,1
+can,1
+offer,1
+satyagraha,1

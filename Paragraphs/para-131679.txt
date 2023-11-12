@@ -1,0 +1,5 @@
+38,321,3
+320,1
+a,1
+terrible,1
+contrast,1

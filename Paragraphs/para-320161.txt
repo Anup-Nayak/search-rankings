@@ -1,0 +1,6 @@
+84,86,8
+114,1
+letter,1
+to,1
+maneklal,1
+gandhi,1

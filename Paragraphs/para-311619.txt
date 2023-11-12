@@ -1,0 +1,12 @@
+82,147,6
+1,1
+reading,1
+out,1
+the,4
+news,1
+to,1
+villages,1
+about,1
+war,1
+and,1
+indian,1

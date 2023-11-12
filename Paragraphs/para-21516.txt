@@ -1,0 +1,14 @@
+7,239,4
+1,1
+a,2
+weekly,1
+published,1
+in,2
+bombay,1
+2,1
+caste,1
+gujarat,1
+consisting,1
+mostly,1
+of,1
+farmers,1

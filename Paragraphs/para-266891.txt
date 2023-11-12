@@ -1,0 +1,7 @@
+71,416,3
+in,1
+the,2
+legislative,1
+seats,1
+won,1
+by,1

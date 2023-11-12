@@ -1,0 +1,10 @@
+72,52,8
+shri,1
+l,1
+r,1
+dacha,1
+social,1
+worker,1
+3229,1
+lingampally,1
+hyderabad,1

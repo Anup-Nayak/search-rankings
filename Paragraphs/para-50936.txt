@@ -1,0 +1,5 @@
+15,90,9
+gathering,1
+at,1
+mount,1
+petit,1

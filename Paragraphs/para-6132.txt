@@ -1,0 +1,9 @@
+3,4,1
+how,1
+is,1
+the,1
+plague,1
+going,1
+on,1
+there,1
+now,1

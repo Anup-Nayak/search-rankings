@@ -1,0 +1,7 @@
+14,10,18
+includes,1
+insults,1
+by,2
+warders,1
+frequent,1
+assaults,1

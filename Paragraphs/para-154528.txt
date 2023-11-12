@@ -1,0 +1,13 @@
+44,494,8
+t4,1
+guj,1
+prefixes,1
+when,1
+the,1
+main,1
+building,1
+was,1
+ready,1
+to,1
+this,1
+sentence,1

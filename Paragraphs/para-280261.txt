@@ -1,0 +1,9 @@
+75,62,1
+she,1
+must,1
+throw,1
+herself,1
+into,1
+struggle,1
+and,1
+can,1

@@ -1,0 +1,9 @@
+63,24,4
+aiding,1
+distressed,1
+people,1
+hope,1
+you,1
+will,1
+get,1
+adequate,1

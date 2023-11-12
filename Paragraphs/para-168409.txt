@@ -1,0 +1,7 @@
+48,288,7
+here,1
+are,1
+two,1
+letters,1
+for,1
+you,1

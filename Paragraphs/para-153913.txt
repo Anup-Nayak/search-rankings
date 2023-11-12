@@ -1,0 +1,9 @@
+44,474,4
+t10,1
+for,1
+an,1
+english,1
+gentleman,2
+guj,1
+has,1
+a,1

@@ -1,0 +1,8 @@
+57,117,5
+thank,1
+you,1
+very,1
+much,1
+fast,1
+going,1
+well,1

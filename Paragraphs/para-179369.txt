@@ -1,0 +1,10 @@
+51,155,4
+pattabhi,1
+he,1
+has,1
+got,1
+the,1
+weaknesses,1
+of,1
+an,1
+englishman,1

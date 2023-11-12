@@ -1,0 +1,17 @@
+70,112,6
+mr,1
+basil,1
+mathews,1
+discussed,1
+the,4
+place,1
+of,1
+money,1
+lender,1
+and,1
+zamindar,1
+in,1
+village,1
+economy,1
+gandhiji,1
+said,1

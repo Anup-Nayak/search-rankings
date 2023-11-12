@@ -1,0 +1,15 @@
+8,487,6
+count,1
+tolstoy,1
+explicitly,1
+lays,1
+it,1
+down,1
+that,1
+all,1
+punishments,1
+are,1
+in,1
+their,1
+nature,1
+persecution,1

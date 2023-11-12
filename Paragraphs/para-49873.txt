@@ -1,0 +1,5 @@
+14,489,3
+they,1
+are,1
+as,1
+follows,1

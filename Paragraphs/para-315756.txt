@@ -1,0 +1,15 @@
+82,416,11
+ask,1
+you,1
+to,1
+be,1
+objective,1
+about,1
+yourself,1
+this,1
+isnt,1
+a,2
+personal,1
+question,1
+but,1
+political,1

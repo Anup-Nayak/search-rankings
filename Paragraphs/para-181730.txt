@@ -1,0 +1,13 @@
+51,446,9
+goods,1
+except,1
+of,1
+cloth,2
+which,1
+has,2
+been,2
+applied,1
+to,1
+all,1
+foreign,1
+directed,1

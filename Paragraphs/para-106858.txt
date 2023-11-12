@@ -1,0 +1,17 @@
+31,323,12
+q,1
+we,2
+appreciate,1
+your,1
+view,1
+but,1
+the,1
+fact,1
+is,1
+that,1
+feel,1
+embarrassed,1
+they,1
+are,1
+obstructing,1
+us,1

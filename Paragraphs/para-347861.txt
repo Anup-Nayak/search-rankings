@@ -1,0 +1,10 @@
+90,144,6
+196,1
+letter,1
+to,1
+krishnachandra,1
+uruli,1
+kanchan,1
+march,1
+26,1
+1946,1

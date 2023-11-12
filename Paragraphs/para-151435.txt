@@ -1,0 +1,8 @@
+43,510,2
+a,1
+brahmin,1
+from,1
+the,1
+south,1
+writes,1
+1,1

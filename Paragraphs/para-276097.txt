@@ -1,0 +1,7 @@
+74,43,7
+before,1
+monday,1
+september,1
+19,1
+1938,1
+1,1

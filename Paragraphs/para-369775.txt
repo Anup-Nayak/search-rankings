@@ -1,0 +1,17 @@
+96,8,7
+1,1
+this,1
+was,1
+addressed,1
+to,2
+a,1
+member,1
+of,1
+bihar,1
+harijan,1
+uddharak,1
+mandal,1
+who,1
+came,1
+see,1
+gandhiji,1

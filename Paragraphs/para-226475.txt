@@ -1,0 +1,9 @@
+62,91,1
+the,1
+teachers,1
+second,1
+question,1
+is,1
+as,1
+follows,1
+1,1

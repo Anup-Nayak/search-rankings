@@ -1,0 +1,7 @@
+7,176,9
+145,1
+speech,1
+at,1
+congress,1
+meeting,1
+4,1

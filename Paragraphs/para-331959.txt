@@ -1,0 +1,5 @@
+86,320,4
+they,1
+must,1
+decide,1
+locally,1

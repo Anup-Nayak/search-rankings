@@ -1,0 +1,14 @@
+46,407,10
+i,2
+got,1
+the,1
+short,2
+letters,2
+written,1
+by,1
+you,1
+both,1
+am,1
+content,1
+with,1
+such,1

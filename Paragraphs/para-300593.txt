@@ -1,0 +1,12 @@
+80,68,3
+have,1
+belief,1
+in,1
+service,1
+and,1
+work,1
+this,1
+is,1
+a,1
+greater,1
+duty,1

@@ -1,0 +1,15 @@
+35,424,4
+mohandas,1
+gandhi,1
+shri,1
+gokaldas,1
+hiraji,1
+thakkar,1
+secretary,1
+sevak,2
+mandal,2
+karyalaya,1
+opposite,1
+post,1
+office,1
+jamnagar,1

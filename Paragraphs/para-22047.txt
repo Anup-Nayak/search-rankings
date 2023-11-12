@@ -1,0 +1,4 @@
+7,322,2
+whites,1
+are,1
+yielding,1

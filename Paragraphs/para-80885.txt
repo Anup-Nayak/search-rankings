@@ -1,0 +1,9 @@
+23,431,5
+bhaishri,1
+vallabhbhai,1
+patel,1
+bar,1
+at,1
+law,1
+bhadra,1
+ahmedabad,1

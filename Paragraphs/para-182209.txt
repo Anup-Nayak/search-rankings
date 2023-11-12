@@ -1,0 +1,15 @@
+52,8,12
+all,1
+over,2
+the,1
+house,1
+and,1
+burning,1
+beam,1
+crashed,1
+his,1
+head,1
+he,1
+was,1
+badly,1
+burnt,1

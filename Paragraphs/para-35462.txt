@@ -1,0 +1,7 @@
+11,228,11
+for,1
+cape,1
+natal,1
+strenuous,1
+opposition,1
+necessary,1

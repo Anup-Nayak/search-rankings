@@ -1,0 +1,5 @@
+26,141,4
+64,1
+conditions,1
+for,1
+swaraj,1

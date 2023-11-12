@@ -1,0 +1,9 @@
+29,0,8
+saturday,1
+sravana,1
+vad,1
+2,1
+august,1
+16,1
+1924,1
+4,1

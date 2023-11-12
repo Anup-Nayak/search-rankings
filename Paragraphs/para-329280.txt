@@ -1,0 +1,13 @@
+86,60,10
+blessings,1
+from,1
+bapu,1
+frany,1
+talyarkhan,1
+shaharukh,1
+sabawala,1
+sir,1
+p,1
+m,1
+road,1
+bombay,1

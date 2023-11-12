@@ -1,0 +1,14 @@
+76,268,1
+you,1
+want,1
+to,1
+do,1
+congress,2
+work,1
+get,1
+out,1
+of,1
+the,3
+state,1
+can,1
+terrify,1

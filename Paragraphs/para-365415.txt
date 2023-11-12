@@ -1,0 +1,16 @@
+94,278,7
+1,1
+the,1
+women,2
+workers,1
+had,1
+asked,1
+whether,1
+they,1
+should,1
+work,1
+only,1
+among,2
+or,1
+also,1
+men,1

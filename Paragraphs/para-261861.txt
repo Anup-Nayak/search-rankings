@@ -1,0 +1,6 @@
+70,235,1
+261,1
+speech,1
+at,1
+congress,1
+session,1

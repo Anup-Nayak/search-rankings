@@ -1,0 +1,5 @@
+48,86,3
+truth,1
+bows,1
+before,1
+authority,1

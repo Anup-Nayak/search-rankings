@@ -1,0 +1,4 @@
+82,377,5
+accept,1
+hindu,1
+rule,1

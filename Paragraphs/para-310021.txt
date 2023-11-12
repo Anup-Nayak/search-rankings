@@ -1,0 +1,5 @@
+82,17,9
+6,1
+gandhi,1
+seva,1
+sangh,1

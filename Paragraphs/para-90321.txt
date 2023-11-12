@@ -1,0 +1,10 @@
+26,463,10
+after,1
+describing,1
+mr,2
+gandhis,1
+life,1
+in,1
+gaol,1
+pearson,1
+proceeds,1

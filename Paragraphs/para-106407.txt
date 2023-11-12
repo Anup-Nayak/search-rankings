@@ -1,0 +1,15 @@
+31,261,11
+required,1
+a,2
+remedy,1
+but,1
+it,1
+was,1
+impossible,1
+for,1
+him,1
+frail,1
+imperfect,1
+human,1
+being,1
+to,1

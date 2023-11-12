@@ -1,0 +1,4 @@
+3,28,14
+owners,1
+suffering,1
+heavily,1

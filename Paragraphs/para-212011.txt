@@ -1,0 +1,14 @@
+58,480,5
+i,2
+had,1
+hardly,1
+put,1
+down,1
+the,1
+receiver,1
+after,1
+telephoning,1
+you,1
+when,1
+received,1
+a,1

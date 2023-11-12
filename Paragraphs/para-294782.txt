@@ -1,0 +1,12 @@
+78,314,2
+q,1
+recently,1
+you,1
+wrote,1
+the,2
+present,1
+is,1
+no,1
+atmosphere,1
+for,1
+influencing,1

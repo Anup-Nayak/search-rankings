@@ -1,0 +1,10 @@
+69,63,4
+and,1
+he,1
+explained,1
+to,1
+her,1
+the,2
+object,1
+of,1
+memorial,1

@@ -1,0 +1,14 @@
+21,334,17
+1,1
+1879,1
+1949,1
+poet,1
+patriot,1
+congress,1
+leader,1
+and,1
+a,1
+close,1
+associate,1
+of,1
+gandhiji,1

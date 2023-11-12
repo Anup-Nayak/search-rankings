@@ -1,0 +1,4 @@
+70,360,3
+send,1
+puratan1,1
+immediately,1

@@ -1,0 +1,15 @@
+82,401,30
+entered,1
+into,1
+an,1
+electoral,1
+pact,1
+because,1
+congress,1
+was,1
+not,1
+sure,1
+of,1
+winning,1
+that,1
+then,1

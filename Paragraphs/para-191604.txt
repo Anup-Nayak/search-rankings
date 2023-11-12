@@ -1,0 +1,8 @@
+54,90,7
+q,1
+do,1
+you,1
+ever,1
+suffer,1
+from,1
+nerves,1

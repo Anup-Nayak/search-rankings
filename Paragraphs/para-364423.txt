@@ -1,0 +1,8 @@
+94,156,9
+personal,1
+attention,1
+and,1
+coming,1
+in,1
+touch,1
+with,1

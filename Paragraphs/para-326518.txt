@@ -1,0 +1,6 @@
+85,264,9
+1,1
+daughter,1
+of,1
+ramdas,1
+gandhi,1

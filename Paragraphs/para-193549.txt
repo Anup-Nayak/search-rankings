@@ -1,0 +1,8 @@
+54,347,32
+has,1
+done,1
+controversy,1
+in,1
+the,1
+united,1
+provinces,1

@@ -1,0 +1,8 @@
+46,181,3
+the,2
+sense,1
+of,1
+i,2
+thinks,1
+am,1
+doer,1

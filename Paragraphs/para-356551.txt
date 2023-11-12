@@ -1,0 +1,10 @@
+92,213,2
+308,1
+do,1
+not,1
+eliminate,1
+truth,1
+and,1
+non,1
+violence,1
+1,1

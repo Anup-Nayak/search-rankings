@@ -1,0 +1,7 @@
+87,85,8
+shrimati,1
+sarojini,1
+naidu,1
+spinner,1
+hyderabad,1
+deccan,1

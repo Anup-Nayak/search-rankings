@@ -1,0 +1,13 @@
+10,388,7
+1,2
+vide,1
+speech,1
+at,1
+dinner,1
+to,1
+joseph,1
+royeppen,1
+and,1
+others,1
+7,1
+1910,1

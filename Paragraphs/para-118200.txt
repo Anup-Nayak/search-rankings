@@ -1,0 +1,9 @@
+35,96,4
+you,1
+like,1
+a,2
+blouse,1
+but,1
+not,1
+sari,1
+2,1

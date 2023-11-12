@@ -1,0 +1,7 @@
+44,471,23
+t12,1
+guj,1
+adds,1
+and,1
+patient,1
+endurance,1

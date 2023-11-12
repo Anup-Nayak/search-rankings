@@ -1,0 +1,8 @@
+84,354,2
+1,1
+chanakya,1
+the,1
+celebrated,1
+writer,1
+on,1
+statecraft,1

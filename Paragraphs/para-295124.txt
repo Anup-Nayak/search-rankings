@@ -1,0 +1,14 @@
+78,353,15
+kiss,1
+thy,2
+hand,1
+rub,1
+feet,1
+and,1
+sweep,1
+the,1
+floor,1
+for,1
+thee,1
+to,1
+sleep,1

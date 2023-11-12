@@ -1,0 +1,16 @@
+96,170,7
+blessings,1
+from,1
+bapu,1
+ps,1
+how,1
+do,1
+you,2
+manage,1
+during,1
+the,1
+ramzan,1
+dont,1
+get,1
+goats,1
+milk,1

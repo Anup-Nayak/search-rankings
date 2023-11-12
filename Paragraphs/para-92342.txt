@@ -1,0 +1,9 @@
+27,243,6
+diwan,1
+and,1
+invite,1
+if,1
+they,1
+will,1
+come,1
+other,1

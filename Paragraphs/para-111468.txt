@@ -1,0 +1,17 @@
+33,105,5
+by,2
+food,2
+the,2
+living,1
+live,1
+comes,2
+of,2
+rain,2
+and,2
+pious,1
+sacrifice,2
+is,1
+paid,1
+with,1
+tithes,1
+toil,1

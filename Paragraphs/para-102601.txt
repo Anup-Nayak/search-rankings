@@ -1,0 +1,9 @@
+30,196,15
+a,1
+i,1
+do,1
+not,1
+know,1
+their,1
+exact,1
+number,1

@@ -1,0 +1,6 @@
+96,73,5
+bapu,1
+ps,1
+return,1
+akbars,1
+letter,1

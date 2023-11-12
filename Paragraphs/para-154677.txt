@@ -1,0 +1,7 @@
+44,500,16
+t4,1
+guj,1
+adds,1
+and,1
+foul,1
+language,1

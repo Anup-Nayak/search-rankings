@@ -1,0 +1,4 @@
+7,41,2
+right,1
+thumb,1
+impression,1

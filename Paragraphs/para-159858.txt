@@ -1,0 +1,7 @@
+46,188,5
+knowledge,1
+turns,1
+all,1
+actions,1
+to,1
+ashes,1

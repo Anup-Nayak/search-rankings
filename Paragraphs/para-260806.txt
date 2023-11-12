@@ -1,0 +1,13 @@
+70,107,7
+vandemataram,1
+from,1
+mohandas,1
+gandhi,1
+shri,1
+bhagwanji,1
+anupchand,1
+vakil,1
+rajkot,1
+c,1
+s,1
+kathiawad,1

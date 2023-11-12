@@ -1,0 +1,12 @@
+90,122,2
+blessings,1
+from,1
+bapu,1
+bapubhai,1
+naranji,1
+vashi,1
+umer,1
+manzil,1
+ghodbunder,1
+road,1
+khar,1

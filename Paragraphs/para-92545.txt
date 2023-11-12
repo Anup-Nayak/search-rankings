@@ -1,0 +1,6 @@
+27,280,4
+doubt,1
+advisability,1
+free,1
+kitchens,1
+writing,1

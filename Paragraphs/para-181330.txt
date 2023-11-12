@@ -1,0 +1,14 @@
+51,412,5
+to,1
+the,1
+poor,1
+they,1
+do,1
+proselytization,1
+by,1
+means,1
+of,1
+medical,1
+aid,1
+education,1
+etc,1

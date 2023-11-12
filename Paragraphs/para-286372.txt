@@ -1,0 +1,17 @@
+76,276,19
+who,1
+entered,1
+the,1
+field,1
+fell,1
+back,1
+as,2
+soon,1
+they,1
+found,1
+that,1
+khadi,1
+did,1
+not,1
+pay,1
+them,1

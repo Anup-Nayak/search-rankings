@@ -1,0 +1,15 @@
+77,419,20
+freedom,2
+it,1
+is,3
+not,1
+alone,1
+of,1
+small,1
+nations,1
+that,1
+at,1
+stake,1
+there,1
+also,1
+in,1

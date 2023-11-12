@@ -1,0 +1,8 @@
+88,142,2
+yours,1
+m,1
+k,1
+gandhi,1
+govardhan,1
+sanstha,1
+poona,1

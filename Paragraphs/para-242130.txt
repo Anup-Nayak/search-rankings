@@ -1,0 +1,10 @@
+66,23,14
+1,1
+the,1
+addressee,1
+had,1
+undertaken,1
+a,1
+fourteen,1
+days,1
+fast,1

@@ -1,0 +1,7 @@
+64,25,5
+m,2
+k,1
+gandhi,1
+shri,1
+r,1
+masani,1

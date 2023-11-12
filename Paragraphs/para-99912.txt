@@ -1,0 +1,4 @@
+29,297,6
+gujarat,1
+not,1
+defeated,1

@@ -1,0 +1,9 @@
+13,46,6
+rights,1
+section,1
+three,1
+takes,1
+away,1
+supreme,1
+courts,1
+juris,1

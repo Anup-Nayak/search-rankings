@@ -1,0 +1,10 @@
+43,38,1
+yourself,1
+there,1
+here,1
+are,1
+some,1
+letters,1
+received,1
+from,1
+italy,1

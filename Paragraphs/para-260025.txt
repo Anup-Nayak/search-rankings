@@ -1,0 +1,8 @@
+70,15,8
+on,1
+certain,1
+occasions,1
+and,1
+dont,1
+you,1
+quarrel,1

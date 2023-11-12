@@ -1,0 +1,16 @@
+45,189,9
+m,1
+k,1
+gandhi,1
+sjt,1
+t,1
+nagesh,1
+rao,1
+teacher,1
+board,1
+high,1
+school,1
+puttur,1
+s,2
+canara,1
+india,1

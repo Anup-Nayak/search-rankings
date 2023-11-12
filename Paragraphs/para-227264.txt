@@ -1,0 +1,6 @@
+62,200,6
+213,1
+letter,1
+to,1
+maneklal,1
+kothari,1

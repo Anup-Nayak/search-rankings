@@ -1,0 +1,11 @@
+51,442,11
+all,1
+the,2
+advantage,1
+gained,1
+by,1
+conference,1
+prime,1
+minister,1
+in,1
+his,1

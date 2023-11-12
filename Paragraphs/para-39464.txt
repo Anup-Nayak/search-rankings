@@ -1,0 +1,5 @@
+12,178,4
+account,1
+receipts,1
+s,2
+expenditure,1

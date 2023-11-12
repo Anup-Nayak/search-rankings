@@ -1,0 +1,4 @@
+42,23,1
+36,1
+primary,1
+educationi,1

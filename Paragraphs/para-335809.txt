@@ -1,0 +1,13 @@
+87,236,8
+1,1
+the,2
+allusion,1
+is,1
+to,2
+legendary,1
+hanuman,1
+known,1
+for,1
+his,1
+loyalty,1
+rama,1

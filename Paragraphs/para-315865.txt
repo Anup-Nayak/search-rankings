@@ -1,0 +1,11 @@
+82,419,14
+l,1
+f,1
+exactly,1
+when,1
+did,1
+the,1
+idea,1
+occur,1
+to,1
+you,1

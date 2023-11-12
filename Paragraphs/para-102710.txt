@@ -1,0 +1,17 @@
+30,202,3
+a,2
+both,1
+were,1
+childrenone,1
+of,1
+them,1
+was,2
+10,1
+or,1
+11,1
+years,1
+the,1
+other,1
+one,1
+bit,1
+older,1

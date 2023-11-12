@@ -1,0 +1,15 @@
+78,34,27
+myself,1
+that,1
+we,2
+english,1
+can,1
+fairly,1
+leave,1
+india,1
+until,1
+have,1
+put,1
+her,1
+in,1
+a,1

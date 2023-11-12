@@ -1,0 +1,15 @@
+21,40,17
+facilities,1
+of,1
+transport,1
+for,1
+those,1
+indians,1
+who,1
+wished,1
+to,1
+return,1
+from,1
+fiji,1
+a,1
+shipment,1

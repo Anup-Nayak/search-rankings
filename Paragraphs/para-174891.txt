@@ -1,0 +1,6 @@
+50,132,4
+194,1
+letter,1
+to,1
+narandas,1
+gandhi,1

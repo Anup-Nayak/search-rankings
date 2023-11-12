@@ -1,0 +1,15 @@
+77,418,18
+we,1
+shall,1
+be,1
+wrangling,1
+with,1
+each,1
+other,1
+instead,1
+of,1
+fighting,1
+the,2
+enemy,1
+on,1
+common,1

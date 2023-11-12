@@ -1,0 +1,5 @@
+72,17,17
+cleared,1
+for,1
+four,1
+days,1

@@ -1,0 +1,8 @@
+3,39,8
+29,1
+position,1
+of,1
+indians,1
+in,1
+the,1
+transvaal,1

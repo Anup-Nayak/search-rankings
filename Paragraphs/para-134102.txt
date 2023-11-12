@@ -1,0 +1,13 @@
+39,149,10
+discussions,1
+about,1
+it,1
+but,1
+i,2
+am,1
+not,2
+satisfied,1
+think,1
+they,1
+have,1
+sufficient,1

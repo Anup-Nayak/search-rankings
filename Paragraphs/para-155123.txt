@@ -1,0 +1,16 @@
+45,30,7
+1,1
+the,1
+letter,1
+was,1
+signed,1
+by,1
+girdhari,1
+nephew,1
+of,2
+j,1
+b,1
+kripalani,1
+on,1
+behalf,1
+gandhiji,1

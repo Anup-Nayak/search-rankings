@@ -1,0 +1,9 @@
+13,398,7
+having,1
+at,1
+last,1
+arrested,1
+prime,1
+mover,1
+in,1
+passive,1

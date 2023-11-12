@@ -1,0 +1,9 @@
+13,140,3
+stop,1
+submit,1
+that,1
+if,1
+existing,1
+rights,1
+disturbed,1
+or,1

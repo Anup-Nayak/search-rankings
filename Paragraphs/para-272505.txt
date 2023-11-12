@@ -1,0 +1,8 @@
+73,130,4
+talks,1
+1,1
+not,1
+unhopeful,1
+am,1
+2,1
+well,1

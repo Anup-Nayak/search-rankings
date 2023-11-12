@@ -1,0 +1,14 @@
+51,421,11
+lands,2
+if,1
+they,1
+came,1
+to,2
+take,1
+possession,1
+and,1
+work,1
+on,1
+the,1
+mahatma,1
+gandhi,1

@@ -1,0 +1,8 @@
+62,24,8
+29,1
+talk,1
+with,1
+a,1
+khadi,1
+worker,1
+5,1

@@ -1,0 +1,8 @@
+87,132,8
+less,1
+hindus,1
+who,1
+are,1
+at,1
+all,1
+politically,1

@@ -1,0 +1,12 @@
+1,126,15
+read,1
+okha,1
+haran,1
+had,1
+a,1
+long,1
+walk,1
+with,1
+dada,1
+sheth,1
+2,1

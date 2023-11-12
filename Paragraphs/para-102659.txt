@@ -1,0 +1,14 @@
+30,199,2
+q,1
+what,2
+was,1
+the,1
+nature,1
+of,1
+your,1
+conversations,1
+and,1
+replies,1
+did,1
+you,1
+receive,1

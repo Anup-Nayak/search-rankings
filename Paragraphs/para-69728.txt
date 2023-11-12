@@ -1,0 +1,7 @@
+20,30,8
+dr,1
+t,1
+b,1
+sapru,1
+george,1
+lowndes,1

@@ -1,0 +1,6 @@
+35,70,2
+the,1
+morals,1
+of,1
+machinery,1
+1,1

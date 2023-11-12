@@ -1,0 +1,12 @@
+73,94,7
+we,1
+are,1
+unable,1
+to,1
+discuss,1
+our,2
+past,1
+and,2
+future,1
+political,1
+opinion,1

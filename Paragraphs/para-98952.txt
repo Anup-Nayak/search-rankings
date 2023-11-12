@@ -1,0 +1,7 @@
+29,193,10
+heart,1
+unity,1
+not,1
+for,1
+artificial,1
+patchwork,1

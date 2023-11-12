@@ -1,0 +1,13 @@
+57,37,1
+decision,1
+if,1
+god,1
+wills,1
+it,1
+body,1
+will,1
+hold,1
+out,1
+against,1
+fast,1
+long,1

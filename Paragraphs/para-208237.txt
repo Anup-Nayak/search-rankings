@@ -1,0 +1,9 @@
+58,104,20
+13,1
+wife,1
+of,1
+ratilal,1
+dr,1
+mehtas,1
+second,1
+son,1

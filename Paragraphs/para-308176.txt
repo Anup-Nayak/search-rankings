@@ -1,0 +1,8 @@
+81,297,17
+end,1
+strike,1
+and,1
+again,1
+you,1
+will,1
+estrange,1

@@ -1,0 +1,8 @@
+30,339,11
+have,1
+wired,1
+corporation,1
+agreeing,1
+accept,1
+address,1
+saturday,1

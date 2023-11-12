@@ -1,0 +1,7 @@
+54,346,32
+utterly,1
+insecure,1
+and,1
+shooting,1
+unarmed,1
+peaceful,1

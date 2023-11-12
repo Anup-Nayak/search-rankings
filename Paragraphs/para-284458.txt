@@ -1,0 +1,8 @@
+76,70,9
+refugees,1
+i,1
+concluded,1
+that,1
+declaration,1
+is,1
+the,1

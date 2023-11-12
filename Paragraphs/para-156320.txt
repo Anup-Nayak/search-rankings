@@ -1,0 +1,8 @@
+45,205,2
+192,1
+speech,1
+to,1
+arya,1
+samajists,1
+rangoon,1
+2,1

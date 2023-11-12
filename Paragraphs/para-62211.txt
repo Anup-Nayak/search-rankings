@@ -1,0 +1,8 @@
+17,405,12
+375,1
+letter,1
+to,1
+imam,1
+abdul,1
+kadir,1
+bawazeer,1

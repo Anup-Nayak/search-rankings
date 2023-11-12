@@ -1,0 +1,7 @@
+97,53,4
+1,1
+ghulam,1
+rasool,1
+qureshi,1
+2,1
+amina,1

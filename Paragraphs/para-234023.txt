@@ -1,0 +1,7 @@
+64,72,10
+you,1
+will,1
+bear,1
+the,1
+loss,1
+bravely,1

@@ -1,0 +1,8 @@
+92,118,2
+the,1
+lowly,1
+cow,1
+a,1
+knowledgeable,1
+sister,1
+writes,1

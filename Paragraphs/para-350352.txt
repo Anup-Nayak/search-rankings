@@ -1,0 +1,10 @@
+90,432,6
+2,1
+all,1
+the,2
+remaining,1
+powers,1
+shall,1
+vest,1
+in,1
+provinces,1

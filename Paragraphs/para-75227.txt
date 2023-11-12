@@ -1,0 +1,13 @@
+21,476,16
+after,2
+mr,2
+gandhi,1
+took,1
+his,1
+seat,1
+nimbkar,1
+said,1
+that,1
+he,1
+was,1
+convinced,1

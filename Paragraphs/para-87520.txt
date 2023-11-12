@@ -1,0 +1,16 @@
+25,495,4
+mr,1
+gandhi,1
+does,1
+not,1
+want,1
+a,2
+conference,1
+or,1
+settlement,1
+except,1
+on,1
+his,1
+own,1
+impossible,1
+terms,1

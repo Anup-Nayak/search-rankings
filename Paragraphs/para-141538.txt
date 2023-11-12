@@ -1,0 +1,11 @@
+41,295,3
+yours,1
+sincerely,1
+marcelle,1
+capy,1
+78,1
+rue,1
+de,1
+lassomption,1
+paris,1
+france,1

@@ -1,0 +1,7 @@
+81,52,7
+101,1
+letter,1
+to,1
+sharda,1
+f,1
+shah,1

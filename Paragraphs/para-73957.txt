@@ -1,0 +1,16 @@
+21,239,20
+exchange,1
+swaraj,1
+for,2
+any,1
+other,1
+system,1
+of,1
+government,1
+if,1
+in,1
+his,1
+opinion,1
+it,1
+was,1
+the,1

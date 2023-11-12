@@ -1,0 +1,6 @@
+19,78,3
+the,1
+year,1
+which,1
+has,1
+ended,1

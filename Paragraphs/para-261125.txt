@@ -1,0 +1,5 @@
+70,145,1
+166,1
+temple,1
+entry,1
+rules,1

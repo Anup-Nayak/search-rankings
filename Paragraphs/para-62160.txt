@@ -1,0 +1,10 @@
+17,402,14
+out,1
+in,1
+satyagraha,1
+there,1
+never,1
+is,1
+danger,1
+from,1
+outside,1

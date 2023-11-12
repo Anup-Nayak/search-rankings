@@ -1,0 +1,7 @@
+42,418,2
+wanted,1
+a,1
+publicity,1
+department,1
+for,1
+khadi,1

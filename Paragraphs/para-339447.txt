@@ -1,0 +1,13 @@
+88,120,16
+i,1
+have,1
+your,1
+wire,1
+may,1
+you,1
+both,1
+fare,1
+well,1
+and,1
+serve,1
+the,1

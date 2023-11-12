@@ -1,0 +1,14 @@
+73,460,25
+demanded,1
+the,2
+resignation,1
+of,1
+other,1
+three,1
+dismissed,1
+them,1
+on,1
+their,1
+refusal,1
+to,1
+resign,1

@@ -1,0 +1,7 @@
+41,458,22
+smuts,1
+gandhi,1
+settlement,1
+should,1
+have,1
+full,1

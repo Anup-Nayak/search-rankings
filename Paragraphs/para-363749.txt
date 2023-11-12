@@ -1,0 +1,12 @@
+94,71,5
+peremptory,1
+inquiries,1
+the,1
+doctor,1
+had,1
+not,1
+acted,1
+disloyally,1
+towards,1
+his,1
+colleagues,1

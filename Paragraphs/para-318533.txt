@@ -1,0 +1,16 @@
+83,384,24
+as,1
+i,3
+am,1
+allowed,1
+to,2
+do,1
+so,1
+and,1
+when,1
+have,1
+finished,1
+that,1
+process,1
+my,1
+satisfaction,1

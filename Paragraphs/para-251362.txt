@@ -1,0 +1,16 @@
+68,16,5
+1,1
+conversion,1
+is,3
+a,1
+change,1
+of,2
+heart,1
+from,2
+sin,2
+to,1
+god,3
+it,1
+the,1
+work,1
+separation,1

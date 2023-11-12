@@ -1,0 +1,9 @@
+26,434,6
+from,1
+a,2
+photostat,1
+of,1
+draft,1
+s,1
+n,1
+8033,1

@@ -1,0 +1,9 @@
+30,283,5
+1,1
+a,1
+community,1
+engaged,1
+in,1
+skinning,1
+dead,1
+cattle,1

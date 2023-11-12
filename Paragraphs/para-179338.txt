@@ -1,0 +1,10 @@
+51,152,10
+v,1
+but,1
+you,1
+have,1
+made,1
+picketing,1
+a,1
+political,1
+weapon,1

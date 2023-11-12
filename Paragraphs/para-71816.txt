@@ -1,0 +1,7 @@
+20,363,4
+138,1
+khilafat,1
+mr,1
+candlers,1
+open,1
+letter,1

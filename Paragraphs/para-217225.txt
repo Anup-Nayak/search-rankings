@@ -1,0 +1,6 @@
+60,7,1
+15,1
+letter,1
+to,1
+sophia,1
+wadia,1

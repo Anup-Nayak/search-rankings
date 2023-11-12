@@ -1,0 +1,6 @@
+66,285,6
+415,1
+letter,1
+to,1
+purushottam,1
+bavishi,1

@@ -1,0 +1,14 @@
+83,400,17
+above,1
+mentioned,1
+slanderous,1
+propaganda,1
+on,1
+the,1
+part,1
+of,1
+his,1
+own,1
+people,1
+against,1
+those,1

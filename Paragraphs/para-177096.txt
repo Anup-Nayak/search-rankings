@@ -1,0 +1,6 @@
+50,405,5
+saturday,1
+morning,1
+december,1
+13/16,1
+1930,1

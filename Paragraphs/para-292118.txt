@@ -1,0 +1,5 @@
+78,49,11
+reasonable,1
+answers,1
+present,1
+requirements,1

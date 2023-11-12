@@ -1,0 +1,17 @@
+81,203,10
+1,1
+the,2
+addressee,1
+had,2
+lost,1
+her,1
+husband,1
+2,1
+two,1
+sons,1
+of,1
+addressees,1
+brother,1
+died,1
+just,1
+then,1

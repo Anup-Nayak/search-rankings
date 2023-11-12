@@ -1,0 +1,11 @@
+67,286,5
+a,1
+non,1
+violence,1
+saving,1
+on,2
+expense,1
+and,2
+time,1
+health,1
+so,1

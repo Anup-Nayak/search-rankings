@@ -1,0 +1,13 @@
+38,467,15
+1,1
+the,1
+year,1
+has,1
+been,1
+inferred,1
+from,1
+gandhijis,1
+stay,1
+at,1
+nandi,1
+durg,1

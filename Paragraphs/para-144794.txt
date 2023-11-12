@@ -1,0 +1,7 @@
+42,224,8
+256,1
+letter,1
+to,1
+shah,1
+mohammed,1
+qasim,1

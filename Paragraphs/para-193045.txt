@@ -1,0 +1,12 @@
+54,288,15
+i,2
+have,2
+read,1
+your,1
+letter,1
+to,2
+devdas,1
+was,1
+sorry,1
+not,1
+been,1

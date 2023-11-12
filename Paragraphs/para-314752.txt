@@ -1,0 +1,11 @@
+82,387,5
+owning,1
+class,1
+have,1
+acquired,1
+through,1
+generations,1
+of,1
+experience,1
+and,1
+specialization,1

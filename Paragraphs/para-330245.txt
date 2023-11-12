@@ -1,0 +1,9 @@
+86,149,9
+yours,1
+m,1
+k,1
+gandhi,1
+haribhau,1
+joshi,1
+lokshakti,1
+poona,1

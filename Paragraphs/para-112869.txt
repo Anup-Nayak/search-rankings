@@ -1,0 +1,6 @@
+33,300,4
+gujarati,1
+natlonal,1
+school,1
+in,1
+bombay,1

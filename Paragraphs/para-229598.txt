@@ -1,0 +1,8 @@
+63,36,13
+1,2
+vide,1
+speech,1
+at,1
+palluruthy,1
+18,1
+1934,1

@@ -1,0 +1,13 @@
+12,340,7
+in,2
+phoenix,2
+till,1
+noonat,1
+noon,1
+again,1
+went,1
+to,2
+town,1
+returned,1
+the,1
+evening,1

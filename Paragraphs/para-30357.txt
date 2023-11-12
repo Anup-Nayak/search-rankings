@@ -1,0 +1,9 @@
+10,56,9
+number,1
+but,1
+not,1
+of,1
+right,1
+still,1
+negotiat,1
+ing,1

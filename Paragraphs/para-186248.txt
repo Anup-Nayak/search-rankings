@@ -1,0 +1,16 @@
+52,448,15
+malcolm,1
+hailey,1
+hopes,1
+to,1
+be,1
+fully,1
+acquainted,1
+with,1
+the,1
+situation,1
+within,1
+a,2
+week,1
+and,1
+in,1

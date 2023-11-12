@@ -1,0 +1,14 @@
+6,41,8
+sympathy,1
+which,2
+you,2
+have,1
+shown,1
+and,2
+i,1
+believe,1
+are,1
+ready,1
+to,1
+show,1
+of,1

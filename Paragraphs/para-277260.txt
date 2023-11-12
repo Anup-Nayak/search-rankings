@@ -1,0 +1,8 @@
+74,185,3
+bapu,1
+ps,1
+bandh,1
+is,1
+a,1
+small,1
+village,1

@@ -1,0 +1,12 @@
+42,93,4
+1,1
+the,1
+first,1
+line,1
+of,1
+a,2
+song,1
+by,1
+pritam,1
+gujarati,1
+poet,1

@@ -1,0 +1,10 @@
+44,47,9
+a,2
+shaikh,1
+1,1
+esq,1
+berlin,1
+charlo,1
+mommsenstrasse,1
+41,1
+germany,1

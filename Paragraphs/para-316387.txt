@@ -1,0 +1,6 @@
+83,49,10
+61,1
+for,1
+the,1
+sikh,1
+friends,1

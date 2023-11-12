@@ -1,0 +1,14 @@
+48,216,3
+dear,1
+friend,1
+i,1
+thank,1
+you,1
+for,1
+your,1
+letter,1
+we,1
+must,1
+agree,1
+to,1
+differ,1

@@ -1,0 +1,16 @@
+54,111,6
+other,1
+side,1
+he,1
+did,1
+not,1
+however,1
+ask,1
+them,1
+to,1
+accept,1
+the,1
+congress,1
+version,1
+or,1
+any,1

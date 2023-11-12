@@ -1,0 +1,10 @@
+36,263,9
+sabarmati,1
+sravana,1
+vad,1
+0,1
+1,1
+1982,1
+september,1
+7,1
+1926,1

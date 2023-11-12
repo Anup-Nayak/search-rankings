@@ -1,0 +1,4 @@
+1,98,9
+stewed,1
+fruits,1
+sundries,1

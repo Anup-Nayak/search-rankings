@@ -1,0 +1,4 @@
+24,128,2
+the,1
+bread,1
+problem,1

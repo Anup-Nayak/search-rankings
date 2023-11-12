@@ -1,0 +1,9 @@
+36,351,2
+shri,1
+lakshmidas,1
+tairsee,1
+bazaar,1
+gate,1
+street,1
+fort,1
+bombay,1

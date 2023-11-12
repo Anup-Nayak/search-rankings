@@ -1,0 +1,7 @@
+4,129,4
+his,1
+excellency,1
+the,1
+acting,1
+lieutenant,1
+governor,1

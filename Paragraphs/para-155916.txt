@@ -1,0 +1,6 @@
+45,135,5
+139,1
+letter,1
+to,1
+bechar,1
+parmar,1

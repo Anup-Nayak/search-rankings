@@ -1,0 +1,8 @@
+1,450,2
+great,1
+eastern,1
+hotel,1
+calcutta,1
+november,1
+5,1
+1896,1

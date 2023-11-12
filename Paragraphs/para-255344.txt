@@ -1,0 +1,13 @@
+68,444,19
+from,1
+time,2
+to,1
+or,1
+instructions,1
+given,1
+will,1
+involve,1
+automatic,1
+withdrawal,1
+of,1
+their,1

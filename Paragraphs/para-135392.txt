@@ -1,0 +1,5 @@
+39,334,4
+330,1
+village,1
+cattle,1
+improvement,1

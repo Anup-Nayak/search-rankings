@@ -1,0 +1,14 @@
+20,148,3
+a,2
+man,1
+was,1
+identified,1
+by,1
+one,1
+porter,1
+with,1
+lambardar,1
+zaildar,1
+and,1
+the,1
+sub,1

@@ -1,0 +1,13 @@
+96,251,1
+this,1
+gave,1
+gandhiji,1
+an,1
+opportunity,1
+of,2
+speaking,1
+on,1
+some,1
+the,1
+vital,1
+problems,1

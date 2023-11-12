@@ -1,0 +1,13 @@
+64,1,5
+resolution,2
+as,1
+apart,1
+from,1
+the,2
+ranchi,1
+and,1
+attitude,1
+which,1
+in,1
+your,1
+opinion,1

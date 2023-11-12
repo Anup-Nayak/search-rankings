@@ -1,0 +1,8 @@
+87,326,9
+m,1
+k,1
+gandhi,1
+strawberry,1
+hills,1
+simla,1
+1,1

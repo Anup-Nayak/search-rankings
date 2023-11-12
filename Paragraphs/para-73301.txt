@@ -1,0 +1,8 @@
+21,107,4
+75,1
+speech,1
+on,1
+khilafat,1
+day,1
+bombay,1
+1,1

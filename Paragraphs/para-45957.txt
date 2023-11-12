@@ -1,0 +1,9 @@
+14,10,20
+also,1
+bad,1
+food,1
+often,1
+badly,1
+cooked,1
+by,1
+zulus,1

@@ -1,0 +1,5 @@
+84,82,7
+8,1
+royal,1
+exchance,1
+place,1

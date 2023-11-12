@@ -1,0 +1,4 @@
+30,51,1
+poverty,1
+a,1
+cause,1

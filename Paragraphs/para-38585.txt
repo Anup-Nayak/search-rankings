@@ -1,0 +1,6 @@
+12,52,7
+saturday,1
+night,1
+september,1
+16,1
+1911,1

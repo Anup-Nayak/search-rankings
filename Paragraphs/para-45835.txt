@@ -1,0 +1,8 @@
+14,5,2
+giving,1
+evidence,1
+gandhi,1
+servants,1
+of,1
+india,1
+society,1

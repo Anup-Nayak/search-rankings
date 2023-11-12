@@ -1,0 +1,14 @@
+96,249,24
+gandhiji,1
+replied,1
+that,1
+it,1
+was,1
+indeed,1
+a,1
+searching,1
+question,1
+which,1
+he,1
+must,1
+answer,1

@@ -1,0 +1,13 @@
+86,193,8
+1,1
+najib,1
+ashraf,1
+nadavi,1
+a,1
+professor,1
+in,1
+the,1
+ismail,1
+yusuf,1
+college,1
+andheri,1

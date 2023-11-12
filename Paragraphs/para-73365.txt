@@ -1,0 +1,7 @@
+21,119,4
+abdul,1
+jabbar,1
+president,1
+caliphate,1
+hyderabad,1
+sind,1

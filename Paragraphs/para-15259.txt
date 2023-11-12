@@ -1,0 +1,15 @@
+6,6,9
+2,1
+assassinated,1
+in,2
+july,1
+1909,1
+by,1
+an,1
+indian,1
+terrorist,1
+at,1
+the,1
+imperial,1
+institute,1
+london,1

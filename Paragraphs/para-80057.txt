@@ -1,0 +1,13 @@
+23,300,8
+movement,1
+for,1
+instance,1
+in,1
+sind,1
+hyderabad,1
+and,1
+kaira,1
+people,1
+had,1
+very,1
+much,1

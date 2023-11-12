@@ -1,0 +1,5 @@
+28,137,2
+72,1
+the,1
+arya,1
+samajists,1

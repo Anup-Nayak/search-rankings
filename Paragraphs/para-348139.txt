@@ -1,0 +1,6 @@
+90,180,3
+bapu,1
+shri,1
+t,1
+prakasam,1
+madras,1

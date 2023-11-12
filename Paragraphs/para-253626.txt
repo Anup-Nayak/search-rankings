@@ -1,0 +1,10 @@
+68,248,3
+from,1
+gujarati,1
+c,1
+w,1
+9718,1
+courtesy,1
+nilkanth,1
+b,1
+mashruwala,1

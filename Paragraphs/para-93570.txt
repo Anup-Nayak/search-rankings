@@ -1,0 +1,9 @@
+27,409,19
+as,1
+saturday,1
+review,1
+the,3
+nation,2
+and,1
+athenaeum,1
+american,1

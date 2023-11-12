@@ -1,0 +1,8 @@
+23,197,8
+before,1
+recognize,1
+the,1
+added,1
+word,1
+however,1
+may,1

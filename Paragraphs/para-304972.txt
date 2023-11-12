@@ -1,0 +1,17 @@
+80,481,4
+r,1
+mahatmaji,1
+do,1
+you,1
+not,1
+contemplate,1
+some,2
+compromise,1
+with,1
+the,1
+muslim,1
+league,1
+at,1
+stage,1
+or,1
+other,1

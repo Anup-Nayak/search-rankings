@@ -1,0 +1,13 @@
+96,305,4
+1vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+26,1
+8,1
+1947,1
+2,1
+in,1
+december,1
+1945,1

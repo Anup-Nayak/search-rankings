@@ -1,0 +1,8 @@
+79,13,4
+patients,1
+well,1
+taking,1
+regular,1
+injections,1
+1,1
+love,1

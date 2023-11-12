@@ -1,0 +1,7 @@
+60,3,1
+7,1
+letter,1
+to,1
+the,1
+manager,1
+milap,1

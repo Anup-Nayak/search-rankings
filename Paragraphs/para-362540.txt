@@ -1,0 +1,10 @@
+93,378,1
+a,1
+attractiveness,1
+was,2
+inherent,1
+in,1
+everything,1
+that,1
+inherently,1
+good,1

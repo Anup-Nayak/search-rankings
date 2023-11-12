@@ -1,0 +1,13 @@
+82,45,2
+when,1
+his,2
+attention,1
+was,1
+drawn,1
+by,1
+the,2
+associated,1
+press,1
+to,1
+comment,1
+that,1

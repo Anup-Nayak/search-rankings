@@ -1,0 +1,6 @@
+36,362,4
+414,1
+the,1
+universal,1
+cottage,1
+industry,1

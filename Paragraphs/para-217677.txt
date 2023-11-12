@@ -1,0 +1,6 @@
+60,75,1
+96,1
+the,1
+danger,1
+of,1
+imitation,1

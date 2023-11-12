@@ -1,0 +1,8 @@
+69,71,1
+87,1
+speech,1
+at,1
+municipal,1
+colony,1
+bangalore,1
+1,1

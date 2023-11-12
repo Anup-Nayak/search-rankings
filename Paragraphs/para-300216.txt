@@ -1,0 +1,7 @@
+80,31,4
+52,1
+letter,1
+to,1
+a,1
+journalist,1
+1,1

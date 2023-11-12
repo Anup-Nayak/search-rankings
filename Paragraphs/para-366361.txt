@@ -1,0 +1,14 @@
+94,394,10
+1,1
+this,1
+is,1
+written,1
+below,1
+the,2
+letter,1
+to,1
+addressee,1
+dated,1
+april,1
+26,1
+1947,1

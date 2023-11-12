@@ -1,0 +1,6 @@
+91,69,4
+84,1
+letter,1
+to,1
+mathuradas,1
+trinkumji,1

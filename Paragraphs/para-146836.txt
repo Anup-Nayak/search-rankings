@@ -1,0 +1,17 @@
+42,457,6
+1,1
+the,1
+gujarati,1
+original,1
+of,1
+this,2
+appeared,1
+in,1
+navajivan,1
+9,2
+1928,1
+is,1
+a,1
+translation,1
+by,1
+pyarelals,1

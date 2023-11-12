@@ -1,0 +1,7 @@
+35,135,7
+185,1
+letter,1
+to,1
+ram,1
+datta,1
+chopra,1

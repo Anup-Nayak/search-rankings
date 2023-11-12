@@ -1,0 +1,14 @@
+64,17,7
+m,1
+but,1
+if,1
+the,3
+governor,1
+had,1
+been,1
+hostile,1
+planters,1
+would,1
+have,1
+resisted,1
+to,1

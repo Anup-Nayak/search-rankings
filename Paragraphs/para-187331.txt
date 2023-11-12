@@ -1,0 +1,7 @@
+53,84,5
+5,1
+clause,1
+15,1
+re,1
+additional,1
+police,1

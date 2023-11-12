@@ -1,0 +1,9 @@
+22,27,5
+21,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+allahabad,1
+4,1

@@ -1,0 +1,8 @@
+14,468,28
+to,1
+commission,1
+was,2
+that,1
+it,1
+partisan,1
+and,1

@@ -1,0 +1,9 @@
+92,230,14
+effects,1
+of,1
+ones,1
+predestination,2
+since,1
+was,1
+a,1
+reality,1

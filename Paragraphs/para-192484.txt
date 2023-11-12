@@ -1,0 +1,12 @@
+54,213,6
+125,1
+extract,1
+from,1
+proceedings,1
+of,2
+plenary,1
+session,1
+the,1
+round,1
+table,1
+conference,1

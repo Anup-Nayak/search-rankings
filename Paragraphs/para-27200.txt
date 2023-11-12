@@ -1,0 +1,10 @@
+9,134,7
+the,1
+magistrate,1
+you,1
+allowed,1
+him,1
+to,1
+stay,1
+until,1
+then,1

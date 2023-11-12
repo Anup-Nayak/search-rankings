@@ -1,0 +1,13 @@
+92,230,4
+q,1
+when,1
+people,2
+attain,1
+power,1
+they,1
+grow,1
+away,1
+from,1
+the,1
+what,1
+about,1

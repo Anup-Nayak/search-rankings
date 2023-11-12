@@ -1,0 +1,11 @@
+11,487,6
+natal,1
+act,1
+no,1
+30,1
+of,1
+1903,1
+the,2
+immigration,1
+restriction,1
+whole,1

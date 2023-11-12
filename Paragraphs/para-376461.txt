@@ -1,0 +1,8 @@
+97,408,1
+371,1
+speech,1
+at,1
+guru,1
+nanak,1
+birthday,1
+function,1

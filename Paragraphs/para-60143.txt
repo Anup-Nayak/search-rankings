@@ -1,0 +1,5 @@
+17,164,11
+145,1
+letter,1
+kasturba,1
+gandhi,1

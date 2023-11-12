@@ -1,0 +1,9 @@
+80,283,4
+is,2
+determined,1
+to,1
+pass,1
+the,1
+examination,1
+that,1
+good,1

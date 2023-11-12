@@ -1,0 +1,10 @@
+6,68,13
+his,1
+majestys,1
+principal,1
+secretary,1
+of,1
+state,1
+for,1
+the,1
+colonies,1

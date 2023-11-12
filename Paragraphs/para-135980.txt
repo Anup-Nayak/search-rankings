@@ -1,0 +1,13 @@
+39,420,3
+some,1
+are,1
+reputed,1
+to,1
+be,1
+robbers,1
+cattle,1
+lifters,1
+kidnappers,1
+of,1
+women,1
+and,1

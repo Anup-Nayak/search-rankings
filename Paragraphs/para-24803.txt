@@ -1,0 +1,4 @@
+8,291,6
+white,1
+hawkers,1
+right,1

@@ -1,0 +1,13 @@
+59,105,5
+m,1
+k,1
+gandhi,1
+sjt,1
+g,1
+v,1
+gurjale,1
+kripa,1
+asram,1
+tiruvennainallur,1
+s,1
+india,1

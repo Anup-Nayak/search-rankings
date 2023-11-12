@@ -1,0 +1,7 @@
+4,25,2
+21,1
+letter,1
+to,1
+rand,1
+plague,1
+committee,1

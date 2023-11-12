@@ -1,0 +1,11 @@
+61,485,26
+proposals,1
+contained,1
+in,1
+the,1
+white,1
+paper,1
+are,1
+being,1
+freely,1
+rehandled,1

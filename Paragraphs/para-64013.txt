@@ -1,0 +1,8 @@
+18,170,1
+145,1
+written,1
+statement,1
+on,1
+future,1
+plans,1
+1,1

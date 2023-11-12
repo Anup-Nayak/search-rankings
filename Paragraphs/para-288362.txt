@@ -1,0 +1,9 @@
+77,50,14
+began,1
+a,1
+sort,1
+of,1
+round,1
+table,1
+conference,1
+in,1

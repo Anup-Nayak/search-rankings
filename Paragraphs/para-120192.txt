@@ -1,0 +1,15 @@
+35,332,11
+1,1
+a,1
+german,1
+architect,1
+devoted,1
+friend,1
+and,1
+co,1
+worker,1
+of,1
+gandhiji,1
+in,1
+south,1
+africa,1

@@ -1,0 +1,10 @@
+91,443,15
+difficulty,2
+however,1
+he,1
+felt,1
+a,1
+moral,1
+about,1
+this,1
+matter,1

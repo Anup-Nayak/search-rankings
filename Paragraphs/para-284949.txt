@@ -1,0 +1,4 @@
+76,125,7
+that,1
+obstinate,1
+disease,1

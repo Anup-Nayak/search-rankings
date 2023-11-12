@@ -1,0 +1,14 @@
+72,17,14
+i,1
+see,1
+no,1
+objection,1
+to,1
+the,2
+use,1
+of,1
+numeral,1
+68,1
+if,1
+anybody,1
+s,1

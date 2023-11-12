@@ -1,0 +1,7 @@
+83,62,4
+74,1
+letter,1
+to,1
+f,1
+a,1
+fajalbhai,1

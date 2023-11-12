@@ -1,0 +1,11 @@
+82,394,17
+dominion,1
+status,1
+with,1
+the,2
+right,1
+to,1
+secede,1
+from,1
+british,1
+commonwealth,1

@@ -1,0 +1,5 @@
+27,225,10
+choithram,1
+gidwani,1
+hyderabad,1
+sind,1

@@ -1,0 +1,11 @@
+90,94,1
+will,1
+naturally,1
+follow,1
+the,1
+object,1
+1,1
+is,1
+stated,1
+to,1
+be,1

@@ -1,0 +1,12 @@
+58,299,12
+mohandas,1
+gandhi,1
+ps,1
+do,1
+not,1
+take,1
+more,1
+than,1
+half,1
+an,1
+hour,1

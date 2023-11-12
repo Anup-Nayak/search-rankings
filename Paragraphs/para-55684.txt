@@ -1,0 +1,8 @@
+16,131,4
+47,1
+speech,1
+at,1
+gujarat,1
+political,1
+conferenceiii,1
+4,1

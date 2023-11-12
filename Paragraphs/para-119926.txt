@@ -1,0 +1,8 @@
+35,300,7
+c,1
+vijayaraghavachariar,1
+fairy,1
+falls,1
+view,1
+kodaikanal,1
+observatory,1

@@ -1,0 +1,10 @@
+44,223,3
+his,1
+own,1
+task,1
+as,1
+he,2
+may,1
+even,1
+though,1
+fail,1

@@ -1,0 +1,6 @@
+85,72,6
+93,1
+letter,1
+to,1
+shuaib,1
+qureshi,1

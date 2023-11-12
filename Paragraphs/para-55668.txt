@@ -1,0 +1,8 @@
+16,129,3
+45,1
+resolutions,1
+at,1
+gujarat,1
+political,1
+conferencei,1
+1,1

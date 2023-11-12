@@ -1,0 +1,11 @@
+1,250,3
+there,1
+is,1
+a,1
+strong,1
+feeling,1
+amongst,1
+the,1
+merchants,1
+and,1
+shopkeepers,1

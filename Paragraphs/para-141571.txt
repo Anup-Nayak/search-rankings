@@ -1,0 +1,9 @@
+41,298,9
+q,1
+have,1
+they,1
+not,1
+been,1
+useful,1
+in,1
+famines,1

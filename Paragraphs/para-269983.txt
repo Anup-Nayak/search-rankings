@@ -1,0 +1,15 @@
+72,339,4
+there,1
+was,1
+no,3
+universal,1
+education,1
+in,1
+the,1
+past,1
+democratic,1
+unitary,1
+state,1
+national,1
+equalitarian,1
+outlook,1

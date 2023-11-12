@@ -1,0 +1,15 @@
+86,223,7
+r,1
+c,1
+would,1
+you,1
+not,1
+go,1
+to,2
+the,2
+west,1
+teach,1
+them,1
+art,1
+of,1
+peace,1

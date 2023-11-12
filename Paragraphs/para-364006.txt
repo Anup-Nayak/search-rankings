@@ -1,0 +1,6 @@
+94,104,7
+122,1
+letter,1
+to,1
+brijkrishna,1
+chandiwala,1

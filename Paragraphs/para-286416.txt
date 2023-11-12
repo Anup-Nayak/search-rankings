@@ -1,0 +1,13 @@
+76,278,6
+destination,1
+as,1
+such,1
+she,2
+does,2
+not,1
+understand,1
+nor,1
+want,1
+to,1
+what,1
+quality,1

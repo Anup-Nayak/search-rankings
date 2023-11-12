@@ -1,0 +1,8 @@
+82,346,10
+knowledge,1
+from,1
+his,1
+personal,1
+talks,1
+with,1
+you,1

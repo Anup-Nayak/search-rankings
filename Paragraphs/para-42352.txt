@@ -1,0 +1,9 @@
+13,69,21
+majority,1
+europeans,1
+not,1
+affected,1
+by,1
+proviso,1
+but,1
+almost,1

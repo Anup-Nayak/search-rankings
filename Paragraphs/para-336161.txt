@@ -1,0 +1,11 @@
+87,272,15
+1,1
+daughter,2
+of,3
+kanji,1
+jethabhai,1
+desai,1
+bombay,1
+2,1
+vallabhbhai,1
+patel,1

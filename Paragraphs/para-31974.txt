@@ -1,0 +1,12 @@
+10,306,2
+1,1
+a,1
+reference,1
+to,1
+when,1
+in,1
+rome,1
+do,2
+as,1
+the,1
+romans,1

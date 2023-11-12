@@ -1,0 +1,6 @@
+32,68,7
+you,1
+all,1
+strength,1
+bear,1
+loss,1

@@ -1,0 +1,15 @@
+51,150,18
+made,1
+with,1
+equal,1
+force,1
+in,1
+the,2
+case,1
+of,1
+any,1
+other,1
+violent,1
+crime,1
+viceroys,1
+powers,1

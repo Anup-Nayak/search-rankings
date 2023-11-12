@@ -1,0 +1,14 @@
+83,69,2
+if,1
+you,1
+can,1
+give,1
+facilities,1
+to,1
+rajarao,1
+without,1
+much,1
+difficulty,1
+then,1
+do,1
+so,1

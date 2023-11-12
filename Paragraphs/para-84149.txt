@@ -1,0 +1,16 @@
+24,472,9
+become,1
+insane,1
+two,1
+ladies,1
+were,2
+arrested,1
+in,1
+a,1
+village,1
+by,1
+police,1
+they,1
+sent,1
+to,1
+jail,1

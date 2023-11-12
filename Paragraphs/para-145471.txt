@@ -1,0 +1,7 @@
+42,299,4
+342,1
+letter,1
+to,1
+behchar,1
+bhawan,1
+parmar,1

@@ -1,0 +1,10 @@
+39,74,5
+bapu,1
+sjt,1
+satis,1
+chandra,1
+das,1
+gupta,1
+home,1
+villa,1
+giridih,1

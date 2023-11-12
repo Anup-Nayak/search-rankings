@@ -1,0 +1,10 @@
+5,105,3
+1,1
+this,1
+sentence,1
+is,1
+added,1
+in,1
+gandhijis,1
+own,1
+hand,1

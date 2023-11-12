@@ -1,0 +1,12 @@
+15,38,7
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+original,1
+in,2
+gandhijis,1
+hand,1
+published,1
+mahatma,1

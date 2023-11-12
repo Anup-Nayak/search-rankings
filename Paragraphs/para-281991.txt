@@ -1,0 +1,7 @@
+75,258,7
+will,1
+fully,1
+represent,1
+depressed,1
+class,1
+interests,1

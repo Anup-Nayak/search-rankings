@@ -1,0 +1,15 @@
+54,254,11
+a,1
+in,3
+neither,1
+it,1
+resides,1
+each,1
+man,1
+himself,1
+and,2
+the,1
+search,1
+of,1
+perfection,1
+truth,1

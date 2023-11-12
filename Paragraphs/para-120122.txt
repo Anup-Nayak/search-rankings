@@ -1,0 +1,9 @@
+35,324,2
+is,1
+this,1
+the,1
+right,1
+method,1
+of,1
+cow,1
+protection,1

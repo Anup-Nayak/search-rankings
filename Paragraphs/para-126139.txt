@@ -1,0 +1,7 @@
+37,46,11
+49,1
+letter,1
+to,1
+parameshwara,1
+dial,1
+gupta,1

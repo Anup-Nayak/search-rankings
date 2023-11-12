@@ -1,0 +1,6 @@
+37,36,4
+42,1
+conditions,1
+of,1
+pacific,1
+strikes,1

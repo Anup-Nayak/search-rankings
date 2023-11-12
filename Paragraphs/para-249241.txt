@@ -1,0 +1,7 @@
+67,246,3
+388,1
+need,1
+for,1
+a,1
+standard,1
+wage,1

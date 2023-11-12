@@ -1,0 +1,10 @@
+24,33,7
+1,1
+the,2
+exhibition,1
+was,1
+organized,1
+by,1
+rashtriya,1
+stree,1
+sabha,1

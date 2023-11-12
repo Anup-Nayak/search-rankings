@@ -1,0 +1,14 @@
+46,12,9
+cotton,1
+and,1
+spin,1
+for,1
+their,1
+own,1
+use,1
+in,1
+the,1
+sitanagaram,1
+village,1
+alone,1
+yarn,1

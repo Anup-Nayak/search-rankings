@@ -1,0 +1,9 @@
+73,177,3
+health,1
+passable,1
+cant,1
+leave,1
+before,1
+twentieth,1
+dejection,1
+diminishing,1

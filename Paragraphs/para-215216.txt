@@ -1,0 +1,9 @@
+59,324,8
+2,1
+goddess,1
+believed,1
+to,1
+be,1
+cause,1
+of,1
+smallpox,1

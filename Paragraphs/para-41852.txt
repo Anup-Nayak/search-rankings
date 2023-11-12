@@ -1,0 +1,4 @@
+12,477,2
+the,1
+position,1
+analysed,1

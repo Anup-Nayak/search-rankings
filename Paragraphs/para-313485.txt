@@ -1,0 +1,15 @@
+82,300,18
+for,2
+the,2
+task,1
+before,1
+it,3
+offences,1
+are,1
+so,1
+many,1
+that,1
+is,1
+not,1
+possible,1
+to,1

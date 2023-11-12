@@ -1,0 +1,11 @@
+3,89,4
+to,2
+the,3
+private,1
+secretary,1
+his,1
+excellency,1
+governor,1
+of,1
+transvaal,1
+johannesburg,1

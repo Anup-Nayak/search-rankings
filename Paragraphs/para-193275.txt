@@ -1,0 +1,13 @@
+54,315,6
+q,1
+why,1
+dont,2
+you,2
+go,2
+to,2
+bengal,1
+think,1
+it,1
+is,1
+advisable,1
+there,1

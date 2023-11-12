@@ -1,0 +1,11 @@
+30,200,14
+q,1
+who,1
+was,1
+the,2
+other,1
+mussalman,1
+besides,1
+khan,1
+bahadurs,1
+nephew,1

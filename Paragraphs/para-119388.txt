@@ -1,0 +1,14 @@
+35,240,6
+dear,1
+friend,1
+i,1
+hope,1
+to,2
+be,1
+in,1
+poona,1
+wednesday,1
+morning,1
+and,1
+drive,1
+straight,1

@@ -1,0 +1,9 @@
+36,236,3
+sabarmati,1
+friday,1
+sravana,1
+krishna,1
+4,1
+august,1
+27,1
+1926,1

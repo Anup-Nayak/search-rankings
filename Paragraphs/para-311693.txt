@@ -1,0 +1,4 @@
+82,154,3
+hiralal,1
+shastri,1
+jaipur,1

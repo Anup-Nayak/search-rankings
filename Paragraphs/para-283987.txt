@@ -1,0 +1,8 @@
+76,10,5
+am,1
+constant,1
+touch,1
+our,1
+countrymen,1
+south,1
+africa,1

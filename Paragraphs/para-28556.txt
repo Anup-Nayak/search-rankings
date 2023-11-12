@@ -1,0 +1,8 @@
+9,322,12
+fever,1
+hysteria,1
+gaol,1
+authorities,1
+brutal,1
+government,1
+endeavouring,1

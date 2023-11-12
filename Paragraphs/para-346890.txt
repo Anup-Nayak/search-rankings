@@ -1,0 +1,10 @@
+90,30,10
+thanks,1
+letter,1
+may,1
+i,1
+publish,1
+mine,1
+and,1
+your,1
+reply,1

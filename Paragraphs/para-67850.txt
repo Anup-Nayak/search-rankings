@@ -1,0 +1,15 @@
+19,274,6
+sir,1
+c,1
+h,1
+setalvad,1
+panditji,1
+forgets,1
+that,1
+mr,1
+gandhi,1
+by,1
+fasting,1
+for,1
+three,1
+days,1

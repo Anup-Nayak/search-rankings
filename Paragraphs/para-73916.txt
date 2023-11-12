@@ -1,0 +1,13 @@
+21,238,8
+position,1
+he,1
+accepted,1
+the,1
+amendment,1
+regarding,1
+full,1
+self,1
+government,1
+in,1
+his,1
+proposal,1

@@ -1,0 +1,16 @@
+64,67,14
+sacrifice,1
+could,1
+be,2
+too,1
+great,1
+to,2
+offered,1
+in,1
+order,1
+wipe,1
+out,1
+the,1
+deep,1
+and,1
+long,1

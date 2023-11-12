@@ -1,0 +1,12 @@
+13,61,3
+1,1
+vide,1
+letter,1
+to,2
+private,1
+secretary,1
+governor,1
+general,1
+10,1
+4,1
+1913,1

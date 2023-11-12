@@ -1,0 +1,7 @@
+80,154,12
+violence,1
+early,1
+joint,1
+effort,1
+fruitful,1
+through,1

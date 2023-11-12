@@ -1,0 +1,16 @@
+82,122,17
+and,1
+high,1
+price,1
+of,1
+food,1
+stuffs,1
+than,1
+to,1
+orgnize,1
+civic,1
+gurads,1
+speeches,1
+will,1
+not,1
+quench,1

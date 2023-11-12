@@ -1,0 +1,4 @@
+33,449,11
+savoy,1
+hotel,1
+delhi,1

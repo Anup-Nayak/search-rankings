@@ -1,0 +1,7 @@
+10,381,4
+212,1
+indian,1
+national,1
+congress,1
+and,1
+muslims,1

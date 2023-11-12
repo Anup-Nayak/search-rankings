@@ -1,0 +1,12 @@
+51,448,22
+17,1
+a,1
+immovable,1
+property,1
+of,1
+which,1
+possession,1
+has,1
+been,1
+taken,1
+under,1

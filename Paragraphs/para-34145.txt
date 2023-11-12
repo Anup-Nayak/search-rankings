@@ -1,0 +1,4 @@
+11,68,1
+76,1
+passive,1
+resisters,1

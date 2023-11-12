@@ -1,0 +1,7 @@
+52,144,7
+190,1
+letter,1
+to,1
+mohammed,1
+ismail,1
+khan,1

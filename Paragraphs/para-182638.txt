@@ -1,0 +1,9 @@
+52,57,10
+1,1
+the,1
+paragraph,1
+that,1
+follows,1
+is,1
+from,1
+navajivan,1

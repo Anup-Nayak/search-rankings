@@ -1,0 +1,6 @@
+92,337,12
+care,1
+mitravadan,1
+dhru,1
+sankadi,1
+shery,1

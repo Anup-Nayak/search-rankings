@@ -1,0 +1,15 @@
+51,459,13
+be,1
+qualified,1
+by,1
+speeches,1
+which,1
+would,1
+avoid,1
+banging,1
+the,2
+door,1
+in,1
+way,1
+of,1
+peace,1

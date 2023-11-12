@@ -1,0 +1,12 @@
+23,24,16
+more,1
+important,1
+than,1
+that,1
+was,1
+the,2
+charkha,1
+on,1
+which,1
+depended,1
+attainment,1

@@ -1,0 +1,8 @@
+21,111,4
+79,1
+the,1
+congress,1
+and,1
+non,1
+co,1
+operation,1

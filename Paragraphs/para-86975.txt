@@ -1,0 +1,15 @@
+25,415,8
+2,1
+in,2
+answer,1
+to,2
+the,3
+question,1
+as,1
+cause,1
+of,1
+present,1
+outburst,1
+bengal,1
+i,1
+said,1

@@ -1,0 +1,5 @@
+13,387,10
+possession,1
+government,1
+have,1
+repeatedly,1

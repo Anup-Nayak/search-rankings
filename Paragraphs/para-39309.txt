@@ -1,0 +1,12 @@
+12,156,1
+opinion,1
+given,1
+last,1
+year,1
+the,2
+bill,1
+and,2
+natal,1
+cape,1
+immigration,1
+laws,1

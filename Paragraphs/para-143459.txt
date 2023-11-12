@@ -1,0 +1,5 @@
+42,50,5
+72,1
+primary,1
+education,1
+iii,1

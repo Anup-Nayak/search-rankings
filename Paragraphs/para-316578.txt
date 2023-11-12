@@ -1,0 +1,8 @@
+83,69,14
+believe,1
+that,1
+dead,1
+cows,1
+hide,1
+is,1
+sacred,1

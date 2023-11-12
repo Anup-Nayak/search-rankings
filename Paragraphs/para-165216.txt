@@ -1,0 +1,6 @@
+47,328,8
+376,1
+speech,1
+at,1
+meerut,2
+college,1

@@ -1,0 +1,9 @@
+10,31,7
+education,1
+test,1
+and,1
+power,1
+governor,1
+make,1
+regu,1
+lation,1

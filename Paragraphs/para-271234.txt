@@ -1,0 +1,7 @@
+72,475,2
+625,1
+interview,1
+to,1
+the,1
+london,1
+times,1

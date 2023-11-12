@@ -1,0 +1,10 @@
+30,373,11
+n,1
+a,1
+referendum,1
+of,1
+only,1
+the,1
+temple,1
+going,1
+public,1

@@ -1,0 +1,16 @@
+1,98,5
+tomato,1
+&,3
+macaroni,1
+pudding,2
+4,4
+yorkshire,1
+se,2
+haricot,1
+curried,1
+egg,1
+and,1
+rice,1
+sprout,1
+baked,1
+potatoes,1

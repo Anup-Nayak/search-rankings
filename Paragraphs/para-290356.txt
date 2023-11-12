@@ -1,0 +1,5 @@
+77,294,2
+357,1
+adulteration,1
+of,1
+ghee,1

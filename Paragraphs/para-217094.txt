@@ -1,0 +1,17 @@
+59,513,12
+handwriting,1
+on,1
+the,1
+envelope,1
+yours,1
+did,1
+not,1
+seem,1
+as,1
+of,1
+old,1
+perhaps,1
+your,1
+left,1
+hand,1
+was,1

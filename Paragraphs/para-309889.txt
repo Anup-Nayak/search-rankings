@@ -1,0 +1,5 @@
+82,5,1
+8,1
+suppose,1
+germany,1
+wins,1

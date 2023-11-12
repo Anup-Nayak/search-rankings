@@ -1,0 +1,6 @@
+50,249,7
+359,1
+letter,1
+to,1
+kashi,1
+gandhi,1

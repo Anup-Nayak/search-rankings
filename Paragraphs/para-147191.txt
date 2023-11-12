@@ -1,0 +1,10 @@
+43,15,4
+south,1
+africa,1
+indian,1
+congress,1
+sends,1
+me,1
+the,1
+following,1
+cable,1

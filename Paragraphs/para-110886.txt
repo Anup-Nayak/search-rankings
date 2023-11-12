@@ -1,0 +1,9 @@
+33,11,8
+1,1
+editor,1
+kelavani,1
+ankthe,1
+educational,1
+supplement,1
+of,1
+navajivan,1

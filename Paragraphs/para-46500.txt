@@ -1,0 +1,8 @@
+14,72,10
+andrews,1
+lecture,1
+would,1
+do,1
+much,1
+solve,1
+trouble,1

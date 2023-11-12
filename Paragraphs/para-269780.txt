@@ -1,0 +1,6 @@
+72,318,10
+1,1
+daughter,1
+of,1
+manilal,1
+gandhi,1

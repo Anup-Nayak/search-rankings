@@ -1,0 +1,11 @@
+44,491,16
+t2,1
+guj,1
+does,1
+not,1
+have,2
+who,1
+never,1
+seen,1
+indian,1
+opinion,1

@@ -1,0 +1,4 @@
+31,98,7
+conducive,1
+to,1
+sterility,1

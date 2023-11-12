@@ -1,0 +1,14 @@
+52,267,12
+women,1
+of,2
+india,1
+chicago,1
+in,1
+a,1
+letter,1
+to,1
+sr,1
+virchand,1
+r,1
+gandhi,1
+bombay,1

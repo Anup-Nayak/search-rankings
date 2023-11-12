@@ -1,0 +1,5 @@
+42,230,2
+are,1
+we,1
+getting,1
+poorer,1

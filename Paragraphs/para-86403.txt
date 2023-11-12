@@ -1,0 +1,10 @@
+25,340,5
+m,1
+k,1
+gandhi,1
+kumari,1
+padmaja,1
+naidu,1
+golden,1
+threshold,1
+hyderabad,1

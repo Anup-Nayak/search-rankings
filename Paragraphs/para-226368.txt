@@ -1,0 +1,6 @@
+62,76,4
+yours,1
+mohandas,1
+gandhi,1
+from,1
+hindi,1

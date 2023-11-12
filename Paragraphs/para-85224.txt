@@ -1,0 +1,11 @@
+25,174,6
+i,1
+take,1
+the,2
+following,1
+from,1
+letter,1
+of,1
+a,1
+bengali,1
+friend,1

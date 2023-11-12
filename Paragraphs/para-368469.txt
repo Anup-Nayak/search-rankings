@@ -1,0 +1,14 @@
+95,254,1
+this,1
+was,1
+finished,1
+at,1
+9,1
+25,1
+p,1
+m,1
+it,1
+will,1
+be,1
+typed,1
+tomorrow,1

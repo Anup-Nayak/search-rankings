@@ -1,0 +1,7 @@
+6,26,3
+yours,1
+faithfully,1
+enclosure,1
+sam,1
+digby,1
+esq,1

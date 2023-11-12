@@ -1,0 +1,6 @@
+80,96,1
+167,1
+letter,1
+to,1
+iswar,1
+saran,1

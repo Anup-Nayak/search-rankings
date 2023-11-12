@@ -1,0 +1,13 @@
+90,345,7
+dear,1
+major,1
+short,1
+i,1
+have,1
+your,1
+letter,1
+and,1
+the,1
+note,1
+on,1
+procedure,1

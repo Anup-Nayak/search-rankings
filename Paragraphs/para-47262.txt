@@ -1,0 +1,9 @@
+14,165,12
+am,1
+leaving,1
+for,1
+cape,1
+this,1
+evening,1
+reaching,1
+there,1

@@ -1,0 +1,6 @@
+56,237,1
+222,1
+letter,1
+to,1
+puratan,1
+buch,1

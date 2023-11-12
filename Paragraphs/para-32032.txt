@@ -1,0 +1,6 @@
+10,311,23
+helpless,1
+and,1
+patient,1
+under,1
+suffering,1

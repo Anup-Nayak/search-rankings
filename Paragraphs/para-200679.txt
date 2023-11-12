@@ -1,0 +1,6 @@
+56,226,5
+210,1
+letter,1
+to,1
+kasturba,1
+gandhi,1

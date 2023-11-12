@@ -1,0 +1,8 @@
+43,279,5
+352,1
+letter,1
+to,1
+president,1
+latent,1
+light,1
+culture,1

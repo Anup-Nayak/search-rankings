@@ -1,0 +1,16 @@
+40,483,7
+q,1
+a,3
+sudra,1
+may,2
+have,1
+all,1
+the,1
+qualities,1
+of,1
+brahmin,2
+and,1
+yet,1
+not,1
+be,1
+called,1

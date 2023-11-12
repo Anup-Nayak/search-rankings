@@ -1,0 +1,15 @@
+79,237,2
+1,1
+literally,1
+great,1
+leader,2
+honorific,1
+title,1
+given,1
+to,1
+the,1
+muslim,1
+league,1
+mahomed,1
+ali,1
+jinnah,1

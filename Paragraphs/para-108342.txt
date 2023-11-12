@@ -1,0 +1,9 @@
+32,71,6
+1,1
+serpent,1
+sacrifice,1
+2,1
+bhagawad,1
+gita,1
+ii,1
+16,1

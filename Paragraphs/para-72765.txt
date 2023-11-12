@@ -1,0 +1,13 @@
+21,40,8
+great,1
+effort,1
+to,1
+secure,1
+the,2
+abolition,1
+of,2
+indentured,1
+labour,1
+status,1
+our,1
+countrymen,1

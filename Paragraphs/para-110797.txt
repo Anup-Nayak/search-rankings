@@ -1,0 +1,12 @@
+32,469,11
+government,1
+at,1
+present,1
+mahatmaji,1
+for,1
+any,1
+thing,1
+evil,1
+in,1
+this,2
+country,1

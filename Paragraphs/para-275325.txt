@@ -1,0 +1,7 @@
+73,430,10
+594,1
+letter,1
+to,1
+harishankar,1
+pandya,1
+2,1

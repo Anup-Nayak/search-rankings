@@ -1,0 +1,4 @@
+80,482,13
+h,1
+adult,1
+education,1

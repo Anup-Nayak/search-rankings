@@ -1,0 +1,11 @@
+32,286,12
+men,1
+are,2
+borned,1
+naked,1
+but,1
+to,1
+them,1
+two,1
+hands,1
+given,1

@@ -1,0 +1,4 @@
+10,22,9
+polak,1
+reuter,1
+bombay,1

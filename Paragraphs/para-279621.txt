@@ -1,0 +1,9 @@
+74,452,4
+dont,1
+go,1
+jaipur,1
+now,1
+till,1
+certified,1
+by,1
+doctors,1

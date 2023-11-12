@@ -1,0 +1,8 @@
+66,18,7
+24,1
+letter,1
+to,1
+p,1
+v,1
+krishna,1
+reddi,1

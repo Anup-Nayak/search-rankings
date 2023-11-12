@@ -1,0 +1,4 @@
+19,394,4
+mode,1
+of,1
+collection,1

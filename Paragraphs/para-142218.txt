@@ -1,0 +1,11 @@
+41,379,8
+yours,1
+sincerely,1
+miss,1
+alice,1
+schalek,1
+austrian,1
+journalist,1
+nerons,1
+hotel,1
+lahore,1

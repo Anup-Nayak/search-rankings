@@ -1,0 +1,7 @@
+61,161,10
+religious,1
+ceremony,1
+devdas,1
+marriage,1
+friday,1
+registration,1

@@ -1,0 +1,14 @@
+64,67,9
+they,1
+were,1
+allowed,1
+freely,1
+to,2
+mix,1
+with,1
+all,2
+classes,1
+of,1
+society,1
+and,1
+practise,1

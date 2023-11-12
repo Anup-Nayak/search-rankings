@@ -1,0 +1,8 @@
+75,15,6
+quite,1
+well,1
+taking,1
+needed,1
+rest,1
+no,1
+anxiety,1

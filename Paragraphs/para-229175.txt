@@ -1,0 +1,9 @@
+62,454,21
+is,1
+unable,1
+to,1
+stand,1
+the,2
+strain,1
+of,1
+tour,1

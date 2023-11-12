@@ -1,0 +1,12 @@
+47,405,5
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4528,1
+courtesy,1
+swarthmore,1
+college,1
+phila,1
+delphia,1

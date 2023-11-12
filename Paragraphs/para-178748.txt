@@ -1,0 +1,14 @@
+51,100,9
+action,1
+as,1
+the,1
+congress,1
+had,1
+not,1
+launched,1
+a,1
+campaign,1
+of,1
+travelling,1
+without,1
+tickets,1

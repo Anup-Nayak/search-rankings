@@ -1,0 +1,15 @@
+40,330,9
+1,1
+gandhiji,1
+arrived,1
+in,1
+bombay,1
+on,2
+october,1
+29,1
+and,1
+left,1
+for,1
+delhi,1
+the,1
+30th,1

@@ -1,0 +1,15 @@
+68,266,2
+q,1
+can,1
+person,1
+who,1
+has,1
+taken,1
+the,1
+vow,1
+of,1
+non,1
+possession,1
+become,1
+a,1
+trustee,1

@@ -1,0 +1,5 @@
+43,43,5
+47,1
+atrocities,1
+by,1
+officials,1

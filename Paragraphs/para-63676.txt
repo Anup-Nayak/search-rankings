@@ -1,0 +1,5 @@
+18,128,8
+just,2
+laws,1
+administration,1
+largely,1

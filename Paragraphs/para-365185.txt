@@ -1,0 +1,8 @@
+94,249,4
+245,1
+message,1
+for,1
+people,1
+of,1
+vietnam,1
+1,1

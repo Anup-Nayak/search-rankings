@@ -1,0 +1,3 @@
+12,441,1
+particular,1
+difficulties,1

@@ -1,0 +1,12 @@
+67,102,6
+shri,2
+annapurna,1
+kumari,1
+c/o,1
+gopabandhu,1
+chowdhary,1
+p,1
+o,1
+bari,1
+district,1
+cuttack,1

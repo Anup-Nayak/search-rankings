@@ -1,0 +1,14 @@
+8,439,2
+the,4
+magisstrate,1
+question,1
+is,2
+whether,1
+putting,1
+in,2
+of,1
+gazette,1
+not,1
+sufficient,1
+notice,1
+itself,1

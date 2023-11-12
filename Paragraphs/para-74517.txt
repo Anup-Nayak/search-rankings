@@ -1,0 +1,14 @@
+21,348,11
+over,1
+this,1
+he,2
+felt,1
+that,2
+they,2
+recognized,1
+his,1
+affection,1
+knew,1
+had,1
+their,1
+self,1

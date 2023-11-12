@@ -1,0 +1,11 @@
+86,77,4
+question,1
+what,1
+is,2
+soul,1
+force,1
+how,1
+it,1
+related,1
+to,1
+satyagraha,1

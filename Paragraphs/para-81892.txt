@@ -1,0 +1,15 @@
+24,99,12
+khadi,2
+cloth,1
+and,1
+a,2
+swaraj,1
+cap,1
+he,1
+said,1
+that,1
+though,1
+was,1
+bit,1
+coarse,1
+they,1

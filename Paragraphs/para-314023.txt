@@ -1,0 +1,12 @@
+82,342,14
+unless,1
+they,1
+put,1
+their,2
+own,1
+houses,1
+in,1
+order,1
+by,1
+making,1
+it,1

@@ -1,0 +1,10 @@
+66,276,6
+from,1
+gujarati,1
+c,1
+w,1
+9850,1
+courtesy,1
+narayan,1
+j,1
+sampat,1

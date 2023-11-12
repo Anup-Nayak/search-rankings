@@ -1,0 +1,7 @@
+33,274,3
+fast,1
+broken,1
+condition,1
+perfect,1
+hope,1
+kamala,1

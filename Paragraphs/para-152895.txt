@@ -1,0 +1,8 @@
+44,229,4
+1,1
+illusion,1
+ignorance,1
+of,1
+ones,1
+real,1
+self,1

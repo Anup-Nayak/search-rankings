@@ -1,0 +1,6 @@
+16,415,5
+285,1
+letter,1
+t0,1
+devdas,1
+gandhi,1

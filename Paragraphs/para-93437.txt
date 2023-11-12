@@ -1,0 +1,16 @@
+27,403,26
+e,1
+from,1
+5,1
+1,2
+24,2
+to,1
+17,1
+rice,1
+diet,2
+in,1
+lieu,1
+of,1
+ordinary,1
+on,1
+account,1

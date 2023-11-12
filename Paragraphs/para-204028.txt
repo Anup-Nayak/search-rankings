@@ -1,0 +1,10 @@
+57,116,6
+september,1
+25,1
+1932,1
+lawrence,1
+housman,1
+46,1
+lancaster,1
+gate,1
+london,1

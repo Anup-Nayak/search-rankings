@@ -1,0 +1,17 @@
+87,179,8
+1,1
+in,1
+the,4
+source,1
+letter,1
+is,2
+placed,1
+after,1
+items,1
+of,1
+june,1
+26,1
+1945,1
+2,1
+name,1
+illegible,1

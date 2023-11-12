@@ -1,0 +1,8 @@
+79,184,14
+ressmen,1
+continue,1
+amery,1
+s,1
+assurance,1
+given,1
+you,1

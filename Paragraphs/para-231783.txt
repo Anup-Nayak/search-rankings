@@ -1,0 +1,7 @@
+63,334,3
+367,1
+speech,1
+at,1
+prayer,1
+meeting,1
+sitamarhi,1

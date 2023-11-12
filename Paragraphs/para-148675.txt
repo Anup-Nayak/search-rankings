@@ -1,0 +1,5 @@
+43,186,1
+226,1
+buffaloes,1
+for,1
+slaughter,1

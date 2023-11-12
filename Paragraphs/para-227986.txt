@@ -1,0 +1,14 @@
+62,290,4
+mr,1
+shambu,1
+sastri,1
+asked,1
+if,1
+gandhiji,1
+accepted,1
+the,2
+authority,1
+of,1
+vedas,1
+most,1
+certainly,1

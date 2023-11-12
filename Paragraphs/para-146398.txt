@@ -1,0 +1,11 @@
+42,406,3
+the,2
+same,1
+correspondent,1
+writes,1
+as,1
+follows,1
+about,1
+primus,1
+stove,1
+1,1

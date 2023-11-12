@@ -1,0 +1,14 @@
+23,300,5
+in,1
+reply,1
+to,1
+further,1
+questions,1
+mahatma,1
+gandhi,1
+said,1
+his,1
+movement,1
+was,1
+a,1
+great,1

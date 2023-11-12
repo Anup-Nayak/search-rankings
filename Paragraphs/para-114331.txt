@@ -1,0 +1,11 @@
+33,468,24
+brahma,3
+is,3
+reason,1
+spirit,1
+but,1
+anna,1
+also,1
+which,1
+means,1
+that,1

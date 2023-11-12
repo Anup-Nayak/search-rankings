@@ -1,0 +1,8 @@
+50,221,1
+letter,1
+it,1
+has,1
+been,1
+a,1
+painful,1
+story,1

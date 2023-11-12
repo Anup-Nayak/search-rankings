@@ -1,0 +1,8 @@
+87,40,12
+shri,1
+ramkishore,1
+nandkeolyar,1
+nanda,1
+vilas,1
+gaya,1
+bihar,1

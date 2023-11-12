@@ -1,0 +1,5 @@
+72,59,6
+89,1
+the,1
+fundamental,1
+difference,1

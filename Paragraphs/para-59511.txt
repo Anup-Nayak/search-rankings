@@ -1,0 +1,5 @@
+17,82,1
+67,1
+appeal,1
+for,1
+enlistment,1

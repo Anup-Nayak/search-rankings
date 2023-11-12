@@ -1,0 +1,9 @@
+52,45,9
+vague,1
+charges,1
+continuing,1
+harassment,1
+have,1
+asked,1
+him,1
+give,1

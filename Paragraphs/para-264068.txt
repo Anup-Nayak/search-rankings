@@ -1,0 +1,8 @@
+71,75,8
+1,2
+vide,1
+speech,1
+at,1
+thiruvattar,1
+14,1
+1937,1

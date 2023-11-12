@@ -1,0 +1,14 @@
+91,288,12
+even,1
+if,1
+he,1
+be,1
+your,1
+relation,1
+do,1
+not,1
+try,1
+to,1
+hide,1
+his,1
+faults,1

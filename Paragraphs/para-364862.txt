@@ -1,0 +1,15 @@
+94,205,17
+gandhiji,1
+said,1
+that,1
+as,1
+he,2
+entered,1
+the,2
+house,1
+was,1
+struck,1
+with,1
+its,1
+simplicity,1
+and,1

@@ -1,0 +1,6 @@
+77,150,5
+180,1
+letter,1
+to,1
+kanu,1
+gandhi,1

@@ -1,0 +1,4 @@
+8,67,2
+the,1
+finger,1
+prints,1

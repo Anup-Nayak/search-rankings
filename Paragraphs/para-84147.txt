@@ -1,0 +1,16 @@
+24,472,7
+his,1
+mother,1
+she,2
+took,1
+long,1
+to,1
+know,1
+of,1
+her,1
+sons,1
+plight,1
+petitioned,1
+for,1
+a,1
+proper,1

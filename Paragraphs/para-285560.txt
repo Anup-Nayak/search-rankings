@@ -1,0 +1,10 @@
+76,191,12
+continues,1
+seventy,1
+per,1
+cent,1
+should,1
+be,1
+devoted,1
+famine,1
+relief,1

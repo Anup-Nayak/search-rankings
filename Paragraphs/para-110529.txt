@@ -1,0 +1,4 @@
+32,450,2
+compulsory,1
+military,1
+training,1

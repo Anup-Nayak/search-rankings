@@ -1,0 +1,7 @@
+8,89,2
+to,1
+other,1
+indians,1
+in,1
+south,1
+africa,1

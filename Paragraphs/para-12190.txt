@@ -1,0 +1,6 @@
+5,52,1
+45,1
+education,1
+among,1
+the,1
+kaffirs,1

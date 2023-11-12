@@ -1,0 +1,12 @@
+14,376,6
+the,2
+bombay,1
+chronicle,1
+4,1
+3,2
+1915,2
+and,1
+amrita,1
+bazar,1
+patrika,1
+5,1

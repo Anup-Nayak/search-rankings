@@ -1,0 +1,15 @@
+97,30,7
+it,1
+is,1
+by,1
+my,1
+cross,1
+that,1
+i,1
+can,1
+climb,1
+into,1
+the,1
+heart,1
+of,1
+humanity,1

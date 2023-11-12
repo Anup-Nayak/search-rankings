@@ -1,0 +1,15 @@
+23,24,27
+besides,1
+they,1
+would,1
+have,1
+sent,1
+a,1
+large,1
+amount,1
+of,1
+money,1
+to,2
+buy,1
+the,1
+machinery,1

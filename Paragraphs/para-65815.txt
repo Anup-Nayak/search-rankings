@@ -1,0 +1,5 @@
+19,5,1
+6,1
+native,1
+states,1
+subjects,1

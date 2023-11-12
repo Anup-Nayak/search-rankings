@@ -1,0 +1,6 @@
+42,442,8
+sadashiva,1
+rao,1
+karnad,1
+kodaibail,1
+mangalore,1

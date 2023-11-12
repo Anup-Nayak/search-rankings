@@ -1,0 +1,10 @@
+77,50,15
+which,1
+one,1
+member,1
+did,1
+not,1
+know,1
+what,1
+the,1
+other,1

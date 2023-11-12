@@ -1,0 +1,7 @@
+13,141,9
+sat,1
+case,1
+amendment,1
+accepted,1
+yesterday,1
+by,1

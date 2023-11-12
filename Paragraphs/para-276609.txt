@@ -1,0 +1,6 @@
+74,102,4
+155,1
+talk,1
+to,1
+khudai,1
+khidmatgarsi,1

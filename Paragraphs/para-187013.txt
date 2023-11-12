@@ -1,0 +1,13 @@
+53,50,6
+1,1
+vide,1
+notes,1
+sub,1
+title,1
+picketing,1
+2,1
+from,1
+july,1
+7,1
+to,1
+13,1

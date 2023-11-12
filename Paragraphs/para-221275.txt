@@ -1,0 +1,16 @@
+61,16,2
+5,1
+will,1
+the,2
+orthodox,1
+allow,1
+harijans,1
+to,1
+enter,1
+temples,1
+when,1
+temple,1
+entry,1
+bills,1
+are,1
+passed,1

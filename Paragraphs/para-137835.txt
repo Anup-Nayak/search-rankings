@@ -1,0 +1,16 @@
+40,237,5
+i,1
+am,1
+anxious,1
+to,2
+know,1
+what,2
+you,2
+thought,1
+of,1
+the,2
+spinning,1
+essay,1
+and,1
+said,1
+viceroy,1

@@ -1,0 +1,13 @@
+82,385,30
+he,3
+succeeded,1
+that,2
+might,2
+take,1
+on,1
+the,1
+job,1
+and,1
+succeed,1
+similarly,1
+if,1

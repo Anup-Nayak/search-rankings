@@ -1,0 +1,8 @@
+52,98,3
+122,1
+the,1
+allahabad,1
+congress,1
+hospital,1
+an,1
+appeal,1

@@ -1,0 +1,7 @@
+32,460,3
+letter,1
+from,1
+b,1
+c,1
+chatterjee,1
+sir,1

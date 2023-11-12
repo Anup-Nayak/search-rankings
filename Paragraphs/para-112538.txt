@@ -1,0 +1,16 @@
+33,262,10
+1,1
+the,4
+source,1
+has,1
+entry,1
+4,1
+2,1
+1925,1
+but,1
+day,1
+and,1
+date,1
+do,1
+not,1
+tally,1

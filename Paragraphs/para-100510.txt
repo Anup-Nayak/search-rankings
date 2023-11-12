@@ -1,0 +1,16 @@
+29,375,10
+2,1
+from,1
+the,1
+reference,1
+to,1
+gandhijis,1
+stay,1
+at,1
+sabarmati,1
+where,1
+he,1
+arrived,1
+on,1
+november,1
+26,1

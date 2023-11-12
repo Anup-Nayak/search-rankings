@@ -1,0 +1,12 @@
+65,94,4
+yours,1
+sincerely,1
+shri,1
+akshaya,1
+kumar,1
+roy,1
+18,1
+gobra,2
+hospital,1
+road,1
+calcutta,1

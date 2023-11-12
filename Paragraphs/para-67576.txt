@@ -1,0 +1,12 @@
+19,244,10
+you,2
+were,2
+asked,1
+about,1
+the,2
+rowlatt,2
+bills,1
+and,1
+told,1
+that,1
+act,1

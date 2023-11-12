@@ -1,0 +1,13 @@
+2,56,16
+by,2
+coolies,1
+the,1
+table,1
+linen,1
+is,1
+washed,1
+another,1
+coolie,1
+and,1
+in,1
+all,1

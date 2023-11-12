@@ -1,0 +1,9 @@
+16,49,9
+mohandas,1
+gandhi,1
+bhaishri,1
+bhagwanji,1
+anoopchand,1
+rajkot,1
+city,1
+kathiawar,1

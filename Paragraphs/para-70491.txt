@@ -1,0 +1,11 @@
+20,153,8
+a,1
+i,2
+said,1
+they,2
+were,2
+coming,1
+and,2
+going,1
+fancy,1
+collecting,1

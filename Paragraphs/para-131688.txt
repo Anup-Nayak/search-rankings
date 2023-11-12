@@ -1,0 +1,13 @@
+38,322,2
+the,3
+labour,1
+camp,1
+where,1
+i,1
+thought,1
+must,1
+be,1
+living,1
+coolies,1
+working,1
+at,1

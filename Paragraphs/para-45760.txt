@@ -1,0 +1,9 @@
+14,0,3
+pray,1
+assure,1
+his,1
+excellency,1
+from,1
+your,1
+knowledge,1
+of,1

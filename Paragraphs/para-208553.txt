@@ -1,0 +1,7 @@
+58,130,11
+185,1
+anti,1
+untouchability,1
+day,1
+1,1
+programme,1

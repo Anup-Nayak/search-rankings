@@ -1,0 +1,11 @@
+53,101,4
+q,1
+was,1
+there,1
+any,1
+talk,1
+about,1
+the,1
+round,1
+table,1
+conference,1

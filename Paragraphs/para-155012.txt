@@ -1,0 +1,6 @@
+45,16,2
+all,1
+boys,1
+shouted,1
+yes,1
+thrice,1

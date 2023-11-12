@@ -1,0 +1,16 @@
+42,464,31
+inquiry,1
+but,1
+to,2
+avoid,1
+having,1
+consider,1
+and,1
+allow,1
+for,1
+an,1
+increase,1
+in,1
+the,1
+cost,1
+of,1

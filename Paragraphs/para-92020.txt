@@ -1,0 +1,8 @@
+27,197,5
+m,1
+k,1
+gandhi,1
+sir,1
+ibrahim,1
+rahimtulla,1
+bombay,1

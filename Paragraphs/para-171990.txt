@@ -1,0 +1,16 @@
+49,295,1
+ps,1
+how,1
+do,1
+you,1
+make,1
+rigid,1
+the,2
+little,1
+wheel,1
+on,1
+spindle,1
+when,1
+it,1
+gets,1
+loose,1

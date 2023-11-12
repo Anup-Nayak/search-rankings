@@ -1,0 +1,7 @@
+96,308,1
+424,1
+address,1
+to,1
+muslim,1
+merchants,1
+1,1

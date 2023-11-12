@@ -1,0 +1,7 @@
+72,384,9
+stood,1
+strain,1
+well,1
+date,1
+departure,1
+uncertain,1

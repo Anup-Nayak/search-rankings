@@ -1,0 +1,14 @@
+89,306,8
+women,1
+should,1
+go,1
+to,2
+villages,1
+and,2
+work,1
+there,1
+they,1
+must,1
+attend,1
+the,1
+health,1

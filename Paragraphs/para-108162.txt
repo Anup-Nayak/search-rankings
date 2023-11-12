@@ -1,0 +1,6 @@
+32,37,5
+so,1
+glad,1
+charlie,1
+with,1
+you,1

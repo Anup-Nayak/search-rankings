@@ -1,0 +1,7 @@
+66,153,8
+1,1
+restraint,1
+vide,1
+bhagavat,1
+gita,1
+iii,1

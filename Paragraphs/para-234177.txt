@@ -1,0 +1,13 @@
+64,87,8
+purses,1
+and,1
+then,1
+gandhiji,1
+asked,1
+shri,1
+shankarrao,1
+lavate,1
+the,1
+well,1
+known,1
+veteran,1

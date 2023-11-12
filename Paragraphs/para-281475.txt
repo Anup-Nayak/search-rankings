@@ -1,0 +1,9 @@
+75,202,8
+gandhiji,1
+wise,1
+journalists,1
+never,1
+go,1
+to,1
+the,1
+root,1

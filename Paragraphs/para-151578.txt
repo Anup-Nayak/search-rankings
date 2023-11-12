@@ -1,0 +1,13 @@
+43,525,8
+it,1
+matters,1
+little,1
+if,1
+any,2
+action,2
+of,2
+mine,1
+annoys,1
+you,1
+today,1
+or,1

@@ -1,0 +1,6 @@
+61,190,13
+thanks,1
+regret,1
+inability,1
+attend,1
+1,1

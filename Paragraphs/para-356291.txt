@@ -1,0 +1,7 @@
+92,186,1
+264,1
+letter,1
+to,1
+annada,1
+shanker,1
+chaudhary,1

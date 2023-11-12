@@ -1,0 +1,15 @@
+23,483,8
+of,1
+the,2
+speeches,1
+not,1
+only,1
+in,2
+india,1
+but,1
+also,1
+united,1
+kingdom,1
+mr,1
+gandhi,1
+agreed,1

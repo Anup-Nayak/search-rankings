@@ -1,0 +1,4 @@
+21,82,9
+satyagraha,1
+ashram,1
+sabarmati,1

@@ -1,0 +1,7 @@
+68,173,8
+bapua,1
+unique,1
+association,1
+vol,1
+ii,1
+p,1

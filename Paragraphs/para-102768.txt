@@ -1,0 +1,11 @@
+30,205,13
+a,1
+those,1
+are,2
+ordinary,1
+things,1
+and,1
+not,1
+worth,1
+mentioning,1
+here,1

@@ -1,0 +1,7 @@
+47,281,2
+1,1
+merit,1
+accruing,1
+from,1
+virtuous,1
+action,1

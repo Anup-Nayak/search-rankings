@@ -1,0 +1,15 @@
+66,431,2
+m,1
+k,1
+gandhi,1
+shri,1
+mahavir,1
+prasad,1
+gupta,1
+rendi,1
+godown,1
+p,1
+o,1
+bindki,1
+dist,1
+fatehpur,1

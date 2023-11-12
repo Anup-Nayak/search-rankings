@@ -1,0 +1,5 @@
+19,300,6
+1,1
+temporary,1
+canopied,1
+structure,1

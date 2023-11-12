@@ -1,0 +1,6 @@
+42,243,4
+however,1
+brilliant,1
+and,1
+self,1
+controlled,1

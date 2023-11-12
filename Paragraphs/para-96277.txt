@@ -1,0 +1,12 @@
+28,346,6
+have,1
+ready,1
+nothing,1
+much,1
+to,2
+communicate,1
+that,1
+will,1
+be,1
+allowed,1
+go,1

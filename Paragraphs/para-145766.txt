@@ -1,0 +1,6 @@
+42,331,1
+388,1
+speech,1
+on,1
+discipline,1
+rayam,1

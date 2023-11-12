@@ -1,0 +1,14 @@
+25,226,3
+congratulate,1
+you,2
+and,1
+your,1
+husband,1
+expect,1
+ahmedabad,1
+amrita,1
+bazar,1
+patrika,1
+13,1
+12,1
+1921,1

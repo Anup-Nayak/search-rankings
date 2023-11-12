@@ -1,0 +1,13 @@
+53,147,3
+but,2
+not,1
+so,1
+that,1
+of,1
+the,2
+japanese,2
+modern,1
+will,1
+drive,1
+a,1
+bargain,1

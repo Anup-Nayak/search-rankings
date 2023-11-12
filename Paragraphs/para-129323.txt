@@ -1,0 +1,16 @@
+38,25,6
+as,1
+sita,2
+used,1
+to,2
+do,1
+and,2
+also,1
+follow,1
+the,1
+examples,1
+of,1
+by,1
+leading,1
+a,1
+simple,1

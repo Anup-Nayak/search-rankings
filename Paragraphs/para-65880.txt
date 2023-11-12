@@ -1,0 +1,14 @@
+19,9,8
+convictions,2
+of,1
+the,1
+inner,1
+soul,1
+more,1
+she,1
+did,1
+not,1
+care,1
+whether,1
+these,1
+were,1

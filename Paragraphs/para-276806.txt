@@ -1,0 +1,10 @@
+74,123,12
+for,1
+the,1
+purpose,1
+of,1
+crystallizing,1
+hindustani,1
+hindi,1
+and,1
+urdu,1

@@ -1,0 +1,9 @@
+27,297,5
+you,1
+should,1
+not,1
+fast,1
+nor,2
+break,1
+scale,1
+fence,1

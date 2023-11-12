@@ -1,0 +1,8 @@
+1,149,3
+40,1
+a,1
+circular,1
+letter,1
+to,1
+legislator,1
+11,1

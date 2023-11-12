@@ -1,0 +1,11 @@
+82,409,27
+make,1
+a,1
+distinction,1
+between,2
+high,1
+caste,1
+hindus,2
+and,1
+untouchables,1
+or,1

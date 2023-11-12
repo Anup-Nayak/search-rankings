@@ -1,0 +1,11 @@
+67,12,7
+1,1
+addressees,1
+wife,1
+2,1
+vide,1
+also,1
+the,1
+preceding,1
+two,1
+items,1

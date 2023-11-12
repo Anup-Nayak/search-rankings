@@ -1,0 +1,10 @@
+54,349,15
+scope,1
+or,1
+subject,1
+of,1
+discussion,1
+and,1
+i,1
+on,1
+my,1

@@ -1,0 +1,10 @@
+54,66,6
+q,1
+then,1
+what,1
+the,1
+daily,1
+herald,1
+said,1
+is,1
+true,1

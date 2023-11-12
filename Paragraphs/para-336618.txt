@@ -1,0 +1,8 @@
+87,318,4
+1,1
+nirmala,1
+addressees,2
+wife,1
+2,1
+sumitra,1
+daughter,1

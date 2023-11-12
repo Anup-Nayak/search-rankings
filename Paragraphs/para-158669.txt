@@ -1,0 +1,14 @@
+46,46,3
+the,1
+rest,1
+are,1
+fly,1
+shuttle,1
+looms,1
+none,1
+of,1
+these,1
+use,1
+hand,1
+spun,1
+yarn,1

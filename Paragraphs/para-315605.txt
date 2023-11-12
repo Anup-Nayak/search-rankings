@@ -1,0 +1,16 @@
+82,412,4
+me,1
+it,2
+has,1
+very,1
+little,1
+good,1
+in,1
+some,1
+day,1
+this,1
+ruthlessness,1
+will,1
+create,1
+an,1
+anarchy,1

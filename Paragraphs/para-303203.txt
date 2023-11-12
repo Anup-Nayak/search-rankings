@@ -1,0 +1,9 @@
+80,320,7
+bapu,1
+shri,1
+padmaja,1
+naidu,1
+red,1
+hills,1
+hyderabad,1
+deccan,1

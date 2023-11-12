@@ -1,0 +1,11 @@
+9,99,10
+audience,1
+expressed,1
+whole,1
+hearted,1
+approval,1
+of,2
+the,2
+plan,1
+campaign,1
+and,1

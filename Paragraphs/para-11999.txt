@@ -1,0 +1,14 @@
+5,15,7
+1,1
+sir,1
+arthur,1
+lawley,1
+was,1
+appointed,1
+governor,1
+of,1
+madras,1
+on,1
+november,1
+24,1
+1905,1

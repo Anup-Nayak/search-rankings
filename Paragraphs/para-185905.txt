@@ -1,0 +1,9 @@
+52,417,14
+1,1
+rom,1
+which,1
+only,1
+extracts,1
+are,1
+reproduced,1
+here,1

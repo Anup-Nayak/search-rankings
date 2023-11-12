@@ -1,0 +1,17 @@
+60,440,1
+report,2
+which,1
+i,2
+shall,2
+read,1
+with,1
+attention,1
+and,1
+glance,1
+through,1
+the,2
+of,1
+gurukul,1
+seva,1
+sangh,1
+also,1

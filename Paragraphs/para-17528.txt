@@ -1,0 +1,7 @@
+6,241,4
+shop,1
+and,1
+residence,1
+in,1
+same,1
+premises,1

@@ -1,0 +1,13 @@
+82,402,28
+cows,1
+and,1
+by,1
+religious,1
+processions,1
+that,3
+means,1
+it,1
+is,1
+our,1
+superstitions,1
+create,1

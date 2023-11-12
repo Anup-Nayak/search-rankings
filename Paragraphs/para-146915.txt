@@ -1,0 +1,15 @@
+42,464,30
+rental,1
+statistics,1
+as,1
+his,1
+one,1
+true,1
+guide,1
+not,1
+to,1
+check,1
+the,2
+results,1
+of,1
+indirect,1

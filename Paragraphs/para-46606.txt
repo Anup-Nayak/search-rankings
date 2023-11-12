@@ -1,0 +1,7 @@
+14,82,2
+blessings,1
+from,2
+bapu,1
+gujarati,1
+jivannu,1
+parodh,1

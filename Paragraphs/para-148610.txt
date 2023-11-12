@@ -1,0 +1,6 @@
+43,177,6
+2,1
+vide,1
+the,1
+national,1
+congress,1

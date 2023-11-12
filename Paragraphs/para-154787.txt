@@ -1,0 +1,6 @@
+44,505,25
+t12,1
+guj,1
+adds,1
+then,1
+current,1

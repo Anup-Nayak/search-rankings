@@ -1,0 +1,7 @@
+13,27,4
+22,1
+general,1
+knowledge,1
+about,1
+health,1
+xiii,1

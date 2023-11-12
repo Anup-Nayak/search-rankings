@@ -1,0 +1,9 @@
+57,31,8
+received,1
+no,1
+cause,2
+being,1
+upset,1
+every,1
+for,1
+rejoicing,1

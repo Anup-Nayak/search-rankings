@@ -1,0 +1,4 @@
+7,16,5
+untouchability,1
+in,1
+market,1

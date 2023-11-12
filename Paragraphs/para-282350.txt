@@ -1,0 +1,14 @@
+75,301,10
+q,1
+had,1
+mr,2
+gandhi,1
+heard,1
+it,1
+said,1
+that,1
+bose,1
+was,1
+an,1
+undesirable,1
+man,1

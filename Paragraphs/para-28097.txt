@@ -1,0 +1,13 @@
+9,254,4
+1,1
+vide,1
+treatment,1
+in,2
+prison,1
+a,1
+marched,1
+concicts,1
+farb,1
+31,1
+10,1
+1908,1

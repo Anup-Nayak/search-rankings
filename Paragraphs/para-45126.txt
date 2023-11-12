@@ -1,0 +1,8 @@
+13,426,26
+bullets,1
+and,1
+took,1
+declarations,1
+readiness,1
+under,1
+oath,1

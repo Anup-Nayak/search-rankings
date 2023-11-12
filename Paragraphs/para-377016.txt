@@ -1,0 +1,17 @@
+98,5,6
+q,1
+now,1
+that,1
+we,2
+have,1
+our,1
+own,1
+government,2
+should,1
+accept,1
+assistance,1
+from,1
+the,1
+for,1
+instance,1
+scholarships,1

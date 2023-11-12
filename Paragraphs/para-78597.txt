@@ -1,0 +1,16 @@
+23,24,23
+women,1
+rich,1
+and,2
+poor,1
+old,1
+young,1
+in,1
+this,1
+great,1
+task,1
+he,1
+wanted,1
+the,1
+poorest,1
+men,1

@@ -1,0 +1,12 @@
+70,250,2
+while,1
+i,1
+write,1
+this,1
+amtul,1
+salaam,1
+is,1
+sewing,1
+seated,1
+beside,1
+me,1

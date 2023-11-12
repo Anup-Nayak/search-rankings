@@ -1,0 +1,8 @@
+47,246,3
+a,1
+gentleman,1
+from,1
+distant,1
+uganda,1
+writes,1
+1,1

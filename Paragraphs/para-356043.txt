@@ -1,0 +1,17 @@
+92,157,2
+dr,1
+r,1
+g,1
+cochrane,1
+principal,1
+of,1
+the,1
+missionary,1
+medical,1
+college,1
+for,1
+women,1
+in,1
+vellore,1
+writes,1
+1,1

@@ -1,0 +1,12 @@
+82,380,28
+association,2
+but,1
+could,1
+not,1
+hold,1
+the,2
+exempt,1
+from,1
+liability,1
+to,1
+pay,1

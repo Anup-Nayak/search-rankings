@@ -1,0 +1,13 @@
+16,488,4
+power,1
+on,1
+the,1
+people,1
+acting,1
+through,1
+their,1
+chosen,1
+representatives,1
+in,1
+councils,1
+and,1

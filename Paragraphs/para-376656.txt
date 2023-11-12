@@ -1,0 +1,10 @@
+97,438,11
+1,1
+addressees,1
+wife,1
+and,1
+daughter,1
+of,1
+abdul,1
+kadir,1
+bawazeer,1

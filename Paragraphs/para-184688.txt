@@ -1,0 +1,12 @@
+52,273,2
+swaraj,1
+ashram,1
+bardoli,1
+june,1
+5,1
+1931,1
+ghanshyamdas,1
+birla,1
+care,1
+lucky,1
+culcutta,1

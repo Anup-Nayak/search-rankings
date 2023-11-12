@@ -1,0 +1,10 @@
+78,149,22
+too,1
+tall,1
+a,1
+claim,1
+then,1
+i,2
+say,1
+do,1
+not,1

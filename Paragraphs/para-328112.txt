@@ -1,0 +1,10 @@
+85,419,12
+1,1
+up,1
+to,1
+this,1
+the,1
+letter,1
+is,1
+in,1
+gujarati,1

@@ -1,0 +1,8 @@
+37,348,2
+1,1
+sages,1
+in,1
+the,1
+ramayana,1
+2,1
+ibid,1

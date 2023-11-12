@@ -1,0 +1,10 @@
+62,423,8
+1,1
+the,1
+two,1
+paragraphs,1
+that,1
+follow,1
+are,1
+in,1
+english,1

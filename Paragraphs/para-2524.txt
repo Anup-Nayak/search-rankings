@@ -1,0 +1,8 @@
+2,30,7
+been,1
+disinfected,1
+every,1
+day,1
+since,1
+leaving,1
+bombay,1

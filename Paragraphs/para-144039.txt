@@ -1,0 +1,7 @@
+42,134,1
+155,1
+letter,1
+to,1
+florence,1
+k,1
+krebs,1

@@ -1,0 +1,6 @@
+41,15,1
+17,1
+letter,1
+to,1
+ada,1
+rosengreen,1

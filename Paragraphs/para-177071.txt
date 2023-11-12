@@ -1,0 +1,11 @@
+50,400,4
+1,1
+here,1
+gandhiji,1
+has,1
+left,1
+untranslated,1
+the,1
+words,1
+u,1
+s,1

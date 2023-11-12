@@ -1,0 +1,11 @@
+77,140,4
+butchered,1
+women,1
+and,2
+girls,1
+raped,1
+kidnapped,1
+hindu,1
+life,1
+property,1
+unsafe,1

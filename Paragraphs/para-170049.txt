@@ -1,0 +1,13 @@
+49,44,14
+1,1
+peace,1
+of,2
+mind,1
+2,1
+wisdom,1
+sumati,1
+is,1
+the,2
+name,1
+addressees,1
+wife,1

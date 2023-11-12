@@ -1,0 +1,16 @@
+24,421,2
+1,1
+1861,1
+1944,1
+scientist,1
+and,1
+patriot,1
+2,1
+sir,1
+j,1
+c,1
+bose,1
+f,1
+r,1
+s,1
+botanist,1

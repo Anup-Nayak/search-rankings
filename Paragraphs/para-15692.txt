@@ -1,0 +1,9 @@
+6,50,5
+39,1
+letter,1
+to,1
+messrs,1
+cameron,1
+kim,1
+&,1
+co,1

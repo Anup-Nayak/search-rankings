@@ -1,0 +1,5 @@
+13,427,3
+diate,1
+vigorous,1
+co,1
+operation,1

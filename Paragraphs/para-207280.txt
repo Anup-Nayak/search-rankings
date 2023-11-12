@@ -1,0 +1,6 @@
+57,445,19
+walchand,1
+hirachand,1
+a,1
+r,1
+bhat,1

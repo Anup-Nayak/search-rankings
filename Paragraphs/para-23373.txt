@@ -1,0 +1,8 @@
+8,52,2
+who,1
+can,1
+harm,1
+those,1
+whom,1
+god,1
+protects,1

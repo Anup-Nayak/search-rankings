@@ -1,0 +1,10 @@
+96,308,6
+harijan,1
+21,1
+9,2
+1947,2
+and,1
+amrita,1
+bazar,1
+patrika,1
+1,1

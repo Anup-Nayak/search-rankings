@@ -1,0 +1,9 @@
+90,362,9
+1,1
+from,1
+which,1
+only,1
+extracts,1
+are,1
+reproduced,1
+here,1

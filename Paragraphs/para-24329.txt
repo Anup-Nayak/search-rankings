@@ -1,0 +1,6 @@
+8,206,2
+dinner,1
+to,1
+friends,1
+of,1
+indians,1

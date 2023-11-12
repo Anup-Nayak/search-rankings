@@ -1,0 +1,7 @@
+5,196,3
+187,1
+the,1
+fate,1
+of,1
+san,1
+francisco,1

@@ -1,0 +1,14 @@
+33,344,19
+of,1
+the,2
+settlers,1
+is,1
+not,1
+accepted,1
+by,1
+union,1
+government,1
+it,1
+should,1
+be,1
+decided,1

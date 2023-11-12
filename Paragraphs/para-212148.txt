@@ -1,0 +1,13 @@
+58,490,1
+this,1
+fight,1
+but,1
+i,1
+do,1
+not,1
+know,1
+how,1
+you,1
+can,1
+come,1
+out,1

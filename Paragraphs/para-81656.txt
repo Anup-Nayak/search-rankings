@@ -1,0 +1,13 @@
+24,60,2
+your,1
+loyal,1
+servant,1
+mohandas,1
+karamchand,1
+gandhi,1
+from,1
+gujarati,1
+navajivan,1
+14,1
+8,1
+1921,1

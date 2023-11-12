@@ -1,0 +1,7 @@
+44,480,19
+t5,1
+guj,1
+has,1
+sin,1
+is,1
+inescapable,1

@@ -1,0 +1,13 @@
+52,25,4
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+10719,1
+courtesy,1
+gomatibehn,1
+mashruwala,1

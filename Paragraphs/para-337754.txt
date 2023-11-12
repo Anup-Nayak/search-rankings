@@ -1,0 +1,10 @@
+87,425,1
+do,1
+write,1
+all,1
+the,1
+news,1
+about,2
+yourself,1
+how,1
+hassa,1

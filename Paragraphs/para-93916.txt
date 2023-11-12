@@ -1,0 +1,8 @@
+27,453,16
+1,1
+the,2
+reference,1
+is,1
+to,1
+kheda,1
+satyagraha,1

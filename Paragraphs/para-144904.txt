@@ -1,0 +1,6 @@
+42,235,3
+m,1
+ada,1
+rosengreen,1
+lidingo,1
+sweden,1

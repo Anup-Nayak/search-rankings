@@ -1,0 +1,13 @@
+90,247,8
+delhi,1
+april,1
+12,1
+1946,1
+god,1
+is,1
+our,1
+help,1
+as,2
+well,1
+the,1
+helmsman,1

@@ -1,0 +1,10 @@
+94,71,15
+gandhiji,1
+in,1
+champaran,1
+nobody,1
+ordered,1
+anybody,1
+4,1
+it,1
+was,1

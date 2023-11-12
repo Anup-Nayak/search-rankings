@@ -1,0 +1,4 @@
+53,128,6
+salaries,1
+under,1
+swaraj,1

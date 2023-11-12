@@ -1,0 +1,4 @@
+5,482,1
+444,1
+juvenile,1
+smoking,1

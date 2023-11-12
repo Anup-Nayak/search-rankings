@@ -1,0 +1,7 @@
+86,386,4
+associated,1
+press,1
+sanfrancisco,1
+u,1
+s,1
+a,1

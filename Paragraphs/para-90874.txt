@@ -1,0 +1,8 @@
+27,70,6
+69,1
+letter,1
+to,1
+a,1
+d,1
+skene,1
+catling,1

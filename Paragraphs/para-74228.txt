@@ -1,0 +1,12 @@
+21,288,3
+boycott,1
+of,1
+schools,1
+and,1
+colleges,1
+owned,1
+or,1
+controlled,1
+by,1
+the,1
+government,1

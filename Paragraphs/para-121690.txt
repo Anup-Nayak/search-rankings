@@ -1,0 +1,9 @@
+36,44,7
+2,1
+the,2
+article,1
+was,1
+sent,1
+with,1
+succeeding,1
+item,1

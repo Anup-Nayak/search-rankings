@@ -1,0 +1,10 @@
+57,246,8
+and,2
+other,1
+co,1
+workers,1
+have,1
+been,1
+wishing,1
+in,1
+praying,1

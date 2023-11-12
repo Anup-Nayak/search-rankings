@@ -1,0 +1,15 @@
+82,269,4
+must,1
+hinder,1
+the,2
+present,1
+war,1
+effort,1
+government,1
+cannot,1
+allow,1
+it,1
+if,1
+they,1
+do,1
+you,1

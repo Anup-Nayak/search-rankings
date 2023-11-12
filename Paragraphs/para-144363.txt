@@ -1,0 +1,7 @@
+42,182,2
+sabarmati,1
+thursday,1
+june,1
+28,1
+1928,1
+1,1

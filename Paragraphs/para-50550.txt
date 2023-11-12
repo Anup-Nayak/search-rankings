@@ -1,0 +1,4 @@
+15,48,2
+respectful,1
+prostration,1
+by,1

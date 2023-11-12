@@ -1,0 +1,11 @@
+81,511,14
+stores,1
+for,2
+profit,1
+but,1
+release,1
+them,1
+consumption,1
+at,1
+fair,1
+prices,1

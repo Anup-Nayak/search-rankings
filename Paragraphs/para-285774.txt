@@ -1,0 +1,7 @@
+76,215,4
+273,1
+another,1
+temple,1
+opened,1
+to,1
+harijans,1

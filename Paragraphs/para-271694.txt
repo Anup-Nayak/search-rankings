@@ -1,0 +1,15 @@
+73,22,8
+mahatma,1
+gandhi,1
+wanted,1
+it,1
+to,2
+be,1
+realized,1
+that,1
+the,1
+main,1
+object,1
+of,1
+his,1
+visit,1

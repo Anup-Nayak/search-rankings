@@ -1,0 +1,12 @@
+61,382,7
+dont,1
+lose,1
+heart,1
+of,1
+course,1
+i,1
+can,1
+understand,1
+your,1
+deep,1
+sentiment,1

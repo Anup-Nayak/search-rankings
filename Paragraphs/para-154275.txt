@@ -1,0 +1,8 @@
+44,485,28
+t5,1
+guj,1
+does,1
+not,1
+have,1
+this,1
+word,1

@@ -1,0 +1,12 @@
+21,476,6
+speaker,1
+advised,1
+the,1
+students,1
+to,1
+leave,1
+schools,1
+and,1
+colleges,1
+without,1
+bothering,1

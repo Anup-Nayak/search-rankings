@@ -1,0 +1,16 @@
+32,319,1
+complete,1
+recovery,1
+i,1
+am,1
+certain,1
+if,1
+you,2
+stay,1
+at,1
+hajira,1
+will,1
+be,1
+completely,1
+all,1
+right,1

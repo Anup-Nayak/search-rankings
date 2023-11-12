@@ -1,0 +1,7 @@
+10,218,1
+misses,1
+polak,1
+suggestion,1
+to,1
+start,1
+newspaper,1

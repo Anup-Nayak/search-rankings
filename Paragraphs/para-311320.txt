@@ -1,0 +1,14 @@
+82,122,5
+physical,1
+form,1
+as,1
+we,1
+they,2
+are,1
+activated,1
+by,1
+the,1
+same,1
+human,1
+desires,1
+feel,1

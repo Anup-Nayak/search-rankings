@@ -1,0 +1,15 @@
+57,210,9
+mohandas,1
+gandhi,1
+sjt,1
+tribhuvandas,1
+trikamlal,1
+amritbhavan,1
+railwaypura,1
+maninagar,1
+ahmedabad,1
+b,2
+&,1
+c,1
+i,1
+rly,1

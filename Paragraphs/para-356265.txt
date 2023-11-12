@@ -1,0 +1,4 @@
+92,183,4
+260,1
+village,1
+university,1

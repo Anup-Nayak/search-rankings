@@ -1,0 +1,9 @@
+1,472,5
+from,1
+a,1
+handwritten,1
+office,1
+copy,1
+s,1
+n,1
+1310,1

@@ -1,0 +1,9 @@
+17,424,3
+n,1
+a,1
+i,1
+home,1
+politicala,1
+may,1
+1919,1
+nos,1

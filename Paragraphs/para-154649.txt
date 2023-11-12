@@ -1,0 +1,11 @@
+44,499,7
+t4,1
+for,1
+i,2
+built,1
+up,1
+such,1
+guj,1
+has,1
+had,1
+acquired,1

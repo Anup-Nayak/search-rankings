@@ -1,0 +1,7 @@
+20,31,3
+raja,1
+sir,1
+rampal,1
+singh,1
+alfred,1
+bingley,1

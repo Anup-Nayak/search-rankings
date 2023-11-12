@@ -1,0 +1,8 @@
+57,146,9
+gandhi,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+18566,1

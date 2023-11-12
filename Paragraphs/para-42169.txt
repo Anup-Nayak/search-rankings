@@ -1,0 +1,8 @@
+13,46,17
+residence,1
+therein,1
+of,1
+rights,1
+hitherto,1
+possessed,1
+proviso,1

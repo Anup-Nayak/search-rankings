@@ -1,0 +1,9 @@
+78,211,9
+q,1
+can,1
+the,2
+following,1
+persons,1
+take,1
+satyagraha,1
+pledge,1

@@ -1,0 +1,6 @@
+4,19,1
+14,1
+mercury,1
+and,1
+indentured,1
+labour,1

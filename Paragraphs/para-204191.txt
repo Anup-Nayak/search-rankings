@@ -1,0 +1,11 @@
+57,130,16
+is,1
+not,1
+opened,1
+to,2
+harijans,1
+and,1
+subject,1
+my,1
+consent,1
+you,1

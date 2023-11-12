@@ -1,0 +1,12 @@
+46,157,31
+explain,1
+them,2
+for,1
+us,1
+nor,1
+are,1
+we,1
+literate,1
+enough,1
+to,1
+know,1

@@ -1,0 +1,6 @@
+83,237,2
+6,1
+tea,1
+coffee,1
+and,1
+cocoa,1

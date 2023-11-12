@@ -1,0 +1,5 @@
+90,195,3
+eating,1
+with,1
+harijans,1
+1,1

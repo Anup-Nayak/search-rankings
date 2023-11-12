@@ -1,0 +1,7 @@
+28,69,3
+37,1
+hindus,1
+and,1
+muslims,1
+of,1
+visnagar,1

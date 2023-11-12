@@ -1,0 +1,11 @@
+79,104,4
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+10861,1
+courtesy,1
+prithvi,1
+singh,1

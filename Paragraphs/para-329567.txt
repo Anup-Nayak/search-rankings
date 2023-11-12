@@ -1,0 +1,4 @@
+86,86,3
+bapu,1
+from,1
+hindi,1

@@ -1,0 +1,14 @@
+21,475,11
+speaker,1
+then,1
+asked,1
+them,1
+to,1
+remember,1
+that,1
+his,1
+non,2
+co,1
+operation,1
+was,1
+violent,1

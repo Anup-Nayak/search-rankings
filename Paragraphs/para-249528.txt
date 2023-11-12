@@ -1,0 +1,12 @@
+67,272,4
+g,1
+yes,1
+that,1
+is,2
+what,1
+you,1
+do,1
+but,1
+it,1
+hygienically,1
+bad,1

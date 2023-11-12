@@ -1,0 +1,4 @@
+10,412,7
+aid,1
+from,1
+rangoon,1

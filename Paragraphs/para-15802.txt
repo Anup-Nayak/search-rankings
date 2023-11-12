@@ -1,0 +1,16 @@
+6,60,3
+mr,1
+dadabhai,1
+said,1
+that,1
+the,2
+british,1
+government,1
+would,1
+stand,1
+disgraced,1
+if,1
+oppression,1
+of,1
+indians,1
+continued,1

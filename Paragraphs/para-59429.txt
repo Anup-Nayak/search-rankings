@@ -1,0 +1,7 @@
+17,73,21
+excellency,1
+the,2
+governor,1
+to,1
+withdraw,1
+aspersions,1

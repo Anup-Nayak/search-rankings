@@ -1,0 +1,6 @@
+10,310,10
+how,1
+shall,1
+we,1
+escape,1
+tolstoy,1

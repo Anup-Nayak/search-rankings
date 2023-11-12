@@ -1,0 +1,16 @@
+82,331,7
+ba,1
+is,1
+flourishing,1
+did,1
+i,4
+tell,1
+you,1
+had,1
+gone,1
+up,1
+to,1
+101,1
+lb,1
+think,1
+have,1

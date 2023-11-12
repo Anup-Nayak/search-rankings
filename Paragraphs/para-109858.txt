@@ -1,0 +1,16 @@
+32,339,7
+bill,1
+if,1
+you,1
+could,1
+express,1
+your,1
+opinion,1
+strongly,1
+in,1
+support,1
+of,1
+it,1
+and,1
+also,1
+urge,1

@@ -1,0 +1,7 @@
+84,57,9
+57,1
+letter,1
+to,1
+annada,1
+shankar,1
+chowdhari,1

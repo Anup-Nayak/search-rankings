@@ -1,0 +1,7 @@
+16,173,6
+77,1
+letter,1
+to,1
+kalyanji,1
+vithalbhai,1
+mehta,1

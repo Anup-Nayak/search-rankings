@@ -1,0 +1,4 @@
+74,451,11
+prime,1
+minister,1
+cuttack,1

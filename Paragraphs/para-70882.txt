@@ -1,0 +1,12 @@
+20,210,11
+viewpoint,1
+i,1
+therefore,1
+applied,1
+for,2
+permission,1
+self,1
+and,1
+party,1
+to,1
+his,1

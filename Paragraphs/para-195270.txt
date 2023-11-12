@@ -1,0 +1,14 @@
+55,24,1
+you,2
+can,1
+have,2
+cod,1
+liver,1
+oil,1
+massage,1
+even,1
+if,1
+never,1
+taken,1
+it,1
+orally,1

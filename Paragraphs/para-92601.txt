@@ -1,0 +1,10 @@
+27,289,7
+1,1
+this,1
+was,1
+published,1
+under,1
+the,2
+title,1
+ambiguous,1
+middle,1

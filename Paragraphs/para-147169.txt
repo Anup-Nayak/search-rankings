@@ -1,0 +1,12 @@
+43,12,5
+m,1
+k,1
+g,1
+shrimati,1
+padmaja,1
+naidu,1
+tubercular,1
+sanatorium,1
+arogyavaram,1
+chittoor,1
+dist,1

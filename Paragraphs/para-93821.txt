@@ -1,0 +1,11 @@
+27,444,2
+1,1
+this,1
+was,1
+the,2
+fee,1
+for,1
+ordinary,1
+membership,1
+of,1
+congress,1

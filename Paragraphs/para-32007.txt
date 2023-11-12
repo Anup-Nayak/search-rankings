@@ -1,0 +1,6 @@
+10,310,19
+a,1
+joy,1
+for,1
+ever,1
+ruskin,1

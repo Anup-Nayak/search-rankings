@@ -1,0 +1,10 @@
+89,15,5
+proceed,1
+new,1
+delhi,1
+and,1
+see,1
+devdas,1
+who,1
+has,1
+instructions,1

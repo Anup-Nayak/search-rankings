@@ -1,0 +1,12 @@
+40,246,2
+155,1
+hindu,1
+law,1
+and,1
+mysore,1
+sjt,1
+bhashyam,1
+aiyengar,1
+of,1
+bangalore,1
+writes,1

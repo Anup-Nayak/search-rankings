@@ -1,0 +1,7 @@
+36,376,10
+bapu,1
+bhai,1
+mathuradas,1
+trikumji,1
+panchgani,2
+castle,1

@@ -1,0 +1,10 @@
+43,34,9
+2,2
+vide,1
+working,1
+committees,1
+resolutions,1
+at,1
+bardoli,1
+12,1
+1922,1

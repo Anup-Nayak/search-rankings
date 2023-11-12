@@ -1,0 +1,9 @@
+1,40,7
+2,1
+dr,1
+josiah,1
+oldfield,1
+editor,1
+of,1
+the,1
+vegetarian,1

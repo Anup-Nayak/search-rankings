@@ -1,0 +1,9 @@
+89,375,2
+a,1
+letter,1
+from,1
+karnataka,1
+contains,1
+the,1
+following,1
+information,1

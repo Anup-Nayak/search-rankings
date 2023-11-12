@@ -1,0 +1,7 @@
+6,299,5
+274,1
+the,1
+mercury,1
+and,1
+indian,1
+traders,1

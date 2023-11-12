@@ -1,0 +1,7 @@
+89,432,9
+561,1
+letter,1
+to,1
+pattom,1
+thanu,1
+pillai,1

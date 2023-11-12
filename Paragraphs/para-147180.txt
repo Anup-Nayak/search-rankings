@@ -1,0 +1,6 @@
+43,13,5
+7,1
+my,1
+attitude,1
+towards,1
+war,1

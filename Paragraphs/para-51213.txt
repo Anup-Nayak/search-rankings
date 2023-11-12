@@ -1,0 +1,7 @@
+15,107,7
+june,1
+20,1
+sunday,1
+nothing,1
+worth,1
+noting,1

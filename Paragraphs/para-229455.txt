@@ -1,0 +1,6 @@
+63,22,3
+18,1
+letter,1
+to,1
+rukminidevi,1
+bazaj,1

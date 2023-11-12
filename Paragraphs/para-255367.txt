@@ -1,0 +1,13 @@
+68,445,15
+5,1
+that,1
+in,1
+the,1
+choice,1
+of,1
+technical,1
+terms,1
+specially,1
+political,1
+terminology,1
+no,1

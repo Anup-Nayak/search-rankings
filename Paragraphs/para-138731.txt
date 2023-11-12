@@ -1,0 +1,6 @@
+40,387,1
+262,1
+ready,1
+made,1
+khadi,1
+clothes,1

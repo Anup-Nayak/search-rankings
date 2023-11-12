@@ -1,0 +1,9 @@
+13,145,16
+one,1
+wife,1
+is,2
+concerned,1
+stop,1
+it,1
+true,1
+no,1

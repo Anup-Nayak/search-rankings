@@ -1,0 +1,15 @@
+94,8,10
+the,2
+government,1
+do,1
+if,1
+majority,1
+had,1
+become,1
+so,1
+hostile,1
+that,1
+they,1
+would,1
+not,1
+tolerate,1

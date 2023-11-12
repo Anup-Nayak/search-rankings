@@ -1,0 +1,14 @@
+32,458,12
+knew,1
+of,2
+many,1
+schools,1
+where,1
+in,1
+spite,1
+the,2
+very,1
+best,2
+teachers,1
+trying,1
+their,1

@@ -1,0 +1,12 @@
+5,390,6
+1,1
+a,1
+late,1
+nineteenth,1
+century,1
+gujarati,1
+poet,1
+whom,1
+gandhiji,1
+often,1
+quotes,1

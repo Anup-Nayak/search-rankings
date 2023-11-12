@@ -1,0 +1,9 @@
+45,76,3
+77,1
+speech,1
+at,1
+kotri,1
+congress,1
+committee,1
+meeting,1
+2,1

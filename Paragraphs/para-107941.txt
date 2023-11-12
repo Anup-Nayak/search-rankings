@@ -1,0 +1,12 @@
+32,1,8
+unperturbed,1
+i,1
+want,1
+you,1
+be,1
+brave,1
+and,1
+make,1
+every,1
+man,1
+your,1

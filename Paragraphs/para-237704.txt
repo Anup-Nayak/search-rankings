@@ -1,0 +1,7 @@
+65,27,12
+29,1
+letter,1
+to,1
+balvantrai,1
+p,1
+thakore,1

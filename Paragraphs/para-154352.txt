@@ -1,0 +1,8 @@
+44,488,18
+t4,1
+guj,1
+does,1
+not,1
+have,1
+and,1
+through,1

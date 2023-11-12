@@ -1,0 +1,14 @@
+82,103,6
+should,1
+be,1
+able,1
+to,2
+meet,1
+material,1
+force,1
+with,1
+spiritual,1
+power,1
+it,1
+is,1
+horrifying,1

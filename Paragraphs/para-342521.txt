@@ -1,0 +1,8 @@
+89,0,2
+sodepur,1
+december,1
+7,1
+1945,1
+h,2
+agakhan,1
+bombay,1

@@ -1,0 +1,13 @@
+33,207,3
+mr,1
+gandhi,1
+proposes,1
+to,1
+stay,1
+in,1
+his,1
+ashram,1
+for,1
+full,1
+one,1
+month,1

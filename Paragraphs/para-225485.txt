@@ -1,0 +1,7 @@
+61,471,2
+letter,1
+from,1
+v,1
+s,1
+srinivasa,1
+sastri1,1

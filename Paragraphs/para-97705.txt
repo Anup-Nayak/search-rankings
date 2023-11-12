@@ -1,0 +1,11 @@
+29,33,4
+bardoli,1
+61,1
+others,1
+21,1
+broach,1
+12,1
+khadimandai,1
+16,1
+total,1
+503,1

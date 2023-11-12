@@ -1,0 +1,8 @@
+21,12,3
+9,1
+statement,1
+by,1
+non,1
+co,1
+operation,1
+committee,1

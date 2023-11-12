@@ -1,0 +1,16 @@
+44,472,29
+t9,1
+in,1
+guj,1
+the,2
+following,1
+clause,1
+precedes,1
+word,1
+i,1
+again,2
+and,1
+see,1
+from,1
+experience,1
+that,1

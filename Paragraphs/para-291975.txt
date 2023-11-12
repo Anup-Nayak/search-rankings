@@ -1,0 +1,16 @@
+78,35,17
+unsuccessful,1
+and,1
+we,1
+win,1
+the,2
+war,1
+in,1
+spite,1
+of,1
+it,1
+very,1
+people,1
+who,1
+i,1
+firmly,1

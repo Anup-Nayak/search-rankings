@@ -1,0 +1,8 @@
+40,470,2
+312,1
+speech,1
+at,1
+tellipalli,1
+weaving,1
+school,1
+jaffna,1

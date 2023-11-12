@@ -1,0 +1,9 @@
+6,306,7
+authorities,1
+every,1
+way,1
+community,1
+feels,1
+taking,1
+ten,1
+digit,1

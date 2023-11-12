@@ -1,0 +1,11 @@
+51,155,2
+jawaharlal,1
+the,3
+viceroy,1
+has,1
+virtues,1
+and,1
+weaknesses,1
+of,1
+average,1
+englishman,1

@@ -1,0 +1,15 @@
+82,400,6
+mammon,1
+they,1
+will,1
+not,1
+make,1
+a,2
+better,1
+world,1
+there,1
+is,1
+danger,1
+that,1
+the,1
+democracies,1

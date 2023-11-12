@@ -1,0 +1,17 @@
+60,463,12
+yours,1
+mohandas,1
+gandhi,1
+ps,1
+do,1
+send,2
+me,1
+the,2
+address,1
+to,1
+which,1
+i,2
+should,1
+article,1
+have,1
+written,1

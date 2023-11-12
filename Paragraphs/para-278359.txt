@@ -1,0 +1,8 @@
+74,309,8
+to,1
+the,1
+place,1
+from,1
+which,1
+they,1
+came,1

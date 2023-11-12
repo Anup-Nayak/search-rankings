@@ -1,0 +1,14 @@
+95,170,2
+1,1
+the,1
+following,1
+two,1
+sentences,1
+are,1
+reproduced,1
+from,2
+harijan,2
+2,1
+this,1
+sentence,1
+is,1

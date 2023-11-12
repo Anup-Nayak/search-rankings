@@ -1,0 +1,14 @@
+75,389,12
+g,1
+blessings,1
+you,2
+always,1
+have,3
+in,1
+plenty,1
+help,2
+i,1
+given,1
+now,1
+to,1
+yourselves,1

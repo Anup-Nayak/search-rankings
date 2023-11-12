@@ -1,0 +1,7 @@
+1,120,2
+from,1
+the,1
+typescript,1
+courtesy,1
+pyarelal,1
+nayyar,1

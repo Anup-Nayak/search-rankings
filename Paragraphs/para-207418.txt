@@ -1,0 +1,9 @@
+58,17,4
+must,1
+not,1
+suppress,1
+our,1
+personal,1
+happiness,1
+over,1
+the,1

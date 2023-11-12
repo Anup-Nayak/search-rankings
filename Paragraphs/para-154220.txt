@@ -1,0 +1,13 @@
+44,484,6
+t7,1
+for,1
+i,1
+carefully,1
+watered,1
+and,1
+tended,1
+it,2
+guj,1
+has,1
+grew,1
+up,1

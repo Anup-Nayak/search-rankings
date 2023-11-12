@@ -1,0 +1,6 @@
+79,430,2
+sevagram,1
+wardha,1
+december,1
+10,1
+1940,1

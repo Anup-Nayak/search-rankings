@@ -1,0 +1,7 @@
+24,196,8
+foreign,1
+cloth,1
+and,1
+manufacture,1
+of,1
+khadi,1

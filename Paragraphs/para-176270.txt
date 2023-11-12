@@ -1,0 +1,3 @@
+50,285,4
+friday,1
+morning,1

@@ -1,0 +1,13 @@
+40,6,3
+1,1
+miss,1
+ananda,1
+bai,1
+of,1
+the,1
+law,1
+college,1
+had,1
+collected,1
+rs,1
+150,1

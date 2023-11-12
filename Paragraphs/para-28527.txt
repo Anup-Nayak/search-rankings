@@ -1,0 +1,12 @@
+9,317,3
+number,1
+with,1
+initial,1
+letter,1
+777,1
+pretoria,1
+prison,1
+transvaal,1
+march,1
+25,1
+1909,1

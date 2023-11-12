@@ -1,0 +1,9 @@
+98,195,7
+read,1
+the,1
+enclosed,1
+and,1
+do,1
+whatever,1
+is,1
+proper,1

@@ -1,0 +1,3 @@
+80,485,1
+profound,1
+respect,1

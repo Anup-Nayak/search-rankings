@@ -1,0 +1,6 @@
+35,342,3
+442,1
+co,1
+operation,1
+in,1
+spinning,1

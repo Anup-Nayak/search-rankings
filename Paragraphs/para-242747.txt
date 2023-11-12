@@ -1,0 +1,13 @@
+66,86,10
+1,1
+the,1
+letter,1
+being,1
+damaged,1
+here,1
+one,1
+sentence,1
+following,1
+this,1
+is,1
+illegible,1

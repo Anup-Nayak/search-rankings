@@ -1,0 +1,11 @@
+45,262,5
+1,1
+not,1
+clear,1
+in,1
+the,2
+photostat,1
+source,2
+printed,1
+has,1
+kaka,1

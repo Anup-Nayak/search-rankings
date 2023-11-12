@@ -1,0 +1,14 @@
+64,230,3
+but,1
+we,1
+have,1
+our,1
+misgiving,1
+about,1
+the,2
+policy,1
+they,1
+will,1
+adopt,1
+in,1
+assembly,1

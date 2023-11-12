@@ -1,0 +1,8 @@
+21,234,4
+139,1
+the,1
+non,1
+co,1
+operation,1
+resolution,1
+1,1

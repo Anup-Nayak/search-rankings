@@ -1,0 +1,11 @@
+10,94,3
+passively,1
+resist,1
+utmost,1
+the,1
+second,1
+cablegram,1
+dated,1
+16th,1
+instant,1
+reads,1

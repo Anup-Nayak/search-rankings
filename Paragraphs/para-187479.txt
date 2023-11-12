@@ -1,0 +1,9 @@
+53,107,5
+1857,1
+external,1
+wars,1
+of,1
+the,1
+company,1
+35,1
+000,1

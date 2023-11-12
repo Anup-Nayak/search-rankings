@@ -1,0 +1,7 @@
+83,121,5
+132,1
+fasting,1
+in,1
+non,1
+violent,1
+action,1

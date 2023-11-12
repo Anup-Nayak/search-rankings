@@ -1,0 +1,10 @@
+32,377,8
+1,1
+the,1
+takli,1
+or,1
+spindle,1
+like,1
+contrivance,1
+for,1
+spinning,1

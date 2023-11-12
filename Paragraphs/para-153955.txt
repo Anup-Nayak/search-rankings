@@ -1,0 +1,9 @@
+44,475,15
+t2,1
+guj,1
+does,1
+not,1
+have,1
+of,1
+vegetarian,1
+fame,1

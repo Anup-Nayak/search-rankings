@@ -1,0 +1,12 @@
+21,14,3
+1,1
+henry,1
+david,1
+thoreau,1
+1817,1
+1862,1
+american,1
+recluse,1
+naturalist,1
+and,1
+writer,1

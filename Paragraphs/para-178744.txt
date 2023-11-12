@@ -1,0 +1,10 @@
+51,100,5
+speaking,1
+to,1
+the,1
+boatmens,1
+representative,1
+and,1
+some,1
+congressmen,1
+gandhiji,1

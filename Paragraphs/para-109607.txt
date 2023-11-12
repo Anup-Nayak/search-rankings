@@ -1,0 +1,10 @@
+32,309,5
+bapu,1
+shri,1
+narandas,1
+khushalchand,1
+gandhi,1
+opp,1
+middle,1
+school,1
+navapara,1

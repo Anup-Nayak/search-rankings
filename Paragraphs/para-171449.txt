@@ -1,0 +1,7 @@
+49,231,12
+your,1
+fight,1
+for,1
+truth,1
+and,1
+justice,1

@@ -1,0 +1,14 @@
+16,99,28
+important,1
+because,1
+it,1
+is,1
+calculated,1
+not,1
+only,1
+to,1
+produce,1
+a,1
+higher,1
+degree,1
+of,1

@@ -1,0 +1,7 @@
+18,30,5
+25,1
+letter,1
+to,1
+f,1
+c,1
+griffith,1

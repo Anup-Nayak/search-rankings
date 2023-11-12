@@ -1,0 +1,3 @@
+42,229,9
+kashi,1
+vidyapith,1

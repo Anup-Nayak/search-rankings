@@ -1,0 +1,12 @@
+40,26,3
+from,1
+a,1
+photos,1
+tat,1
+of,1
+the,1
+gujara,1
+ti,1
+c,1
+w,1
+251,1

@@ -1,0 +1,15 @@
+14,187,30
+not,1
+even,1
+aspire,1
+to,1
+the,2
+franchise,1
+or,1
+if,1
+aspiration,1
+existed,1
+it,1
+was,1
+with,1
+no,1

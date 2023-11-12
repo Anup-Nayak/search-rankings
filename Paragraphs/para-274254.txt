@@ -1,0 +1,8 @@
+73,336,10
+428,1
+instructions,1
+on,1
+precautions,1
+against,1
+cholera,1
+2,1

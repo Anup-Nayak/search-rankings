@@ -1,0 +1,5 @@
+3,52,1
+36,1
+treatment,1
+of,1
+indians,1

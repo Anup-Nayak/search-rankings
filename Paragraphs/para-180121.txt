@@ -1,0 +1,6 @@
+51,230,7
+without,1
+affecting,1
+ban,1
+their,1
+cloth,1

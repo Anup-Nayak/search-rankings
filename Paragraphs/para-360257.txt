@@ -1,0 +1,14 @@
+93,130,5
+manudi,1
+i,3
+got,1
+your,1
+letter,1
+after,1
+many,1
+days,1
+think,1
+have,1
+already,1
+replied,1
+1,1

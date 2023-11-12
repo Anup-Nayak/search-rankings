@@ -1,0 +1,13 @@
+16,212,6
+i,1
+am,1
+sending,1
+you,1
+a,1
+copy,1
+of,1
+my,1
+address,1
+on,1
+social,1
+service,1

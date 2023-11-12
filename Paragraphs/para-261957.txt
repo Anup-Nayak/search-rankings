@@ -1,0 +1,12 @@
+70,243,11
+g,1
+but,1
+not,1
+otherwise,1
+a,2
+hindu,2
+cannot,1
+be,1
+st,1
+francis,1
+poor,1

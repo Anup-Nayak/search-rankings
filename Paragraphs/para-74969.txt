@@ -1,0 +1,10 @@
+21,431,1
+248,1
+speech,1
+at,1
+opening,1
+of,1
+lokamanya,1
+national,1
+school,1
+ankleshwar,1

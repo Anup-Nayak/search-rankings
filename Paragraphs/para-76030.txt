@@ -1,0 +1,13 @@
+22,77,2
+1,1
+which,1
+were,1
+formerly,1
+ruled,1
+by,1
+the,2
+sultan,1
+of,2
+turkey,1
+khalifa,1
+islam,1

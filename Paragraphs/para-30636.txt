@@ -1,0 +1,8 @@
+10,94,4
+meeting,1
+held,1
+yesterday,1
+enthusiastic,1
+determined,1
+continue,1
+resolutions,1

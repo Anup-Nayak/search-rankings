@@ -1,0 +1,6 @@
+7,230,5
+187,1
+the,1
+crushing,1
+of,1
+trees,1

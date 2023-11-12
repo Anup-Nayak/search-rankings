@@ -1,0 +1,9 @@
+89,229,6
+322,1
+letter,1
+to,1
+secretary,1
+american,1
+red,1
+cross,1
+calcutta,1

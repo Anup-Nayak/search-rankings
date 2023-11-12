@@ -1,0 +1,10 @@
+60,291,7
+2,1
+may,1
+one,2
+following,2
+trade,2
+marry,1
+among,1
+those,1
+another,1

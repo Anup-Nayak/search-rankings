@@ -1,0 +1,6 @@
+81,54,5
+105,1
+letter,1
+to,1
+sachidanand,1
+karkal,1

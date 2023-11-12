@@ -1,0 +1,6 @@
+80,29,6
+48,1
+letter,1
+to,1
+nila,1
+nagini,1

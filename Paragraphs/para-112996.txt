@@ -1,0 +1,3 @@
+33,315,3
+khadi,1
+exhibition,1

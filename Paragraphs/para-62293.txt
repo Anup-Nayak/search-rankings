@@ -1,0 +1,16 @@
+17,413,10
+attended,1
+a,1
+meeting,1
+of,1
+cloth,1
+merchants,1
+which,1
+was,1
+called,1
+at,1
+his,1
+instance,1
+when,1
+he,1
+made,1

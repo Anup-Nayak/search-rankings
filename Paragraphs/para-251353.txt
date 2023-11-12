@@ -1,0 +1,6 @@
+68,15,10
+20,1
+the,1
+hindi,1
+prachar,1
+week,1

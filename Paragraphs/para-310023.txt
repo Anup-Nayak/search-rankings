@@ -1,0 +1,5 @@
+82,17,11
+8,1
+states,1
+peoples,1
+conference,1

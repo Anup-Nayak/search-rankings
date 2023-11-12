@@ -1,0 +1,7 @@
+30,399,6
+regret,1
+impossibility,1
+getting,1
+day,1
+in,1
+present,1

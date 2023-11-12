@@ -1,0 +1,15 @@
+37,320,14
+pleasure,1
+which,2
+is,1
+enjoyed,1
+only,1
+by,1
+repeated,1
+practice,1
+and,1
+puts,1
+an,1
+end,1
+to,1
+pain,1

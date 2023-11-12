@@ -1,0 +1,6 @@
+79,293,4
+279,1
+fasting,1
+in,1
+satyagraha,1
+2,1

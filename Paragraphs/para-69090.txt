@@ -1,0 +1,7 @@
+19,443,10
+immediately,1
+ahmedabad,1
+translate,1
+rest,1
+and,1
+send,1

@@ -1,0 +1,9 @@
+13,46,11
+plates,1
+the,2
+prohibition,1
+of,1
+entry,1
+into,1
+free,1
+state,1

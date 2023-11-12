@@ -1,0 +1,5 @@
+14,382,7
+essentials,1
+are,1
+daya3,1
+akrodha,1

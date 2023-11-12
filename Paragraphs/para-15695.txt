@@ -1,0 +1,12 @@
+6,50,8
+i,1
+have,1
+received,1
+by,1
+the,1
+last,1
+mail,1
+from,1
+johannesburg,1
+papers,1
+in,1

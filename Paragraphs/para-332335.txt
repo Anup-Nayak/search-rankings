@@ -1,0 +1,7 @@
+86,356,6
+621,1
+letter,1
+to,1
+kamala,1
+and,1
+vasanti,1

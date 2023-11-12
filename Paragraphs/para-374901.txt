@@ -1,0 +1,6 @@
+97,187,4
+173,1
+talk,1
+with,1
+sind,1
+congressmen,1

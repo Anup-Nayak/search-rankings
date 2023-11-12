@@ -1,0 +1,17 @@
+55,208,2
+bapu,1
+ps,1
+i,2
+enclose,1
+an,1
+interesting,1
+cutting,1
+which,1
+consider,1
+to,2
+be,1
+non,1
+political,1
+enough,1
+pass,1
+muster,1

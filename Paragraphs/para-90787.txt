@@ -1,0 +1,12 @@
+27,61,1
+having,1
+that,1
+illness,1
+with,1
+love,1
+from,1
+both,2
+of,2
+us,1
+to,1
+you,1

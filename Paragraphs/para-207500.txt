@@ -1,0 +1,6 @@
+58,23,18
+temple,1
+entry,1
+by,1
+the,1
+untouchables,1

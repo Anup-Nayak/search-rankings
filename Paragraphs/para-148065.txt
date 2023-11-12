@@ -1,0 +1,6 @@
+43,114,5
+133,1
+letter,1
+t0,1
+rukhi,1
+gandhi,1

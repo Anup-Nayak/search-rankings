@@ -1,0 +1,17 @@
+89,10,9
+1,1
+omission,1
+as,1
+in,1
+the,2
+source,1
+2,1
+sushilabai,1
+mukundrao,1
+joshi,1
+a,1
+teacher,1
+at,1
+mahila,1
+ashram,1
+wardha,1

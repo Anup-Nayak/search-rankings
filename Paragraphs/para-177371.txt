@@ -1,0 +1,15 @@
+50,437,8
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+chandrakanta,1
+papers,1
+courtesy,1
+gandhi,1
+national,1
+museum,1
+and,1
+library,1

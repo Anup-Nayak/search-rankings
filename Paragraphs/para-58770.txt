@@ -1,0 +1,16 @@
+16,514,3
+it,1
+is,1
+often,1
+very,1
+difficult,1
+to,1
+collect,1
+these,1
+sums,1
+and,1
+raiyats,1
+can,1
+cause,1
+an,1
+infinite,1

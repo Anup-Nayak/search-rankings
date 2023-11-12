@@ -1,0 +1,9 @@
+82,227,4
+too,1
+much,1
+physical,1
+fatigue,1
+sending,1
+my,1
+proposals,1
+1,1

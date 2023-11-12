@@ -1,0 +1,10 @@
+92,170,9
+yours,1
+m,1
+k,1
+gandhi,1
+janab,1
+mohammed,1
+yunus,1
+of,1
+bihar,1

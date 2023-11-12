@@ -1,0 +1,17 @@
+96,139,10
+presently,1
+be,1
+a,1
+drop,1
+in,2
+the,2
+ocean,1
+face,1
+of,1
+adult,1
+suffrage,1
+both,1
+for,1
+men,1
+and,1
+women,1

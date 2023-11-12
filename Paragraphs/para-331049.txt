@@ -1,0 +1,14 @@
+86,224,5
+g,1
+nearest,1
+approach,1
+to,2
+the,2
+condition,1
+laid,1
+down,1
+in,1
+my,1
+answer,1
+previous,1
+question,1

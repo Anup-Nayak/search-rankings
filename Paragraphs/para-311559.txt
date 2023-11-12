@@ -1,0 +1,9 @@
+82,141,10
+if,1
+despite,1
+that,1
+you,1
+would,1
+like,1
+to,1
+see,1

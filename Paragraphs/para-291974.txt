@@ -1,0 +1,16 @@
+78,35,16
+itself,1
+it,2
+is,2
+going,1
+to,1
+get,1
+rid,1
+of,1
+us,1
+particularly,1
+when,1
+we,1
+are,1
+mobilized,1
+if,1

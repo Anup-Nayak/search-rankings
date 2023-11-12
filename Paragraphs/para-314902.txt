@@ -1,0 +1,10 @@
+82,391,23
+national,1
+control,1
+and,2
+leadership,1
+with,2
+intimate,1
+contacts,1
+the,1
+people,1

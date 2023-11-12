@@ -1,0 +1,12 @@
+9,58,3
+to,1
+the,5
+honble,2
+speaker,1
+and,1
+members,1
+of,2
+legislative,1
+assembly,1
+transvaal,1
+pretoria,1

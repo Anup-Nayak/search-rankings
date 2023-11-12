@@ -1,0 +1,13 @@
+7,102,9
+1,1
+here,1
+follows,1
+in,1
+the,4
+original,1
+text,1
+of,1
+letter,1
+vide,1
+preceding,1
+item,1

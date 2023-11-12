@@ -1,0 +1,4 @@
+60,220,2
+majority,1
+v,1
+minority,1

@@ -1,0 +1,8 @@
+67,393,10
+another,1
+important,1
+resolution,1
+passed,1
+was,1
+the,1
+following,1

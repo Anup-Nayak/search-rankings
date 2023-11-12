@@ -1,0 +1,16 @@
+25,83,11
+1,1
+at,2
+she,1
+gujarat,1
+political,1
+conference,1
+held,1
+ahmedabad,1
+on,1
+august,1
+27,1
+28,1
+and,1
+29,1
+1920,1

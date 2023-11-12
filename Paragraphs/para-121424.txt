@@ -1,0 +1,9 @@
+36,10,3
+from,1
+a,2
+photostat,1
+of,1
+copy,1
+s,1
+n,1
+19659,1

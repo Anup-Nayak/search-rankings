@@ -1,0 +1,7 @@
+33,333,9
+should,2
+be,2
+veiled,1
+while,1
+sin,1
+exposed,1

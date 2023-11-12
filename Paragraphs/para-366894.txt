@@ -1,0 +1,6 @@
+95,25,5
+22,1
+interview,1
+to,1
+reuter,1
+2,1

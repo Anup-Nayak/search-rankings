@@ -1,0 +1,10 @@
+59,334,8
+from,1
+gujarati,1
+c,1
+w,1
+352,1
+courtesy,1
+bhagwanji,1
+p,1
+pandya,1

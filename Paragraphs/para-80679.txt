@@ -1,0 +1,6 @@
+23,396,8
+188,1
+letter,1
+to,1
+kunvarji,1
+mehta,1

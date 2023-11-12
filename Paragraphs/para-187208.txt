@@ -1,0 +1,10 @@
+53,73,7
+private,1
+and,1
+personal,1
+on,1
+or,1
+before,1
+july,1
+20,1
+1931,1

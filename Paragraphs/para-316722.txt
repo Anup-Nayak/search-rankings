@@ -1,0 +1,7 @@
+83,88,1
+106,1
+congress,1
+and,1
+war,1
+contracts,1
+1,1

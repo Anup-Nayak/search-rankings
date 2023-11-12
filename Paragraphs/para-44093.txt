@@ -1,0 +1,17 @@
+13,294,6
+i,1
+am,1
+wiring,1
+post,1
+restante,1
+you,1
+will,1
+instruct,1
+the,2
+telegraph,1
+office,1
+where,1
+wires,1
+may,1
+be,1
+delivered,1

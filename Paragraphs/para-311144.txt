@@ -1,0 +1,16 @@
+82,107,6
+all,1
+the,1
+emphasis,1
+at,1
+my,1
+command,1
+that,1
+it,1
+is,1
+impossible,1
+to,1
+evolve,1
+a,1
+sound,1
+body,1

@@ -1,0 +1,10 @@
+31,83,10
+3,1
+one,1
+who,1
+has,1
+attained,1
+deliverance,1
+in,1
+ones,1
+life,1

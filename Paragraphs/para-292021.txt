@@ -1,0 +1,14 @@
+78,40,16
+interest,1
+earned,1
+by,1
+the,1
+a,2
+i,1
+s,1
+would,1
+be,1
+capitalized,1
+and,1
+utilized,1
+towards,1

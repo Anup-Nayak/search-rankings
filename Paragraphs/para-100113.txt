@@ -1,0 +1,6 @@
+29,321,10
+daryaganj,1
+delhi,1
+november,1
+12,1
+1924,1

@@ -1,0 +1,16 @@
+17,62,8
+1,1
+narasimh,1
+chintaman,1
+kelkar,1
+nationalist,1
+leader,1
+associate,1
+and,2
+biographer,1
+of,2
+tilak,1
+editor,1
+the,1
+mahratta,1
+poona,1

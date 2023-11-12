@@ -1,0 +1,8 @@
+79,199,5
+1,1
+the,1
+gujarati,1
+version,1
+has,1
+from,1
+dabhoi,1

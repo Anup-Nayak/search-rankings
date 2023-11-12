@@ -1,0 +1,11 @@
+13,462,4
+section,1
+16,1
+to,1
+18,1
+deal,1
+with,1
+diseases,1
+and,1
+medical,1
+examination,1

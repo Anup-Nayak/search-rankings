@@ -1,0 +1,9 @@
+13,174,19
+province,1
+it,1
+takes,1
+away,1
+right,1
+south,1
+africa,1
+born,1

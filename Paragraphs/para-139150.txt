@@ -1,0 +1,7 @@
+40,480,1
+respected,1
+by,2
+the,1
+brahmins,2
+as,1
+non,1

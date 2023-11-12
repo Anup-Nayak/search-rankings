@@ -1,0 +1,7 @@
+37,437,3
+181,1
+all,1
+india,1
+cow,1
+protection,1
+association,1

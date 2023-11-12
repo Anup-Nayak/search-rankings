@@ -1,0 +1,5 @@
+57,146,4
+self,1
+right,1
+about,1
+untouchability,1

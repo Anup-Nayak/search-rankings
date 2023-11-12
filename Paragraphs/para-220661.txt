@@ -1,0 +1,12 @@
+60,450,4
+throwing,1
+the,2
+contents,1
+of,1
+their,1
+tokras,1
+containing,1
+human,1
+excreta,1
+on,1
+ground,1

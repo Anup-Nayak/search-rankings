@@ -1,0 +1,16 @@
+19,293,4
+not,1
+to,1
+enter,1
+the,1
+province,1
+of,1
+punjab,1
+or,1
+delhi,2
+i,3
+think,2
+forget,1
+which,1
+it,2
+was,2

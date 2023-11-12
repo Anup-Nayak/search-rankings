@@ -1,0 +1,10 @@
+44,79,4
+bapu,1
+shrimati,1
+mirabehn,1
+khadi,1
+depot,1
+chhatwan,1
+post,1
+chhotaripat,1
+bihar,1

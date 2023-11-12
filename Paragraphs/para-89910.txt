@@ -1,0 +1,17 @@
+26,417,4
+to,4
+wish,1
+ill,4
+do,1
+speak,1
+or,1
+think,1
+of,1
+anyone,1
+we,1
+are,1
+equally,1
+forbidden,1
+without,1
+exception,1
+tertullian,1

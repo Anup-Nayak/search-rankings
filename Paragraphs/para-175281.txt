@@ -1,0 +1,17 @@
+50,173,13
+1,1
+younger,1
+sister,1
+of,1
+kashinath,1
+trivedi,1
+residing,1
+in,1
+the,2
+ashram,1
+at,1
+this,1
+time,1
+2,1
+from,1
+postmark,1

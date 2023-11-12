@@ -1,0 +1,14 @@
+68,152,15
+one,1
+consequence,1
+of,2
+this,1
+is,1
+the,2
+almost,1
+unbelievable,1
+number,1
+child,1
+widows,1
+in,1
+country,1

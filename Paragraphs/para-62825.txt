@@ -1,0 +1,7 @@
+18,8,4
+7,1
+letter,1
+to,1
+maulana,1
+abdul,1
+bari,1

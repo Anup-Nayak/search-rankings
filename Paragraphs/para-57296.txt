@@ -1,0 +1,15 @@
+16,351,10
+1the,1
+addressee,1
+in,1
+his,1
+letter,1
+of,1
+even,1
+date,1
+refused,1
+to,1
+make,1
+any,1
+such,1
+announcement,1

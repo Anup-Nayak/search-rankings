@@ -1,0 +1,16 @@
+19,292,4
+whether,1
+they,1
+fired,1
+at,2
+anybody,1
+a,1
+stray,1
+bullet,1
+might,1
+ricochet,1
+and,1
+go,1
+off,1
+right,1
+angles,1

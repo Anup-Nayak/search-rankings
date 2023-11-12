@@ -1,0 +1,7 @@
+5,93,1
+84,1
+address,1
+1,1
+to,1
+abdul,1
+kadir,1

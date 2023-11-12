@@ -1,0 +1,11 @@
+80,263,9
+1,1
+cleanliness,1
+2,1
+full,1
+of,1
+admiration,1
+literally,1
+infatuated,1
+also,1
+naive,1

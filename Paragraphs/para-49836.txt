@@ -1,0 +1,10 @@
+14,485,12
+a,1
+that,1
+the,2
+transvaal,1
+laws,1
+prohibiting,1
+asiatics,1
+from,1
+becoming,1

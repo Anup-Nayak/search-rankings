@@ -1,0 +1,15 @@
+78,155,7
+that,1
+all,1
+orders,1
+must,1
+be,1
+strictly,1
+obeyed,1
+and,2
+carried,1
+out,1
+if,1
+these,1
+was,1
+disobedience,1

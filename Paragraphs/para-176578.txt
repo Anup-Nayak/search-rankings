@@ -1,0 +1,4 @@
+50,318,15
+bapu,1
+from,1
+gujarati,1

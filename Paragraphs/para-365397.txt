@@ -1,0 +1,6 @@
+94,276,14
+272,1
+talk,1
+with,1
+manu,1
+gandhi,1

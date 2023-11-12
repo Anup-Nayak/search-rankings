@@ -1,0 +1,8 @@
+62,233,11
+253,1
+speech,1
+at,1
+rajkumar,1
+college,1
+raipur,1
+1,1

@@ -1,0 +1,13 @@
+62,369,4
+5,1
+a,1
+gujarati,1
+writer,1
+then,1
+professor,1
+at,1
+the,1
+gujarat,1
+vidyapith,1
+1920,1
+28,1

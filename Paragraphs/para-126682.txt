@@ -1,0 +1,10 @@
+37,134,4
+1,1
+the,1
+creator,1
+2,1
+gandhiji,1
+said,1
+this,1
+in,1
+english,1

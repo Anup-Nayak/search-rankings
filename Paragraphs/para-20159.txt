@@ -1,0 +1,14 @@
+7,53,5
+on,1
+this,1
+bill,1
+mr,1
+gandhi,1
+has,1
+written,1
+the,2
+following,1
+letter,1
+to,1
+star,1
+1,1

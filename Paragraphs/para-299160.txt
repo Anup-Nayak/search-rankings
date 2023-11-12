@@ -1,0 +1,13 @@
+79,400,15
+1,1
+he,1
+was,1
+speaking,1
+in,1
+the,1
+house,1
+of,1
+commons,1
+on,1
+november,1
+20,1

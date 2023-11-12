@@ -1,0 +1,9 @@
+94,34,9
+bapu,1
+p,1
+s,1
+send,1
+the,1
+papers,1
+about,1
+me,1

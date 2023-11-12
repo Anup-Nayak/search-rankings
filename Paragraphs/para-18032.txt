@@ -1,0 +1,10 @@
+6,306,14
+give,1
+all,1
+assistance,1
+in,1
+their,1
+power,1
+to,2
+the,1
+authorities,1

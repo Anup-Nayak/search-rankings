@@ -1,0 +1,8 @@
+36,100,2
+shri,1
+balvantrai,1
+bhagvanji,1
+maniyar,1
+nagar,1
+chakla,1
+jamnagar,1

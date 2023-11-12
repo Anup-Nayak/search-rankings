@@ -1,0 +1,5 @@
+5,245,2
+what,1
+europeans,1
+will,1
+do,1

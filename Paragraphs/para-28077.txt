@@ -1,0 +1,7 @@
+9,250,4
+153,1
+education,1
+of,1
+indians,1
+in,1
+natal,1

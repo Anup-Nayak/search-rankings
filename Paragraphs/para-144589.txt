@@ -1,0 +1,7 @@
+42,205,1
+229,1
+letter,1
+to,1
+masood,1
+jung,1
+bahadur,1

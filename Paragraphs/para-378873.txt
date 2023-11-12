@@ -1,0 +1,10 @@
+98,240,9
+nor,1
+anywhere,1
+else,1
+his,1
+message,1
+is,1
+do,1
+your,1
+duty,1

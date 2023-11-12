@@ -1,0 +1,6 @@
+42,35,1
+48,1
+telegram,1
+to,1
+mahomed,1
+ali,1

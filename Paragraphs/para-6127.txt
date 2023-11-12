@@ -1,0 +1,10 @@
+3,3,2
+agakhans,1
+buildings,1
+opposite,1
+high,1
+court,1
+bombay,1
+november,1
+8,1
+1902,1

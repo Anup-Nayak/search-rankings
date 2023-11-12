@@ -1,0 +1,6 @@
+33,302,2
+spinning,1
+wheel,1
+for,1
+famine,1
+relief,1

@@ -1,0 +1,5 @@
+67,100,3
+superintendent,1
+wanless,1
+sanatorium,1
+miraj,1

@@ -1,0 +1,17 @@
+24,220,25
+foreign,1
+cloth,1
+or,1
+send,1
+it,2
+out,1
+of,1
+the,1
+country,1
+when,1
+is,1
+required,1
+more,1
+urgently,1
+at,1
+home,1

@@ -1,0 +1,15 @@
+42,473,20
+the,2
+union,1
+or,1
+any,1
+province,1
+thereof,1
+provided,1
+that,1
+if,1
+this,1
+permit,1
+is,1
+cancelled,1
+by,1

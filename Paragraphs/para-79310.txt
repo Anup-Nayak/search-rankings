@@ -1,0 +1,5 @@
+23,157,2
+the,2
+zemindars,1
+and,1
+ryots,1

@@ -1,0 +1,8 @@
+25,50,6
+1,1
+from,1
+cardinal,1
+newmans,1
+poemlead,1
+kindly,1
+light,1

@@ -1,0 +1,6 @@
+17,331,7
+lco,1
+kaloph,1
+4,1
+strand,1
+ln,1

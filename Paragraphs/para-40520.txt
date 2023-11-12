@@ -1,0 +1,12 @@
+12,319,11
+k,2
+sorabji,1
+&,2
+i,2
+went,1
+to,1
+j,1
+b,1
+on,1
+foot,1
+returned,1

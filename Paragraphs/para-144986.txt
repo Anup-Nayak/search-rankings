@@ -1,0 +1,8 @@
+42,242,5
+when,1
+we,1
+knew,1
+not,1
+our,1
+own,1
+state,1

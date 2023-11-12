@@ -1,0 +1,10 @@
+5,304,1
+ministry,1
+of,1
+changing,1
+it,2
+if,1
+dare,1
+to,1
+do,1
+so,1

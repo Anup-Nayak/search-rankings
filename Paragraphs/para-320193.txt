@@ -1,0 +1,11 @@
+84,88,8
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+398,1
+courtesy,1
+navajivan,1
+trust,1

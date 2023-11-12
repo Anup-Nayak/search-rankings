@@ -1,0 +1,13 @@
+72,129,7
+reside,1
+in,1
+india,1
+on,1
+the,2
+understanding,1
+that,1
+they,1
+will,1
+respect,1
+laws,1
+customs,1

@@ -1,0 +1,15 @@
+2,339,11
+from,1
+the,2
+photostat,1
+of,1
+original,1
+in,2
+english,1
+and,1
+gujarati,1
+gandhijis,1
+handwriting,1
+s,1
+n,1
+3402,1

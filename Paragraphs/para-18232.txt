@@ -1,0 +1,5 @@
+6,332,5
+giving,1
+of,1
+finger,1
+prints,1

@@ -1,0 +1,4 @@
+22,38,2
+the,1
+dukes,1
+visit,1

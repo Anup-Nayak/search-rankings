@@ -1,0 +1,6 @@
+38,230,2
+218,1
+in,1
+search,1
+of,1
+knowledge,1

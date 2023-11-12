@@ -1,0 +1,14 @@
+31,484,16
+towards,1
+this,1
+make,1
+electric,1
+power,1
+the,3
+servant,1
+of,1
+man,1
+in,1
+hearth,1
+and,2
+home,1

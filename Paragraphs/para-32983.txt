@@ -1,0 +1,11 @@
+10,434,9
+1,1
+supplied,1
+from,1
+the,2
+report,1
+of,1
+speech,1
+in,1
+indian,1
+opinion,1

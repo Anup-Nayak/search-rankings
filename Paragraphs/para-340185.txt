@@ -1,0 +1,7 @@
+88,181,13
+1,1
+this,1
+paragraph,1
+is,1
+in,1
+urdu,1

@@ -1,0 +1,14 @@
+85,48,1
+j,1
+but,1
+a,2
+closure,1
+of,2
+the,1
+sales,1
+would,1
+mean,1
+suspension,1
+spinning,1
+for,1
+wages,1

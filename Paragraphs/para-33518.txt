@@ -1,0 +1,14 @@
+10,500,16
+i,1
+greet,1
+you,2
+fraternally,1
+and,1
+am,1
+glad,1
+to,1
+have,1
+intercourse,1
+with,1
+leo,1
+tolstoy,1

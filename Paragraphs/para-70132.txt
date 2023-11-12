@@ -1,0 +1,11 @@
+20,96,9
+a,1
+i,2
+think,1
+one,1
+day,1
+beg,1
+your,1
+pardon,1
+two,1
+days,1

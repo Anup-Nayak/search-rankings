@@ -1,0 +1,16 @@
+15,496,27
+prepared,1
+to,1
+go,2
+mr,1
+gandhi,1
+said,1
+that,1
+he,1
+would,1
+through,1
+the,1
+figures,1
+again,1
+and,1
+give,1

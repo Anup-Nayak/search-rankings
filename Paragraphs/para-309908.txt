@@ -1,0 +1,7 @@
+82,7,3
+10,1
+letter,1
+to,1
+chiang,1
+kai,1
+shek,1

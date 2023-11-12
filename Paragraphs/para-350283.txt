@@ -1,0 +1,6 @@
+90,424,19
+1vide,1
+statement,1
+to,1
+the,1
+press,1

@@ -1,0 +1,7 @@
+75,153,9
+constitution,1
+alternative,1
+formula,1
+is,1
+if,1
+paramount,1

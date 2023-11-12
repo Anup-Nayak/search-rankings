@@ -1,0 +1,10 @@
+12,353,4
+reached,1
+beira,1
+in,2
+the,2
+morningstayed,1
+at,1
+tayob,1
+sakoors,1
+city,1

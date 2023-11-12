@@ -1,0 +1,9 @@
+97,25,4
+25,1
+discussion,1
+with,1
+doctors,1
+october,1
+2,1
+1947,1
+1,1

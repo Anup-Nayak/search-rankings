@@ -1,0 +1,16 @@
+21,365,9
+1,1
+inferred,1
+from,1
+the,2
+reference,1
+to,1
+gujarat,1
+vidyapith,1
+which,1
+was,1
+founded,1
+on,1
+october,1
+18,1
+1920,1

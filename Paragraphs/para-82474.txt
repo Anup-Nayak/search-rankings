@@ -1,0 +1,11 @@
+24,196,6
+likely,1
+to,2
+get,1
+excited,1
+i,1
+would,1
+urge,1
+them,1
+show,1
+their,1

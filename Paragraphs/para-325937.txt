@@ -1,0 +1,13 @@
+85,205,2
+yours,1
+m,1
+k,1
+gandhi,1
+v,1
+n,1
+barve,1
+president,1
+harijan,1
+sevak,1
+sangh,1
+dhulia,1

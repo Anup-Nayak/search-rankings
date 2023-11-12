@@ -1,0 +1,7 @@
+20,31,15
+maung,1
+bah,1
+too,1
+p,1
+l,1
+moore,1

@@ -1,0 +1,14 @@
+73,397,14
+1,1
+some,1
+people,2
+had,1
+been,1
+reported,1
+to,2
+have,1
+incited,1
+occupy,1
+land,1
+by,1
+force,1

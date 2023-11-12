@@ -1,0 +1,7 @@
+87,220,4
+379,1
+letter,1
+to,1
+janaki,1
+devi,1
+bajaj,1

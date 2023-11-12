@@ -1,0 +1,16 @@
+63,309,7
+2,1
+not,1
+an,1
+anna,1
+should,1
+be,1
+spent,1
+for,1
+advertisement,1
+or,1
+to,1
+produce,1
+any,1
+spectacular,1
+effect,1

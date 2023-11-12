@@ -1,0 +1,4 @@
+67,438,7
+symptoms,1
+of,1
+poisoning,1

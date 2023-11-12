@@ -1,0 +1,6 @@
+64,28,1
+40,1
+letter,1
+to,1
+vallabhbhai,1
+patel,1

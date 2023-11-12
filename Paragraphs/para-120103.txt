@@ -1,0 +1,6 @@
+35,320,8
+ashram,1
+sabarmati,1
+june,1
+5,1
+1926,1

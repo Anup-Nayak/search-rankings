@@ -1,0 +1,6 @@
+39,259,6
+245,1
+letter,1
+to,1
+helene,1
+haussding,1

@@ -1,0 +1,10 @@
+47,85,9
+wire,1
+received,1
+keep,1
+chhotelal,1
+for,1
+present,1
+when,1
+can,1
+you,1

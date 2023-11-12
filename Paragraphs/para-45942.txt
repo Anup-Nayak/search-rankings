@@ -1,0 +1,7 @@
+14,10,5
+not,2
+only,1
+consulted,1
+but,1
+contemptuously,1
+ignored,1

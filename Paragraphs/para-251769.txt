@@ -1,0 +1,6 @@
+68,60,7
+11,1
+kanbi,1
+peasant,1
+1,1
+brahmin,1

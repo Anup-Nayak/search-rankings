@@ -1,0 +1,8 @@
+42,472,7
+union,1
+of,2
+south,1
+africa,1
+department,1
+the,1
+interior,1

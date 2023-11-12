@@ -1,0 +1,12 @@
+15,301,2
+satyagraha,1
+ashram,1
+ahmedabad,1
+maha,1
+sud,1
+10,1
+samvat,1
+1973,1
+february,1
+1,1
+1917,1

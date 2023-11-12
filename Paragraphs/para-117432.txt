@@ -1,0 +1,7 @@
+35,10,8
+22,1
+goenka,1
+lane,1
+bora,1
+bazar,1
+calcutta,1

@@ -1,0 +1,11 @@
+27,295,6
+3,1
+the,1
+gandhi,1
+pathak,1
+of,1
+karnatak,2
+bala,1
+sena,1
+boy,1
+scouts,1

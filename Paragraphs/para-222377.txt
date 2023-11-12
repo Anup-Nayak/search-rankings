@@ -1,0 +1,7 @@
+61,139,8
+just,1
+finished,1
+gujarati,1
+translation,1
+of,1
+bhagavata,1

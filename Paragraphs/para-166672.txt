@@ -1,0 +1,15 @@
+48,36,11
+ramnarayan,1
+who,1
+is,1
+a,1
+worker,1
+in,1
+the,2
+cause,1
+of,1
+antyajas,1
+writes,1
+from,1
+mombasa,1
+1,1

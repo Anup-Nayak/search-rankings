@@ -1,0 +1,10 @@
+98,435,2
+bhangi,1
+colony,1
+reading,1
+road,1
+new,1
+delhi,1
+essop,1
+moosa,1
+pretoria,1

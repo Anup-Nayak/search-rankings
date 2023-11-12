@@ -1,0 +1,6 @@
+79,168,4
+169,1
+lettere,1
+to,1
+dr,1
+variava,1

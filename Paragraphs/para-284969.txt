@@ -1,0 +1,5 @@
+76,128,9
+president,1
+varnashrama,1
+sangh,1
+madura,1

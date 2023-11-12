@@ -1,0 +1,7 @@
+52,150,10
+everybody,1
+should,1
+submit,1
+decision,1
+superior,1
+committees,1

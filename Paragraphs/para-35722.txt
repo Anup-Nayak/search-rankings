@@ -1,0 +1,10 @@
+11,251,10
+legal,1
+opinion,1
+no,1
+time,1
+should,1
+be,1
+lost,1
+placing,1
+yourself,1

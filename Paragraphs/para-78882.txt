@@ -1,0 +1,14 @@
+23,78,5
+they,1
+are,1
+about,1
+and,2
+win,1
+over,1
+the,3
+hesitating,1
+opponents,1
+if,1
+he,1
+said,1
+only,1

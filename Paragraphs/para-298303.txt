@@ -1,0 +1,4 @@
+79,321,5
+thinking,1
+next,1
+step,1

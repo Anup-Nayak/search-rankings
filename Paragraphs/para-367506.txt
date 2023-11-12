@@ -1,0 +1,11 @@
+95,100,11
+it,1
+pained,1
+me,1
+that,1
+yesterday,1
+though,1
+men,1
+and,1
+women,1
+had,1

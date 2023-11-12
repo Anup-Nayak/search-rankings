@@ -1,0 +1,10 @@
+52,271,7
+you,2
+should,1
+never,1
+hesitate,1
+to,3
+write,1
+me,1
+whenever,1
+want,1

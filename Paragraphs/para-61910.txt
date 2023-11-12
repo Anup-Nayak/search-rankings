@@ -1,0 +1,6 @@
+17,374,7
+6,1
+30mass,1
+meetingfrench,1
+bridge,1
+*,3

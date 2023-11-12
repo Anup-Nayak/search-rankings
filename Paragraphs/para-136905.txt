@@ -1,0 +1,7 @@
+40,67,2
+33,1
+interview,1
+to,1
+the,1
+hindu,1
+madras,1

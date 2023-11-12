@@ -1,0 +1,8 @@
+87,7,1
+16,1
+letter,1
+to,1
+mohammed,1
+hamid,1
+ud,1
+din,1

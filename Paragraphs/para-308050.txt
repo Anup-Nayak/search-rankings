@@ -1,0 +1,6 @@
+81,288,2
+512,1
+telegram,1
+to,1
+jayaprakash,1
+narayan,1

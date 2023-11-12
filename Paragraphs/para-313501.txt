@@ -1,0 +1,12 @@
+82,300,34
+none,2
+or,1
+almost,1
+of,1
+those,1
+who,2
+are,2
+absconding,1
+and,1
+said,1
+to,1

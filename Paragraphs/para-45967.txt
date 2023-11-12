@@ -1,0 +1,8 @@
+14,10,30
+demands,1
+stop,1
+feeling,1
+that,1
+in,1
+such,1
+circumstances,1

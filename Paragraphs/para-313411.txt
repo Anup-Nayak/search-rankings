@@ -1,0 +1,11 @@
+82,298,20
+deliberate,1
+move,1
+for,1
+collecting,1
+rifles,1
+guns,1
+ammunitions,1
+clothes,1
+and,1
+money,1

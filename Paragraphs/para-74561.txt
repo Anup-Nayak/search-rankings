@@ -1,0 +1,13 @@
+21,354,14
+rose,1
+to,1
+the,3
+occasion,1
+and,2
+government,1
+its,1
+officers,1
+treated,1
+indians,1
+as,1
+equals,1

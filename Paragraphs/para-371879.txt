@@ -1,0 +1,14 @@
+96,249,12
+ministers,1
+of,1
+pakistan,1
+and,1
+the,2
+union,1
+agreed,1
+upon,1
+another,1
+course,1
+in,1
+both,1
+states,1

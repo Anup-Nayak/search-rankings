@@ -1,0 +1,14 @@
+59,490,7
+daily,1
+for,2
+the,3
+sake,1
+of,1
+minority,1
+they,1
+too,1
+have,1
+a,1
+certain,1
+sentiment,1
+image,1

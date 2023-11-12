@@ -1,0 +1,14 @@
+95,89,5
+but,1
+what,1
+he,1
+saw,1
+and,1
+heard,1
+from,1
+the,1
+superintendent,1
+made,1
+him,1
+really,1
+glad,1

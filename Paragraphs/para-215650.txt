@@ -1,0 +1,16 @@
+59,369,17
+has,1
+a,1
+critic,1
+whose,1
+business,1
+is,1
+to,2
+expose,1
+his,1
+errors,1
+and,1
+bring,1
+light,1
+the,1
+flaws,1

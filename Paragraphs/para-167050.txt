@@ -1,0 +1,7 @@
+48,93,2
+95,1
+to,1
+wearers,1
+of,1
+fine,1
+khadi,1

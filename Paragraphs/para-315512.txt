@@ -1,0 +1,14 @@
+82,409,20
+otherwise,1
+some,1
+men,1
+live,1
+longer,2
+because,1
+their,1
+works,1
+last,1
+but,1
+i,1
+believe,1
+that,1

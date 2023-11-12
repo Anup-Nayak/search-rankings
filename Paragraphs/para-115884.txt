@@ -1,0 +1,12 @@
+34,337,2
+1,1
+self,1
+interest,1
+ones,1
+own,1
+welfare,1
+2,1
+transcendent,1
+good,1
+here,1
+altruism,1

@@ -1,0 +1,11 @@
+79,173,1
+b,1
+then,1
+god,1
+alone,1
+knows,1
+what,2
+is,2
+himsa,1
+and,1
+ahimsa,1

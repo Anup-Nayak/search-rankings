@@ -1,0 +1,12 @@
+22,343,9
+the,2
+fourth,1
+condition,1
+was,1
+pecuniary,1
+contribution,1
+by,1
+everyone,1
+to,1
+utmost,1
+of,1

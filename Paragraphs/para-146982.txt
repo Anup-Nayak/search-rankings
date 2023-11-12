@@ -1,0 +1,13 @@
+42,468,11
+also,1
+remitted,1
+by,1
+government,1
+to,1
+the,3
+individual,1
+cultivators,1
+with,1
+result,1
+that,1
+land,1

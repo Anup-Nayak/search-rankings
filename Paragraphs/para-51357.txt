@@ -1,0 +1,7 @@
+15,115,21
+prakashanand,1
+came,1
+mistri,1
+carpenter,1
+started,1
+coming,1

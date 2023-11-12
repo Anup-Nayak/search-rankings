@@ -1,0 +1,9 @@
+60,62,6
+1,2
+gandhiji,1
+did,1
+this,1
+on,1
+february,1
+and,1
+l9,1

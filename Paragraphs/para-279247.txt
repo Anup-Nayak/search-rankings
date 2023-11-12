@@ -1,0 +1,11 @@
+74,412,4
+k,1
+but,1
+at,1
+the,2
+end,1
+of,1
+gita,1
+krishna,1
+recommends,1
+violence,1

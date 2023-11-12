@@ -1,0 +1,7 @@
+12,66,5
+52,1
+letter,1
+to,1
+dr,1
+pranjivan,1
+mehta,1

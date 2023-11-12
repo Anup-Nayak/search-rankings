@@ -1,0 +1,5 @@
+71,5,7
+4,1
+our,1
+cattle,1
+wealth,1

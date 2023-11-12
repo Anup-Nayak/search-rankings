@@ -1,0 +1,6 @@
+92,160,1
+226,1
+telegram,1
+to,1
+ganesh,1
+tripathi,1

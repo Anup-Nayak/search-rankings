@@ -1,0 +1,6 @@
+11,200,10
+mr,1
+cramer,1
+i,1
+have,1
+less,1

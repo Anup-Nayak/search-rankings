@@ -1,0 +1,8 @@
+27,324,5
+1,1
+karnad,1
+sadashiv,1
+rao,1
+karnatak,1
+congress,1
+leader,1

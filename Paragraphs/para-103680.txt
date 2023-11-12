@@ -1,0 +1,14 @@
+30,312,5
+the,2
+most,1
+expensive,1
+manure,1
+which,1
+is,2
+difficult,1
+to,1
+get,1
+being,1
+burnt,1
+by,1
+people,1

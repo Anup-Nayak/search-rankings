@@ -1,0 +1,7 @@
+62,33,10
+3,1
+from,1
+the,1
+congress,1
+working,1
+committee,1

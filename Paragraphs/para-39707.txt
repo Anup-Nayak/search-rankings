@@ -1,0 +1,14 @@
+12,214,6
+from,1
+indian,1
+opinion,1
+27,1
+7,1
+1912,1
+also,1
+typewritten,1
+office,1
+copy,1
+s,1
+n,1
+5668,1

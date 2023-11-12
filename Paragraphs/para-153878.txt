@@ -1,0 +1,9 @@
+44,473,2
+t12,1
+for,1
+christian,2
+missionaries,1
+guj,1
+has,1
+a,1
+missionary,1

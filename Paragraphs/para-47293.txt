@@ -1,0 +1,8 @@
+14,170,2
+mr,1
+gandhi,1
+then,1
+raised,1
+two,1
+new,1
+points,1

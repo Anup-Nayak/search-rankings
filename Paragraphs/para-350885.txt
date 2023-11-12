@@ -1,0 +1,5 @@
+91,38,6
+48,1
+letter,1
+to,1
+narayanamurti,1

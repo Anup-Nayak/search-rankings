@@ -1,0 +1,6 @@
+50,79,9
+117,1
+letter,1
+to,1
+vinod,1
+kumar,1

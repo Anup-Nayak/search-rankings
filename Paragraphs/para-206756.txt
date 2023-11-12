@@ -1,0 +1,8 @@
+57,397,11
+letters,1
+talks,1
+in,1
+london,1
+and,1
+during,1
+return,1

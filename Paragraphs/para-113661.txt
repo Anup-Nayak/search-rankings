@@ -1,0 +1,7 @@
+33,392,11
+297,1
+letter,1
+to,1
+khwaja,1
+abdul,1
+majid,1

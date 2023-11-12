@@ -1,0 +1,16 @@
+41,460,7
+1,1
+this,1
+appears,1
+to,1
+be,1
+a,1
+slip,1
+for,1
+foreword,1
+2,1
+the,1
+telegram,1
+is,1
+not,1
+available,1

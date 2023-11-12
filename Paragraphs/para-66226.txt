@@ -1,0 +1,7 @@
+19,55,6
+bombay,1
+khilafat,1
+day,1
+october,1
+17,1
+1919,1

@@ -1,0 +1,12 @@
+95,155,4
+153,1
+letter,1
+to,1
+a,1
+foreign,1
+naturopath,1
+1,1
+may,1
+28,1
+1947,1
+2,1

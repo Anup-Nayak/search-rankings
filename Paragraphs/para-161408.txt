@@ -1,0 +1,7 @@
+46,366,4
+drums,1
+fools,1
+shudras,1
+beasts,1
+and,1
+women,1

@@ -1,0 +1,14 @@
+94,50,20
+it,1
+followed,1
+that,2
+swadeshi,1
+was,1
+spirit,1
+which,1
+dictated,1
+man,1
+to,1
+serve,1
+his,1
+next,1

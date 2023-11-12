@@ -1,0 +1,11 @@
+68,348,12
+difficult,1
+to,1
+guide,1
+from,1
+distance,1
+but,1
+do,1
+nothing,1
+in,1
+con,1

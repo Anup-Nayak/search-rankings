@@ -1,0 +1,13 @@
+76,217,14
+4,1
+the,3
+premier,1
+and,1
+minister,1
+of,1
+education,1
+in,1
+north,1
+west,1
+frontier,1
+province,1

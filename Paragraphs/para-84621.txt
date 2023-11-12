@@ -1,0 +1,5 @@
+25,69,2
+temperance,1
+work,1
+a,1
+crime,1

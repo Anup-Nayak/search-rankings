@@ -1,0 +1,8 @@
+40,21,6
+sorry,1
+fever,1
+proving,1
+obstinate,1
+pray,1
+take,1
+prescribed,1

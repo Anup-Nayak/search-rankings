@@ -1,0 +1,7 @@
+88,366,10
+678,1
+letter,1
+to,1
+lakshmi,1
+narayan,1
+gadodia,1

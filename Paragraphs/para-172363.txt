@@ -1,0 +1,17 @@
+49,330,9
+bapu,1
+ps,1
+i,1
+do,1
+not,1
+write,1
+separately,1
+about,1
+kaka,1
+because,1
+the,2
+long,1
+letter,1
+contains,1
+all,1
+news,1

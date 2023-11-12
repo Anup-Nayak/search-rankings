@@ -1,0 +1,16 @@
+44,486,8
+t1,1
+for,1
+as,2
+he,2
+gave,2
+his,2
+time,2
+to,2
+public,2
+work,2
+guj,1
+has,1
+now,1
+more,1
+of,1

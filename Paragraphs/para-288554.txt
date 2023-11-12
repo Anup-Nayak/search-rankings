@@ -1,0 +1,8 @@
+77,72,1
+88,1
+fragment,1
+of,1
+letter,1
+to,1
+kung,1
+1,1

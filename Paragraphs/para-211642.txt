@@ -1,0 +1,17 @@
+58,444,9
+81,1
+is,1
+it,1
+possible,1
+to,2
+expect,1
+all,1
+human,1
+beings,1
+be,1
+of,1
+the,2
+same,2
+temperament,1
+or,1
+habits,1

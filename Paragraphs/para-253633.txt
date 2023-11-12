@@ -1,0 +1,11 @@
+68,249,2
+1,1
+thirty,1
+four,1
+miles,2
+from,2
+savli,2
+2,1
+more,1
+than,1
+120,1

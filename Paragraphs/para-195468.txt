@@ -1,0 +1,8 @@
+55,69,3
+which,1
+springs,1
+from,1
+sloth,1
+and,2
+sleep,1
+foolishness,1

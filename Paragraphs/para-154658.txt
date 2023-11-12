@@ -1,0 +1,5 @@
+44,499,16
+t4,1
+guj,1
+has,1
+satisfied,1

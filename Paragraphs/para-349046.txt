@@ -1,0 +1,11 @@
+90,290,4
+1,1
+the,1
+gujarati,1
+original,1
+appeared,1
+in,1
+harijanbandhu,1
+28,1
+4,1
+1946,1

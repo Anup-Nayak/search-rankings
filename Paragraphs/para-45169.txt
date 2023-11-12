@@ -1,0 +1,7 @@
+13,429,16
+our,1
+interpretation,1
+incorrect,1
+sixteen,1
+pioneer,1
+passive,1

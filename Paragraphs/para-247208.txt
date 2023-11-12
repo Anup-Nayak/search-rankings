@@ -1,0 +1,15 @@
+67,42,1
+whatever,1
+there,1
+is,1
+belongs,1
+to,1
+all,1
+this,1
+apparently,1
+small,1
+matter,1
+has,1
+far,1
+reaching,1
+implications,1

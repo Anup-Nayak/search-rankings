@@ -1,0 +1,9 @@
+51,448,14
+c,1
+compensation,1
+will,1
+not,1
+be,1
+given,1
+for,1
+deterioration,1

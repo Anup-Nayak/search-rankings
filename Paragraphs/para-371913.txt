@@ -1,0 +1,15 @@
+96,250,15
+gandhiji,1
+procceded,1
+to,1
+say,1
+that,1
+this,1
+was,1
+indeed,1
+true,1
+he,1
+had,1
+all,1
+along,1
+laboured,1

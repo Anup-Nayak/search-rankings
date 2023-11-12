@@ -1,0 +1,9 @@
+47,171,7
+i,1
+am,1
+now,1
+waiting,1
+for,1
+sushila,1
+to,1
+arrive,1

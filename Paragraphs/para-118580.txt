@@ -1,0 +1,6 @@
+35,139,5
+192,1
+letter,1
+to,1
+amritlal,1
+thakkar,1

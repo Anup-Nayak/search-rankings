@@ -1,0 +1,4 @@
+41,259,3
+293,1
+prem,1
+mahavidyalaya,1

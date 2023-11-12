@@ -1,0 +1,10 @@
+16,41,2
+ranchi,1
+adhik,1
+ashvin,1
+shukla,1
+9,1
+september,1
+25,1
+1917,1
+1,1

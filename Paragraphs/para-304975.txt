@@ -1,0 +1,12 @@
+80,481,8
+r,1
+on,1
+what,1
+condition,1
+will,1
+you,1
+have,1
+compromise,1
+with,1
+the,1
+league,1

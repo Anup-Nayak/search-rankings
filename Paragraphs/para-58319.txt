@@ -1,0 +1,9 @@
+16,484,6
+discussion,1
+be,1
+prepared,1
+with,1
+the,1
+least,1
+possible,1
+delay,1

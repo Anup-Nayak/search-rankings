@@ -1,0 +1,4 @@
+51,412,2
+428,1
+foreign,1
+missionaries,1

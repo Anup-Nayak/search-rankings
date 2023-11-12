@@ -1,0 +1,16 @@
+16,283,8
+1regarding,1
+this,1
+the,3
+addressee,1
+replied,1
+that,1
+question,1
+was,1
+to,1
+come,1
+up,1
+before,1
+council,1
+for,1
+consideration,1

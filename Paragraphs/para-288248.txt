@@ -1,0 +1,5 @@
+77,38,6
+47,1
+letter,1
+to,1
+pyarelal,1

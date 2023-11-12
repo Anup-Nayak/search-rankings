@@ -1,0 +1,15 @@
+27,409,9
+some,1
+charitable,1
+purposes,1
+this,1
+shows,1
+that,1
+by,1
+the,2
+grace,1
+of,1
+god,1
+press,1
+is,1
+not,1

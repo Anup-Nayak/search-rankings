@@ -1,0 +1,7 @@
+25,292,2
+1,1
+the,2
+preserver,1
+in,1
+hindu,1
+trinity,1

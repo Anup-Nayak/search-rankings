@@ -1,0 +1,6 @@
+39,24,2
+as,1
+at,1
+satyagraha,1
+ashram,1
+1,1

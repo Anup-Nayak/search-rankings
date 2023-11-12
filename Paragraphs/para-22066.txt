@@ -1,0 +1,3 @@
+7,324,3
+pitiable,1
+case,1

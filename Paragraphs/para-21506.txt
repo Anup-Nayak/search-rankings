@@ -1,0 +1,5 @@
+7,238,1
+196,1
+association,1
+in,1
+cape,1

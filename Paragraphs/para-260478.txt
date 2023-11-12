@@ -1,0 +1,14 @@
+70,75,3
+dr,1
+mott,1
+referred,1
+to,1
+the,2
+archbishop,1
+of,1
+canterburys,1
+speech,1
+1,1
+and,1
+talks,1
+he,1

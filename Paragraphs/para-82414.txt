@@ -1,0 +1,7 @@
+24,185,11
+trust,1
+no,1
+leaders,1
+in,1
+the,1
+fight,1

@@ -1,0 +1,15 @@
+66,188,2
+1,1
+no,1
+one,1
+from,1
+the,2
+village,1
+should,1
+attend,1
+khadi,1
+exhibition,1
+on,1
+pain,1
+of,1
+excommunication,1

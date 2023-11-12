@@ -1,0 +1,12 @@
+18,308,6
+the,3
+private,1
+secretary,1
+to,1
+his,1
+honour,1
+lieut,1
+governor,1
+of,1
+punjab,1
+lahore,1

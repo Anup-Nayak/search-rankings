@@ -1,0 +1,14 @@
+33,333,8
+should,1
+be,1
+observed,1
+in,1
+strict,1
+silence,1
+and,1
+secrecy,1
+the,1
+shastras,1
+say,1
+that,1
+virtue,1

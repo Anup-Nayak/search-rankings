@@ -1,0 +1,12 @@
+20,140,4
+1,1
+joint,1
+deputy,1
+commissioner,1
+gujranwala,1
+one,1
+of,1
+the,1
+martial,1
+law,1
+officers,1

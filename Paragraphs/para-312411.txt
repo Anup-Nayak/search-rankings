@@ -1,0 +1,14 @@
+82,212,6
+q,1
+4,1
+a,1
+national,1
+language,1
+is,1
+really,1
+more,1
+for,1
+speech,1
+than,1
+literary,1
+purposes,1

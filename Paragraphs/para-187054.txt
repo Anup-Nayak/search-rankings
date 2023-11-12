@@ -1,0 +1,11 @@
+53,55,5
+i,1
+a,1
+the,2
+article,1
+in,1
+constitution,1
+relating,1
+to,1
+fundamental,1
+rights,1

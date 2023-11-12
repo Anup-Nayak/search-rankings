@@ -1,0 +1,9 @@
+72,235,11
+4,1
+it,1
+cures,1
+constipation,1
+and,1
+promotes,1
+bowel,1
+action,1

@@ -1,0 +1,14 @@
+28,387,5
+too,1
+well,1
+how,2
+easy,1
+it,2
+is,2
+to,2
+be,1
+blind,1
+truth,1
+difficult,1
+for,1
+englishmen,1

@@ -1,0 +1,10 @@
+22,9,7
+one,1
+has,1
+authority,1
+in,1
+my,1
+name,1
+prefer,1
+any,1
+candidate,1

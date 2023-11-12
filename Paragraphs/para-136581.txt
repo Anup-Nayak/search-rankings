@@ -1,0 +1,6 @@
+40,4,7
+7,1
+speech,1
+to,1
+labour,1
+peravallur,1

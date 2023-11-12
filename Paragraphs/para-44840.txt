@@ -1,0 +1,9 @@
+13,395,12
+the,1
+rest,1
+are,1
+gathering,1
+at,1
+newcastle,1
+prior,1
+to,1

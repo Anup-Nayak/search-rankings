@@ -1,0 +1,9 @@
+92,245,9
+g,1
+one,2
+may,1
+waive,2
+a,2
+right,1
+cannot,1
+duty,1

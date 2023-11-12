@@ -1,0 +1,5 @@
+27,399,8
+free,1
+trade,1
+v,1
+protection,1

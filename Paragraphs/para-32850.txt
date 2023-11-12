@@ -1,0 +1,11 @@
+10,419,1
+does,1
+not,1
+the,3
+objection,1
+to,1
+site,1
+arise,1
+from,1
+structural,1
+conditions,1

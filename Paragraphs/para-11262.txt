@@ -1,0 +1,6 @@
+4,383,12
+the,1
+chief,1
+secretary,1
+for,1
+permits,1

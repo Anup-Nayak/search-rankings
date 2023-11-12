@@ -1,0 +1,6 @@
+2,113,8
+indian,1
+community,1
+in,1
+this,1
+colony,1

@@ -1,0 +1,13 @@
+5,72,5
+1,1
+unexceptionable,1
+2,1
+the,1
+last,1
+two,1
+sentences,1
+are,1
+in,2
+gandhijis,1
+hand,1
+gujarati,1

@@ -1,0 +1,10 @@
+17,210,10
+1,1
+s,1
+k,1
+rudra,1
+principal,1
+st,1
+stephens,1
+college,1
+delhi,1

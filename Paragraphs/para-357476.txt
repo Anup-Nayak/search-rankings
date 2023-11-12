@@ -1,0 +1,6 @@
+92,311,2
+451,1
+hindu,1
+pani,2
+and,1
+muslim,1

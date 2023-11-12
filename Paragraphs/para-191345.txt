@@ -1,0 +1,5 @@
+54,51,6
+mr,1
+gandhi,1
+six,1
+crores,1

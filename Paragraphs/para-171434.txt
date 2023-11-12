@@ -1,0 +1,4 @@
+49,230,2
+rashtriya,1
+stree,1
+sabha,1

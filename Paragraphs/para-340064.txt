@@ -1,0 +1,9 @@
+88,171,6
+give,1
+your,1
+version,1
+before,1
+you,1
+leave,1
+2,1
+hope,1

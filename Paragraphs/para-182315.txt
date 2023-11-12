@@ -1,0 +1,12 @@
+52,21,10
+1,1
+mahatma,2
+gandhis,1
+ideas,1
+1929,1
+and,1
+gandhi,1
+his,1
+own,1
+story,1
+1930,1

@@ -1,0 +1,7 @@
+35,52,3
+83,1
+letter,1
+to,1
+richard,1
+b,1
+gregg,1

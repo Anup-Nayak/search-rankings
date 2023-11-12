@@ -1,0 +1,5 @@
+9,17,2
+mass,1
+meeting,1
+on,1
+thursday,1

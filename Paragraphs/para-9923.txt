@@ -1,0 +1,8 @@
+4,210,3
+a,1
+not,1
+in,1
+the,2
+centre,1
+of,1
+town,1

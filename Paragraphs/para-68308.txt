@@ -1,0 +1,7 @@
+19,331,5
+1,1
+truth,1
+even,1
+unto,1
+the,1
+wicked,1

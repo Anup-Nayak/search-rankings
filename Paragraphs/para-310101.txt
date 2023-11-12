@@ -1,0 +1,12 @@
+82,22,10
+from,1
+these,2
+unqualified,1
+and,1
+ill,1
+paid,1
+teachers,1
+boys,1
+never,1
+get,1
+the,1

@@ -1,0 +1,5 @@
+62,379,5
+412,1
+speech,1
+at,1
+doddaballapur,1

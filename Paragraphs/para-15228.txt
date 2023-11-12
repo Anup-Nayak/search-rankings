@@ -1,0 +1,6 @@
+6,4,2
+i,1
+remain,1
+yours,1
+faithfully,1
+enclosure,1

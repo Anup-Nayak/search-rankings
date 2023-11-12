@@ -1,0 +1,8 @@
+24,185,1
+trust,1
+in,1
+food,1
+and,1
+do,1
+the,1
+right,1

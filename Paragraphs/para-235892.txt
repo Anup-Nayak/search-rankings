@@ -1,0 +1,9 @@
+64,285,8
+am,2
+quite,1
+fit,1
+listened,1
+letter,1
+reported,1
+definitely,1
+opinion,1

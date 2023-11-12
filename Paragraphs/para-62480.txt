@@ -1,0 +1,4 @@
+17,443,2
+south,1
+african,1
+parallel,1

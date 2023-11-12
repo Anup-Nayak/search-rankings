@@ -1,0 +1,8 @@
+23,198,3
+tell,1
+them,1
+retention,1
+recognition,1
+clause,1
+quite,1
+harmless,1

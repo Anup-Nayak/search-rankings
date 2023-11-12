@@ -1,0 +1,8 @@
+13,395,11
+teen,1
+hundred,1
+strikers,1
+are,1
+at,1
+charlestown,1
+and,1

@@ -1,0 +1,8 @@
+41,430,3
+publisher,1
+who,1
+holds,1
+rights,1
+publication,1
+entire,1
+book,1

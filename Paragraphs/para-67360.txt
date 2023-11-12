@@ -1,0 +1,15 @@
+19,222,4
+and,1
+if,1
+anything,1
+of,1
+that,2
+sort,1
+occurred,1
+inevitably,1
+violence,1
+or,1
+riot,1
+would,2
+ensue,1
+yes,1

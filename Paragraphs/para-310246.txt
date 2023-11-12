@@ -1,0 +1,4 @@
+82,32,7
+my,1
+dear,1
+malkani,1

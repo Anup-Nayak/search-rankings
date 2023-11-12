@@ -1,0 +1,10 @@
+65,31,1
+34,1
+letter,1
+to,1
+vaman,1
+g,1
+joshi,1
+september,1
+20,1
+1934,1

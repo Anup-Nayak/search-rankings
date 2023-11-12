@@ -1,0 +1,15 @@
+17,350,2
+1,1
+truth,1
+against,2
+a,2
+rogue,2
+the,1
+original,1
+sanskrit,1
+phrase,1
+is,1
+shatham,1
+prati,1
+shaathyam,1
+roguery,1

@@ -1,0 +1,8 @@
+1,254,8
+1,1
+the,2
+original,1
+does,1
+not,1
+furnish,1
+summary,1

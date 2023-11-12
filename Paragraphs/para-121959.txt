@@ -1,0 +1,13 @@
+36,79,7
+1,1
+gregg,1
+later,1
+wrote,1
+the,2
+economics,1
+of,2
+khaddar,1
+and,1
+power,1
+non,1
+violence,1

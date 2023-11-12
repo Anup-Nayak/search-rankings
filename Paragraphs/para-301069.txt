@@ -1,0 +1,7 @@
+80,112,1
+sell,1
+their,1
+property,1
+to,1
+pay,1
+it,1

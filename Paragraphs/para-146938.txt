@@ -1,0 +1,6 @@
+42,465,19
+the,1
+story,1
+of,1
+bardoli,1
+pp,1

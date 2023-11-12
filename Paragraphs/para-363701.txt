@@ -1,0 +1,17 @@
+94,67,8
+gandhiji,1
+expressed,1
+his,1
+resolve,1
+to,2
+go,1
+back,1
+noakhali,1
+i,1
+shall,1
+continue,1
+my,2
+work,1
+there,1
+after,1
+return,1

@@ -1,0 +1,11 @@
+48,25,10
+positive,1
+you,1
+ought,1
+stay,1
+winter,1
+out,1
+in,1
+almora,1
+god,1
+will,1

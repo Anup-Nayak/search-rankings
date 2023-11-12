@@ -1,0 +1,6 @@
+10,71,1
+53,1
+letter,1
+to,1
+kashi,1
+gandhi,1

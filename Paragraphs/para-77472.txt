@@ -1,0 +1,12 @@
+22,347,1
+which,2
+has,1
+given,1
+it,2
+a,1
+stoop,1
+does,1
+not,1
+even,1
+sometimes,1
+recognize,1

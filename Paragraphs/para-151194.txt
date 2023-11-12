@@ -1,0 +1,14 @@
+43,475,3
+at,1
+mondays,1
+sitting,1
+of,1
+the,2
+congress,1
+mahatma,1
+gandhi,1
+moved,1
+following,1
+compromise,1
+resolution,1
+2,1

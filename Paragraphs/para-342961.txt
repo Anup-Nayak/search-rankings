@@ -1,0 +1,8 @@
+89,45,2
+bapu,1
+from,1
+a,1
+photostat,1
+g,1
+n,1
+2114,1

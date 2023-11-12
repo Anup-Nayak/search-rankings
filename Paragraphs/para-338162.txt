@@ -1,0 +1,7 @@
+88,16,6
+38,1
+letter,1
+to,1
+mrs,1
+george,1
+joseph,1

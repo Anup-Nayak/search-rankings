@@ -1,0 +1,14 @@
+44,485,15
+t1,1
+in,2
+this,1
+paragraph,1
+guj,1
+gandhiji,1
+speaks,1
+of,2
+dada,1
+abdulla,1
+and,2
+not,1
+co,1

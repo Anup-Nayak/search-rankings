@@ -1,0 +1,7 @@
+35,116,4
+jallianwala,1
+bagh,1
+a,1
+karachi,1
+correspondent,1
+writes,1

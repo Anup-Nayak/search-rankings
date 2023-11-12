@@ -1,0 +1,8 @@
+6,41,21
+subjects,1
+have,1
+been,1
+treated,1
+in,1
+the,1
+transvaal,1

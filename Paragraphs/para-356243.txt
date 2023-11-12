@@ -1,0 +1,4 @@
+92,179,6
+256,1
+collective,1
+prayer,1

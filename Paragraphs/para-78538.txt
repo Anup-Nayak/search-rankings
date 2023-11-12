@@ -1,0 +1,4 @@
+23,20,6
+a,1
+garden,1
+school,1

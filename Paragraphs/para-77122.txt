@@ -1,0 +1,9 @@
+22,285,2
+is,1
+the,1
+establishment,1
+of,1
+an,1
+ideal,1
+government,1
+conceivable,1

@@ -1,0 +1,12 @@
+54,437,2
+madam,1
+carla,1
+hotel,1
+des,1
+ingenieurs,1
+52,1
+rue,1
+blanche,1
+paris,1
+montmartre,1
+france,1

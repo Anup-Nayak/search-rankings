@@ -1,0 +1,12 @@
+23,476,22
+should,1
+completely,1
+destroy,1
+foreign,1
+clothes,1
+of,1
+course,1
+everybody,1
+would,1
+like,1
+to,1

@@ -1,0 +1,9 @@
+10,311,3
+poverty,1
+and,1
+un,1
+british,1
+rule,1
+in,1
+india,1
+naoroji,1

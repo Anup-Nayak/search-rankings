@@ -1,0 +1,17 @@
+31,336,10
+determined,1
+to,2
+be,1
+united,1
+there,1
+was,1
+no,1
+power,1
+on,1
+earth,1
+separate,1
+them,1
+and,1
+he,1
+said,1
+that,1

@@ -1,0 +1,11 @@
+6,130,4
+have,1
+affidavits,1
+godfrey,1
+obtained,1
+signatures,1
+blank,1
+paper,1
+false,1
+pretences,1
+using,1

@@ -1,0 +1,6 @@
+78,353,8
+na,1
+barae,1
+fasl,1
+kardan,1
+amadi,1

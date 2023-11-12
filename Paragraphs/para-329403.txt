@@ -1,0 +1,8 @@
+86,71,7
+well,1
+chewed,1
+drink,1
+hot,1
+water,1
+honey,1
+soda,1

@@ -1,0 +1,6 @@
+83,59,3
+70,1
+letter,1
+to,1
+vallabhram,1
+vaidya,1

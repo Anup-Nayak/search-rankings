@@ -1,0 +1,15 @@
+82,107,4
+there,1
+is,1
+plenty,1
+more,1
+to,1
+be,1
+done,1
+in,1
+this,2
+field,1
+and,1
+i,1
+can,1
+commend,1

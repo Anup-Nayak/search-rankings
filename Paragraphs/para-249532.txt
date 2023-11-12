@@ -1,0 +1,8 @@
+67,272,8
+they,1
+want,1
+you,1
+quick,1
+calcutta,1
+come,1
+immediately,1

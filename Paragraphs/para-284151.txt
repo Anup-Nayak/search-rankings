@@ -1,0 +1,6 @@
+76,31,3
+35,1
+letter,1
+to,1
+prithvi,1
+singh,1

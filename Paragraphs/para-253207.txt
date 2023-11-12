@@ -1,0 +1,11 @@
+68,209,6
+take,1
+charge,1
+send,1
+abstract,1
+stock,1
+with,1
+present,1
+prices,1
+and,1
+list,1

@@ -1,0 +1,10 @@
+19,362,10
+has,1
+to,1
+win,1
+world,1
+opinion,1
+its,2
+strength,1
+lies,1
+in,1

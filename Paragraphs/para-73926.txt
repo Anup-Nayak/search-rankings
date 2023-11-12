@@ -1,0 +1,13 @@
+21,238,18
+organization,1
+the,2
+old,1
+creed,1
+of,1
+congress,1
+according,1
+to,1
+him,1
+provided,1
+a,1
+platform,1

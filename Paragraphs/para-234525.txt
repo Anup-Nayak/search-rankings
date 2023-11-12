@@ -1,0 +1,13 @@
+64,132,10
+a,1
+single,1
+harijan,1
+was,1
+housed,1
+in,3
+karachi,1
+any,1
+quarters,1
+which,1
+they,1
+themselves,1

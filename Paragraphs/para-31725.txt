@@ -1,0 +1,11 @@
+10,263,7
+1,1
+the,1
+original,1
+has,1
+they,1
+will,1
+not,1
+spare,1
+any,1
+effort,1

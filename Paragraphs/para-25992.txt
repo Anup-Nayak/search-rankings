@@ -1,0 +1,4 @@
+8,475,3
+closing,1
+of,1
+shops,1

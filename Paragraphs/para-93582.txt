@@ -1,0 +1,15 @@
+27,410,1
+manage,1
+to,1
+put,1
+some,1
+amount,1
+of,2
+the,2
+profit,1
+press,1
+in,1
+these,1
+papers,1
+and,1
+thus,1

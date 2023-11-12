@@ -1,0 +1,10 @@
+57,42,3
+59,1
+letter,1
+to,1
+verrier,1
+elwin,1
+september,1
+16,1
+1932,1
+1,1

@@ -1,0 +1,16 @@
+71,423,3
+common,1
+purpose,1
+is,1
+likely,1
+at,1
+least,1
+to,1
+secure,1
+that,1
+points,1
+of,1
+difference,1
+between,1
+them,1
+are,1

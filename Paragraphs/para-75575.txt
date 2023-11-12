@@ -1,0 +1,5 @@
+21,520,5
+principal,1
+asudomal,1
+tekchand,1
+gidwani,1

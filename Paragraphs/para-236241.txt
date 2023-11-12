@@ -1,0 +1,4 @@
+64,325,4
+illtreatment,1
+harijans,1
+talaja,1

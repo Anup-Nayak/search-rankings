@@ -1,0 +1,7 @@
+68,49,7
+67,1
+letter,1
+to,1
+purushottam,1
+g,1
+panse,1

@@ -1,0 +1,13 @@
+9,443,7
+1,1
+this,1
+had,1
+taken,1
+place,1
+earlier,1
+in,1
+the,2
+day,1
+vide,1
+preceding,1
+item,1

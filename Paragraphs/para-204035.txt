@@ -1,0 +1,10 @@
+57,116,13
+extreme,1
+kind,1
+and,1
+give,1
+strength,1
+undergo,1
+it,1
+when,1
+if,1

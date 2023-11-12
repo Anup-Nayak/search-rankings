@@ -1,0 +1,7 @@
+11,81,4
+89,1
+speech,1
+at,1
+tolstoy,1
+farm,1
+1,1

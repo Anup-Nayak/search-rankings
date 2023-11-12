@@ -1,0 +1,13 @@
+52,189,4
+employed,1
+by,1
+christian,1
+missions,1
+in,1
+their,1
+efforts,1
+to,1
+gain,1
+proselytes,1
+through,1
+edu,1

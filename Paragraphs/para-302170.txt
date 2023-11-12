@@ -1,0 +1,9 @@
+80,221,1
+send,1
+her,1
+before,1
+going,1
+lahore,1
+but,1
+you,1
+shall,1

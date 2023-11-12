@@ -1,0 +1,7 @@
+86,42,1
+82,1
+letter,1
+to,1
+atulchandra,1
+m,1
+ghosh,1

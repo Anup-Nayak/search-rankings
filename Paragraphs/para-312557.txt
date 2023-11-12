@@ -1,0 +1,16 @@
+82,225,12
+as,1
+the,1
+national,1
+language,1
+and,1
+it,1
+continues,1
+to,1
+do,1
+so,1
+urdu,1
+is,1
+a,1
+literary,1
+style,1

@@ -1,0 +1,17 @@
+27,454,4
+will,2
+not,1
+a,2
+defeat,1
+there,1
+speak,1
+disaster,1
+to,1
+the,1
+movement,1
+in,1
+general,1
+and,1
+if,1
+it,2
+is,1

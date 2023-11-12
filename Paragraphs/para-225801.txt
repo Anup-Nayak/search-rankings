@@ -1,0 +1,10 @@
+62,8,2
+wardha,1
+october,1
+1,1
+1933,1
+jawaharlal,1
+nehru,1
+anand,1
+bhawan,1
+allahabad,1

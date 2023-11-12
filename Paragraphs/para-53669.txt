@@ -1,0 +1,16 @@
+15,401,12
+1,1
+a,1
+leading,1
+planter,1
+manager,1
+of,1
+the,2
+motihari,1
+indigo,1
+concern,1
+oldest,1
+in,1
+champaran,1
+2,1
+jurisdiction,1

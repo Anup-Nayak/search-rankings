@@ -1,0 +1,9 @@
+30,44,15
+committee,1
+i,1
+would,1
+be,1
+in,1
+their,1
+hands,1
+during,1

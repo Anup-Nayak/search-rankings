@@ -1,0 +1,8 @@
+86,345,12
+parliamentary,1
+work,3
+will,1
+help,1
+constructive,2
+but,1
+need,1

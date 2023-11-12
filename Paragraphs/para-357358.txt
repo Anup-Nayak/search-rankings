@@ -1,0 +1,6 @@
+92,298,8
+2,1
+from,1
+indian,1
+annual,1
+register,1

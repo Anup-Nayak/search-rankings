@@ -1,0 +1,6 @@
+80,70,1
+123,1
+letter,1
+to,1
+ramadevi,1
+chowdhary,1

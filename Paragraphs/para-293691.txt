@@ -1,0 +1,13 @@
+78,213,4
+effort,1
+before,1
+hand,1
+we,1
+might,1
+become,1
+united,1
+by,1
+the,2
+time,1
+government,1
+is,1

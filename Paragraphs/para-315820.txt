@@ -1,0 +1,13 @@
+82,418,3
+l,1
+f,1
+have,1
+you,1
+never,1
+heard,1
+the,2
+story,1
+of,1
+columbus,1
+and,1
+egg,1

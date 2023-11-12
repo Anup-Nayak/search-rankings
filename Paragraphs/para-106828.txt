@@ -1,0 +1,16 @@
+31,321,16
+q,1
+do,1
+you,1
+not,1
+feel,1
+that,1
+non,1
+co,1
+operation,1
+is,1
+suffering,1
+most,1
+on,1
+account,1
+of,1

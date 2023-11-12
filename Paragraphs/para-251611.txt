@@ -1,0 +1,6 @@
+68,41,9
+maganwadi,1
+wardha,1
+october,1
+5,1
+1935,1

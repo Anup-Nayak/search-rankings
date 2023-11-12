@@ -1,0 +1,5 @@
+7,74,1
+53,1
+general,1
+smuts,1
+obdurate,1

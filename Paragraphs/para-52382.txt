@@ -1,0 +1,8 @@
+15,253,4
+192,1
+the,1
+present,1
+system,1
+of,1
+education,1
+1,1

@@ -1,0 +1,12 @@
+51,358,10
+nation,1
+to,1
+adopt,1
+the,2
+path,1
+of,2
+non,2
+violence,2
+out,1
+weakness,1
+which,1

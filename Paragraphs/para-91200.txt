@@ -1,0 +1,6 @@
+27,106,3
+jairamdas,1
+doulatram,1
+esq,1
+hyderabad,1
+sindh,1

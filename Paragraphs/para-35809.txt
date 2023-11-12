@@ -1,0 +1,8 @@
+11,257,9
+capetown,1
+and,1
+representatives,1
+transvaal,1
+indians,1
+atpresent,1
+situated,1

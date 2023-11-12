@@ -1,0 +1,6 @@
+14,483,4
+exetracts,1
+from,1
+solomon,1
+commission,1
+report,1

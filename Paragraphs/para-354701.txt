@@ -1,0 +1,14 @@
+92,7,5
+answer,1
+does,1
+it,1
+mean,1
+that,1
+the,2
+congress,1
+has,1
+lost,1
+its,1
+hold,1
+on,1
+people,1

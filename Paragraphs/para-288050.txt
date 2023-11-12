@@ -1,0 +1,10 @@
+77,14,8
+1,1
+addressees,1
+wife,1
+2,1
+prahladas,1
+father,1
+who,1
+defied,1
+god,1

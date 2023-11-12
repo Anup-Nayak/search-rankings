@@ -1,0 +1,9 @@
+13,56,1
+destroy,1
+the,2
+title,1
+to,1
+residence,1
+created,1
+by,1
+certificates,1

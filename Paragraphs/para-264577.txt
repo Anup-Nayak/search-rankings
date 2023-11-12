@@ -1,0 +1,6 @@
+71,141,7
+3,1
+oil,1
+pressing,1
+by,1
+ghani,1

@@ -1,0 +1,9 @@
+45,64,11
+1,1
+extracted,1
+from,1
+pyarelals,1
+weekly,1
+letter,1
+2,1
+ibid,1

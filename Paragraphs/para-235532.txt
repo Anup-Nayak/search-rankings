@@ -1,0 +1,17 @@
+64,234,15
+the,1
+question,1
+came,1
+up,1
+for,1
+voting,1
+he,1
+would,1
+be,1
+quite,1
+satisfied,1
+if,1
+there,1
+were,1
+only,1
+one,1

@@ -1,0 +1,11 @@
+19,45,15
+1,1
+vide,1
+letter,2
+to,1
+the,1
+press,1
+and,1
+circular,1
+10,2
+1919,1

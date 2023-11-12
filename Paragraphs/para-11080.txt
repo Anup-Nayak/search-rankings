@@ -1,0 +1,12 @@
+4,365,6
+1,1
+the,3
+original,1
+has,1
+what,1
+is,1
+wrought,1
+by,1
+hand,1
+hits,1
+heart,1

@@ -1,0 +1,9 @@
+47,9,9
+only,1
+fruit,1
+juice,1
+keep,1
+informed,1
+2,1
+leaving,1
+tour,1

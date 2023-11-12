@@ -1,0 +1,17 @@
+6,119,11
+dear,1
+sir,1
+i,1
+am,1
+obliged,1
+to,1
+mr,1
+balfour,1
+2,1
+for,1
+your,1
+letter,1
+of,1
+the,1
+19th,1
+instant,1

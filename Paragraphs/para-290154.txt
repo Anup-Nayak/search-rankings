@@ -1,0 +1,6 @@
+77,271,5
+delegates,1
+fee,1
+and,1
+the,1
+congress,1

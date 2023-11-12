@@ -1,0 +1,9 @@
+18,38,17
+crimes,1
+i,1
+would,1
+plead,1
+with,1
+you,1
+not,1
+to,1

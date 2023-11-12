@@ -1,0 +1,8 @@
+26,289,12
+who,1
+loves,1
+venkatappayya,1
+to,1
+discard,1
+all,1
+foreign,1

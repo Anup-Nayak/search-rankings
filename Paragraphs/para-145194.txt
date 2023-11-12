@@ -1,0 +1,7 @@
+42,266,7
+swaraj,1
+ashram,1
+bardoli,1
+july,1
+21,1
+1928,1

@@ -1,0 +1,13 @@
+65,215,7
+mr,1
+gandhi,1
+no,1
+i,2
+said,1
+had,1
+become,1
+a,1
+deadweight,1
+on,1
+the,1
+congress,1

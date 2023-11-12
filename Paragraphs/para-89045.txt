@@ -1,0 +1,8 @@
+26,289,13
+cloth,1
+take,1
+to,1
+spinning,1
+and,1
+remove,1
+untouch,1

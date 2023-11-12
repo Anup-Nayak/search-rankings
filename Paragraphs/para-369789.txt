@@ -1,0 +1,8 @@
+96,11,1
+22,1
+interview,1
+to,1
+deputation,1
+from,1
+quetta,1
+1,1

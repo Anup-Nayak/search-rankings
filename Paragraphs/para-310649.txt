@@ -1,0 +1,7 @@
+82,69,13
+why,1
+do,1
+you,1
+write,1
+in,1
+english,1

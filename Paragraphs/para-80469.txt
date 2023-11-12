@@ -1,0 +1,14 @@
+23,363,3
+cease,1
+doing,2
+that,2
+those,1
+who,1
+were,1
+trading,1
+in,1
+english,1
+cloth,1
+must,1
+stop,1
+and,1

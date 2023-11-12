@@ -1,0 +1,6 @@
+87,89,12
+1,1
+manager,1
+gandhi,1
+ashram,1
+meerut,1

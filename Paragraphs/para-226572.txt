@@ -1,0 +1,10 @@
+62,104,17
+4,1
+of,1
+jamnalal,1
+bajaj,1
+and,1
+dr,1
+sheikh,1
+mohammad,1
+alam,1

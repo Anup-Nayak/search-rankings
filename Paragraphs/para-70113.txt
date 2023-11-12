@@ -1,0 +1,6 @@
+20,95,11
+q,1
+how,1
+many,1
+were,1
+arrested,1

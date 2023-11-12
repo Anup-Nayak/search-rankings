@@ -1,0 +1,6 @@
+42,389,2
+454,1
+governments,1
+power,2
+v,1
+peoples,1

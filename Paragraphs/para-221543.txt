@@ -1,0 +1,9 @@
+61,49,5
+calcutta,1
+for,1
+treatment,1
+let,1
+thakkar,1
+come,1
+if,1
+thought,1

@@ -1,0 +1,8 @@
+82,14,16
+could,1
+not,1
+be,2
+i,1
+must,1
+satisfied,1
+with,1

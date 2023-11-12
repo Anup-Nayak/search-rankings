@@ -1,0 +1,10 @@
+11,304,7
+bill,1
+racial,1
+taint,1
+so,1
+is,1
+amendment,1
+required,1
+to,1
+cover,1

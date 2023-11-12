@@ -1,0 +1,12 @@
+30,85,2
+1,1
+gandhiji,1
+had,1
+returned,1
+to,1
+sabarmati,1
+from,1
+bhavnagar,1
+in,1
+the,1
+morning,1

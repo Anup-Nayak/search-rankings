@@ -1,0 +1,11 @@
+14,466,14
+it,1
+should,1
+be,1
+a,1
+strong,1
+one,1
+of,1
+not,1
+less,1
+than,1

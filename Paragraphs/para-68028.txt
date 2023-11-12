@@ -1,0 +1,14 @@
+19,293,2
+mahatma,1
+gandhiji,1
+you,1
+left,1
+bombay,1
+on,1
+the,2
+8th,1
+of,1
+april,1
+yes,1
+in,1
+evening,1

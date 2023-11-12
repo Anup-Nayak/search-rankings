@@ -1,0 +1,4 @@
+47,155,11
+mothers,1
+and,1
+sisters,1

@@ -1,0 +1,15 @@
+94,112,9
+question,1
+will,1
+you,1
+advise,1
+muslims,1
+to,2
+return,1
+their,1
+villages,1
+in,1
+the,1
+prevailing,1
+disturbed,1
+conditions,1

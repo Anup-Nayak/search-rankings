@@ -1,0 +1,9 @@
+42,198,1
+please,1
+return,1
+the,2
+letter,1
+at,1
+time,1
+of,1
+acknowledgment,1

@@ -1,0 +1,7 @@
+50,8,1
+12,1
+letter,1
+to,1
+mahalakshmi,1
+madhavji,1
+thakkar,1

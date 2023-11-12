@@ -1,0 +1,13 @@
+52,353,8
+this,1
+year,1
+two,2
+cafes,2
+in,1
+edinburgh,1
+have,1
+renewed,1
+the,1
+colour,1
+ban,1
+these,1

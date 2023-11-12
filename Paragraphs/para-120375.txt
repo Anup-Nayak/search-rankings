@@ -1,0 +1,7 @@
+35,355,1
+459,1
+letter,1
+to,1
+mulshanker,1
+kanji,1
+bhatt,1

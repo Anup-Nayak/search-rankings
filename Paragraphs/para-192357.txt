@@ -1,0 +1,9 @@
+54,193,16
+there,1
+getting,2
+serious,1
+imamsaheb,1
+daily,1
+temperature,1
+spitting,1
+no,1

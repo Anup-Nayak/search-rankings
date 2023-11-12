@@ -1,0 +1,11 @@
+82,245,10
+bapu,1
+shri,1
+haribhau,1
+upadhyaya,1
+p,1
+o,1
+rajkot,1
+via,1
+vadnagar,1
+marwar,1

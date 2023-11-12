@@ -1,0 +1,5 @@
+32,205,14
+that,1
+indication,1
+he,1
+said,1

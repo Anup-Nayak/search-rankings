@@ -1,0 +1,8 @@
+19,12,13
+please,1
+wire,1
+ahmedabad,1
+what,1
+being,1
+done,1
+lead,1

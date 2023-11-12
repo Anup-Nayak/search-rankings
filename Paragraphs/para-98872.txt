@@ -1,0 +1,8 @@
+29,185,16
+obvious,1
+duty,1
+however,1
+painful,1
+fast,1
+direct,1
+result,1

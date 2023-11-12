@@ -1,0 +1,15 @@
+10,65,8
+mr,2
+merriman,1
+general,1
+smuts,1
+moore,1
+and,1
+other,1
+ministers,1
+of,1
+south,1
+africa,1
+left,1
+last,1
+week,1

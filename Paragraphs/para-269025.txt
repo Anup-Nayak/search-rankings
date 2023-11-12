@@ -1,0 +1,6 @@
+72,223,10
+300,1
+telegram,1
+to,1
+nilratan,1
+sarkar,1

@@ -1,0 +1,6 @@
+36,160,1
+180,1
+towards,1
+moral,1
+bankruptcy,1
+vi,1

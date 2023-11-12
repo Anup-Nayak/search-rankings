@@ -1,0 +1,6 @@
+21,44,1
+29,1
+the,1
+law,1
+of,1
+majorities,1

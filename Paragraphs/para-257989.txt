@@ -1,0 +1,12 @@
+69,269,8
+q,1
+they,2
+boycott,1
+us,2
+will,1
+not,1
+allow,1
+to,1
+use,1
+their,1
+wells,1

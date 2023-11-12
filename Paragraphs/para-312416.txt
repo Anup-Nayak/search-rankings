@@ -1,0 +1,17 @@
+82,212,11
+q,1
+5,1
+if,1
+it,1
+is,1
+not,1
+possible,1
+to,1
+make,1
+real,1
+contacts,1
+with,1
+the,1
+non,1
+hindi,1
+knowing,1

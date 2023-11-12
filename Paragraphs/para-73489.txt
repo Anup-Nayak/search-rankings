@@ -1,0 +1,13 @@
+21,142,5
+do,1
+you,1
+think,1
+that,1
+non,2
+co,1
+operation,1
+and,1
+the,2
+boycott,1
+of,1
+legislative,1

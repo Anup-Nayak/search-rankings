@@ -1,0 +1,14 @@
+43,425,4
+but,1
+in,2
+south,1
+africa,1
+you,1
+supported,1
+an,1
+alien,1
+government,1
+its,1
+war,1
+against,1
+the,1

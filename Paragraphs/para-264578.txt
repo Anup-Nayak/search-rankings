@@ -1,0 +1,6 @@
+71,141,8
+4,1
+date,1
+palm,1
+gur,1
+making,1

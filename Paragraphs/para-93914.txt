@@ -1,0 +1,12 @@
+27,453,14
+available,1
+to,1
+us,1
+in,1
+a,1
+fight,1
+both,1
+against,2
+friend,1
+and,1
+foe,1

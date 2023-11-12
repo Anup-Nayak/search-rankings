@@ -1,0 +1,17 @@
+66,96,7
+oh,1
+my,1
+living,1
+hardly,1
+much,2
+but,1
+still,1
+one,1
+has,1
+to,1
+live,1
+tell,1
+me,1
+how,1
+you,1
+need,1

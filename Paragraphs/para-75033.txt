@@ -1,0 +1,8 @@
+21,448,1
+255,1
+sppech,1
+at,1
+meeting,1
+in,1
+nasik,1
+1,1

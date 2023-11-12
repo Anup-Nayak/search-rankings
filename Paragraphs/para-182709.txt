@@ -1,0 +1,5 @@
+52,67,11
+dear,1
+lala,1
+khan,1
+chand,1

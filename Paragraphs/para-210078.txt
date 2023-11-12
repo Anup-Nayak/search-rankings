@@ -1,0 +1,13 @@
+58,291,8
+bapu,1
+ps,1
+in,1
+all,1
+there,1
+are,2
+29,1
+letters,1
+and,1
+they,1
+stringed,1
+together,1

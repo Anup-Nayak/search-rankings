@@ -1,0 +1,6 @@
+57,92,9
+1,1
+of,1
+poona,1
+agriculture,1
+college,1

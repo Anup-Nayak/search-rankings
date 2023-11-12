@@ -1,0 +1,14 @@
+23,458,18
+the,1
+mahatma,1
+maharashtra,1
+lacked,1
+in,1
+faith,1
+swaraj,1
+within,1
+a,2
+year,1
+was,1
+certainty,1
+if,1

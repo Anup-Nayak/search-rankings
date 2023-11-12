@@ -1,0 +1,14 @@
+82,387,31
+beauty,1
+there,1
+is,1
+an,1
+exception,1
+of,2
+course,1
+if,1
+the,2
+non,2
+violent,1
+co,1
+operation,1

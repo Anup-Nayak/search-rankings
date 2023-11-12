@@ -1,0 +1,6 @@
+6,34,3
+2,1
+the,1
+original,1
+has,1
+strange,1

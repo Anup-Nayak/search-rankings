@@ -1,0 +1,8 @@
+69,243,9
+kamalnayan,1
+bajaj,1
+indian,1
+contingent,1
+olympic,1
+village,1
+berlin,1

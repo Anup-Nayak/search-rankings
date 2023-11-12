@@ -1,0 +1,17 @@
+70,437,7
+3,1
+tanks,1
+reserved,2
+for,1
+the,2
+exclusive,1
+use,1
+of,2
+particular,1
+functionaries,1
+temple,1
+shall,1
+continue,1
+to,1
+be,1
+so,1

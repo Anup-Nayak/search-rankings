@@ -1,0 +1,10 @@
+83,48,7
+bhai,1
+gopichand,1
+you,1
+are,1
+carrying,1
+on,1
+your,1
+struggle,1
+well,1

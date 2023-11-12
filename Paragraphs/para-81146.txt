@@ -1,0 +1,7 @@
+23,473,6
+khwaja,1
+saheb,1
+national,1
+muslim,1
+university,1
+aligarh,1

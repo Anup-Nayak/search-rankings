@@ -1,0 +1,14 @@
+87,111,2
+for,1
+the,2
+present,1
+i,1
+will,1
+not,1
+put,1
+you,1
+to,1
+trouble,1
+of,1
+coming,1
+here,1

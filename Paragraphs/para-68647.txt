@@ -1,0 +1,12 @@
+19,373,2
+1,1
+dr,2
+joseph,1
+nunan,2
+2,1
+gandhiji,1
+met,1
+on,1
+february,1
+i,1
+1920,1

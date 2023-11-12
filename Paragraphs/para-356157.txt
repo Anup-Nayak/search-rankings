@@ -1,0 +1,4 @@
+92,170,4
+bapu,1
+dewan,1
+bikaner,1

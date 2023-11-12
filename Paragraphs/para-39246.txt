@@ -1,0 +1,14 @@
+12,148,4
+1,1
+demons,1
+2,1
+a,2
+sharpened,1
+iron,1
+stake,1
+on,1
+which,1
+condemned,1
+person,1
+was,1
+impaled,1

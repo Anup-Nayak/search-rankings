@@ -1,0 +1,12 @@
+92,330,11
+1,1
+american,1
+unitarian,1
+clergyman,1
+pastor,1
+of,2
+the,1
+community,1
+church,1
+new,1
+york,1

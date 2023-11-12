@@ -1,0 +1,6 @@
+46,290,2
+ashram,1
+sabarmati,1
+july,1
+19,1
+1929,1

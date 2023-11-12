@@ -1,0 +1,9 @@
+21,517,2
+3,1
+gradual,1
+boycott,1
+of,1
+government,1
+schools,1
+and,1
+colleges,1

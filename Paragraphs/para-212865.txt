@@ -1,0 +1,6 @@
+59,64,3
+l,1
+r,1
+pangarkar,1
+nasik,1
+city,1

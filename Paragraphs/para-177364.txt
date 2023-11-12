@@ -1,0 +1,17 @@
+50,437,1
+this,1
+is,1
+similar,1
+to,1
+the,2
+exploring,1
+of,2
+himalayas,1
+which,1
+involves,1
+facing,1
+a,1
+number,1
+difficulties,1
+and,1
+cliffs,1

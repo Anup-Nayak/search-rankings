@@ -1,0 +1,15 @@
+39,270,3
+the,2
+shop,1
+was,1
+about,1
+to,1
+be,1
+closed,1
+for,1
+want,1
+of,1
+good,1
+sales,1
+but,1
+energetic,1

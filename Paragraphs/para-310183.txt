@@ -1,0 +1,11 @@
+82,27,6
+these,1
+days,1
+we,1
+are,1
+all,1
+learning,1
+urdu,1
+with,1
+great,1
+interest,1

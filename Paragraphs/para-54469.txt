@@ -1,0 +1,10 @@
+15,487,3
+a,1
+if,2
+the,1
+incident,1
+of,1
+tenancy,1
+existed,1
+and,1
+so,1

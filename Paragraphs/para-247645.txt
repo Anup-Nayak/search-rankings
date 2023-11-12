@@ -1,0 +1,14 @@
+67,84,10
+gandhiji,1
+yes,1
+let,1
+the,1
+rich,1
+man,1
+take,1
+5,1
+per,3
+cent,3
+or,2
+10,1
+15,1

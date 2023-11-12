@@ -1,0 +1,8 @@
+87,132,10
+offensive,1
+who,1
+will,1
+represent,1
+them,1
+at,1
+your,1

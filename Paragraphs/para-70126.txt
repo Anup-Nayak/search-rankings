@@ -1,0 +1,8 @@
+20,96,3
+q,1
+it,1
+was,1
+very,1
+hot,1
+in,1
+lahore,1

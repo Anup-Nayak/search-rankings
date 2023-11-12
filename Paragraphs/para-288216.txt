@@ -1,0 +1,10 @@
+77,34,18
+of,1
+the,3
+crisis,1
+congress,1
+has,1
+left,1
+door,1
+open,1
+to,1

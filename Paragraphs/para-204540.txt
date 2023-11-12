@@ -1,0 +1,10 @@
+57,157,11
+bound,2
+receive,1
+my,1
+consent,1
+previous,1
+to,1
+fast,1
+and,1
+was,1

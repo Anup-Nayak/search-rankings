@@ -1,0 +1,16 @@
+94,362,2
+1,1
+namely,1
+bengal,1
+and,1
+sind,1
+2,1
+he,1
+was,1
+the,1
+vice,1
+chancellor,1
+of,1
+jamia,1
+millia,1
+islamia,1

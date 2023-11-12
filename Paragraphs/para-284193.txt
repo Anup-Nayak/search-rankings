@@ -1,0 +1,17 @@
+76,35,11
+1,1
+for,1
+gandhijis,1
+article,1
+on,1
+the,4
+resistance,1
+of,2
+parsi,1
+community,1
+to,1
+liquor,1
+policy,1
+congress,1
+ibid,1
+pp,1

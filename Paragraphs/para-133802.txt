@@ -1,0 +1,9 @@
+39,108,3
+captain,1
+j,1
+w,1
+petavel,1
+esq,1
+bagh,1
+bazaar,1
+calcutta,1

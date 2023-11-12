@@ -1,0 +1,15 @@
+51,188,17
+i,2
+had,1
+made,1
+plain,1
+at,1
+our,1
+first,1
+interview,1
+regarded,1
+the,1
+question,1
+in,1
+present,1
+circumstances,1

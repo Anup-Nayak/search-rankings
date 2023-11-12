@@ -1,0 +1,9 @@
+94,287,2
+1,1
+ones,1
+own,1
+duty,1
+2,1
+land,1
+of,1
+impurity,1

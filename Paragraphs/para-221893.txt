@@ -1,0 +1,6 @@
+61,87,3
+93,1
+a,2
+confession,1
+and,1
+warning,1

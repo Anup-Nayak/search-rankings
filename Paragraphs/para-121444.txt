@@ -1,0 +1,10 @@
+36,12,7
+11,1
+letter,1
+to,1
+mrs,2
+r,2
+armstrong,1
+and,1
+p,1
+howard,1

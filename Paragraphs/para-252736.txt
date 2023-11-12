@@ -1,0 +1,14 @@
+68,160,1
+want,1
+to,1
+become,1
+a,2
+villager,2
+you,1
+should,1
+like,1
+true,1
+foreget,1
+all,1
+other,1
+things,1

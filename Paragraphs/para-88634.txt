@@ -1,0 +1,6 @@
+26,207,2
+i,1
+have,1
+lost,1
+all,1
+credit,1

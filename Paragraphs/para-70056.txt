@@ -1,0 +1,7 @@
+20,84,2
+1,1
+palwal,1
+between,1
+mathura,1
+and,1
+delhi,1

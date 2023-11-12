@@ -1,0 +1,9 @@
+2,237,7
+nature,1
+of,1
+the,1
+license,1
+whether,1
+wholesale,1
+or,1
+retail,1

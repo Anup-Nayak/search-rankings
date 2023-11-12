@@ -1,0 +1,10 @@
+91,290,2
+he,1
+who,1
+explores,1
+the,2
+branch,1
+and,1
+forgets,1
+root,1
+strays,1

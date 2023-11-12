@@ -1,0 +1,6 @@
+38,381,5
+383,1
+letter,1
+t0,1
+motilal,1
+nehru,1

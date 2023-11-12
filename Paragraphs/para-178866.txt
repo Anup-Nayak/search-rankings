@@ -1,0 +1,9 @@
+51,112,10
+no,1
+instructions,1
+fast,1
+now,1
+continue,1
+do,1
+what,1
+is,1

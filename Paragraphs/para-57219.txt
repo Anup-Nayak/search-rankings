@@ -1,0 +1,7 @@
+16,341,2
+from,1
+gujarati,1
+mahadevbhaini,1
+diary,1
+vol,1
+iv,1

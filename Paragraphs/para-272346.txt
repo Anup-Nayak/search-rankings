@@ -1,0 +1,7 @@
+73,111,6
+segaon,1
+silence,1
+day,1
+april,1
+18,1
+1938,1

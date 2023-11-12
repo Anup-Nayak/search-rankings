@@ -1,0 +1,7 @@
+42,84,3
+117,1
+letter,1
+to,1
+j,1
+b,1
+pennington,1

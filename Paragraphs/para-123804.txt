@@ -1,0 +1,10 @@
+36,289,3
+mohandas,1
+bechar,1
+bhanji,1
+teacher,1
+via,1
+kundala,1
+at,1
+amba,1
+kathiawar,1

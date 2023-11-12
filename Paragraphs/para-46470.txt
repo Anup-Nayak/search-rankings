@@ -1,0 +1,8 @@
+14,70,14
+such,1
+lecture,1
+at,1
+present,1
+critical,1
+time,1
+thanked,1

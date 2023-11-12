@@ -1,0 +1,12 @@
+31,349,8
+everyone,1
+is,1
+a,1
+friend,1
+of,1
+his,1
+on,1
+whom,1
+good,1
+fortune,1
+smiles,1

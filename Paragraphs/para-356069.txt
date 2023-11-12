@@ -1,0 +1,5 @@
+92,160,11
+khansaheb,1
+and,1
+badshah,1
+khan,1

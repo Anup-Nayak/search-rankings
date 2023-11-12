@@ -1,0 +1,16 @@
+96,422,12
+remained,1
+as,2
+strong,1
+ever,1
+after,1
+what,1
+the,1
+acharya,1
+had,1
+told,1
+him,1
+he,2
+said,1
+in,1
+fact,1

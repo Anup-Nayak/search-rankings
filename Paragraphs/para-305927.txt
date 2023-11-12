@@ -1,0 +1,10 @@
+81,73,14
+1,1
+founder,1
+editor,1
+of,2
+kalki,1
+a,1
+tamil,1
+weekly,1
+madras,1

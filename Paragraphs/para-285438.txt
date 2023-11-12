@@ -1,0 +1,13 @@
+76,178,2
+bidi,1
+manufacture,1
+is,1
+a,2
+very,1
+lucrative,1
+but,1
+harmful,1
+industry,1
+in,1
+this,1
+province,1

@@ -1,0 +1,5 @@
+90,114,9
+abdul,1
+karim,1
+sheikh,1
+maulana,1

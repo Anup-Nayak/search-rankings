@@ -1,0 +1,11 @@
+70,305,13
+from,1
+a,1
+gujarati,1
+c,1
+w,1
+1563,1
+courtesy,1
+manubehn,1
+s,1
+mashruwala,1

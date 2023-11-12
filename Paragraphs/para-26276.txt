@@ -1,0 +1,11 @@
+9,13,4
+the,2
+magisstrate,1
+to,2
+mr,1
+jefferson,1
+are,1
+you,1
+permitted,1
+show,1
+document,1

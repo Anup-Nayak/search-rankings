@@ -1,0 +1,5 @@
+12,78,10
+ashram,1
+bhajanono,1
+swadhyaya,1
+p,1

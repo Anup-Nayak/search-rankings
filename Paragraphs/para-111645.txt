@@ -1,0 +1,4 @@
+33,130,2
+spinners,1
+please,1
+note,1

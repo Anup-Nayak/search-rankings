@@ -1,0 +1,7 @@
+13,434,11
+287,1
+letter,1
+to,1
+the,1
+natal,1
+mercury,1

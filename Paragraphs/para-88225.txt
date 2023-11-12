@@ -1,0 +1,10 @@
+26,135,6
+bombay,1
+february,1
+9,1
+1922,1
+devdas,1
+gandhi,1
+congress,1
+office,1
+gorakhpur,1

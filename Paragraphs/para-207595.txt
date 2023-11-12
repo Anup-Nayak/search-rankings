@@ -1,0 +1,12 @@
+58,31,5
+m,1
+k,1
+gandhi,1
+kashinath,1
+n,1
+kelkar,1
+advocate,1
+yadugopal,1
+peth,1
+satara,1
+city,1

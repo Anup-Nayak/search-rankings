@@ -1,0 +1,6 @@
+52,42,2
+rajendra,1
+prasad,1
+sadaquat,1
+ashram,1
+dt,1

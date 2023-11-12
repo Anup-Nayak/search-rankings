@@ -1,0 +1,15 @@
+19,236,10
+1,1
+this,1
+was,1
+the,4
+satyagraha,1
+pledge,1
+quoted,1
+in,1
+statement,1
+of,2
+government,1
+bombay,1
+to,1
+committee,1

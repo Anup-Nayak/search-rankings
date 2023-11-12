@@ -1,0 +1,10 @@
+21,54,3
+would,1
+they,1
+die,1
+for,2
+councillorships,1
+and,1
+titles,1
+or,1
+god,1

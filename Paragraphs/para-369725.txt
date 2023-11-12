@@ -1,0 +1,16 @@
+96,3,9
+1,1
+who,2
+is,2
+a,2
+socialist,2
+vide,1
+6,1
+7,1
+1947,1
+2,1
+omission,1
+as,1
+in,1
+the,1
+source,1

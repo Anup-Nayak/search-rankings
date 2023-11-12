@@ -1,0 +1,7 @@
+92,340,1
+495,1
+letter,1
+to,1
+ganga,1
+p,1
+bhatt,1

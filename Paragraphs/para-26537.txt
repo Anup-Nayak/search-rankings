@@ -1,0 +1,6 @@
+9,38,8
+26,1
+duty,1
+of,1
+the,1
+educated,1

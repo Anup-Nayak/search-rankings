@@ -1,0 +1,9 @@
+93,302,9
+assist,1
+any,1
+person,1
+oppressed,1
+whether,1
+muslim,2
+or,1
+non,1

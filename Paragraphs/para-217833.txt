@@ -1,0 +1,17 @@
+60,99,7
+1,1
+to,2
+10,1
+the,2
+names,2
+have,2
+been,2
+omitted,2
+11,1
+vide,1
+bhagavad,1
+gita,1
+xl,1
+25,1
+12,1
+15,1

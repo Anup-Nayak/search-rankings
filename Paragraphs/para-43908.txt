@@ -1,0 +1,6 @@
+13,270,1
+173,1
+important,1
+judgment,1
+about,1
+marriage,1

@@ -1,0 +1,16 @@
+6,39,5
+place,1
+upon,1
+us,1
+by,2
+vetoing,1
+it,1
+or,1
+at,1
+least,1
+granting,1
+a,1
+commission,1
+we,1
+are,1
+loyal,1

@@ -1,0 +1,11 @@
+20,442,20
+sheikh,1
+abul,1
+kalam,1
+azad,1
+maulvi,2
+akram,1
+khan,1
+muniruzzaman,1
+mr,1
+yakub,1

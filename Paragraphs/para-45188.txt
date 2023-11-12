@@ -1,0 +1,9 @@
+13,430,13
+manilal,1
+gandhi,1
+others,1
+all,1
+known,1
+to,1
+you,1
+kicked,1

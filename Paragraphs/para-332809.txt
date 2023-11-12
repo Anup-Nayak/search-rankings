@@ -1,0 +1,7 @@
+86,400,10
+701,1
+letter,1
+to,1
+kailas,1
+d,1
+master,1

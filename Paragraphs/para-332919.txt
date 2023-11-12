@@ -1,0 +1,16 @@
+86,411,9
+tej,1
+wanti,1
+do,1
+not,1
+ask,2
+me,2
+hypothetical,1
+questions,1
+you,1
+may,1
+if,1
+there,1
+is,1
+something,1
+concrete,1

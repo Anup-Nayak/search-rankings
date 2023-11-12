@@ -1,0 +1,7 @@
+29,107,1
+78,1
+birth,1
+anniversary,1
+of,1
+dadabhai,1
+naoroji,1

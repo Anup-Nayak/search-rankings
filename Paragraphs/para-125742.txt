@@ -1,0 +1,15 @@
+36,508,12
+perishable,1
+to,2
+kill,1
+for,1
+protecting,1
+a,2
+body,1
+which,1
+has,1
+no,1
+real,1
+value,1
+you,1
+creature,1

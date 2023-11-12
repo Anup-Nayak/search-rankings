@@ -1,0 +1,14 @@
+82,91,18
+5,1
+the,2
+idea,1
+of,3
+pakistan,1
+is,1
+a,2
+result,1
+muslim,1
+fears,1
+and,1
+want,1
+liberal,1

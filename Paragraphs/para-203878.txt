@@ -1,0 +1,10 @@
+57,106,10
+the,1
+whole,1
+world,1
+those,1
+who,1
+have,1
+at,1
+all,1
+followed,1

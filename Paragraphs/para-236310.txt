@@ -1,0 +1,7 @@
+64,332,4
+who,1
+alone,1
+can,1
+issue,1
+authoritative,1
+repudiation,1

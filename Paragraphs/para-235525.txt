@@ -1,0 +1,10 @@
+64,234,8
+that,1
+they,1
+could,1
+not,1
+develop,1
+a,1
+sense,1
+of,1
+discipline,1

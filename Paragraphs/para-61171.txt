@@ -1,0 +1,16 @@
+17,281,8
+1,1
+from,1
+the,2
+contents,1
+of,1
+letter,1
+it,1
+is,1
+evident,1
+that,1
+this,1
+was,1
+written,1
+in,1
+1919,1

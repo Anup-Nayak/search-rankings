@@ -1,0 +1,10 @@
+24,322,6
+2,1
+gandhiji,1
+was,1
+at,1
+trichinopoly,1
+on,1
+september,1
+19,1
+1921,1

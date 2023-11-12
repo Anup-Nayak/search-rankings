@@ -1,0 +1,12 @@
+82,330,12
+i,2
+hope,1
+you,2
+can,1
+read,1
+devanagari,1
+am,1
+glad,1
+like,1
+my,1
+articles,1

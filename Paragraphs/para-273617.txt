@@ -1,0 +1,6 @@
+73,258,3
+kanti,1
+gandhi,1
+harijansewak,1
+sangh,1
+bangalore,1

@@ -1,0 +1,6 @@
+70,308,6
+339,1
+speech,1
+at,1
+sherthalai,1
+1,1

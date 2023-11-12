@@ -1,0 +1,7 @@
+87,144,4
+evening,1
+in,1
+order,1
+regularize,1
+procedure,1
+and,1

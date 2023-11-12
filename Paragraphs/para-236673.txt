@@ -1,0 +1,4 @@
+64,373,7
+chandol,1
+guntur,1
+dt,1

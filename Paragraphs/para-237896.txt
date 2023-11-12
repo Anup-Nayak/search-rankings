@@ -1,0 +1,16 @@
+65,46,4
+yours,1
+sincerely,1
+m,1
+k,2
+gandhi,1
+sjt,1
+nirmal,1
+bose,1
+khadi,1
+sangh,1
+bolpur,1
+p,1
+o,1
+birbhum,1
+1,1

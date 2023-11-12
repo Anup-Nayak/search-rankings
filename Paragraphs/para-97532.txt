@@ -1,0 +1,11 @@
+29,8,5
+another,1
+picture,1
+of,1
+the,1
+same,1
+tahsil,1
+is,1
+given,1
+below,1
+2,1

@@ -1,0 +1,17 @@
+39,259,9
+1,1
+in,1
+reply,1
+to,1
+the,1
+addressees,1
+letter,1
+dated,2
+june,2
+23,1
+1927,2
+2,1
+helene,1
+haussding,1
+3,1
+25,1

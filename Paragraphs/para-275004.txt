@@ -1,0 +1,10 @@
+73,403,14
+1,1
+of,1
+setting,1
+up,1
+an,1
+automobile,1
+factory,1
+in,1
+india,1

@@ -1,0 +1,9 @@
+54,347,15
+assuming,1
+that,1
+he,1
+did,1
+for,1
+ment,1
+racial,1
+hatred,1

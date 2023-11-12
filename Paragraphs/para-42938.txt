@@ -1,0 +1,9 @@
+13,145,7
+message,1
+stop,1
+have,1
+no,1
+desire,1
+hurt,1
+feelings,1
+by,1

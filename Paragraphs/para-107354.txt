@@ -1,0 +1,13 @@
+31,393,6
++,1
+it,1
+is,1
+not,1
+known,1
+how,1
+many,1
+of,1
+these,1
+actually,1
+paid,1
+subscriptions,1

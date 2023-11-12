@@ -1,0 +1,13 @@
+32,309,12
+the,1
+following,1
+is,2
+a,1
+typical,1
+letter,1
+it,1
+signed,1
+by,1
+several,1
+no,1
+changes,1

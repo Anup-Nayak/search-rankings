@@ -1,0 +1,4 @@
+22,498,4
+271,1
+thoughtful,1
+living,1

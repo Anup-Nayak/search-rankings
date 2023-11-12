@@ -1,0 +1,13 @@
+53,382,2
+sir,1
+sultan,1
+ahmed,1
+no,1
+i,2
+am,2
+not,1
+talking,2
+about,1
+mussalmans,1
+at,1
+all,1

@@ -1,0 +1,6 @@
+91,284,10
+noise,2
+does,2
+not,1
+overcome,1
+silence,1

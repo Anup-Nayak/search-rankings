@@ -1,0 +1,8 @@
+13,464,8
+conditions,1
+under,1
+which,1
+this,1
+certificate,1
+is,1
+issued,1

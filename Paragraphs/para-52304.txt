@@ -1,0 +1,10 @@
+15,244,1
+ps,1
+manilal,1
+does,1
+not,1
+yet,1
+knew,1
+his,1
+own,1
+mind,1

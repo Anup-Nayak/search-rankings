@@ -1,0 +1,14 @@
+46,186,8
+26,1
+some,1
+offer,1
+as,1
+sacrifice,1
+the,3
+sense,1
+of,1
+hearing,1
+and,1
+other,1
+senses,1
+in,1

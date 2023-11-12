@@ -1,0 +1,7 @@
+2,156,4
+c,1
+any,1
+idiot,1
+or,1
+insane,1
+person,1

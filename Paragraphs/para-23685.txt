@@ -1,0 +1,9 @@
+8,94,10
+mr,1
+gandhi,1
+had,1
+again,1
+no,1
+questions,1
+to,1
+ask,1

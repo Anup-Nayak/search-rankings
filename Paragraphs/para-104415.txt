@@ -1,0 +1,7 @@
+30,427,1
+253,1
+all,1
+india,1
+cow,1
+protection,1
+sabha,1

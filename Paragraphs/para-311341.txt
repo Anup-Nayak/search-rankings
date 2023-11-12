@@ -1,0 +1,15 @@
+82,123,5
+cities,1
+all,1
+their,1
+lives,1
+they,1
+have,1
+no,2
+money,1
+and,1
+ancestral,1
+homes,1
+in,1
+the,1
+villages,1

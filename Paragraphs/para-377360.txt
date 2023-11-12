@@ -1,0 +1,8 @@
+98,58,6
+5,1
+he,1
+will,1
+live,1
+permanently,1
+in,1
+lahore,1

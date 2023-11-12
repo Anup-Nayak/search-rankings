@@ -1,0 +1,5 @@
+17,26,1
+23,1
+letter,1
+t0,1
+hanumantrao,1

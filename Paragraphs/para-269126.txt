@@ -1,0 +1,7 @@
+72,236,4
+1,1
+fire,1
+god,1
+of,1
+the,1
+zoroastrians,1

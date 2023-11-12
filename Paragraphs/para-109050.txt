@@ -1,0 +1,14 @@
+32,201,2
+1,1
+dr,1
+moreno,1
+had,1
+said,1
+that,1
+loyalty,1
+was,1
+the,1
+creed,1
+of,1
+anglo,1
+indians,1

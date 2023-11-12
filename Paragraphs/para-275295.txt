@@ -1,0 +1,7 @@
+73,428,4
+m,1
+k,1
+gandhi,1
+rajkumar,1
+sinha,1
+cawnpur,1

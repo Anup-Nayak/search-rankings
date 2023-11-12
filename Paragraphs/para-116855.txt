@@ -1,0 +1,7 @@
+34,456,6
+209,1
+letter,1
+to,1
+hakim,1
+ajmal,1
+khan,1

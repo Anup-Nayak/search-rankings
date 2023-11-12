@@ -1,0 +1,12 @@
+82,95,17
+26,1
+when,1
+national,1
+leaders,1
+are,1
+seen,1
+to,1
+be,1
+enthusiastic,1
+about,1
+opening,1

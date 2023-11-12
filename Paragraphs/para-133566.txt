@@ -1,0 +1,7 @@
+39,74,8
+kumara,1
+park,1
+bangalore,1
+june,1
+18,1
+1927,1

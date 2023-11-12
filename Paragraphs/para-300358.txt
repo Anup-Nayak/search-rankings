@@ -1,0 +1,8 @@
+80,46,11
+i,1
+have,1
+not,1
+asked,1
+you,1
+see,1
+anybody,1

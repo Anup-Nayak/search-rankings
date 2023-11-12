@@ -1,0 +1,4 @@
+34,498,4
+maganlal,1
+k,1
+gandhi,1

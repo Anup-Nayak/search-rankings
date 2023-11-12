@@ -1,0 +1,11 @@
+96,374,5
+from,1
+a,1
+copy,1
+c,1
+w,1
+10580,1
+courtesy,1
+gorur,1
+ramaswami,1
+iyengar,1

@@ -1,0 +1,11 @@
+89,226,2
+as,1
+from,1
+khadi,1
+pratishthan,1
+sodepur,1
+camp,1
+gauhati,1
+january,1
+12,1
+1946,1

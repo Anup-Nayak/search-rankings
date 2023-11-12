@@ -1,0 +1,6 @@
+1,98,1
+monday,1
+oct,1
+22/88,1
+soups,1
+porridges,1

@@ -1,0 +1,12 @@
+30,212,16
+q,1
+the,2
+hindus,1
+say,1
+that,1
+this,1
+house,1
+was,1
+burnt,1
+on,1
+9th,1

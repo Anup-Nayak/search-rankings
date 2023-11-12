@@ -1,0 +1,6 @@
+49,62,1
+54,1
+an,1
+english,1
+friends,1
+difficulty,1

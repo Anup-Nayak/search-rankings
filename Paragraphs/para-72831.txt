@@ -1,0 +1,8 @@
+21,49,7
+investigation,1
+which,1
+can,1
+be,2
+completed,2
+rapidly,1
+should,1

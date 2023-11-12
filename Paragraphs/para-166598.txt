@@ -1,0 +1,6 @@
+48,25,9
+mathuradas,1
+trikumji,1
+tara,1
+house,1
+almora,1

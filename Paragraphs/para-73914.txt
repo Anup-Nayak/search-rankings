@@ -1,0 +1,12 @@
+21,238,6
+next,1
+referring,1
+to,1
+the,1
+question,1
+of,1
+allegiance,1
+and,1
+full,1
+responsible,1
+government,1

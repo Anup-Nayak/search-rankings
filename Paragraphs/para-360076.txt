@@ -1,0 +1,8 @@
+93,112,4
+145,1
+letter,1
+to,1
+amtussalaam,1
+december,1
+5,1
+1946,1

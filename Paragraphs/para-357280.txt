@@ -1,0 +1,10 @@
+92,291,2
+n,1
+ew,1
+d,1
+elhi,1
+silence,1
+day,1
+october,1
+7,1
+1946,1

@@ -1,0 +1,7 @@
+94,420,2
+letter,1
+from,1
+j,1
+b,1
+kripalani,1
+1,1

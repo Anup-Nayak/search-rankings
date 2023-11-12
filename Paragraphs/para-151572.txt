@@ -1,0 +1,13 @@
+43,525,2
+fighting,1
+over,1
+anything,1
+my,1
+quarrel,1
+really,1
+is,1
+not,1
+with,2
+ansari,1
+but,1
+pandit,1

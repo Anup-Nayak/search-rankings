@@ -1,0 +1,16 @@
+89,69,1
+q,1
+in,1
+an,1
+ashram,1
+does,1
+the,3
+introduction,1
+of,2
+salary,1
+system,1
+raise,1
+or,1
+degrade,1
+ideal,1
+institution,1

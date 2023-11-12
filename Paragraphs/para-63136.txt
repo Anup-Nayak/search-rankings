@@ -1,0 +1,6 @@
+18,47,21
+of,1
+govardhandas,1
+pending,1
+receipt,1
+information,1

@@ -1,0 +1,12 @@
+77,422,8
+in,1
+my,2
+previous,1
+conversations,1
+discussed,1
+with,2
+them,1
+as,1
+almost,1
+all,1
+visitors,1

@@ -1,0 +1,6 @@
+81,282,4
+hope,1
+nothing,1
+serious,1
+wire,1
+condition,1

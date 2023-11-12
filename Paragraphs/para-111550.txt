@@ -1,0 +1,4 @@
+33,116,8
+68,1
+about,1
+untouchability,1

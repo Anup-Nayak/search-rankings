@@ -1,0 +1,15 @@
+52,232,9
+dear,1
+sir,1
+cowasji,1
+i,1
+thank,1
+you,1
+for,1
+your,1
+prompt,1
+acknowledgement,1
+of,1
+my,1
+letter,1
+1,1

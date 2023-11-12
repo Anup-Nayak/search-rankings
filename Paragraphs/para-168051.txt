@@ -1,0 +1,6 @@
+48,245,10
+1,1
+gujarati,1
+daily,1
+on,1
+bombay,1

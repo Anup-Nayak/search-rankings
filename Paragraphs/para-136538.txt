@@ -1,0 +1,7 @@
+39,498,23
+statement,1
+will,1
+dispel,1
+misapprehension,1
+about,1
+our,1

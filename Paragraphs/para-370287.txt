@@ -1,0 +1,8 @@
+96,72,7
+valmiki,1
+mandir,1
+new,1
+delhi,1
+july,1
+18,1
+1947,1

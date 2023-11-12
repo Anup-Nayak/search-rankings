@@ -1,0 +1,13 @@
+43,34,2
+we,3
+will,1
+get,1
+nothing,1
+by,1
+asking,1
+shall,1
+have,1
+to,1
+take,1
+what,1
+want,1

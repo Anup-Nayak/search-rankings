@@ -1,0 +1,14 @@
+62,49,3
+an,1
+english,1
+friend,1
+referring,1
+to,2
+two,1
+ladies,1
+who,1
+are,1
+coming,1
+india,1
+writes,1
+1,1

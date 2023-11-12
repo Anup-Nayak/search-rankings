@@ -1,0 +1,6 @@
+32,61,2
+48,1
+ganga,1
+swarup,1
+basanti,1
+devi,1

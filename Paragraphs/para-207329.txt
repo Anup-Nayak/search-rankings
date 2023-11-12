@@ -1,0 +1,12 @@
+58,4,12
+1,1
+about,1
+health,1
+vide,1
+letter,1
+to,1
+e,2
+doyle,1
+18,1
+11,1
+1932,1

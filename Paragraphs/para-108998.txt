@@ -1,0 +1,13 @@
+32,191,3
+i,2
+like,1
+your,1
+frank,1
+and,1
+sincere,1
+letter,1
+2,1
+for,1
+which,1
+thank,1
+you,1

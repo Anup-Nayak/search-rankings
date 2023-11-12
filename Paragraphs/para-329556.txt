@@ -1,0 +1,7 @@
+86,85,6
+164,1
+letter,1
+to,1
+vinayak,1
+d,1
+savarkar,1

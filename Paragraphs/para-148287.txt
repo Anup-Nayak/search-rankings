@@ -1,0 +1,16 @@
+43,141,4
+the,1
+reader,1
+must,1
+remember,1
+that,1
+this,1
+rush,1
+is,1
+for,1
+a,2
+wage,1
+of,1
+one,1
+anna,1
+day,1

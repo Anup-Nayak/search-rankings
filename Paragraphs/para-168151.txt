@@ -1,0 +1,5 @@
+48,257,3
+257,1
+to,1
+english,1
+friends,1

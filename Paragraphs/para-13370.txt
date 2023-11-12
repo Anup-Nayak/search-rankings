@@ -1,0 +1,5 @@
+5,243,4
+foot,1
+paths,1
+and,1
+tramways,1

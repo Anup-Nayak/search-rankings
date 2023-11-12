@@ -1,0 +1,8 @@
+67,27,8
+49,1
+foreword,1
+to,1
+gujarat,1
+and,1
+its,1
+literature,1

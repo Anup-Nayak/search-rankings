@@ -1,0 +1,12 @@
+31,323,10
+q,1
+but,1
+mahatmaji,1
+you,1
+should,1
+not,1
+ignore,1
+facts,1
+they,1
+are,1
+there,1

@@ -1,0 +1,11 @@
+58,344,2
+january,1
+2,1
+1933,1
+doctor,1
+mohammad,1
+alam,1
+57,1
+landsdowne,1
+road,1
+calcutta,1

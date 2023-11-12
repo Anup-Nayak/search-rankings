@@ -1,0 +1,16 @@
+31,44,7
+principles,1
+of,1
+sanitation,1
+in,2
+their,1
+daily,1
+lives,1
+he,1
+advised,1
+them,1
+to,1
+be,1
+clean,1
+and,1
+tidy,1

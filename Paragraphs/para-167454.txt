@@ -1,0 +1,7 @@
+48,156,3
+158,1
+speech,1
+at,1
+congress,1
+session,1
+lahorei,1

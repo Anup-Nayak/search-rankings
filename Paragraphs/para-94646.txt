@@ -1,0 +1,4 @@
+28,74,3
+mill,1
+made,1
+khadi,1

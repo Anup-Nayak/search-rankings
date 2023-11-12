@@ -1,0 +1,14 @@
+21,97,14
+legitimate,1
+place,1
+in,1
+the,1
+movement,1
+pure,1
+swadeshi,1
+meant,1
+sacrifice,1
+of,1
+their,1
+liking,1
+for,1

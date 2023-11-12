@@ -1,0 +1,6 @@
+13,184,5
+the,2
+minister,1
+of,1
+interior,1
+pretoria,1

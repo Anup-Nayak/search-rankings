@@ -1,0 +1,7 @@
+33,276,9
+perfect,1
+rest,1
+possible,1
+only,1
+at,1
+wardha,1

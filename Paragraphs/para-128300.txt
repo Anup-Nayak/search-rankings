@@ -1,0 +1,5 @@
+37,360,6
+88,1
+strength,1
+in,1
+weakness,1

@@ -1,0 +1,9 @@
+54,116,3
+horace,1
+alexander,1
+schuster,1
+suggested,1
+assurance,1
+of,2
+establishment,1
+a,1

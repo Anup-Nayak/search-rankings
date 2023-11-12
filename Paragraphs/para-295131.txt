@@ -1,0 +1,12 @@
+78,353,22
+in,1
+this,1
+strain,1
+that,1
+shepherd,1
+was,1
+speaking,1
+when,1
+moses,1
+spoke,1
+to,1

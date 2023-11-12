@@ -1,0 +1,10 @@
+77,248,3
+segaon,1
+january,1
+23,1
+1940,2
+from,1
+gujarati,1
+harijanbandhu,1
+28,1
+1,1

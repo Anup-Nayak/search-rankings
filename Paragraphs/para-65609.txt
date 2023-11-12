@@ -1,0 +1,5 @@
+18,443,2
+moral,1
+dilemma,1
+overcome,1
+1,1

@@ -1,0 +1,2 @@
+25,384,2
+untouchability,1

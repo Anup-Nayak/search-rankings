@@ -1,0 +1,11 @@
+30,208,2
+a,1
+yes,1
+sir,1
+q,1
+did,1
+any,1
+hindu,1
+object,1
+to,1
+it,1

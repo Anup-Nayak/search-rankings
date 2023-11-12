@@ -1,0 +1,6 @@
+67,245,4
+387,1
+punjab,1
+harijans,1
+and,1
+wells,1

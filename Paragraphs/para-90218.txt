@@ -1,0 +1,6 @@
+26,456,4
+letter,1
+from,1
+hakim,1
+ajmal,1
+khan,1

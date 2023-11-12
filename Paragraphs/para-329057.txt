@@ -1,0 +1,10 @@
+86,40,4
+yours,1
+m,1
+k,1
+gandhi,1
+kedarnath,1
+chatterjee,1
+vishal,1
+bharat,1
+calcutta,1

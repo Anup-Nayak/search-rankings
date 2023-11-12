@@ -1,0 +1,6 @@
+68,180,1
+225,1
+the,2
+ideal,1
+and,1
+practical,1

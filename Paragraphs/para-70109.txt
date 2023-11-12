@@ -1,0 +1,17 @@
+20,95,7
+q,1
+and,1
+the,2
+notice,1
+stuck,1
+on,1
+outer,1
+wall,1
+of,1
+this,1
+college,1
+was,1
+torn,1
+down,1
+by,1
+someone,1

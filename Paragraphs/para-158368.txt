@@ -1,0 +1,12 @@
+46,12,5
+cotton,1
+was,1
+grown,1
+in,2
+every,2
+village,1
+and,2
+stocked,1
+house,1
+that,1
+an,1

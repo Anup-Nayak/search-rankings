@@ -1,0 +1,11 @@
+82,417,12
+from,1
+calcutta,1
+to,1
+champaran,2
+is,2
+a,1
+district,1
+where,1
+indigo,1
+planted,1

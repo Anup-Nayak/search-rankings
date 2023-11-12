@@ -1,0 +1,9 @@
+29,117,5
+gandhi,1
+begum,1
+khwaja,1
+saheb,1
+solan,1
+kalka,1
+simla,1
+rly,1

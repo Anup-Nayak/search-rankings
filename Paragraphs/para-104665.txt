@@ -1,0 +1,10 @@
+31,6,5
+1,1
+the,2
+question,1
+is,2
+not,2
+translated,2
+here,2
+2,1
+letter,1

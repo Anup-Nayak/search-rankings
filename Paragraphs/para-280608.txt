@@ -1,0 +1,6 @@
+75,98,15
+sholapur,1
+narayanswami,1
+interviewed,1
+after,1
+permission,1

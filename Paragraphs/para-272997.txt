@@ -1,0 +1,8 @@
+73,187,2
+m,1
+k,1
+gandhi,1
+ps,1
+newspaper,1
+separately,1
+posted,1

@@ -1,0 +1,15 @@
+41,354,8
+you,2
+want,1
+an,2
+article,2
+might,1
+as,2
+well,1
+get,2
+blood,1
+out,1
+of,1
+stone,1
+from,1
+me,1

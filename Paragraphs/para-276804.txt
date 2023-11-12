@@ -1,0 +1,11 @@
+74,123,10
+hindi,1
+urdu,1
+controversy,1
+has,1
+no,1
+bottom,1
+hindustani,1
+of,1
+the,1
+con,1

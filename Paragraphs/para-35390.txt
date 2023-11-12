@@ -1,0 +1,6 @@
+11,218,8
+233,1
+duty,1
+of,1
+natal,1
+indians,1

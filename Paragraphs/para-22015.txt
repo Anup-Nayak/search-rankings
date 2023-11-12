@@ -1,0 +1,4 @@
+7,316,6
+plague,1
+in,1
+november,1

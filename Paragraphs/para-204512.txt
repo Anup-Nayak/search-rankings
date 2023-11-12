@@ -1,0 +1,10 @@
+57,155,12
+from,1
+hindi,1
+c,1
+w,1
+9461,1
+courtesy,1
+bharat,1
+kala,1
+bhavan,1

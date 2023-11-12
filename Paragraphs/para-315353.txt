@@ -1,0 +1,11 @@
+82,405,1
+pandit,1
+nehru,1
+adopted,1
+advanced,1
+social,1
+programmes,1
+and,1
+schemes,1
+for,1
+economic,1

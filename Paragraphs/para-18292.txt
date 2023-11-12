@@ -1,0 +1,5 @@
+6,338,4
+315,1
+transvaal,1
+asiatic,1
+ordinance,1

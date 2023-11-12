@@ -1,0 +1,4 @@
+24,9,4
+hakimji,1
+ajmal,1
+khan,1

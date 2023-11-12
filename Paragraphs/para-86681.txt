@@ -1,0 +1,12 @@
+25,372,4
+i,1
+interviewed,1
+mahatmaji,1
+on,1
+the,2
+present,1
+situation,1
+regarding,1
+proposed,1
+truce,1
+2,1

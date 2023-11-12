@@ -1,0 +1,12 @@
+31,484,8
+of,2
+the,2
+needs,1
+people,1
+there,1
+is,1
+a,3
+ploughing,1
+season,2
+and,2
+sowing,1

@@ -1,0 +1,16 @@
+43,42,9
+bhaishri,1
+bhogilal,1
+this,1
+is,1
+my,2
+argument,1
+in,1
+the,2
+fewest,1
+possible,1
+words,1
+about,1
+deliberately,1
+killing,1
+calf,1

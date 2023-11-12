@@ -1,0 +1,14 @@
+82,95,18
+running,1
+or,1
+supporting,1
+communal,1
+institutions,1
+it,1
+is,1
+not,1
+likely,1
+to,1
+have,1
+a,1
+healthy,1

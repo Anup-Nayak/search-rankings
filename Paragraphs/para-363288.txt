@@ -1,0 +1,13 @@
+94,31,14
+gandhiji,1
+was,2
+also,1
+against,1
+the,2
+system,1
+of,2
+dowry,1
+it,1
+nothing,1
+but,1
+sale,1

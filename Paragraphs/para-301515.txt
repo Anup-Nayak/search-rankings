@@ -1,0 +1,8 @@
+80,154,11
+out,1
+except,1
+through,1
+complete,1
+truth,1
+and,1
+non,1

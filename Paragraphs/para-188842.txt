@@ -1,0 +1,9 @@
+53,250,5
+had,1
+no,1
+idea,1
+publication,1
+charge,1
+sheet,1
+could,1
+affect,1

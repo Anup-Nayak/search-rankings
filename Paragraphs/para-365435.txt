@@ -1,0 +1,7 @@
+94,282,3
+cannot,1
+control,1
+newspaper,1
+reports,1
+did,1
+mention,1

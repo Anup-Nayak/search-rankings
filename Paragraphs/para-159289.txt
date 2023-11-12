@@ -1,0 +1,7 @@
+46,126,4
+2,1
+akha,1
+bhagat,1
+a,1
+gujarati,1
+poet,1

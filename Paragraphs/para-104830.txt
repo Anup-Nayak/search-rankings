@@ -1,0 +1,13 @@
+31,33,6
+the,3
+past,1
+glories,1
+ofayurveda,1
+system,1
+of,1
+diagnosis,1
+was,1
+still,1
+in,1
+primitive,1
+stage,1

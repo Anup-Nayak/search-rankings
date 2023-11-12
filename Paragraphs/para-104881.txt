@@ -1,0 +1,16 @@
+31,44,5
+telugu,1
+to,1
+which,2
+mahatmaji,1
+made,1
+a,1
+brief,1
+reply,1
+in,1
+hindi,1
+was,1
+translated,1
+by,1
+mr,1
+g,1

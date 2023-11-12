@@ -1,0 +1,7 @@
+79,148,9
+be,2
+allowed,1
+to,2
+used,1
+crush,1
+congress,1

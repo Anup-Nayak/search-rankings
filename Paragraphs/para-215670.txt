@@ -1,0 +1,15 @@
+59,370,11
+is,1
+a,1
+paid,1
+bhangi,1
+or,1
+an,1
+unpaid,1
+mother,1
+they,2
+are,1
+unclean,1
+until,1
+have,1
+washed,1

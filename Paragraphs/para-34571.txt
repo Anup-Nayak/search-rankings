@@ -1,0 +1,6 @@
+11,122,7
+134,1
+effectiveness,1
+of,1
+the,1
+struggle,1

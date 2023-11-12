@@ -1,0 +1,15 @@
+61,211,4
+f,1
+but,1
+now,1
+is,3
+the,2
+question,1
+g,1
+why,1
+mother,2
+i,1
+suppose,1
+impatient,1
+as,1
+every,1

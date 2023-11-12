@@ -1,0 +1,9 @@
+96,65,1
+abha,1
+has,2
+fallen,1
+ill,1
+and,1
+therefore,1
+come,1
+here,1

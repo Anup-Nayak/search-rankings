@@ -1,0 +1,8 @@
+13,69,33
+educated,1
+indian,1
+entering,1
+free,1
+state,1
+declaration,1
+by,1

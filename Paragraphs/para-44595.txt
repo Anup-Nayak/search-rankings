@@ -1,0 +1,12 @@
+13,370,21
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+as,1
+delivered,1
+c,1
+w,1
+4845,1

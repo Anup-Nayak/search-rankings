@@ -1,0 +1,12 @@
+59,244,6
+manager,1
+know,1
+direct,1
+the,1
+maximum,1
+number,1
+of,1
+copies,1
+you,1
+will,1
+want,1

@@ -1,0 +1,5 @@
+14,82,5
+my,1
+dear,1
+lower,1
+house,1

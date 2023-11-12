@@ -1,0 +1,6 @@
+28,160,2
+85,1
+to,1
+gujarati,1
+arya,1
+samajists,1

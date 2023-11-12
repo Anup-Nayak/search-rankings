@@ -1,0 +1,14 @@
+15,108,3
+rs,1
+as,1
+ps,1
+2,3
+7,1
+0,2
+bombay,1
+to,2
+poona,1
+6,1
+masjid,1
+bunder,2
+bori,1

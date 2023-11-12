@@ -1,0 +1,9 @@
+12,350,10
+address,1
+in,1
+beirastarted,1
+eating,1
+twice,1
+kallenbach,1
+9,1
+0,2

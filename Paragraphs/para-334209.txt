@@ -1,0 +1,6 @@
+87,91,1
+160,1
+letter,1
+to,1
+parvati,1
+dindwania,1

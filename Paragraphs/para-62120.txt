@@ -1,0 +1,4 @@
+17,396,1
+the,1
+swadeshi,1
+pledge,1

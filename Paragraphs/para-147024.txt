@@ -1,0 +1,11 @@
+42,470,7
+e,1
+the,4
+minister,1
+reserves,1
+right,1
+to,1
+apply,1
+provisions,1
+of,1
+immigration,1

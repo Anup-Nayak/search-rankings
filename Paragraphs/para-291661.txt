@@ -1,0 +1,15 @@
+78,6,10
+1,1
+this,1
+and,1
+the,3
+following,1
+paragraph,1
+are,1
+from,2
+bombay,2
+chronicle,2
+2,1
+what,1
+follows,1
+is,1

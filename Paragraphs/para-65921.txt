@@ -1,0 +1,13 @@
+19,12,10
+from,1
+a,2
+photostat,1
+of,1
+copy,1
+s,1
+n,1
+6918,1
+also,1
+bombay,1
+government,1
+records,1

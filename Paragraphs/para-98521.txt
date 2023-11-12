@@ -1,0 +1,4 @@
+29,150,5
+instructions,1
+to,1
+spinners,1

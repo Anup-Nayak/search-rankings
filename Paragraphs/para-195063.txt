@@ -1,0 +1,7 @@
+55,4,10
+8,1
+letter,1
+to,1
+manshankar,1
+j,1
+trivedi,1

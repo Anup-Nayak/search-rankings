@@ -1,0 +1,6 @@
+27,30,4
+32,1
+letter,1
+to,1
+sikh,1
+friends,1

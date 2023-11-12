@@ -1,0 +1,8 @@
+13,387,16
+questions,1
+affect,1
+natal,1
+infinitely,1
+more,1
+than,1
+other,1

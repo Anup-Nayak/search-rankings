@@ -1,0 +1,6 @@
+32,213,5
+144,1
+congress,1
+and,1
+political,1
+parties,1

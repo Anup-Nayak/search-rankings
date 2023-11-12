@@ -1,0 +1,12 @@
+62,79,4
+ps,1
+gopi,1
+is,3
+doing,1
+well,1
+she,1
+certainly,1
+happy,1
+how,1
+your,1
+health,1

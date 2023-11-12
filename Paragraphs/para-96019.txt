@@ -1,0 +1,5 @@
+28,304,3
+an,1
+english,1
+friend,1
+writes,1

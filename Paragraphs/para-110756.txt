@@ -1,0 +1,16 @@
+32,466,14
+circumstances,1
+i,2
+have,1
+given,1
+up,1
+the,1
+drinking,1
+of,1
+all,1
+wines,1
+beers,1
+or,1
+spirits,1
+and,1
+no,1

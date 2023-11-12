@@ -1,0 +1,11 @@
+21,238,23
+congress,1
+his,1
+amendment,1
+embodied,1
+both,1
+a,2
+political,1
+and,1
+religious,1
+principle,1

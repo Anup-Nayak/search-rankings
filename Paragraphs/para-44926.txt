@@ -1,0 +1,10 @@
+13,403,3
+mr,1
+gandhi,1
+in,1
+a,1
+clear,1
+and,1
+calm,1
+voice,1
+said,1

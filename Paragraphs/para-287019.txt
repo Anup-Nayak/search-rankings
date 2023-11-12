@@ -1,0 +1,9 @@
+76,350,11
+all,1
+inclusive,1
+charges,1
+washing,1
+wages,1
+etc,1
+rs,1
+687,1

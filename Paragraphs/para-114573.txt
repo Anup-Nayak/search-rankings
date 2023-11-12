@@ -1,0 +1,8 @@
+34,44,6
+i,2
+replied,1
+know,1
+something,1
+about,1
+this,1
+matter,1

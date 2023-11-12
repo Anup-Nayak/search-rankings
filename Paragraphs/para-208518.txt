@@ -1,0 +1,15 @@
+58,129,8
+punishment,1
+caste,1
+hindus,1
+should,1
+be,1
+taken,1
+to,2
+task,1
+it,1
+was,1
+they,1
+who,1
+had,1
+undergo,1

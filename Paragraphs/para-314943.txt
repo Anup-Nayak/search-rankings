@@ -1,0 +1,9 @@
+82,392,29
+self,1
+protection,1
+in,1
+all,1
+parts,1
+of,1
+the,1
+country,1

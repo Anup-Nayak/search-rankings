@@ -1,0 +1,17 @@
+53,352,2
+the,1
+manchester,1
+guardian,1
+14,1
+9,2
+1931,2
+and,1
+boroughs,1
+of,1
+poplar,1
+&,1
+stepney,1
+east,1
+london,1
+advertiser,1
+19,1

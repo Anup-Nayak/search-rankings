@@ -1,0 +1,11 @@
+51,48,6
+yeravda,1
+mandir,1
+tuesday,1
+on,1
+or,1
+before,1
+january,1
+20,1
+1931,1
+1,1

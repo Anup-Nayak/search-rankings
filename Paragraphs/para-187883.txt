@@ -1,0 +1,6 @@
+53,149,2
+salt,1
+concession,1
+in,1
+the,1
+punjab,1

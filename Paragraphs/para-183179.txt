@@ -1,0 +1,12 @@
+52,118,8
+in,2
+answer,1
+to,1
+the,2
+question,1
+whether,1
+he,1
+thought,1
+local,1
+difficulties,1
+respect,1

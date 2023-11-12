@@ -1,0 +1,12 @@
+29,480,6
+the,3
+president,1
+mahatma,1
+gandhi,1
+walked,1
+down,1
+from,1
+dais,1
+to,1
+rostrum,1
+in,1

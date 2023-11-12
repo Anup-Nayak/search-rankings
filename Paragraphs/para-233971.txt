@@ -1,0 +1,14 @@
+64,67,17
+that,1
+he,2
+was,2
+collecting,1
+money,1
+always,1
+there,1
+to,1
+ask,1
+for,1
+the,2
+support,1
+of,1

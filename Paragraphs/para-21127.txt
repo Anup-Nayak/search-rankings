@@ -1,0 +1,17 @@
+7,186,6
+2,1
+the,2
+exact,1
+word,1
+used,1
+by,1
+gandhiji,1
+is,1
+not,1
+decipherable,1
+in,1
+copy,1
+of,1
+indian,1
+opinion,1
+available,1

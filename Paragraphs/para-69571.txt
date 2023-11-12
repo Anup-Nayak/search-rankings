@@ -1,0 +1,13 @@
+20,6,6
+passed,1
+to,1
+safeguard,1
+the,2
+lives,1
+and,1
+property,1
+of,1
+people,1
+against,1
+such,1
+outbursts,1

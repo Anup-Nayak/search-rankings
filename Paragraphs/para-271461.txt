@@ -1,0 +1,4 @@
+72,499,9
+copy,1
+writers,1
+buildings,1

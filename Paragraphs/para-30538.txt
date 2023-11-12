@@ -1,0 +1,10 @@
+10,80,2
+abdul,1
+caadir,1
+amod,1
+bhayat,1
+h,1
+m,2
+badat,1
+c,1
+anglia,1

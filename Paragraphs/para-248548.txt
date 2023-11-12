@@ -1,0 +1,8 @@
+67,175,10
+avail,1
+permission,1
+unless,1
+condition,1
+english,1
+speaking,1
+waived,1

@@ -1,0 +1,6 @@
+22,504,3
+white,1
+marred,1
+by,1
+black,1
+spot,1

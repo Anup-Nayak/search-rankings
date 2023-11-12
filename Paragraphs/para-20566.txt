@@ -1,0 +1,5 @@
+7,112,2
+monetary,1
+aid,1
+for,1
+struggle,1

@@ -1,0 +1,15 @@
+63,346,1
+weapon,1
+and,2
+if,1
+they,1
+fully,1
+know,1
+the,1
+advantages,1
+disadvantages,1
+of,1
+joining,1
+such,1
+a,1
+struggle,1

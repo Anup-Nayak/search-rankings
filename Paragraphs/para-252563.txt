@@ -1,0 +1,7 @@
+68,145,1
+177,1
+letter,1
+to,1
+jitendra,1
+nath,1
+kusari,1

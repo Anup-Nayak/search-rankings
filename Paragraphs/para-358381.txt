@@ -1,0 +1,6 @@
+92,401,3
+nor,1
+on,1
+this,1
+land,1
+alone,1

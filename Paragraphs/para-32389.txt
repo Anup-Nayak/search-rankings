@@ -1,0 +1,12 @@
+10,357,3
+i,1
+think,1
+that,1
+the,1
+arrest,1
+is,1
+suspended,1
+to,1
+avoid,1
+causing,1
+a,1

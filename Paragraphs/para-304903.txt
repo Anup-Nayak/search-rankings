@@ -1,0 +1,13 @@
+80,475,11
+from,1
+a,1
+copy,1
+c,1
+w,1
+10283,1
+courte,1
+sy,1
+nation,1
+al,1
+librar,1
+y,1

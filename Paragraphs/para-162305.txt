@@ -1,0 +1,13 @@
+46,460,15
+use,2
+only,1
+the,2
+hides,2
+of,2
+dead,1
+cattle,1
+and,1
+never,1
+slaughtered,1
+cows,1
+or,1

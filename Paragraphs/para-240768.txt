@@ -1,0 +1,8 @@
+65,357,6
+shri,1
+s,2
+pande,1
+b,2
+a,1
+ll,1
+pleader,1

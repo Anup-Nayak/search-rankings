@@ -1,0 +1,6 @@
+61,89,3
+94,1
+for,1
+a,1
+heart,1
+awakening,1

@@ -1,0 +1,9 @@
+6,532,7
+offences,1
+relating,1
+to,2
+applications,1
+for,1
+registration,2
+and,1
+certificates,1

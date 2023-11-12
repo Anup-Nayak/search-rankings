@@ -1,0 +1,6 @@
+25,33,4
+appeal,1
+to,1
+ismaili,1
+firka,1
+jamat,1

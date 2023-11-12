@@ -1,0 +1,7 @@
+10,442,4
+274,1
+letter,1
+to,1
+moulvi,1
+ahmed,1
+mukhtiar,1

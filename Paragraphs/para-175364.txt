@@ -1,0 +1,10 @@
+50,184,2
+blessings,1
+from,1
+bapu,1
+lady,1
+vithaldas,1
+thackersey,1
+parnakuti,1
+yeravda,1
+hill,1

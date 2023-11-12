@@ -1,0 +1,6 @@
+94,244,3
+241,1
+talk,1
+with,1
+abdul,1
+majid,1

@@ -1,0 +1,16 @@
+42,468,24
+mother,1
+name,1
+of,1
+child,1
+sex,1
+where,1
+born,1
+age,1
+p,1
+r,1
+e,2
+s,1
+n,1
+t,1
+whereabouts,1

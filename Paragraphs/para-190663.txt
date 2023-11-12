@@ -1,0 +1,12 @@
+53,480,6
+the,2
+artist,1
+do,1
+you,1
+intend,1
+then,1
+to,1
+clear,1
+out,1
+white,1
+garrison,1

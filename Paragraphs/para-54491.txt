@@ -1,0 +1,10 @@
+15,488,8
+2,1
+from,1
+having,1
+their,1
+best,1
+lands,1
+selected,1
+for,1
+indigo,1

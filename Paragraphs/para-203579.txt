@@ -1,0 +1,6 @@
+57,82,4
+do,1
+utmost,1
+best,1
+remove,1
+untouchability,1

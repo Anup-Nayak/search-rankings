@@ -1,0 +1,8 @@
+71,161,2
+kumri,1
+ashram,1
+belgaum,1
+district,1
+april,1
+19,1
+1937,1

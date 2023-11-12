@@ -1,0 +1,8 @@
+67,94,19
+1,1
+daughter,1
+in,1
+law,1
+of,1
+chand,1
+tyagi,1

@@ -1,0 +1,7 @@
+41,445,7
+health,1
+good,1
+received,1
+sastris,1
+satisfactory,1
+reply,1

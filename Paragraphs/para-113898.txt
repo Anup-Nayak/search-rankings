@@ -1,0 +1,13 @@
+33,422,5
+food,1
+without,1
+sleep,1
+she,1
+nursed,1
+him,1
+did,1
+everything,1
+with,1
+her,1
+own,1
+hands,1

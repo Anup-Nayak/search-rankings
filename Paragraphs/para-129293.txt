@@ -1,0 +1,16 @@
+38,21,1
+indian,2
+states,2
+have,1
+also,1
+found,1
+a,1
+paragraph,2
+in,1
+the,2
+address,1
+greater,1
+india,1
+naturally,1
+follows,1
+on,1

@@ -1,0 +1,16 @@
+82,394,21
+wish,1
+any,1
+status,2
+conferred,2
+on,2
+us,2
+if,1
+a,1
+is,1
+it,1
+means,1
+we,1
+are,1
+not,1
+free,1

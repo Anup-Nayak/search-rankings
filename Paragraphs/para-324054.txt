@@ -1,0 +1,6 @@
+85,26,3
+khadi,1
+why,1
+and,1
+how,1
+pp,1

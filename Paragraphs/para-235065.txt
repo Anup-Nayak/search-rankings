@@ -1,0 +1,7 @@
+64,187,8
+237,1
+speech,1
+to,1
+khadi,1
+workers,1
+lahore,1

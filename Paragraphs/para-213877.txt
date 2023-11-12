@@ -1,0 +1,7 @@
+59,171,1
+256,1
+letter,1
+to,1
+aloo,1
+e,1
+lalkaka,1

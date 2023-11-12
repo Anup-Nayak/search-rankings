@@ -1,0 +1,7 @@
+4,98,3
+76,1
+dr,1
+porter,1
+touches,1
+the,1
+spot,1

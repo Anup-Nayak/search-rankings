@@ -1,0 +1,5 @@
+39,4,7
+strongly,1
+advise,1
+joint,1
+action,1

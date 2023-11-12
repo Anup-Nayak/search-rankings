@@ -1,0 +1,9 @@
+21,417,7
+wire,1
+fully,1
+position,1
+college,1
+have,1
+you,1
+not,1
+vacated,1

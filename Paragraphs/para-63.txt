@@ -1,0 +1,8 @@
+1,17,1
+6,1
+letter,1
+to,1
+col,1
+j,1
+w,1
+watson,1

@@ -1,0 +1,10 @@
+5,443,10
+yours,1
+truly,1
+mrs,1
+spencer,1
+walton,1
+andrew,1
+house,1
+tonbridge,1
+kent,1

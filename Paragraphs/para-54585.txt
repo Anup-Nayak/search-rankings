@@ -1,0 +1,17 @@
+15,496,7
+president,1
+then,1
+said,1
+that,1
+as,1
+mr,1
+gandhi,1
+could,1
+not,1
+agree,1
+to,1
+the,1
+25,1
+per,1
+cent,1
+reduction,1

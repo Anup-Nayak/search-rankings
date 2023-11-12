@@ -1,0 +1,15 @@
+37,206,1
+actions,1
+grow,1
+ever,1
+more,1
+beautiful,1
+he,1
+never,2
+tires,1
+of,1
+work,1
+feels,1
+upset,1
+and,1
+confused,1

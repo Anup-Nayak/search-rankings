@@ -1,0 +1,14 @@
+53,344,12
+fighting,1
+an,2
+enemy,1
+is,1
+comparatively,1
+speaking,1
+act,1
+of,1
+bravery,1
+but,1
+to,1
+stand,1
+the,1

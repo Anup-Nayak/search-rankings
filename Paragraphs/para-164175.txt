@@ -1,0 +1,6 @@
+47,210,10
+236,1
+telegram,1
+to,1
+mangaldas,1
+girdhardas,1

@@ -1,0 +1,11 @@
+49,32,4
+from,1
+the,1
+original,1
+c,1
+w,1
+4534,1
+courtesy,1
+swarthmore,1
+college,1
+philadelphia,1

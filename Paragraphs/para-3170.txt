@@ -1,0 +1,9 @@
+2,103,3
+attorney,1
+generals,1
+office,1
+pietermaritzburg,1
+natal,1
+january,1
+11,1
+1897,1

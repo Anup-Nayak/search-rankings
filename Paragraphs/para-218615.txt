@@ -1,0 +1,10 @@
+60,203,5
+1,1
+mahavir,1
+giri,2
+son,1
+of,2
+krishnamaiyadevi,1
+2,1
+wife,1
+dalbahadur,1

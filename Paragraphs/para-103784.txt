@@ -1,0 +1,11 @@
+30,322,4
+from,1
+a,1
+photostat,1
+c,1
+w,1
+5993,1
+courtesy,1
+prof,1
+george,1
+morgenstierne,1

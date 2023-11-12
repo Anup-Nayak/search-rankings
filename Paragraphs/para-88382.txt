@@ -1,0 +1,10 @@
+26,160,6
+vandemataram,1
+from,1
+mohandas,1
+shankerlal,1
+ghelabhai,1
+banker,1
+sevashram,1
+mirzapur,1
+ahmedabad,1

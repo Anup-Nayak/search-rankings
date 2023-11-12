@@ -1,0 +1,7 @@
+16,497,12
+vii,1
+militar,1
+y,1
+and,1
+other,1
+matters,1

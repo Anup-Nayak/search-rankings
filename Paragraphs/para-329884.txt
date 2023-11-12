@@ -1,0 +1,12 @@
+86,117,1
+slivers,1
+producing,1
+yarn,1
+of,1
+the,1
+desired,1
+count,1
+and,3
+doubling,1
+twisting,1
+winding,1

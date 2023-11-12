@@ -1,0 +1,4 @@
+57,36,8
+wrote,1
+several,1
+myself,1

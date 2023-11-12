@@ -1,0 +1,6 @@
+2,415,6
+200,1
+indians,1
+and,1
+the,1
+duke,1

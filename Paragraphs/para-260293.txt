@@ -1,0 +1,7 @@
+70,54,15
+1,1
+nirmala,1
+gandhi,2
+wife,1
+of,1
+ramdas,1

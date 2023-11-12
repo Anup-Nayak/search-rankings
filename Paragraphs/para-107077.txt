@@ -1,0 +1,14 @@
+31,349,10
+1,1
+rama,1
+pronounced,1
+wrongly,1
+that,1
+is,1
+in,1
+the,1
+reverse,1
+and,1
+then,1
+meaning,1
+dying,2

@@ -1,0 +1,8 @@
+16,189,6
+he,1
+then,1
+delivered,1
+the,1
+following,1
+presidential,1
+address,1

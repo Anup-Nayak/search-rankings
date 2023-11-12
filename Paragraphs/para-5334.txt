@@ -1,0 +1,6 @@
+2,386,9
+161,1
+mourning,1
+the,1
+queens,1
+death,1

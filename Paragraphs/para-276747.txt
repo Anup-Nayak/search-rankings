@@ -1,0 +1,17 @@
+74,117,17
+1,1
+addressees,1
+son,1
+2,1
+as,1
+in,2
+the,1
+source,1
+however,1
+gandhiji,1
+was,1
+not,1
+peshawar,1
+on,1
+this,1
+date,1

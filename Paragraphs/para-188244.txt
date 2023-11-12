@@ -1,0 +1,14 @@
+53,198,5
+1,1
+the,1
+letter,1
+is,1
+not,1
+translated,1
+here,1
+it,1
+contained,1
+an,1
+appeal,1
+for,1
+funds,1

@@ -1,0 +1,6 @@
+48,339,1
+353,1
+letter,1
+to,1
+tulsi,1
+maher,1

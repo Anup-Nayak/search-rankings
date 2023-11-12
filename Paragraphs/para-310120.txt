@@ -1,0 +1,11 @@
+82,22,29
+either,1
+1,1
+carding,1
+spinning,1
+weaving,1
+dyeing,1
+and,1
+bleaching,1
+or,1
+2,1

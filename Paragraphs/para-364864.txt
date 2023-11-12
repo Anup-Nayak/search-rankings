@@ -1,0 +1,15 @@
+94,205,19
+what,2
+he,1
+saw,1
+inside,1
+the,1
+house,1
+fully,1
+bore,1
+out,1
+everyone,1
+had,1
+said,1
+about,1
+prof,1

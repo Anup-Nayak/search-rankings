@@ -1,0 +1,10 @@
+44,48,2
+yours,1
+sincerely,1
+kenneth,1
+saunders,1
+esq,1
+high,1
+ascris,1
+berkeley,1
+california,1

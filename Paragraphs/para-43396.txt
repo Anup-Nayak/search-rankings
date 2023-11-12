@@ -1,0 +1,4 @@
+13,192,4
+mahatma,1
+gandhijina,1
+patro,1

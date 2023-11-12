@@ -1,0 +1,9 @@
+57,9,4
+15,1
+letter,1
+to,1
+bhau,1
+panse,1
+september,1
+9,1
+1932,1

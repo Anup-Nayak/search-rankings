@@ -1,0 +1,16 @@
+11,502,6
+and,1
+no,1
+appeal,1
+shall,1
+lie,1
+against,1
+the,2
+refusal,1
+of,1
+council,1
+to,1
+grant,1
+any,1
+such,1
+license,1

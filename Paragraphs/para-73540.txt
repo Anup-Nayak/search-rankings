@@ -1,0 +1,7 @@
+21,155,10
+and,1
+refusal,1
+to,1
+pay,1
+taxes,1
+respectively,1

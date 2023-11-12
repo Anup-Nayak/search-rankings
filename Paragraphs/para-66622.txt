@@ -1,0 +1,12 @@
+19,110,4
+1,1
+year,1
+according,1
+to,2
+the,1
+vikram,1
+era,1
+corresponding,1
+1900,1
+a,1
+d,1

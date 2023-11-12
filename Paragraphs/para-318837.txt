@@ -1,0 +1,5 @@
+83,415,4
+no,1
+truck,1
+with,1
+axis,1

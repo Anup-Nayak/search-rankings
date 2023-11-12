@@ -1,0 +1,11 @@
+59,80,2
+bapu,1
+ps,1
+in,1
+all,1
+there,1
+are,1
+24,1
+letters,1
+stitched,1
+together,1

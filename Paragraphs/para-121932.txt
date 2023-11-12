@@ -1,0 +1,6 @@
+36,75,8
+78,1
+letter,1
+to,1
+paramanand,1
+kunvarji,1

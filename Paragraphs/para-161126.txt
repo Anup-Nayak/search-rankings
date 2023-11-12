@@ -1,0 +1,13 @@
+46,333,8
+result,1
+is,1
+the,2
+highest,1
+infant,1
+mortality,1
+of,2
+poor,1
+bombay,1
+and,1
+nearly,1
+total,1

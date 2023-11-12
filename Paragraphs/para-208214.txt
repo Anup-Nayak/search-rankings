@@ -1,0 +1,5 @@
+58,103,2
+unrevised,1
+december,1
+1,1
+1932,1

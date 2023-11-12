@@ -1,0 +1,8 @@
+73,142,1
+157,1
+speech,1
+at,1
+islamia,1
+college,1
+peshawar,1
+1,1

@@ -1,0 +1,6 @@
+92,147,9
+jagannath,1
+jani,1
+rohira,1
+sirohi,1
+state,1

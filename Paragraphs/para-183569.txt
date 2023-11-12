@@ -1,0 +1,11 @@
+52,151,8
+if,2
+satisfactory,1
+working,1
+settlement,1
+can,1
+be,1
+attained,1
+and,1
+i,1
+am,1

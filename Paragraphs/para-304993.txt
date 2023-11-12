@@ -1,0 +1,5 @@
+80,482,10
+e,1
+other,1
+village,1
+industries,1

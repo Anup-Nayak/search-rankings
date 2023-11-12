@@ -1,0 +1,9 @@
+19,443,6
+love,1
+not,1
+hate,1
+then,1
+only,1
+shall,1
+we,1
+win,1

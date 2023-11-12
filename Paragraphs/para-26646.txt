@@ -1,0 +1,16 @@
+9,50,10
+in,2
+reply,1
+to,2
+mr,1
+gandhi,1
+the,3
+witness,1
+said,1
+that,1
+accused,1
+had,1
+no,1
+authority,1
+remain,1
+colony,1

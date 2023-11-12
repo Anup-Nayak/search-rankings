@@ -1,0 +1,8 @@
+22,320,2
+163,1
+telegram,1
+to,1
+khwaja,1
+abdul,1
+majid,1
+2,1

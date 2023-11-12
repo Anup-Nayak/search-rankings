@@ -1,0 +1,11 @@
+58,66,9
+remaining,1
+few,1
+days,1
+without,1
+complication,1
+his,2
+age,1
+and,2
+active,1
+habits,1

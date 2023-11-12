@@ -1,0 +1,15 @@
+82,309,14
+make,1
+all,1
+the,3
+salt,1
+they,2
+need,1
+for,1
+province,1
+after,1
+rains,1
+begin,1
+will,1
+not,1
+be,1

@@ -1,0 +1,10 @@
+11,317,8
+bill,1
+not,1
+on,1
+for,1
+some,1
+days,1
+seeing,1
+minister,1
+to,1

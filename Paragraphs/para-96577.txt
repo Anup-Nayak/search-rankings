@@ -1,0 +1,14 @@
+28,386,6
+from,1
+which,1
+the,1
+world,1
+has,1
+ever,1
+suffered,1
+plague,1
+war,1
+and,1
+famine,1
+could,1
+not,1

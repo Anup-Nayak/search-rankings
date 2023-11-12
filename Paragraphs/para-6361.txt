@@ -1,0 +1,6 @@
+3,36,9
+other,1
+indian,1
+in,1
+place,1
+bias,1

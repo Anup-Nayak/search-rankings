@@ -1,0 +1,9 @@
+90,198,11
+2,1
+munshiram,2
+manekchand,1
+1856,1
+1926,1
+known,1
+as,1
+mahatma,1

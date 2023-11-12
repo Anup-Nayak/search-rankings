@@ -1,0 +1,13 @@
+13,21,7
+1,1
+gujarati,1
+colloquial,1
+expression,1
+meaning,1
+milksop,1
+2,1
+varieties,1
+of,1
+pulses,1
+3,1
+ibid,1

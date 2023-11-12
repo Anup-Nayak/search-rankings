@@ -1,0 +1,11 @@
+71,321,19
+the,1
+district,1
+committee,1
+and,2
+friends,1
+visited,1
+them,2
+told,1
+that,1
+theycould,1

@@ -1,0 +1,11 @@
+30,142,4
+1,1
+institutions,1
+for,1
+the,1
+care,1
+of,1
+disabled,1
+and,1
+useless,1
+cattle,1

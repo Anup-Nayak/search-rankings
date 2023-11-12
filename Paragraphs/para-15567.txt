@@ -1,0 +1,9 @@
+6,40,12
+which,1
+perhaps,1
+may,1
+not,1
+be,1
+within,1
+your,1
+knowledge,1

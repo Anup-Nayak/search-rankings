@@ -1,0 +1,16 @@
+42,347,3
+m,1
+k,1
+gandhi,1
+miss,1
+o,2
+c,1
+doke,1
+kafulafuta,1
+p,1
+naola,1
+n,1
+w,1
+rhodesia,1
+south,1
+africa,1

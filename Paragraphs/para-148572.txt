@@ -1,0 +1,6 @@
+43,173,5
+hearty,1
+congratulations,1
+wire,1
+details,1
+assault,1

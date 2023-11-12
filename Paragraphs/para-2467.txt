@@ -1,0 +1,10 @@
+2,21,15
+3,1
+a,1
+community,1
+village,1
+about,1
+20,1
+miles,1
+from,1
+pietermaritzburg,1

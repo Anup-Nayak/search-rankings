@@ -1,0 +1,17 @@
+66,404,12
+but,1
+i,1
+have,1
+slept,1
+often,3
+under,2
+the,3
+trees,1
+on,2
+bare,1
+earth,1
+and,2
+open,1
+sky,1
+burning,1
+ground,1

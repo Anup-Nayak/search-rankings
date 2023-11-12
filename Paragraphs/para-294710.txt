@@ -1,0 +1,12 @@
+78,307,12
+many,1
+believers,1
+in,2
+non,1
+violence,1
+both,1
+absolute,1
+number,1
+and,1
+also,1
+relatively,1

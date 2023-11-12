@@ -1,0 +1,6 @@
+11,298,21
+object,1
+union,1
+parliament,1
+declining,1
+offer,1

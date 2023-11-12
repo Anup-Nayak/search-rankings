@@ -1,0 +1,10 @@
+54,349,10
+hardly,1
+a,1
+return,1
+for,1
+my,1
+friendly,1
+and,1
+well,1
+meant,1

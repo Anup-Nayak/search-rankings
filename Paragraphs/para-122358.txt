@@ -1,0 +1,9 @@
+36,122,2
+the,2
+author,1
+is,1
+equally,1
+strong,1
+on,1
+psychological,1
+ground,1

@@ -1,0 +1,16 @@
+72,315,6
+amtul,1
+salaam,1
+your,1
+letter,1
+all,1
+are,1
+well,1
+stay,1
+on,1
+there,1
+till,1
+the,1
+matter,1
+is,1
+resolved,1

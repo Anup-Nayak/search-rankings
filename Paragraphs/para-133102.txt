@@ -1,0 +1,16 @@
+39,9,6
+1,1
+thread,1
+that,1
+a,1
+sister,1
+ties,1
+round,1
+the,1
+wrist,1
+of,1
+her,1
+brother,1
+on,1
+coconut,1
+day,1

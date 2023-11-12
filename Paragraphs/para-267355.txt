@@ -1,0 +1,7 @@
+72,38,13
+1,1
+the,1
+superscription,1
+is,1
+in,1
+devanagari,1

@@ -1,0 +1,7 @@
+54,347,29
+suspended,1
+collecitons,1
+pending,1
+negotiations,1
+i,1
+venture,1

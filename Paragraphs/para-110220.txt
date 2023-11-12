@@ -1,0 +1,9 @@
+32,405,6
+ranchi,1
+on,1
+or,1
+before,1
+september,1
+17,1
+1925,1
+2,1

@@ -1,0 +1,4 @@
+82,145,4
+stopping,1
+animal,1
+sacrifice,1

@@ -1,0 +1,9 @@
+15,114,18
+left,2
+ahmedabad,1
+to,1
+receive,1
+andrews,1
+harilal,1
+accompanied,1
+nanabhai,1

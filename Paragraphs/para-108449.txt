@@ -1,0 +1,10 @@
+32,90,1
+the,2
+fourth,1
+and,1
+last,1
+instance,1
+is,1
+as,1
+follows,1
+1,1

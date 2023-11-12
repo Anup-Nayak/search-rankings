@@ -1,0 +1,15 @@
+37,26,2
+vandemataram,1
+from,1
+mohandas,1
+bhai,1
+lalan,1
+pandit,1
+c/o,1
+sheth,1
+chhotalal,1
+malukchand,1
+hathibhaini,1
+bharni,1
+vadi,1
+ahmedabad,1

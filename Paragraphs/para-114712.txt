@@ -1,0 +1,10 @@
+34,86,1
+passed,1
+a,1
+jewish,1
+theatre,1
+was,1
+hired,1
+for,1
+the,1
+purpose,1

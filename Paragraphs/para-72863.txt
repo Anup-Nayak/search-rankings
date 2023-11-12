@@ -1,0 +1,12 @@
+21,51,12
+governments,1
+conditions,1
+would,2
+soon,1
+be,1
+changed,1
+he,1
+then,1
+ask,1
+the,1
+whole,1

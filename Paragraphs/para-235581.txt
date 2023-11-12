@@ -1,0 +1,14 @@
+64,241,3
+parliamentary,1
+board,1
+for,1
+all,1
+work,1
+in,1
+legislatures,1
+subject,1
+to,1
+the,2
+control,1
+of,1
+congress,1

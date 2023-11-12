@@ -1,0 +1,6 @@
+48,181,2
+179,1
+interview,1
+to,1
+the,1
+press,1

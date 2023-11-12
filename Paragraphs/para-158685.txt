@@ -1,0 +1,5 @@
+46,48,3
+42,1
+liberate,1
+the,1
+woman,1

@@ -1,0 +1,8 @@
+81,459,2
+720,1
+speech,1
+at,1
+chokhamela,1
+boarding,1
+house,1
+1,1

@@ -1,0 +1,8 @@
+94,189,8
+1,1
+extracted,1
+from,1
+gandhijis,1
+bihar,1
+tour,1
+diary,1

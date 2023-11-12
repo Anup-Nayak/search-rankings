@@ -1,0 +1,12 @@
+61,485,6
+not,1
+so,1
+delay,1
+in,1
+accepting,1
+the,1
+proposal,1
+about,1
+communal,1
+awards,1
+submitted,1

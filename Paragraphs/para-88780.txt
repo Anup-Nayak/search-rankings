@@ -1,0 +1,7 @@
+26,235,2
+an,1
+antyaj,1
+friend,1
+from,1
+amreli,1
+writes,1

@@ -1,0 +1,14 @@
+82,216,7
+india,1
+from,1
+the,1
+british,1
+yoke,1
+why,1
+should,1
+we,1
+not,1
+willingly,1
+accept,1
+their,1
+help,1

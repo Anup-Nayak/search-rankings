@@ -1,0 +1,3 @@
+7,40,3
+simultaneous,1
+impressions,1

@@ -1,0 +1,11 @@
+86,95,5
+1,1
+this,1
+and,1
+the,2
+two,1
+following,1
+paragraphs,1
+are,1
+from,1
+hindu,1

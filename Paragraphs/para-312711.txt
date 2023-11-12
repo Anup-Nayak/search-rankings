@@ -1,0 +1,6 @@
+82,239,3
+292,1
+scorched,1
+earth,1
+policy,1
+again,1

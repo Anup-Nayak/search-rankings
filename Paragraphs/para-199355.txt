@@ -1,0 +1,13 @@
+56,18,10
+2,1
+the,1
+addressee,1
+read,1
+too,2
+many,1
+books,1
+on,1
+religion,1
+and,1
+brooded,1
+much,1

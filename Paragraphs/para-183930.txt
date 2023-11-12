@@ -1,0 +1,10 @@
+52,189,16
+candidates,1
+for,1
+conversion,1
+into,1
+another,1
+social,1
+ro,1
+religious,1
+grouping,1

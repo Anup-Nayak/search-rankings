@@ -1,0 +1,6 @@
+42,420,2
+a,1
+khaddar,1
+clad,1
+high,1
+school,1

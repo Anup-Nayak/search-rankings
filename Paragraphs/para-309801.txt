@@ -1,0 +1,15 @@
+81,510,27
+it,2
+when,1
+arises,1
+volunteers,1
+should,1
+be,1
+organized,1
+in,1
+both,1
+the,1
+urban,1
+and,1
+rural,1
+areas,1

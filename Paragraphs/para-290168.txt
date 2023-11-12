@@ -1,0 +1,4 @@
+77,273,2
+the,1
+sindh,1
+tragedy,1

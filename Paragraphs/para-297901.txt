@@ -1,0 +1,13 @@
+79,269,3
+an,1
+indian,1
+christian,1
+student,1
+from,1
+a,1
+missionary,1
+college,1
+in,1
+bengal,1
+writes,1
+1,1

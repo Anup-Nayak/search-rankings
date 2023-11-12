@@ -1,0 +1,5 @@
+75,447,23
+thakore,1
+saheb,1
+rajkot,1
+state,1

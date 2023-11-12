@@ -1,0 +1,11 @@
+35,47,2
+ashram,1
+sabarmati,1
+saturday,1
+chaitra,1
+vad,1
+1,2
+3,1
+april,1
+10,1
+1926,1

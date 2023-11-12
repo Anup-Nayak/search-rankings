@@ -1,0 +1,8 @@
+48,73,2
+the,1
+principal,1
+hindu,1
+college,1
+delhi,1
+writes,1
+1,1

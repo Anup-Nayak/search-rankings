@@ -1,0 +1,14 @@
+94,50,9
+q,1
+can,1
+a,1
+man,1
+serve,2
+his,1
+immediate,1
+neighbours,1
+and,1
+yet,1
+the,1
+whole,1
+of,1

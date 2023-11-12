@@ -1,0 +1,13 @@
+84,161,4
+vandemataram,1
+from,1
+mohandas,1
+shri,1
+prabhashankar,1
+harchandbhai,1
+parekh,1
+dera,1
+sheri,1
+rajkot,1
+city,1
+kathiawar,1

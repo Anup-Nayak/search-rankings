@@ -1,0 +1,16 @@
+23,417,23
+honest,1
+and,2
+correct,1
+report,1
+of,1
+what,1
+i,2
+spoke,1
+at,1
+the,1
+meeting,1
+am,1
+a,1
+strict,1
+loyal,1

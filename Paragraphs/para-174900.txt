@@ -1,0 +1,6 @@
+50,134,1
+tuesday,1
+morning,1
+october,1
+14,1
+1930,1

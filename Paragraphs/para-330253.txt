@@ -1,0 +1,6 @@
+86,150,6
+284,1
+letter,1
+to,1
+janakdhari,1
+prasad,1

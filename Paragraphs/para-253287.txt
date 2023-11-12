@@ -1,0 +1,6 @@
+68,215,2
+278,1
+letter,1
+to,1
+anasuya,1
+jaju,1

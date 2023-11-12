@@ -1,0 +1,7 @@
+53,259,1
+296,1
+letter,1
+to,1
+r,1
+s,1
+hukerikar,1

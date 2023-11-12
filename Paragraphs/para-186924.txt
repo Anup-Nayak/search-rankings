@@ -1,0 +1,12 @@
+53,42,5
+swaraj,1
+ashram,1
+surat,1
+july,1
+13,1
+1931,1
+rohit,1
+mehta,1
+care,1
+congress,1
+ahmedabad,1

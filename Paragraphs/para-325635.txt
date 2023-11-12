@@ -1,0 +1,13 @@
+85,178,1
+if,1
+a,2
+firm,1
+resolve,1
+is,1
+made,1
+and,1
+vow,1
+taken,1
+to,1
+fulfil,1
+it,1

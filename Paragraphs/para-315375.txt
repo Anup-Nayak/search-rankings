@@ -1,0 +1,14 @@
+82,405,23
+g,1
+money,1
+lending,1
+is,2
+an,1
+ancient,1
+institutions,1
+and,1
+it,1
+deeply,1
+rooted,1
+in,1
+the,1

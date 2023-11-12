@@ -1,0 +1,16 @@
+74,400,16
+1,1
+bazalgette,1
+was,1
+killed,1
+by,1
+a,1
+mob,1
+in,2
+rampur,1
+state,1
+orissa,1
+on,1
+january,1
+5,1
+1939,1

@@ -1,0 +1,14 @@
+94,142,12
+1,1
+the,2
+relief,1
+camps,1
+should,1
+be,1
+situated,1
+near,1
+police,1
+stations,1
+instead,1
+of,1
+inside,1

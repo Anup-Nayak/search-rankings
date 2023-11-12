@@ -1,0 +1,9 @@
+5,46,2
+41,1
+wonderful,1
+is,1
+the,1
+way,1
+of,1
+god,1
+2,1

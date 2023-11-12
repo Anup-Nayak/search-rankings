@@ -1,0 +1,14 @@
+82,103,15
+stand,1
+aside,1
+and,1
+do,1
+nothing,2
+it,1
+is,2
+doing,1
+that,1
+the,1
+worst,1
+expedient,1
+of,1

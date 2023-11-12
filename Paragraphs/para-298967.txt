@@ -1,0 +1,12 @@
+79,384,16
+1,1
+the,1
+addressee,1
+was,1
+arrested,1
+on,1
+november,1
+17,1
+1940,1
+2,1
+ibid,1

@@ -1,0 +1,7 @@
+90,436,6
+where,1
+there,1
+is,1
+no,2
+illusion,1
+anguish,1

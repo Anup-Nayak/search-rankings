@@ -1,0 +1,17 @@
+84,79,9
+1,1
+in,1
+the,3
+source,1
+letter,1
+is,1
+placed,1
+between,1
+letters,1
+of,1
+may,1
+27,1
+and,1
+june,1
+4,1
+1944,1

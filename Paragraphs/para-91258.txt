@@ -1,0 +1,6 @@
+27,112,9
+bapuna,1
+patro,1
+manibehn,1
+patelne,1
+p,1

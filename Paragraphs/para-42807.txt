@@ -1,0 +1,7 @@
+13,139,8
+cognition,1
+polygamy,1
+wrong,1
+stop,1
+indians,1
+demand,1

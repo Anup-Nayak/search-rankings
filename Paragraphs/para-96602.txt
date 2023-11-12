@@ -1,0 +1,15 @@
+28,387,11
+truth,1
+applied,1
+to,1
+the,3
+world,1
+it,1
+has,1
+stirred,1
+me,1
+more,2
+as,1
+i,1
+saw,1
+clearly,1

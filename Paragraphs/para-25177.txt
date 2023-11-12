@@ -1,0 +1,12 @@
+8,357,5
+from,1
+a,2
+photostat,1
+of,1
+the,1
+handwritten,1
+office,1
+copy,1
+s,1
+n,1
+4823,1

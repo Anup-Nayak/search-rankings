@@ -1,0 +1,9 @@
+90,102,9
+ments,1
+and,1
+if,1
+possible,1
+of,1
+all,1
+associate,1
+powers,1

@@ -1,0 +1,11 @@
+28,322,2
+1,1
+the,2
+hero,1
+of,1
+gujarati,1
+novel,1
+sarasvatichandra,1
+by,1
+govardhanbhai,1
+tripathi,1

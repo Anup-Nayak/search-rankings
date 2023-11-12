@@ -1,0 +1,6 @@
+4,75,2
+54,1
+the,1
+indians,1
+in,1
+potchefstroom,1

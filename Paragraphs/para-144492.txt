@@ -1,0 +1,9 @@
+42,196,9
+lala,1
+mulkaraj,1
+secretary,1
+jallianwala,1
+bagh,1
+memorial,1
+fund,1
+amritsar,1

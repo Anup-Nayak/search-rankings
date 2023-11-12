@@ -1,0 +1,9 @@
+75,143,3
+fast,1
+begun,1
+little,1
+hope,1
+of,1
+an,1
+early,1
+end,1

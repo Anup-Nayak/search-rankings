@@ -1,0 +1,14 @@
+30,86,2
+1,1
+a,1
+gujarati,1
+bi,1
+monthly,1
+published,1
+by,1
+the,2
+gujarat,2
+mahavidyalaya,1
+affiliated,1
+to,1
+vidyapith,1

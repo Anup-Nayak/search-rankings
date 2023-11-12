@@ -1,0 +1,8 @@
+57,321,7
+decision,1
+i,1
+gratefully,1
+acknowledge,1
+gives,1
+me,1
+all,1

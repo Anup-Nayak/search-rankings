@@ -1,0 +1,7 @@
+72,297,8
+1,1
+the,1
+subscription,1
+is,1
+by,1
+gandhiji,1

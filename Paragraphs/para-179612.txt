@@ -1,0 +1,8 @@
+51,178,5
+knowing,1
+more,1
+any,1
+case,1
+you,1
+must,1
+secure,1

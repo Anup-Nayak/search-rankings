@@ -1,0 +1,10 @@
+50,188,3
+from,1
+hindi,1
+c,1
+w,1
+6189,1
+courtesy,1
+g,1
+d,1
+birla,1

@@ -1,0 +1,12 @@
+82,132,5
+write,1
+as,1
+above,1
+and,1
+let,1
+me,1
+know,1
+what,1
+her,1
+reply,1
+is,1

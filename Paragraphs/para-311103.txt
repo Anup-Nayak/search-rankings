@@ -1,0 +1,15 @@
+82,103,20
+i,1
+am,1
+compelled,1
+to,1
+echo,1
+the,1
+words,1
+of,2
+a,1
+very,1
+dear,1
+relative,1
+mine,1
+who,1

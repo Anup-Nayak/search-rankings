@@ -1,0 +1,7 @@
+14,10,23
+constitution,1
+commission,1
+stop,1
+people,1
+also,1
+felt,1

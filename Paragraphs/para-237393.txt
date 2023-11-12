@@ -1,0 +1,12 @@
+64,452,20
+federal,1
+constitution,1
+which,1
+require,1
+careful,1
+consideration,1
+on,1
+the,2
+part,1
+of,1
+congress,1

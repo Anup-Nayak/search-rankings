@@ -1,0 +1,10 @@
+48,150,2
+amrita,1
+bazar,1
+patrika,1
+31,2
+12,2
+1929,2
+and,1
+the,1
+tribune,1

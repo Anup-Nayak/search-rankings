@@ -1,0 +1,12 @@
+51,444,16
+defence,1
+services,1
+the,2
+financial,1
+and,2
+economic,1
+policy,1
+2,1
+many,1
+of,1
+my,1

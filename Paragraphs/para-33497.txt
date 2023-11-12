@@ -1,0 +1,12 @@
+10,499,9
+government,1
+in,1
+the,2
+south,1
+africa,1
+bill,1
+placing,1
+control,1
+and,1
+administration,1
+of,1

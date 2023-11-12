@@ -1,0 +1,17 @@
+93,101,9
+1,1
+extracted,1
+from,2
+do,1
+or,1
+die,1
+at,1
+work,1
+by,1
+pyarelal,1
+2,1
+hindustan,1
+standard,1
+9,1
+12,1
+1946,1

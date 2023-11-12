@@ -1,0 +1,15 @@
+9,25,1
+vernon,1
+yes,1
+it,2
+is,1
+a,1
+fair,1
+forgery,1
+would,1
+pass,1
+anyone,1
+who,1
+did,1
+not,1
+know,1

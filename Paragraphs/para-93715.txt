@@ -1,0 +1,12 @@
+27,428,6
+with,1
+persistent,1
+demands,1
+backed,1
+by,1
+consistent,1
+and,1
+substantial,1
+majorities,1
+for,1
+speedy,1

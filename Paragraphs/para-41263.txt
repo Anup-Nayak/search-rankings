@@ -1,0 +1,7 @@
+12,387,3
+earth,1
+and,2
+water,1
+sky,1
+fire,1
+air,1

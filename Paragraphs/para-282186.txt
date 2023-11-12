@@ -1,0 +1,8 @@
+75,280,11
+pants,1
+resolution,1
+in,1
+this,1
+atmosphere,1
+of,1
+mutual,1

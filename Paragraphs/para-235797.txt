@@ -1,0 +1,11 @@
+64,272,10
+1,1
+gandhiji,1
+and,1
+kasturba,1
+who,1
+had,1
+fallen,1
+ill,1
+at,1
+banaras,1

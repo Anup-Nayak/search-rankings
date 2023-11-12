@@ -1,0 +1,17 @@
+82,101,9
+yours,1
+sincerely,1
+m,2
+k,2
+gandhi,1
+janab,1
+syed,1
+ahmed,1
+member,1
+district,1
+board,1
+deevo,1
+street,1
+kayalportnam,1
+s,1
+india,1

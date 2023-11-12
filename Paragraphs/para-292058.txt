@@ -1,0 +1,5 @@
+78,44,5
+women,1
+and,1
+their,1
+work,1

@@ -1,0 +1,14 @@
+31,191,12
+and,1
+who,1
+has,1
+done,1
+some,1
+hard,1
+thinking,1
+on,1
+the,1
+subject,1
+of,1
+social,1
+reconstruction,1

@@ -1,0 +1,13 @@
+57,68,10
+1,1
+gandhijis,1
+cousin,1
+and,1
+father,1
+of,1
+narandas,1
+gandhi,1
+2,1
+devkunvar,1
+addressees,1
+wife,1

@@ -1,0 +1,11 @@
+25,473,14
+2,1
+observed,1
+to,2
+boycott,1
+the,1
+prince,1
+of,1
+wales,1
+visit,1
+madras,1

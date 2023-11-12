@@ -1,0 +1,10 @@
+21,305,2
+if,1
+shuklaji,1
+1,1
+does,1
+not,1
+accept,2
+you,1
+may,1
+2,1

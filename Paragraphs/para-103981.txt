@@ -1,0 +1,6 @@
+30,343,10
+pick,1
+and,1
+choose,1
+from,1
+mine,1

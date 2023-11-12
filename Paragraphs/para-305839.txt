@@ -1,0 +1,8 @@
+81,65,6
+123,1
+letter,1
+to,1
+pyarelal,1
+september,1
+7,1
+1941,1

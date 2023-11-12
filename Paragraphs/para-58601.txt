@@ -1,0 +1,16 @@
+16,502,21
+state,1
+of,2
+affairs,1
+in,1
+the,2
+district,1
+and,1
+ask,1
+how,1
+far,1
+government,1
+india,1
+is,1
+prepared,1
+to,1

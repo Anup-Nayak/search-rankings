@@ -1,0 +1,12 @@
+29,30,3
+mr,1
+gandhi,1
+left,1
+for,1
+ahmedabad,1
+this,1
+morning,1
+enroute,1
+to,1
+bombay,1
+interviewed,1

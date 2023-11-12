@@ -1,0 +1,14 @@
+9,12,15
+mr,2
+cramer,1
+i,1
+have,1
+no,1
+objection,1
+to,1
+gandhi,1
+asking,1
+if,1
+the,1
+accuseds,1
+name,1

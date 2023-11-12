@@ -1,0 +1,9 @@
+5,10,6
+2,1
+vide,1
+immigration,1
+act,1
+of,1
+natal,1
+11,2
+1905,1

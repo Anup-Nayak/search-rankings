@@ -1,0 +1,8 @@
+71,132,20
+congress,1
+seems,1
+impossible,1
+it,1
+is,1
+therefore,1
+for,1

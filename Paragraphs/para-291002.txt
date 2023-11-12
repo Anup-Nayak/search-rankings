@@ -1,0 +1,16 @@
+77,395,14
+that,1
+politics,2
+of,2
+power,1
+is,1
+a,1
+bad,1
+thing,1
+why,1
+should,1
+we,1
+not,1
+take,1
+part,1
+in,1

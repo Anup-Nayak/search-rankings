@@ -1,0 +1,12 @@
+44,485,7
+t1,1
+guj,1
+does,1
+not,1
+have,1
+in,1
+the,1
+course,1
+of,1
+this,1
+narrative,1

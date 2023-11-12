@@ -1,0 +1,12 @@
+51,448,25
+b,1
+land,1
+and,1
+other,1
+immovable,1
+property,1
+in,1
+the,1
+possession,1
+of,1
+government,1

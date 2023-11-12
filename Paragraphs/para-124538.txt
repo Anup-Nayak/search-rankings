@@ -1,0 +1,6 @@
+36,373,4
+426,1
+khadi,1
+at,1
+concession,1
+price,1

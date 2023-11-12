@@ -1,0 +1,8 @@
+13,70,3
+not,1
+required,1
+from,1
+other,1
+immigrants,1
+stop,1
+while,1

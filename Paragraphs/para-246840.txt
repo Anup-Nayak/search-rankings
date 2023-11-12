@@ -1,0 +1,14 @@
+67,5,9
+b,1
+i,1
+did,1
+about,1
+fifty,1
+yards,1
+the,1
+other,1
+day,1
+but,1
+that,1
+s,1
+all,1

@@ -1,0 +1,7 @@
+35,65,1
+104,1
+letter,1
+to,1
+adamsaleh,1
+a,1
+patel,1

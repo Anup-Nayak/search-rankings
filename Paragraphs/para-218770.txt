@@ -1,0 +1,11 @@
+60,221,5
+the,1
+statement,1
+of,2
+things,1
+done,1
+progress,1
+from,1
+week,2
+to,1
+seems,1

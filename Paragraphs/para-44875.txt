@@ -1,0 +1,9 @@
+13,398,12
+marching,1
+on,1
+starvation,1
+rations,1
+without,1
+provision,1
+for,1
+shelter,1

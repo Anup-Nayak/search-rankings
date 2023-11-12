@@ -1,0 +1,11 @@
+78,265,5
+i,1
+had,1
+your,1
+letter,1
+enclosing,1
+mr,1
+spaldings,1
+thompsons,1
+was,1
+not,1

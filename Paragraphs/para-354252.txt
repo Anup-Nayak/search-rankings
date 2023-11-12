@@ -1,0 +1,4 @@
+91,413,1
+485,1
+doctors,1
+criticized,1

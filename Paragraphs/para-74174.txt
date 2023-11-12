@@ -1,0 +1,11 @@
+21,277,4
+statement,1
+am,1
+strongly,1
+opi,1
+nion,1
+no,1
+defence,1
+by,1
+lawyer,1
+possible,1

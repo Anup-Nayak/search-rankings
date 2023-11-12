@@ -1,0 +1,6 @@
+60,143,5
+will,1
+not,1
+temples,1
+be,1
+deserted,1

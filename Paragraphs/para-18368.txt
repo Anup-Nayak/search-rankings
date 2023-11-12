@@ -1,0 +1,7 @@
+6,347,6
+local,1
+government,2
+refused,1
+forward,1
+cable,1
+home,1

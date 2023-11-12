@@ -1,0 +1,7 @@
+62,104,7
+anand,1
+hingorani,1
+sahitipur,1
+bunder,1
+road,1
+karachi,1

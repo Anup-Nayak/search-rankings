@@ -1,0 +1,13 @@
+23,229,4
+gujarati,1
+12,1
+6,1
+1921,2
+108,1
+speech,1
+at,1
+khilafat,1
+conference,1
+broach,1
+june,1
+2,1

@@ -1,0 +1,13 @@
+66,439,9
+gandhiji,1
+as,1
+you,2
+sit,1
+in,1
+your,1
+meditation,1
+are,1
+troubled,1
+by,1
+extraneous,1
+thoughts,1

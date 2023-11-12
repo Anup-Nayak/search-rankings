@@ -1,0 +1,11 @@
+31,435,4
+already,1
+there,1
+is,1
+a,2
+good,1
+number,1
+of,1
+charkhas,1
+working,1
+strong,1

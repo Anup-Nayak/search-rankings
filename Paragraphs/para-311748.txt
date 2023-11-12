@@ -1,0 +1,15 @@
+82,157,13
+i,3
+know,1
+this,1
+if,1
+have,1
+to,1
+be,1
+out,1
+of,1
+sevagram,1
+cannot,1
+keep,1
+my,1
+health,1

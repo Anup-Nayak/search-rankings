@@ -1,0 +1,7 @@
+84,359,1
+482,1
+letter,1
+to,1
+bidhan,1
+chandra,1
+roy,1

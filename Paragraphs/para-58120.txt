@@ -1,0 +1,10 @@
+16,467,3
+defects,1
+in,1
+the,1
+system,1
+under,1
+which,1
+indigo,1
+is,1
+grown,1

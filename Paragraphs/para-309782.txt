@@ -1,0 +1,9 @@
+81,510,8
+its,1
+organization,1
+is,1
+strong,1
+and,3
+disciplined,1
+congressmen,1
+individually,1

@@ -1,0 +1,7 @@
+59,473,14
+10,1
+dr,1
+t,1
+s,2
+rajan,1
+trichinopoly,1

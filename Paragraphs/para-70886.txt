@@ -1,0 +1,9 @@
+20,210,15
+opinion,1
+same,1
+time,1
+am,1
+unwilling,1
+proceed,1
+without,1
+encouragement,1

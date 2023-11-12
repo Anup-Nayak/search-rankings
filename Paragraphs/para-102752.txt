@@ -1,0 +1,14 @@
+30,204,4
+q,1
+who,1
+put,1
+out,1
+the,1
+rumour,1
+that,1
+sardar,1
+saheb,1
+and,1
+his,1
+son,1
+fired,1

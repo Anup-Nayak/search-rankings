@@ -1,0 +1,15 @@
+85,52,7
+j,1
+it,1
+may,1
+involve,1
+a,1
+lot,1
+of,1
+time,1
+from,1
+five,1
+to,1
+even,1
+ten,1
+years,1

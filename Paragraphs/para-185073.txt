@@ -1,0 +1,11 @@
+52,323,16
+the,2
+speaker,1
+who,1
+had,2
+never,1
+tasted,1
+liquor,2
+affectionately,1
+given,1
+to,1

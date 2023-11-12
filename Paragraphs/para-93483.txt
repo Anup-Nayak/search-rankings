@@ -1,0 +1,16 @@
+27,405,27
+before,1
+i,1
+leave,1
+south,1
+africa,1
+on,1
+the,1
+27th,1
+of,1
+this,1
+month,1
+we,1
+are,1
+holding,1
+an,1

@@ -1,0 +1,6 @@
+57,21,4
+32,1
+working,1
+and,1
+thinking,1
+2,1

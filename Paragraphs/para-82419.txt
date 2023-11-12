@@ -1,0 +1,7 @@
+24,185,16
+trust,1
+no,1
+custom,1
+school,1
+or,1
+fashion,1

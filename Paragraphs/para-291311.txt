@@ -1,0 +1,16 @@
+77,418,14
+but,1
+it,1
+is,1
+there,1
+now,1
+in,1
+the,3
+face,1
+of,1
+greatest,1
+crisis,1
+that,1
+has,1
+ever,1
+confronted,1

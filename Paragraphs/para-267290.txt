@@ -1,0 +1,6 @@
+72,29,12
+1,1
+principal,1
+of,1
+gurukul,1
+kangri,1

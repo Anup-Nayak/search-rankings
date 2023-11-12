@@ -1,0 +1,12 @@
+28,346,23
+and,2
+all,1
+about,1
+relations,1
+friends,1
+please,1
+thank,1
+bapu,1
+jivat,1
+kodu,1
+champaneria,1

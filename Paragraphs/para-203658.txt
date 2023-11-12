@@ -1,0 +1,9 @@
+57,86,15
+1,1
+from,1
+the,3
+placing,1
+of,1
+item,1
+in,1
+source,1

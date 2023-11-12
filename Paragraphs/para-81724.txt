@@ -1,0 +1,17 @@
+24,66,4
+discarded,1
+clothes,1
+but,1
+if,1
+they,1
+so,1
+liked,1
+it,1
+he,1
+did,1
+not,1
+mind,1
+their,1
+being,1
+sent,1
+there,1

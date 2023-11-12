@@ -1,0 +1,12 @@
+34,41,4
+i,1
+have,1
+deliberately,1
+entered,1
+into,1
+all,1
+these,1
+details,1
+for,1
+without,1
+them,1

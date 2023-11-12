@@ -1,0 +1,12 @@
+87,327,14
+this,1
+is,1
+what,1
+the,2
+editor,1
+of,1
+gram,1
+udyog,1
+patrika,1
+tells,1
+me,1

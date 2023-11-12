@@ -1,0 +1,11 @@
+10,427,3
+1,1
+vide,1
+passive,1
+resistance,1
+prisoners,1
+indian,1
+opinion,1
+26,1
+2,1
+1910,1

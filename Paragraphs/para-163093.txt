@@ -1,0 +1,6 @@
+47,86,6
+94,1
+letter,1
+to,1
+swami,1
+govindanand,1

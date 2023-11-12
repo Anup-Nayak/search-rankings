@@ -1,0 +1,12 @@
+2,30,2
+by,1
+order,1
+of,1
+the,1
+government,1
+all,1
+passengers,1
+bed,1
+clothes,1
+having,1
+been,1

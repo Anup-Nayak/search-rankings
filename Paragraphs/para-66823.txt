@@ -1,0 +1,11 @@
+19,142,4
+over,1
+the,2
+great,1
+and,2
+noble,1
+eucalyptus,1
+trees,1
+in,1
+montgomery,1
+gardens,1

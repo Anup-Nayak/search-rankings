@@ -1,0 +1,15 @@
+46,237,6
+i,2
+assert,1
+that,1
+am,1
+a,1
+true,1
+follower,1
+of,1
+ahsima,1
+but,1
+it,1
+needs,1
+an,1
+explanation,1

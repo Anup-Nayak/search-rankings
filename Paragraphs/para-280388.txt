@@ -1,0 +1,10 @@
+75,75,5
+a,1
+correspondent,1
+sends,1
+the,1
+following,1
+business,1
+like,1
+note,1
+1,1

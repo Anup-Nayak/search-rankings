@@ -1,0 +1,7 @@
+70,185,6
+an,1
+open,1
+letter,1
+to,1
+mahatma,1
+gandhi,1

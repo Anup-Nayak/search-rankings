@@ -1,0 +1,8 @@
+92,124,4
+178,1
+letter,1
+to,1
+purushottam,1
+bhatt,2
+and,1
+ganga,1

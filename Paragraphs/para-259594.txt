@@ -1,0 +1,6 @@
+69,435,3
+578,1
+letter,1
+to,1
+nandalal,1
+bose,1

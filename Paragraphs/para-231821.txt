@@ -1,0 +1,5 @@
+63,339,1
+strive,1
+for,1
+internal,1
+purity,1

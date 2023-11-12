@@ -1,0 +1,6 @@
+54,30,6
+necessary,1
+steps,1
+meet,1
+every,1
+situation,1

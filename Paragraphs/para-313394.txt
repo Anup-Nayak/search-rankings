@@ -1,0 +1,11 @@
+82,298,3
+of,3
+pagaro,1
+was,1
+arrested,1
+in,1
+the,3
+beginning,1
+this,1
+period,1
+frequency,1

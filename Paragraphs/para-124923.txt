@@ -1,0 +1,14 @@
+36,416,10
+1,1
+for,1
+the,2
+first,1
+article,1
+of,1
+series,1
+videis,1
+this,1
+humanity,1
+i,1
+10,2
+1926,1

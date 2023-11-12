@@ -1,0 +1,13 @@
+94,139,11
+r,1
+securities,1
+should,1
+be,1
+taken,1
+from,1
+gangsters,1
+and,1
+influential,1
+people,1
+in,1
+the,1

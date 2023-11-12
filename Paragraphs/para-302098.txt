@@ -1,0 +1,6 @@
+80,215,1
+381,1
+letter,1
+to,1
+purshottam,1
+trikamdas,1

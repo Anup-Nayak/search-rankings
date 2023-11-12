@@ -1,0 +1,15 @@
+23,48,6
+1,1
+names,1
+of,3
+communities,1
+forming,1
+bulk,1
+the,2
+population,1
+in,1
+kheda,1
+district,1
+gujarat,1
+2,1
+ibid,1

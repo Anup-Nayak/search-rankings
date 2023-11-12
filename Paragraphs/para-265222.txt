@@ -1,0 +1,7 @@
+71,237,12
+congress,1
+and,1
+advise,1
+regarding,1
+plan,1
+etc,1

@@ -1,0 +1,15 @@
+38,22,5
+i,1
+do,1
+not,1
+speak,1
+of,2
+morality,1
+or,1
+that,1
+spiritual,1
+quality,1
+which,1
+is,1
+common,1
+to,1

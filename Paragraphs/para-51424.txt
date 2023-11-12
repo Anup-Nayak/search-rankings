@@ -1,0 +1,8 @@
+15,119,3
+november,1
+23,1
+tuesday,1
+doctor,1
+came,2
+makkhanlal,1
+gupta,1

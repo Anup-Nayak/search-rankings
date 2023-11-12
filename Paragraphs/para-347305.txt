@@ -1,0 +1,17 @@
+90,78,9
+mahatma,1
+gandhi,1
+thanked,1
+the,3
+gathering,1
+for,1
+atmosphere,1
+of,1
+silence,1
+and,1
+calm,1
+in,1
+which,1
+prayers,1
+were,1
+conducted,1

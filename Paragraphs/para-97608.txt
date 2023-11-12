@@ -1,0 +1,5 @@
+29,19,1
+12,1
+bolshevism,1
+or,1
+discipline,1

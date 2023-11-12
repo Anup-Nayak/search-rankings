@@ -1,0 +1,8 @@
+21,284,4
+1,1
+the,1
+peoples,1
+famine,1
+relief,1
+committee,1
+puri,1

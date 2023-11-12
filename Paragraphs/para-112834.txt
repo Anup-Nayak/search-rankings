@@ -1,0 +1,17 @@
+33,295,6
+i,2
+have,2
+recovered,1
+nine,1
+pounds,2
+from,1
+the,1
+weight,1
+had,1
+lost,1
+and,1
+yet,1
+to,1
+make,1
+up,1
+six,1

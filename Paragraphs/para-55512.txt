@@ -1,0 +1,15 @@
+16,99,16
+we,1
+shall,1
+not,1
+have,1
+done,1
+our,2
+duty,1
+by,2
+ourselves,1
+and,1
+country,1
+in,1
+fact,1
+the,1

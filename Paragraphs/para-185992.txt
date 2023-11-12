@@ -1,0 +1,15 @@
+52,424,11
+whom,1
+the,2
+message,1
+of,1
+starving,1
+millions,1
+had,1
+not,1
+reached,1
+and,1
+for,1
+such,1
+persons,1
+who,1

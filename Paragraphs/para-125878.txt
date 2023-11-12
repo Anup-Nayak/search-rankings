@@ -1,0 +1,10 @@
+37,16,4
+yours,1
+sincerely,1
+fr,1
+ida,1
+miller,1
+xiii,1
+baumgartenstrasse,1
+53,1
+vienna,1

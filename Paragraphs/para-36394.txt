@@ -1,0 +1,8 @@
+11,303,17
+created,1
+if,1
+educated,1
+asiatic,1
+immigrants,1
+be,1
+con,1

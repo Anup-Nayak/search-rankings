@@ -1,0 +1,6 @@
+4,31,3
+27,1
+suicide,1
+among,1
+indentured,1
+indians,1

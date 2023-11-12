@@ -1,0 +1,12 @@
+17,293,11
+5,1
+this,1
+passage,1
+is,1
+in,2
+english,1
+followed,1
+by,1
+a,1
+translation,1
+gujarati,1

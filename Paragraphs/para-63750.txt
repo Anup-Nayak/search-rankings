@@ -1,0 +1,8 @@
+18,133,14
+not,1
+withdrawn,1
+have,1
+also,1
+asked,1
+for,1
+inquiry,1

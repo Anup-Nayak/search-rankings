@@ -1,0 +1,5 @@
+38,285,6
+nandi,1
+hills,1
+mysore,1
+2,1

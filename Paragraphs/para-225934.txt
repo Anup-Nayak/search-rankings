@@ -1,0 +1,5 @@
+62,25,2
+30,1
+repercussions,1
+of,1
+untouchability,1

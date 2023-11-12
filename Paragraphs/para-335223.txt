@@ -1,0 +1,8 @@
+87,184,8
+my,1
+stay,1
+uncertain,1
+follow,1
+newspapers,1
+and,1
+decide,1

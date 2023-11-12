@@ -1,0 +1,17 @@
+23,477,17
+got,1
+a,1
+place,1
+in,2
+your,2
+list,1
+can,1
+he,2
+be,1
+admitted,1
+to,1
+ashram,1
+if,1
+is,1
+not,1
+deficient,1

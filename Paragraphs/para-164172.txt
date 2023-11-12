@@ -1,0 +1,11 @@
+47,210,7
+wire,1
+if,1
+anything,1
+demands,1
+special,1
+reply,1
+i,1
+dont,1
+think,1
+requires,1

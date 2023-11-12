@@ -1,0 +1,4 @@
+17,15,13
+gandhiji,1
+asked,1
+twice,1

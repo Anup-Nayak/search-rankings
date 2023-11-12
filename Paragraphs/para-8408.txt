@@ -1,0 +1,6 @@
+3,408,3
+265,1
+report,1
+on,1
+asiatic,1
+permits,1

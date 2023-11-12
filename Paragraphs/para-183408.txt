@@ -1,0 +1,13 @@
+52,139,23
+propaganda,1
+no,1
+longer,1
+dominated,1
+the,1
+situation,1
+here,1
+we,2
+have,1
+been,1
+told,1
+that,1

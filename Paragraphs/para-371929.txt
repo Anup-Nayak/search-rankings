@@ -1,0 +1,14 @@
+96,250,32
+they,2
+replied,1
+in,2
+the,1
+negative,1
+whatever,1
+had,1
+done,1
+was,1
+self,1
+defence,1
+hence,1
+it,1

@@ -1,0 +1,7 @@
+92,15,1
+23,1
+letter,1
+to,1
+shafaat,1
+ahmed,1
+khan,1

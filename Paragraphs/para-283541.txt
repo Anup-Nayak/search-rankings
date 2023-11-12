@@ -1,0 +1,9 @@
+75,446,2
+extracts,1
+from,1
+notes,1
+of,1
+talks,1
+at,1
+the,1
+residency,1

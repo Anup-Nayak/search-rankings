@@ -1,0 +1,10 @@
+46,65,5
+estimated,1
+value,1
+of,1
+jewels,1
+in,1
+nellore,1
+dt,1
+200,1
+0,2

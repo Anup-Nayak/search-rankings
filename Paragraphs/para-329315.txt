@@ -1,0 +1,6 @@
+86,64,1
+124,1
+letter,1
+to,1
+shripad,1
+joshi,1

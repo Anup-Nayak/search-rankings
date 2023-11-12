@@ -1,0 +1,8 @@
+14,213,3
+192,1
+speech,1
+at,1
+reception,1
+by,1
+dheds,1
+1,1

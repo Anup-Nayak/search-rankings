@@ -1,0 +1,16 @@
+2,3,1
+i,2
+did,1
+not,1
+prepare,1
+it,2
+in,1
+natal,1
+prepared,1
+the,2
+whole,1
+of,1
+while,1
+on,1
+voyage,1
+home,1

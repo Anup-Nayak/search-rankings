@@ -1,0 +1,8 @@
+87,144,25
+if,1
+you,1
+desire,1
+text,1
+yesterdays,1
+letter,1
+earlier,1

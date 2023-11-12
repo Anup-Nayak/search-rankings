@@ -1,0 +1,13 @@
+32,333,8
+individual,1
+workers,1
+with,1
+reference,1
+to,1
+different,1
+provincial,1
+conditions,1
+and,1
+not,1
+in,1
+an,1

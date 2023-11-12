@@ -1,0 +1,14 @@
+62,109,11
+conger,1
+is,2
+the,1
+hand,1
+of,1
+god,1
+behind,2
+good,1
+only,1
+or,1
+it,1
+evil,1
+also,1

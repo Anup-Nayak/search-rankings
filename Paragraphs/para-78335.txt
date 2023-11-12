@@ -1,0 +1,11 @@
+22,496,2
+1,1
+gandhiji,1
+has,1
+in,1
+mind,1
+bezwada,1
+where,1
+the,1
+committee,1
+met,1

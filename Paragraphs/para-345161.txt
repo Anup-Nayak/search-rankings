@@ -1,0 +1,15 @@
+89,294,8
+question,1
+what,2
+exactly,1
+do,1
+you,2
+mean,1
+by,2
+economic,1
+equality,1
+is,1
+statutory,1
+trusteeship,1
+as,1
+conceived,1

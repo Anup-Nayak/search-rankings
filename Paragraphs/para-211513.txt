@@ -1,0 +1,14 @@
+58,434,7
+1,1
+an,1
+article,1
+about,1
+untouchability,1
+work,1
+published,1
+in,1
+the,1
+mysore,1
+star,1
+a,1
+weekly,1

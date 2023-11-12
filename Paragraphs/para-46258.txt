@@ -1,0 +1,7 @@
+14,40,4
+to,1
+the,2
+secretary,1
+for,1
+interior,1
+pretoria,1

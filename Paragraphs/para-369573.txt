@@ -1,0 +1,7 @@
+95,414,9
+rawalpindi,2
+divisionattock,1
+gujrat,1
+jhelum,1
+mianwali,1
+shahpur,1

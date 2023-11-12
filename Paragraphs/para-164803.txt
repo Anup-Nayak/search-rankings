@@ -1,0 +1,17 @@
+47,282,9
+1,1
+dated,1
+october,1
+20,1
+1929,2
+for,2
+the,1
+english,1
+article,1
+vide,1
+ideal,1
+primary,1
+school,1
+children,1
+2,1
+6,1

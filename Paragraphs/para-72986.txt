@@ -1,0 +1,16 @@
+21,67,19
+1,1
+waiters,1
+attendants,1
+at,1
+table,1
+2,1
+sir,1
+tej,1
+bahadur,1
+sapru,1
+1875,1
+1949,1
+statesman,1
+and,1
+lawyer,1

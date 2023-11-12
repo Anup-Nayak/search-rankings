@@ -1,0 +1,13 @@
+58,23,9
+mr,1
+devdhar,1
+1,1
+explained,1
+to,1
+mahatmaji,1
+the,2
+scheme,1
+devised,1
+by,1
+board,1
+for,1

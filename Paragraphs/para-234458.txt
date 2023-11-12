@@ -1,0 +1,3 @@
+64,125,8
+mohandas,1
+gandhi,1

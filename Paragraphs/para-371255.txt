@@ -1,0 +1,12 @@
+96,183,7
+replying,1
+to,1
+a,1
+question,1
+by,1
+the,2
+president,1
+of,1
+punjab,1
+student,1
+christian,1

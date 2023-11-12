@@ -1,0 +1,6 @@
+58,68,3
+96,1
+statement,1
+on,1
+untouchability,1
+ix,1

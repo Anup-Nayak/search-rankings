@@ -1,0 +1,8 @@
+59,508,14
+a,1
+i,1
+can,1
+set,1
+right,1
+the,1
+thing,1

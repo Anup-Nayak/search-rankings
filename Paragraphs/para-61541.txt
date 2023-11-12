@@ -1,0 +1,8 @@
+17,326,6
+whether,1
+justified,1
+or,1
+not,1
+there,1
+is,1
+no,1

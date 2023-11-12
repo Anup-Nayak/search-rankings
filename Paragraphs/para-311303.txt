@@ -1,0 +1,11 @@
+82,120,10
+i,1
+do,1
+not,1
+wish,1
+to,2
+trouble,1
+bhaiji,1
+come,1
+here,1
+specially,1

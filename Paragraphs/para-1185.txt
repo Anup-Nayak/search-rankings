@@ -1,0 +1,12 @@
+1,232,6
+to,1
+his,1
+honour,1
+the,2
+state,1
+president,1
+of,1
+south,1
+african,1
+republic,1
+pretoria,1

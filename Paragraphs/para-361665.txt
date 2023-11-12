@@ -1,0 +1,12 @@
+93,283,9
+1,1
+this,1
+and,1
+the,1
+following,1
+item,1
+are,1
+extracted,1
+from,1
+srirampur,1
+diary,1

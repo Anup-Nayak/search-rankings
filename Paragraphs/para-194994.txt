@@ -1,0 +1,11 @@
+54,470,3
+remain,1
+in,1
+the,3
+medical,1
+care,1
+of,2
+superintendent,1
+prison,1
+but,1
+arrangements,1

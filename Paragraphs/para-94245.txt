@@ -1,0 +1,4 @@
+28,0,2
+ethics,1
+of,1
+fasting,1

@@ -1,0 +1,13 @@
+37,290,7
+as,1
+the,5
+one,1
+sun,1
+illumines,2
+whole,2
+universe,1
+even,1
+so,1
+master,1
+of,1
+field,2

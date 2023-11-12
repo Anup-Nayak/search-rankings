@@ -1,0 +1,11 @@
+2,78,15
+on,1
+the,2
+10th,1
+january,1
+following,1
+signal,1
+was,1
+hoisted,1
+quarantine,1
+having,1

@@ -1,0 +1,15 @@
+30,330,5
+1,1
+j,1
+c,1
+smuts,1
+1870,1
+1950,1
+south,1
+african,1
+general,1
+and,1
+statesman,1
+late,1
+prime,1
+minister,1

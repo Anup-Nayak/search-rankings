@@ -1,0 +1,13 @@
+12,99,1
+75,1
+letter,1
+to,1
+a,1
+h,1
+west,1
+friday,1
+night,1
+november,1
+24,1
+1911,1
+1,1

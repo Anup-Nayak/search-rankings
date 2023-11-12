@@ -1,0 +1,16 @@
+54,185,5
+sir,1
+tej,1
+bahadur,1
+sapru,1
+that,1
+is,2
+what,2
+i,1
+want,1
+to,2
+know,1
+the,1
+legal,1
+machinery,1
+be,1

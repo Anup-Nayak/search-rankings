@@ -1,0 +1,9 @@
+6,44,8
+mr,1
+gandhi,1
+it,1
+is,1
+the,1
+ten,1
+finger,1
+mark,1

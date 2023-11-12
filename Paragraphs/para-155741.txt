@@ -1,0 +1,10 @@
+45,115,11
+stands,1
+and,1
+which,1
+my,1
+life,1
+is,1
+pledged,1
+to,1
+destroy,1

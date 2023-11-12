@@ -1,0 +1,6 @@
+86,100,1
+189,1
+letter,1
+to,1
+uttamchand,1
+gangaram,1

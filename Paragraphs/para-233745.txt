@@ -1,0 +1,11 @@
+64,44,5
+family,1
+yet,1
+you,1
+have,1
+lost,1
+nothing,1
+god,1
+was,1
+and,1
+is,1

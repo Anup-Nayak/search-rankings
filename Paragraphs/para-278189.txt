@@ -1,0 +1,9 @@
+74,289,13
+1,1
+as,1
+noted,1
+down,1
+by,1
+the,1
+addressee,1
+himself,1

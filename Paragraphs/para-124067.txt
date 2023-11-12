@@ -1,0 +1,7 @@
+36,320,6
+bapu,1
+mrs,1
+esther,1
+menon,1
+porto,1
+novo,1

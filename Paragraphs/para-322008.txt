@@ -1,0 +1,6 @@
+84,284,2
+383,1
+letter,1
+to,1
+chimanlal,1
+setalvad,1

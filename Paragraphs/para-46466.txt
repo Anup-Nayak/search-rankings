@@ -1,0 +1,7 @@
+14,70,10
+premier,1
+emphasised,1
+need,1
+better,1
+understanding,1
+higher,1

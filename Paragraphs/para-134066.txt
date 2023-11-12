@@ -1,0 +1,10 @@
+39,143,2
+1,1
+the,2
+dharma,1
+based,1
+on,1
+vedic,1
+tradition,1
+2,1
+synthesis,1

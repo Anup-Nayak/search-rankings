@@ -1,0 +1,8 @@
+16,16,6
+ahmedabad,1
+bhadarva,1
+vad,1
+9,2
+september,1
+1917,1
+1,1

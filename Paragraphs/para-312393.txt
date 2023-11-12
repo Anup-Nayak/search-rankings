@@ -1,0 +1,16 @@
+82,211,3
+period,1
+just,1
+as,1
+the,3
+roman,1
+script,1
+has,1
+with,1
+advent,1
+of,1
+british,1
+but,1
+you,1
+do,1
+not,1

@@ -1,0 +1,3 @@
+50,92,3
+venilal,1
+gandhi,1

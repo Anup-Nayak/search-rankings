@@ -1,0 +1,10 @@
+95,207,2
+1,1
+this,1
+sentence,1
+is,1
+from,1
+mahatma,1
+gandhithe,1
+last,1
+phase,1

@@ -1,0 +1,9 @@
+90,174,10
+a,2
+member,1
+we,1
+are,1
+difficult,1
+community,1
+at,1
+times,1

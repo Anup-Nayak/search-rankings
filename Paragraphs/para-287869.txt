@@ -1,0 +1,4 @@
+76,434,17
+to,1
+fresh,1
+disaster,1

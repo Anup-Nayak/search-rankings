@@ -1,0 +1,13 @@
+53,510,14
+there,1
+are,2
+one,1
+or,1
+two,1
+areas,1
+in,1
+which,1
+they,1
+said,1
+to,1
+have,1

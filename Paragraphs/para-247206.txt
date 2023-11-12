@@ -1,0 +1,12 @@
+67,41,12
+1,1
+the,3
+addressee,1
+had,1
+said,1
+that,1
+spinning,1
+on,1
+takli,1
+irritated,1
+hair,1

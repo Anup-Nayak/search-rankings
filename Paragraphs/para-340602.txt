@@ -1,0 +1,9 @@
+88,218,9
+1,1
+a,1
+trustee,1
+of,1
+the,1
+nature,1
+cure,1
+clinic,1

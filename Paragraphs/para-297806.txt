@@ -1,0 +1,15 @@
+79,257,4
+war,1
+and,1
+not,1
+of,1
+peace,1
+it,2
+carries,1
+with,1
+a,1
+pretentious,1
+claim,1
+to,1
+spiritual,1
+value,1

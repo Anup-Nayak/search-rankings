@@ -1,0 +1,7 @@
+83,221,14
+college,2
+left,1
+1920,1
+and,1
+joined,1
+ashram,1

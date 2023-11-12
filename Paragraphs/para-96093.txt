@@ -1,0 +1,6 @@
+28,320,2
+172,1
+deprived,1
+of,1
+his,1
+right,1

@@ -1,0 +1,6 @@
+28,268,2
+nothing,1
+wrong,1
+only,1
+weak,1
+1,1

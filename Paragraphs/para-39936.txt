@@ -1,0 +1,7 @@
+12,250,4
+this,1
+indenture,1
+made,1
+by,1
+and,1
+between,1

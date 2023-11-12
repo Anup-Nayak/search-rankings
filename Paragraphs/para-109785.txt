@@ -1,0 +1,13 @@
+32,332,12
+had,3
+not,1
+to,1
+be,1
+fed,1
+by,1
+the,1
+state,1
+they,3
+cottage,1
+occupations,1
+worked,1

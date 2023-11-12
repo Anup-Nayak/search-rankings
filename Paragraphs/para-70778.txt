@@ -1,0 +1,9 @@
+20,197,9
+1,1
+released,1
+as,1
+a,1
+letter,1
+to,1
+the,1
+press,1

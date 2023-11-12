@@ -1,0 +1,12 @@
+91,444,4
+member,1
+of,1
+the,2
+constituent,1
+assembly,1
+might,1
+be,1
+bound,1
+morally,1
+to,1
+accept,1

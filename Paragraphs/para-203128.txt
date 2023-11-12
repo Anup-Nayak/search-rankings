@@ -1,0 +1,5 @@
+57,37,14
+attached,1
+to,1
+foreshadowed,1
+release,1

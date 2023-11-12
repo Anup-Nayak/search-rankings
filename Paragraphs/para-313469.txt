@@ -1,0 +1,13 @@
+82,300,2
+bungalows,1
+have,1
+been,1
+attacked,1
+there,1
+is,1
+no,1
+safety,1
+even,1
+for,1
+zamindars,1
+who,1

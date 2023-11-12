@@ -1,0 +1,7 @@
+92,161,9
+yours,1
+sincerely,1
+missionary,1
+medical,1
+college,1
+vellore,1

@@ -1,0 +1,14 @@
+82,21,12
+retained,1
+it,1
+is,1
+impossible,1
+for,1
+the,1
+system,1
+to,1
+fail,1
+of,1
+being,1
+a,1
+success,1

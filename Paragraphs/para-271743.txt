@@ -1,0 +1,5 @@
+73,28,5
+the,1
+sayings,1
+of,1
+muhammad,1

@@ -1,0 +1,8 @@
+70,216,6
+1,1
+what,1
+is,1
+happening,1
+among,1
+these,1
+people,1

@@ -1,0 +1,4 @@
+29,78,3
+lowest,1
+common,1
+measure,1

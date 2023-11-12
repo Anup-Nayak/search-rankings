@@ -1,0 +1,6 @@
+45,186,5
+177,1
+charkha,1
+as,1
+secondary,1
+occupation,1

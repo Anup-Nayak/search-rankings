@@ -1,0 +1,15 @@
+63,456,2
+ansari,1
+they,2
+prohibit,1
+you,3
+just,1
+now,1
+but,1
+say,1
+when,1
+go,1
+forward,1
+take,1
+us,1
+with,1

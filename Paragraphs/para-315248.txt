@@ -1,0 +1,15 @@
+82,401,25
+l,1
+f,1
+i,1
+have,1
+been,1
+told,1
+that,1
+when,1
+congress,1
+ministries,1
+were,1
+in,2
+office,1
+the,1

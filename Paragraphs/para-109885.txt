@@ -1,0 +1,16 @@
+32,346,2
+in,2
+the,2
+letter,1
+enclosing,1
+cutting,1
+about,1
+cattle,1
+dealt,1
+with,1
+elsewhere,1
+this,1
+issue,1
+mr,1
+andrews,1
+writes,1

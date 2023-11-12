@@ -1,0 +1,11 @@
+89,155,8
+gandhi,1
+how,1
+long,1
+would,1
+you,1
+take,1
+to,1
+learn,1
+it,1
+then,1

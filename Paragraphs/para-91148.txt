@@ -1,0 +1,12 @@
+27,101,11
+it,1
+is,1
+known,1
+that,1
+gandhi,1
+originally,1
+opposed,1
+participation,1
+in,1
+these,1
+government,1

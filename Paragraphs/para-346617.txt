@@ -1,0 +1,5 @@
+90,1,4
+salivati,1
+madras,1
+hindu,1
+bombay,1

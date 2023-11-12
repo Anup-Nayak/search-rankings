@@ -1,0 +1,10 @@
+74,168,2
+dera,1
+ismail,1
+khan,1
+october,1
+28,1
+1938,2
+harijan,1
+5,1
+11,1

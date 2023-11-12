@@ -1,0 +1,10 @@
+9,194,6
+traders,1
+will,1
+begin,1
+to,2
+experience,1
+hardships,1
+in,1
+regard,1
+licences,1

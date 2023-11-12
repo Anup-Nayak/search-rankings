@@ -1,0 +1,7 @@
+63,485,10
+vidya,1
+no,1
+time,1
+to,1
+write,1
+separately,1

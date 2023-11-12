@@ -1,0 +1,7 @@
+42,319,6
+370,1
+letter,1
+to,1
+vish,1
+nath,1
+tikoo,1

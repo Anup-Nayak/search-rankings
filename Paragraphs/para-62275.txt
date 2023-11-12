@@ -1,0 +1,6 @@
+17,412,1
+381,1
+talk,1
+to,1
+mahomedans,1
+bombay,1

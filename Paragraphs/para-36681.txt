@@ -1,0 +1,9 @@
+11,323,6
+minister,1
+thinks,1
+it,1
+will,1
+be,1
+well,1
+but,1
+suggests,1

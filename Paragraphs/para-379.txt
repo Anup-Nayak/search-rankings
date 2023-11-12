@@ -1,0 +1,10 @@
+1,98,3
+lentil,1
+cutlets,1
+parsley,1
+se,1
+&,1
+sprouts,1
+4,3
+turnips,1
+tomatoes,1

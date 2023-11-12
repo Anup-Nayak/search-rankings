@@ -1,0 +1,9 @@
+62,168,7
+from,1
+gujarati,1
+c,1
+w,1
+9702,1
+courtesy,1
+benarsilal,1
+bazaj,1

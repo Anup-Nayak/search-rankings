@@ -1,0 +1,7 @@
+94,156,8
+evenings,1
+prayer,1
+meeting,1
+i,1
+suggest,1
+your,1

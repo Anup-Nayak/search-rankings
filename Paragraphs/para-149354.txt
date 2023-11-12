@@ -1,0 +1,4 @@
+43,267,2
+satyagraha,1
+ashram,1
+wardha,1

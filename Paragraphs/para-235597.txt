@@ -1,0 +1,7 @@
+64,245,2
+292,1
+speech,1
+on,1
+national,1
+education,1
+1,1

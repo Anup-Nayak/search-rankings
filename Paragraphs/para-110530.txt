@@ -1,0 +1,5 @@
+32,450,3
+an,1
+allahabad,1
+graduate,1
+writes,1

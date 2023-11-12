@@ -1,0 +1,16 @@
+23,94,12
+it,1
+is,3
+true,1
+that,1
+alcohol,1
+ruining,2
+thousands,2
+but,1
+betting,1
+at,1
+the,1
+races,1
+certainly,1
+tens,1
+of,1

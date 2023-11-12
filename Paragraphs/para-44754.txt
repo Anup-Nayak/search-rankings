@@ -1,0 +1,7 @@
+13,387,13
+stance,1
+independent,1
+natal,1
+indians,1
+certainly,1
+fighting,1

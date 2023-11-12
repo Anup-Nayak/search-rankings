@@ -1,0 +1,7 @@
+65,302,7
+346,1
+letter,1
+to,1
+sharada,1
+g,1
+chokhawala,1

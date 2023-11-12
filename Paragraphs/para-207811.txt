@@ -1,0 +1,7 @@
+58,58,1
+79,1
+letter,1
+to,1
+elizabeth,1
+f,1
+howard,1

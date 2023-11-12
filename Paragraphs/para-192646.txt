@@ -1,0 +1,14 @@
+54,237,20
+operation,1
+with,1
+good,2
+luck,1
+and,1
+fortune,1
+we,1
+shall,1
+solve,1
+the,1
+problems,1
+that,1
+now,1

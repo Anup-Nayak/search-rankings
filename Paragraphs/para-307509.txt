@@ -1,0 +1,11 @@
+81,233,8
+hindi,1
+is,1
+absolutely,1
+good,1
+language,1
+perfect,1
+and,1
+lettering,1
+quite,1
+nice,1

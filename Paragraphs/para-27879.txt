@@ -1,0 +1,8 @@
+9,216,5
+mr,1
+gandhi,1
+some,1
+people,1
+will,1
+say,1
+anything,1

@@ -1,0 +1,13 @@
+23,301,10
+important,1
+positions,1
+in,1
+it,1
+the,3
+congress,1
+was,1
+looking,1
+after,1
+rights,1
+of,1
+all,1

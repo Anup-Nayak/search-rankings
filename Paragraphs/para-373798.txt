@@ -1,0 +1,10 @@
+97,24,2
+1,1
+from,1
+amman,1
+and,1
+another,1
+place,1
+in,1
+middle,1
+east,1

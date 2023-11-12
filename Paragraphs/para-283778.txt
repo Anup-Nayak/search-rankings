@@ -1,0 +1,13 @@
+75,465,3
+resolution,1
+would,2
+have,2
+been,1
+defeated,1
+in,1
+any,1
+case,1
+the,2
+result,1
+of,1
+voting,1

@@ -1,0 +1,15 @@
+42,400,8
+i,1
+note,1
+that,1
+you,1
+do,1
+not,1
+want,1
+me,1
+to,1
+collect,1
+more,1
+for,1
+your,1
+expense,1

@@ -1,0 +1,13 @@
+46,89,9
+foreign,1
+cloth,1
+laid,1
+down,1
+by,1
+the,1
+working,1
+committee,1
+and,1
+urges,1
+all,1
+congress,1

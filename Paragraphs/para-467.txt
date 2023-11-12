@@ -1,0 +1,10 @@
+1,121,13
+drafted,1
+a,1
+petition,1
+6,1
+regarding,1
+the,1
+franchise,1
+law,1
+amendment,1

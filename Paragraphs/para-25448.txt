@@ -1,0 +1,7 @@
+8,406,2
+228,1
+mustafa,1
+kamal,1
+pashas,1
+speech,1
+3,1

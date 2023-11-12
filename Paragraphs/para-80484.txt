@@ -1,0 +1,11 @@
+23,363,18
+willing,2
+to,2
+make,1
+this,2
+much,2
+sacrifice,1
+were,1
+not,1
+have,1
+suffering,1

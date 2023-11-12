@@ -1,0 +1,7 @@
+68,174,2
+from,1
+gujarati,1
+harijanbandhu,1
+19,1
+1,1
+1936,1

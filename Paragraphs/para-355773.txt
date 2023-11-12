@@ -1,0 +1,6 @@
+92,126,5
+forced,1
+marriage,1
+a,1
+sister,1
+writes,1

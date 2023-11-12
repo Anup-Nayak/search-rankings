@@ -1,0 +1,8 @@
+8,463,4
+obeying,1
+order,1
+leave,1
+colony,1
+entered,1
+under,1
+immigra,1

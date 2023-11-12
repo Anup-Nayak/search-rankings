@@ -1,0 +1,15 @@
+30,373,4
+g,1
+no,1
+i,1
+will,2
+not,1
+explain,1
+it,2
+away,1
+we,1
+have,1
+interpreted,1
+by,1
+recognized,1
+pandits,1

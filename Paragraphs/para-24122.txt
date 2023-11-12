@@ -1,0 +1,5 @@
+8,168,6
+story,1
+of,1
+finger,1
+impressions,1

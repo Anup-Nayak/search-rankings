@@ -1,0 +1,8 @@
+46,344,2
+294,1
+statement,1
+on,1
+funds,1
+collected,1
+in,1
+burma,1

@@ -1,0 +1,8 @@
+88,130,4
+280,1
+letter,1
+to,1
+shyamlal,1
+october,1
+8,1
+1945,1

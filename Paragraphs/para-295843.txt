@@ -1,0 +1,8 @@
+78,443,6
+extracts,1
+from,1
+liaquat,1
+ali,1
+khans,1
+statement,1
+1,1

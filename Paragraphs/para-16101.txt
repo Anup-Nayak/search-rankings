@@ -1,0 +1,14 @@
+6,87,3
+winston,1
+churchill,1
+esq,1
+his,1
+majestys,1
+under,1
+secretary,1
+of,1
+state,1
+for,1
+the,1
+colonies,1
+whitehall,1

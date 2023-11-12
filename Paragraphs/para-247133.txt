@@ -1,0 +1,6 @@
+67,34,1
+58,1
+how,1
+to,1
+double,1
+income,1

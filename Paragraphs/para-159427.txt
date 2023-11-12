@@ -1,0 +1,15 @@
+46,142,5
+virtue,1
+and,1
+at,1
+the,2
+same,1
+time,1
+enable,1
+them,1
+to,1
+participate,1
+in,1
+work,1
+for,1
+country,1

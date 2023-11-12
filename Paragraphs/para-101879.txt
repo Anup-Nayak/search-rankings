@@ -1,0 +1,9 @@
+30,84,1
+45,1
+speech,1
+at,1
+gujarat,1
+provincial,1
+congress,1
+committee,1
+ahmedabad,1

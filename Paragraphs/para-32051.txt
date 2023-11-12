@@ -1,0 +1,9 @@
+10,313,1
+living,1
+under,1
+the,1
+same,1
+roof,1
+to,1
+agree,1
+together,1

@@ -1,0 +1,13 @@
+61,462,4
+blessings,1
+from,2
+bapu,1
+shrimati,1
+manibehn,1
+patel,1
+ramnivas,1
+parekh,1
+street,1
+bombay,1
+4,1
+gujarati,1

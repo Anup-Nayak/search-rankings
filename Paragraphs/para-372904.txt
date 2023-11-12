@@ -1,0 +1,15 @@
+96,358,8
+symbol,1
+of,2
+purity,1
+and,1
+self,1
+restraint,1
+it,1
+was,1
+a,1
+weapon,1
+for,1
+the,1
+defence,1
+innocent,1

@@ -1,0 +1,7 @@
+48,339,6
+354,1
+some,1
+rules,1
+of,1
+satyagraha,1
+1,1

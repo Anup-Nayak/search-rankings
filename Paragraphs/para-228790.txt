@@ -1,0 +1,7 @@
+62,398,4
+1,1
+vide,1
+speech,1
+at,1
+harijans,1
+meeting,1

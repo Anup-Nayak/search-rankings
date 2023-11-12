@@ -1,0 +1,9 @@
+6,95,5
+w,1
+t,1
+stead,1
+esq,1
+mowbray,1
+house,1
+norfolk,1
+street,1

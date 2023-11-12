@@ -1,0 +1,16 @@
+82,410,19
+g,1
+i,1
+do,1
+not,1
+want,1
+to,1
+be,1
+independent,1
+like,1
+china,2
+is,1
+helpless,1
+even,1
+now,1
+and,1

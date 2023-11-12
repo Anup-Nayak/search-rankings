@@ -1,0 +1,10 @@
+13,341,1
+219,1
+the,1
+late,1
+mr,1
+haji,1
+hoosen,1
+dawad,1
+mahomed,1
+1,1

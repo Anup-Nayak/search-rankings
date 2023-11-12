@@ -1,0 +1,6 @@
+17,125,11
+105,1
+letter,1
+t0,1
+harilal,1
+gandhi,1

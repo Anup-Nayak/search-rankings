@@ -1,0 +1,11 @@
+52,425,13
+government,1
+was,2
+a,2
+temporary,1
+settlement,1
+or,1
+permanent,2
+one,2
+if,1
+it,1

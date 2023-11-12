@@ -1,0 +1,8 @@
+52,142,16
+to,1
+duty,1
+commanded,1
+that,1
+homage,1
+from,1
+us,1

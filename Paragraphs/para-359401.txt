@@ -1,0 +1,10 @@
+93,35,3
+harijan,1
+8,1
+12,1
+1946,2
+and,1
+hindustan,1
+standard,1
+21,1
+11,1

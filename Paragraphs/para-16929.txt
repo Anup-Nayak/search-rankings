@@ -1,0 +1,13 @@
+6,164,2
+from,1
+a,1
+photostat,1
+of,1
+the,1
+typewritten,1
+draft,1
+s,1
+n,1
+4576,1
+and,1
+4576/2,1

@@ -1,0 +1,11 @@
+7,329,7
+witness,1
+there,1
+are,1
+priests,3
+and,2
+preach,1
+whether,1
+a,1
+priest,1
+is,1

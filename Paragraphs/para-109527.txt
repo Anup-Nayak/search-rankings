@@ -1,0 +1,5 @@
+32,296,2
+187,1
+labourers,1
+sad,1
+plight,1

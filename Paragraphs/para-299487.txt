@@ -1,0 +1,9 @@
+79,432,13
+all,1
+who,1
+hold,1
+my,1
+opinion,1
+must,1
+refrain,1
+whether,1

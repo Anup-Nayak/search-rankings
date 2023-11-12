@@ -1,0 +1,10 @@
+22,175,4
+article,1
+xxii,1
+the,4
+president,1
+of,2
+congress,1
+shall,1
+be,1
+chairman,1

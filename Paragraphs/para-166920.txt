@@ -1,0 +1,13 @@
+48,72,7
+1,1
+ramchandra,1
+temple,1
+vide,2
+temples,1
+for,1
+untouchables,1
+28,2
+11,2
+1929,2
+2,1
+notes,1

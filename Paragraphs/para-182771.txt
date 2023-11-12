@@ -1,0 +1,6 @@
+52,73,1
+93,1
+letter,1
+to,1
+darcy,1
+lindsay,1

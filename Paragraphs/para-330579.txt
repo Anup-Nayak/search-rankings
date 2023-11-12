@@ -1,0 +1,13 @@
+86,181,8
+5,1
+isnt,1
+shri,1
+sanjanas,1
+severe,1
+criticism,1
+of,2
+the,2
+politics,1
+cow,1
+entirely,1
+true,1

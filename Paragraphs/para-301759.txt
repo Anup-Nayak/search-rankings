@@ -1,0 +1,7 @@
+80,178,9
+326,1
+letter,1
+to,1
+indumati,1
+n,1
+gunaji,1

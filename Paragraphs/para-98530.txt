@@ -1,0 +1,4 @@
+29,151,4
+income,1
+from,1
+weaving,1

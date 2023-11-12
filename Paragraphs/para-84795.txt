@@ -1,0 +1,15 @@
+25,100,2
+not,1
+only,1
+did,1
+i,1
+offer,1
+my,1
+services,1
+at,1
+the,2
+time,1
+of,1
+zulu,1
+revolt,1
+1,1

@@ -1,0 +1,15 @@
+16,92,5
+1,1
+seat,1
+slung,1
+from,1
+a,1
+pole,1
+carried,1
+by,1
+two,1
+or,1
+more,1
+men,1
+on,1
+shoulders,1

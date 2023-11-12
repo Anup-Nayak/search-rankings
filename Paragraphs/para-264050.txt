@@ -1,0 +1,8 @@
+71,73,5
+hygiene,1
+association,1
+hold,1
+that,1
+control,1
+is,1
+beneficial,1

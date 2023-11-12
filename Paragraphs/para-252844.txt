@@ -1,0 +1,6 @@
+68,173,4
+full,1
+knowledge,1
+circumstances,1
+suggest,1
+impartial,1

@@ -1,0 +1,9 @@
+15,30,6
+ahmedabad,1
+ashadha,1
+sud,1
+5,1
+july,1
+16,1
+1915,1
+2,1

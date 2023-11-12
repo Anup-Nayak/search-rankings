@@ -1,0 +1,7 @@
+39,425,5
+t,1
+w,1
+kalani,1
+old,1
+sukkur,1
+sindh,1

@@ -1,0 +1,6 @@
+80,286,11
+1,1
+wife,1
+of,1
+kamalnayan,1
+bajaj,1

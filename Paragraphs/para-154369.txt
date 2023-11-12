@@ -1,0 +1,7 @@
+44,489,2
+t3,1
+guj,1
+has,1
+remain,1
+unaffected,1
+by,1

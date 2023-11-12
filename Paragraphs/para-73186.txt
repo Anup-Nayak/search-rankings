@@ -1,0 +1,16 @@
+21,96,7
+success,1
+an,1
+environment,1
+free,1
+from,1
+any,1
+violence,1
+on,1
+the,2
+part,1
+of,1
+people,1
+and,1
+a,1
+spirit,1

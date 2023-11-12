@@ -1,0 +1,14 @@
+82,37,11
+within,1
+naria,1
+p,1
+s,1
+there,1
+is,1
+no,1
+qualified,1
+medical,1
+man,1
+available,1
+in,1
+the,1

@@ -1,0 +1,12 @@
+82,376,1
+q,1
+if,1
+you,2
+regard,2
+the,2
+american,1
+troops,1
+as,1
+an,1
+imposition,1
+would,1

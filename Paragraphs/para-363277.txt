@@ -1,0 +1,16 @@
+94,31,3
+q,1
+namasudra,1
+girls,1
+are,1
+usually,1
+married,1
+off,1
+at,1
+the,2
+age,1
+of,1
+12,1
+or,1
+13,1
+formerly,1

@@ -1,0 +1,15 @@
+52,8,13
+and,2
+bruised,1
+all,1
+over,1
+his,1
+body,1
+was,1
+taken,1
+to,1
+the,1
+civil,1
+hospital,1
+where,1
+he,1

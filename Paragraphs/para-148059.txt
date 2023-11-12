@@ -1,0 +1,14 @@
+43,113,12
+1,1
+the,2
+typewritten,1
+office,1
+copy,1
+s,1
+n,1
+13556,1
+of,1
+this,1
+letter,1
+bears,1
+note,1

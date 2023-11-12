@@ -1,0 +1,5 @@
+75,375,3
+understand,1
+decision,1
+wrong,1
+unnecessary,1

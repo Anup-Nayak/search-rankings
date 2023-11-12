@@ -1,0 +1,10 @@
+70,280,6
+1,2
+the,2
+date,1
+is,1
+from,1
+bombay,1
+chronicle,1
+16,1
+1937,1

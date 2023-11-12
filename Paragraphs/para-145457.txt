@@ -1,0 +1,8 @@
+42,298,11
+in,1
+bardoli,1
+situation,1
+thus,1
+forced,1
+hopelessly,1
+unreal,1

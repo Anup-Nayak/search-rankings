@@ -1,0 +1,4 @@
+61,75,9
+report,1
+n*s,1
+condition,1

@@ -1,0 +1,17 @@
+96,437,12
+prime,1
+minister,1
+of,1
+kashmir,1
+pandit,1
+kak,1
+but,1
+i,2
+said,1
+was,1
+at,1
+a,1
+loss,1
+to,1
+understand,1
+how,1

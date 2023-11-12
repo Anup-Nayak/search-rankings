@@ -1,0 +1,15 @@
+95,89,10
+themselves,1
+in,2
+every,2
+detail,1
+of,1
+their,1
+lives,1
+and,1
+seek,1
+to,1
+help,1
+them,1
+way,1
+they,1

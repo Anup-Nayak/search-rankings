@@ -1,0 +1,13 @@
+54,356,2
+quoting,1
+the,1
+famous,1
+gujarati,1
+poet,1
+kavi,1
+shamal,1
+bhatt,1
+that,1
+he,1
+who,1
+returns,1

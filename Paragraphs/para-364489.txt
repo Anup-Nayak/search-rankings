@@ -1,0 +1,6 @@
+94,164,2
+1merit,1
+acquired,1
+from,1
+good,1
+acts,1

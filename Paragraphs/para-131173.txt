@@ -1,0 +1,10 @@
+38,257,5
+silence,1
+day,1
+chaitra,1
+sud,1
+3,1
+april,1
+4,1
+1927,1
+2,1

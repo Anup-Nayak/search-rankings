@@ -1,0 +1,6 @@
+75,225,5
+rashtrapati,1
+subhas,1
+chandra,1
+bose,1
+jealgora,1

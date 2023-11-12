@@ -1,0 +1,15 @@
+21,52,11
+them,1
+hands,2
+and,2
+feet,2
+they,1
+could,1
+surely,1
+trust,1
+the,1
+giver,1
+of,1
+those,1
+to,1
+hold,1

@@ -1,0 +1,8 @@
+21,82,10
+cancel,1
+preceding,1
+wire,1
+accompanying,1
+panditji,1
+saraladevi,1
+reaching,1

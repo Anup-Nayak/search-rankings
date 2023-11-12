@@ -1,0 +1,17 @@
+86,103,1
+from,2
+fear,1
+which,1
+is,2
+as,2
+important,1
+for,1
+the,1
+realization,1
+of,1
+an,1
+ideal,2
+faith,1
+in,1
+that,1
+hindi,1

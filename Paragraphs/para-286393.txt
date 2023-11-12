@@ -1,0 +1,16 @@
+76,277,17
+dealer,1
+who,1
+pays,1
+50,1
+per,1
+cent,1
+of,1
+the,2
+wages,1
+paid,1
+by,1
+us,1
+and,1
+markets,1
+cloth,1

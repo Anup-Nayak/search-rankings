@@ -1,0 +1,14 @@
+18,57,7
+i,1
+the,1
+following,1
+persons,1
+shall,1
+be,2
+deemed,1
+to,1
+natural,1
+born,1
+british,1
+subjects,1
+namely,1

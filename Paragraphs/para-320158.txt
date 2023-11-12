@@ -1,0 +1,8 @@
+84,86,5
+chief,1
+secretary,1
+to,1
+jammu,1
+and,1
+kashmir,1
+government,1

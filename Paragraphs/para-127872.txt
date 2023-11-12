@@ -1,0 +1,13 @@
+37,300,1
+knowledge,1
+who,1
+knows,2
+the,1
+real,1
+nature,1
+of,1
+this,1
+world,1
+and,1
+also,1
+dharma,1

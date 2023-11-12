@@ -1,0 +1,13 @@
+54,127,21
+mr,1
+gandhi,1
+would,1
+you,1
+add,1
+here,1
+that,1
+the,1
+congress,1
+opinion,1
+is,1
+or,1

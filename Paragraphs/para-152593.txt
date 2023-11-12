@@ -1,0 +1,5 @@
+44,141,6
+attraction,2
+from,1
+grows,1
+desire,1

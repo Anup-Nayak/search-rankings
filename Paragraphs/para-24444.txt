@@ -1,0 +1,8 @@
+8,226,2
+q,1
+how,1
+was,1
+the,1
+settlement,1
+brought,1
+about,1

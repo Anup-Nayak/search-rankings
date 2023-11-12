@@ -1,0 +1,12 @@
+90,247,7
+delhi,1
+april,1
+11,1
+1946,1
+living,1
+with,1
+god,1
+there,1
+are,1
+no,1
+difficulties,1

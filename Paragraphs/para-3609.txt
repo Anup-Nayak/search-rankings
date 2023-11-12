@@ -1,0 +1,14 @@
+2,150,15
+traders,1
+at,1
+the,3
+expense,1
+of,1
+consumers,1
+he,1
+dealt,1
+with,1
+this,1
+bill,1
+not,1
+from,1

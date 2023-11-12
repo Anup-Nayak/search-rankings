@@ -1,0 +1,12 @@
+80,360,4
+for,1
+gandhiji,1
+dr,1
+abraham,1
+paul,1
+thoppal,1
+house,1
+p,1
+o,1
+parur,1
+travancore,1

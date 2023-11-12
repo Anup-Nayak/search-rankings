@@ -1,0 +1,11 @@
+37,95,5
+the,1
+argument,1
+in,1
+this,1
+verse,1
+is,1
+not,1
+practical,1
+but,1
+spiritual,1

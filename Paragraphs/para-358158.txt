@@ -1,0 +1,6 @@
+92,380,4
+552,1
+letter,1
+to,1
+govinda,1
+reddy,1

@@ -1,0 +1,11 @@
+47,88,13
+1,1
+thirty,1
+thousand,1
+yards,1
+sent,1
+as,1
+gift,1
+on,1
+gandhijis,1
+birthday,1

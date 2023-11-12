@@ -1,0 +1,6 @@
+38,195,1
+176,1
+the,1
+south,1
+african,1
+settlement,1

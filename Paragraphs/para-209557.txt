@@ -1,0 +1,9 @@
+58,242,8
+as,1
+other,1
+shastris,1
+already,1
+invited,1
+for,1
+twenty,1
+third,1

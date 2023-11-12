@@ -1,0 +1,11 @@
+58,67,10
+he,1
+stressed,1
+of,2
+course,1
+the,2
+importance,1
+referendum,1
+near,1
+guruvayur,1
+itself,1

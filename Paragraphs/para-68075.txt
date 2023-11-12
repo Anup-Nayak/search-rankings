@@ -1,0 +1,12 @@
+19,296,2
+when,1
+did,1
+you,1
+deliver,1
+your,1
+speech,1
+some,1
+time,1
+during,1
+the,1
+night,1

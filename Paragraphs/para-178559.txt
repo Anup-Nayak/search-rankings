@@ -1,0 +1,14 @@
+51,86,4
+speaking,1
+in,1
+hindi,1
+while,1
+seated,1
+on,1
+the,1
+dais,1
+mahatma,1
+gandhi,1
+said,1
+that,1
+it,1

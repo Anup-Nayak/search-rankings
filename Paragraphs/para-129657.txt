@@ -1,0 +1,17 @@
+38,66,7
+shop,1
+amidst,1
+a,1
+number,1
+of,2
+big,1
+shops,1
+full,1
+foreign,1
+cloth,1
+he,1
+longed,1
+to,1
+see,1
+that,1
+day,1

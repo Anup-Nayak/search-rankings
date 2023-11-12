@@ -1,0 +1,7 @@
+14,466,7
+indian,1
+association,1
+decline,1
+to,2
+give,1
+assistance,1

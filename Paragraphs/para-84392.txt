@@ -1,0 +1,3 @@
+25,36,3
+parsi,1
+rustomji1,1

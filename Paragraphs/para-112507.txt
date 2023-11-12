@@ -1,0 +1,8 @@
+33,259,8
+i,1
+was,1
+silenced,1
+dont,1
+you,1
+think,1
+so,1

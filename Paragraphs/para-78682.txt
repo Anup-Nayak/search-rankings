@@ -1,0 +1,7 @@
+23,39,2
+13,1
+speech,1
+at,1
+public,1
+meeting,1
+ahmedabad,1

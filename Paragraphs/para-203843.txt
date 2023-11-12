@@ -1,0 +1,11 @@
+57,105,13
+interest,1
+depressed,1
+classes,1
+you,1
+must,1
+not,1
+be,1
+startled,1
+by,1
+my,1

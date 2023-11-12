@@ -1,0 +1,11 @@
+27,325,6
+villages,1
+for,1
+starting,1
+national,1
+elementary,1
+schools,1
+or,2
+panchayat,1
+courts,1
+any,1

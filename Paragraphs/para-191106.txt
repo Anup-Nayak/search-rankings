@@ -1,0 +1,7 @@
+54,21,4
+q,1
+as,1
+a,2
+world,1
+organization,1
+yes,1

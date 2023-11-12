@@ -1,0 +1,14 @@
+80,305,3
+dear,1
+kanwarlal,1
+you,2
+may,1
+fight,1
+if,1
+like,1
+but,1
+my,1
+advice,1
+is,1
+not,1
+to,1

@@ -1,0 +1,12 @@
+10,506,15
+we,1
+might,1
+await,1
+an,1
+answer,1
+to,2
+the,2
+telegram,1
+before,1
+replying,1
+letter,1

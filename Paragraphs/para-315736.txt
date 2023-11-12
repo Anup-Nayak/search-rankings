@@ -1,0 +1,11 @@
+82,415,26
+sense,1
+the,2
+mood,1
+of,1
+country,1
+everybody,1
+wants,1
+freedom,1
+hindus,1
+muslims,1

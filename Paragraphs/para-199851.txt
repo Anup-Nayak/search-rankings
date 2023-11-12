@@ -1,0 +1,8 @@
+56,90,3
+from,1
+gujarati,1
+bapuna,1
+patro4,1
+manibehn,1
+patelne,1
+pp,1

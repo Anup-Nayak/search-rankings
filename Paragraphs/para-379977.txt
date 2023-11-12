@@ -1,0 +1,12 @@
+98,376,2
+from,1
+the,1
+gujarati,1
+original,1
+chhaganlal,1
+gandhi,1
+papers,1
+courtesy,1
+sabarmati,1
+museum,1
+ahmedabad,1

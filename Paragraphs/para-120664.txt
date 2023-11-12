@@ -1,0 +1,8 @@
+35,390,3
+a,1
+parsi,1
+gentleman,1
+writes,1
+to,1
+say,1
+1,1

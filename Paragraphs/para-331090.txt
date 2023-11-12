@@ -1,0 +1,7 @@
+86,237,3
+a,1
+thought,1
+for,1
+the,1
+day,1
+pp,1

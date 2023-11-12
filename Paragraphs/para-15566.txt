@@ -1,0 +1,16 @@
+6,40,11
+half,1
+years,1
+career,1
+in,1
+parliament,1
+i,1
+want,1
+to,2
+bring,1
+your,1
+lordships,1
+notice,1
+a,1
+few,1
+points,1

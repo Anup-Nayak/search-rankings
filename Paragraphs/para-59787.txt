@@ -1,0 +1,6 @@
+17,119,1
+98,1
+letter,1
+to,1
+devdas,1
+gandhi,1

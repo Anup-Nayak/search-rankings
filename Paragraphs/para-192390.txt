@@ -1,0 +1,13 @@
+54,195,9
+a,1
+no,1
+i,1
+think,1
+not,1
+if,1
+the,2
+people,1
+continue,1
+to,1
+respond,1
+and,1

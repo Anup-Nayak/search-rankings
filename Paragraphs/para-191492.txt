@@ -1,0 +1,7 @@
+54,73,17
+to,1
+the,2
+situation,1
+in,1
+united,1
+provinces,1

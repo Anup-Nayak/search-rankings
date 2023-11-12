@@ -1,0 +1,13 @@
+38,88,4
+economic,1
+and,1
+the,2
+other,1
+religious,1
+question,1
+of,1
+cow,1
+protection,1
+was,1
+a,1
+non,1

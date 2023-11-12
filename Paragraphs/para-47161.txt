@@ -1,0 +1,7 @@
+14,157,16
+pleased,1
+instruct,1
+immigration,1
+officer,1
+waive,1
+requirement,1

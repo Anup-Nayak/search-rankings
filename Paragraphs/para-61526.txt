@@ -1,0 +1,7 @@
+17,325,10
+being,1
+unused,1
+to,1
+sacrifice,1
+themselves,1
+for,1

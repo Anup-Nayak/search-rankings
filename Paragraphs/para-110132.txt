@@ -1,0 +1,6 @@
+32,393,6
+248,1
+letter,1
+to,1
+jethalal,1
+mansur,1

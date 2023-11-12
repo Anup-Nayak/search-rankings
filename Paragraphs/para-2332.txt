@@ -1,0 +1,13 @@
+2,2,2
+are,1
+indians,1
+admitted,1
+at,1
+present,1
+to,1
+all,1
+parts,1
+of,1
+the,1
+british,1
+empire,1

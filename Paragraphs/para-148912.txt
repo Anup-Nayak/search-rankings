@@ -1,0 +1,7 @@
+43,216,8
+267,1
+letter,1
+to,1
+roland,1
+j,1
+wild,1

@@ -1,0 +1,8 @@
+96,23,4
+gandhiji,1
+i,1
+have,1
+no,1
+doubt,1
+about,1
+it,1

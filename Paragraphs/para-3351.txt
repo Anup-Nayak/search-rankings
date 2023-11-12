@@ -1,0 +1,11 @@
+2,119,4
+the,2
+legislative,1
+council,1
+of,2
+colony,1
+natal,1
+in,1
+parliament,1
+assembled,1
+pietermaritzburg,1

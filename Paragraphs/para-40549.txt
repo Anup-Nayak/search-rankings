@@ -1,0 +1,17 @@
+12,321,6
+letters,1
+lane,1
+1,1
+manilal,1
+lotwal,1
+chhaganalal,1
+de,1
+vere,1
+schlesin,1
+ti,1
+2sinsingle,1
+for,1
+stamps,1
+0,1
+2,1
+6,1

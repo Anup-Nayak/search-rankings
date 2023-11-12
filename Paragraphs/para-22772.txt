@@ -1,0 +1,5 @@
+7,420,9
+name,1
+right,1
+hand,1
+impressions,1

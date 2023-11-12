@@ -1,0 +1,4 @@
+82,3,11
+magan,1
+and,1
+manjula,1

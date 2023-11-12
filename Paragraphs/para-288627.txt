@@ -1,0 +1,7 @@
+77,82,2
+101,1
+letter,1
+to,1
+shambhushankar,1
+trivedi,1
+2,1

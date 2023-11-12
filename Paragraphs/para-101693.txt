@@ -1,0 +1,9 @@
+30,45,8
+1,1
+devchand,1
+parekh,1
+barrister,1
+social,1
+worker,1
+of,1
+kathiawar,1

@@ -1,0 +1,13 @@
+27,325,3
+there,1
+are,1
+twenty,1
+national,1
+schools,1
+in,1
+our,1
+district,1
+with,1
+a,1
+thousand,1
+pupils,1

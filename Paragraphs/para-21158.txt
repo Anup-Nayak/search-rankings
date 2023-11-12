@@ -1,0 +1,7 @@
+7,191,4
+how,1
+to,1
+mitigate,1
+effect,1
+of,1
+letter,1

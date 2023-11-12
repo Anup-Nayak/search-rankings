@@ -1,0 +1,6 @@
+26,75,7
+satyagraha,1
+ashram,1
+totaram,1
+sanadhya,1
+1,1

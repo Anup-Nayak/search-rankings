@@ -1,0 +1,4 @@
+26,343,4
+pollution,1
+of,1
+saffron,1

@@ -1,0 +1,7 @@
+11,228,14
+241,1
+letter,1
+to,1
+abdul,1
+hamid,1
+gool,1

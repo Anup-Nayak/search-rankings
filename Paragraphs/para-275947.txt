@@ -1,0 +1,12 @@
+74,27,5
+i,1
+like,1
+your,1
+idea,1
+it,1
+should,1
+be,1
+given,1
+some,1
+practical,1
+shape,1

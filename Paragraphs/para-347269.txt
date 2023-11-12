@@ -1,0 +1,9 @@
+90,75,5
+perhaps,1
+there,1
+are,1
+many,1
+who,1
+experience,1
+my,1
+difficulties,1

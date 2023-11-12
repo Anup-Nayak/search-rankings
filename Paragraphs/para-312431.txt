@@ -1,0 +1,13 @@
+82,213,11
+be,1
+evicted,1
+but,1
+devanagari,1
+has,1
+been,1
+the,2
+traditional,1
+script,1
+all,1
+through,1
+ages,1

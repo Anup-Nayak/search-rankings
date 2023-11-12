@@ -1,0 +1,13 @@
+14,187,3
+case,1
+could,1
+not,2
+have,1
+succeeded,1
+had,1
+his,1
+own,1
+countrymen,1
+supported,1
+him,1
+as,1

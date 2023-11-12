@@ -1,0 +1,17 @@
+85,28,1
+should,1
+not,1
+like,1
+the,1
+people,1
+of,1
+chicacole,1
+produce,1
+everything,1
+for,1
+bombay,1
+and,1
+use,1
+nothing,1
+at,1
+home,1

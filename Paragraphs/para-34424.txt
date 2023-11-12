@@ -1,0 +1,6 @@
+11,102,7
+114,1
+indians,1
+under,1
+the,1
+union,1

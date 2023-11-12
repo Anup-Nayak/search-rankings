@@ -1,0 +1,16 @@
+32,205,12
+but,1
+in,1
+this,1
+particular,1
+case,1
+he,2
+thought,1
+it,1
+would,1
+be,1
+courting,1
+an,1
+insult,1
+which,1
+was,1

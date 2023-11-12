@@ -1,0 +1,6 @@
+76,265,13
+347,1
+machine,1
+oil,2
+and,1
+ghani,1

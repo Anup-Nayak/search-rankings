@@ -1,0 +1,9 @@
+22,314,2
+1,1
+margaret,1
+e,1
+nobel,1
+a,1
+follower,1
+of,1
+vivekananda,1

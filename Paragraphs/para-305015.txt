@@ -1,0 +1,6 @@
+80,483,10
+letter,1
+from,1
+k,1
+m,1
+munshi1,1

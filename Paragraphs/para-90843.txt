@@ -1,0 +1,7 @@
+27,68,10
+pray,1
+tell,1
+general,1
+smuts,1
+and,1
+responsible,1

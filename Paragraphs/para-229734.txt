@@ -1,0 +1,10 @@
+63,57,7
+1,1
+at,1
+the,3
+conclusion,1
+of,1
+meeting,1
+presents,1
+were,1
+auctioned,1

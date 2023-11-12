@@ -1,0 +1,10 @@
+2,400,6
+from,1
+pretoria,1
+supervisor,1
+of,1
+indian,1
+immigrants,1
+march,1
+15,1
+1901,1

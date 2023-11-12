@@ -1,0 +1,14 @@
+82,300,16
+concentrated,1
+in,2
+taluka,1
+headquarters,1
+and,1
+a,1
+large,1
+portion,1
+of,1
+it,1
+is,1
+used,1
+guarding,1

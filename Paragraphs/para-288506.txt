@@ -1,0 +1,13 @@
+77,66,11
+1,1
+the,4
+reference,1
+is,1
+presumably,1
+to,3
+statement,2
+press,2
+vide,1
+27,1
+10,1
+1939,1

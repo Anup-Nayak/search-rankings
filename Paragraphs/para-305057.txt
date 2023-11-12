@@ -1,0 +1,8 @@
+80,487,10
+gandhiji,1
+discussed,1
+the,1
+general,1
+situation,1
+12,1
+noon,1

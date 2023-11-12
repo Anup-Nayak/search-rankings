@@ -1,0 +1,9 @@
+29,138,9
+bapu,1
+bhaishri,1
+fulchand,1
+kelavani,1
+mandal,1
+karyalaya,1
+wadhwan,1
+city,1

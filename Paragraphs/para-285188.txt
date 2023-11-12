@@ -1,0 +1,4 @@
+76,149,1
+193,1
+minority,1
+administration,1

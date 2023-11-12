@@ -1,0 +1,16 @@
+51,433,14
+pay,2
+they,1
+should,1
+not,1
+be,1
+afraid,1
+to,2
+refuse,1
+land,1
+revenue,1
+and,1
+patiently,1
+bear,1
+all,1
+the,1

@@ -1,0 +1,9 @@
+81,423,4
+698,1
+hand,1
+spun,1
+as,1
+measure,1
+of,1
+value,1
+1,1

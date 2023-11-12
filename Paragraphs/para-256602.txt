@@ -1,0 +1,14 @@
+69,134,13
+1,1
+raihana,1
+tyabji,1
+2,1
+according,1
+to,1
+the,2
+source,1
+addressee,1
+was,1
+an,1
+american,1
+woman,1

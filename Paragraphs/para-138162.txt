@@ -1,0 +1,8 @@
+40,296,2
+fifth,1
+calicut,1
+twenty,1
+sixth,1
+and,1
+after,1
+mangalore,1

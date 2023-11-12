@@ -1,0 +1,8 @@
+20,406,4
+and,1
+no,1
+obstacle,1
+undoes,1
+the,1
+progress,1
+made,1

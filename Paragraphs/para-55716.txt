@@ -1,0 +1,10 @@
+16,135,4
+other,1
+speakers,1
+followedall,1
+striving,1
+to,1
+console,1
+and,1
+encourage,1
+dhed,1

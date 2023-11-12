@@ -1,0 +1,6 @@
+41,123,8
+several,1
+ladies,1
+arrangements,1
+hands,1
+reception,1

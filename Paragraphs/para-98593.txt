@@ -1,0 +1,12 @@
+29,156,13
+should,2
+be,2
+weighed,1
+there,1
+not,1
+only,1
+no,2
+untrue,1
+statements,1
+but,1
+suggestio,1

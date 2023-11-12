@@ -1,0 +1,17 @@
+11,7,9
+1,1
+the,2
+reference,1
+is,1
+to,1
+fifty,1
+nine,1
+indians,1
+deported,1
+on,1
+14,1
+4,2
+1910,2
+vide,1
+johannesburg,1
+18,1

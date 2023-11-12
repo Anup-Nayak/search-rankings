@@ -1,0 +1,7 @@
+42,279,6
+for,1
+bengals,1
+sake,1
+wired,1
+sen,1
+gupta,1

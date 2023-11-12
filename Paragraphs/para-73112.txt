@@ -1,0 +1,10 @@
+21,86,9
+hyderabad,1
+sind,1
+on,1
+or,1
+before,1
+july,1
+25,1
+1920,1
+2,1

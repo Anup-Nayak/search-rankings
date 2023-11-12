@@ -1,0 +1,12 @@
+6,143,2
+mr,2
+morley,1
+are,1
+you,1
+speaking,1
+now,1
+gandhi,1
+of,2
+the,1
+position,1
+those,1

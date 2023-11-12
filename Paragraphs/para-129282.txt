@@ -1,0 +1,12 @@
+38,19,2
+the,1
+spinning,1
+wheel,1
+has,1
+by,1
+its,1
+persuasiveness,1
+affected,1
+to,1
+a,1
+visible,1

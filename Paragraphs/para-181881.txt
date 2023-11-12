@@ -1,0 +1,16 @@
+51,458,9
+no,1
+difficulty,1
+at,2
+all,1
+in,1
+paying,1
+up,1
+by,1
+far,1
+the,2
+greater,1
+part,1
+of,1
+revenue,1
+once,1

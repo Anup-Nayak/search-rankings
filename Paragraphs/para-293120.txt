@@ -1,0 +1,13 @@
+78,161,13
+2,1
+the,2
+passages,1
+within,1
+quotes,1
+are,1
+form,1
+anglo,1
+egyptian,1
+treaty,1
+of,1
+1922,1

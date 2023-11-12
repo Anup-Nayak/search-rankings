@@ -1,0 +1,6 @@
+83,15,3
+20,1
+education,1
+through,1
+handicrafts,1
+1,1

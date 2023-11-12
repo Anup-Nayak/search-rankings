@@ -1,0 +1,13 @@
+83,392,17
+later,1
+and,1
+when,1
+they,2
+do,1
+may,1
+function,1
+complementary,1
+to,1
+one,1
+another,1
+each,1

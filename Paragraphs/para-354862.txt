@@ -1,0 +1,5 @@
+92,23,1
+35,1
+preaching,1
+to,1
+emptiness,1

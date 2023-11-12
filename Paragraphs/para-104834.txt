@@ -1,0 +1,14 @@
+31,33,10
+got,1
+research,1
+and,2
+there,1
+were,1
+physicians,1
+surgeons,1
+who,1
+gave,1
+their,1
+whole,1
+time,1
+to,1

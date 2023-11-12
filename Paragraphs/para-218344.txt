@@ -1,0 +1,5 @@
+60,166,3
+195,1
+propaganda,1
+v,1
+construction,1

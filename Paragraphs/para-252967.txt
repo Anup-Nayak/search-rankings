@@ -1,0 +1,11 @@
+68,186,9
+true,1
+situation,1
+in,1
+that,1
+event,1
+should,1
+act,1
+according,1
+your,1
+best,1

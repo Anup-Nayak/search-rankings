@@ -1,0 +1,7 @@
+25,276,9
+withdrawn,1
+present,1
+civil,1
+disobedience,1
+stops,1
+automati,1

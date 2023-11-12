@@ -1,0 +1,8 @@
+43,16,6
+1,1
+the,1
+reference,1
+is,1
+to,1
+mother,1
+india,1

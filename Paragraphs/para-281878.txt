@@ -1,0 +1,16 @@
+75,246,6
+2,1
+the,2
+real,1
+causes,1
+of,1
+present,1
+violence,1
+and,1
+misery,1
+can,1
+never,1
+be,1
+removed,1
+by,1
+war,1

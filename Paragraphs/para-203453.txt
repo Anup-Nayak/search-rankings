@@ -1,0 +1,12 @@
+57,70,2
+i,1
+am,1
+not,1
+writing,1
+anything,1
+about,1
+the,1
+fast,1
+in,1
+this,1
+letter,1

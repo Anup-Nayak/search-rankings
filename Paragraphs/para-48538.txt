@@ -1,0 +1,8 @@
+14,350,4
+288,1
+speech,1
+at,1
+reception,1
+by,1
+gondal,1
+citizens,1

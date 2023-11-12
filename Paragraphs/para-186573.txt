@@ -1,0 +1,5 @@
+52,477,11
+government,1
+of,1
+fundamental,1
+responsibilities,1

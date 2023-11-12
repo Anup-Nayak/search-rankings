@@ -1,0 +1,11 @@
+91,65,3
+the,1
+bombay,1
+chronicle,1
+31,1
+5,1
+1946,2
+and,1
+harijan,1
+9,1
+6,1

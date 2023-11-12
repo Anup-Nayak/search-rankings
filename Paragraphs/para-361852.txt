@@ -1,0 +1,8 @@
+93,302,11
+women,1
+are,1
+the,1
+twin,1
+halves,1
+of,1
+men,1

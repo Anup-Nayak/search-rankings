@@ -1,0 +1,10 @@
+41,493,6
+was,2
+to,1
+ask,1
+definite,1
+question,1
+it,1
+part,1
+of,1
+your,1

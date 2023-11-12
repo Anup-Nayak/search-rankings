@@ -1,0 +1,17 @@
+6,229,2
+1,1
+love,2
+is,2
+not,1
+when,1
+it,1
+mingled,1
+with,1
+respects,1
+that,1
+stand,1
+aloof,1
+from,1
+the,1
+entire,1
+point,1

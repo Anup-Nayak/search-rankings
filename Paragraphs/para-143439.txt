@@ -1,0 +1,7 @@
+42,48,6
+forfeited,1
+lands,1
+restored,1
+satyagrahi,1
+prisoners,1
+discharged,1

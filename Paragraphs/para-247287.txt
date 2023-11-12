@@ -1,0 +1,5 @@
+67,49,4
+82,1
+wells,1
+for,1
+harijans,1

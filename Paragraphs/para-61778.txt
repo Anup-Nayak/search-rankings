@@ -1,0 +1,4 @@
+17,360,2
+capital,1
+and,1
+labour,1

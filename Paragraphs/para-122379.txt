@@ -1,0 +1,12 @@
+36,124,6
+the,2
+head,1
+master,1
+of,1
+national,1
+school,1
+dondaicha,1
+west,1
+khandesh,1
+writes,1
+1,1

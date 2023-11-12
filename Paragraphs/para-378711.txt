@@ -1,0 +1,13 @@
+98,215,12
+dear,1
+parthasarathy,1
+go,1
+on,1
+as,1
+you,1
+are,1
+doing,1
+calmly,1
+patiently,1
+and,1
+politely,1

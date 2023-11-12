@@ -1,0 +1,10 @@
+74,74,9
+bapu,1
+ps,1
+i,1
+leave,1
+for,1
+the,1
+frontier,1
+province,1
+tomorrow,1

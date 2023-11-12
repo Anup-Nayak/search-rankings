@@ -1,0 +1,7 @@
+75,259,7
+better,1
+if,1
+working,1
+committee,1
+twenty,1
+eighth,1

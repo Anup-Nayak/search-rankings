@@ -1,0 +1,14 @@
+32,325,2
+you,1
+say,1
+that,1
+navajivan,1
+is,1
+not,1
+a,1
+means,1
+of,1
+making,1
+money,1
+its,1
+readers,1

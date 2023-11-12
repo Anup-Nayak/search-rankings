@@ -1,0 +1,7 @@
+41,150,2
+166,1
+speech,1
+at,1
+ashram,1
+sabarmati,1
+1,1

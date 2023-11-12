@@ -1,0 +1,6 @@
+96,169,1
+247,1
+letter,1
+to,1
+frenybehn,1
+khantia,1

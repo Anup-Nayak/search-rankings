@@ -1,0 +1,6 @@
+36,56,3
+57,1
+letter,1
+to,1
+adam,1
+salehalibhai,1

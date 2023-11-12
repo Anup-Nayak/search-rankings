@@ -1,0 +1,14 @@
+63,380,17
+in,1
+possessing,1
+lost,1
+property,1
+found,1
+by,1
+his,2
+son,1
+he,1
+gladly,1
+took,1
+us,1
+into,1

@@ -1,0 +1,8 @@
+27,68,19
+that,1
+no,1
+further,1
+disabling,1
+legislation,1
+will,1
+be,1

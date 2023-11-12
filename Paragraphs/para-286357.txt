@@ -1,0 +1,13 @@
+76,276,4
+minimum,1
+living,1
+wage,1
+for,1
+the,2
+spinners,1
+second,1
+step,1
+has,1
+also,1
+been,1
+taken,1

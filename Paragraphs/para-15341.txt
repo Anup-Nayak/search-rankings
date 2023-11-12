@@ -1,0 +1,11 @@
+6,14,8
+yours,1
+faithfully,1
+miss,1
+ebba,1
+rosenberg,1
+5,1
+chestnut,1
+road,1
+enfield,1
+wash,1

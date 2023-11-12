@@ -1,0 +1,11 @@
+46,175,7
+is,1
+no,1
+higher,1
+good,1
+for,1
+a,2
+kshatriya,1
+than,1
+righteous,1
+war,1

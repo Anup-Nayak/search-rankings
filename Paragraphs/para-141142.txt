@@ -1,0 +1,9 @@
+41,245,3
+1,1
+vide,1
+speech,1
+at,1
+bettiah,1
+december,1
+8,1
+1920,1

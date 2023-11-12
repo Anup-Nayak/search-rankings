@@ -1,0 +1,11 @@
+97,437,6
+m,1
+k,1
+gandhi,1
+miss,1
+bapsy,1
+pavry,1
+taj,1
+mahal,1
+hotel,1
+bombay,1

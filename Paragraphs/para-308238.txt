@@ -1,0 +1,10 @@
+81,303,5
+hunger,1
+strike,2
+2,1
+he,1
+and,1
+his,1
+companions,1
+refuse,1
+abandon,1

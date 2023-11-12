@@ -1,0 +1,11 @@
+2,335,4
+memo,1
+of,1
+expenses,1
+authorized,1
+by,1
+the,1
+superintendent,1
+indian,1
+ambulance,1
+corps,1

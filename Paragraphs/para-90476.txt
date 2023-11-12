@@ -1,0 +1,9 @@
+27,19,5
+be,1
+soon,1
+free,1
+no,1
+hurry,1
+about,1
+coming,1
+suggest,1

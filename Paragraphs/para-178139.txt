@@ -1,0 +1,7 @@
+51,40,5
+1,1
+who,1
+taught,1
+hindi,1
+to,1
+mirabehn,1

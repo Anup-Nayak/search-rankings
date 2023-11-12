@@ -1,0 +1,15 @@
+78,161,8
+englishmen,1
+and,1
+your,1
+best,1
+indians,1
+to,2
+enter,1
+into,1
+a,2
+treaty,1
+in,2
+regard,1
+these,1
+matters,1

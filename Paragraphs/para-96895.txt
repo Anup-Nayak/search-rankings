@@ -1,0 +1,5 @@
+28,436,8
+a,1
+sober,1
+friend,1
+writes,1

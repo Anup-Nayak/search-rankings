@@ -1,0 +1,17 @@
+13,49,2
+i,1
+am,1
+yours,1
+sincerely,1
+e,1
+f,1
+c,1
+lane,1
+esq,1
+private,1
+secretary,1
+to,1
+general,1
+smuts,1
+cape,1
+town,1

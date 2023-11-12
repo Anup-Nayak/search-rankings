@@ -1,0 +1,7 @@
+17,210,8
+195,1
+letter,1
+to,1
+millie,1
+polak,1
+2,1

@@ -1,0 +1,11 @@
+41,32,6
+from,1
+a,1
+gujarati,1
+original,1
+c,1
+w,1
+5011,1
+courtesy,1
+tehmina,1
+khambhatta,1

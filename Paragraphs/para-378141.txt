@@ -1,0 +1,7 @@
+98,151,4
+151,1
+letter,1
+to,1
+pragji,1
+k,1
+nayak,1

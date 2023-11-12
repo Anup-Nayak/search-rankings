@@ -1,0 +1,13 @@
+76,417,9
+minority,1
+community,1
+the,2
+parsis,2
+are,2
+entitled,1
+to,1
+be,1
+heard,1
+i,1
+understand,1
+that,1

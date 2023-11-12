@@ -1,0 +1,9 @@
+73,99,4
+a,1
+seemingly,1
+the,2
+longest,1
+process,1
+is,1
+often,1
+shortest,1

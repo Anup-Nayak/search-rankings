@@ -1,0 +1,5 @@
+20,144,4
+manianwala,1
+and,1
+neighbouring,1
+places,1

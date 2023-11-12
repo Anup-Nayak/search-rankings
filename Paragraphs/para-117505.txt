@@ -1,0 +1,8 @@
+35,19,4
+29,1
+partial,1
+fast,1
+during,1
+the,1
+satyagraha,1
+week,1

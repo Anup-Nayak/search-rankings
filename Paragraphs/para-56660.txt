@@ -1,0 +1,5 @@
+16,259,10
+m,1
+gandhi,1
+from,1
+gujarati,1

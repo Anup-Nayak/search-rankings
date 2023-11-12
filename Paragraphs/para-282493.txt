@@ -1,0 +1,8 @@
+75,312,17
+own,1
+resources,1
+and,1
+act,1
+independently,1
+of,1
+me,1

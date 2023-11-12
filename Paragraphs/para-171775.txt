@@ -1,0 +1,15 @@
+49,272,5
+1,1
+the,2
+text,1
+of,1
+this,1
+was,1
+communicated,1
+by,1
+doyle,1
+to,1
+home,1
+department,1
+on,1
+may,1

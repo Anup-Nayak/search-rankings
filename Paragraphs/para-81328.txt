@@ -1,0 +1,14 @@
+23,488,6
+white,1
+and,2
+red,1
+russia,1
+in,2
+poland,1
+ireland,1
+have,1
+been,1
+crimes,1
+of,1
+society,1
+rather,1

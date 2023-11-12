@@ -1,0 +1,12 @@
+92,393,9
+a,1
+f,1
+would,1
+you,1
+like,1
+the,2
+americans,1
+to,2
+take,1
+spinning,1
+wheel,1

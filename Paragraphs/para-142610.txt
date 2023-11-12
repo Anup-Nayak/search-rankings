@@ -1,0 +1,17 @@
+41,434,3
+dear,1
+sir,1
+i,2
+have,2
+your,1
+letter,1
+about,1
+the,1
+loan,1
+guaranteed,1
+by,1
+mr,1
+prakasam,1
+written,1
+to,1
+him,1

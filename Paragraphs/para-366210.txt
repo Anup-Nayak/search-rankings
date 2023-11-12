@@ -1,0 +1,12 @@
+94,375,5
+1,1
+vichitra,1
+narayan,1
+singh,1
+2,2
+letter,1
+to,1
+esther,1
+faering,1
+12,1
+1920,1

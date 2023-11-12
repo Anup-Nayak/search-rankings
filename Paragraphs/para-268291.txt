@@ -1,0 +1,6 @@
+72,142,2
+196,1
+letter,1
+on,1
+mahadev,1
+desai,1

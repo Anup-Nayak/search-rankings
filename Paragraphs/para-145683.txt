@@ -1,0 +1,8 @@
+42,321,11
+1,1
+sri,1
+narayana,1
+guru,1
+dharma,1
+paripalana,1
+yogam,1

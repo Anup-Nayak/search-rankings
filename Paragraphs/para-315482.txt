@@ -1,0 +1,15 @@
+82,408,25
+i,3
+talked,1
+about,1
+the,2
+negro,1
+situation,1
+in,1
+north,1
+and,1
+south,1
+said,1
+did,1
+not,1
+of,1

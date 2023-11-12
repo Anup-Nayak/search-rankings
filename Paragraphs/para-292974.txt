@@ -1,0 +1,9 @@
+78,149,16
+and,1
+i,2
+soon,1
+discovered,1
+had,1
+none,1
+not,1
+even,1

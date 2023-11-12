@@ -1,0 +1,6 @@
+64,145,9
+decision,1
+already,1
+made,1
+because,1
+inevitable,1

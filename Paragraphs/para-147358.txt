@@ -1,0 +1,14 @@
+43,32,7
+turiya,1
+were,2
+hard,1
+and,2
+stringy,1
+being,1
+over,1
+ripe,1
+but,1
+even,1
+so,1
+picked,1
+out,1

@@ -1,0 +1,6 @@
+10,310,14
+the,1
+fallacy,1
+of,1
+speed,1
+taylor,1

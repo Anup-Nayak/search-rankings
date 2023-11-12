@@ -1,0 +1,12 @@
+17,293,12
+6,1
+what,1
+you,1
+learn,2
+faultlessly,1
+and,1
+then,1
+act,1
+up,1
+to,1
+it,1

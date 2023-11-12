@@ -1,0 +1,17 @@
+87,439,2
+q,1
+you,2
+understand,1
+dont,1
+that,1
+the,3
+seven,1
+yajnas,1
+mentioned,1
+in,2
+second,1
+question,1
+are,1
+place,1
+of,1
+saptapadi,1

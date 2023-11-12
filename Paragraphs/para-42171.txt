@@ -1,0 +1,6 @@
+13,46,19
+registration,1
+certificates,2
+and,1
+natal,1
+residential,1

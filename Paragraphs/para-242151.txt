@@ -1,0 +1,14 @@
+66,25,8
+blessings,1
+from,1
+bapu,1
+sjt,1
+venilal,1
+gandhi,2
+c/o,1
+maneklal,1
+amritlal,1
+ranavav,1
+porbandar,1
+state,1
+kathiawar,1

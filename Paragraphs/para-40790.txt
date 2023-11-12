@@ -1,0 +1,7 @@
+12,339,4
+went,1
+to,1
+town,2
+night,1
+in,1
+the,1

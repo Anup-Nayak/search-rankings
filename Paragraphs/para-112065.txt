@@ -1,0 +1,5 @@
+33,200,3
+110,1
+distress,1
+in,1
+orissa,1

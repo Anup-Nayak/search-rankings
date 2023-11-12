@@ -1,0 +1,10 @@
+12,199,2
+june,1
+25,1
+1912,1
+to,1
+interior,1
+pretoria,1
+&,1
+cape,1
+town,1

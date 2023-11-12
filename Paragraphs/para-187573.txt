@@ -1,0 +1,10 @@
+53,118,8
+struck,1
+villagers,1
+have,1
+therefore,1
+just,1
+sent,1
+letter,1
+2,1
+col,1

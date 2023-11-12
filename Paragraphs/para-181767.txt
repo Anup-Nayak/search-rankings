@@ -1,0 +1,11 @@
+51,448,6
+b,1
+movable,1
+property,1
+forfeited,1
+or,1
+attached,1
+in,1
+connection,1
+with,1
+the,1

@@ -1,0 +1,17 @@
+3,486,5
+1,1
+of,1
+british,1
+immigrants,1
+2,1
+a,2
+hatter,1
+is,1
+miner,1
+who,1
+works,1
+alone,1
+and,1
+without,1
+much,1
+capital,1

@@ -1,0 +1,11 @@
+3,195,19
+stand,1
+77,1
+iron,1
+building,1
+large,1
+rooms,1
+well,1
+ventilated,1
+yard,1
+clean,1

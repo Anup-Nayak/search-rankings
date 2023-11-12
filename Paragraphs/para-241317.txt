@@ -1,0 +1,6 @@
+65,402,8
+501,1
+letter,1
+to,1
+kamakoti,1
+natarajan,1

@@ -1,0 +1,14 @@
+35,171,1
+energy,1
+studiousness,1
+indomitable,1
+courage,1
+unfaltering,1
+hope,1
+and,2
+living,1
+faith,1
+in,1
+god,1
+his,1
+humanity,1

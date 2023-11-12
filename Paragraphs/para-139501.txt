@@ -1,0 +1,7 @@
+41,17,9
+21,1
+letter,1
+to,1
+j,1
+n,1
+jinendradas,1

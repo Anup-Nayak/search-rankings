@@ -1,0 +1,8 @@
+3,29,11
+20,1
+indian,1
+position,1
+1n,1
+new,1
+colonies,1
+1,1

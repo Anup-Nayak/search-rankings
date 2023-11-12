@@ -1,0 +1,4 @@
+92,196,6
+maulvi,1
+abdul,1
+haq,1

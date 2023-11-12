@@ -1,0 +1,14 @@
+21,475,4
+wrong,1
+in,1
+it,1
+if,1
+they,1
+disobeyed,1
+their,2
+parents,1
+at,1
+the,1
+dictation,1
+of,1
+conscience,1

@@ -1,0 +1,6 @@
+43,124,5
+when,1
+should,1
+punishment,1
+be,1
+awarded,1

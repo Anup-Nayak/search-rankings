@@ -1,0 +1,7 @@
+85,403,6
+686,1
+letter,1
+to,1
+chandi,1
+prasad,1
+vaidya,1

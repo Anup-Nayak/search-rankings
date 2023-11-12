@@ -1,0 +1,12 @@
+27,363,24
+energy,1
+we,1
+bestow,1
+do,2
+not,1
+produce,1
+adequate,1
+result,1
+nor,1
+they,1
+materially,1

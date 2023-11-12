@@ -1,0 +1,17 @@
+20,60,6
+q,1
+after,1
+the,1
+crowd,1
+indicated,1
+that,1
+it,1
+was,1
+going,1
+to,1
+disperse,1
+why,1
+did,1
+you,1
+not,1
+stop,1

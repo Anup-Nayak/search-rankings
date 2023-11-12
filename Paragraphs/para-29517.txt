@@ -1,0 +1,11 @@
+9,468,9
+adult,1
+shall,1
+mean,1
+of,2
+the,1
+age,1
+sixteen,1
+years,1
+or,1
+over,1

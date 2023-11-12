@@ -1,0 +1,12 @@
+71,73,3
+sanger,1
+is,2
+wrong,1
+in,1
+saying,1
+that,1
+most,1
+doctors,1
+believe,1
+abstinence,1
+harmful,1

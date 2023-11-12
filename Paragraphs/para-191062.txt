@@ -1,0 +1,17 @@
+54,14,2
+a,1
+russian,1
+student,1
+if,1
+you,2
+were,1
+less,1
+religious,1
+would,1
+not,1
+have,1
+come,1
+to,1
+an,1
+agreement,1
+quicker,1

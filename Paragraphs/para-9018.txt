@@ -1,0 +1,5 @@
+4,35,2
+32,1
+the,1
+chinese,1
+puzzle,1

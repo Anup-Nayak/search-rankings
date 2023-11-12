@@ -1,0 +1,14 @@
+23,151,17
+he,1
+said,1
+that,1
+everything,1
+would,1
+depend,1
+on,1
+the,1
+people,1
+carrying,1
+out,1
+what,1
+they,1

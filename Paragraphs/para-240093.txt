@@ -1,0 +1,7 @@
+65,293,4
+1,1
+the,1
+subscription,1
+is,1
+in,1
+gujarati,1

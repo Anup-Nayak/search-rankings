@@ -1,0 +1,13 @@
+76,149,3
+ours,1
+is,1
+a,1
+minority,1
+administered,1
+state,1
+being,1
+directly,1
+under,1
+the,1
+control,1
+of,1

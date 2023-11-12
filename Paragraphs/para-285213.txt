@@ -1,0 +1,16 @@
+76,153,5
+keep,1
+your,1
+lips,1
+eyes,1
+and,2
+ears,1
+closed,1
+laugh,1
+at,1
+me,1
+then,1
+if,1
+you,1
+do,1
+not,1

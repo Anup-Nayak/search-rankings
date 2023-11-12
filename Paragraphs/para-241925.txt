@@ -1,0 +1,6 @@
+66,2,8
+1,1
+khan,2
+saheb,1
+abdul,1
+ghaffar,1

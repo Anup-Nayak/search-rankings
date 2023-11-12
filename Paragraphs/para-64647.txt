@@ -1,0 +1,17 @@
+18,272,5
+1,1
+sir,1
+dinshaw,1
+edulji,1
+wacha,1
+1844,1
+1936,1
+prominent,1
+indian,2
+parsi,1
+politcian,1
+president,1
+the,1
+national,1
+congress,1
+1901,1

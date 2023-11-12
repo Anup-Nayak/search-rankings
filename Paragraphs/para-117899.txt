@@ -1,0 +1,3 @@
+35,60,5
+bhaishri,1
+mahasukh,1

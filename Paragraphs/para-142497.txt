@@ -1,0 +1,11 @@
+41,417,4
+yours,1
+sincerely,1
+sir,1
+daniel,1
+hamilton,1
+balmacara,1
+kyle,1
+ross,1
+shire,1
+scotland,1

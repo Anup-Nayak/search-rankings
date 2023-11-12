@@ -1,0 +1,11 @@
+13,102,3
+gool,1
+7,1
+buitencingel,1
+adam,1
+goolmahomed,1
+8,1
+kloof,1
+street,1
+cape,1
+town,1

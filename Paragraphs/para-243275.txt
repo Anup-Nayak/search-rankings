@@ -1,0 +1,15 @@
+66,144,7
+1,1
+this,2
+is,1
+followed,1
+by,1
+the,2
+direction,1
+translation,1
+of,1
+khan,1
+sahebs,1
+letter,1
+should,1
+accompany,1

@@ -1,0 +1,6 @@
+73,405,9
+helpless,1
+self,1
+working,1
+under,1
+handicap,1

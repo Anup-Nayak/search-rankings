@@ -1,0 +1,11 @@
+65,460,12
+m,1
+c,1
+do,1
+you,1
+include,1
+bodily,1
+discipline,1
+such,1
+as,1
+fasting,1

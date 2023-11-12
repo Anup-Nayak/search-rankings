@@ -1,0 +1,16 @@
+87,220,12
+1,1
+the,1
+addressee,1
+was,2
+learning,1
+sanskrit,1
+from,1
+vinoba,1
+bhave,1
+who,1
+also,1
+detained,1
+in,1
+nagpur,1
+jail,1

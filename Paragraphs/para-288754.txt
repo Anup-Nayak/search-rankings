@@ -1,0 +1,13 @@
+77,96,24
+unequivocal,1
+and,1
+capable,1
+of,1
+being,1
+satisfied,1
+if,1
+there,1
+is,1
+the,1
+will,1
+to,1

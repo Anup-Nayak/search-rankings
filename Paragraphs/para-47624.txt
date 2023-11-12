@@ -1,0 +1,7 @@
+14,208,10
+189,1
+speech,1
+at,1
+gujarati,1
+meeting,1
+2,1

@@ -1,0 +1,17 @@
+29,160,7
+let,1
+the,2
+hands,1
+and,1
+head,1
+be,1
+at,1
+labour,1
+thy,1
+heart,1
+ought,2
+nevertheless,1
+to,1
+rest,1
+in,1
+god,1

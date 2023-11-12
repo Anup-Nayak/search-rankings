@@ -1,0 +1,14 @@
+16,99,6
+they,1
+will,1
+get,1
+it,1
+are,1
+three,1
+quarters,1
+of,1
+her,1
+population,1
+then,1
+to,1
+remain,1

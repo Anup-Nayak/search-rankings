@@ -1,0 +1,8 @@
+38,390,6
+detain,1
+pyarelal,1
+pending,1
+receipt,1
+letter,1
+posted,1
+today,1

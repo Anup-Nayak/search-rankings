@@ -1,0 +1,4 @@
+21,270,4
+berths,1
+gujarat,1
+mail,1

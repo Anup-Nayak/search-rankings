@@ -1,0 +1,6 @@
+46,411,16
+unnecessary,1
+trouble,1
+jivraj,1
+just,1
+now,1

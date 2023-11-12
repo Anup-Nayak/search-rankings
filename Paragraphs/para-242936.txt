@@ -1,0 +1,10 @@
+66,107,10
+1,1
+the,2
+report,1
+of,1
+interview,1
+was,1
+revised,1
+by,1
+gandhiji,1

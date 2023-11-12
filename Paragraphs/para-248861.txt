@@ -1,0 +1,4 @@
+67,208,4
+the,1
+gambling,1
+evil,1

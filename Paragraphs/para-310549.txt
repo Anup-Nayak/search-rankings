@@ -1,0 +1,4 @@
+82,62,2
+riches,1
+v,1
+poverty,1

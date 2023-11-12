@@ -1,0 +1,17 @@
+23,94,7
+alcohol,1
+we,1
+are,1
+hard,1
+up,1
+and,1
+i,1
+am,1
+sure,1
+this,1
+is,1
+the,1
+experience,1
+of,1
+very,1
+many,1

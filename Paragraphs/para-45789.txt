@@ -1,0 +1,9 @@
+14,0,32
+ernment,1
+no,1
+loss,1
+dignity,1
+prestige,1
+smooths,1
+way,1
+future,1

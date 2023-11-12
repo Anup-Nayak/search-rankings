@@ -1,0 +1,13 @@
+28,501,9
+eating,1
+and,2
+drinking,1
+marrying,1
+are,1
+supposed,1
+to,1
+be,1
+main,1
+factors,1
+in,1
+purityas,1

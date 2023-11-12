@@ -1,0 +1,12 @@
+79,333,15
+1,1
+dated,1
+october,1
+24,2
+vide,1
+letter,1
+to,1
+jawaharlal,1
+nehru,1
+10,1
+1940,1

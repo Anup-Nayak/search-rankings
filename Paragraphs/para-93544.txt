@@ -1,0 +1,16 @@
+27,408,14
+some,1
+faces,1
+at,1
+dinner,2
+time,1
+i,2
+left,1
+my,1
+cap,1
+on,1
+the,1
+hat,1
+rack,1
+outside,1
+after,1

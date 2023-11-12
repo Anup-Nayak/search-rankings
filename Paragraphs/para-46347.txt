@@ -1,0 +1,9 @@
+14,52,9
+of,1
+the,2
+struggle,1
+no,1
+importance,1
+is,1
+attached,1
+to,1

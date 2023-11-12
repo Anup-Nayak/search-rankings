@@ -1,0 +1,7 @@
+48,167,3
+1,1
+gandhiji,1
+then,1
+spoke,1
+in,1
+english,1

@@ -1,0 +1,11 @@
+55,236,3
+blessings,1
+from,2
+bapu,1
+gujarati,1
+c,1
+w,1
+9032,1
+courtesy,1
+narandas,1
+gandhi,1

@@ -1,0 +1,16 @@
+23,303,7
+use,3
+to,2
+them,1
+if,1
+indians,1
+did,1
+not,1
+care,1
+foreign,1
+made,1
+things,1
+what,1
+would,1
+india,1
+be,1

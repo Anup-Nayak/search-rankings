@@ -1,0 +1,17 @@
+90,335,8
+q,1
+3,1
+does,1
+not,1
+the,3
+knowledge,1
+that,1
+opponent,1
+is,1
+wedded,1
+to,1
+non,1
+violence,1
+often,1
+encourage,1
+bully,1

@@ -1,0 +1,6 @@
+42,461,2
+what,1
+is,1
+the,1
+bardoli,1
+case,1

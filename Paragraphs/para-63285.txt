@@ -1,0 +1,4 @@
+18,69,6
+vandemataram,1
+from,1
+mohandas,1

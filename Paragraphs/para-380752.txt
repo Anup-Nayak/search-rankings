@@ -1,0 +1,9 @@
+98,436,7
+extract,1
+from,1
+a,1
+writing,1
+of,1
+thomas,1
+carlyle,1
+3,1

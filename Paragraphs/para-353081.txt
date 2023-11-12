@@ -1,0 +1,13 @@
+91,288,17
+man,1
+must,1
+never,1
+suppress,1
+his,1
+inner,1
+voice,1
+even,1
+if,1
+he,1
+stands,1
+alone,1

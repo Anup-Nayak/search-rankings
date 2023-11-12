@@ -1,0 +1,7 @@
+37,69,3
+71,1
+khadi,1
+work,1
+in,1
+tamil,1
+nadu,1

@@ -1,0 +1,10 @@
+59,500,6
+d,1
+achara,1
+grahanadaily,1
+bath,1
+and,2
+daily,2
+prayer,1
+morning,1
+evening,1

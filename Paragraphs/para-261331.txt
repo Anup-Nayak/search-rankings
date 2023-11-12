@@ -1,0 +1,7 @@
+70,165,7
+hope,1
+vidya,1
+is,1
+free,1
+from,1
+fever,1

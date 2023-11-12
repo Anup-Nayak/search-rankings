@@ -1,0 +1,5 @@
+62,87,2
+blessing,1
+from,2
+bapu,1
+gujarati,1

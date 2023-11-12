@@ -1,0 +1,11 @@
+69,52,7
+6,2
+motilal,1
+nehru,1
+who,1
+had,1
+passed,1
+away,1
+on,1
+february,1
+1931,1

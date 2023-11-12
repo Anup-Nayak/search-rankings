@@ -1,0 +1,4 @@
+82,75,13
+smarak,1
+sangrahalaya,1
+ahmedabad,1

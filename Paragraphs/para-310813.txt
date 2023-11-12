@@ -1,0 +1,13 @@
+82,83,14
+of,2
+the,2
+population,1
+who,1
+have,1
+been,1
+decreed,1
+by,1
+gods,1
+and,1
+goddesses,1
+this,1

@@ -1,0 +1,4 @@
+9,167,2
+king,1
+emperors,1
+guests,1

@@ -1,0 +1,7 @@
+93,358,10
+a,1
+no,2
+he,1
+had,1
+moral,1
+right,1

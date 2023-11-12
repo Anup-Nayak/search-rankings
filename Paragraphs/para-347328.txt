@@ -1,0 +1,4 @@
+90,82,1
+109,1
+thoughtlessness,1
+1,1

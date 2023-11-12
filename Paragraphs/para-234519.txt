@@ -1,0 +1,11 @@
+64,132,4
+in,1
+his,1
+speeches,1
+here,1
+mahatmaji,1
+congratulated,1
+the,1
+karachi,1
+city,1
+on,1

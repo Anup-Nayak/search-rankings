@@ -1,0 +1,12 @@
+44,483,17
+t2,1
+guj,1
+does,1
+not,1
+have,1
+on,1
+the,1
+situation,1
+in,1
+south,1
+africa,1

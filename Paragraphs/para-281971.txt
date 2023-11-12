@@ -1,0 +1,8 @@
+75,257,10
+own,1
+responsibility,1
+therefore,1
+your,1
+name,1
+will,1
+drop,1
