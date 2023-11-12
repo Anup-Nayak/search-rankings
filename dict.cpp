@@ -62,8 +62,7 @@ void trie::insert(string& word,long long& freq){
             n = n->child[asc];
         }
         else{
-            n->child[asc] = new(nothrow) trie_node();
-            if(!n->child[asc]) {break; cout<<"f"<<endl;}
+            n->child[asc] = new trie_node();
             n = n->child[asc];
         }
     }

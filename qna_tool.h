@@ -9,6 +9,12 @@ using namespace std;
 
 void insert(int bcode,int pageno,int parano,Node* head);
 
+struct freq_word{
+    freq_word* right=nullptr;
+    string word;
+    int freq=0;
+};
+
 class para
 {   
 public:
@@ -17,6 +23,7 @@ public:
     int para_no;
     // Dict* d=nullptr;
     // trie* t;
+    vector<freq_word*> frequencies=vector<freq_word*>(311,nullptr);
     double score=0;
     para();
     ~para();
@@ -25,6 +32,7 @@ public:
 class QNA_tool {
 private:
     // You are free to change the implementation of this function
+    void insert_in_corpus(para* p,string& sentence);
     void query_llm(string filename, Node* root, int k, string API_KEY, string question);
     void heapifyup(vector<para*> &v,int idx);
     void heapifydn(vector<para*> &v,int idx,int sz);
@@ -33,14 +41,13 @@ private:
     int hash(string& word);
 
     vector<para*> corpus=vector<para*>(380996,nullptr);//////
-    vector<para*> corpus_aux=vector<para*>(380996,nullptr);//////
     trie csv;
-        int cor_size;
+    trie mkg;
+    int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
 
 public:
-    trie mkg;
 
     /* Please do not touch the attributes and
     functions within the guard lines placed below  */

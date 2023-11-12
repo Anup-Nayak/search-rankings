@@ -9,7 +9,7 @@ int main(){
 
     QNA_tool qna_tool;
 
-    int num_books = 98;
+    int num_books = 1;
 
     for(int i = 1; i <= num_books; i++){
 
@@ -76,15 +76,15 @@ int main(){
 
     }
 
-    // string question ="What were the views of Mahatma Gandhi on the Partition of India?";
-    string question ="Partition";
+    string question ="What were the views of Mahatma Gandhi on the Partition of India?";
+    // string question ="Partition";
     // string question ="Who was Mahatma Gandhi?";
         /*
             Part-1 : Get the top-k paragraphs
             Checking Correctness
         */
         // Let's try to ask a simple question to the qna_tool
-        Node* head = qna_tool.get_top_k_para(question, 7);
+        Node* head = qna_tool.get_top_k_para(question, 4);
     
         vector<string> paras;
         while(head != nullptr){

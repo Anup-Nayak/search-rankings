@@ -12,38 +12,103 @@ using namespace std;
 
 #define ull unsigned long long
 
-ull power(int x, int n){
-    ull ans = 1;
-    while (n > 0) {
-        if (n%2 == 1) 
-        {
-            ans = ans * x;
-        }
-        x *=x;
-        n/=2; 
-    }
-    return ans;
-}
+// ull power(int x, int n){
+//     ull ans = 1;
+//     while (n > 0) {
+//         if (n%2 == 1) 
+//         {
+//             ans = ans * x;
+//         }
+//         x *=x;
+//         n/=2; 
+//     }
+//     return ans;
+// }
 
-int hassh(string word){
-    int h=0;
-    for(int i=0;i<word.size();i++){
-        ull a=int(word[i]);
-        ull g=i;
-        ull t=i%5;
-        ull b= a*(power(3,g))+power(a,t);
-        h+= b;
+// int hassh(string word){
+//     int h=0;
+//     for(int i=0;i<word.size();i++){
+//         ull a=int(word[i]);
+//         ull g=i;
+//         ull t=i%5;
+//         ull b= a*(power(3,g))+power(a,t);
+//         h+= b;
+//     }
+//     return h%311;
+// }
+
+int QNA_tool::hash(string& word){
+    unsigned long long h=0;
+    for(int i=(word.size()-1);i>=0;i--){
+        h = h*31 + int(word[i]);
+        h%=311;
     }
     return h%311;
 }
 
-int hass(string word){
-    unsigned long long h=0;
-    for(int i=word.size()-1;i>=0;i--){
-        h = h*31 + int(word[i]);
-    }
-    return h%409;
+int get_inndx(char x){
+    int asc=int(x);
+    if(asc>47 && asc<58) return (asc-22);
+    if(asc>64 && asc<91) return (asc-65);
+    if(asc>96 && asc<123) return (asc-97);
+    if(x=='/') return 36;
+    if(x=='_') return 37;
+    if(asc==35) return 38;
+    if(asc==36) return 39;
+    if(asc==37) return 40;
+    if(asc==38) return 41;
+    if(asc==42) return 42;
+    if(asc==43) return 43;
+    if(asc==60) return 44;
+    if(asc==62) return 45;
+    if(asc==61) return 46;
+    if(asc==94) return 47;
+    if(asc==96) return 48;
+    if(asc==92) return 49;
+    if(asc==123) return 50;
+    if(asc==124) return 51;
+    if(asc==125) return 52;
+    if(asc==126) return 53;
+    //add other possible symbols
+    return -1;
 }
+
+void QNA_tool::insert_in_corpus(para* p, string& sentence){
+    for (int i = 0; i < sentence.size(); ++i)
+    {
+        if(is_separator(sentence[i])) continue;
+        int start=i;
+        while(i<sentence.size() && !(is_separator(sentence[i]))){
+            int asc=get_inndx(sentence[i]);
+            i++;
+        }
+        string word=sentence.substr(start,i-start);
+        int h=hash(word);
+        freq_word* n = p->frequencies[h];
+        freq_word* nprev = p->frequencies[h];
+        if(!n) {
+            p->frequencies[h] = new freq_word;
+            p->frequencies[h]->word = word;
+            p->frequencies[h]->freq++;
+        }
+        else{
+            while(n){
+                nprev=n;
+                if(n->word==word){
+                    n->freq++;
+                    break;
+                }
+                n=n->right;
+            }
+            if(!n){
+                nprev->right=new freq_word;
+                nprev->right->word=word;
+                nprev->right->freq++;
+            }
+        }
+    }
+}
+
 
 void insert(int bcode,int pageno,int parano,Node* head){
     Node* t = new Node(bcode,pageno,parano,0,0);
@@ -59,16 +124,19 @@ void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sente
         corpus[cor_size]->page_no=page;
         corpus[cor_size]->para_no=paragraph;
         // corpus[cor_size]->d->insert_sentence(0,0,0,0,sentence);
+        insert_in_corpus(corpus[cor_size],sentence);
         cor_size++;
     }
     else if(corpus[cor_size-1]->para_no==paragraph && corpus[cor_size-1]->page_no==page && corpus[cor_size-1]->b_code==book_code){
         // corpus[cor_size-1]->d->insert_sentence(0,0,0,0,sentence); 
-   }
+        insert_in_corpus(corpus[cor_size-1],sentence);
+}
     else{
         corpus[cor_size]->b_code=book_code;
         corpus[cor_size]->page_no=page;
         corpus[cor_size]->para_no=paragraph;
         // corpus[cor_size]->d->insert_sentence(0,0,0,0,sentence);
+        insert_in_corpus(corpus[cor_size],sentence);
         cor_size++;
     }
     return;
@@ -128,8 +196,8 @@ QNA_tool::QNA_tool(){
 }
 
 para::para(){
-    d = new(nothrow) Dict();
-    if(!d){cout<<"No Space in para"<<endl;}
+    // d = new(nothrow) Dict();
+    // if(!d){cout<<"No Space in para"<<endl;}
     // t = new(nothrow) trie();
     // if(!t){cout<<"No Space in para"<<endl;}
     
@@ -137,7 +205,10 @@ para::para(){
 
 para::~para(){
     // delete t;
-    delete d;
+    // delete d;
+    for(auto i : frequencies){
+        if(i) delete i;
+    }
 }
 
 QNA_tool::~QNA_tool(){
@@ -259,20 +330,32 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
         //j is a para object
         //j->d gives us the dict for that paragraph that saem has made
         for(auto j : corpus){
-            double countOfWord = j->d->get_word_count(wrd);
+            float countOfWord = 0;
+            int h = hash(wrd);
+            freq_word* n=j->frequencies[h];
+            while(n){
+                if(n->word == wrd){
+                    countOfWord=n->freq;
+                    break;
+                }
+                n=n->right;
+            }
             // double countOfWord = j->t->search(wrd);
-            double sore = mkg.search(wrd);
-            if(occurances < 0 || sore < 0 || countOfWord < 0 || f_csv < 0){
+            float score = mkg.search(wrd);
+            if(occurances < 0 || score < 0 || countOfWord < 0 || f_csv < 0){
                 cout<<"GOT NEGATIVE"<<endl;
             }
-            j->score += ((occurances)*(sore+1) * (countOfWord))/(f_csv +1);
+            cout<<score<<' '<<countOfWord<<endl;
+            j->score += ((occurances)*(score+1) * (countOfWord))/(f_csv +1);
             // j->score += ((occurances)*(countOfWord+1))/(sore +1);
         }
     } 
     Sort(corpus,k);
     head=new Node(corpus[cor_size-1]->b_code,corpus[cor_size-1]->page_no,corpus[cor_size-1]->para_no,0,0);
+    cout<<corpus[cor_size-1]->score<<endl;
     for(int i=(cor_size-k);i<(cor_size-1);i++){
         insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no,head);
+        cout<<corpus[i]->score<<endl;
     }
     return head;
 }
@@ -429,7 +512,7 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
 //     {
 //         getline(file,word,',');
 //         getline(file,f);
-//         int h = hass(word);
+//         int h = hassh(word);
 //         v.push_back(h);
 //         // if(v[h]) {cout<<word<<' '<<h<<' '<<v[h]<<endl; ct++;}
 //         // v[h]++;
