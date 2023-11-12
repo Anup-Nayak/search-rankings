@@ -118,13 +118,15 @@ void Dict::insert_sentence(int book_code, int page, int paragraph, int sentence_
             i++;
         }
         n->word_count++;
-        if(n->word_count==1){
-            string w=sentence.substr(start,i-start);
-            for(int x=0;x<w.size();x++){
-                int asc=int(w[x]);
-                if(asc>64 && asc<91) w[x]=char(asc+32);
+        if(book_code){
+            if(n->word_count==1){
+                string w=sentence.substr(start,i-start);
+                for(int x=0;x<w.size();x++){
+                    int asc=int(w[x]);
+                    if(asc>64 && asc<91) w[x]=char(asc+32);
+                }
+                distinct_words.push_back({n,w,0});
             }
-            distinct_words.push_back({n,w,0});
         }
         
     }

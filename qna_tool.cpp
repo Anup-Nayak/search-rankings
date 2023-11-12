@@ -70,7 +70,8 @@ QNA_tool::QNA_tool(){
     cm.close();
     for (int i = 0; i < corpus.size(); ++i)
     {
-        corpus[i] = new para();
+        corpus[i] = new(nothrow) para();
+        if(!corpus[i]) {cout<<"no space"<<endl;}
     }
     // string file = "Paragraphs/para-";
     // for (int i = 0; i < corpus.size(); ++i)
@@ -90,7 +91,6 @@ QNA_tool::QNA_tool(){
     //         istringstream iss(f);
     //         long long freq;
     //         iss>>freq;
-    //         corpus[i]->t->insert(word,freq);
     //     }
     //     ifile.close();
 
@@ -98,7 +98,11 @@ QNA_tool::QNA_tool(){
 }
 
 para::para(){
-    d = new Dict();
+    d = new(nothrow) Dict();
+    if(!d){cout<<"No Space in para"<<endl;}
+    // t = new(nothrow) trie();
+    // if(!t){cout<<"No Space in para"<<endl;}
+    
 }
 
 para::~para(){
@@ -213,7 +217,7 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
     // }
     Node* head=nullptr;
     Dict q;
-    q.insert_sentence(0,0,0,0,question);
+    q.insert_sentence(1,0,0,0,question);
     for(auto w : q.distinct_words){
         w.freq=csv.search(w.word);
         if(w.freq<0) w.freq=0;

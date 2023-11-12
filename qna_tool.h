@@ -15,7 +15,7 @@ public:
     int b_code;
     int page_no;
     int para_no;
-    Dict* d;
+    Dict* d=nullptr;
     // trie* t;
     double score=0;
     para();
@@ -23,22 +23,18 @@ public:
 };
 
 class QNA_tool {
-
 private:
     // You are free to change the implementation of this function
     void query_llm(string filename, Node* root, int k, string API_KEY, string question);
-    
-    void csv_process(string& word,long long& freq);
-    void mkg_process(string& word,int& freq);
     void heapifyup(vector<para*> &v,int idx);
     void heapifydn(vector<para*> &v,int idx,int sz);
     void Sort(vector<para*> &corpus,int k);
     bool is_separator(char x);
 
-    vector<para*> corpus=vector<para*>(380996);
+    vector<para*> corpus=vector<para*>(380996,nullptr);//////
     trie csv;
     trie mkg;
-    uint cor_size;
+        int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
 
