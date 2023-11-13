@@ -13,7 +13,7 @@ trie_node::~trie_node(){
 }
 
 trie::trie(){
-    root=new(nothrow) trie_node();
+    root=new trie_node();
 }
 
 int get_idx(char x){
@@ -110,8 +110,7 @@ void Dict::insert_sentence(int book_code, int page, int paragraph, int sentence_
             if(asc<0) {i++; continue;}
             if(n->child[asc]) n=n->child[asc];
             else{
-                n->child[asc]=new(nothrow) trie_node();
-                if(!n->child[asc]) {break; cout<<"f"<<endl;}
+                n->child[asc]=new trie_node();
                 n=n->child[asc];
             }
             i++;

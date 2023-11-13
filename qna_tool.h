@@ -24,7 +24,7 @@ public:
     // Dict* d=nullptr;
     // trie* t;
     vector<freq_word*> frequencies=vector<freq_word*>(311,nullptr);
-    double score=0;
+    double score;
     para();
     ~para();
 };
@@ -40,7 +40,7 @@ private:
     bool is_separator(char x);
     int hash(string& word);
 
-    vector<para*> corpus=vector<para*>(380996,nullptr);//////
+    vector<para*> corpus=vector<para*>(380996);//////
     trie csv;
     trie mkg;
     int cor_size;

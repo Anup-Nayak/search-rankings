@@ -79,7 +79,8 @@ void QNA_tool::insert_in_corpus(para* p, string& sentence){
         if(is_separator(sentence[i])) continue;
         int start=i;
         while(i<sentence.size() && !(is_separator(sentence[i]))){
-            int asc=get_inndx(sentence[i]);
+            int asc=int(sentence[i]);
+            if(asc>64 && asc<91) sentence[i]=char(asc+32);
             i++;
         }
         string word=sentence.substr(start,i-start);
@@ -159,7 +160,7 @@ QNA_tool::QNA_tool(){
     cv.close();
 
     ifstream cm("mkgandhi_csv.csv");
-    while(getline(cm,word,',') && getline(cv,f)){
+    while(getline(cm,word,',') && getline(cm,f)){
         istringstream iss(f);
         long long freq;
         iss>>freq;
@@ -168,8 +169,7 @@ QNA_tool::QNA_tool(){
     cm.close();
     for (int i = 0; i < corpus.size(); ++i)
     {
-        corpus[i] = new(nothrow) para();
-        if(!corpus[i]) {cout<<"no space"<<endl;}
+        corpus[i] = new para();
     }
     // string file = "Paragraphs/para-";
     // for (int i = 0; i < corpus.size(); ++i)
@@ -196,9 +196,9 @@ QNA_tool::QNA_tool(){
 }
 
 para::para(){
-    // d = new(nothrow) Dict();
+    // d = new Dict();
     // if(!d){cout<<"No Space in para"<<endl;}
-    // t = new(nothrow) trie();
+    // t = new trie();
     // if(!t){cout<<"No Space in para"<<endl;}
     
 }
@@ -288,11 +288,11 @@ void QNA_tool::Sort(vector<para*> &corpus,int k){
     {
         heapifyup(corpus,i);
     }
-    int size=corpus.size();
+    int size=cor_size;
     for (int i = 0; i < k; ++i)
     {
         swap(&corpus[0],&corpus[size-1]);
-        heapifydn(corpus,0,size);
+        heapifydn(corpus,0,size-1);
         size--;
     }
 
@@ -309,14 +309,16 @@ bool QNA_tool::is_separator(char x){
 
 Node* QNA_tool::get_top_k_para(string question, int k) {
     Node* head=nullptr;
+    //create dict to get count of occurances 
     Dict q;
     q.insert_sentence(1,0,0,0,question);
+    //add the freq of word in csv to the metadata of word
     for (int i = 0; i < q.distinct_words.size(); ++i)
     {
         q.distinct_words[i].freq = csv.search(q.distinct_words[i].word);
     }
-    for(auto j:corpus){
-        j->score=0;
+    for(int j = 0; j<corpus.size(); j++){
+        corpus[j]->score=0;
     }
     /*w:: w.word - gives the word in lower case
     ,w.freq - frequency in csv file
@@ -325,12 +327,12 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
     for(auto w : q.distinct_words){
         string wrd = w.word;
         long long f_csv = w.freq;
-        long long occurances = w.node->word_count;
+        int occurances = w.node->word_count;
 
         //j is a para object
         //j->d gives us the dict for that paragraph that saem has made
         for(auto j : corpus){
-            float countOfWord = 0;
+            double countOfWord = 0;
             int h = hash(wrd);
             freq_word* n=j->frequencies[h];
             while(n){
@@ -341,22 +343,19 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
                 n=n->right;
             }
             // double countOfWord = j->t->search(wrd);
-            float score = mkg.search(wrd);
-            if(occurances < 0 || score < 0 || countOfWord < 0 || f_csv < 0){
-                cout<<"GOT NEGATIVE"<<endl;
-            }
-            cout<<score<<' '<<countOfWord<<endl;
+            long long score = mkg.search(wrd);
             j->score += ((occurances)*(score+1) * (countOfWord))/(f_csv +1);
             // j->score += ((occurances)*(countOfWord+1))/(sore +1);
         }
     } 
     Sort(corpus,k);
     head=new Node(corpus[cor_size-1]->b_code,corpus[cor_size-1]->page_no,corpus[cor_size-1]->para_no,0,0);
-    cout<<corpus[cor_size-1]->score<<endl;
     for(int i=(cor_size-k);i<(cor_size-1);i++){
         insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no,head);
-        cout<<corpus[i]->score<<endl;
+        // cout<<corpus[i]->score<<endl;
+        
     }
+    // cout<<corpus[cor_size-1]->score<<endl;
     return head;
 }
 
