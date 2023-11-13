@@ -120,6 +120,7 @@ void insert(int bcode,int pageno,int parano,Node* head){
 }
 //saem ne samjhaya hai galat nahi hai
 void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
+    mkg.insert_sentence(0,0,0,0,sentence);/*remove if mkg csv is accessable on GS :'{ */
     if(!cor_size){
         corpus[cor_size]->b_code=book_code;
         corpus[cor_size]->page_no=page;
@@ -159,14 +160,17 @@ QNA_tool::QNA_tool(){
     }
     cv.close();
 
-    ifstream cm("mkgandhi_csv.csv");
-    while(getline(cm,word,',') && getline(cm,f)){
-        istringstream iss(f);
-        long long freq;
-        iss>>freq;
-        mkg.insert(word,freq);
-    }
-    cm.close();
+    // ifstream cm("mkgandhi_csv.csv");
+    // if (!cm.is_open()) {
+    //         std::cout << "Error: Unable to open the file" << std::endl;
+    //     }
+    // while(getline(cm,word,',') && getline(cm,f)){
+    //     istringstream iss(f);
+    //     long long freq;
+    //     iss>>freq;
+    //     mkg.insert(word,freq);
+    // }
+    // cm.close();
     for (int i = 0; i < corpus.size(); ++i)
     {
         corpus[i] = new para();
@@ -343,13 +347,29 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
                 n=n->right;
             }
             // double countOfWord = j->t->search(wrd);
-            long long score = mkg.search(wrd);
+            long long score = mkg./*search*/get_word_count(wrd);
+            // double score = sc;
+            // double f_csv=fc;
             j->score += ((occurances)*(score+1) * (countOfWord))/(f_csv +1);
             // j->score += ((occurances)*(countOfWord+1))/(sore +1);
         }
     } 
     Sort(corpus,k);
+    // if(k==4){
+    //     for (auto j : corpus)
+    //     {
+    //         if(j->b_code==79 && j->page_no==457 && j->para_no==2){
+    //             cout<<j->b_code<<' '<<j->score<<endl;
+    //         }
+    //         if(j->b_code==45 && j->page_no==386 && j->para_no==4){
+    //             cout<<j->b_code<<' '<<j->score<<endl;
+
+    //         }
+    //     }
+    // }
     head=new Node(corpus[cor_size-1]->b_code,corpus[cor_size-1]->page_no,corpus[cor_size-1]->para_no,0,0);
+    head->left=nullptr;
+    head->right=nullptr;
     for(int i=(cor_size-k);i<(cor_size-1);i++){
         insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no,head);
         // cout<<corpus[i]->score<<endl;

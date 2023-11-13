@@ -10,10 +10,9 @@ int main(){
     QNA_tool qna_tool;
 
     int num_books = 98;
-
     for(int i = 1; i <= num_books; i++){
 
-        // std::cout << "Inserting book " << i << std::endl;
+        std::cout << "Inserting book " << i << std::endl;
 
         std::string filename = "Corpora/MK Gandhi/mahatma-gandhi-collected-works-volume-";
         filename += to_string(i);
@@ -73,31 +72,30 @@ int main(){
         }
 
         inputFile.close();
-
     }
 
     // string question ="What were the views of Mahatma Gandhi on the Partition of India?";
-    {string question ="What is the purpose of life?";
-        // {string question ="What were Gandhi's views on the manner of how one should eat?";
-            /*
-                Part-1 : Get the top-k paragraphs
-                Checking Correctness
-            */
-            // Let's try to ask a simple question to the qna_tool
-            Node* head = qna_tool.get_top_k_para(question, 8);
+    // {string question ="What is the purpose of life?";
+    //     // {string question ="What were Gandhi's views on the manner of how one should eat?";
+    //         /*
+    //             Part-1 : Get the top-k paragraphs
+    //             Checking Correctness
+    //         */
+    //         // Let's try to ask a simple question to the qna_tool
+    //         Node* head = qna_tool.get_top_k_para(question, 8);
         
-            vector<string> paras;
-            while(head != nullptr){
-                string res = qna_tool.get_paragraph(head->book_code, head->page, head->paragraph);
-                paras.push_back(res);
-                if(!head->right) {delete head; break;}
-                head = head->right;
-                if(head) delete head->left;
-            }
-        }cout<<endl<<endl;
+    //         vector<string> paras;
+    //         while(head != nullptr){
+    //             string res = qna_tool.get_paragraph(head->book_code, head->page, head->paragraph);
+    //             paras.push_back(res);
+    //             if(!head->right) {delete head; break;}
+    //             head = head->right;
+    //             if(head) delete head->left;
+    //         }
+    //     }cout<<endl<<endl;
         {string question1 ="What were the views of Mahatma Gandhi on the Partition of India?";
         // {string question1 ="Who was Mahatma Gandhi?";
-                 Node* head1 = qna_tool.get_top_k_para(question1, 8);
+                 Node* head1 = qna_tool.get_top_k_para(question1, 4);
                 
                     vector<string> paras1;
                     while(head1 != nullptr){
@@ -109,7 +107,6 @@ int main(){
                     }}
         // for(int i = 0; i < (int)paras.size(); i++){
         //     cout << paras[i] << endl << endl << endl;
-        // }
 
 
     /*

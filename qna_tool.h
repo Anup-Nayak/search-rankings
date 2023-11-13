@@ -42,7 +42,7 @@ private:
 
     vector<para*> corpus=vector<para*>(380996);//////
     trie csv;
-    trie mkg;
+    Dict mkg;
     int cor_size;
     string separators = " .,-:!\"\'()?[];@";
     // You can add attributes/helper functions here
