@@ -6,6 +6,25 @@ using namespace std;
 
 #define ignorable 90000000
 
+vector<string> ignorables = {"mahatma","gandhi","india"}; //will add more
+vector<string> questWords = {"what","when","where","how","why","who"};
+vector<string> dontCount = {"and","or","the", "a", "an", "of", "in", "to", "for", "with", 
+    "on", "by", "at", "about", "against", "between", "under", "above", 
+    "through", "into", "over", "around", "after", "before", "during", 
+    "throughout", "from", "into", "during", "within", "without", "through",
+    "between", "among", "along", "against", "beside", "upon", "but", "if",
+    "as", "because", "when", "where", "while", "after", "before", "though", 
+    "since", "until", "unless", "nor", "not", "only", "just", "but", "also",
+    "very", "really", "quite", "almost", "too", "enough", "so", "such", "more", 
+    "less", "few", "many", "most", "some", "any", "each", "every", "all", "no", 
+    "none", "neither", "either", "both", "other", "another", "own", "same", 
+    "different", "like", "unlike", "similar", "different", "again", "still", 
+    "yet", "already", "even", "just", "now", "then", "today", "yesterday", 
+    "tomorrow", "here", "there", "which", 
+    "whom", "whose", "which", "those", "these", "this", "that", "it", 
+    "he", "she", "we", "they", "I", "you", "me", "him", "her", "us", "them"
+    }; // Add more as needed
+
 //preprocess the corporus: store the paragraphs in dll. :: done in constructor of QnA tool.
 //for each paragraph keep a dict object/trieif cant import dict
 //the dict will store the no. of times each word comes in the para. easily get freqs.
@@ -120,6 +139,7 @@ void insert(int bcode,int pageno,int parano,Node* head){
 }
 //saem ne samjhaya hai galat nahi hai
 void QNA_tool::insert_sentence(int book_code, int page, int paragraph, int sentence_no, string sentence){
+    mkg.insert_sentence(0,0,0,0,sentence);
     if(!cor_size){
         corpus[cor_size]->b_code=book_code;
         corpus[cor_size]->page_no=page;
@@ -159,14 +179,17 @@ QNA_tool::QNA_tool(){
     }
     cv.close();
 
-    ifstream cm("mkgandhi_csv.csv");
-    while(getline(cm,word,',') && getline(cm,f)){
-        istringstream iss(f);
-        long long freq;
-        iss>>freq;
-        mkg.insert(word,freq);
-    }
-    cm.close();
+    // ifstream cm("mkgandhi_csv.csv");
+    // if (!cm.is_open()) {
+    //         std::cout << "Error: Unable to open the file" << std::endl;
+    //     }
+    // while(getline(cm,word,',') && getline(cm,f)){
+    //     istringstream iss(f);
+    //     long long freq;
+    //     iss>>freq;
+    //     mkg.insert(word,freq);
+    // }
+    // cm.close();
     for (int i = 0; i < corpus.size(); ++i)
     {
         corpus[i] = new para();
@@ -327,7 +350,7 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
     for(auto w : q.distinct_words){
         string wrd = w.word;
         long long f_csv = w.freq;
-        int occurances = w.node->word_count;
+        int occurances = 1; //part2 occurances ko 1 kar diya
 
         //j is a para object
         //j->d gives us the dict for that paragraph that saem has made
@@ -343,13 +366,29 @@ Node* QNA_tool::get_top_k_para(string question, int k) {
                 n=n->right;
             }
             // double countOfWord = j->t->search(wrd);
-            long long score = mkg.search(wrd);
+            long long score = mkg.get_word_count(wrd);
+            // double score = sc;
+            // double f_csv=fc;
             j->score += ((occurances)*(score+1) * (countOfWord))/(f_csv +1);
             // j->score += ((occurances)*(countOfWord+1))/(sore +1);
         }
     } 
     Sort(corpus,k);
+    // if(k==4){
+    //     for (auto j : corpus)
+    //     {
+    //         if(j->b_code==79 && j->page_no==457 && j->para_no==2){
+    //             cout<<j->b_code<<' '<<j->score<<endl;
+    //         }
+    //         if(j->b_code==45 && j->page_no==386 && j->para_no==4){
+    //             cout<<j->b_code<<' '<<j->score<<endl;
+
+    //         }
+    //     }
+    // }
     head=new Node(corpus[cor_size-1]->b_code,corpus[cor_size-1]->page_no,corpus[cor_size-1]->para_no,0,0);
+    head->left=nullptr;
+    head->right=nullptr;
     for(int i=(cor_size-k);i<(cor_size-1);i++){
         insert(corpus[i]->b_code,corpus[i]->page_no,corpus[i]->para_no,head);
         // cout<<corpus[i]->score<<endl;
@@ -431,6 +470,31 @@ std::string QNA_tool::get_paragraph(int book_code, int page, int paragraph){
 void QNA_tool::query(string question, string filename){
     // Implement your function here  
     std::cout << "Q: " << question << std::endl;
+    vector<std::string> words;
+    string currentWord;
+
+    for (char ch : question) {
+        if (ch == ' ' or ch== '-' or ch=='?' or is_separator(ch)==true) {
+            // If space is encountered, add the current word to the vector
+            if (!currentWord.empty()) {
+                words.push_back(currentWord);
+                currentWord.clear();
+            }
+        } else {
+            // Append non-space characters to the current word
+            currentWord += ch;
+
+            
+        }
+    }
+
+    // Add the last word if the sentence doesn't end with a space
+    if (!currentWord.empty()) {
+        words.push_back(currentWord);
+    }
+
+    
+    
     Dict q;
     string imp_words;
     int count=0;
@@ -479,11 +543,12 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
 
     // write the query to query.txt
     ofstream outfile("query.txt");
-    outfile << "These are the excerpts from Mahatma Gandhi's books.\nOn the basis of this, ";
+    //part2- changed the query a little bit
+    outfile << "These are the excerpts from Mahatma Gandhi's books.\nOn the basis of this and using your own database of knowledge, give a quality answer to the followng question, ";
     outfile << question;
     // You can add anything here - show all your creativity and skills of using ChatGPT
     outfile.close();
- 
+
     // you do not need to necessarily provide k paragraphs - can configure yourself
 
     // python3 <filename> API_KEY num_paragraphs query.txt
