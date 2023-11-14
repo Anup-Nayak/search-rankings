@@ -493,26 +493,27 @@ void QNA_tool::query(string question, string filename){
         words.push_back(currentWord);
     }
 
-    
-    
-    Dict q;
-    string imp_words;
-    int count=0;
-    q.insert_sentence(1,0,0,0,question);
-    for(auto i : q.distinct_words){
-        if(i.word == "mahatma" || i.word.substr(0,6) == "gandhi" || i.word == "india" || csv.search(i.word)>ignorable){
-            
-        }
-        else if(i.word=="president" || i.word=="financial" || i.word.substr(0,3)=="tax" || i.word=="country" || i.word=="government" || i.word=="environment"){
-            imp_words += i.word+' ';
-            count++;
-        }
-        else {imp_words += (i.word+' '); count++;}
-    }
-    if(count<1){
+    // i want to create a new attribute that stores importance as 1(multyiply score contributed by it by 1.5), 2(x1), 3(x0.5)
+    vector<string> wordsWeWant;
 
+    //part2 - convert pseudo code into actual code
+
+    /*
+    for(auto i: words){
+        if i[0] is capital then importance[i] = 1;
+        wordsWeWant.push_back(i);
+
+        else if i is in ignorables dont add i in words we want;
+        else if i is in question words then importance[i] = 3;
+        else if i is in dontCount then importance[i] = 3;
+        else importance[i] = 2;
     }
+    */
+    
+
     //decide k based on the paragraph lengths obtained so far;
+    //query_llm(filename, root, 10, api_key, question);
+
     std::cout << "A: Studying COL106 :)" << std::endl;
     return;
 }
