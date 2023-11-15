@@ -622,7 +622,7 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
     command += " ";
     command += API_KEY;
     command += " ";
-
+    int context_size=0;
     while(num_paragraph < k){
         assert(traverse != nullptr);
         string p_file = "paragraph_";
@@ -633,6 +633,7 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
         remove(p_file.c_str());
         ofstream outfile(p_file);
         string paragraph = get_paragraph(traverse->book_code, traverse->page, traverse->paragraph);
+        context_size
         assert(paragraph != "$I$N$V$A$L$I$D$");
         outfile << paragraph;
         outfile.close();
