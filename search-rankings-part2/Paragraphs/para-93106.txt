@@ -1,0 +1,13 @@
+27,365,14
+fight,1
+with,1
+the,1
+government,1
+others,2
+urge,1
+obstruction,1
+and,1
+yet,1
+advise,1
+us,1
+to,1

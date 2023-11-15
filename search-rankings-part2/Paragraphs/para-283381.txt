@@ -1,0 +1,4 @@
+75,435,10
+thakore,1
+saheb,1
+rajkot,1

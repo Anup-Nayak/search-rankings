@@ -1,0 +1,13 @@
+31,337,6
+1,1
+wife,2
+of,2
+king,1
+nala,1
+in,2
+the,3
+mahabharata,2
+2,1
+five,1
+pandava,1
+princes,1

@@ -1,0 +1,14 @@
+83,166,9
+1,1
+vide,2
+the,2
+preceding,2
+item,2
+it,1
+was,1
+not,1
+however,1
+published,1
+in,1
+harijan,1
+2,1

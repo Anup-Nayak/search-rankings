@@ -1,0 +1,5 @@
+72,338,7
+5,1
+geography,1
+and,1
+history,1

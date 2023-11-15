@@ -1,0 +1,6 @@
+97,250,6
+226,1
+talk,1
+with,1
+indonesian,1
+visitors,1

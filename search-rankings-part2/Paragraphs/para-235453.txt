@@ -1,0 +1,16 @@
+64,227,20
+ornaments,1
+valued,1
+at,1
+rs,1
+500,1
+he,1
+hoped,1
+that,1
+the,1
+other,1
+citizens,1
+would,1
+contribute,1
+a,1
+sum,1

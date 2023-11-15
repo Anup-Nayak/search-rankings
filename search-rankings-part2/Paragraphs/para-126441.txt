@@ -1,0 +1,12 @@
+37,92,6
+this,4
+no,4
+weapons,1
+wound,1
+fire,1
+burns,1
+waters,1
+wet,1
+wind,1
+doth,1
+dry,1

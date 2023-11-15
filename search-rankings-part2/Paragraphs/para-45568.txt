@@ -1,0 +1,8 @@
+13,451,33
+about,1
+the,2
+intermigration,1
+of,1
+educated,1
+person,1
+but,1

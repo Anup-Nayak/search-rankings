@@ -1,0 +1,8 @@
+42,119,1
+10,1
+professional,1
+labourers,1
+7,1
+weavers,1
+66,1
+total,1

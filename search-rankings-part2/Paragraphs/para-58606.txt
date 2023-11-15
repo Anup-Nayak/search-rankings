@@ -1,0 +1,17 @@
+16,502,26
+give,1
+the,2
+district,1
+a,1
+chance,1
+and,1
+he,1
+refuses,1
+or,1
+does,1
+not,1
+do,1
+so,1
+how,1
+far,1
+will,1

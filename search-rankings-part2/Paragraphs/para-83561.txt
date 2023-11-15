@@ -1,0 +1,7 @@
+24,384,3
+satyagraha,1
+ashram,1
+sabarmati,1
+october,1
+8,1
+1921,1

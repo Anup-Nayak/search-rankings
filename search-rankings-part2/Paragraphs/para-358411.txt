@@ -1,0 +1,13 @@
+92,403,2
+5,1
+no,1
+local,1
+authority,1
+shall,1
+in,1
+carrying,1
+out,1
+the,1
+functions,1
+and,1
+duties,1

@@ -1,0 +1,14 @@
+54,104,5
+abolition,1
+of,1
+capitalism,2
+do,1
+you,2
+intend,1
+to,1
+suppress,1
+and,1
+if,1
+so,1
+are,1
+ready,1

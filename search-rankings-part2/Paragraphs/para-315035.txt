@@ -1,0 +1,13 @@
+82,395,22
+even,1
+though,1
+the,2
+civilians,1
+are,1
+not,1
+as,2
+well,1
+trained,1
+in,1
+strategy,1
+military,1

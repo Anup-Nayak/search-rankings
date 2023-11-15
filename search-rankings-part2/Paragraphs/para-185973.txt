@@ -1,0 +1,13 @@
+52,423,19
+they,1
+should,1
+persuade,1
+dealers,1
+in,1
+foreign,1
+cloth,1
+as,2
+well,1
+consumers,1
+to,1
+shun,1

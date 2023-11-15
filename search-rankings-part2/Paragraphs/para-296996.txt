@@ -1,0 +1,14 @@
+79,139,2
+i,1
+am,1
+an,1
+opponent,1
+of,2
+the,2
+old,1
+cult,1
+lathi,1
+and,1
+its,1
+modern,1
+equivalent,1

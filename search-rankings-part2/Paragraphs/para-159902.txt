@@ -1,0 +1,13 @@
+46,192,4
+1,1
+he,1
+who,1
+performs,1
+all,1
+obligatory,1
+action,1
+without,1
+depending,1
+on,1
+the,1
+fruit,1

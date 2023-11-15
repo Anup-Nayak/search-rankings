@@ -1,0 +1,8 @@
+15,360,2
+pray,1
+remember,1
+me,1
+to,1
+dr,1
+sapru,1
+1,1

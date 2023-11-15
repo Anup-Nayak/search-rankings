@@ -1,0 +1,15 @@
+46,175,10
+33,1
+but,1
+if,1
+thou,1
+wilt,1
+not,1
+fight,2
+this,1
+righteous,1
+then,1
+failing,1
+in,1
+thy,1
+duty,1

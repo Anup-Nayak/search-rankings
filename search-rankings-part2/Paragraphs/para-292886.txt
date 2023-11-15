@@ -1,0 +1,9 @@
+78,140,10
+m,1
+k,1
+gandhi,1
+sri,1
+satyamurti,1
+mayor,1
+ripon,1
+bldgs,1

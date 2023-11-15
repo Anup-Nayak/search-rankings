@@ -1,0 +1,4 @@
+69,329,2
+huts,1
+without,1
+money,1

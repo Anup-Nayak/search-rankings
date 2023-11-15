@@ -1,0 +1,10 @@
+82,225,14
+sammelan,1
+propagates,1
+hindi,1
+but,1
+is,1
+not,1
+opposed,1
+to,1
+urdu,1

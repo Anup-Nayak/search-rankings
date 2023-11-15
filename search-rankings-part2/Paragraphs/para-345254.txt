@@ -1,0 +1,15 @@
+89,305,6
+translations,1
+either,1
+in,1
+telugu,1
+or,1
+tamil,1
+of,2
+his,1
+remarks,1
+at,1
+the,3
+end,1
+prayer,1
+even,1

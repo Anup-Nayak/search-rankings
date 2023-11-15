@@ -1,0 +1,13 @@
+21,86,15
+bad,1
+mahatma,1
+gandhi,1
+recommended,1
+swadeshism,1
+as,1
+a,1
+weapon,1
+for,1
+the,2
+protection,1
+of,1

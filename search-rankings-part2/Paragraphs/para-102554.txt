@@ -1,0 +1,10 @@
+30,194,4
+101,1
+examination,1
+of,1
+kamal,1
+jailane,1
+on,1
+kohat,1
+riot,1
+1,1

@@ -1,0 +1,12 @@
+84,361,9
+vandemataram,1
+from,1
+m,1
+k,1
+gandhi,1
+shri,1
+prabhashankarbhai,1
+dera,1
+sheri,1
+rajkot,1
+3,1

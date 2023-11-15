@@ -1,0 +1,8 @@
+10,42,4
+resolution,1
+adopting,1
+pice,1
+subscription,1
+aid,1
+struggle,1
+as,1

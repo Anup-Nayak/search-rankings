@@ -1,0 +1,5 @@
+52,101,2
+125,1
+judge,1
+lynch,1
+decides,1

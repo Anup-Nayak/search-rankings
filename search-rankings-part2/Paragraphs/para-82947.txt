@@ -1,0 +1,17 @@
+24,267,4
+will,1
+you,2
+please,1
+hand,1
+to,1
+bearer,1
+cheque,1
+for,1
+90,1
+received,1
+by,1
+on,1
+my,1
+behalf,1
+from,1
+mombasa,1

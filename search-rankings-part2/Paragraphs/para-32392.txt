@@ -1,0 +1,9 @@
+10,357,6
+he,1
+re,1
+entered,1
+the,2
+policy,1
+of,1
+transvaal,1
+authorities,1

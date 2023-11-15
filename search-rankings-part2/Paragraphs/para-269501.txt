@@ -1,0 +1,5 @@
+72,290,1
+367,1
+illiterates,1
+v,1
+literates,1

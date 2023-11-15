@@ -1,0 +1,8 @@
+92,70,3
+sir,1
+shafaat,1
+ahmed,1
+khan,1
+clarendon,1
+cottage,1
+simla,1

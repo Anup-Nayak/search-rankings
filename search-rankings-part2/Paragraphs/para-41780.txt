@@ -1,0 +1,6 @@
+12,469,10
+department,1
+of,1
+commerce,1
+and,1
+industry,1

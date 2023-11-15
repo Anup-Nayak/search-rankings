@@ -1,0 +1,11 @@
+44,474,18
+t8,1
+guj,1
+has,1
+and,1
+one,1
+question,1
+in,1
+the,1
+paper,1
+on,1

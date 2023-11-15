@@ -1,0 +1,6 @@
+93,45,2
+kazirkhil,1
+wednesday,1
+november,1
+20,1
+1946,1

@@ -1,0 +1,12 @@
+30,218,1
+a,1
+i,1
+dont,1
+fix,1
+any,2
+condition,1
+they,1
+can,1
+come,1
+without,1
+conditions,1

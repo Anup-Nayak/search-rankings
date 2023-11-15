@@ -1,0 +1,6 @@
+4,88,4
+68,1
+an,1
+un,1
+english,2
+magistrate,1

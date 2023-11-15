@@ -1,0 +1,5 @@
+42,286,2
+ashram,1
+constitution,1
+and,1
+rules,1

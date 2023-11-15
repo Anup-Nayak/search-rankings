@@ -1,0 +1,15 @@
+54,104,11
+affirmative,1
+we,1
+then,1
+asked,1
+him,1
+if,1
+this,1
+problem,1
+was,1
+of,1
+major,1
+importance,1
+for,1
+the,1

@@ -1,0 +1,13 @@
+38,102,4
+i,1
+publish,1
+the,1
+letter,1
+because,1
+it,1
+reflects,1
+an,1
+attitude,1
+with,1
+which,1
+one,1

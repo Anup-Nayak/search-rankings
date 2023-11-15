@@ -1,0 +1,8 @@
+82,176,3
+210,1
+the,1
+late,1
+hirji,1
+jerama,1
+silent,1
+worker,1

@@ -1,0 +1,14 @@
+35,39,2
+asram,1
+sabarmati,1
+april,1
+8,1
+1926,1
+prisedent,1
+reception,1
+committee,1
+fourth,1
+mysore,1
+lawyers,1
+conference,1
+tumkur,1

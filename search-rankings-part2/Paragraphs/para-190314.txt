@@ -1,0 +1,14 @@
+53,436,4
+479,1
+letter,1
+to,1
+juliet,1
+e,1
+blume,1
+88,1
+knightsbridge,1
+london,1
+w,1
+september,1
+29,1
+1931,1

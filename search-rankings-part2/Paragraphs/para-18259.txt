@@ -1,0 +1,2 @@
+6,334,14
+degradation,1

@@ -1,0 +1,7 @@
+42,352,2
+a,1
+young,1
+man,1
+writes,1
+to,1
+say,1

@@ -1,0 +1,7 @@
+10,426,4
+256,1
+speech,1
+at,1
+kathiawad,1
+arya,1
+mandal,1

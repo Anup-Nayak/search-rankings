@@ -1,0 +1,4 @@
+18,349,5
+1,1
+gujarati,1
+saying,1

@@ -1,0 +1,16 @@
+10,253,4
+editor,1
+well,1
+then,2
+let,1
+us,1
+suppose,1
+that,1
+the,1
+english,1
+have,1
+retired,1
+what,1
+will,1
+you,1
+do,1

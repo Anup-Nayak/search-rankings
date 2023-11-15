@@ -1,0 +1,14 @@
+6,30,9
+sir,1
+lepel,1
+griffin,1
+my,2
+lord,1
+what,1
+you,1
+have,1
+just,1
+said,1
+makes,1
+duty,1
+in,1

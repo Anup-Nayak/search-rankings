@@ -1,0 +1,11 @@
+46,186,3
+24,1
+the,2
+offering,1
+of,1
+sacrifice,1
+is,3
+brahman,2
+oblation,1
+it,1
+offered,1

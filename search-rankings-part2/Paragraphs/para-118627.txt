@@ -1,0 +1,7 @@
+35,146,7
+199,1
+letter,1
+to,1
+gulabdas,1
+lalji,1
+1,1

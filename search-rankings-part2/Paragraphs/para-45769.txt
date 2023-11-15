@@ -1,0 +1,6 @@
+14,0,12
+interior,1
+about,1
+proposed,1
+private,1
+interview,1

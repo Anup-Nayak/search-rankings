@@ -1,0 +1,16 @@
+54,237,14
+can,1
+enforce,1
+with,2
+energy,1
+and,1
+success,1
+the,1
+time,1
+sense,1
+for,1
+which,1
+he,1
+has,1
+been,1
+so,1

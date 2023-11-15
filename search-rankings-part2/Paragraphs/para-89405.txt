@@ -1,0 +1,6 @@
+26,350,3
+146,1
+message,1
+to,1
+ashram,1
+people,1

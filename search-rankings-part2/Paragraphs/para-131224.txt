@@ -1,0 +1,16 @@
+38,262,8
+1,1
+non,1
+germination,2
+or,1
+passivity,1
+in,3
+plants,1
+and,1
+limiting,1
+copulation,1
+to,1
+periods,1
+of,1
+heat,1
+animals,1

@@ -1,0 +1,14 @@
+8,470,9
+mr,1
+gandhi,1
+replied,1
+that,2
+if,1
+was,2
+not,1
+a,2
+question,2
+of,2
+interest,1
+it,1
+justice,1

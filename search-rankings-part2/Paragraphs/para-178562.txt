@@ -1,0 +1,14 @@
+51,86,7
+to,1
+the,3
+people,2
+for,1
+great,1
+deeds,1
+of,1
+bravery,1
+and,1
+sacrifices,1
+done,1
+by,1
+during,1

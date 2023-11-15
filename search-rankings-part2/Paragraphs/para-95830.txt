@@ -1,0 +1,6 @@
+28,272,2
+who,1
+is,1
+superior,1
+as,1
+administrator,1

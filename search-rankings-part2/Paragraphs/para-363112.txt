@@ -1,0 +1,8 @@
+94,10,6
+write,1
+friends,1
+but,1
+come,1
+when,1
+you,1
+conveniently,1

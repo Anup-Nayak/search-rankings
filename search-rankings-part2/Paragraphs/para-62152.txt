@@ -1,0 +1,6 @@
+17,402,6
+movements,1
+dependent,1
+on,1
+external,1
+circumstances,1

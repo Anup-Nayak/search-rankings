@@ -1,0 +1,14 @@
+87,382,2
+from,1
+a,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1
+also,1
+gram,1
+udyog,1
+patrika,1
+vol,1
+i,1
+pp,1

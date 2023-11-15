@@ -1,0 +1,13 @@
+53,483,7
+g,1
+yes,1
+you,2
+have,1
+advanced,1
+but,1
+are,1
+not,1
+yet,1
+ready,1
+to,1
+give,1

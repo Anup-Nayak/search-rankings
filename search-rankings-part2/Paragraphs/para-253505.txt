@@ -1,0 +1,8 @@
+68,235,5
+g,1
+yes,1
+it,2
+possesses,2
+nothing,1
+therefore,1
+everything,1

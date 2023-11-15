@@ -1,0 +1,7 @@
+43,378,2
+482,1
+letter,1
+to,1
+sarasi,1
+lal,1
+sarkar,1

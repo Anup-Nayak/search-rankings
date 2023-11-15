@@ -1,0 +1,13 @@
+24,219,16
+sin,1
+forced,1
+on,1
+india,2
+by,2
+the,2
+wickedness,1
+of,1
+east,1
+company,1
+and,1
+perpetuated,1

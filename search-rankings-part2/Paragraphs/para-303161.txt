@@ -1,0 +1,10 @@
+80,317,7
+blessings,1
+from,1
+bapu,1
+shri,1
+vallabhram,1
+vaidya,1
+shantisadan,1
+mount,1
+abu,1

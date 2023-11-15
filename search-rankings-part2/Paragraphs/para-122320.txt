@@ -1,0 +1,11 @@
+36,115,4
+if,1
+the,1
+untouchables,1
+are,1
+so,1
+because,2
+they,1
+kill,1
+animals,1
+and,1

@@ -1,0 +1,9 @@
+15,290,5
+mohandas,1
+i,1
+am,1
+returning,1
+the,2
+copy,1
+of,1
+resolutions,1

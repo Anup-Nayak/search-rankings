@@ -1,0 +1,14 @@
+16,502,8
+promote,1
+a,1
+disregard,1
+of,1
+law,1
+and,1
+authority,1
+as,1
+already,1
+reported,1
+village,2
+to,1
+home,1

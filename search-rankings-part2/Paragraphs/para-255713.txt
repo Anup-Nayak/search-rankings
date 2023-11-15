@@ -1,0 +1,9 @@
+69,36,4
+were,1
+read,2
+after,1
+i,1
+had,1
+left,1
+2,1
+was,1

@@ -1,0 +1,15 @@
+93,347,4
+he,1
+then,1
+dealt,1
+with,1
+the,2
+following,1
+question,1
+addressed,1
+to,1
+him,1
+by,1
+some,1
+of,1
+workers,1

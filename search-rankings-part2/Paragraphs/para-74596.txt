@@ -1,0 +1,8 @@
+21,359,2
+206,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+kanpur1,1

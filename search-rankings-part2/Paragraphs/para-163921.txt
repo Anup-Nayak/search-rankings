@@ -1,0 +1,8 @@
+47,181,4
+do,1
+you,1
+not,1
+believe,1
+in,1
+varna,1
+dharma,1

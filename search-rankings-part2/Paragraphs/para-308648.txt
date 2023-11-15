@@ -1,0 +1,11 @@
+81,346,5
+sir,1
+e,1
+according,1
+to,1
+the,2
+sentiments,1
+expressed,1
+in,1
+atlantic,1
+charter,1

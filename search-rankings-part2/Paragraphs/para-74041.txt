@@ -1,0 +1,13 @@
+21,260,8
+power,1
+to,2
+investigate,1
+the,2
+causes,1
+of,1
+unrest,1
+he,1
+would,1
+oppose,1
+any,1
+attempt,1

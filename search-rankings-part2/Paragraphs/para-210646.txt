@@ -1,0 +1,10 @@
+58,342,5
+bapu,1
+shri,1
+hemprabha,1
+devi,1
+khadi,1
+pratishthan,1
+college,1
+square,1
+calcutta,1

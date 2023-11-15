@@ -1,0 +1,7 @@
+74,359,7
+474,1
+interview,1
+to,1
+american,1
+teachers,1
+2,1

@@ -1,0 +1,10 @@
+20,126,4
+1,1
+old,1
+sikh,1
+leader,1
+and,1
+prominent,1
+citizen,1
+of,1
+wazirabad,1

@@ -1,0 +1,11 @@
+11,352,8
+mrs,1
+ernest,1
+is,1
+anxious,1
+to,1
+learn,1
+from,1
+miss,1
+knudsen,1
+2,1

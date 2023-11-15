@@ -1,0 +1,16 @@
+31,213,6
+he,1
+and,2
+mr,1
+das,1
+would,1
+finally,1
+abandon,1
+non,1
+co,1
+operation,1
+state,1
+the,1
+terms,1
+on,1
+which,1

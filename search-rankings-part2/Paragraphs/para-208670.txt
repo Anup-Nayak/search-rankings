@@ -1,0 +1,10 @@
+58,140,17
+just,1
+received,1
+your,1
+letter,1
+have,1
+given,1
+no,1
+opinion,1
+outside,1

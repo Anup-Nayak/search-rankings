@@ -1,0 +1,13 @@
+76,278,19
+the,2
+village,1
+panchayat,1
+can,1
+be,1
+authorized,1
+to,1
+hold,1
+in,1
+deposit,1
+surplus,1
+yarn,1

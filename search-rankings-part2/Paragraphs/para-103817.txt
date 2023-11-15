@@ -1,0 +1,14 @@
+30,324,3
+i,2
+am,1
+in,1
+delhi,1
+just,1
+now,1
+leave,1
+tomorrow,1
+for,2
+sabarmati,1
+and,1
+thence,1
+madras,1

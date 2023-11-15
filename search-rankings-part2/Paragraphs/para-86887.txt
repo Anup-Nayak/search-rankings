@@ -1,0 +1,4 @@
+25,403,2
+gujarats,1
+good,1
+fortune,1

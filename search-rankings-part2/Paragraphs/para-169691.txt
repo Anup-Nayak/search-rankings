@@ -1,0 +1,10 @@
+48,510,6
+vandemataram,1
+from,2
+mohandas,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+33142,1

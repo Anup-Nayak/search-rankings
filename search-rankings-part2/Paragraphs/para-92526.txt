@@ -1,0 +1,14 @@
+27,275,2
+a,3
+friend,1
+has,1
+sent,1
+me,1
+report,1
+of,1
+meeting,1
+in,1
+which,1
+he,1
+says,1
+1,1

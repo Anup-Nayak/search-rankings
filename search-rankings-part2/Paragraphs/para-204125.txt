@@ -1,0 +1,9 @@
+57,126,4
+in,1
+the,2
+balance,1
+for,1
+opening,1
+guruvayur,1
+seeing,1
+that,1

@@ -1,0 +1,15 @@
+76,434,7
+great,1
+war,1
+and,2
+it,1
+will,1
+not,1
+be,1
+finally,1
+resolved,1
+till,1
+these,1
+conflicts,1
+contradictions,1
+are,1

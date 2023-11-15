@@ -1,0 +1,6 @@
+55,53,2
+tuesday,1
+morning,1
+january,1
+6,1
+1931,1

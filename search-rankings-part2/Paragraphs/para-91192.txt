@@ -1,0 +1,10 @@
+27,105,8
+miss,2
+r,1
+piggott,1
+and,1
+a,1
+m,1
+ward,1
+hyderabad,1
+sindh,1

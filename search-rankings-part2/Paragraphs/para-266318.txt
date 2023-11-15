@@ -1,0 +1,5 @@
+71,357,2
+robber,1
+ps,1
+still,1
+steaming,1

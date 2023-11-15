@@ -1,0 +1,8 @@
+74,157,5
+1,1
+gandhiji,1
+left,1
+bannu,1
+on,1
+october,1
+26,1

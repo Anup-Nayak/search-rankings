@@ -1,0 +1,9 @@
+42,224,5
+255,1
+letter,1
+to,1
+hafiz,1
+mohammed,1
+abdul,1
+shakoor,1
+1,1

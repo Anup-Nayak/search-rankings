@@ -1,0 +1,8 @@
+96,436,2
+india,1
+from,1
+making,1
+war,1
+on,1
+each,1
+other,1

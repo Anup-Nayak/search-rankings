@@ -1,0 +1,12 @@
+83,234,2
+now,1
+let,1
+us,1
+consider,1
+how,2
+often,1
+and,1
+much,1
+one,1
+should,1
+eat,1

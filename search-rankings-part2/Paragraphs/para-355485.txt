@@ -1,0 +1,8 @@
+92,92,2
+bhangi,1
+niwas,1
+new,1
+delhi,1
+september,1
+1,1
+1946,1

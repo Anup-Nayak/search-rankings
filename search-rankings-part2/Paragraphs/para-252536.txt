@@ -1,0 +1,17 @@
+68,143,1
+will,2
+stay,1
+here,1
+for,1
+some,1
+time,1
+if,1
+you,1
+write,1
+to,1
+this,1
+address,1
+they,1
+get,1
+your,1
+letter,1

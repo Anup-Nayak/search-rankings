@@ -1,0 +1,7 @@
+73,402,8
+god,1
+will,1
+solve,1
+difficulties,1
+patient,1
+progressing,1

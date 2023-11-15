@@ -1,0 +1,7 @@
+11,236,8
+educated,1
+asiatics,1
+entering,1
+under,1
+education,1
+test,1

@@ -1,0 +1,12 @@
+98,5,8
+q,1
+if,1
+the,2
+sevikas,1
+who,1
+have,1
+received,1
+training,1
+start,1
+working,1
+for,1

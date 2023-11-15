@@ -1,0 +1,3 @@
+21,216,6
+gujaratis,1
+love,1

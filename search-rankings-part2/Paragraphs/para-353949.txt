@@ -1,0 +1,7 @@
+91,380,3
+unable,1
+advise,1
+no,1
+time,1
+full,1
+study,1

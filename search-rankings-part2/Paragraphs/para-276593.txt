@@ -1,0 +1,16 @@
+74,100,5
+i,1
+am,1
+glad,1
+my,2
+wire,2
+went,1
+to,1
+you,1
+before,1
+your,1
+letter,1
+and,1
+came,1
+into,1
+hands,1

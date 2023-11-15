@@ -1,0 +1,7 @@
+13,140,17
+tion,1
+clause,1
+taken,1
+out,1
+alexander,1
+unaware,1

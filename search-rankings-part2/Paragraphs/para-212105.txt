@@ -1,0 +1,8 @@
+58,487,5
+g,1
+even,1
+if,1
+they,1
+are,1
+like,1
+me,1

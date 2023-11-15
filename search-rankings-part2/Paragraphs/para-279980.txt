@@ -1,0 +1,5 @@
+75,35,3
+jamnalal,1
+care,1
+lakinsure,1
+agra,1

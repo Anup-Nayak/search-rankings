@@ -1,0 +1,14 @@
+46,460,3
+1,1
+who,1
+pays,1
+to,1
+the,1
+association,1
+an,1
+annual,1
+subscription,1
+of,1
+five,1
+rupees,1
+or,1

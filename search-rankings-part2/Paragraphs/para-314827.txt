@@ -1,0 +1,13 @@
+82,389,10
+cabinet,1
+the,2
+draft,1
+of,1
+a,1
+declaration,1
+by,1
+his,1
+majestys,1
+government,1
+regarding,1
+future,1

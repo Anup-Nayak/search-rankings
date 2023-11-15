@@ -1,0 +1,6 @@
+34,498,8
+151,1
+boundary,1
+of,1
+village,1
+ranip,1

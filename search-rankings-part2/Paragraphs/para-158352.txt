@@ -1,0 +1,11 @@
+46,9,8
+as,2
+soon,1
+the,3
+meeting,2
+was,1
+over,1
+all,1
+ladies,1
+who,1
+attended,1

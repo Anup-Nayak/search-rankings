@@ -1,0 +1,4 @@
+71,164,2
+1,1
+kedarnath,1
+kulkarni,1

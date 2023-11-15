@@ -1,0 +1,6 @@
+82,31,1
+37,1
+letter,1
+to,1
+alfred,1
+barker,1

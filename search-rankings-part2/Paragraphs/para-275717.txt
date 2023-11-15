@@ -1,0 +1,7 @@
+74,6,9
+do,1
+you,1
+receive,1
+letters,1
+from,1
+kamala,1

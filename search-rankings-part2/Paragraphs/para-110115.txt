@@ -1,0 +1,6 @@
+32,391,8
+1,1
+castes,1
+regarded,1
+as,1
+untouchables,1

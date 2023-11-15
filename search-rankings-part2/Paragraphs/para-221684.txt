@@ -1,0 +1,16 @@
+61,64,6
+from,2
+the,1
+urdu,1
+original,1
+courtesy,1
+national,1
+archives,1
+of,1
+india,1
+also,1
+a,1
+photostat,1
+s,1
+n,1
+9657,1

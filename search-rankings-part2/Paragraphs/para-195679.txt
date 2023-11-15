@@ -1,0 +1,14 @@
+55,94,8
+ps,1
+since,1
+the,3
+right,1
+hand,1
+is,1
+tired,1
+i,1
+have,1
+written,1
+above,1
+with,1
+left,1

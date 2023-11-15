@@ -1,0 +1,6 @@
+3,277,3
+182,1
+permits,1
+for,1
+the,1
+transvaal,1

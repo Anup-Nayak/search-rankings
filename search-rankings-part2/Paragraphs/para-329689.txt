@@ -1,0 +1,11 @@
+86,97,4
+1,1
+this,1
+and,1
+the,2
+following,1
+paragraph,1
+are,1
+from,1
+bombay,1
+chronicle,1

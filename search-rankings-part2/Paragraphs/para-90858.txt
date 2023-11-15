@@ -1,0 +1,8 @@
+27,69,3
+treatment,1
+acceptance,1
+of,1
+the,1
+class,1
+areas,1
+bill,1

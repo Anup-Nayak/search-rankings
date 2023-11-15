@@ -1,0 +1,8 @@
+17,402,20
+lute,1
+conviction,1
+smallest,1
+body,1
+of,1
+true,1
+satya,1

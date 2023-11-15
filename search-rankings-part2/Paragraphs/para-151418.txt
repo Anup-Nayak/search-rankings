@@ -1,0 +1,13 @@
+43,507,9
+a,1
+lover,1
+of,1
+the,1
+nation,1
+puts,1
+down,1
+his,1
+thoughts,1
+as,1
+follows,1
+1,1

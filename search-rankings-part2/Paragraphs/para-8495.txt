@@ -1,0 +1,17 @@
+3,427,2
+21,1
+to,1
+24,1
+court,1
+chambers,1
+february,1
+15,1
+1904,1
+dr,1
+c,1
+proter,1
+medical,1
+officer,1
+of,1
+health,1
+johannesburg,1

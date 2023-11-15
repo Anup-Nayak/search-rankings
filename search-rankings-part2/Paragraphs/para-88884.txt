@@ -1,0 +1,3 @@
+26,257,3
+afflicted,1
+assam,1

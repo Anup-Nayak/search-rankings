@@ -1,0 +1,6 @@
+68,90,1
+106,1
+letter,1
+to,1
+jaiji,1
+petit,1

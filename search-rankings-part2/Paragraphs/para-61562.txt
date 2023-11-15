@@ -1,0 +1,9 @@
+17,327,7
+1,1
+the,1
+last,1
+paragraph,1
+is,1
+in,1
+gandhijis,1
+hand,1

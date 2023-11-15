@@ -1,0 +1,9 @@
+7,273,3
+gave,1
+up,1
+job,1
+but,1
+did,1
+not,1
+soil,1
+hands,1

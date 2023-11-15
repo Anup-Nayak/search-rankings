@@ -1,0 +1,11 @@
+29,186,10
+and,1
+earth,1
+on,1
+which,1
+we,1
+are,1
+is,1
+it,1
+not,1
+firm,1

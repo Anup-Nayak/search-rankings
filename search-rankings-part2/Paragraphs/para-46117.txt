@@ -1,0 +1,8 @@
+14,21,10
+obligation,1
+my,1
+opinion,1
+gaol,1
+other,1
+experiences,1
+sub,1

@@ -1,0 +1,15 @@
+85,415,11
+1,1
+namely,1
+hearing,1
+reciting,1
+remembering,1
+waiting,1
+upon,1
+worshipping,1
+doing,1
+obeisance,1
+serving,1
+companionship,1
+and,1
+surrendering,1

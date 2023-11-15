@@ -1,0 +1,8 @@
+14,157,23
+trary,1
+uncalled,1
+for,1
+practice,1
+recognizing,1
+double,1
+or,1

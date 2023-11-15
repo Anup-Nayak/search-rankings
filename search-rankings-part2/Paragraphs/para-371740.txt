@@ -1,0 +1,5 @@
+96,235,1
+331,1
+miracle,1
+or,1
+accident,1

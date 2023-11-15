@@ -1,0 +1,11 @@
+73,145,5
+mahatma,1
+gandhi,1
+replied,1
+that,1
+the,2
+socialists,1
+believing,1
+in,1
+congress,1
+creed,1

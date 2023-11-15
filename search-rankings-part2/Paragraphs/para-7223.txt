@@ -1,0 +1,8 @@
+3,181,12
+own,1
+expense,1
+though,1
+mr,1
+chamberlain,1
+considering,1
+existing,1

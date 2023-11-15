@@ -1,0 +1,8 @@
+77,50,20
+wanted,1
+to,1
+measure,1
+the,2
+strength,1
+of,1
+congress,1

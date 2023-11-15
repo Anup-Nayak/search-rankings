@@ -1,0 +1,15 @@
+64,68,12
+would,1
+like,1
+the,2
+sangh,1
+to,1
+concentrate,1
+on,1
+primary,1
+object,1
+of,1
+securing,1
+full,1
+civic,1
+rights,1

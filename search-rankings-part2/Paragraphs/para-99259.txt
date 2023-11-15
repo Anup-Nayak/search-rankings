@@ -1,0 +1,6 @@
+29,230,8
+184,1
+will,1
+gujarat,1
+accept,1
+defeat,1

@@ -1,0 +1,6 @@
+51,77,4
+declaration,1
+and,1
+aspiration,1
+statement,1
+on,1

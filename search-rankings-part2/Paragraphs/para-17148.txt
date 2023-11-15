@@ -1,0 +1,16 @@
+6,186,6
+hotel,1
+cecil,1
+london,1
+november,1
+29,1
+1906,1
+s,1
+j,1
+meaney,1
+esq,1
+the,1
+colonial,1
+office,1
+downing,1
+street,1

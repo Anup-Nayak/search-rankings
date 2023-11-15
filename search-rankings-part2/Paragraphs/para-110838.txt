@@ -1,0 +1,8 @@
+33,2,10
+blessings,1
+from,2
+bapu,1
+gujarati,1
+bapuna,1
+patromanibehn,1
+patelne,1

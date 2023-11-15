@@ -1,0 +1,12 @@
+36,375,9
+mohandas,1
+gandhi,1
+shri,1
+moolchandji,1
+teacher,1
+a,1
+v,1
+school,1
+manpur,1
+c,1
+i,1

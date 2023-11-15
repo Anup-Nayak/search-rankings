@@ -1,0 +1,6 @@
+94,12,1
+16,1
+extract,1
+from,1
+the,1
+diary,1

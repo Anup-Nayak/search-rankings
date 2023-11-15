@@ -1,0 +1,7 @@
+84,2,4
+3,1
+talk,1
+with,1
+ramdas,1
+gandhi,1
+1,1

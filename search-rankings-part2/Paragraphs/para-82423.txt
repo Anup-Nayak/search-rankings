@@ -1,0 +1,8 @@
+24,185,20
+cease,1
+from,1
+man,1
+and,1
+look,1
+above,1
+thee,1

@@ -1,0 +1,13 @@
+6,45,18
+ought,2
+always,1
+to,2
+succeed,2
+they,1
+certainly,1
+not,1
+in,1
+points,1
+of,1
+detail,1
+which,1

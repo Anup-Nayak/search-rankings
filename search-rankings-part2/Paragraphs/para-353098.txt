@@ -1,0 +1,16 @@
+91,289,10
+if,1
+you,2
+want,1
+to,1
+stand,1
+before,1
+god,1
+must,1
+go,1
+after,1
+shedding,1
+the,1
+robe,1
+of,1
+egoism,1

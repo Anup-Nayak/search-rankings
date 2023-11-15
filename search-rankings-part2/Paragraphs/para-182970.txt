@@ -1,0 +1,6 @@
+52,93,3
+to,1
+the,1
+united,1
+states,1
+etc,1

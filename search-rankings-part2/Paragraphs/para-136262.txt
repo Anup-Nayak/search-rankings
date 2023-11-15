@@ -1,0 +1,7 @@
+39,460,3
+m,1
+a,1
+ansari,1
+1,1
+daryaganj,1
+delhi,1

@@ -1,0 +1,15 @@
+42,460,3
+i,2
+have,2
+no,1
+ability,1
+to,2
+write,1
+articles,1
+order,1
+nor,1
+any,1
+ambition,1
+in,1
+that,1
+direction,1

@@ -1,0 +1,8 @@
+9,322,8
+urgent,1
+letter,1
+received,1
+heidelberg,1
+prisoners,1
+stating,1
+condition,1

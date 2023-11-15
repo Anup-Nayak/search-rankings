@@ -1,0 +1,15 @@
+82,396,24
+england,1
+last,1
+summer,1
+and,1
+stayed,1
+nine,1
+weeks,1
+the,2
+mass,1
+of,1
+people,1
+are,1
+resolved,1
+not,1

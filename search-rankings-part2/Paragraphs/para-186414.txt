@@ -1,0 +1,14 @@
+52,467,19
+first,1
+though,1
+he,2
+did,1
+not,1
+press,1
+this,1
+suggested,1
+that,1
+we,1
+might,1
+accept,1
+the,1

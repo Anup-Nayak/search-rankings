@@ -1,0 +1,6 @@
+64,350,4
+for,1
+relief,1
+hope,1
+floods,1
+subsiding,1

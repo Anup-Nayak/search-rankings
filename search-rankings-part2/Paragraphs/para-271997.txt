@@ -1,0 +1,14 @@
+73,75,10
+gandhiji,1
+who,1
+is,1
+observing,1
+silence,1
+owing,1
+to,1
+ill,1
+health,1
+wrote,1
+the,1
+following,1
+on,1

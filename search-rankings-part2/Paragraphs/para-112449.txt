@@ -1,0 +1,12 @@
+33,253,2
+it,1
+differed,1
+from,1
+all,1
+ancient,1
+wars,1
+in,1
+the,2
+immense,1
+power,1
+of,1

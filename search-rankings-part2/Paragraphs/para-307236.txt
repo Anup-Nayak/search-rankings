@@ -1,0 +1,10 @@
+81,201,14
+4,1
+daughter,1
+of,1
+jamnalal,1
+bajaj,1
+married,1
+to,1
+shriman,1
+narayan,1

@@ -1,0 +1,8 @@
+17,176,10
+4,1
+mother,1
+of,1
+mahomed,1
+ali,2
+and,1
+shaukat,1

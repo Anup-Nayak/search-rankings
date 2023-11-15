@@ -1,0 +1,12 @@
+13,407,10
+mr,1
+gandhi,1
+was,1
+asked,1
+if,1
+he,1
+wished,1
+to,1
+make,1
+a,1
+statement,1

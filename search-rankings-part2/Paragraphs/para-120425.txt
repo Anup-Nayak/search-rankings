@@ -1,0 +1,10 @@
+35,362,5
+v,1
+lawrence,1
+esq,1
+19,1
+foundry,1
+lane,1
+durban,1
+s,1
+africa,1

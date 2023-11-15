@@ -1,0 +1,9 @@
+14,8,13
+take,1
+it,1
+stop,1
+serious,1
+enough,1
+postpone,1
+march,1
+people,1

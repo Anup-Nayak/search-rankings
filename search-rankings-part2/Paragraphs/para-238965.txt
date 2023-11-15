@@ -1,0 +1,7 @@
+65,157,7
+206,1
+letter,1
+to,1
+hari,1
+singh,1
+gaur,1

@@ -1,0 +1,10 @@
+6,88,3
+w,1
+a,1
+wallace,1
+esq,1
+queen,1
+annes,1
+chambers,1
+broadway,1
+westminster,1

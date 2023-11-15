@@ -1,0 +1,4 @@
+15,32,7
+yours,1
+old,1
+friend,1

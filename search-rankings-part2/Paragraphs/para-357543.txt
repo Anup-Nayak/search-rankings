@@ -1,0 +1,11 @@
+92,319,6
+a,2
+it,1
+would,1
+be,1
+good,1
+to,1
+make,1
+bordi,1
+public,1
+institution,1

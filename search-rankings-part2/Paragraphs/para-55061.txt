@@ -1,0 +1,8 @@
+16,28,5
+1,1
+for,1
+the,1
+local,1
+government,1
+to,1
+arbitrate,1

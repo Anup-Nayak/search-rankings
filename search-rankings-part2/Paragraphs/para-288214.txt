@@ -1,0 +1,6 @@
+77,34,16
+congress,1
+ministers,1
+from,1
+provincial,1
+administrations,1

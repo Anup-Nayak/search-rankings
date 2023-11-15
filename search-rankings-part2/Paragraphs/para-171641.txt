@@ -1,0 +1,6 @@
+49,253,5
+gift,1
+from,1
+a,1
+parsi,1
+girl,1

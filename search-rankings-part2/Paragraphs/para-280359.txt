@@ -1,0 +1,5 @@
+75,71,1
+90,1
+untruth,1
+in,1
+newspapers,1

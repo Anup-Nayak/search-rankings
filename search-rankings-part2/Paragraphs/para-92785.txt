@@ -1,0 +1,6 @@
+27,324,2
+289,1
+charkha,1
+in,1
+south,1
+kanara,1

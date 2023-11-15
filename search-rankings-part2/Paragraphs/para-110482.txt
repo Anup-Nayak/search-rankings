@@ -1,0 +1,14 @@
+32,445,4
+kennedy,1
+was,1
+seated,1
+in,1
+the,2
+ranch,1
+house,1
+and,1
+happened,1
+to,1
+glance,1
+into,1
+yard,1

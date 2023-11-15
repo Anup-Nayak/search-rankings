@@ -1,0 +1,8 @@
+27,425,5
+mohandas,1
+gandhi,1
+from,1
+gujarati,1
+narasinhraoni,1
+rojnishi,1
+p,1

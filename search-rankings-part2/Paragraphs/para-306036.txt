@@ -1,0 +1,6 @@
+81,82,9
+1,1
+individual,1
+civil,1
+disobedience,1
+movement,1

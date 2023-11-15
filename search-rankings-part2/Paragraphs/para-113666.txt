@@ -1,0 +1,13 @@
+33,393,3
+m,1
+k,1
+gandhi,1
+khwaja,1
+saheb,1
+abdul,1
+majid,1
+the,1
+national,1
+muslim,1
+university,1
+delhi,1

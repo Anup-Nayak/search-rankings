@@ -1,0 +1,4 @@
+31,84,7
+birla,1
+house,1
+ranchi,1

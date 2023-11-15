@@ -1,0 +1,4 @@
+15,92,8
+february,1
+5,1
+friday,1

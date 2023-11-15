@@ -1,0 +1,12 @@
+5,160,4
+1,1
+sub,1
+inspector,1
+hunt,1
+and,1
+trooper,1
+armstrong,1
+of,1
+the,1
+natal,1
+police,1

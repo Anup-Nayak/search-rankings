@@ -1,0 +1,5 @@
+96,438,14
+the,2
+governor,1
+of,1
+punjab,1

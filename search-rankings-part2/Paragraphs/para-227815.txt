@@ -1,0 +1,11 @@
+62,268,2
+from,2
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+g,1
+n,1
+4812,1
+blessings,1

@@ -1,0 +1,5 @@
+46,96,1
+86,1
+spinning,1
+v,1
+weaving,1

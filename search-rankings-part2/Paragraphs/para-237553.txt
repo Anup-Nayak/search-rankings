@@ -1,0 +1,13 @@
+65,13,7
+shri,1
+l,1
+g,1
+khare,1
+editor,1
+swadeshi,3
+all,1
+india,1
+sangh,1
+market,1
+bombay,1
+2,1

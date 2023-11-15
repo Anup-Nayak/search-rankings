@@ -1,0 +1,12 @@
+21,40,6
+on,1
+the,3
+indenture,1
+question,1
+and,1
+speeches,1
+of,1
+hon,1
+pandit,1
+madan,1
+mohan,1

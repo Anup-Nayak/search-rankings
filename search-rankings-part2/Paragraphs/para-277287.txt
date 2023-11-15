@@ -1,0 +1,10 @@
+74,187,1
+255,1
+message,1
+on,1
+opening,1
+of,1
+khadi,1
+exhibition,1
+peshawar,1
+1,1

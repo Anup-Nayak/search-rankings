@@ -1,0 +1,4 @@
+49,59,4
+a,1
+vicious,1
+insinuation,1

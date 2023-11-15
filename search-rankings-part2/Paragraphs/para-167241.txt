@@ -1,0 +1,6 @@
+48,117,7
+127,1
+telegram,1
+to,1
+vithalbhai,1
+patel,1

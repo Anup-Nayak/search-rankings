@@ -1,0 +1,6 @@
+22,380,4
+202,1
+speech,1
+at,1
+nankana,1
+saheb,1

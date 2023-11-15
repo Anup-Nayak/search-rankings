@@ -1,0 +1,5 @@
+25,64,5
+a,1
+plea,1
+for,1
+spinning,1

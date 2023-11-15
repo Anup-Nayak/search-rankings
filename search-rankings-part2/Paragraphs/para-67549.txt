@@ -1,0 +1,16 @@
+19,242,5
+i,1
+want,1
+to,1
+ask,1
+you,2
+mr,1
+gandhi,1
+have,1
+been,1
+taking,1
+an,1
+interest,1
+in,1
+politics,1
+all,1

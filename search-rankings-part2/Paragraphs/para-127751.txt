@@ -1,0 +1,14 @@
+37,285,7
+all,1
+this,1
+is,2
+declared,1
+to,1
+be,1
+knowledge,1
+and,1
+the,1
+reverse,1
+of,1
+it,1
+ignorance,1

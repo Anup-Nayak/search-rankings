@@ -1,0 +1,14 @@
+39,489,10
+1,1
+no,1
+worry,1
+whatever,1
+there,1
+is,1
+an,2
+almighty,1
+god,1
+who,1
+takes,1
+care,1
+of,1

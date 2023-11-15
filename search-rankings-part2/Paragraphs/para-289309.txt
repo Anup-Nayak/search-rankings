@@ -1,0 +1,11 @@
+77,166,8
+1,1
+only,1
+extracts,1
+from,1
+verrier,1
+elwins,1
+article,1
+are,1
+reproduced,1
+here,1

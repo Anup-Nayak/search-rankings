@@ -1,0 +1,17 @@
+92,225,5
+q,1
+very,1
+few,1
+minorities,1
+representatives,1
+have,1
+been,1
+returned,1
+at,1
+the,1
+elections,1
+what,1
+remedy,1
+do,1
+you,1
+suggest,1

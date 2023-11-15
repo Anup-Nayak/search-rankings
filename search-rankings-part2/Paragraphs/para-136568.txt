@@ -1,0 +1,4 @@
+40,3,4
+mohandas,1
+from,1
+gujarati,1

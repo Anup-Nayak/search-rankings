@@ -1,0 +1,6 @@
+65,385,3
+473,1
+village,1
+industries,1
+in,1
+guntur,1

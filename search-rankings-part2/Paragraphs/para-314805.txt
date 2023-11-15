@@ -1,0 +1,11 @@
+82,388,24
+a,2
+buddha,1
+can,1
+be,1
+the,1
+head,1
+of,1
+non,1
+violent,1
+state,1

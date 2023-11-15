@@ -1,0 +1,15 @@
+96,237,8
+the,3
+principal,1
+question,1
+discussed,1
+was,1
+in,1
+connection,1
+with,1
+relation,1
+between,1
+education,1
+religion,1
+and,1
+state,1

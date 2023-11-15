@@ -1,0 +1,13 @@
+21,86,14
+on,1
+the,2
+25th,1
+july,1
+in,1
+a,1
+public,1
+lecture,1
+at,1
+citizens,1
+association,1
+hydera,1

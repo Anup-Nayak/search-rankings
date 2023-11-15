@@ -1,0 +1,14 @@
+74,14,1
+seems,1
+to,3
+be,2
+do,1
+nothing,1
+through,1
+negotiation,1
+there,1
+is,1
+something,1
+said,1
+for,1
+it,1

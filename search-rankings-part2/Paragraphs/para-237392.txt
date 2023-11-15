@@ -1,0 +1,13 @@
+64,452,19
+or,1
+essential,1
+conditions,1
+thereof,1
+there,1
+are,1
+various,1
+other,1
+matters,1
+connected,1
+with,1
+the,1

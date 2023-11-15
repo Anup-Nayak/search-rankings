@@ -1,0 +1,14 @@
+55,12,10
+from,1
+gujarati,1
+c,2
+w,2
+8964,1
+courtesy,2
+narandas,1
+gandhi,1
+also,1
+9906,1
+shardabehn,1
+g,1
+chokhawala,1

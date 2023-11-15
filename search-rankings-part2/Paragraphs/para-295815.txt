@@ -1,0 +1,9 @@
+78,441,2
+resolution,1
+passed,1
+by,1
+all,1
+india,1
+muslim,1
+league,1
+1,1

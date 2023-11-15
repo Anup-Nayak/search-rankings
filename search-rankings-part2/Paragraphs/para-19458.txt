@@ -1,0 +1,11 @@
+6,500,1
+register,1
+himself,1
+there,1
+will,1
+be,1
+no,1
+fee,1
+for,1
+such,1
+registration,1

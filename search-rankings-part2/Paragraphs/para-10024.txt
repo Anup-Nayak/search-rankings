@@ -1,0 +1,6 @@
+4,226,3
+178,1
+oriental,1
+ideal,1
+of,1
+truth,1

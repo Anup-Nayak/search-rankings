@@ -1,0 +1,14 @@
+54,287,7
+i,1
+was,2
+a,2
+friend,2
+of,1
+romain,1
+rolland,1
+g,1
+why,1
+are,1
+you,1
+not,1
+now,1

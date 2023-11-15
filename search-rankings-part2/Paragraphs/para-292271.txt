@@ -1,0 +1,10 @@
+78,67,2
+1,1
+vide,1
+speech,1
+at,1
+chowpatty,1
+bombay,1
+6,1
+4,1
+1919,1

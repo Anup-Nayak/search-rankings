@@ -1,0 +1,8 @@
+11,160,5
+tolstoy,1
+farm,1
+after,1
+november,1
+16,1
+1910,1
+3,1

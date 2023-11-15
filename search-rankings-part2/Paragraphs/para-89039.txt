@@ -1,0 +1,7 @@
+26,289,7
+there,1
+will,1
+be,1
+no,2
+hartal,1
+demonstra,1

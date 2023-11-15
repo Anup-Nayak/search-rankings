@@ -1,0 +1,9 @@
+53,203,13
+asked,1
+was,1
+paid,1
+not,1
+because,2
+of,2
+ability,1
+but,1

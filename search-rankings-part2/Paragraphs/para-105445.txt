@@ -1,0 +1,7 @@
+31,135,4
+to,1
+be,1
+attained,1
+a,1
+friend,1
+writes,1

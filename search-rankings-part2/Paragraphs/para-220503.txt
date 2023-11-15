@@ -1,0 +1,7 @@
+60,430,7
+may,1
+god,1
+spare,1
+you,1
+wire,1
+progress,1

@@ -1,0 +1,17 @@
+64,226,12
+as,1
+an,1
+expert,1
+in,1
+the,1
+science,1
+he,1
+would,1
+advise,1
+them,1
+to,1
+exhaust,1
+all,1
+other,1
+avenues,1
+of,1

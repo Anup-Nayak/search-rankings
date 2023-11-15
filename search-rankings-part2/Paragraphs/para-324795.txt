@@ -1,0 +1,6 @@
+85,104,7
+138,1
+letter,1
+to,1
+balkrishna,1
+bhave,1

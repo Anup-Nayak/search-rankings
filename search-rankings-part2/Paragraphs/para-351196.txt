@@ -1,0 +1,7 @@
+91,76,1
+93,1
+letter,1
+to,1
+hosa,1
+rashid,1
+khan,1

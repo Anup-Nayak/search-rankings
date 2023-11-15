@@ -1,0 +1,17 @@
+34,404,3
+sister,1
+urmila,1
+devi,1
+4,1
+a,1
+nafar,1
+kundu,1
+road,1
+calcutta,1
+c/o,1
+justice,1
+das,1
+ali,1
+manzil,1
+patna,1
+1,1

@@ -1,0 +1,10 @@
+39,148,2
+158,1
+the,1
+dilemma,1
+of,1
+a,2
+student,2
+simple,1
+hearted,1
+writes,1

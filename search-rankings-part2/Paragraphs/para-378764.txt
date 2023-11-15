@@ -1,0 +1,7 @@
+98,222,1
+238,1
+talk,1
+with,1
+a,1
+sikh,1
+friend1,1

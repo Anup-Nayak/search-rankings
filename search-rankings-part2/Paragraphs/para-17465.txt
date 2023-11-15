@@ -1,0 +1,4 @@
+6,231,6
+permits,1
+for,1
+boys,1

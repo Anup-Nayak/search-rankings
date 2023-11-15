@@ -1,0 +1,13 @@
+76,16,2
+blessings,1
+from,1
+bapu,1
+shri,1
+nirmalabehn,1
+gandhi,1
+kanya,1
+gurukula,1
+dehra,1
+dun,1
+u,1
+p,1

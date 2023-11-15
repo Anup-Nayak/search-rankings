@@ -1,0 +1,8 @@
+61,389,7
+492,1
+talk,1
+with,1
+a,1
+japanese,1
+monk,1
+2,1

@@ -1,0 +1,8 @@
+34,375,3
+114,1
+letter,1
+to,1
+p,1
+s,1
+r,1
+chowdhury,1

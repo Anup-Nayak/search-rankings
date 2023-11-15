@@ -1,0 +1,6 @@
+25,32,2
+the,1
+names,1
+rama,1
+and,1
+rahim,1

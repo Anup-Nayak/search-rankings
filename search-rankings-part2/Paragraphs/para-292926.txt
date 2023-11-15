@@ -1,0 +1,15 @@
+78,145,5
+dear,1
+sir,1
+akbar,1
+you,1
+have,1
+given,1
+me,1
+stone,1
+when,1
+i,1
+had,1
+asked,1
+for,1
+bread,1

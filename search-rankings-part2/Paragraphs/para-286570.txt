@@ -1,0 +1,7 @@
+76,295,8
+if,1
+trustees,1
+permission,1
+necessary,1
+for,1
+transfer,1

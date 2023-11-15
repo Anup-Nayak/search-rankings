@@ -1,0 +1,8 @@
+54,348,4
+people,1
+who,1
+have,1
+exhausted,1
+all,1
+other,1
+means,1

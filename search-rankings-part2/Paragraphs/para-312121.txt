@@ -1,0 +1,5 @@
+82,185,2
+hissar,1
+famine,1
+and,1
+spinning,1

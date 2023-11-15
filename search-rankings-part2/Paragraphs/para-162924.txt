@@ -1,0 +1,5 @@
+47,64,3
+my,1
+dear,1
+niranjan,1
+babu,1

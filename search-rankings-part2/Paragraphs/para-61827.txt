@@ -1,0 +1,7 @@
+17,369,4
+just,1
+arrived2,1
+having,1
+missed,1
+connection,1
+at,1

@@ -1,0 +1,7 @@
+65,364,7
+dabbi,1
+bazar,1
+mohalla,1
+sarin,1
+kucha,1
+zargran,1

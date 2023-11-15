@@ -1,0 +1,7 @@
+87,114,4
+negro,1
+and,1
+other,1
+exploited,1
+races,1
+freedom,1

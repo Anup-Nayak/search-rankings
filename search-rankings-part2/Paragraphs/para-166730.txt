@@ -1,0 +1,5 @@
+48,48,2
+ashram,1
+bhajanono,1
+swadhyaya,1
+p,1

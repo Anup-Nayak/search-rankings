@@ -1,0 +1,6 @@
+5,342,4
+of,1
+the,1
+transvaal,1
+and,1
+johannesburg,1

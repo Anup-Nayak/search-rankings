@@ -1,0 +1,17 @@
+81,445,4
+q,1
+can,1
+a,2
+congressman,1
+belong,1
+to,1
+r,1
+p,1
+and,1
+such,1
+other,1
+committees,1
+connected,1
+with,1
+the,1
+war,1

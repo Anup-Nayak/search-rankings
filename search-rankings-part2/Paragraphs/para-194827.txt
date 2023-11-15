@@ -1,0 +1,8 @@
+54,463,20
+government,1
+cannot,1
+reconcile,1
+activities,1
+of,1
+the,1
+congress,1

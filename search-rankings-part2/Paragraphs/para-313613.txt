@@ -1,0 +1,15 @@
+82,310,11
+poor,1
+who,1
+very,1
+often,1
+have,1
+to,3
+depend,1
+only,1
+on,1
+salt,1
+enable,1
+them,1
+gulp,1
+the,1

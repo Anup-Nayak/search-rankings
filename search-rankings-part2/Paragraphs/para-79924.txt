@@ -1,0 +1,12 @@
+23,281,4
+this,1
+that,1
+they,2
+have,2
+oppressed,1
+the,1
+poor,1
+where,1
+pity,1
+was,1
+needed,1

@@ -1,0 +1,10 @@
+79,383,3
+amtussalaam,1
+c/o,1
+anand,1
+hingorani,1
+upper,1
+sind,1
+colony,1
+karachi,1
+sadar,1

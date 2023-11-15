@@ -1,0 +1,13 @@
+15,91,5
+january,1
+21,1
+thursday,1
+left,1
+rajkot,1
+arrived,1
+in,1
+jetpur,1
+addressesstayed,1
+overnight,1
+shukla,1
+accompanied,1

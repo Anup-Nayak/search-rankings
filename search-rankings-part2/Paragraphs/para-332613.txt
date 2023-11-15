@@ -1,0 +1,7 @@
+86,383,5
+sending,1
+more,1
+advance,1
+kashmirs,1
+capital,1
+position,1

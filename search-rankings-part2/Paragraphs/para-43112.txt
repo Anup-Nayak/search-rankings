@@ -1,0 +1,16 @@
+13,153,7
+7,1
+is,1
+it,1
+necessary,1
+that,1
+there,1
+should,1
+be,1
+only,1
+one,1
+religion,1
+for,1
+the,1
+whole,1
+world,1

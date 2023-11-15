@@ -1,0 +1,6 @@
+79,469,8
+1,1
+vide,1
+some,1
+criticism,1
+answered,1

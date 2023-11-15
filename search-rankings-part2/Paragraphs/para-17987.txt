@@ -1,0 +1,4 @@
+6,303,3
+shiya,1
+and,1
+sunni,1

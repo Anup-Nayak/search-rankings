@@ -1,0 +1,16 @@
+11,27,9
+1,1
+vide,2
+also,1
+pretoria,1
+municipality,1
+30,1
+4,2
+1910,2
+2,1
+petition,1
+to,1
+transvaal,1
+legislative,1
+assembly,1
+25,1

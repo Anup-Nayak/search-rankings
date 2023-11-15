@@ -1,0 +1,6 @@
+28,188,5
+a,1
+lady,1
+teacher,1
+writes,1
+2,1

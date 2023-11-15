@@ -1,0 +1,10 @@
+1,124,14
+1,1
+c,1
+bird,1
+principal,1
+under,1
+secretary,1
+colonial,1
+office,1
+pietermaritzburg,1

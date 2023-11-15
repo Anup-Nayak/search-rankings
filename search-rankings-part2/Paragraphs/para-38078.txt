@@ -1,0 +1,10 @@
+11,491,2
+telegram,1
+to,2
+gandhiji,1
+from,1
+private,1
+secretary,1
+minister,1
+of,1
+interior,1

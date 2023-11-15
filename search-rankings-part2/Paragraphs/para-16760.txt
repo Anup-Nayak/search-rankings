@@ -1,0 +1,15 @@
+6,145,19
+indians,2
+who,1
+want,1
+to,1
+engage,1
+in,1
+this,1
+work,1
+are,1
+more,1
+patient,1
+and,1
+succeed,1
+better,1

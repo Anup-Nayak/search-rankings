@@ -1,0 +1,11 @@
+45,263,11
+mohandas,1
+gandhi,1
+shri,1
+pannalal,1
+jain,1
+kalyanmal,1
+mills,1
+indore,1
+from,1
+hindi,1

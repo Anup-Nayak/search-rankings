@@ -1,0 +1,5 @@
+22,464,4
+but,1
+what,1
+about,1
+education,1

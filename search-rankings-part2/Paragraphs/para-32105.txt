@@ -1,0 +1,4 @@
+10,320,2
+expenditure,1
+on,1
+deputation,1

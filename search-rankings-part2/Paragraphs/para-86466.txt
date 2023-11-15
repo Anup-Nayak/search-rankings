@@ -1,0 +1,11 @@
+25,344,4
+loin,1
+cloth,1
+there,1
+was,1
+an,1
+enthusiastically,1
+devotional,1
+and,1
+deafening,1
+applause,1

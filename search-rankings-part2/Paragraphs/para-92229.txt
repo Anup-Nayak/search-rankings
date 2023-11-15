@@ -1,0 +1,6 @@
+27,224,1
+233,1
+telegram,1
+to,1
+george,1
+joseph,1

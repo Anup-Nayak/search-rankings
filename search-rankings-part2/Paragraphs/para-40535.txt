@@ -1,0 +1,17 @@
+12,320,6
+letters,1
+editor,1
+manilal,1
+doctor,1
+anandlal,1
+chhaganlal,1
+pranjivan,1
+k,1
+went,1
+to,1
+town,1
+&,1
+returned,1
+stamps,1
+0,2
+2,1

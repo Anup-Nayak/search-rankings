@@ -1,0 +1,5 @@
+84,424,4
+gandhi,1
+jinnah,1
+talks,1
+pp,1

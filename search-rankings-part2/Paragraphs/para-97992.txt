@@ -1,0 +1,6 @@
+29,75,2
+55,1
+khadi,1
+bhandar,1
+in,1
+bombay,1

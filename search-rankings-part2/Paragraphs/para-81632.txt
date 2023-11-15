@@ -1,0 +1,17 @@
+24,55,4
+1,1
+gandhiji,1
+arrived,1
+in,1
+lucknow,1
+from,1
+aligarh,1
+on,1
+this,1
+date,1
+which,1
+was,1
+a,1
+sunday,1
+2,1
+allahabad,1

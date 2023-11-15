@@ -1,0 +1,6 @@
+74,421,10
+548,1
+love,1
+a,1
+universal,1
+virtue,1

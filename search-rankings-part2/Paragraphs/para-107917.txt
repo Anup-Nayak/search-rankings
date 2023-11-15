@@ -1,0 +1,7 @@
+32,0,5
+2,2
+telegram,1
+to,1
+basanti,1
+devi,1
+das,1

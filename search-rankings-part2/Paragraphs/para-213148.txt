@@ -1,0 +1,7 @@
+59,93,5
+139,1
+letter,1
+to,1
+begum,1
+mohammad,1
+alam,1

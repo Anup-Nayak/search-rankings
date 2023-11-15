@@ -1,0 +1,11 @@
+42,144,2
+blessings,1
+from,1
+sjt,1
+k,1
+s,2
+subramaniam,1
+a,2
+i,1
+mirzapur,1
+ahmedabad,1

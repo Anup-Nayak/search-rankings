@@ -1,0 +1,7 @@
+28,35,3
+a,1
+teacher,1
+writes,1
+to,1
+say,1
+1,1

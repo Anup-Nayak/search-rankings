@@ -1,0 +1,10 @@
+36,52,5
+bapu,1
+mrs,1
+esther,1
+menon,1
+porto,1
+novo,1
+s,1
+i,1
+r,1

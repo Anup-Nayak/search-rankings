@@ -1,0 +1,14 @@
+13,176,3
+b,1
+the,3
+right,1
+of,1
+south,1
+african,1
+indians,1
+to,1
+enter,1
+cape,1
+is,1
+taken,1
+away,1

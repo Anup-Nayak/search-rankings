@@ -1,0 +1,10 @@
+7,428,8
+for,1
+an,1
+essay,1
+on,1
+the,1
+ethics,1
+of,1
+passive,1
+resistance,1

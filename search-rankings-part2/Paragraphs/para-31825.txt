@@ -1,0 +1,8 @@
+10,279,2
+1,1
+sages,1
+and,2
+ascetics,1
+2,1
+lawyers,1
+doctors,1

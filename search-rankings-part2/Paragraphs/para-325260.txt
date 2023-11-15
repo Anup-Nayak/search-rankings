@@ -1,0 +1,6 @@
+85,147,6
+214,1
+letter,1
+to,1
+cowasji,1
+jehangir,1

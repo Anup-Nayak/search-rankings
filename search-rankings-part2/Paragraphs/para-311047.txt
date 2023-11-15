@@ -1,0 +1,10 @@
+82,100,6
+it,1
+is,2
+a,1
+good,2
+sign,1
+that,1
+satyawati,1
+keeping,1
+health,1

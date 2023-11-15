@@ -1,0 +1,5 @@
+12,1,3
+2,1
+indias,1
+sorry,1
+plight,1

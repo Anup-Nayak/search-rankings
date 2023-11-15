@@ -1,0 +1,7 @@
+86,27,9
+blessings,1
+from,2
+m,1
+k,1
+gandhi,1
+gujarati,1

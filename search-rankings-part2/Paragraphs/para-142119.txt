@@ -1,0 +1,8 @@
+41,369,1
+424,1
+letter,1
+to,1
+frederic,1
+and,1
+francisca,1
+standenath,1

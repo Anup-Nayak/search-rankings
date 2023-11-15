@@ -1,0 +1,15 @@
+82,95,3
+country,1
+one,1
+comes,1
+across,1
+such,1
+people,1
+with,1
+differing,1
+degrees,1
+of,1
+zeal,1
+how,1
+can,1
+we,1

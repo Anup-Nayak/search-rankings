@@ -1,0 +1,8 @@
+15,120,19
+1,1
+vide,1
+speech,1
+at,1
+gondal,1
+on,1
+gokhale,1

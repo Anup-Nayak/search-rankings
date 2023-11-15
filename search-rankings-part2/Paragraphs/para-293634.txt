@@ -1,0 +1,14 @@
+78,208,8
+q,1
+why,1
+do,1
+you,1
+say,1
+democracy,1
+can,1
+only,1
+be,1
+saved,1
+through,1
+non,1
+violence,1

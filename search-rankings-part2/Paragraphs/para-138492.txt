@@ -1,0 +1,10 @@
+40,344,8
+blessings,1
+from,1
+bapu,1
+sjt,1
+tulsi,1
+maher,1
+charkha,1
+pracharak,1
+nepal,1

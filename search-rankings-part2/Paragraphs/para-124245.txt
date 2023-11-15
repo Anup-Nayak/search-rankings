@@ -1,0 +1,7 @@
+36,338,4
+387,1
+non,1
+resistance,1
+true,1
+and,1
+false,1

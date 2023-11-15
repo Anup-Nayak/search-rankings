@@ -1,0 +1,5 @@
+20,115,7
+a,1
+yes,1
+generally,1
+speaking,1

@@ -1,0 +1,10 @@
+22,192,8
+full,1
+many,1
+a,1
+flower,1
+is,1
+born,1
+to,1
+blush,1
+unseen,1

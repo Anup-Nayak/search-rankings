@@ -1,0 +1,15 @@
+96,249,21
+professor,1
+nelson,1
+asked,1
+him,1
+why,1
+it,1
+was,1
+that,1
+indians,1
+who,1
+had,1
+more,1
+or,1
+less,1

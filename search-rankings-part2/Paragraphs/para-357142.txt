@@ -1,0 +1,6 @@
+92,274,4
+396,1
+letter,1
+to,1
+potti,1
+sriramulu,1

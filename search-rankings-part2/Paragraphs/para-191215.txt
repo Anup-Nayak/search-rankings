@@ -1,0 +1,17 @@
+54,37,3
+q,1
+did,1
+any,2
+book,1
+ever,1
+affect,1
+you,1
+supremely,1
+and,1
+was,1
+there,1
+turning,1
+point,1
+in,1
+your,1
+life,1

@@ -1,0 +1,11 @@
+71,321,18
+this,1
+happened,1
+on,2
+two,1
+occasions,1
+the,2
+third,1
+occasion,1
+secretary,1
+of,1

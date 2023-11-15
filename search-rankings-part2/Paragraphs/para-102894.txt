@@ -1,0 +1,11 @@
+30,211,15
+q,1
+were,1
+not,1
+the,1
+people,1
+of,1
+far,1
+off,1
+places,1
+there,1

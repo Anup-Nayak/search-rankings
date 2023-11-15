@@ -1,0 +1,10 @@
+42,59,2
+bapu,1
+sjt,1
+satis,1
+ch,1
+das,1
+gupta,1
+khadi,1
+pratishthan,1
+sodepur,1

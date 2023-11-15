@@ -1,0 +1,12 @@
+1,60,8
+2,1
+indian,2
+merchant,1
+of,2
+johannesburg,1
+and,1
+active,1
+member,1
+the,1
+natal,1
+congress,1

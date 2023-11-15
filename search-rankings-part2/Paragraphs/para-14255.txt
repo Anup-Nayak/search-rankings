@@ -1,0 +1,7 @@
+5,394,4
+a,1
+talk,1
+with,1
+sir,1
+richard,1
+solomon,1

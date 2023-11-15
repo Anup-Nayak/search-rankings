@@ -1,0 +1,6 @@
+5,232,5
+229,1
+the,1
+natal,1
+smallpox,1
+act,1

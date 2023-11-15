@@ -1,0 +1,9 @@
+18,39,4
+who,1
+may,1
+not,1
+follow,1
+whole,1
+of,1
+our,1
+plan,1

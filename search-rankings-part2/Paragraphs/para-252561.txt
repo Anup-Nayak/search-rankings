@@ -1,0 +1,12 @@
+68,144,9
+1,1
+the,2
+superscription,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+ramdas,1
+gandhis,1
+daughter,1

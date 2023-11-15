@@ -1,0 +1,10 @@
+22,82,10
+1,1
+bhagavad,1
+gita,1
+v,1
+18,1
+2,1
+in,1
+south,1
+africa,1

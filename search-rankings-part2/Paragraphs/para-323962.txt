@@ -1,0 +1,16 @@
+85,17,8
+j,1
+besides,1
+food,1
+for,1
+the,3
+worker,1
+there,1
+is,1
+burden,1
+of,3
+his,2
+family,1
+education,1
+children,1
+etc,1

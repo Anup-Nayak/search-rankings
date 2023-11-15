@@ -1,0 +1,8 @@
+16,186,3
+90,1
+resolution,1
+at,1
+all,1
+india,1
+social,1
+service,1

@@ -1,0 +1,6 @@
+52,80,3
+106,1
+message,1
+to,1
+labourers,1
+karachi,1

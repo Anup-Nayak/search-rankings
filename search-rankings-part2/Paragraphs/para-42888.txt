@@ -1,0 +1,7 @@
+13,143,1
+97,1
+telegram,1
+to,1
+sir,1
+david,1
+hunter,1

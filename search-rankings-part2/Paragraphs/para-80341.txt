@@ -1,0 +1,10 @@
+23,339,2
+bombay,1
+june,1
+28,1
+1921,1
+pandit,1
+madan,1
+mohan,1
+malaviya,1
+simla,1

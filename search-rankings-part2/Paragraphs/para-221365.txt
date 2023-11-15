@@ -1,0 +1,7 @@
+61,28,2
+1,1
+deny,1
+the,2
+supremacy,1
+of,1
+brahmins,1

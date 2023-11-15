@@ -1,0 +1,8 @@
+63,175,1
+186,1
+speech,1
+at,1
+christkula,1
+ashram,1
+1,1
+tiruppattur,1

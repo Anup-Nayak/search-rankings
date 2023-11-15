@@ -1,0 +1,11 @@
+85,184,6
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10493,1
+courtesy,1
+omeyo,1
+kumar,1
+das,1

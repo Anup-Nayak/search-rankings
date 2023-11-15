@@ -1,0 +1,17 @@
+46,291,8
+ask,1
+me,1
+if,1
+you,1
+fail,1
+to,1
+understand,1
+anything,1
+i,1
+shall,1
+reach,1
+allahabad,1
+on,1
+the,1
+25th,1
+morning,1

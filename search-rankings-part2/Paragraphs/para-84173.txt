@@ -1,0 +1,12 @@
+24,472,33
+disallowed,1
+in,2
+hindu,1
+and,1
+muslim,1
+scriptures,1
+a,2
+country,1
+like,1
+india,1
+national,1

@@ -1,0 +1,6 @@
+34,464,2
+yours,1
+maulana,1
+mohammed,1
+ali,1
+delhi,1

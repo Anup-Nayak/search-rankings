@@ -1,0 +1,10 @@
+30,244,5
+1,1
+to,1
+destroy,1
+the,1
+wicked,1
+bhagavad,1
+gita,1
+iv,1
+8,1

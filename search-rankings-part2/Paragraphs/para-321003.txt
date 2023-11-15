@@ -1,0 +1,13 @@
+84,174,5
+from,1
+the,1
+gujarati,1
+original,1
+pyarelal,1
+papers,1
+courtesy,1
+beldevi,1
+nayyar,2
+and,1
+dr,1
+sushila,1

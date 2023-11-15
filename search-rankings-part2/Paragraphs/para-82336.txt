@@ -1,0 +1,6 @@
+24,176,3
+bapu,1
+my,1
+dear,1
+child,1
+pp,1

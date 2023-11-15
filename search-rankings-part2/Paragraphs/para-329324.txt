@@ -1,0 +1,8 @@
+86,64,10
+therefore,1
+it,1
+seems,1
+meeting,1
+as,1
+originally,1
+fixed,1

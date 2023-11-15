@@ -1,0 +1,15 @@
+75,262,7
+1,1
+satish,1
+d,1
+kalelkar,1
+who,1
+later,1
+married,1
+the,2
+addressee,1
+2,1
+as,1
+in,1
+letter,1
+paper,1

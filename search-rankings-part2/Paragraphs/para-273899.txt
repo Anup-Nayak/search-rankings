@@ -1,0 +1,6 @@
+73,298,3
+368,1
+lettter,1
+to,1
+vallabhbhai,1
+patel,1

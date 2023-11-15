@@ -1,0 +1,7 @@
+29,300,3
+no,1
+importunity,1
+needed,1
+would,1
+have,1
+gladly,1

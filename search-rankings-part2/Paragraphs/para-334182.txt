@@ -1,0 +1,7 @@
+87,89,1
+156,1
+letter,1
+to,1
+vichitra,1
+narayan,1
+sharma,1

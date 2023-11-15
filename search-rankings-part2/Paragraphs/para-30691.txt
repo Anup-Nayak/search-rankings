@@ -1,0 +1,8 @@
+10,102,7
+passively,1
+resist,1
+utmost,1
+chinese,1
+association,1
+2nd,1
+cablegram,1

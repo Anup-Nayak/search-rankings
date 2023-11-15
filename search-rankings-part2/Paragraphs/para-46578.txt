@@ -1,0 +1,9 @@
+14,78,4
+74,1
+untimely,1
+death,1
+of,1
+a,1
+young,1
+passive,1
+resister,1

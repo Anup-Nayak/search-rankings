@@ -1,0 +1,12 @@
+6,152,9
+i,2
+have,1
+had,2
+the,1
+telephone,1
+message,1
+from,1
+you,1
+but,1
+not,1
+sic,1

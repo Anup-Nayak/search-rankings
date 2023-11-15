@@ -1,0 +1,9 @@
+3,27,7
+from,1
+the,2
+photostat,1
+of,1
+original,1
+s,1
+n,1
+4100,1

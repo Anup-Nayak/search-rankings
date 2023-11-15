@@ -1,0 +1,9 @@
+49,100,4
+bapu,1
+silence,2
+day,1
+or,1
+night,1
+breaks,1
+at,1
+midnight,1

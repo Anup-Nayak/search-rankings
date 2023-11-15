@@ -1,0 +1,13 @@
+82,171,6
+q,1
+from,1
+your,2
+writings,1
+one,1
+gathers,1
+the,1
+notion,1
+that,1
+trustee,1
+is,1
+not,1

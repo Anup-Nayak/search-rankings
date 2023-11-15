@@ -1,0 +1,13 @@
+46,23,3
+in,1
+some,1
+cases,1
+to,1
+postal,1
+charges,1
+exceeded,1
+the,2
+price,1
+of,1
+yarn,1
+sent,1

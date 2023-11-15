@@ -1,0 +1,12 @@
+56,297,11
+2,1
+zohra,1
+banu,1
+ansari,1
+addressees,1
+daughter,1
+3,1
+this,1
+is,1
+in,1
+urdu,1

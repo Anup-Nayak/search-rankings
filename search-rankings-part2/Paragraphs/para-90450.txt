@@ -1,0 +1,14 @@
+27,15,10
+doctrine,1
+of,2
+non,1
+violence,1
+would,1
+be,1
+welcome,1
+to,1
+mahatmaji,1
+but,1
+the,1
+value,1
+such,1

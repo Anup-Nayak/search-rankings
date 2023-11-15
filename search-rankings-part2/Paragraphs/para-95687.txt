@@ -1,0 +1,5 @@
+28,247,1
+134,1
+defeated,1
+and,1
+humbled,1

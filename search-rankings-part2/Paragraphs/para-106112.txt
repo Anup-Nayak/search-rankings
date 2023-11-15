@@ -1,0 +1,15 @@
+31,225,11
+1,1
+god,1
+2,1
+the,1
+grove,1
+lucus,1
+is,1
+so,1
+named,1
+from,1
+its,1
+not,1
+shining,1
+lucendo,1

@@ -1,0 +1,6 @@
+71,68,4
+1,1
+harijan,2
+sevak,1
+and,1
+harijanbandhu,1

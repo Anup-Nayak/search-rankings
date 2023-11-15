@@ -1,0 +1,9 @@
+50,414,5
+from,1
+a,1
+photostat,1
+the,1
+gujarati,1
+g,1
+n,1
+4780,1

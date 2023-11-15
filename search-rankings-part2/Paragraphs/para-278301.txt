@@ -1,0 +1,11 @@
+74,303,12
+rural,1
+economics,1
+book,1
+keeping,1
+and,2
+health,1
+hygiene,1
+are,1
+also,1
+taught,1

@@ -1,0 +1,9 @@
+79,126,10
+to,1
+shaft,1
+and,1
+spear,1
+than,1
+answer,1
+blow,2
+with,1

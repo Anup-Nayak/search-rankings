@@ -1,0 +1,13 @@
+93,302,5
+the,2
+worst,1
+of,1
+men,1
+is,2
+a,2
+bad,1
+learned,2
+man,2
+and,1
+good,1
+best,1

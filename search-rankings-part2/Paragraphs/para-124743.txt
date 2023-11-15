@@ -1,0 +1,12 @@
+36,395,9
+457,1
+letter,1
+to,1
+ramdas,1
+gandhi,1
+ashram,1
+sabarmati,1
+tuesday,1
+october,1
+12,1
+1926,1

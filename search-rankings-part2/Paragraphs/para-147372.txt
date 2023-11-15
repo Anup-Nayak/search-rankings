@@ -1,0 +1,12 @@
+43,34,3
+and,2
+we,1
+need,1
+the,2
+requisite,1
+strength,2
+for,1
+effort,1
+that,1
+will,1
+be,1

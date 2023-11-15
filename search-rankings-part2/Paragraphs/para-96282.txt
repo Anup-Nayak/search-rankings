@@ -1,0 +1,16 @@
+28,346,11
+was,1
+given,1
+a,1
+charpai,1
+but,1
+i,2
+refused,1
+it,1
+because,1
+you,1
+know,1
+always,1
+prefer,1
+to,1
+sleep,1

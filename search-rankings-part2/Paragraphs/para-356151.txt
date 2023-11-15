@@ -1,0 +1,6 @@
+92,169,9
+bapu,1
+sjt,1
+morarji,1
+desai,1
+minister,1

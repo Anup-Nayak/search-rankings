@@ -1,0 +1,8 @@
+17,190,6
+1,1
+a,1
+semi,1
+liquid,1
+preparation,1
+of,1
+rice,1

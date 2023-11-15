@@ -1,0 +1,9 @@
+13,430,29
+and,1
+eggs,1
+strike,1
+dissolved,1
+by,1
+gaoler,1
+promising,1
+relief,1

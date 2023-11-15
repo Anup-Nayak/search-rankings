@@ -1,0 +1,10 @@
+82,387,17
+public,2
+opinion,2
+for,1
+that,1
+is,1
+not,1
+yet,1
+sufficiently,1
+organized,1

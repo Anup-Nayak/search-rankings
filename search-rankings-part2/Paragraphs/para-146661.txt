@@ -1,0 +1,17 @@
+42,435,5
+primary,1
+cost,1
+of,1
+production,1
+6,3
+4,1
+2,1
+sale,1
+price,1
+re,1
+0,1
+10,1
+9,1
+per,1
+yd,1
+11,1

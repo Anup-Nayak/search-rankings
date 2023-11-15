@@ -1,0 +1,8 @@
+27,176,1
+192,1
+letter,1
+to,1
+dr,1
+g,1
+b,1
+talwalkar,1

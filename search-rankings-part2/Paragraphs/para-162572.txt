@@ -1,0 +1,5 @@
+47,25,4
+income,1
+group,1
+families,1
+percentage,1

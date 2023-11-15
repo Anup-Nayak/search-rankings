@@ -1,0 +1,9 @@
+2,22,10
+2,1
+the,2
+reference,1
+is,1
+to,1
+attack,1
+on,1
+gandhiji,1

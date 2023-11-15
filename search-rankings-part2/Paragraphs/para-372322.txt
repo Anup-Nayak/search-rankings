@@ -1,0 +1,13 @@
+96,291,4
+absorbed,1
+into,1
+the,2
+civil,1
+life,1
+and,1
+serve,1
+country,1
+once,1
+a,2
+soldier,2
+always,1

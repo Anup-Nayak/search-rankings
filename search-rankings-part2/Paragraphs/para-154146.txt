@@ -1,0 +1,6 @@
+44,481,21
+t1,1
+guj,1
+has,1
+black,1
+collar,1

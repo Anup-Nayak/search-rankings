@@ -1,0 +1,8 @@
+35,107,2
+the,1
+ashram,1
+sabarmati,1
+ahmedabad,1
+april,1
+20,1
+1926,1

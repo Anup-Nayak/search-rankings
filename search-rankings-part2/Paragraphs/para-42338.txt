@@ -1,0 +1,9 @@
+13,69,7
+reme,1
+court,1
+cherished,1
+privilege,1
+stop,1
+both,1
+previous,1
+bills,1

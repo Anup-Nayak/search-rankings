@@ -1,0 +1,15 @@
+66,278,10
+1,1
+all,1
+india,1
+village,1
+industries,1
+association,1
+2,1
+dr,1
+gopichand,1
+bhargava,1
+vide,1
+the,1
+following,1
+item,1

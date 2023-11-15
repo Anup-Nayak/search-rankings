@@ -1,0 +1,16 @@
+90,298,4
+i,1
+do,1
+not,1
+deny,1
+that,1
+there,1
+are,1
+bad,1
+boys,1
+amongst,1
+us,2
+but,1
+you,1
+can,1
+cure,1

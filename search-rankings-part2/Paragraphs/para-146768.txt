@@ -1,0 +1,9 @@
+42,447,7
+vinzane,1
+p,1
+o,1
+halkarni,1
+mahal,1
+chandgad,1
+dt,1
+belgaum,1

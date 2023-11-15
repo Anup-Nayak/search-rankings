@@ -1,0 +1,10 @@
+67,253,6
+miss,1
+padmaja,1
+naidu,1
+c/o,1
+shuaib,1
+qureshi,1
+prime,1
+minister,1
+bhopal,1

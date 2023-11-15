@@ -1,0 +1,7 @@
+5,367,4
+johannesburg,1
+september,1
+27,1
+1906,1
+editor,1
+leader,1

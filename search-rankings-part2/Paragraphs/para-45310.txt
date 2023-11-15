@@ -1,0 +1,7 @@
+13,436,8
+roy,1
+imperial,1
+ministers,1
+any,1
+temporal,1
+power,1

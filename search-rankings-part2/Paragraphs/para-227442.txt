@@ -1,0 +1,7 @@
+62,224,1
+240,1
+speech,1
+at,1
+baloda,1
+bazaar,1
+1,1

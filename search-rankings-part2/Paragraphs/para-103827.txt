@@ -1,0 +1,17 @@
+30,325,1
+can,1
+understand,1
+somewhat,1
+the,3
+closing,1
+of,1
+college,1
+is,1
+it,1
+necessary,1
+to,1
+close,1
+schools,1
+also,1
+with,1
+love,1

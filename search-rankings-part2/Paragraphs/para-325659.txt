@@ -1,0 +1,7 @@
+85,180,4
+blessings,1
+from,1
+bapu,1
+jivanlal,1
+diwan,1
+ahmedabad,1

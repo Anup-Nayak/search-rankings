@@ -1,0 +1,16 @@
+47,72,1
+preside,1
+over,1
+a,1
+meeting,1
+held,1
+at,1
+the,2
+vanita,1
+vishram,1
+in,1
+aid,1
+of,1
+above,1
+mentioned,1
+home,1

@@ -1,0 +1,6 @@
+18,416,2
+of,1
+temporary,1
+and,1
+permanent,1
+value,1

@@ -1,0 +1,6 @@
+39,203,2
+bangalore,1
+monday,1
+july,1
+11,1
+1927,1

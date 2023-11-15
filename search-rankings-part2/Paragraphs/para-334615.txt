@@ -1,0 +1,8 @@
+87,132,18
+use,1
+of,1
+word,1
+independence,1
+accordingly,1
+it,1
+seems,1

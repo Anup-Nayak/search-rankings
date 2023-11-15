@@ -1,0 +1,10 @@
+45,400,1
+389,1
+parents,1
+opposition,1
+a,1
+resident,1
+of,1
+bombay,1
+write,1
+1,1

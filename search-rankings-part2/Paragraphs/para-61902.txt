@@ -1,0 +1,14 @@
+17,373,9
+2,1
+r,1
+n,1
+mandlik,1
+a,1
+member,1
+of,1
+the,1
+executive,1
+committee,1
+satyagraha,1
+sabha,1
+bombay,1

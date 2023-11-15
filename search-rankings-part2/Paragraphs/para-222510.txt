@@ -1,0 +1,14 @@
+61,150,9
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+10779,1
+courtesy,1
+gulam,1
+rasul,1
+qurehsi,1

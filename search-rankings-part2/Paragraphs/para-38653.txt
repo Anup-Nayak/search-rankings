@@ -1,0 +1,7 @@
+12,64,6
+49,1
+wasted,1
+away,1
+to,1
+a,1
+shadow,1

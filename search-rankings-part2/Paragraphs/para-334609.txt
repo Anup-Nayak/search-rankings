@@ -1,0 +1,8 @@
+87,132,12
+sent,1
+without,1
+distinction,1
+all,1
+indians,1
+who,1
+desire,1

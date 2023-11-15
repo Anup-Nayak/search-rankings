@@ -1,0 +1,7 @@
+30,194,6
+q,1
+do,1
+you,1
+live,1
+near,1
+kohat,1

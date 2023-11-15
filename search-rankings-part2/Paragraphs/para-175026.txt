@@ -1,0 +1,13 @@
+50,147,3
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+8687,1
+courtesy,1
+radhabehn,1
+chaudhri,1

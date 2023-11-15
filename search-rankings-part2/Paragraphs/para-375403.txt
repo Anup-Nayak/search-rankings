@@ -1,0 +1,17 @@
+97,261,8
+6,1
+all,1
+state,2
+public,1
+offices,1
+courts,1
+hospitals,1
+and,1
+other,1
+buildings,1
+are,1
+open,1
+to,1
+harijans,1
+for,1
+entry,1

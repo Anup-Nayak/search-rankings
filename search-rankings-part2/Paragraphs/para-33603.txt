@@ -1,0 +1,12 @@
+10,507,2
+gandhi,1
+has,1
+published,1
+statement,1
+in,1
+press,1
+stating,1
+inter,1
+alia,1
+that,1
+transvaal,1

@@ -1,0 +1,6 @@
+55,328,6
+1,1
+a,1
+cattle,1
+breeding,1
+community,1

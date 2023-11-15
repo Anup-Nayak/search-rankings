@@ -1,0 +1,10 @@
+86,338,3
+m,1
+k,1
+gandhi,1
+from,1
+a,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1

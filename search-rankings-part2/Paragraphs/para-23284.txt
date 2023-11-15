@@ -1,0 +1,9 @@
+8,40,17
+have,1
+you,1
+persuaded,1
+the,1
+indians,1
+not,1
+to,1
+register,1

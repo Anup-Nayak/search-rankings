@@ -1,0 +1,17 @@
+44,473,18
+t7,1
+for,1
+i,2
+must,1
+finish,2
+the,3
+three,2
+years,2
+said,1
+inner,1
+voice,1
+guj,1
+has,1
+was,1
+resolved,1
+to,1

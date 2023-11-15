@@ -1,0 +1,8 @@
+60,109,6
+136,1
+letter,1
+to,1
+k,1
+r,1
+krishna,1
+iyer,1

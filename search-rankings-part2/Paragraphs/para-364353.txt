@@ -1,0 +1,10 @@
+94,145,6
+if,2
+you,1
+can,2
+spare,1
+bisen,1
+2,1
+and,1
+he,2
+wishes,1

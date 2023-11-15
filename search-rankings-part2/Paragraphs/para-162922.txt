@@ -1,0 +1,6 @@
+47,64,1
+71,1
+letter,1
+to,1
+niranjan,1
+patnaik,1

@@ -1,0 +1,13 @@
+32,428,5
+a,1
+non,1
+co,1
+operator,1
+expresses,1
+his,1
+dissatisfaction,1
+in,1
+the,1
+following,1
+words,1
+1,1

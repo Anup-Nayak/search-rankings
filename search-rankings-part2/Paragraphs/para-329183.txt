@@ -1,0 +1,12 @@
+86,51,9
+greetings,1
+for,1
+the,1
+new,1
+year,1
+from,1
+bapu,1
+bapuji,1
+aney,1
+colombo,1
+ceylon,1

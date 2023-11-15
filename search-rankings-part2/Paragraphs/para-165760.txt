@@ -1,0 +1,5 @@
+47,389,11
+postgiro,1
+675,1
+stockholm,1
+7,1

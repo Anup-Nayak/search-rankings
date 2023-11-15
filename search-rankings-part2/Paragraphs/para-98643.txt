@@ -1,0 +1,5 @@
+29,160,10
+hatred,1
+scoffing,1
+and,1
+abuse,1

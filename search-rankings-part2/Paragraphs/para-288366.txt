@@ -1,0 +1,7 @@
+77,50,18
+wholly,1
+unrelated,1
+to,1
+the,1
+unprecedented,1
+upheaval,1

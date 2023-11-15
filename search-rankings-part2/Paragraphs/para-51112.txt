@@ -1,0 +1,8 @@
+15,100,15
+4,1
+vide,1
+speech,1
+at,1
+madras,1
+law,1
+dinner,1

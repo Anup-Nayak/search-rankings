@@ -1,0 +1,7 @@
+82,32,9
+you,1
+know,1
+the,2
+reason,1
+for,1
+delay,1

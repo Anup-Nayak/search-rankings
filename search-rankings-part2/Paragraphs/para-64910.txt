@@ -1,0 +1,11 @@
+18,314,3
+from,1
+a,1
+photostat,1
+of,1
+the,1
+typewritten,1
+copy,1
+s,1
+n,1
+6826,1

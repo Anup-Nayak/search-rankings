@@ -1,0 +1,9 @@
+13,69,14
+right,1
+not,1
+hitherto,1
+existing,1
+stop,1
+in,1
+natal,1
+indian,1

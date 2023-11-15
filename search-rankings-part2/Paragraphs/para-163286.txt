@@ -1,0 +1,11 @@
+47,106,21
+proportion,1
+of,2
+wages,1
+for,1
+labour,1
+to,1
+cost,1
+mill,1
+cloth,1
+25%,1

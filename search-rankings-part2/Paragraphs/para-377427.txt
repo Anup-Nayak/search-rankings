@@ -1,0 +1,11 @@
+98,65,13
+1,1
+a,3
+rich,1
+garment,1
+literally,1
+silk,1
+sari,1
+worn,1
+at,1
+wedding,1

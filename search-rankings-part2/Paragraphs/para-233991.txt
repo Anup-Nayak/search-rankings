@@ -1,0 +1,14 @@
+64,68,17
+actually,1
+been,1
+taken,1
+in,2
+numerous,1
+cases,1
+with,1
+more,1
+or,1
+less,1
+success,1
+but,1
+future,1

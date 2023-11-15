@@ -1,0 +1,11 @@
+13,170,5
+but,1
+if,1
+some,1
+members,1
+of,1
+the,1
+union,1
+parliament,1
+have,1
+spoken,1

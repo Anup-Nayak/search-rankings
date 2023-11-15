@@ -1,0 +1,11 @@
+28,87,7
+i,1
+have,1
+received,1
+the,1
+following,1
+wire,1
+from,1
+agra,1
+arya,1
+samaj,1

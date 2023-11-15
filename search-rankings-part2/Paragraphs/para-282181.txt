@@ -1,0 +1,6 @@
+75,280,6
+another,1
+suggestion,1
+from,1
+medical,1
+standpoint,1

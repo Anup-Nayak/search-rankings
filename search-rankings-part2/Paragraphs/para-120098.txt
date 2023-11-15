@@ -1,0 +1,7 @@
+35,320,3
+418,1
+letter,1
+to,1
+lakshmidas,1
+purushottam,1
+asar,1

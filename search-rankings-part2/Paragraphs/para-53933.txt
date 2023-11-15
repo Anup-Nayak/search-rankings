@@ -1,0 +1,8 @@
+15,430,15
+what,1
+purports,1
+to,1
+be,1
+the,1
+authoritative,1
+information,1

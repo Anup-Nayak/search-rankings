@@ -1,0 +1,17 @@
+89,300,4
+that,2
+there,1
+should,1
+be,1
+no,1
+translation,1
+of,1
+his,1
+speech,1
+day,1
+it,1
+would,1
+save,1
+time,1
+for,1
+one,1

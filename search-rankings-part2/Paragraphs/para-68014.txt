@@ -1,0 +1,16 @@
+19,292,3
+if,1
+you,2
+knew,1
+the,2
+circumstances,1
+on,1
+military,1
+side,1
+then,1
+would,1
+be,1
+able,1
+to,1
+find,1
+out,1

@@ -1,0 +1,13 @@
+41,55,10
+1,1
+a,1
+muslim,1
+lady,1
+who,1
+wished,1
+to,2
+dedicate,1
+her,1
+urdu,1
+play,1
+gandhiji,1

@@ -1,0 +1,9 @@
+1,357,18
+amod,1
+jeewa,1
+hoosen,1
+meerum,1
+mahomed,1
+suleman,1
+khota,1
+5,1

@@ -1,0 +1,7 @@
+18,280,4
+218,1
+speech,1
+at,1
+swadeshi,1
+bhandar,1
+godhra,1

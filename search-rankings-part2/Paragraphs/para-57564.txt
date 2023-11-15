@@ -1,0 +1,6 @@
+16,397,4
+267,1
+letter,1
+t0,1
+esther,1
+faering,1

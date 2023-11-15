@@ -1,0 +1,16 @@
+28,92,4
+pandit,1
+jawaharlal,1
+nehru,1
+has,1
+sent,1
+a,1
+letter,1
+in,1
+the,2
+following,1
+terms,1
+to,1
+administrator,1
+of,1
+nabha,1

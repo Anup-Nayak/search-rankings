@@ -1,0 +1,8 @@
+45,64,4
+65,1
+speech,1
+at,1
+womens,1
+meeting,1
+padidan,1
+1,1

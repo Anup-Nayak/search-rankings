@@ -1,0 +1,16 @@
+22,174,7
+article,1
+xix,1
+the,1
+all,1
+india,1
+congress,1
+committee,1
+shall,1
+consist,1
+of,2
+350,1
+members,2
+exclusive,1
+ex,1
+officio,1

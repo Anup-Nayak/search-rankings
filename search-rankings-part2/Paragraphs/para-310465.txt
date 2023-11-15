@@ -1,0 +1,17 @@
+82,53,15
+1,2
+vide,1
+speech,1
+at,1
+all,1
+india,1
+goseva,1
+sangh,1
+conference,1
+2,2
+1942,1
+the,1
+superscription,1
+is,1
+in,1
+english,1

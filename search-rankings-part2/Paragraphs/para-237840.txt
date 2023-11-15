@@ -1,0 +1,10 @@
+65,39,12
+mahatmaji,1
+the,1
+hindu,1
+sabha,1
+secretary,1
+ought,1
+to,1
+know,1
+better,1

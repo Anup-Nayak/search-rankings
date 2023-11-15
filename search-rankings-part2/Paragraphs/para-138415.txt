@@ -1,0 +1,12 @@
+40,336,7
+1,1
+these,1
+paragraphs,1
+are,1
+from,1
+the,1
+hindustan,1
+times,1
+2,1
+ibid,2
+3,1

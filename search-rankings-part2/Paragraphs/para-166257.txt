@@ -1,0 +1,8 @@
+47,447,5
+a,1
+brahmin,1
+youth,1
+aged,1
+thirty,1
+writes,1
+2,1

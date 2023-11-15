@@ -1,0 +1,5 @@
+97,370,7
+332,1
+deathcourageous,1
+or,1
+cowardly,1

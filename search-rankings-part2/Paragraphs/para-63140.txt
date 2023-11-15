@@ -1,0 +1,8 @@
+18,47,25
+about,1
+punjab,1
+made,1
+in,1
+bombay,1
+and,1
+elsewhere,1

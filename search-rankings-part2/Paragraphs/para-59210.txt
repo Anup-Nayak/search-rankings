@@ -1,0 +1,5 @@
+17,44,6
+the,2
+editor,1
+bombay,1
+chronicle,1

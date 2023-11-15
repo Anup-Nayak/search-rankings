@@ -1,0 +1,9 @@
+17,242,6
+go,1
+africa,1
+if,1
+wish,1
+but,1
+possibility,1
+shipping,1
+difficulty,1

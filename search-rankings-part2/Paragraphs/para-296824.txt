@@ -1,0 +1,10 @@
+79,118,7
+bapu,1
+mons,1
+edmond,1
+privat,1
+san,1
+blagio,1
+lacarno,1
+tessin,1
+switzerland,1

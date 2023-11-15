@@ -1,0 +1,12 @@
+11,351,5
+from,1
+a,1
+photostat,1
+of,1
+polaks,1
+letter,1
+to,1
+ritch,1
+s,1
+n,1
+5464,1

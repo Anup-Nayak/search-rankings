@@ -1,0 +1,9 @@
+80,449,6
+bapu,1
+ps,1
+are,1
+the,1
+apples,1
+from,1
+your,1
+garden,1

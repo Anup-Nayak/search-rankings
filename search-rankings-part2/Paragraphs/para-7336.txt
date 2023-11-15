@@ -1,0 +1,7 @@
+3,197,2
+a,1
+comparisonpoor,1
+whites,1
+and,1
+poor,1
+indians,1

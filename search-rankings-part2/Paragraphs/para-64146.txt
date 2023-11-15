@@ -1,0 +1,14 @@
+18,193,8
+2,1
+no,1
+court,1
+shall,1
+take,1
+cognisance,1
+of,1
+any,1
+offence,1
+against,1
+this,1
+rule,1
+save,1

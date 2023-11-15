@@ -1,0 +1,9 @@
+54,360,8
+time,1
+alone,1
+will,1
+show,1
+whose,1
+position,1
+was,1
+justified,1

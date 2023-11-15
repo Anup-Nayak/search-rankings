@@ -1,0 +1,7 @@
+17,298,10
+the,3
+interests,1
+of,1
+empire,1
+and,1
+peaceful,1

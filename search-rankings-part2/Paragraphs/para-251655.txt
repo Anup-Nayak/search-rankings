@@ -1,0 +1,14 @@
+68,45,3
+you,1
+must,1
+excuse,1
+my,1
+obstinacy,1
+in,1
+writing,1
+with,1
+village,3
+ink,1
+reed,1
+on,1
+paper,1

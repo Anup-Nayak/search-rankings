@@ -1,0 +1,8 @@
+31,303,3
+176,1
+remarks,1
+at,1
+national,1
+school,1
+dighirpur,1
+1,1

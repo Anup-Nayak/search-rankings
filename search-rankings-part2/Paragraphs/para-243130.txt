@@ -1,0 +1,5 @@
+66,130,7
+1,1
+vide,1
+villagers,1
+hands,1

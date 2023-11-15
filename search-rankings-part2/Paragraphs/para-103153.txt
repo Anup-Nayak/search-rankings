@@ -1,0 +1,9 @@
+30,230,14
+tell,1
+shuaib,1
+3,1
+join,1
+me,1
+kathiawad,1
+tour,1
+fourteenth,1

@@ -1,0 +1,9 @@
+31,149,2
+1,1
+a,1
+small,1
+soul,1
+the,1
+opposite,1
+of,1
+mahatma,1

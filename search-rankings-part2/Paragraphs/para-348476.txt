@@ -1,0 +1,3 @@
+90,220,1
+independent,1
+states,1

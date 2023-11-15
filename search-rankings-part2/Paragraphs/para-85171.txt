@@ -1,0 +1,12 @@
+25,166,12
+in,2
+future,1
+the,1
+minorities,1
+will,1
+no,1
+longer,1
+have,1
+faith,1
+indian,1
+democracy,1

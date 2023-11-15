@@ -1,0 +1,10 @@
+66,109,3
+g,1
+the,1
+answer,1
+to,1
+it,1
+has,1
+already,1
+been,1
+given,1

@@ -1,0 +1,8 @@
+84,430,13
+gandhijis,1
+blood,1
+pressure,1
+this,1
+morning,1
+was,1
+206/110,1

@@ -1,0 +1,8 @@
+53,421,7
+q,1
+all,1
+that,1
+depends,1
+on,1
+self,1
+government,1

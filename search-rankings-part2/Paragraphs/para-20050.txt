@@ -1,0 +1,5 @@
+7,39,12
+wifes,1
+name,1
+residing,1
+at,1

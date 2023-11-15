@@ -1,0 +1,6 @@
+66,357,4
+buffalo,1
+milk,2
+fat,2
+v,1
+cow,1

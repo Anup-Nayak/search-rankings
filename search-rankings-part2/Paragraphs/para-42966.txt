@@ -1,0 +1,8 @@
+13,146,4
+should,1
+be,1
+maintained,1
+stop,1
+regarding,1
+free,1
+state,1

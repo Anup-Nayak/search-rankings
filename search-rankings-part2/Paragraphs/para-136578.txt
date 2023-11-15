@@ -1,0 +1,8 @@
+40,4,4
+wire,1
+received,1
+distressed,1
+god,1
+be,1
+with,1
+you,1

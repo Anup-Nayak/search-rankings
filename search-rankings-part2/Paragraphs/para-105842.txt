@@ -1,0 +1,8 @@
+31,191,1
+become,2
+a,4
+vaisya,2
+for,2
+to,2
+kshatriya,2
+or,1

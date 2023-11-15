@@ -1,0 +1,14 @@
+97,11,13
+1,1
+minister,2
+medical,1
+and,1
+public,1
+health,1
+central,2
+provinces,2
+2,1
+ravi,1
+shankar,1
+shukla,1
+chief,1

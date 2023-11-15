@@ -1,0 +1,7 @@
+5,124,2
+116,1
+an,1
+inter,1
+state,1
+native,1
+college,1

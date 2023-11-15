@@ -1,0 +1,9 @@
+74,6,8
+spend,1
+a,1
+few,1
+days,1
+with,1
+me,1
+some,1
+time,1

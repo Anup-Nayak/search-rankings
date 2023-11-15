@@ -1,0 +1,7 @@
+26,419,4
+184,1
+letter,1
+to,1
+major,1
+w,1
+jones,1

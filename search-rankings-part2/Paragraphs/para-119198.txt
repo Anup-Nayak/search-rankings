@@ -1,0 +1,6 @@
+35,214,3
+c,1
+rajagopalachariar,1
+gandhi,1
+ashram,1
+tiruchengodu,1

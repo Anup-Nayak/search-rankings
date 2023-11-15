@@ -1,0 +1,11 @@
+63,309,13
+8,1
+relief,1
+centres,1
+should,1
+be,1
+kept,1
+in,1
+perfect,1
+sanitary,1
+condition,1

@@ -1,0 +1,12 @@
+15,496,13
+government,1
+whatever,1
+it,2
+might,1
+be,2
+would,1
+accepted,2
+if,1
+was,1
+not,1
+the,1

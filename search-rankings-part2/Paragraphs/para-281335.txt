@@ -1,0 +1,5 @@
+75,186,4
+mirabehn,1
+utmanzai,1
+charsadda,1
+tahsil,1

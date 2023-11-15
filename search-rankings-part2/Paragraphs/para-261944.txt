@@ -1,0 +1,6 @@
+70,242,12
+which,1
+is,1
+more,2
+harmonious,1
+perfect,1

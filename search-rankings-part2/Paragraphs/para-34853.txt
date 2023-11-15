@@ -1,0 +1,8 @@
+11,153,7
+association,1
+has,1
+no,1
+desire,1
+further,1
+complicate,1
+already,1

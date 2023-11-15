@@ -1,0 +1,11 @@
+36,326,3
+m,1
+k,1
+gandhi,1
+pandit,1
+gopabandhu,1
+das,1
+burman,1
+dak,1
+bungalow,1
+cuttack,1

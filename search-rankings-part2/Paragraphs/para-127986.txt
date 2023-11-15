@@ -1,0 +1,12 @@
+37,310,8
+victuals,1
+that,1
+are,1
+bitter,1
+sour,1
+salty,1
+overhot,1
+spicy,1
+dry,1
+burning,1
+and,1

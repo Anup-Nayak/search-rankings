@@ -1,0 +1,11 @@
+27,103,4
+i,1
+asked,1
+gandhi,1
+concerning,1
+kemal,1
+pashas,1
+deposition,1
+of,1
+the,1
+khalif,1

@@ -1,0 +1,16 @@
+21,40,22
+was,1
+a,2
+second,1
+edition,1
+of,1
+amritsar,1
+india,1
+had,1
+right,1
+to,1
+know,1
+the,1
+position,1
+in,1
+fiji,1

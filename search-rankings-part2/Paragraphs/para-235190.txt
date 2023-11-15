@@ -1,0 +1,12 @@
+64,198,22
+has,1
+a,1
+vitality,1
+of,1
+which,1
+everyone,1
+feels,1
+the,1
+warmth,1
+and,1
+glow,1

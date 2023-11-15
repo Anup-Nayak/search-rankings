@@ -1,0 +1,16 @@
+78,381,7
+to,1
+a,2
+defensive,1
+war,2
+he,2
+drew,1
+his,1
+sword,1
+for,1
+holy,1
+and,1
+permits,1
+the,2
+use,1
+of,1

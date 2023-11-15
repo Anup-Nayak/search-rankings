@@ -1,0 +1,7 @@
+27,21,1
+22,1
+telegram,1
+to,1
+mahomed,1
+ali,1
+1,1

@@ -1,0 +1,6 @@
+75,35,8
+33,1
+letter,1
+to,1
+indira,1
+nehru,1

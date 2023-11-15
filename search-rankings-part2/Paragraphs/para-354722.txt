@@ -1,0 +1,7 @@
+92,9,2
+12,1
+letter,1
+to,1
+saraladevi,1
+a,1
+sarabhai,1

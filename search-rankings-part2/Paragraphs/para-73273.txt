@@ -1,0 +1,15 @@
+21,103,9
+issue,1
+one,2
+more,1
+appeal,1
+not,1
+less,1
+than,1
+and,1
+a,1
+half,1
+lakhs,1
+will,1
+be,1
+required,1

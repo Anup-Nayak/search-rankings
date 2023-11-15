@@ -1,0 +1,6 @@
+17,144,5
+124,1
+letter,1
+t0,1
+mahadev,1
+desai,1

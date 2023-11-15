@@ -1,0 +1,13 @@
+51,86,10
+said,1
+mahatma,1
+gandhi,1
+at,1
+the,2
+considerable,1
+sacrifices,1
+made,1
+by,1
+people,1
+in,1
+national,1

@@ -1,0 +1,12 @@
+82,369,2
+prakrit,1
+stage,1
+lasted,1
+from,1
+600,1
+b,1
+c,1
+to,1
+1000,1
+a,1
+d,1

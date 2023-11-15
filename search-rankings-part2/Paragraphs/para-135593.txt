@@ -1,0 +1,6 @@
+39,359,2
+1,1
+for,1
+the,1
+congress,1
+presidentship,1

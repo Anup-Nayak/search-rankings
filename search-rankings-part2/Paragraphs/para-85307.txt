@@ -1,0 +1,5 @@
+25,186,4
+80,1
+hindu,1
+muslim,1
+parsi,1

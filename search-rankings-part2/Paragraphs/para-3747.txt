@@ -1,0 +1,6 @@
+2,162,7
+native,2
+of,2
+country,1
+and,1
+village,1

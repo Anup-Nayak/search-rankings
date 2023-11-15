@@ -1,0 +1,11 @@
+23,417,25
+congress,1
+and,2
+have,1
+honestly,1
+worked,1
+within,1
+the,3
+letter,1
+spirit,1
+of,1

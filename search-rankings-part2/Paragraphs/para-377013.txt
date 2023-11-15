@@ -1,0 +1,13 @@
+98,5,3
+question,1
+should,1
+the,2
+sevikas,1
+1,1
+of,1
+kasturba,1
+trust,1
+be,1
+given,1
+instruction,1
+in,1

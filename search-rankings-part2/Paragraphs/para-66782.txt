@@ -1,0 +1,16 @@
+19,134,8
+kill,1
+cows,1
+in,1
+future,1
+and,1
+to,1
+dissuade,1
+others,1
+likewise,1
+from,1
+doing,1
+so,1
+if,1
+people,1
+like,1

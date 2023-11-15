@@ -1,0 +1,8 @@
+65,270,12
+to,1
+the,1
+secretary,1
+provincial,1
+congress,1
+committee,1
+ahmedabad,1

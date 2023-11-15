@@ -1,0 +1,7 @@
+51,41,11
+62,1
+letter,1
+to,1
+jamna,1
+n,1
+gandhi,1

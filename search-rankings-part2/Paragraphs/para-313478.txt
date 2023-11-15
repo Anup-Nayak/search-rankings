@@ -1,0 +1,14 @@
+82,300,11
+passed,1
+a,1
+special,1
+hur,1
+menace,1
+act,1
+in,1
+secret,1
+session,1
+to,1
+meet,1
+the,1
+situation,1

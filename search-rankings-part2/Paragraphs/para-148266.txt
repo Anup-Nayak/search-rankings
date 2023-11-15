@@ -1,0 +1,13 @@
+43,138,4
+1,1
+in,1
+the,2
+diary,1
+this,1
+letter,1
+is,1
+placed,1
+before,1
+item,1
+that,1
+follows,1

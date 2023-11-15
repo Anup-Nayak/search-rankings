@@ -1,0 +1,12 @@
+30,373,7
+n,1
+we,2
+should,2
+use,1
+the,2
+roads,1
+no,1
+longer,1
+and,1
+leave,1
+temples,1

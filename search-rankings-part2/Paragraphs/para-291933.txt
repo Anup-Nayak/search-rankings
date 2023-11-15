@@ -1,0 +1,13 @@
+78,34,7
+believe,1
+other,1
+parties,1
+who,1
+would,1
+not,1
+hesitate,1
+to,1
+exploit,1
+the,2
+difficulties,1
+of,1

@@ -1,0 +1,15 @@
+12,425,2
+upper,1
+house,1
+ps,1
+i,2
+have,1
+your,1
+books,1
+in,1
+mind,1
+am,1
+letting,1
+west,1
+read,1
+them,1

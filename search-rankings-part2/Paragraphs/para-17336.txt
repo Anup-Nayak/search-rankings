@@ -1,0 +1,8 @@
+6,212,2
+1,1
+the,1
+society,1
+for,1
+ethical,1
+culture,1
+chicago,1

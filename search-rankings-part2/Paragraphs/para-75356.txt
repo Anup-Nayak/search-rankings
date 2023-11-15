@@ -1,0 +1,13 @@
+21,498,19
+these,1
+speeches,1
+were,2
+not,1
+of,2
+some,1
+obscure,1
+though,1
+devout,1
+moulvis,1
+but,1
+those,1

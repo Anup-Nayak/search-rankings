@@ -1,0 +1,14 @@
+94,205,31
+deprived,1
+bihar,1
+of,3
+the,2
+great,1
+service,1
+a,2
+very,1
+brave,1
+man,1
+with,1
+heart,1
+fakir,1

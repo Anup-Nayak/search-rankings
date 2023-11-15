@@ -1,0 +1,10 @@
+83,62,1
+time,1
+alone,1
+will,1
+show,1
+which,1
+way,1
+the,1
+right,1
+lay,1

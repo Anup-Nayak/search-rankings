@@ -1,0 +1,13 @@
+80,111,13
+satyagrahi,1
+prisoners,1
+may,1
+refuse,1
+food,1
+only,1
+if,1
+it,1
+is,1
+unwholesome,1
+and,1
+uneatable,1

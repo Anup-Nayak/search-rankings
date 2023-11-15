@@ -1,0 +1,12 @@
+90,413,8
+blessings,1
+from,1
+bapu,1
+bibi,1
+amtul,1
+salaam,1
+c/o,1
+begum,1
+rashid,2
+manzil,1
+indore,1

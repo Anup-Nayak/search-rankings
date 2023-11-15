@@ -1,0 +1,15 @@
+82,299,18
+being,1
+afraid,1
+of,1
+attack,1
+at,1
+night,1
+they,1
+do,2
+not,1
+venture,1
+to,1
+their,1
+normal,1
+work,1

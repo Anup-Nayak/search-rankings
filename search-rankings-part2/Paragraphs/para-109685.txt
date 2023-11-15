@@ -1,0 +1,13 @@
+32,320,7
+it,1
+has,1
+been,1
+a,1
+privilege,1
+to,2
+be,1
+able,1
+visit,1
+this,1
+asylum,1
+1,1

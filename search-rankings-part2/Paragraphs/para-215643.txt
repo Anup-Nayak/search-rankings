@@ -1,0 +1,13 @@
+59,369,10
+you,2
+live,1
+in,1
+a,1
+difficult,1
+world,1
+waking,1
+or,1
+dreaming,1
+are,1
+racked,1
+by,1

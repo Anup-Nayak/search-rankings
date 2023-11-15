@@ -1,0 +1,9 @@
+13,448,27
+last,1
+years,1
+draft,1
+was,1
+defective,1
+in,1
+conclusion,1
+minister,1

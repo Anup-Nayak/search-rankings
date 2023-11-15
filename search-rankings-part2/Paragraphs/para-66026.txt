@@ -1,0 +1,9 @@
+19,24,5
+wednesday,1
+on,1
+or,1
+before,1
+october,1
+5,1
+1919,1
+1,1

@@ -1,0 +1,17 @@
+8,135,5
+reader,1
+mr,1
+editor,1
+i,1
+want,1
+to,1
+ask,1
+you,1
+some,1
+questions,1
+about,1
+your,1
+articles,1
+on,1
+the,1
+compromise,1

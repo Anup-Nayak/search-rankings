@@ -1,0 +1,6 @@
+40,179,1
+106,1
+cow,1
+sacrifice,1
+in,1
+vedas,1

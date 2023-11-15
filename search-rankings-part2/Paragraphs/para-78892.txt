@@ -1,0 +1,13 @@
+23,78,15
+is,2
+wanted,1
+not,1
+gandhi,1
+raj,3
+or,2
+mahomed,1
+ali,2
+shaukat,1
+but,1
+a,2
+swaraj,1

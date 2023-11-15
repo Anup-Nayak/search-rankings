@@ -1,0 +1,17 @@
+43,281,4
+balbir,1
+you,3
+should,2
+have,1
+sent,1
+me,1
+a,2
+letter,1
+why,1
+havent,1
+written,1
+write,1
+at,1
+least,1
+once,1
+week,1

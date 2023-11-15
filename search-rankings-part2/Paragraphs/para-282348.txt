@@ -1,0 +1,13 @@
+75,301,8
+q,1
+had,1
+mr,1
+gandhi,1
+found,1
+a,1
+way,1
+out,1
+of,1
+the,1
+conflicting,1
+demads,1

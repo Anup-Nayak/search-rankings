@@ -1,0 +1,10 @@
+52,156,8
+2,1
+does,1
+fasting,1
+have,1
+a,1
+place,1
+in,1
+peaceful,1
+picketing,1

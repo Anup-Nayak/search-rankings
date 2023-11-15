@@ -1,0 +1,7 @@
+43,424,3
+554,1
+speech,1
+at,1
+wardha,1
+ashram,1
+1,1

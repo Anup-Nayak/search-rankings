@@ -1,0 +1,17 @@
+61,133,4
+but,1
+you,1
+must,1
+write,1
+a,1
+detailed,1
+letter,1
+daily,1
+giving,1
+your,2
+bodily,1
+and,2
+mental,1
+condition,1
+food,2
+s,2

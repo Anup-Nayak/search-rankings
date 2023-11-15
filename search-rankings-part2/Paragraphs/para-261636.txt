@@ -1,0 +1,6 @@
+70,200,6
+faizpur,1
+congress,1
+december,1
+21,1
+1936,1

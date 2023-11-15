@@ -1,0 +1,8 @@
+14,9,4
+packed,1
+almost,1
+entire,1
+south,1
+african,1
+press,1
+agreer,1

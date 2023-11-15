@@ -1,0 +1,14 @@
+14,269,2
+1,1
+tobacco,1
+rolled,1
+by,1
+hand,1
+in,1
+a,2
+dry,1
+leaf,1
+and,1
+smoked,1
+like,1
+cigarette,1

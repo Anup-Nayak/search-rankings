@@ -1,0 +1,7 @@
+83,222,3
+establish,1
+direct,1
+telegraphic,1
+contact,1
+with,1
+him,1

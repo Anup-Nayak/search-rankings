@@ -1,0 +1,9 @@
+78,80,3
+1,1
+the,2
+rest,1
+of,1
+paragraph,1
+is,1
+from,1
+harijan,1

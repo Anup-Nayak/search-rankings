@@ -1,0 +1,11 @@
+36,94,4
+shri,1
+punjabhai,1
+hirachand,1
+shah,1
+opposite,1
+virchand,1
+deepchand,1
+library,1
+manekchowk,1
+ahmedabad,1

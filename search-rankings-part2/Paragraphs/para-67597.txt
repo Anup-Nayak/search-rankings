@@ -1,0 +1,15 @@
+19,246,7
+equipment,1
+that,1
+i,1
+have,1
+spoken,1
+of,1
+would,1
+come,1
+to,1
+a,2
+particular,1
+conclusion,1
+then,1
+large,1

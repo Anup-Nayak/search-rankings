@@ -1,0 +1,7 @@
+47,117,5
+135,1
+does,1
+a,2
+village,1
+mean,1
+dunghill,1

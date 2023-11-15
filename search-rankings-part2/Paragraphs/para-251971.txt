@@ -1,0 +1,7 @@
+68,82,11
+99,1
+speech,1
+to,1
+village,1
+workers,1
+1,1

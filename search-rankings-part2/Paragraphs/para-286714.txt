@@ -1,0 +1,16 @@
+76,312,13
+received,1
+long,1
+wire,1
+2,1
+dewan,1
+saying,1
+no,1
+prohibitory,1
+order,1
+issued,1
+only,1
+advice,1
+given,1
+posting,1
+text,1

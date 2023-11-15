@@ -1,0 +1,12 @@
+92,437,2
+cohesion,1
+to,1
+friends,1
+allies,1
+sympathizers,1
+and,1
+well,1
+wishers,1
+gathering,1
+in,1
+groups,1

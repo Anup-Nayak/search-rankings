@@ -1,0 +1,13 @@
+80,422,17
+pathan,1
+neighbours,1
+i,1
+begged,1
+of,2
+the,1
+pathans,1
+to,2
+live,1
+up,1
+their,1
+traditions,1

@@ -1,0 +1,6 @@
+60,114,4
+144,1
+letter,1
+to,1
+diwakar,1
+singh,1

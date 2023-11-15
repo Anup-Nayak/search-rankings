@@ -1,0 +1,10 @@
+13,432,9
+if,1
+right,1
+waived,1
+at,1
+this,1
+critical,1
+stage,1
+passive,1
+resis,1

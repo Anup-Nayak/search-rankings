@@ -1,0 +1,6 @@
+14,478,4
+extract,1
+from,1
+governor,1
+generals,1
+despatch,1

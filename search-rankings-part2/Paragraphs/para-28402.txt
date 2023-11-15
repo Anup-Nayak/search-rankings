@@ -1,0 +1,8 @@
+9,301,3
+185,1
+duty,1
+of,1
+indians,1
+outside,1
+the,1
+transvaal,1

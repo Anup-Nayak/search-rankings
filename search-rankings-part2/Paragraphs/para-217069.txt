@@ -1,0 +1,8 @@
+59,512,13
+of,3
+object,1
+we,1
+have,1
+in,2
+view,2
+totality,1

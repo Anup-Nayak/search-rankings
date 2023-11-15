@@ -1,0 +1,14 @@
+82,413,10
+jump,1
+and,2
+give,1
+india,2
+her,1
+freedom,1
+if,1
+necessary,1
+remain,1
+in,1
+on,1
+indias,1
+terms,1

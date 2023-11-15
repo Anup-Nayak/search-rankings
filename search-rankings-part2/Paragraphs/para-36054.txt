@@ -1,0 +1,10 @@
+11,278,7
+ritch,1
+wires,1
+petitions,1
+presented,1
+by,1
+duncan,1
+1,1
+hunter,1
+2,1

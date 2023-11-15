@@ -1,0 +1,14 @@
+56,393,1
+slowly,1
+my,2
+study,1
+also,1
+is,1
+slow,1
+correspondence,1
+takes,1
+up,1
+a,1
+lot,1
+of,1
+time,1

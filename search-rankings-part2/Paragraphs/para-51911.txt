@@ -1,0 +1,10 @@
+15,194,4
+the,1
+29th,1
+february,1
+1916,1
+mahatma,1
+gandhi,1
+spoke,1
+as,1
+follows,1

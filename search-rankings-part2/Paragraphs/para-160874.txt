@@ -1,0 +1,6 @@
+46,302,9
+1,1
+the,1
+kadva,1
+patidar,1
+ashram,1

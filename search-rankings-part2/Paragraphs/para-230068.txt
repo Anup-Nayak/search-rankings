@@ -1,0 +1,7 @@
+63,97,3
+weekend,1
+twelfth,1
+thirteenth,1
+gandhi,1
+ashram,1
+tiruchengodu,1

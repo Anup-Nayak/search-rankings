@@ -1,0 +1,17 @@
+82,402,18
+nations,1
+every,1
+muslim,1
+will,1
+have,1
+a,1
+hindu,1
+name,1
+if,1
+he,1
+goes,1
+back,1
+far,1
+enough,1
+in,1
+his,1

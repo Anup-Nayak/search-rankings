@@ -1,0 +1,7 @@
+82,370,10
+432,1
+letter,1
+to,1
+baqer,1
+ali,1
+mirza,1

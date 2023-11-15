@@ -1,0 +1,14 @@
+6,145,28
+subjects,1
+now,1
+that,1
+it,1
+is,1
+our,2
+own,2
+colony,1
+defended,1
+by,1
+troops,1
+we,1
+humbly,1

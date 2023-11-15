@@ -1,0 +1,7 @@
+24,384,5
+m,1
+k,1
+gandhi,1
+to,1
+awaking,1
+india,1

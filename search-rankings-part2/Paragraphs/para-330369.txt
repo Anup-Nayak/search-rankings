@@ -1,0 +1,13 @@
+86,160,16
+q,1
+all,1
+great,1
+men,1
+have,2
+a,1
+passion,1
+for,1
+simplification,1
+you,1
+simplified,1
+the,1

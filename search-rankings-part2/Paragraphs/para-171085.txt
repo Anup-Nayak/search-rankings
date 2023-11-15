@@ -1,0 +1,15 @@
+49,181,22
+his,1
+message,1
+to,2
+students,1
+was,1
+spin,1
+at,1
+least,1
+a,1
+tola,1
+of,1
+yarn,1
+per,1
+day,1

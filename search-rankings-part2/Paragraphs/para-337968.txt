@@ -1,0 +1,12 @@
+88,1,8
+i,2
+discovered,1
+after,1
+writing,1
+the,1
+postcard,1
+this,1
+morning,1
+that,1
+had,1
+in,1

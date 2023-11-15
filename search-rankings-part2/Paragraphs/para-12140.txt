@@ -1,0 +1,10 @@
+5,42,5
+1,1
+vide,1
+compulsory,1
+education,1
+in,1
+india,1
+7,1
+10,1
+1905,1

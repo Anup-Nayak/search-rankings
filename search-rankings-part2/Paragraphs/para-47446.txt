@@ -1,0 +1,13 @@
+14,187,25
+now,1
+accomplished,1
+needed,1
+ever,1
+to,1
+be,2
+disturbed,1
+there,1
+would,1
+no,1
+more,1
+influx,1

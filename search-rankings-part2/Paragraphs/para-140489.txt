@@ -1,0 +1,7 @@
+41,154,5
+172,1
+speech,1
+at,1
+gujarat,1
+vidyapith,1
+1,1

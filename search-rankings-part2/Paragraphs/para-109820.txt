@@ -1,0 +1,8 @@
+32,335,2
+where,1
+is,1
+it,1
+the,1
+same,1
+correspondent,1
+writes,1

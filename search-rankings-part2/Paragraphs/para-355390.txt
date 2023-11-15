@@ -1,0 +1,8 @@
+92,82,10
+harijan,1
+colony,1
+new,1
+delhi,1
+august,1
+29,1
+1946,1

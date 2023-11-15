@@ -1,0 +1,7 @@
+44,495,8
+t2,1
+guj,1
+adds,1
+miles,2
+and,1
+of,1

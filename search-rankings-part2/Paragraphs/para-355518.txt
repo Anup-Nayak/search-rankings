@@ -1,0 +1,9 @@
+92,97,6
+c,1
+they,1
+have,1
+no,1
+chance,1
+of,1
+continued,1
+work,1

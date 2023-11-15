@@ -1,0 +1,14 @@
+31,133,2
+will,1
+cost,2
+the,2
+consumer,1
+a,2
+little,1
+over,1
+third,1
+of,2
+31,1
+4,1
+annas,1
+per,1

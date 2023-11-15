@@ -1,0 +1,6 @@
+78,307,5
+376,1
+non,1
+violence,1
+and,1
+khadi,1

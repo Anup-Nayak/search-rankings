@@ -1,0 +1,17 @@
+76,277,13
+she,1
+does,1
+not,1
+care,1
+even,1
+if,1
+it,2
+is,2
+only,1
+six,1
+annas,1
+since,1
+a,1
+50,1
+per,1
+cent,1

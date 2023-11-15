@@ -1,0 +1,8 @@
+33,338,5
+year,1
+popula,1
+area,3
+un,2
+food,1
+grain,1
+under,1

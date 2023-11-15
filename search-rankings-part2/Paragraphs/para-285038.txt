@@ -1,0 +1,8 @@
+76,134,5
+requires,1
+serious,1
+consideration,1
+if,1
+my,1
+opinion,1
+acceptable,1

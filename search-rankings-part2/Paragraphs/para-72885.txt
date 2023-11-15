@@ -1,0 +1,10 @@
+21,53,3
+35,1
+speech,1
+on,1
+khilafat,1
+and,1
+non,1
+co,1
+operation,1
+lahore,1

@@ -1,0 +1,6 @@
+51,35,10
+54,1
+letter,1
+to,1
+ramachandra,1
+trivedi,1

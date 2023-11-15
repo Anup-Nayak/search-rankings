@@ -1,0 +1,14 @@
+34,414,5
+yours,1
+sincerely,1
+prof,2
+joachim,1
+henry,1
+reinhold,1
+at,1
+the,1
+free,1
+university,1
+league,1
+warsaw,1
+poland,1

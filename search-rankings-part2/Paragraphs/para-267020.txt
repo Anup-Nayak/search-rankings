@@ -1,0 +1,12 @@
+72,4,5
+correspondent,1
+are,1
+you,1
+giving,1
+any,1
+message,1
+to,1
+the,2
+congress,1
+on,1
+morrow,1

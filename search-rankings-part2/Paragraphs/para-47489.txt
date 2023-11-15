@@ -1,0 +1,7 @@
+14,192,8
+176,1
+speech,1
+at,1
+kimberley,1
+reception,1
+2,1

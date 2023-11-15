@@ -1,0 +1,10 @@
+52,18,4
+borsad,1
+may,1
+1,1
+1931,1
+mr,1
+emerson,1
+home,1
+secretary,1
+simla,1

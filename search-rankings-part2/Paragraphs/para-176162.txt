@@ -1,0 +1,6 @@
+50,273,7
+389,1
+letter,1
+to,1
+mathuri,1
+khare,1

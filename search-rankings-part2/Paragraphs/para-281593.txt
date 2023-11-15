@@ -1,0 +1,6 @@
+75,217,3
+270,1
+letter,1
+to,1
+akbar,1
+hydari,1

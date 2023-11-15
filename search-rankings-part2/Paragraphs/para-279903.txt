@@ -1,0 +1,5 @@
+75,24,13
+1,1
+ardeshar,1
+f,1
+khabardar,1

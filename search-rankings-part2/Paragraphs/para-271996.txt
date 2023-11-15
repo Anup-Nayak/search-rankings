@@ -1,0 +1,8 @@
+73,75,9
+congress,1
+with,1
+regard,1
+to,1
+the,1
+zamindari,1
+system,1

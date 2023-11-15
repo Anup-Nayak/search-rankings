@@ -1,0 +1,13 @@
+52,189,30
+away,1
+from,1
+their,1
+social,1
+order,1
+with,1
+the,2
+consequent,1
+lack,1
+of,2
+sense,1
+responsibility,1

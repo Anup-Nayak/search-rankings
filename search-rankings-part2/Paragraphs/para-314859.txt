@@ -1,0 +1,4 @@
+82,390,9
+the,1
+new,1
+situation,1

@@ -1,0 +1,4 @@
+42,473,8
+conditions,1
+and,1
+requirements,1

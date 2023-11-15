@@ -1,0 +1,7 @@
+33,273,8
+fast,1
+broken,1
+condition,1
+excellent,1
+no,1
+cause,1

@@ -1,0 +1,11 @@
+76,350,8
+cotton,2
+including,1
+rs,2
+2,2
+750,2
+16%,1
+wastage,1
+spinning,1
+and,1
+carding,1

@@ -1,0 +1,4 @@
+31,48,2
+1,1
+auspicious,1
+necklace,1

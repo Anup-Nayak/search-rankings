@@ -1,0 +1,14 @@
+19,292,6
+the,3
+fault,1
+of,1
+military,1
+is,2
+not,2
+quite,1
+fair,1
+it,2
+in,1
+manner,1
+you,1
+put,1

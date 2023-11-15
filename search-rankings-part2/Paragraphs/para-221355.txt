@@ -1,0 +1,5 @@
+61,26,3
+27,1
+human,1
+manufacture,1
+i,1

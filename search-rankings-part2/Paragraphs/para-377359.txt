@@ -1,0 +1,13 @@
+98,58,5
+4,1
+he,1
+will,1
+deposit,1
+in,1
+a,1
+bank,1
+the,1
+daily,1
+proceeds,1
+from,1
+sales,1

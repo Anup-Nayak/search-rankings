@@ -1,0 +1,7 @@
+47,285,5
+mussoorie,1
+silence,1
+day,1
+october,1
+21,1
+1929,1

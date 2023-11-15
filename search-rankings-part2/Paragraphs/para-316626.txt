@@ -1,0 +1,7 @@
+83,75,8
+bapu,1
+ps,1
+ba,1
+is,1
+much,1
+better,1

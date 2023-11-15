@@ -1,0 +1,6 @@
+83,69,12
+from,1
+the,1
+butcher,1
+and,1
+again,1

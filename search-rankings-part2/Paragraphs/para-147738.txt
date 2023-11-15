@@ -1,0 +1,9 @@
+43,78,5
+m,1
+k,1
+gandhi,1
+shrimati,1
+d,1
+b,1
+krishnamma,1
+rajahmundry,1

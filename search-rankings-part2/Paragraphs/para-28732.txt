@@ -1,0 +1,6 @@
+9,356,2
+magic,1
+power,1
+o,1
+f,1
+satyagraha,1

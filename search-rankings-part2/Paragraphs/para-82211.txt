@@ -1,0 +1,16 @@
+24,152,10
+6,1
+so,1
+long,1
+as,1
+you,1
+are,1
+fighting,1
+against,1
+the,1
+tyrant,1
+government,1
+do,1
+not,1
+produce,1
+children,1

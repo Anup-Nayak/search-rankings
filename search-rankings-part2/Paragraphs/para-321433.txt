@@ -1,0 +1,9 @@
+84,223,10
+approval,1
+public,1
+bodies,1
+already,1
+discussing,1
+freely,1
+expressing,1
+opinion,1

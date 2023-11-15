@@ -1,0 +1,8 @@
+92,270,9
+m,1
+k,1
+gandhi,2
+ashram,1
+chandni,1
+chowk,1
+delhi,1

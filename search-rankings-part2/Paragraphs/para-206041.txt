@@ -1,0 +1,8 @@
+57,311,15
+government,1
+some,1
+idea,1
+of,2
+intensity,1
+my,1
+feeling,1

@@ -1,0 +1,10 @@
+15,120,20
+2,1
+vide,1
+speech,1
+at,1
+bagasra,1
+on,1
+viramgam,1
+customs,1
+cordon,1

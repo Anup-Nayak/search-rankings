@@ -1,0 +1,8 @@
+57,97,7
+public,1
+statement,1
+explaining,1
+my,1
+position,1
+regarding,1
+fast,1

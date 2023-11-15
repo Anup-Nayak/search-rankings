@@ -1,0 +1,6 @@
+87,79,6
+138,1
+letter,1
+to,1
+devraj,1
+sethi,1

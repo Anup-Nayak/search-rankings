@@ -1,0 +1,11 @@
+32,71,2
+what,2
+is,4
+non,1
+being,2
+never,2
+known,1
+to,1
+have,1
+been,1
+and,1

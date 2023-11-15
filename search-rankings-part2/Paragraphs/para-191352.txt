@@ -1,0 +1,12 @@
+54,51,13
+chairman,1
+the,1
+way,1
+you,1
+want,1
+to,2
+do,1
+things,1
+is,1
+reduce,1
+expenditure,1

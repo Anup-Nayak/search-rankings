@@ -1,0 +1,13 @@
+84,467,13
+13,1
+the,1
+definition,1
+of,1
+minorities,3
+you,1
+yourself,1
+have,1
+often,1
+said,1
+mean,1
+accepted,1

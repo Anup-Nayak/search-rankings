@@ -1,0 +1,9 @@
+71,79,2
+shri,1
+kakubhai,1
+writes,1
+to,1
+say,1
+from,1
+bombay,1
+1,1

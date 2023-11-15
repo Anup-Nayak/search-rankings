@@ -1,0 +1,16 @@
+49,125,5
+would,2
+go,1
+farther,1
+away,1
+from,1
+them,1
+he,3
+said,1
+be,1
+glad,1
+if,1
+saw,1
+his,1
+own,1
+national,1

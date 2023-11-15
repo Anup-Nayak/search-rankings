@@ -1,0 +1,6 @@
+37,47,4
+50,1
+letter,1
+to,1
+satyanand,1
+sarasvati,1

@@ -1,0 +1,6 @@
+47,36,10
+silence,1
+day,1
+september,1
+9,1
+1929,1

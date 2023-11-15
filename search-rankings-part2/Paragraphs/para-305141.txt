@@ -1,0 +1,13 @@
+81,0,8
+1,1
+omission,1
+as,1
+in,2
+the,2
+source,1
+2,1
+these,1
+words,1
+are,1
+devanagari,1
+script,1

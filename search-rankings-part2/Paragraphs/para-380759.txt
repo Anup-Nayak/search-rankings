@@ -1,0 +1,14 @@
+98,437,3
+and,1
+confident,1
+that,1
+what,1
+the,2
+future,1
+yields,1
+will,1
+be,2
+right,1
+unless,1
+myself,1
+wrong,1

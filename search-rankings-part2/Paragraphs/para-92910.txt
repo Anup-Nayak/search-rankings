@@ -1,0 +1,6 @@
+27,348,1
+305,1
+letter,1
+to,1
+qumar,1
+ahmed,1

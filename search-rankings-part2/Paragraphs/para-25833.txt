@@ -1,0 +1,12 @@
+8,461,8
+mr,1
+gandhi,1
+that,1
+is,1
+so,1
+but,1
+there,1
+are,1
+a,1
+lot,1
+outside,1

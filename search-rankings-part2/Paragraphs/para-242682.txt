@@ -1,0 +1,6 @@
+66,80,7
+105,1
+letter,1
+to,1
+narandas,1
+gandhi,1

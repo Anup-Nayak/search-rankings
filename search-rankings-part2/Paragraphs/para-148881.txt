@@ -1,0 +1,10 @@
+43,213,7
+vandemataram,1
+from,1
+mohandas,1
+bhaishri,1
+lakshminarayan,1
+mojilal,1
+pandya,1
+nagarwado,1
+lunawada,1

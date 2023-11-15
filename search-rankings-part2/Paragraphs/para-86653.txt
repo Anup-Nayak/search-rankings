@@ -1,0 +1,11 @@
+25,369,8
+religion,1
+or,1
+country,1
+gandhi,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+7779,1

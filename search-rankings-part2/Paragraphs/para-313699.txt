@@ -1,0 +1,4 @@
+82,314,7
+welcome,1
+the,1
+japanese,1

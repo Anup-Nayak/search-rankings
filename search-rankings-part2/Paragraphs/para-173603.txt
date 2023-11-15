@@ -1,0 +1,13 @@
+49,463,15
+mr,1
+ashmead,1
+bartlett,1
+the,2
+special,1
+correspondent,1
+of,2
+daily,1
+telegraph,1
+in,1
+its,1
+issue,1

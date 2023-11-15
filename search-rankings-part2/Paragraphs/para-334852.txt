@@ -1,0 +1,12 @@
+87,149,22
+from,2
+a,2
+photostat,1
+c,1
+w,1
+10550,1
+also,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1

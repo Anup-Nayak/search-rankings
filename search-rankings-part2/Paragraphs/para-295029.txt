@@ -1,0 +1,15 @@
+78,340,6
+q,1
+you,1
+say,1
+that,1
+motherhood,1
+is,2
+sublime,1
+but,1
+sex,1
+bad,1
+from,1
+the,1
+spiritual,1
+and,1

@@ -1,0 +1,4 @@
+48,10,2
+a,1
+reader,1
+writes,1

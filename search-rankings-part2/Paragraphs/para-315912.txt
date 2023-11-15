@@ -1,0 +1,15 @@
+82,420,25
+you,2
+are,1
+a,1
+fine,1
+listener,1
+no,1
+humbug,1
+about,1
+discuss,1
+this,1
+with,1
+them,1
+and,1
+let,1

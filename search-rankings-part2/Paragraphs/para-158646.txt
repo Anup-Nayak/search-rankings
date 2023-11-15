@@ -1,0 +1,12 @@
+46,43,22
+16,1
+5,1
+1929madanapalli,1
+rs,1
+2,1
+475,1
+14,1
+0,1
+anantapur,1
+district,1
+nagireddipalli,1

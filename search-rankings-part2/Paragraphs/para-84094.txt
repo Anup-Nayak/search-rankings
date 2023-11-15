@@ -1,0 +1,12 @@
+24,468,10
+5,1
+there,1
+was,1
+some,1
+truth,1
+in,3
+these,1
+allegations,1
+december,1
+last,1
+and,1

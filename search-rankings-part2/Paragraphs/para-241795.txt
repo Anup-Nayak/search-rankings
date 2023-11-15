@@ -1,0 +1,9 @@
+65,452,5
+565,1
+a,1
+i,2
+f,1
+a*object,1
+and,1
+constitution,1
+2,1

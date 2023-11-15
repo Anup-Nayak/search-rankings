@@ -1,0 +1,6 @@
+47,9,8
+no,1
+danger,1
+when,1
+nursing,1
+efficient,1

@@ -1,0 +1,8 @@
+33,190,5
+take,1
+her,1
+hotel,1
+send,1
+same,1
+day,1
+ahmedabad,1

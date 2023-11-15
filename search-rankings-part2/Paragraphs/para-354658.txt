@@ -1,0 +1,9 @@
+92,2,4
+5,1
+speech,1
+at,1
+seksaria,1
+college,1
+of,1
+commerce,1
+2,1

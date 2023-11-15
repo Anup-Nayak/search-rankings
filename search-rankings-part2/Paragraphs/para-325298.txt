@@ -1,0 +1,6 @@
+85,151,6
+222,1
+letter,1
+to,1
+satyavati,1
+devi,1

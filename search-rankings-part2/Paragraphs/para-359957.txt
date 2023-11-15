@@ -1,0 +1,6 @@
+93,95,10
+sufficient,1
+is,1
+thine,1
+arm,1
+alone,1

@@ -1,0 +1,16 @@
+85,450,2
+yours,1
+sincerely,1
+m,1
+k,2
+gandhi,1
+sir,1
+alladi,1
+krishnaswamy,1
+iyer,2
+c/o,1
+shri,1
+a,1
+vaidyanath,1
+sandai,1
+pettai,1

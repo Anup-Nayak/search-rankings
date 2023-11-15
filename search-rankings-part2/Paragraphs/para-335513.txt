@@ -1,0 +1,4 @@
+87,212,2
+camp,1
+manor,1
+ville,1

@@ -1,0 +1,16 @@
+81,282,11
+1,1
+the,2
+addressee,1
+had,1
+suffered,1
+a,1
+mild,1
+stroke,1
+of,1
+paralysis,1
+7,1
+2,1
+vide,1
+following,1
+item,1

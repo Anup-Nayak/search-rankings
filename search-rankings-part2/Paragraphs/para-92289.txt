@@ -1,0 +1,16 @@
+27,232,3
+a,1
+friend,1
+has,1
+written,1
+to,1
+me,2
+about,1
+seeing,1
+i,1
+reproduce,1
+from,1
+it,1
+the,1
+following,1
+1,1

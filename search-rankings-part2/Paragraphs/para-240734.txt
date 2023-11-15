@@ -1,0 +1,14 @@
+65,352,5
+1,1
+vide,1
+speech,1
+at,1
+subjects,1
+committee,1
+meeting,1
+a,1
+i,1
+c,2
+24,1
+10,1
+1934,1

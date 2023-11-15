@@ -1,0 +1,16 @@
+82,91,15
+perform,1
+the,1
+ritual,1
+practices,1
+that,1
+go,1
+with,1
+it,1
+if,1
+however,1
+they,1
+are,1
+found,1
+to,1
+be,1

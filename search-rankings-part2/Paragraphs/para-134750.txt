@@ -1,0 +1,16 @@
+39,250,3
+k,1
+s,1
+karanth,1
+c/o,1
+g,1
+n,1
+poi,1
+esq,1
+nihalchand,1
+building,1
+new,1
+queens,1
+road,1
+girgaum,1
+bombay,1

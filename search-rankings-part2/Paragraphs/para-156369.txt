@@ -1,0 +1,11 @@
+45,212,16
+a,1
+yes,1
+if,1
+the,1
+invitation,1
+is,1
+bona,1
+fide,1
+and,1
+sincere,1

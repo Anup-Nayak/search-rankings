@@ -1,0 +1,16 @@
+12,436,3
+kindest,1
+regards,1
+to,1
+dear,1
+manilal,1
+ramdas,1
+&,4
+devdas,1
+maganlal,1
+the,2
+others,1
+mrs,1
+gandhi,1
+ladies,1
+kiddies,1

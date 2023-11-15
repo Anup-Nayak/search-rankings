@@ -1,0 +1,17 @@
+38,30,7
+they,1
+elect,1
+not,1
+once,1
+but,1
+many,1
+times,1
+have,1
+i,1
+given,1
+this,1
+advice,1
+in,1
+speech,1
+and,1
+writing,1

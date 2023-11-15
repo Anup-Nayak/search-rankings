@@ -1,0 +1,16 @@
+82,387,15
+g,1
+i,1
+mean,1
+the,2
+conversion,1
+of,1
+both,1
+you,1
+see,1
+if,1
+owning,1
+class,1
+does,1
+not,1
+accept,1

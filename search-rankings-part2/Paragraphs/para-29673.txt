@@ -1,0 +1,12 @@
+9,481,2
+this,1
+meeting,1
+hereby,1
+authorises,1
+the,3
+chairman,1
+to,2
+send,1
+resolutions,1
+proper,1
+quarters,1

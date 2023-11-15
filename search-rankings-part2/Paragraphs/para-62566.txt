@@ -1,0 +1,12 @@
+17,452,9
+2,1
+this,1
+seems,1
+to,1
+be,1
+an,1
+addition,1
+by,1
+the,1
+police,1
+officer,1

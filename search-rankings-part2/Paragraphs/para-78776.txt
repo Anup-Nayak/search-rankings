@@ -1,0 +1,6 @@
+23,57,8
+proportion,1
+of,1
+subscription,1
+in,1
+thousands,1

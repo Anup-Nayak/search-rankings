@@ -1,0 +1,8 @@
+90,423,14
+have,1
+produced,1
+no,1
+solutions,1
+and,1
+round,1
+table,1

@@ -1,0 +1,5 @@
+30,45,6
+34,1
+the,1
+working,1
+committee,1

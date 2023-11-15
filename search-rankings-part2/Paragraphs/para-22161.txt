@@ -1,0 +1,12 @@
+7,334,7
+cross,1
+examined,1
+by,2
+mr,1
+gandhi,1
+witness,1
+2,1
+said,1
+he,1
+was,1
+instructed,1

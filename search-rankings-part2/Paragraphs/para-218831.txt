@@ -1,0 +1,4 @@
+60,230,1
+275,1
+protective,1
+clothing,1

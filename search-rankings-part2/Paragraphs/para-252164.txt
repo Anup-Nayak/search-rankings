@@ -1,0 +1,4 @@
+68,102,5
+manilal,1
+and,1
+sushila,1

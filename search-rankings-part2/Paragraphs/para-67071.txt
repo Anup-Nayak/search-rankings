@@ -1,0 +1,8 @@
+19,183,1
+139,1
+indian,1
+situation,1
+in,1
+east,1
+africa,1
+1,1

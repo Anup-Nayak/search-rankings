@@ -1,0 +1,13 @@
+28,186,7
+1,1
+for,1
+an,1
+extract,1
+from,1
+the,1
+letter,1
+supplied,1
+under,1
+this,1
+date,1
+ibid,1

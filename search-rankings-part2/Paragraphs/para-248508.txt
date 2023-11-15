@@ -1,0 +1,10 @@
+67,172,2
+yours,1
+sincerely,1
+sardar,1
+sardul,1
+singh,1
+caveeshar,1
+chamberlain,1
+road,1
+lahore,1

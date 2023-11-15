@@ -1,0 +1,6 @@
+70,228,2
+258,1
+duty,1
+towards,1
+christian,1
+harijans,1

@@ -1,0 +1,12 @@
+81,510,6
+and,1
+be,1
+ready,1
+to,2
+render,1
+aid,1
+those,1
+who,1
+may,1
+require,1
+it,1

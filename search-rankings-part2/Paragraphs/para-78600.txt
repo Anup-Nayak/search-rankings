@@ -1,0 +1,15 @@
+23,24,26
+so,2
+for,1
+how,1
+could,1
+they,1
+import,1
+much,1
+machinery,1
+in,1
+one,1
+year,1
+from,1
+foreign,1
+countries,1

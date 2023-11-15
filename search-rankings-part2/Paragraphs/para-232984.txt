@@ -1,0 +1,9 @@
+63,478,7
+1,1
+co,1
+worker,1
+of,2
+jivram,2
+kothari,2
+2,1
+kutch,1

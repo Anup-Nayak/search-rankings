@@ -1,0 +1,4 @@
+94,71,10
+minimize,1
+the,1
+atrocities,1

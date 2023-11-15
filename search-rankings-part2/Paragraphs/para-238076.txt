@@ -1,0 +1,6 @@
+65,71,3
+esther,1
+menon,1
+vision,1
+bungalow,1
+tanjore,1

@@ -1,0 +1,7 @@
+90,24,10
+36,1
+letter,1
+to,1
+sardul,1
+singh,1
+caveeshar,1

@@ -1,0 +1,14 @@
+82,379,15
+kai,1
+sheks,1
+expected,1
+arrival,1
+discussed,1
+the,1
+arrangements,1
+of,1
+his,1
+reception,1
+and,1
+cracked,1
+a,1

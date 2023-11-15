@@ -1,0 +1,14 @@
+30,275,1
+who,1
+is,1
+now,1
+keeping,1
+much,1
+better,1
+health,1
+than,1
+he,1
+did,1
+some,1
+time,1
+ago,1

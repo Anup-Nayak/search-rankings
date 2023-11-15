@@ -1,0 +1,15 @@
+13,286,3
+2,1
+the,3
+rights,1
+existing,1
+prior,1
+to,1
+passing,1
+of,1
+act,1
+are,1
+not,1
+restored,1
+and,1
+maintained,1

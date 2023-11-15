@@ -1,0 +1,9 @@
+35,39,1
+61,1
+message,1
+to,1
+mysore,1
+lawyers,1
+conference,1
+tumkur,1
+1,1

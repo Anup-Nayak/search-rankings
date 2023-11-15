@@ -1,0 +1,14 @@
+83,119,6
+i,1
+have,1
+read,1
+with,1
+attention,1
+quaid,1
+e,1
+azams,1
+reply,1
+to,1
+my,1
+article,1
+1,1

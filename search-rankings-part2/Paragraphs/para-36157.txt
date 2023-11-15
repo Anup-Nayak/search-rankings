@@ -1,0 +1,10 @@
+11,287,11
+can,1
+be,1
+no,1
+compromise,1
+this,1
+point,1
+hope,1
+cape,1
+natal,1

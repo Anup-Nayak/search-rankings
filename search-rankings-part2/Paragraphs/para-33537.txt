@@ -1,0 +1,10 @@
+10,502,3
+mr,1
+mohandas,1
+karamchand,1
+gandhi,1
+moved,1
+the,1
+following,1
+resolution,1
+2,1

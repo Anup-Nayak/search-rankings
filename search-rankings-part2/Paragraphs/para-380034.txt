@@ -1,0 +1,8 @@
+98,380,11
+from,1
+the,1
+gujarati,1
+original,1
+pyarelal,2
+papers,1
+coutesy,1

@@ -1,0 +1,14 @@
+41,180,13
+1,1
+the,2
+year,1
+has,1
+been,1
+supplied,1
+from,1
+g,1
+n,1
+register,1
+2,1
+addressees,1
+daughter,1

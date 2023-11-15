@@ -1,0 +1,15 @@
+11,502,5
+d,1
+that,1
+the,2
+granting,1
+of,1
+such,1
+a,1
+license,1
+would,1
+be,1
+contrary,1
+to,1
+public,1
+interest,1

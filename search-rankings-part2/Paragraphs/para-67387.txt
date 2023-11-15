@@ -1,0 +1,16 @@
+19,225,6
+clear,1
+to,3
+you,2
+that,1
+would,1
+not,1
+be,1
+allowed,1
+proceed,1
+delhi,1
+or,1
+the,1
+punjab,1
+but,1
+if,1

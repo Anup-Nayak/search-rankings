@@ -1,0 +1,14 @@
+46,23,4
+one,1
+agency,1
+alone,1
+the,2
+postal,1
+charges,1
+for,1
+all,1
+yarn,1
+received,1
+amounted,1
+to,1
+rs,1

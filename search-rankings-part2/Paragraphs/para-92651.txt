@@ -1,0 +1,7 @@
+27,297,7
+but,1
+what,1
+is,1
+proper,1
+awaiting,1
+letter,1

@@ -1,0 +1,5 @@
+91,107,4
+134,1
+mindfulness,1
+the,1
+remedy,1

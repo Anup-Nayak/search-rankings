@@ -1,0 +1,7 @@
+61,188,12
+consult,1
+kanuga,1
+regarding,1
+s,1
+and,1
+report,1

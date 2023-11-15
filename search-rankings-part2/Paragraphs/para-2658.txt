@@ -1,0 +1,14 @@
+2,54,14
+carry,1
+out,1
+their,1
+proceeding,1
+to,1
+the,2
+point,1
+and,1
+if,1
+all,1
+goes,1
+well,1
+demonstration,1

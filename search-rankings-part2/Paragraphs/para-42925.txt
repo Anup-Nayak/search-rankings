@@ -1,0 +1,9 @@
+13,144,25
+from,1
+others,1
+stop,1
+if,1
+this,1
+requirement,1
+is,1
+waiv,1

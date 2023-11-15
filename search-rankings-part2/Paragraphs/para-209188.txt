@@ -1,0 +1,14 @@
+58,201,7
+directed,1
+that,1
+arya,1
+samaj,1
+should,1
+do,1
+propaganda,1
+work,1
+by,1
+lectures,1
+and,2
+literature,1
+also,1

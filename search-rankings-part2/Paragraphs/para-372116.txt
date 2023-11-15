@@ -1,0 +1,13 @@
+96,269,6
+1,1
+a,1
+gujarati,1
+translation,1
+of,1
+this,1
+appeared,1
+in,1
+harijanbandhu,1
+31,1
+8,1
+1947,1

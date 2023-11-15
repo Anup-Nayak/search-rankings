@@ -1,0 +1,11 @@
+82,233,5
+acharya,1
+narendra,1
+dev,1
+has,1
+seen,1
+the,1
+resolution,1
+and,1
+liked,1
+it,1

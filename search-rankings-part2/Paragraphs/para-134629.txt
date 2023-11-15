@@ -1,0 +1,9 @@
+39,232,2
+218,1
+speech,1
+at,1
+prani,1
+daya,1
+sangha,1
+tumkur,1
+1,1

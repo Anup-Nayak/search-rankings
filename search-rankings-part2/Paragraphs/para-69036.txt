@@ -1,0 +1,8 @@
+19,436,4
+268,1
+letter,1
+to,1
+l,1
+french,1
+calcutta,1
+1,1

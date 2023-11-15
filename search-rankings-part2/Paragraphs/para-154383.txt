@@ -1,0 +1,9 @@
+44,489,16
+t2,1
+guj,1
+has,1
+was,1
+oppressed,1
+by,1
+the,1
+thought,1

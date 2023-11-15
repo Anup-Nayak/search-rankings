@@ -1,0 +1,10 @@
+72,223,12
+god,1
+is,1
+great,2
+and,1
+merciful,1
+comfort,1
+to,1
+find,1
+you,1

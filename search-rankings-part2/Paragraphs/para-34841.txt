@@ -1,0 +1,8 @@
+11,152,9
+r,1
+m,1
+sodha,1
+unregistered,1
+resident,1
+transvaal,1
+in,1

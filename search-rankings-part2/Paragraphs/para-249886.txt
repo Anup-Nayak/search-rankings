@@ -1,0 +1,14 @@
+67,308,6
+i,2
+hope,1
+have,1
+given,1
+answers,1
+to,2
+all,1
+your,2
+questions,1
+which,1
+will,1
+be,1
+satisfaction,1

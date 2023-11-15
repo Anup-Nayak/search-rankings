@@ -1,0 +1,15 @@
+72,235,12
+5,1
+from,1
+toddy,1
+we,1
+get,1
+vinegar,1
+which,1
+is,1
+used,1
+in,1
+pickles,1
+and,1
+as,1
+a,1

@@ -1,0 +1,16 @@
+28,80,5
+a,1
+student,1
+of,1
+gujarat,1
+vidyapith,1
+who,1
+loses,1
+the,1
+institution,1
+wrote,1
+to,1
+me,1
+as,1
+follows,1
+4,1

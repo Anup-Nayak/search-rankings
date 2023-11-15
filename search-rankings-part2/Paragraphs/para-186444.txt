@@ -1,0 +1,13 @@
+52,468,11
+tribunals,1
+as,1
+mr,2
+emerson,1
+had,1
+warned,1
+me,1
+gandhi,1
+feels,1
+deeply,1
+that,1
+congress,1

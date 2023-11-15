@@ -1,0 +1,11 @@
+80,111,5
+dont,1
+bring,1
+persons,1
+from,1
+villages,1
+into,1
+towns,1
+for,1
+offering,1
+satyagraha,1

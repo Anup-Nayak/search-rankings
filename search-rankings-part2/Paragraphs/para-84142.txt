@@ -1,0 +1,13 @@
+24,472,2
+was,3
+interned,1
+lala,1
+lajpat,1
+rai,1
+deported,1
+bipin,1
+chandra,1
+pal,1
+not,1
+allowed,1
+to,1

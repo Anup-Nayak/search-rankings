@@ -1,0 +1,8 @@
+23,49,1
+18,1
+speech,1
+at,1
+taluka,1
+conference,1
+halol,1
+1,1

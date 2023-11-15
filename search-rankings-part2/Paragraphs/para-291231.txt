@@ -1,0 +1,11 @@
+77,415,17
+dominion,2
+status,2
+that,1
+we,1
+contemplated,1
+was,1
+the,1
+which,1
+has,1
+been,1

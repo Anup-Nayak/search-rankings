@@ -1,0 +1,10 @@
+72,159,14
+abandon,1
+strike,1
+relying,1
+upon,1
+us,1
+all,1
+trying,1
+best,1
+secure,1

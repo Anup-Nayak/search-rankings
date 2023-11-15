@@ -1,0 +1,14 @@
+92,338,9
+yours,1
+m,1
+k,1
+gandhi,1
+t,1
+r,1
+narayan,1
+nambiar,1
+b,2
+a,1
+l,1
+thuckalay,1
+travancore,1

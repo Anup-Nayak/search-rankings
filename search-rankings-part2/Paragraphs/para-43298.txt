@@ -1,0 +1,6 @@
+13,178,6
+6,1
+infectious,1
+diseases,1
+continued,1
+smallpox2,1

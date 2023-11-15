@@ -1,0 +1,6 @@
+40,348,6
+1,1
+the,1
+kathiawar,1
+political,1
+conference,1

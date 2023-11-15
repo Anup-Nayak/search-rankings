@@ -1,0 +1,14 @@
+82,158,15
+life,1
+of,2
+the,1
+country,1
+for,1
+example,1
+if,1
+industrial,1
+plants,1
+like,1
+those,1
+jute,1
+cotton,1

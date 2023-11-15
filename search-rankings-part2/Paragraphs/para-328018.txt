@@ -1,0 +1,12 @@
+85,410,6
+2,1
+i,2
+like,1
+it,2
+but,1
+the,1
+question,1
+is,1
+how,1
+can,1
+do,1

@@ -1,0 +1,10 @@
+35,2,6
+n,1
+s,1
+varadachari,1
+erode,1
+sjt,1
+puntambekar,1
+hindu,1
+university,1
+banaras,1

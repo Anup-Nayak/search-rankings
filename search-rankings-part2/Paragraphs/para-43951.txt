@@ -1,0 +1,6 @@
+13,277,1
+known,1
+fully,1
+by,1
+self,1
+realization,1

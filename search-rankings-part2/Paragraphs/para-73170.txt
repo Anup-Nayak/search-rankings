@@ -1,0 +1,9 @@
+21,95,7
+complete,1
+hartal,1
+offering,1
+heartfelt,1
+prayer,1
+by,1
+orderly,1
+but,1

@@ -1,0 +1,16 @@
+36,441,6
+i,2
+miss,1
+the,2
+thing,1
+which,1
+is,1
+a,1
+boon,1
+to,1
+man,1
+and,1
+animal,1
+in,1
+india,1
+mean,1

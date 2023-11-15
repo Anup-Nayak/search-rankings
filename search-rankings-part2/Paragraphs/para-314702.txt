@@ -1,0 +1,15 @@
+82,385,28
+direct,1
+with,2
+them,2
+or,1
+by,1
+meeting,1
+in,1
+association,1
+myself,1
+he,1
+thought,1
+that,1
+if,1
+it,1

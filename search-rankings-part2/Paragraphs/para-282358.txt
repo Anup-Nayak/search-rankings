@@ -1,0 +1,5 @@
+75,302,3
+q,1
+were,1
+they,1
+favourable,1

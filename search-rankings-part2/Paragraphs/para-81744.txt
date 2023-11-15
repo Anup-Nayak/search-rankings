@@ -1,0 +1,13 @@
+24,67,10
+they,2
+cannot,1
+think,1
+of,1
+a,1
+plain,1
+simple,1
+dress,1
+must,1
+wear,1
+the,1
+costliest,1

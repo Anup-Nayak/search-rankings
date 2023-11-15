@@ -1,0 +1,11 @@
+52,151,7
+settlement,1
+makes,1
+my,1
+leaving,1
+india,1
+difficult,1
+if,1
+not,1
+impossible,1
+but,1

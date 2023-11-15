@@ -1,0 +1,13 @@
+94,205,12
+committee,1
+a,1
+fearless,1
+fighter,1
+prof,1
+bari,1
+was,1
+with,1
+the,2
+congress,1
+during,1
+different,1

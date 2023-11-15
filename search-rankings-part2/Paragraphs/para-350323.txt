@@ -1,0 +1,6 @@
+90,430,2
+an,1
+atheist,1
+with,1
+gandhi,1
+pp,1

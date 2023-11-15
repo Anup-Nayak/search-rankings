@@ -1,0 +1,9 @@
+41,425,5
+who,1
+has,1
+just,1
+come,1
+to,1
+you,1
+from,1
+russia,1

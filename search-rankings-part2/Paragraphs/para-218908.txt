@@ -1,0 +1,6 @@
+60,239,1
+287,1
+experience,1
+of,1
+a,1
+teacher,1

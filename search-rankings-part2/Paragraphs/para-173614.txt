@@ -1,0 +1,17 @@
+49,463,26
+armed,1
+police,1
+entered,1
+his,1
+room,1
+they,1
+turned,1
+a,1
+flash,1
+lamp,1
+on,1
+him,1
+and,1
+he,1
+awoke,1
+at,1

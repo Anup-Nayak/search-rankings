@@ -1,0 +1,8 @@
+3,36,7
+about,1
+two,1
+miles,1
+away,1
+but,1
+not,1
+occupied,1

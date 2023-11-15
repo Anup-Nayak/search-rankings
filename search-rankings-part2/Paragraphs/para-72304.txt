@@ -1,0 +1,13 @@
+20,444,7
+4,1
+the,3
+next,1
+point,1
+to,2
+which,1
+government,1
+of,1
+india,1
+wish,1
+advert,1
+is,1

@@ -1,0 +1,8 @@
+96,215,10
+1vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+8,2
+1947,1

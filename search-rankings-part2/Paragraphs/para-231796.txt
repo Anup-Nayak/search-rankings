@@ -1,0 +1,6 @@
+63,335,8
+wire,1
+condition,1
+nose,1
+basu,1
+madhubani,1

@@ -1,0 +1,5 @@
+66,143,10
+1,1
+a,1
+sindhi,1
+philanthropist,1

@@ -1,0 +1,9 @@
+67,271,3
+gandhiji,1
+but,1
+why,1
+do,1
+you,1
+object,1
+to,1
+it,1

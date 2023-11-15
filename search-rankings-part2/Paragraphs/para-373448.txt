@@ -1,0 +1,17 @@
+96,436,13
+stand,1
+still,1
+agreement,1
+and,1
+i,1
+hoped,1
+also,1
+the,1
+terms,1
+under,1
+which,1
+they,1
+would,1
+join,1
+one,1
+or,1

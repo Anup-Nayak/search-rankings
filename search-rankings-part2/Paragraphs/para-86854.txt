@@ -1,0 +1,8 @@
+25,399,10
+q,1
+why,1
+do,1
+you,1
+write,1
+in,1
+english,1

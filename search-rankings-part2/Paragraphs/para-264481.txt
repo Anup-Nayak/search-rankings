@@ -1,0 +1,7 @@
+71,132,8
+without,1
+a,1
+previous,1
+understanding,1
+regarding,1
+safeguards,1

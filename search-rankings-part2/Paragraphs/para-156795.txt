@@ -1,0 +1,7 @@
+45,270,8
+bapuna,1
+patro,1
+1,1
+ashramni,1
+behnone,1
+p,1

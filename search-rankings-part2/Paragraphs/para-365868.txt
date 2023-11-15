@@ -1,0 +1,6 @@
+94,336,3
+341,1
+talk,1
+with,1
+englishwomen,1
+1,1

@@ -1,0 +1,4 @@
+7,421,1
+left,1
+hand,1
+impression,1

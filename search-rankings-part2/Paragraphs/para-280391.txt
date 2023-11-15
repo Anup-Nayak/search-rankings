@@ -1,0 +1,16 @@
+75,75,8
+second,1
+incident,1
+date,1
+of,3
+happening,2
+2nd,1
+february,1
+1939,1
+place,1
+on,1
+the,1
+outskirts,1
+deoli,1
+british,1
+territory,1

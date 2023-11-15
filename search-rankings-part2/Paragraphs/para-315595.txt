@@ -1,0 +1,12 @@
+82,411,31
+each,1
+village,1
+will,1
+have,1
+its,1
+one,1
+dollar,1
+which,1
+cannot,1
+be,1
+lost,1

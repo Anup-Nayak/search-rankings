@@ -1,0 +1,13 @@
+82,299,35
+men,2
+are,1
+stationed,1
+near,1
+the,2
+tennis,1
+court,1
+and,1
+round,1
+about,1
+club,1
+camel,1

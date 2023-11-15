@@ -1,0 +1,15 @@
+5,227,3
+a,3
+correspondent,1
+writes,1
+letter,1
+to,1
+us,1
+in,1
+gujarati,1
+of,1
+which,1
+the,1
+following,1
+is,1
+translation,1

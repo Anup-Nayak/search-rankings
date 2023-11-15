@@ -1,0 +1,11 @@
+20,58,4
+he,1
+reached,1
+the,1
+bagh,1
+about,1
+5,2
+or,1
+15,1
+p,1
+m,1

@@ -1,0 +1,7 @@
+75,139,2
+172,1
+talk,1
+with,1
+first,1
+member,1
+rajkot,1

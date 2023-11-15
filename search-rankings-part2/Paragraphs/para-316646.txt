@@ -1,0 +1,6 @@
+83,77,7
+sevagram,1
+wardha,1
+july,1
+5,1
+1942,1

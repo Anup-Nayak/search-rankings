@@ -1,0 +1,13 @@
+64,17,1
+will,3
+reject,1
+adult,1
+franchise,1
+they,1
+say,1
+one,1
+thing,1
+but,1
+do,1
+the,1
+other,1

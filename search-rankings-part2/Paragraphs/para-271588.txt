@@ -1,0 +1,6 @@
+73,11,4
+13,1
+telegram,1
+to,1
+gladys,1
+owen,1

@@ -1,0 +1,9 @@
+35,271,2
+a,1
+madras,1
+inspectress,1
+of,1
+education,1
+has,1
+pronounced,1
+sentence,1

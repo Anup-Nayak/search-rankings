@@ -1,0 +1,5 @@
+82,269,2
+if,1
+harijan,1
+is,1
+prohibited,1

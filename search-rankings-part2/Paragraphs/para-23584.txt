@@ -1,0 +1,4 @@
+8,80,4
+huge,1
+mass,1
+meeting,1

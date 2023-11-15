@@ -1,0 +1,9 @@
+78,149,10
+begun,1
+at,1
+the,2
+wrong,1
+end,1
+i,1
+suggest,1
+right,1

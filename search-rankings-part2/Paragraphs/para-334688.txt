@@ -1,0 +1,8 @@
+87,140,5
+spinner,1
+shri,1
+sarojini,1
+devi,1
+naidu,1
+hyderabad,1
+deccan,1

@@ -1,0 +1,5 @@
+52,350,1
+481,1
+substance,1
+not,1
+shadow,1

@@ -1,0 +1,7 @@
+13,46,25
+zing,1
+indian,2
+marriages,1
+celebrated,1
+according,1
+to,1

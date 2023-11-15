@@ -1,0 +1,7 @@
+13,104,6
+if,1
+bill,1
+passed,1
+without,1
+amendment,1
+granting,1

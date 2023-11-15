@@ -1,0 +1,8 @@
+64,138,6
+alarm,1
+unjustified,1
+taking,2
+every,1
+care,1
+propose,1
+seven,1

@@ -1,0 +1,7 @@
+81,258,2
+ashram,1
+saturday,1
+october,1
+31,1
+1941,1
+1,1

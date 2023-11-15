@@ -1,0 +1,13 @@
+35,65,10
+shri,1
+quayam,1
+ali,3
+mohamad,2
+salemwala,1
+c/o,1
+&,1
+sons,1
+somerset,1
+street,1
+camp,1
+karachi,1

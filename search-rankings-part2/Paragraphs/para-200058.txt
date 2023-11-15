@@ -1,0 +1,12 @@
+56,118,9
+1,1
+this,1
+paragraph,1
+is,1
+in,1
+urdu,1
+2,1
+dr,1
+m,1
+a,1
+ansari,1

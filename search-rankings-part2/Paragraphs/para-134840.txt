@@ -1,0 +1,8 @@
+39,263,5
+249,1
+speech,1
+in,1
+reply,1
+to,1
+addresses,1
+mysore,1

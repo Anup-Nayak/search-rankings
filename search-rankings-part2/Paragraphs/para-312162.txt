@@ -1,0 +1,13 @@
+82,190,4
+i,1
+went,1
+to,1
+the,3
+place,1
+in,1
+company,1
+of,2
+my,1
+aunt,1
+wife,1
+lala,1

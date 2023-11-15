@@ -1,0 +1,6 @@
+49,11,2
+10,1
+statement,1
+to,1
+associated,1
+press,1

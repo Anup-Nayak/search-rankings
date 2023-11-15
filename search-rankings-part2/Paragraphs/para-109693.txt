@@ -1,0 +1,5 @@
+32,320,15
+1,1
+leper,1
+asylum,1
+cuttack,1

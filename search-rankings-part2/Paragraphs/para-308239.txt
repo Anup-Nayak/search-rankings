@@ -1,0 +1,7 @@
+81,303,6
+without,1
+knowing,1
+nature,1
+future,1
+condition,1
+assuming,1

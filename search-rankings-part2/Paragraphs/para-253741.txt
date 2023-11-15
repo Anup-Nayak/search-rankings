@@ -1,0 +1,15 @@
+68,267,4
+a,2
+very,1
+fine,1
+criterion,1
+for,1
+this,1
+is,1
+to,1
+be,1
+found,1
+in,1
+the,1
+sloka,1
+2,1

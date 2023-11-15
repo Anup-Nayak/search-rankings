@@ -1,0 +1,6 @@
+42,74,1
+106,1
+letter,1
+to,1
+bechar,1
+parmar,1

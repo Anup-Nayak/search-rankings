@@ -1,0 +1,6 @@
+8,176,4
+point,1
+in,1
+giving,1
+finger,1
+impressions,1

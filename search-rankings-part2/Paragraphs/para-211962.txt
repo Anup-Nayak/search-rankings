@@ -1,0 +1,16 @@
+58,477,5
+question,1
+do,1
+you,1
+promise,1
+to,2
+listen,1
+the,1
+shastris,1
+if,1
+they,1
+secure,1
+a,1
+51,1
+per,1
+cent,1

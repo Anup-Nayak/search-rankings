@@ -1,0 +1,8 @@
+79,403,4
+province,1
+that,1
+was,1
+the,1
+best,1
+cause,1
+anxiety,1

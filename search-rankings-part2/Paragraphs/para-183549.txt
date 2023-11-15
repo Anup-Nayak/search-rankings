@@ -1,0 +1,6 @@
+52,150,8
+mohanlal,1
+saksena,1
+care,1
+congress,1
+lucknow,1

@@ -1,0 +1,3 @@
+49,109,8
+119,1
+untouchability,1

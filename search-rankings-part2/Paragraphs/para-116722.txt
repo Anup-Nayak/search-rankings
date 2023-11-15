@@ -1,0 +1,6 @@
+34,440,5
+ashram,1
+sabarmati,1
+march,1
+24,1
+1926,1

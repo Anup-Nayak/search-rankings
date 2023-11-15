@@ -1,0 +1,9 @@
+20,442,11
+maulana,2
+shaukat,1
+ali,1
+dr,1
+kitchlew,1
+and,1
+hasrat,1
+mohani,1

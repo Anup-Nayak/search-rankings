@@ -1,0 +1,13 @@
+59,374,2
+gandhi,1
+how,1
+are,1
+you,1
+to,1
+determine,1
+that,2
+a,1
+particular,1
+woman,1
+satisfies,1
+definition,1

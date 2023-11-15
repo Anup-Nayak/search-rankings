@@ -1,0 +1,9 @@
+87,200,4
+time,1
+health,1
+permitting,1
+would,1
+like,1
+study,1
+case,1
+and,1

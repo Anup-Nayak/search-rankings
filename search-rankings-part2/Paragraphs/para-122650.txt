@@ -1,0 +1,10 @@
+36,153,2
+shri,1
+mohanlal,1
+k,1
+pandya,1
+khadi,1
+karyalaya,1
+mahudha,1
+via,1
+nadiad,1

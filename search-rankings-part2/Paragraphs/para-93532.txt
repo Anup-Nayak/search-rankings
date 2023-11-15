@@ -1,0 +1,11 @@
+27,408,2
+provided,1
+with,1
+cots,1
+bedding,1
+tables,1
+chairs,1
+writing,1
+materials,1
+books,1
+and,1

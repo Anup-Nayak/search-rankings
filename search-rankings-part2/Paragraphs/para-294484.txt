@@ -1,0 +1,11 @@
+78,285,5
+1,1
+abul,1
+kalam,1
+azad,1
+2,1
+demanding,1
+a,1
+separate,1
+muslim,1
+state,1

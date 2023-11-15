@@ -1,0 +1,5 @@
+71,190,3
+a,1
+bangalore,1
+correspondent,1
+asks,1

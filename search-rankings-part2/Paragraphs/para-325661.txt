@@ -1,0 +1,8 @@
+85,180,6
+1,1
+vide,2
+the,2
+following,1
+item,2
+2,1
+preceding,1

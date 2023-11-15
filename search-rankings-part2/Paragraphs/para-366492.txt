@@ -1,0 +1,12 @@
+94,410,9
+i,1
+have,1
+been,1
+able,1
+to,1
+write,1
+this,1
+much,1
+with,1
+great,1
+difficulty,1

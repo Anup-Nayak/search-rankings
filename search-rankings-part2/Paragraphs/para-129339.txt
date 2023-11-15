@@ -1,0 +1,7 @@
+38,27,2
+1,1
+vide,1
+antyaja,1
+directory,1
+12,2
+1926,1

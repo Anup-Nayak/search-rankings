@@ -1,0 +1,11 @@
+16,514,13
+2,1
+we,1
+next,1
+discussed,1
+the,2
+proposed,1
+amendment,1
+making,1
+satta,1
+obligation,1

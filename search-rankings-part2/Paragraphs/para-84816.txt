@@ -1,0 +1,14 @@
+25,103,7
+as,1
+he,3
+hesitated,1
+heard,1
+the,1
+noise,1
+of,1
+a,1
+spinning,1
+wheel,1
+knew,1
+it,1
+at,1

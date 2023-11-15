@@ -1,0 +1,7 @@
+92,127,3
+183,1
+congress,1
+ministries,1
+and,1
+ahimsa,1
+1,1

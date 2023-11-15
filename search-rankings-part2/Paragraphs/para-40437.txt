@@ -1,0 +1,13 @@
+12,313,10
+avabai,1
+left,1
+sorabji,1
+alsodorabji,1
+came,1
+at,1
+night,1
+paid,1
+freight,1
+0,1
+1,1
+6,1

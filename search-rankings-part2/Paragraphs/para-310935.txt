@@ -1,0 +1,17 @@
+82,93,5
+ground,1
+for,1
+growing,1
+strong,1
+is,1
+it,1
+right,1
+to,1
+divide,1
+the,2
+people,1
+of,2
+a,1
+nation,1
+on,1
+basis,1

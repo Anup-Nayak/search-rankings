@@ -1,0 +1,9 @@
+52,45,2
+borsad,1
+may,1
+6,1
+1931,1
+sardar,1
+framroze,1
+garda,1
+navsari,1

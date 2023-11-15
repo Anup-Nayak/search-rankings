@@ -1,0 +1,9 @@
+12,122,2
+december,1
+21,1
+1911,1
+private,1
+secretary,1
+to,1
+interior,1
+pretoria,1

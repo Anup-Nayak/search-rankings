@@ -1,0 +1,4 @@
+97,45,9
+daughter,1
+amtul,1
+salaam,1

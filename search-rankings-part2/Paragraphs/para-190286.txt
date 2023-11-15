@@ -1,0 +1,11 @@
+53,433,4
+yours,1
+sincerely,1
+mrs,1
+g,1
+haines,1
+abbotsford,1
+10,1
+market,1
+place,1
+warwick,1

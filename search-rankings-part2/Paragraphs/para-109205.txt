@@ -1,0 +1,9 @@
+32,230,2
+1,1
+representative,1
+bodies,1
+managing,1
+the,1
+affairs,1
+of,1
+communities,1

@@ -1,0 +1,7 @@
+81,490,5
+why,1
+not,1
+in,1
+hindu,1
+majority,1
+provinces,1

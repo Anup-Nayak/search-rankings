@@ -1,0 +1,6 @@
+48,48,3
+42,1
+note,1
+to,1
+reginald,1
+reynolds,1

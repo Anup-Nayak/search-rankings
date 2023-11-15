@@ -1,0 +1,8 @@
+57,37,8
+contemplated,1
+fast,1
+to,1
+unknown,1
+private,1
+residence,1
+under,1

@@ -1,0 +1,17 @@
+9,500,8
+we,1
+will,2
+not,1
+go,1
+into,1
+the,3
+history,1
+of,1
+struggle,1
+but,1
+state,1
+question,1
+as,1
+it,1
+stand,1
+today,1

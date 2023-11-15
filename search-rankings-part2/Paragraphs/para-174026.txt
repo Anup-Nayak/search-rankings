@@ -1,0 +1,6 @@
+50,38,1
+54,1
+letter,1
+to,1
+motibehn,1
+choksi,1

@@ -1,0 +1,14 @@
+81,271,1
+advance,1
+by,2
+adverse,1
+criticism,1
+of,1
+any,1
+other,1
+institution,1
+it,1
+progresses,1
+its,1
+own,1
+strength,1

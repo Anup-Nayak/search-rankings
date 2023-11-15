@@ -1,0 +1,12 @@
+82,407,23
+countries,1
+lafayette,1
+went,1
+from,1
+france,1
+to,1
+assist,1
+america,1
+in,1
+winning,1
+independence,1

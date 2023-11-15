@@ -1,0 +1,10 @@
+34,327,10
+1,1
+to,1
+stay,1
+in,1
+the,1
+ashram,1
+for,1
+one,1
+year,1

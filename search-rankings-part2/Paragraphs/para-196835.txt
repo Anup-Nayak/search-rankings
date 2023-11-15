@@ -1,0 +1,7 @@
+55,222,6
+nothing,1
+serious,1
+please,1
+wire,1
+full,1
+particulars,1

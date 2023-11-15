@@ -1,0 +1,5 @@
+42,313,3
+self,2
+restraint,1
+v,1
+indulgence,1

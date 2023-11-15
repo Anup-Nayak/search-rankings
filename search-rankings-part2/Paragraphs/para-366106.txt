@@ -1,0 +1,5 @@
+94,361,15
+biharni,1
+komi,1
+agman,1
+p,1

@@ -1,0 +1,7 @@
+17,322,7
+against,1
+hasty,1
+individual,1
+action,1
+laws,1
+for,1

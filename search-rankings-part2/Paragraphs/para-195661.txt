@@ -1,0 +1,9 @@
+55,93,3
+mohandas,1
+sjt,1
+bhagwanji,1
+anupchand,1
+vakil,1
+sadar,1
+rajkot,1
+kathiawar,1

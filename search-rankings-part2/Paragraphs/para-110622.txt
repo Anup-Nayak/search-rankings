@@ -1,0 +1,15 @@
+32,459,9
+the,2
+best,1
+thing,1
+was,2
+to,2
+use,1
+better,1
+charkhas,1
+and,1
+see,1
+that,1
+yarn,1
+well,1
+spun,1

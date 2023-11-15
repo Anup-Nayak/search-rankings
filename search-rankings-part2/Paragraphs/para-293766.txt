@@ -1,0 +1,9 @@
+78,221,6
+every,1
+one,1
+of,1
+us,1
+but,1
+there,1
+you,1
+are,1

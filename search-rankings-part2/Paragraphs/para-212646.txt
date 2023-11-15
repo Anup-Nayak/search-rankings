@@ -1,0 +1,10 @@
+59,41,14
+1,1
+daughter,1
+of,2
+maganlal,1
+gandhi,1
+and,1
+wife,1
+benarsilal,1
+bazaj,1

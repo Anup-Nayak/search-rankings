@@ -1,0 +1,17 @@
+89,78,1
+the,2
+money,2
+and,1
+time,2
+saving,2
+is,1
+also,1
+but,1
+if,1
+you,2
+feel,1
+that,1
+must,1
+then,1
+do,1
+come,1

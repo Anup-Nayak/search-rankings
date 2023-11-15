@@ -1,0 +1,13 @@
+94,86,2
+but,1
+he,1
+strongly,1
+disapproved,1
+of,3
+the,1
+practice,1
+making,1
+a,2
+mountain,1
+out,1
+molehill,1

@@ -1,0 +1,9 @@
+92,65,5
+yours,1
+m,1
+k,1
+gandhi,1
+dr,1
+satyapal,1
+of,1
+lahore,1

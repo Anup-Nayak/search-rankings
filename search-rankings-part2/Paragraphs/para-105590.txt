@@ -1,0 +1,16 @@
+31,156,11
+hour,1
+a,1
+day,1
+he,1
+was,1
+firmly,1
+of,1
+the,1
+opinion,1
+that,1
+if,1
+they,2
+would,2
+merely,1
+spin,1

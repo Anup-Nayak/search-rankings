@@ -1,0 +1,15 @@
+51,147,3
+resort,1
+has,1
+been,1
+had,1
+to,1
+coercive,1
+processes,1
+for,1
+collection,1
+of,1
+taxes,1
+due,1
+such,1
+further,1

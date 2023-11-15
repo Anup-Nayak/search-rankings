@@ -1,0 +1,12 @@
+66,64,7
+father,1
+elwin,1
+gond,1
+s,1
+mandal,1
+karanjia,1
+p,2
+o,1
+mandla,1
+dist,1
+c,1

@@ -1,0 +1,11 @@
+72,332,2
+a,1
+donation,1
+to,2
+khadi,1
+dr,1
+pattabhi,1
+writes,1
+me,1
+as,1
+follows,1

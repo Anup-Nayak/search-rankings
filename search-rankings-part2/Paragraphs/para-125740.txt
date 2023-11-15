@@ -1,0 +1,13 @@
+36,508,10
+a,1
+one,1
+hesitates,1
+to,1
+advise,1
+you,3
+that,1
+should,1
+let,1
+the,1
+snake,1
+bite,1

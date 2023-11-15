@@ -1,0 +1,15 @@
+21,97,3
+from,1
+the,1
+public,1
+schools,1
+and,1
+they,1
+must,1
+evolve,1
+a,1
+system,1
+of,1
+national,1
+education,1
+or,1

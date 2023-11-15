@@ -1,0 +1,15 @@
+2,108,5
+in,2
+a,1
+great,1
+political,1
+question,1
+which,1
+his,1
+countrymen,1
+take,1
+as,2
+much,1
+interest,1
+we,1
+do,1

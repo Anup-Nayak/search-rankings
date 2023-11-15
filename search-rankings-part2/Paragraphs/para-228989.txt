@@ -1,0 +1,8 @@
+62,432,3
+459,1
+speech,1
+at,1
+malabar,1
+christian,1
+college,1
+calicut,1

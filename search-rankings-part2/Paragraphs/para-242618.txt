@@ -1,0 +1,16 @@
+66,72,11
+what,1
+do,1
+you,1
+think,1
+about,1
+the,2
+latest,1
+move,1
+of,1
+government,1
+regarding,1
+your,1
+village,1
+industries,1
+scheme,1

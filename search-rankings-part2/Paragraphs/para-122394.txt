@@ -1,0 +1,8 @@
+36,126,3
+135,1
+letter,1
+to,1
+pan,1
+asiatic,1
+society,1
+peking,1

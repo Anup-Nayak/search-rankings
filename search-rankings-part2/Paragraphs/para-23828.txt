@@ -1,0 +1,12 @@
+8,115,4
+1,1
+this,1
+letter,1
+is,1
+demaged,1
+at,1
+places,1
+2,1
+and,1
+not,1
+stay,1

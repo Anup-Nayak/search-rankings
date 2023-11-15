@@ -1,0 +1,6 @@
+87,287,6
+493,1
+letter,1
+to,1
+sarala,1
+devi,1

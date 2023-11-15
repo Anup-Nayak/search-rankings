@@ -1,0 +1,10 @@
+42,367,2
+1,1
+vide,1
+speech,1
+to,1
+volunteers,1
+bardoli,1
+12,1
+8,1
+1928,1

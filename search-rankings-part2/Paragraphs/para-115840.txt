@@ -1,0 +1,17 @@
+34,330,4
+i,2
+have,1
+your,2
+two,1
+letters,1
+understand,2
+point,1
+of,1
+view,1
+but,1
+you,1
+should,1
+also,1
+and,1
+appreciate,1
+mine,1

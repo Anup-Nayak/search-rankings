@@ -1,0 +1,11 @@
+47,387,12
+enquire,1
+if,1
+you,1
+need,1
+his,1
+assistance,1
+advice,1
+tour,1
+programme,1
+in,1

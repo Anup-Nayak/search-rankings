@@ -1,0 +1,6 @@
+47,33,9
+30,1
+letter,1
+to,1
+mathuradas,1
+trikumji,1

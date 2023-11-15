@@ -1,0 +1,8 @@
+44,508,5
+t9,1
+for,1
+a,1
+very,1
+guj,1
+has,1
+another,1

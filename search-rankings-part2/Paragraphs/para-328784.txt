@@ -1,0 +1,7 @@
+86,15,6
+sevagram,1
+via,1
+wardha,1
+march,1
+7,1
+1945,1

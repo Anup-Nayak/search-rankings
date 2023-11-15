@@ -1,0 +1,7 @@
+43,16,4
+rashtriya,1
+stri,1
+sabha,1
+and,1
+khadi,1
+3,1

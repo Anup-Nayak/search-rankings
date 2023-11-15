@@ -1,0 +1,13 @@
+88,200,12
+from,1
+a,1
+copy,1
+c,1
+w,1
+10544,1
+courtesy,2
+brijkrishna,1
+chandiwala,1
+also,1
+pyarelal,2
+papers,1

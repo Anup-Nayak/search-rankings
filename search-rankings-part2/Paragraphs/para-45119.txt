@@ -1,0 +1,9 @@
+13,426,19
+meeting,1
+to,1
+day,1
+attended,1
+about,1
+six,1
+thousand,1
+confirmed,1

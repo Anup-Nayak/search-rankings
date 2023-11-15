@@ -1,0 +1,6 @@
+14,205,2
+1,1
+muslim,1
+priest,2
+2,1
+hindu,1

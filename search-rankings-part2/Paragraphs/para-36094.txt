@@ -1,0 +1,8 @@
+11,282,9
+gration,1
+bill,1
+exempt,1
+future,1
+asiatic,1
+immigrants,1
+from,1

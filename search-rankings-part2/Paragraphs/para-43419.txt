@@ -1,0 +1,14 @@
+13,195,3
+6,1
+except,1
+for,1
+one,2
+person,1
+no,1
+should,1
+be,1
+allowed,1
+to,1
+go,1
+near,1
+him,1

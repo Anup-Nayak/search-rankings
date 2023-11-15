@@ -1,0 +1,7 @@
+88,384,2
+701,1
+kasturba,1
+nidhis,1
+policy,1
+regarding,1
+education,1

@@ -1,0 +1,12 @@
+95,234,2
+all,1
+of,1
+you,2
+are,1
+like,1
+my,1
+own,1
+children,1
+since,1
+heard,1
+me,1

@@ -1,0 +1,15 @@
+24,67,5
+they,1
+drink,1
+coffee,1
+not,1
+less,1
+than,1
+three,1
+times,1
+a,1
+day,1
+and,1
+consider,1
+it,1
+very,1

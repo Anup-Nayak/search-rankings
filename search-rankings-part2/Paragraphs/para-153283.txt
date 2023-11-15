@@ -1,0 +1,5 @@
+44,336,4
+1,1
+fasting,1
+until,1
+evening,1

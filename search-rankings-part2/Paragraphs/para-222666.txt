@@ -1,0 +1,11 @@
+61,165,14
+fever,1
+since,1
+yesterday,1
+i,1
+want,1
+him,1
+take,1
+full,1
+treatment,1
+for,1

@@ -1,0 +1,7 @@
+7,5,6
+can,1
+those,1
+with,1
+lost,1
+permits,1
+enter,1

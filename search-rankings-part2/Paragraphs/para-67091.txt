@@ -1,0 +1,8 @@
+19,185,6
+advance,1
+under,1
+christian,1
+western,1
+civilization,1
+government,1
+economic,1

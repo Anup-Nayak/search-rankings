@@ -1,0 +1,9 @@
+7,158,2
+126,1
+can,1
+obnoxious,1
+law,1
+be,1
+enacted,1
+in,1
+natal,1

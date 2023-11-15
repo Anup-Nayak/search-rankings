@@ -1,0 +1,6 @@
+35,20,4
+31,1
+all,1
+india,1
+deshbandhu,1
+memorial,1

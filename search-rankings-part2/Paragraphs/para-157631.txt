@@ -1,0 +1,8 @@
+45,390,3
+380,1
+speech,1
+at,1
+tadepalligudem,1
+april,1
+25,1
+1929,1

@@ -1,0 +1,15 @@
+94,141,10
+firmly,1
+aid,1
+should,2
+be,2
+given,1
+to,2
+those,1
+who,1
+want,1
+buy,1
+looms,1
+and,1
+yarn,1
+they,1

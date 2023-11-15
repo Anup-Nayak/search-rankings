@@ -1,0 +1,9 @@
+30,197,16
+q,1
+was,1
+the,1
+arrest,1
+of,1
+jivandas,1
+not,1
+sufficient,1

@@ -1,0 +1,5 @@
+19,20,3
+19,1
+prayer,1
+and,1
+fasting,1

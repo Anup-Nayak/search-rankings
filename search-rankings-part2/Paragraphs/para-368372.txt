@@ -1,0 +1,9 @@
+95,240,18
+wrong,1
+without,1
+the,2
+presentation,1
+of,2
+picture,1
+pakistan,1
+4,1

@@ -1,0 +1,7 @@
+90,88,5
+is,1
+proper,1
+i,1
+have,1
+conflicting,1
+wires,1

@@ -1,0 +1,8 @@
+84,72,5
+85,1
+letter,1
+to,1
+tara,1
+and,1
+ramniklal,1
+modi,1

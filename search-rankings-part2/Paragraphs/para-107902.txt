@@ -1,0 +1,13 @@
+31,484,15
+the,2
+soil,1
+and,2
+making,1
+of,1
+a,1
+better,1
+man,1
+morally,1
+physically,1
+do,1
+something,1

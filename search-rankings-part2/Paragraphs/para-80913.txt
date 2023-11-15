@@ -1,0 +1,11 @@
+23,433,12
+1,1
+the,1
+message,1
+was,1
+circulated,1
+both,1
+in,1
+urdu,1
+and,1
+hindi,1

@@ -1,0 +1,9 @@
+12,150,9
+still,1
+a,1
+wait,1
+wire,1
+as,1
+promised,1
+yours,1
+2nd,1

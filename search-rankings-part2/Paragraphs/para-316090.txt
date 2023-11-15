@@ -1,0 +1,7 @@
+83,14,6
+q,1
+in,1
+united,1
+states,1
+you,1
+mean,1

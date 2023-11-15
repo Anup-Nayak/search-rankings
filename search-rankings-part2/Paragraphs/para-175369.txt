@@ -1,0 +1,13 @@
+50,184,7
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+upton,1
+sinclair,1
+esq,1
+stationa,1
+p,1
+pasadena,1
+california,1

@@ -1,0 +1,15 @@
+21,261,6
+mr,1
+gandhi,1
+said,1
+that,1
+as,1
+he,1
+had,1
+expressed,1
+his,1
+opinion,1
+in,1
+the,2
+press,1
+subjects,1

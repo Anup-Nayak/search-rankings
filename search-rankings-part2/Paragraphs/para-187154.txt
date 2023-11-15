@@ -1,0 +1,6 @@
+53,65,2
+72,1
+interview,1
+to,1
+associated,1
+press,1

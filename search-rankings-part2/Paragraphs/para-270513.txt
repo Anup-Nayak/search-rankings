@@ -1,0 +1,7 @@
+72,397,4
+blood,1
+pressure,1
+erratic,1
+extreme,1
+exhaustion,1
+but,1

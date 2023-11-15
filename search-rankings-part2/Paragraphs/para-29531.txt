@@ -1,0 +1,7 @@
+9,469,5
+act,1
+in,1
+manner,1
+prescribed,1
+by,1
+regulation,1

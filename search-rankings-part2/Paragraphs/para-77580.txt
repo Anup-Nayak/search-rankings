@@ -1,0 +1,7 @@
+22,364,6
+how,1
+many,1
+lawyers,1
+and,1
+students,1
+help,1

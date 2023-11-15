@@ -1,0 +1,12 @@
+38,122,9
+1,1
+from,1
+the,2
+reference,1
+to,1
+news,1
+about,1
+manilals,1
+wedding,1
+2,1
+ibid,1

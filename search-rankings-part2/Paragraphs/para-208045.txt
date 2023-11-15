@@ -1,0 +1,12 @@
+58,82,6
+3,1
+pupils,1
+in,1
+the,2
+ashram,1
+school,1
+and,1
+kindergarten,1
+respectively,1
+4,1
+ibid,1

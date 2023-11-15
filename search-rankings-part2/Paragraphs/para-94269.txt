@@ -1,0 +1,6 @@
+28,7,5
+pandit,1
+malaviyaji,1
+on,1
+moplah,1
+relief,1

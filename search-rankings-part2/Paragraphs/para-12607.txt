@@ -1,0 +1,7 @@
+5,117,8
+certificate,1
+of,2
+knowledge,1
+language,1
+0,2
+5,1

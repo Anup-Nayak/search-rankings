@@ -1,0 +1,10 @@
+13,174,17
+indentured,1
+indians,1
+who,1
+have,1
+paid,1
+3,1
+tax,1
+may,1
+not,1

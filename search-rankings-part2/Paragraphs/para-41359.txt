@@ -1,0 +1,7 @@
+12,402,3
+285,1
+general,1
+knowledge,1
+about,1
+health,1
+vi,1

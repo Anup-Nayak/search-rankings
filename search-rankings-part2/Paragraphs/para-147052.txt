@@ -1,0 +1,11 @@
+42,472,6
+letter,1
+from,1
+d,1
+f,1
+malan,1
+to,1
+v,1
+s,1
+srinivasa,1
+sastri,1

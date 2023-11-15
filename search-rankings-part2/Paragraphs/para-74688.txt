@@ -1,0 +1,15 @@
+21,374,5
+2,1
+1870,1
+1950,1
+south,1
+african,1
+soldier,1
+and,2
+statesman,1
+prime,1
+minister,1
+1919,1
+24,1
+1939,1
+48,1

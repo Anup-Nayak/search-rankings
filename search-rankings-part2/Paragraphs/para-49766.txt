@@ -1,0 +1,7 @@
+14,475,2
+statement,1
+issued,1
+by,1
+g,1
+k,1
+gokhale,1

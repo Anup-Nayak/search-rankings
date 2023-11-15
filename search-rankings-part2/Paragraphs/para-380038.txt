@@ -1,0 +1,16 @@
+98,381,1
+she,1
+should,1
+always,1
+be,1
+welcome,1
+i,2
+want,1
+you,1
+to,1
+invite,1
+her,1
+too,1
+have,1
+already,1
+written,1

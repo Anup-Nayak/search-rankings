@@ -1,0 +1,4 @@
+29,3,2
+student,1
+of,1
+mahavidyalaya,1

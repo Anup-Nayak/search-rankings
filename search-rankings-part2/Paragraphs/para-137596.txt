@@ -1,0 +1,5 @@
+40,194,2
+1,1
+lodging,1
+for,1
+pilgrims,1

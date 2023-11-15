@@ -1,0 +1,7 @@
+42,444,5
+bapu,1
+ramdas,1
+gandhi,1
+swaraj,1
+ashram,1
+bardoli,1

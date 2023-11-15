@@ -1,0 +1,7 @@
+29,186,14
+and,1
+does,1
+not,1
+all,1
+that,1
+is,1

@@ -1,0 +1,5 @@
+23,1,2
+the,1
+meaning,1
+of,1
+swaraj,1

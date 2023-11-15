@@ -1,0 +1,15 @@
+82,310,23
+supply,1
+it,1
+is,1
+said,1
+that,1
+this,1
+extra,1
+cost,1
+comes,1
+to,2
+something,1
+like,1
+rs,2
+300,1

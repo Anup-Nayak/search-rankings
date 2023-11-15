@@ -1,0 +1,6 @@
+42,274,7
+the,2
+influence,1
+of,1
+spinning,1
+wheel,1

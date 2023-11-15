@@ -1,0 +1,6 @@
+27,456,10
+1,1
+the,1
+source,1
+has,1
+offer,1

@@ -1,0 +1,7 @@
+20,340,6
+122,1
+letter,1
+to,1
+shah,1
+hafiz,1
+alam,1

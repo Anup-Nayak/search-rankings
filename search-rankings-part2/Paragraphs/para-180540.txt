@@ -1,0 +1,15 @@
+51,287,15
+1,1
+the,1
+interview,1
+took,1
+place,1
+at,1
+dr,1
+ansaris,1
+house,1
+before,1
+gandhiji,1
+left,1
+for,1
+karachi,1

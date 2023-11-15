@@ -1,0 +1,13 @@
+5,219,5
+1,1
+this,1
+article,1
+was,1
+based,1
+on,1
+a,1
+visit,1
+by,1
+our,1
+special,1
+representative,1

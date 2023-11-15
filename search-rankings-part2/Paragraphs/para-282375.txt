@@ -1,0 +1,5 @@
+75,302,20
+not,1
+to,1
+my,1
+knowledge,1

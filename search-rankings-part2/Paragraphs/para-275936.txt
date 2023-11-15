@@ -1,0 +1,8 @@
+74,26,5
+professor,1
+humayun,1
+kabir,1
+36,1
+ahirikupur,1
+road,1
+calcutta,1

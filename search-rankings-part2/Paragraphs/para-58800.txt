@@ -1,0 +1,4 @@
+16,516,2
+a,1
+righteous,1
+struggle,1

@@ -1,0 +1,14 @@
+38,1,4
+mahatma,1
+gandhi,1
+made,1
+a,1
+short,1
+speech,1
+on,1
+the,2
+occasion,1
+he,2
+said,1
+that,1
+laid,1

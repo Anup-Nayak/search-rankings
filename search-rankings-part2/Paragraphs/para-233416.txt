@@ -1,0 +1,11 @@
+64,9,12
+weight,1
+suffering,1
+also,1
+that,1
+he,1
+is,1
+not,1
+allowed,1
+sleep,1
+open,1

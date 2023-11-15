@@ -1,0 +1,8 @@
+13,151,1
+accept,1
+a,1
+bargain,1
+so,1
+dishonourable,1
+to,1
+them,1

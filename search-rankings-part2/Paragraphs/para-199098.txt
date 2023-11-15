@@ -1,0 +1,16 @@
+55,509,10
+1,1
+daughter,1
+of,3
+harilal,1
+gandhi,3
+2,1
+jamnadas,1
+younger,1
+brother,1
+maganlal,1
+and,1
+principal,1
+rajkot,1
+rashtriya,1
+shala,1

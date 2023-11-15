@@ -1,0 +1,10 @@
+37,439,2
+1,1
+one,1
+who,1
+serves,1
+the,1
+cause,1
+of,1
+cow,1
+protection,1

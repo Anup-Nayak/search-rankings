@@ -1,0 +1,15 @@
+46,12,2
+a,1
+word,1
+about,1
+general,1
+khadi,1
+possibilities,1
+in,1
+the,1
+firka,1
+will,1
+not,1
+be,1
+out,1
+of,1

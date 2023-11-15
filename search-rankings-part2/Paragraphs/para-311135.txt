@@ -1,0 +1,4 @@
+82,106,10
+untouchability,1
+and,1
+indore,1

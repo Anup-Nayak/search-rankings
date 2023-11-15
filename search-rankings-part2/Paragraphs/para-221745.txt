@@ -1,0 +1,8 @@
+61,70,11
+prophet3,1
+in,1
+hour,1
+of,1
+his,1
+need,1
+do,1

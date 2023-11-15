@@ -1,0 +1,13 @@
+64,68,11
+would,1
+depend,1
+upon,1
+what,1
+attitude,1
+the,1
+educated,1
+individual,1
+took,1
+up,1
+towards,1
+society,1

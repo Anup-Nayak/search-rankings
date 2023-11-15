@@ -1,0 +1,11 @@
+12,353,16
+at,1
+the,1
+farm,1
+miss,1
+bush,1
+and,1
+her,1
+mother,1
+came,2
+kunake,1

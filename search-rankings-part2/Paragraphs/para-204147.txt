@@ -1,0 +1,12 @@
+57,127,4
+from,1
+a,1
+photostat,1
+g,1
+n,1
+3860,1
+also,1
+bombay,1
+secret,1
+abstracts,1
+home,1

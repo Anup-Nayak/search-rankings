@@ -1,0 +1,8 @@
+57,37,9
+certain,1
+restrictions,1
+to,1
+avoid,1
+unnecessary,1
+trouble,1
+and,1

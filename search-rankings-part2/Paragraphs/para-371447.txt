@@ -1,0 +1,6 @@
+96,206,4
+290,1
+interview,1
+to,1
+congress,1
+ministers,1

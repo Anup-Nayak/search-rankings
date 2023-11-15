@@ -1,0 +1,10 @@
+2,158,8
+by,1
+trade,1
+or,1
+calling,1
+a,2
+is,1
+fit,1
+and,1
+proper,1

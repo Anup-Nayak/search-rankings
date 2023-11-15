@@ -1,0 +1,10 @@
+30,197,20
+q,1
+do,1
+you,1
+know,1
+when,1
+these,1
+copies,1
+were,1
+burnt,1

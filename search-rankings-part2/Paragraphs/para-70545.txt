@@ -1,0 +1,9 @@
+20,158,13
+judgments,1
+and,1
+orders,1
+were,1
+also,1
+written,1
+statement,1
+447,1

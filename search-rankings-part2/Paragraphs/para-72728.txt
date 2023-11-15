@@ -1,0 +1,10 @@
+21,37,10
+non,1
+co,1
+operation,1
+impossible,1
+in,1
+native,1
+states,1
+without,1
+local,1

@@ -1,0 +1,7 @@
+73,29,8
+39,1
+speech,1
+at,1
+village,1
+industries,1
+exhibition2,1

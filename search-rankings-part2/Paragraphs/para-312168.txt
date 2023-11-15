@@ -1,0 +1,12 @@
+82,190,10
+confinement,1
+even,1
+for,1
+a,2
+criminal,1
+much,1
+less,1
+gentleman,1
+of,1
+lalajis,1
+status,1

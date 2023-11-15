@@ -1,0 +1,11 @@
+42,75,8
+yours,1
+mohandas,1
+gandhi,1
+shri,1
+chimanlal,1
+gulabchand,1
+vora,1
+shrimali,1
+mohalla,1
+ratlam,1

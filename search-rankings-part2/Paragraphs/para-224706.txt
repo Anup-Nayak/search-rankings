@@ -1,0 +1,13 @@
+61,382,3
+bipin,1
+bihari,1
+varma,1
+bar,1
+at,1
+law,1
+shakarpur,1
+p,1
+o,1
+narkatia,1
+ganj,1
+champaran,1

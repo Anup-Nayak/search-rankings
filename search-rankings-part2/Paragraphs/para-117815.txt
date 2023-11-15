@@ -1,0 +1,8 @@
+35,50,3
+on,1
+the,2
+dweller,1
+in,1
+hearts,1
+of,1
+all,1

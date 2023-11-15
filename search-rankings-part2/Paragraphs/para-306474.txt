@@ -1,0 +1,6 @@
+81,124,6
+234,1
+letter,1
+to,1
+prabhavati,1
+jakatdar,1

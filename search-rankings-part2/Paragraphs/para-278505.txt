@@ -1,0 +1,8 @@
+74,323,13
+a,2
+full,1
+sense,1
+of,1
+responsibilit,1
+and,1
+with,1

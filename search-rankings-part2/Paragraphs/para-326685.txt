@@ -1,0 +1,4 @@
+85,281,2
+samagra,1
+nayee,1
+talim,1

@@ -1,0 +1,17 @@
+43,376,5
+had,1
+driven,1
+us,1
+back,1
+near,1
+the,1
+station,1
+a,2
+young,1
+man,1
+whom,1
+i,1
+took,1
+to,1
+be,1
+student,1

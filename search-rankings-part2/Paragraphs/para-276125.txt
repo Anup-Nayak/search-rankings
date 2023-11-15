@@ -1,0 +1,14 @@
+74,47,8
+i,1
+am,1
+not,1
+able,1
+to,1
+break,1
+my,1
+silence,1
+you,1
+have,1
+risen,1
+from,1
+the,1

@@ -1,0 +1,11 @@
+48,299,3
+questions,1
+asked,1
+and,1
+my,1
+answers,1
+to,1
+them,1
+are,1
+given,1
+below,1

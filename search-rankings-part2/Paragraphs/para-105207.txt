@@ -1,0 +1,13 @@
+31,94,2
+but,1
+can,1
+this,1
+method,1
+solve,1
+an,1
+economic,1
+social,1
+and,1
+political,1
+question,1
+of,1

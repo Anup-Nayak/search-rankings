@@ -1,0 +1,6 @@
+92,86,1
+128,1
+letter,1
+to,1
+ramprasad,1
+vyas,1

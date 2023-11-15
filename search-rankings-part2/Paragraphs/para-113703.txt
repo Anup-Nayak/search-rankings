@@ -1,0 +1,10 @@
+33,397,7
+1,1
+this,1
+sentence,1
+is,1
+in,1
+english,1
+2,1
+lakshmidas,1
+asar,1

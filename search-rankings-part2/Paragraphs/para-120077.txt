@@ -1,0 +1,6 @@
+35,318,6
+islam,1
+club,1
+building,1
+chaupati,1
+bombay,1

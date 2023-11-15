@@ -1,0 +1,10 @@
+11,257,8
+mr,1
+ritch,1
+as,1
+deputy,1
+is,2
+only,1
+because,1
+he,1
+at,1

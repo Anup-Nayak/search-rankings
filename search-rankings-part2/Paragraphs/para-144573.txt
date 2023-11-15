@@ -1,0 +1,17 @@
+42,203,2
+if,2
+the,1
+external,1
+circumstances,1
+are,1
+favourable,1
+and,1
+i,2
+keep,1
+good,1
+health,1
+hope,1
+to,1
+go,1
+next,1
+year,1

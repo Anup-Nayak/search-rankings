@@ -1,0 +1,16 @@
+8,58,6
+mr,2
+jordan,1
+said,1
+if,1
+gandhi,1
+liked,1
+to,1
+hold,1
+a,1
+meeting,1
+outside,1
+he,1
+could,1
+do,1
+so,1

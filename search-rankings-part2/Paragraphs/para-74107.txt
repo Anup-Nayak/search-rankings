@@ -1,0 +1,12 @@
+21,265,4
+the,1
+interview,1
+ended,1
+by,1
+moti,1
+babus,1
+warmly,1
+embracing,1
+mahatma,1
+gandhi,1
+and,1

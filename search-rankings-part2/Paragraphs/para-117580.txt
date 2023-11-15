@@ -1,0 +1,7 @@
+35,26,10
+babu,1
+rajendra,1
+prasad,1
+murad,1
+pur,1
+patna,1

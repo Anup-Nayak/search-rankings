@@ -1,0 +1,7 @@
+57,164,6
+293,1
+letter,1
+to,1
+shanta,1
+s,1
+patel,1

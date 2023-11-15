@@ -1,0 +1,9 @@
+40,292,10
+one,1
+to,1
+whom,1
+glory,1
+and,1
+disaster,1
+are,1
+alike,1

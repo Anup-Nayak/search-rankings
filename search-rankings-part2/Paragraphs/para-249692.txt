@@ -1,0 +1,11 @@
+67,289,9
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4742,1
+courtesy,1
+l,1
+r,1
+ducha,1

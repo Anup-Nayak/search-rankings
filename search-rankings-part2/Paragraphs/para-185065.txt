@@ -1,0 +1,12 @@
+52,323,8
+people,1
+and,2
+teach,1
+their,1
+children,1
+spinning,1
+weaving,1
+other,1
+industries,1
+he,1
+mr,1

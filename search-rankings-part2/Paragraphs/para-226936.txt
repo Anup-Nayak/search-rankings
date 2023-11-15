@@ -1,0 +1,16 @@
+62,152,11
+depended,1
+on,1
+the,1
+co,1
+operation,1
+of,1
+each,1
+other,1
+and,1
+asked,1
+them,1
+to,1
+give,1
+up,1
+aloofness,1

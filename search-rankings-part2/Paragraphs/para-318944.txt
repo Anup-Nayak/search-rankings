@@ -1,0 +1,17 @@
+83,428,5
+1,1
+dr,1
+sushila,1
+nayyar,2
+2,1
+mohanlal,1
+vide,1
+talk,1
+with,1
+nirmala,1
+and,1
+devdas,1
+gandhi,1
+7,1
+12,1
+1943,1

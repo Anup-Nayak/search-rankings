@@ -1,0 +1,10 @@
+80,99,11
+4,1
+but,1
+have,1
+not,1
+lost,1
+hope,1
+of,1
+non,1
+violence,1

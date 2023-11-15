@@ -1,0 +1,8 @@
+97,416,5
+1,1
+vide,1
+a,1
+psychological,1
+explanation,1
+11,2
+1947,1

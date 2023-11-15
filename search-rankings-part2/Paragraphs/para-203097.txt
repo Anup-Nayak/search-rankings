@@ -1,0 +1,10 @@
+57,36,6
+wire,2
+received,1
+you,1
+have,1
+accurately,1
+read,1
+my,1
+heart,1
+your,1

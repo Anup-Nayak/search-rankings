@@ -1,0 +1,14 @@
+46,142,6
+india,1
+there,1
+are,1
+more,2
+girls,1
+than,2
+boys,1
+and,1
+widows,1
+widowers,1
+how,1
+then,1
+can,1

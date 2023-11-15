@@ -1,0 +1,15 @@
+82,92,9
+communal,1
+basis,1
+a,1
+few,1
+of,1
+the,1
+seats,2
+are,1
+reserved,1
+as,1
+general,1
+in,1
+order,1
+to,1

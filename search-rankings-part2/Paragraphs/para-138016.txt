@@ -1,0 +1,6 @@
+40,280,2
+coimbatore,1
+monday,1
+october,1
+17,1
+1927,1

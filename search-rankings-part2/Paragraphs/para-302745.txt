@@ -1,0 +1,10 @@
+80,279,10
+sushila,1
+nayyar,1
+sohanlal,1
+college,1
+16,1
+lake,1
+road,1
+lahore,1
+punjab,1

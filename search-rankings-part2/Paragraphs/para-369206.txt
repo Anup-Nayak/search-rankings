@@ -1,0 +1,16 @@
+95,365,5
+e,1
+wherever,1
+riots,1
+have,1
+taken,1
+place,1
+the,1
+hindus,1
+must,1
+pay,1
+a,1
+fine,1
+voluntarily,1
+or,1
+compulsorily,1

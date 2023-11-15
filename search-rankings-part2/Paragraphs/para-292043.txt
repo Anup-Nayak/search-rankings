@@ -1,0 +1,13 @@
+78,42,7
+4,1
+they,1
+were,1
+sentenced,1
+to,1
+two,1
+years,1
+imprisonment,1
+on,1
+november,1
+1,1
+1921,1

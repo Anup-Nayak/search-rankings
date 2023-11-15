@@ -1,0 +1,5 @@
+83,119,4
+130,1
+for,1
+muslim,1
+friends,1

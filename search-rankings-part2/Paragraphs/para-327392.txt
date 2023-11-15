@@ -1,0 +1,15 @@
+85,347,7
+blessings,1
+from,1
+bapu,1
+kamalesh,1
+gu,1
+jarat,1
+pra,1
+desh,1
+ra,1
+shtrabhasha,1
+prachar,1
+samiti,1
+khadia,1
+ahmedabad,1

@@ -1,0 +1,17 @@
+82,376,5
+a,1
+it,1
+does,1
+not,1
+make,1
+for,1
+me,1
+the,2
+slightest,1
+difference,1
+whole,1
+policy,1
+is,1
+one,1
+and,1
+indivisible,1

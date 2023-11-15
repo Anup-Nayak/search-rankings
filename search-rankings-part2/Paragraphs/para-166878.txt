@@ -1,0 +1,4 @@
+48,67,7
+1,1
+bridal,1
+bracelet,1

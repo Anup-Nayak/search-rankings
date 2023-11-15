@@ -1,0 +1,14 @@
+18,57,3
+a,2
+who,1
+is,1
+not,1
+natural,1
+born,1
+british,1
+subject,1
+as,1
+defined,1
+in,1
+sub,1
+sections,1

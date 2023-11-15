@@ -1,0 +1,6 @@
+75,35,13
+34,1
+letter,1
+to,1
+general,1
+shinde,1

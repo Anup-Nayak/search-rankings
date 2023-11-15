@@ -1,0 +1,11 @@
+57,105,7
+i,1
+not,1
+sure,1
+of,1
+depressed,1
+mass,1
+opinion,1
+behind,1
+me,1
+as,1

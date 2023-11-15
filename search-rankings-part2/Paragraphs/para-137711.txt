@@ -1,0 +1,6 @@
+40,212,4
+bapu,1
+mirabehn,1
+satyagraha,1
+ashram,1
+sabarmati,1

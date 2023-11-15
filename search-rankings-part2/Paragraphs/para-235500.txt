@@ -1,0 +1,15 @@
+64,232,11
+should,1
+deter,1
+them,1
+from,1
+carrying,1
+on,1
+khadi,2
+sales,1
+for,1
+the,2
+use,1
+of,1
+alone,1
+was,1

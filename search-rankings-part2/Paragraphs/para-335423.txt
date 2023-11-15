@@ -1,0 +1,12 @@
+87,203,10
+1,1
+the,1
+reference,1
+is,1
+to,1
+jawaharlal,1
+nehru,1
+jawahar,1
+literally,1
+means,1
+jewel,1

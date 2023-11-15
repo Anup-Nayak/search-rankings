@@ -1,0 +1,6 @@
+35,67,2
+107,1
+pandit,1
+nehru,1
+and,1
+khaddar,1

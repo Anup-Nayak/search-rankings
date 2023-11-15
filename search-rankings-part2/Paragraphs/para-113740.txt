@@ -1,0 +1,12 @@
+33,402,13
+being,1
+my,2
+subscription,1
+to,1
+the,2
+national,1
+congress,1
+for,1
+year,1
+age,1
+is,1

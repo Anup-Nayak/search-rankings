@@ -1,0 +1,12 @@
+16,419,2
+you,2
+may,1
+write,1
+again,1
+if,1
+there,1
+is,1
+anything,1
+yet,1
+which,1
+troubles,1

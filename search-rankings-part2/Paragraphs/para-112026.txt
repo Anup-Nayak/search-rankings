@@ -1,0 +1,10 @@
+33,193,1
+the,2
+cattle,1
+from,1
+butchers,1
+knife,1
+if,1
+they,1
+become,1
+uneconomic,1

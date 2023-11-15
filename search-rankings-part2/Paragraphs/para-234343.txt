@@ -1,0 +1,10 @@
+64,111,11
+from,1
+the,1
+hindi,1
+original,1
+haribhau,1
+upadhyaya,1
+papers,1
+courtesy,1
+nehru,1

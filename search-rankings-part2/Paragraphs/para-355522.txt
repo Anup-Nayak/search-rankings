@@ -1,0 +1,4 @@
+92,98,2
+the,1
+devadasi,1
+system,1

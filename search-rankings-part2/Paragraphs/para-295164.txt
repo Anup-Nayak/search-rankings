@@ -1,0 +1,14 @@
+78,356,4
+constituent,1
+assembly,1
+ignores,1
+the,1
+existing,1
+conditions,1
+95,1
+per,1
+cent,1
+of,1
+our,1
+people,1
+are,1

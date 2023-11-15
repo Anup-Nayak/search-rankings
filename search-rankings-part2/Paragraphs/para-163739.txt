@@ -1,0 +1,6 @@
+47,160,9
+camp,1
+lucknow,1
+september,1
+27,1
+1929,1

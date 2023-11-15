@@ -1,0 +1,16 @@
+93,301,12
+he,1
+who,1
+neither,1
+worketh,1
+for,2
+himself,1
+nor,1
+others,1
+will,1
+not,1
+receive,1
+the,1
+reward,1
+of,1
+god,1

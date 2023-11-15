@@ -1,0 +1,9 @@
+6,118,3
+the,2
+manager,1
+clements,1
+printing,1
+works,1
+portugal,1
+street,1
+strand,1

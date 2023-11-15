@@ -1,0 +1,11 @@
+63,432,1
+understood,1
+this,1
+reasoning,1
+ask,1
+me,1
+again,1
+more,1
+some,1
+other,1
+time,1

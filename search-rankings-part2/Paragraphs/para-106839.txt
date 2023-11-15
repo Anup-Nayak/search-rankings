@@ -1,0 +1,15 @@
+31,322,10
+a,1
+i,1
+cannot,1
+give,1
+any,1
+opinion,1
+without,2
+hearing,1
+the,2
+swarajists,1
+and,1
+knowing,1
+full,1
+facts,1

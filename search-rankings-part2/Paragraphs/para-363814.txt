@@ -1,0 +1,17 @@
+94,80,6
+2,1
+from,1
+harijan,1
+and,1
+the,1
+hindu,1
+gandhijike,1
+dukhe,1
+dilki,1
+pukar,1
+however,1
+reports,1
+it,1
+under,1
+march,1
+6,1

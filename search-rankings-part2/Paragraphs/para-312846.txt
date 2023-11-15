@@ -1,0 +1,4 @@
+82,249,4
+harijan,1
+sevak,1
+sangh,1

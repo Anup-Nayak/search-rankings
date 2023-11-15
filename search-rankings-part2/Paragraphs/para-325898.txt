@@ -1,0 +1,10 @@
+85,202,1
+come,1
+except,1
+in,1
+answer,1
+to,1
+a,1
+call,1
+from,1
+god,1

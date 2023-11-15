@@ -1,0 +1,6 @@
+76,283,7
+363,1
+letter,1
+to,1
+juglal,1
+chowdhary,1

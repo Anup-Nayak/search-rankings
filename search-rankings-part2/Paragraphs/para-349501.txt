@@ -1,0 +1,6 @@
+90,345,5
+427,1
+letter,1
+to,1
+major,1
+short,1

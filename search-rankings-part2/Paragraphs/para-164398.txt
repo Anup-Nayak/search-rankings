@@ -1,0 +1,15 @@
+47,237,4
+i,1
+have,1
+been,1
+asked,1
+by,1
+the,2
+editor,1
+to,1
+answer,1
+following,1
+question,1
+for,1
+this,1
+gazette,1

@@ -1,0 +1,10 @@
+29,80,7
+and,1
+my,1
+poor,1
+sick,1
+heart,1
+is,1
+torn,1
+in,1
+twain,1

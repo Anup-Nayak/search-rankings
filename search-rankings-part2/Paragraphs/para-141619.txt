@@ -1,0 +1,10 @@
+41,301,12
+a,2
+on,1
+nationalistic,1
+basis,1
+in,1
+the,2
+interests,1
+of,1
+people,1

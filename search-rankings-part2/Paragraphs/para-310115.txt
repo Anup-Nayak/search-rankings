@@ -1,0 +1,12 @@
+82,22,24
+take,1
+two,1
+years,1
+more,1
+than,1
+the,2
+time,1
+needed,1
+for,1
+matriculation,1
+examination,1

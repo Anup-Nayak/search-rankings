@@ -1,0 +1,16 @@
+19,248,8
+i,1
+understand,1
+you,2
+to,1
+say,1
+mr,1
+gandhi,1
+do,1
+not,1
+consider,1
+yourself,1
+a,1
+perfect,1
+satyagrahi,1
+yet,1

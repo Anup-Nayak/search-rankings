@@ -1,0 +1,16 @@
+32,299,2
+1,1
+sunderji,1
+padhiar,1
+a,1
+gujarati,1
+author,1
+much,1
+admired,1
+by,1
+gandhiji,1
+2,1
+vide,1
+vol,1
+xxv,1
+pp,1

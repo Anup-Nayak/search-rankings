@@ -1,0 +1,8 @@
+48,56,2
+ahmedabad,1
+december,1
+6,1
+1929,1
+panditji,1
+nehru,1
+lucknow,1

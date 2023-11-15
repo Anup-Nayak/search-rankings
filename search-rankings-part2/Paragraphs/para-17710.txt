@@ -1,0 +1,11 @@
+6,264,2
+his,1
+mind,1
+does,1
+not,1
+seem,1
+to,1
+have,1
+yet,1
+calmed,1
+down,1

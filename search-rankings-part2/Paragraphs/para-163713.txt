@@ -1,0 +1,17 @@
+47,157,2
+1,1
+owing,1
+to,1
+a,1
+disturbance,1
+outside,1
+the,1
+town,1
+hall,1
+there,1
+was,1
+some,1
+shouting,1
+2,1
+non,1
+dualism,1

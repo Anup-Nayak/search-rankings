@@ -1,0 +1,17 @@
+98,456,3
+2,1
+the,4
+accession,1
+of,3
+jammu,1
+and,1
+kashmir,1
+state,2
+to,1
+dominion,1
+india,2
+made,1
+really,1
+responsible,1
+for,1
+defence,1

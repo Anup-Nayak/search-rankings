@@ -1,0 +1,9 @@
+42,212,3
+p,1
+ramachandra,1
+rao,1
+cloth,1
+merchant,1
+tumkur,1
+mysore,1
+state,1

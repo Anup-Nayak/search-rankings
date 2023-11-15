@@ -1,0 +1,14 @@
+87,426,12
+mr,2
+gandhi,1
+and,1
+jinnah,1
+as,1
+the,2
+recognized,1
+leaders,1
+of,1
+two,1
+main,1
+political,1
+parties,1

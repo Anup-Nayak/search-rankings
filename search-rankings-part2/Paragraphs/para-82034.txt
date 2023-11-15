@@ -1,0 +1,8 @@
+24,123,6
+77,1
+statement,1
+of,1
+repression,1
+in,1
+princely,1
+states,1

@@ -1,0 +1,11 @@
+47,151,10
+young,1
+man,1
+she,1
+took,1
+away,1
+his,4
+money,1
+health,1
+position,1
+self,1

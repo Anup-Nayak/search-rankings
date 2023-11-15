@@ -1,0 +1,12 @@
+27,401,14
+standard,1
+newspapers,1
+current,1
+prose,1
+literature,1
+easy,1
+poetry,1
+etc,1
+hindi,1
+i,1
+dont,1

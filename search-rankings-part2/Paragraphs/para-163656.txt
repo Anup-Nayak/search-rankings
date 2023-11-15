@@ -1,0 +1,6 @@
+47,151,1
+loose,1
+thinking,1
+a,1
+correspondent,1
+writes,1

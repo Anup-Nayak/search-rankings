@@ -1,0 +1,9 @@
+11,292,16
+not,1
+protected,1
+under,1
+bill,1
+as,1
+drawn,1
+unless,1
+they,1

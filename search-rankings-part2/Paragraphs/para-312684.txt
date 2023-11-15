@@ -1,0 +1,14 @@
+82,237,9
+q,1
+there,1
+are,1
+in,1
+certain,1
+places,1
+some,1
+people,1
+who,1
+have,1
+come,1
+from,1
+other,1

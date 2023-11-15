@@ -1,0 +1,16 @@
+27,401,19
+the,2
+notified,1
+time,1
+of,1
+their,1
+lecture,1
+this,1
+gives,1
+a,1
+bad,1
+lesson,1
+to,1
+public,1
+who,1
+is,1

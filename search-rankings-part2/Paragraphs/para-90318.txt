@@ -1,0 +1,8 @@
+26,463,7
+six,1
+years,1
+term,1
+expires,1
+he,1
+replied,1
+emphatically,1

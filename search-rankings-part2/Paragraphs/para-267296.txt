@@ -1,0 +1,8 @@
+72,30,5
+1,1
+in,2
+the,2
+source,1
+quotations,1
+are,1
+hindi,1

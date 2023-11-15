@@ -1,0 +1,17 @@
+6,448,12
+2,1
+a,1
+copy,1
+of,1
+the,2
+cable,1
+was,1
+forwarded,1
+by,1
+ritch,1
+to,1
+colonial,1
+office,1
+on,1
+may,1
+21,1

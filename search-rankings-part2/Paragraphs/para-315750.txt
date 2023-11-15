@@ -1,0 +1,11 @@
+82,416,5
+muslim,1
+millions,1
+do,1
+not,2
+oppose,2
+independence,1
+and,1
+they,1
+could,1
+therefore,1

@@ -1,0 +1,7 @@
+65,94,6
+107,1
+letter,1
+to,1
+anant,1
+p,1
+ghurye,1

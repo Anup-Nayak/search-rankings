@@ -1,0 +1,14 @@
+75,465,12
+allowed,1
+to,2
+drift,1
+this,1
+opposition,1
+is,2
+bound,1
+gain,1
+in,2
+strength,1
+and,1
+volume,1
+what,1

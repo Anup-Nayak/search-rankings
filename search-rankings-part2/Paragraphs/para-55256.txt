@@ -1,0 +1,6 @@
+16,49,5
+27,1
+letter,1
+to,1
+bhagwanji,1
+vakil,1

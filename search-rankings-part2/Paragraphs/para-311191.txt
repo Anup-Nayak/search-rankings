@@ -1,0 +1,7 @@
+82,110,7
+122,1
+letter,1
+to,1
+shashi,1
+r,1
+mehta,1

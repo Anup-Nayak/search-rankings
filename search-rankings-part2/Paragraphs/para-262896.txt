@@ -1,0 +1,9 @@
+70,380,5
+blessings,1
+from,2
+bapu,1
+gujarati,1
+manavtana,1
+praharipannalal,1
+jhaveri,1
+p,1

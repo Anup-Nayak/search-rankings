@@ -1,0 +1,10 @@
+77,355,2
+1,1
+vasumati,1
+pandit,1
+2,1
+peace,2
+3,1
+literally,1
+abode,1
+of,1

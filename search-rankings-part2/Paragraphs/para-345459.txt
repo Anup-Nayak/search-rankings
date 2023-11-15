@@ -1,0 +1,15 @@
+89,328,11
+answering,1
+another,1
+question,1
+gandhiji,1
+said,1
+that,1
+it,1
+was,1
+part,1
+of,2
+the,1
+law,1
+his,1
+life,1

@@ -1,0 +1,5 @@
+22,37,7
+zafar,1
+ali,1
+khans,1
+treatment,1

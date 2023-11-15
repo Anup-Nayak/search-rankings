@@ -1,0 +1,12 @@
+30,201,3
+q,1
+could,1
+you,1
+recognize,1
+the,1
+other,1
+hindu,1
+who,1
+was,1
+killed,1
+first,1

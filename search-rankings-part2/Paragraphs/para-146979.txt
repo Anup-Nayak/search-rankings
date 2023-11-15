@@ -1,0 +1,14 @@
+42,468,8
+n,1
+b*the,1
+price,1
+paid,1
+for,1
+the,1
+lands,1
+which,1
+were,2
+sold,1
+by,1
+government,1
+and,1

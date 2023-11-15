@@ -1,0 +1,14 @@
+88,177,14
+1,1
+the,1
+letter,1
+is,1
+placed,1
+between,1
+those,1
+of,1
+october,1
+18,1
+and,1
+19,1
+1945,1

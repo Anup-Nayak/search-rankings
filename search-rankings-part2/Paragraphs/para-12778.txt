@@ -1,0 +1,7 @@
+5,148,3
+138,1
+permit,1
+hardships,1
+in,1
+the,1
+transvaal,1

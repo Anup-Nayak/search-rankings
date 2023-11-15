@@ -1,0 +1,16 @@
+61,187,18
+daughter,1
+amtussalaam,1
+how,1
+is,1
+it,1
+that,1
+the,1
+girl,1
+who,1
+had,1
+been,1
+writing,1
+regularly,1
+does,1
+not,1

@@ -1,0 +1,4 @@
+82,404,20
+our,1
+rich,1
+friends,1

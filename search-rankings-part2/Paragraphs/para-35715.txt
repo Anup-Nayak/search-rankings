@@ -1,0 +1,12 @@
+11,251,3
+do,1
+not,1
+ask,1
+your,1
+own,1
+expenses,1
+they,1
+will,1
+be,1
+found,1
+here,1

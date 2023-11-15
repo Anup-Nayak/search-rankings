@@ -1,0 +1,11 @@
+91,214,10
+gandhiji,1
+all,1
+these,1
+are,1
+questions,1
+for,1
+the,1
+court,1
+to,1
+decide,1

@@ -1,0 +1,11 @@
+38,40,6
+kashi,1
+silence,1
+day,1
+pausa,1
+sud,1
+6,1
+january,1
+10,1
+1927,1
+1,1

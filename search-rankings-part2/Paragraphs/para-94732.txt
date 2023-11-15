@@ -1,0 +1,16 @@
+28,86,11
+2,1
+here,1
+the,1
+correspondent,1
+handed,1
+to,2
+gandhiji,1
+copies,1
+of,1
+swatantrya,1
+requesting,1
+him,1
+go,1
+through,1
+them,1

@@ -1,0 +1,13 @@
+82,395,3
+man,3
+another,1
+to,2
+a,3
+second,1
+and,1
+still,1
+third,2
+thing,1
+with,1
+sir,1
+samuel,1

@@ -1,0 +1,6 @@
+87,110,6
+186,1
+letter,1
+to,1
+mangaldas,1
+pakvasa,1

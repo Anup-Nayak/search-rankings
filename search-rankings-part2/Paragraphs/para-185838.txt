@@ -1,0 +1,7 @@
+52,407,6
+549,1
+letter,1
+to,1
+g,1
+findlay,1
+shirras,1

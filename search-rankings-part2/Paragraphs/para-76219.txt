@@ -1,0 +1,15 @@
+22,115,8
+1chakravarti,1
+rajagopalachari,1
+1879,1
+lawyer,1
+journalist,1
+author,1
+and,1
+statesman,1
+governor,1
+general,1
+of,1
+india,1
+1948,1
+50,1

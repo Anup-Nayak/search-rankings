@@ -1,0 +1,9 @@
+20,31,12
+rai,1
+b,1
+d,1
+shukul,1
+mr,1
+g,1
+r,1
+clarke,1

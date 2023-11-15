@@ -1,0 +1,8 @@
+51,77,10
+sapru,1
+and,1
+mr,1
+jayakar,1
+personally,1
+am,1
+eagerly,1

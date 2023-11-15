@@ -1,0 +1,16 @@
+14,149,4
+1,1
+mrs,2
+mayo,2
+died,1
+in,1
+the,2
+second,1
+week,1
+of,1
+may,1
+1914,2
+vide,1
+late,1
+20,1
+5,1

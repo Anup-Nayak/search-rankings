@@ -1,0 +1,13 @@
+82,337,4
+are,1
+not,1
+non,1
+violent,1
+and,2
+therefore,1
+there,1
+will,1
+be,1
+clashes,1
+violence,1
+oppression,1

@@ -1,0 +1,12 @@
+25,112,5
+1,1
+not,1
+reproduced,1
+here,1
+it,1
+suspended,1
+the,2
+execution,1
+of,1
+municipalitys,1
+resolution,1

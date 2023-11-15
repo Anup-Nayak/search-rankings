@@ -1,0 +1,6 @@
+67,127,6
+199,1
+letter,1
+to,1
+behramji,1
+khambhatta,1

@@ -1,0 +1,4 @@
+26,50,2
+20,1
+bardolis,1
+decision,1

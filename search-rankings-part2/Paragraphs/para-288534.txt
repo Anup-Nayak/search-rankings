@@ -1,0 +1,12 @@
+77,70,9
+blessings,1
+from,2
+bapu,1
+sardar,1
+vallabhbhai,1
+patel,1
+11,1
+chowpatty,1
+seaface,1
+bombay,1
+gujarati,1

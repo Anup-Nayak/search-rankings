@@ -1,0 +1,12 @@
+87,8,1
+past,1
+we,1
+are,1
+fast,1
+approaching,1
+a,1
+solution,1
+to,1
+roublesome,1
+race,1
+problems,1

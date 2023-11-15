@@ -1,0 +1,8 @@
+13,149,22
+to,1
+marriages,1
+there,1
+is,1
+ample,1
+registration,1
+by,1

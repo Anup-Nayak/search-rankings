@@ -1,0 +1,8 @@
+91,426,2
+499,1
+is,1
+god,1
+a,2
+person,1
+or,1
+principle,1

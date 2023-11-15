@@ -1,0 +1,6 @@
+39,13,5
+valunjker,1
+teaching,1
+hindi,1
+regularly,1
+pending,1

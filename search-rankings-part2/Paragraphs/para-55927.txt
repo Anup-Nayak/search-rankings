@@ -1,0 +1,7 @@
+16,164,6
+71,1
+some,1
+general,1
+suggestions,1
+concerning,1
+plague,1

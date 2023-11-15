@@ -1,0 +1,5 @@
+70,293,3
+325,1
+speech,1
+at,1
+paripalli,1

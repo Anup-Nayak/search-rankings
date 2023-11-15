@@ -1,0 +1,12 @@
+5,471,12
+1,1
+a,1
+scottish,1
+theosophist,1
+and,1
+articled,1
+clerk,1
+of,1
+gandhiji,1
+2,1
+parmanand,1

@@ -1,0 +1,12 @@
+51,388,2
+there,1
+is,1
+no,1
+promise,1
+of,2
+the,1
+conditional,1
+release,1
+all,1
+political,1
+prisoners,1

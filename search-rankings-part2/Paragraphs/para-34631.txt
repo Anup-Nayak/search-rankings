@@ -1,0 +1,9 @@
+11,129,9
+enter,1
+cape,1
+if,1
+this,1
+contention,1
+not,1
+accepted,1
+ad,1

@@ -1,0 +1,9 @@
+8,5,2
+7,1
+regulations,1
+for,2
+making,1
+applications,1
+licences,1
+in,1
+natal,1

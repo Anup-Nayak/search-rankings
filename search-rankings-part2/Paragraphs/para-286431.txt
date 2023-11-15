@@ -1,0 +1,14 @@
+76,278,21
+standard,1
+wage,1
+for,1
+the,2
+hours,1
+of,1
+work,1
+she,1
+has,1
+put,1
+in,1
+producing,1
+same,1

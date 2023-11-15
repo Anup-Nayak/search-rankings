@@ -1,0 +1,6 @@
+39,98,5
+108,1
+letter,1
+to,1
+h,1
+harcourt,1

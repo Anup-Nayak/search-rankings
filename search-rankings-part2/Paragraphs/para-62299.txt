@@ -1,0 +1,16 @@
+17,413,16
+occurred,1
+anywhere,1
+no,1
+coercion,1
+should,1
+be,1
+used,1
+towards,1
+those,1
+who,1
+did,1
+not,1
+wish,1
+to,1
+join,1

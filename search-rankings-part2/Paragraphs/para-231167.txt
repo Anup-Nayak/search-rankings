@@ -1,0 +1,15 @@
+63,253,5
+q,1
+some,1
+say,1
+that,1
+there,1
+should,1
+be,1
+no,1
+separate,1
+schools,1
+for,1
+harijans,1
+at,1
+all,1

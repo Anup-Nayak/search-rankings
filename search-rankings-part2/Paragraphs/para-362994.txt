@@ -1,0 +1,4 @@
+93,422,4
+disintegration,1
+and,1
+decay,1

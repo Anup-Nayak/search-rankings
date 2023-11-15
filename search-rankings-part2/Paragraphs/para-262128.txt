@@ -1,0 +1,10 @@
+70,259,13
+1,1
+the,2
+report,1
+in,1
+source,1
+is,1
+dated,1
+january,1
+10,1

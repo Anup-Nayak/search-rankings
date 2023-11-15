@@ -1,0 +1,9 @@
+81,52,2
+blessings,1
+from,1
+bapu,1
+jainarayan,1
+vyas,1
+brahmapuri,1
+jodhpur,1
+mewar,1

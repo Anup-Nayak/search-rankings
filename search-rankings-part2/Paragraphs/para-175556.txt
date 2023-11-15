@@ -1,0 +1,5 @@
+50,205,6
+298,1
+letter,1
+to,1
+krishnamaiyadevi,1

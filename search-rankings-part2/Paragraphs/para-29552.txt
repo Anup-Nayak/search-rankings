@@ -1,0 +1,16 @@
+9,470,6
+2,1
+every,1
+unregistered,1
+adult,1
+asiatic,1
+resident,1
+outside,1
+the,2
+colony,1
+at,1
+commencement,1
+of,1
+this,1
+act,1
+shall,1

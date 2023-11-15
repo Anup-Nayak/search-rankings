@@ -1,0 +1,17 @@
+35,130,5
+1,1
+this,1
+was,1
+a,1
+form,1
+of,1
+greeting,1
+used,1
+by,1
+gandhiji,1
+and,1
+the,1
+addressee,1
+for,1
+each,1
+other,1

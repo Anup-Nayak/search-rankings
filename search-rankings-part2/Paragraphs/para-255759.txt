@@ -1,0 +1,10 @@
+69,41,10
+first,1
+then,1
+bangalore,1
+fortnight,1
+come,1
+if,1
+only,1
+for,1
+one,1

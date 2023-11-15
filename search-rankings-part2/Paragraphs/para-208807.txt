@@ -1,0 +1,10 @@
+58,159,8
+what,1
+precisely,1
+is,1
+being,1
+done,1
+if,1
+absolute,1
+precaution,1
+not,1

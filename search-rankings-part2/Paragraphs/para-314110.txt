@@ -1,0 +1,14 @@
+82,347,16
+sisters,1
+picking,1
+up,1
+rotten,1
+food,1
+from,1
+the,2
+dustbins,1
+and,1
+eating,1
+it,1
+thought,1
+of,1

@@ -1,0 +1,16 @@
+12,348,2
+went,1
+to,1
+olivers,1
+meeting,1
+of,1
+indians,1
+left,1
+for,1
+klerksdorp,1
+addresses,1
+at,1
+christiana,1
+bloemhof,1
+&,1
+windsorton,1

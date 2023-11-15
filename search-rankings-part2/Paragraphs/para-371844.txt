@@ -1,0 +1,15 @@
+96,247,10
+and,1
+because,1
+there,1
+is,1
+no,1
+radium,1
+on,1
+the,1
+dial,1
+i,1
+shall,1
+need,1
+a,1
+torch,1

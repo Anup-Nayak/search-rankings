@@ -1,0 +1,12 @@
+88,60,10
+blessings,1
+from,1
+bapu,1
+lakshman,1
+singh,1
+gelakoti,1
+teacher,1
+middle,1
+school,1
+wadeddina,1
+almora,1

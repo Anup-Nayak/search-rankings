@@ -1,0 +1,12 @@
+82,299,31
+district,1
+magistrate,1
+has,1
+to,1
+guard,1
+himself,1
+very,1
+strongly,1
+during,1
+his,1
+movements,1

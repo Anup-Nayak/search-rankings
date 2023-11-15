@@ -1,0 +1,12 @@
+10,311,22
+to,2
+parents,1
+reverential,1
+old,1
+age,1
+amiable,1
+law,1
+abiding,1
+compassionate,1
+towards,1
+the,1

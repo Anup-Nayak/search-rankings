@@ -1,0 +1,5 @@
+24,113,2
+70,1
+letter,1
+to,1
+marwaris,1

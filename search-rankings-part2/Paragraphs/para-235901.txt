@@ -1,0 +1,7 @@
+64,286,4
+thank,1
+god,1
+broke,1
+fast,1
+am,1
+well,1

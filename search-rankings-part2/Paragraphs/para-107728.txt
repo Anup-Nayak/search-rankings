@@ -1,0 +1,11 @@
+31,459,4
+1,1
+vide,1
+speech,1
+at,1
+ashtanga,1
+ayurveda,1
+vidyalaya,1
+6,1
+5,1
+1925,1

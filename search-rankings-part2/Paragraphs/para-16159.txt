@@ -1,0 +1,7 @@
+6,92,3
+also,1
+typewritten,1
+draft,1
+s,1
+n,1
+4577,1

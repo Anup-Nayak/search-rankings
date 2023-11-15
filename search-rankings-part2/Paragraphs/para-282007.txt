@@ -1,0 +1,10 @@
+75,259,8
+instant,1
+a,1
+i,1
+c,2
+twenty,1
+ninth,1
+shall,1
+make,1
+desperate,1

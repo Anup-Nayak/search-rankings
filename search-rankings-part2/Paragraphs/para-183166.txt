@@ -1,0 +1,8 @@
+52,117,8
+q,1
+do,1
+you,1
+believe,1
+in,1
+self,1
+determination,1

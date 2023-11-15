@@ -1,0 +1,8 @@
+27,402,10
+only,1
+requires,1
+an,1
+organization,1
+to,1
+develop,1
+it,1

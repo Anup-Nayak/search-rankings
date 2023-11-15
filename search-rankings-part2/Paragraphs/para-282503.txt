@@ -1,0 +1,9 @@
+75,313,1
+you,1
+trust,1
+him,1
+he,2
+has,1
+one,1
+defect,1
+leans,1

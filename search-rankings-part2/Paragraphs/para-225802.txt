@@ -1,0 +1,10 @@
+62,8,3
+thank,1
+god,1
+hope,1
+mother,1
+will,1
+be,1
+well,1
+enough,1
+attend,1

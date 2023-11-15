@@ -1,0 +1,11 @@
+72,12,13
+1,1
+in,2
+the,1
+source,1
+what,1
+follows,1
+is,1
+gandhiji,1
+s,1
+hand,1

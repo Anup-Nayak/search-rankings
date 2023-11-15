@@ -1,0 +1,8 @@
+24,129,3
+an,1
+indian,1
+christian,1
+from,1
+basrah,1
+north,1
+writes,1

@@ -1,0 +1,8 @@
+55,505,10
+bapu,1
+chi,1
+narandas,1
+gandhi,1
+satyagraha,1
+ashram,1
+sabarmati,1

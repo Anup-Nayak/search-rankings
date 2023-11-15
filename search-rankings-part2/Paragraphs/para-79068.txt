@@ -1,0 +1,7 @@
+23,112,2
+50,1
+speech,1
+at,1
+public,1
+meeting,1
+kapadwanj,1

@@ -1,0 +1,16 @@
+6,145,14
+in,2
+south,1
+africa,1
+the,1
+white,1
+man,1
+can,1
+live,1
+and,1
+breed,1
+but,1
+that,1
+he,1
+cannot,1
+engage,1

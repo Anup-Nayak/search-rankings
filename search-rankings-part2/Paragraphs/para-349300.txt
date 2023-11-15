@@ -1,0 +1,10 @@
+90,321,10
+conscious,1
+tell,1
+him,1
+think,1
+of,1
+god,1
+and,1
+nothing,1
+else,1

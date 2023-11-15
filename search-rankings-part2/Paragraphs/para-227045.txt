@@ -1,0 +1,5 @@
+62,165,2
+blessings,1
+to,1
+both,1
+from,1

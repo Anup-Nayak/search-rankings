@@ -1,0 +1,17 @@
+50,461,11
+1,1
+these,1
+two,1
+sentences,1
+are,1
+in,1
+urdu,1
+2,1
+a,1
+farewell,1
+greeting,1
+meaning,1
+may,1
+god,1
+protect,1
+you,1

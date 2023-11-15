@@ -1,0 +1,13 @@
+71,23,10
+r,1
+c,1
+f,1
+of,1
+course,1
+all,1
+the,1
+christian,1
+sects,1
+are,1
+not,1
+united,1

@@ -1,0 +1,4 @@
+52,377,1
+freedom,1
+about,1
+salt,1

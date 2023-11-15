@@ -1,0 +1,13 @@
+93,230,6
+as,1
+from,1
+kazirkhil,1
+ramganj,1
+post,1
+distt,1
+noakhali,1
+camp,1
+chandipur,1
+january,1
+4,1
+1947,1

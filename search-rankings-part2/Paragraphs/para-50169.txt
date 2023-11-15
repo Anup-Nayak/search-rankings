@@ -1,0 +1,4 @@
+15,8,6
+respectful,1
+greetings,1
+from,1

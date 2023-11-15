@@ -1,0 +1,14 @@
+58,437,8
+15,1
+if,1
+the,2
+entry,1
+of,1
+untouchables,1
+into,1
+temples,1
+depends,1
+on,1
+votes,1
+in,1
+a,1

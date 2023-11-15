@@ -1,0 +1,11 @@
+31,190,8
+indicate,1
+why,1
+this,1
+constant,1
+reiteration,1
+of,1
+the,1
+old,1
+arbitrary,1
+distinction,1

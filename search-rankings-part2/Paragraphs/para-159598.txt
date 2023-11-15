@@ -1,0 +1,7 @@
+46,160,2
+152,1
+rashtriya,1
+sangha,1
+and,1
+self,1
+support,1

@@ -1,0 +1,8 @@
+19,15,12
+missions,1
+and,2
+summary,1
+courts,1
+not,1
+restrict,1
+themselves,1

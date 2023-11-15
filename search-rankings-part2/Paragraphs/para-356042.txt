@@ -1,0 +1,5 @@
+92,157,1
+223,1
+leprosy,1
+and,1
+contamination,1

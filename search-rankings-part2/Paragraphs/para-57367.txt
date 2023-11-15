@@ -1,0 +1,9 @@
+16,365,7
+245,1
+statement,1
+to,1
+the,1
+press,1
+on,1
+kheda,1
+situation,1

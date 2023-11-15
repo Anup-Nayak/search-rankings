@@ -1,0 +1,13 @@
+86,345,4
+blessings,1
+from,1
+bapu,1
+ps,1
+do,1
+something,1
+to,1
+make,1
+the,1
+heat,1
+there,1
+bearable,1

@@ -1,0 +1,11 @@
+46,43,6
+union,1
+society,1
+116,1
+0,4
+parlepalli,1
+296,1
+6,1
+3,1
+vidvaluru,1
+400,1

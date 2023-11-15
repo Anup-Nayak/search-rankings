@@ -1,0 +1,3 @@
+22,296,3
+sitting,1
+dharna,1

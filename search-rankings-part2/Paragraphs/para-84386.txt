@@ -1,0 +1,7 @@
+25,35,7
+sabarmati,1
+padvo,1
+2,1
+october,1
+31,1
+1921,1

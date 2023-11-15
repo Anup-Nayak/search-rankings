@@ -1,0 +1,4 @@
+82,248,14
+museum,1
+and,1
+library,1

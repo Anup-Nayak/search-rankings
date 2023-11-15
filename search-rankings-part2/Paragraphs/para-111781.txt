@@ -1,0 +1,7 @@
+33,154,2
+get,1
+enrolled,1
+in,1
+the,1
+spinners,1
+association,1

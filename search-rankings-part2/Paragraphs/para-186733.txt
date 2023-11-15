@@ -1,0 +1,4 @@
+53,22,3
+22,1
+digambar,1
+sadhus,1

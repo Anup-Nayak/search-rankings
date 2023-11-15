@@ -1,0 +1,8 @@
+13,40,4
+6,1
+how,2
+much,1
+and,1
+often,1
+to,1
+eat,1

@@ -1,0 +1,12 @@
+32,466,27
+enclosed,1
+are,1
+two,1
+little,1
+samples,1
+of,1
+wool,1
+which,1
+i,1
+have,1
+spun,1

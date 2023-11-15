@@ -1,0 +1,8 @@
+81,492,4
+protection,2
+of,2
+the,3
+cow,1
+would,1
+mean,1
+buffalo,1

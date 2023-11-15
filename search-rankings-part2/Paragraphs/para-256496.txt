@@ -1,0 +1,14 @@
+69,123,3
+miss,1
+mabel,1
+e,1
+simpson,1
+of,1
+montana,1
+u,1
+s,1
+a,1
+writes,1
+to,1
+the,1
+editor,1

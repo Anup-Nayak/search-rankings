@@ -1,0 +1,11 @@
+86,96,2
+the,2
+same,1
+argument,1
+he,1
+said,1
+applied,1
+to,1
+question,1
+whether,1
+congressmen,1

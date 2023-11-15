@@ -1,0 +1,9 @@
+35,69,1
+a,1
+professor,1
+from,1
+far,1
+off,1
+poland,1
+regarding,1
+khaddar,1

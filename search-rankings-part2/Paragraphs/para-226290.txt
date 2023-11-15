@@ -1,0 +1,12 @@
+62,68,13
+1,1
+mother,1
+of,1
+anand,2
+t,2
+higorani,1
+2,1
+hingoranis,1
+wife,1
+and,1
+son,1

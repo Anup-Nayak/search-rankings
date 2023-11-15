@@ -1,0 +1,17 @@
+20,74,4
+i,1
+was,1
+taken,1
+by,1
+a,2
+constable,1
+to,1
+the,2
+door,1
+of,1
+havalat,1
+1,1
+small,1
+room,1
+as,1
+it,1

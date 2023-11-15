@@ -1,0 +1,14 @@
+66,84,11
+1,1
+from,1
+the,4
+contents,1
+vide,1
+preceding,1
+item,1
+2,1
+rest,1
+of,1
+postscript,1
+is,1
+illegible,1

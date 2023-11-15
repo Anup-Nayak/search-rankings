@@ -1,0 +1,14 @@
+49,62,9
+are,1
+the,2
+wages,1
+of,1
+workers,1
+less,1
+than,1
+they,1
+would,1
+be,1
+under,1
+a,1
+native,1

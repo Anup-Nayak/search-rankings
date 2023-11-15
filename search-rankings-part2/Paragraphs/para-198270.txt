@@ -1,0 +1,10 @@
+55,407,3
+1,1
+from,1
+the,1
+addressees,1
+husband,1
+2,1
+infatuation,1
+ignorant,1
+attachment,1

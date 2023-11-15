@@ -1,0 +1,6 @@
+89,445,2
+580,1
+nature,1
+cure,1
+treatment,1
+1,1

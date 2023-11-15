@@ -1,0 +1,14 @@
+23,363,11
+the,1
+thick,1
+khaddar,1
+cloth,1
+she,2
+was,1
+wearing,1
+and,1
+wanted,1
+his,1
+permission,1
+to,1
+wear,1

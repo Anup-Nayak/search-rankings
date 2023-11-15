@@ -1,0 +1,5 @@
+27,100,3
+lala,1
+lajpat,1
+rai,1
+lahore,1

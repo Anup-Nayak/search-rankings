@@ -1,0 +1,14 @@
+25,344,3
+as,1
+mahatma,1
+gandhi,1
+got,1
+down,1
+the,2
+platform,1
+to,1
+reach,1
+rostrum,1
+in,1
+his,1
+usual,1

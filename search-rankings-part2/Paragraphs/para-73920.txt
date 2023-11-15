@@ -1,0 +1,15 @@
+21,238,12
+should,1
+reject,1
+it,1
+not,1
+only,1
+on,2
+a,1
+matter,1
+of,2
+conscience,1
+but,1
+also,1
+the,1
+ground,1

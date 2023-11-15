@@ -1,0 +1,5 @@
+39,18,1
+22,1
+letter,1
+to,1
+rustomji,1

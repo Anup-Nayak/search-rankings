@@ -1,0 +1,14 @@
+76,168,11
+delhi,1
+july,1
+27,1
+1939,1
+jawaharlal,1
+nehru,1
+care,1
+congress,1
+g,1
+irgaum,1
+b,1
+omba,1
+y,1

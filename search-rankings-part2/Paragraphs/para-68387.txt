@@ -1,0 +1,7 @@
+19,340,6
+impossible,1
+leave,1
+punjab,1
+please,1
+apologise,1
+for,1

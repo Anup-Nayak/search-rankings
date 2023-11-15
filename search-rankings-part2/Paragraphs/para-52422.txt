@@ -1,0 +1,17 @@
+15,261,6
+at,1
+the,2
+bombay,1
+provincial,1
+conference,1
+held,1
+in,1
+ahmedabad,1
+gandhiji,1
+moved,1
+on,1
+october,1
+22,1
+1916,1
+following,1
+resolution,1

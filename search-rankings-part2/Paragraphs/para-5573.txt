@@ -1,0 +1,5 @@
+2,410,6
+192,1
+telegram,1
+regarding,1
+permits,1

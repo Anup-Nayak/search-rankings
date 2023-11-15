@@ -1,0 +1,11 @@
+91,298,9
+l,1
+f,1
+then,1
+america,1
+is,1
+not,1
+very,1
+different,1
+from,1
+russia,1

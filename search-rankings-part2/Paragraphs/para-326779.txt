@@ -1,0 +1,7 @@
+85,290,7
+476,1
+letter,1
+to,1
+gladys,1
+e,1
+sunwani,1

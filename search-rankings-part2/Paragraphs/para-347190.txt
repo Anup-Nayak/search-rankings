@@ -1,0 +1,12 @@
+90,67,1
+93,1
+talk,1
+with,1
+shah,1
+nawaz,1
+khan,1
+and,1
+p,1
+k,1
+sehgal,1
+1,1

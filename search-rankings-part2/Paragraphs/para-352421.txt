@@ -1,0 +1,13 @@
+91,213,2
+cliff,1
+it,1
+is,1
+very,1
+difficut,1
+for,1
+us,1
+everywhere,1
+e,1
+g,1
+in,1
+egypt,1

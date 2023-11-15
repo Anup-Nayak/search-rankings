@@ -1,0 +1,4 @@
+80,21,8
+1vide,1
+mysore,1
+justice,1

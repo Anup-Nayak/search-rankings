@@ -1,0 +1,16 @@
+23,488,12
+quarrel,1
+and,1
+let,1
+the,2
+peace,1
+blight,1
+childhood,1
+of,1
+central,1
+europe,1
+is,1
+not,1
+a,2
+sane,1
+or,1

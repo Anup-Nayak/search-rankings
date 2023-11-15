@@ -1,0 +1,10 @@
+24,360,15
+k,1
+m,1
+abdul,1
+gafur,1
+delhi,1
+b,1
+l,1
+subbaramayya,1
+andhra,1

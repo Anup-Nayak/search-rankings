@@ -1,0 +1,13 @@
+69,136,12
+1,1
+the,1
+addressees,2
+elder,1
+brothers,1
+only,1
+son,1
+had,1
+passed,1
+away,1
+2,1
+wife,1

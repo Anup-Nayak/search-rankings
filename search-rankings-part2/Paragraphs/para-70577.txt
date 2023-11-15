@@ -1,0 +1,13 @@
+20,163,5
+1,1
+amar,1
+singh,3
+atma,1
+and,1
+santok,1
+the,1
+last,1
+aged,1
+only,1
+16,1
+years,1

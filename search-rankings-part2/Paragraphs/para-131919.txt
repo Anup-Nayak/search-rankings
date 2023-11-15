@@ -1,0 +1,12 @@
+38,346,10
+1,1
+the,1
+reference,1
+is,1
+to,2
+sastris,1
+decision,1
+on,1
+going,1
+south,1
+africa,1

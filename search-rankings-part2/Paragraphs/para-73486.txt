@@ -1,0 +1,12 @@
+21,142,2
+do,1
+you,3
+mean,1
+that,2
+want,1
+this,1
+boycott,1
+promoted,1
+because,1
+feel,1
+the,1

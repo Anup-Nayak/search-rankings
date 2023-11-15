@@ -1,0 +1,7 @@
+7,430,15
+dadabhais,1
+birthday,1
+pro,1
+doctor,1
+0,2
+10,1

@@ -1,0 +1,15 @@
+73,45,2
+mathura,1
+babu,1
+what,1
+will,1
+you,1
+say,1
+in,1
+reply,1
+to,1
+the,1
+remark,1
+about,1
+jesus,1
+christ,1

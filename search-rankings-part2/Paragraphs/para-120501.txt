@@ -1,0 +1,7 @@
+35,371,1
+478,1
+letter,1
+to,1
+mohmed,1
+hasam,1
+chaman,1

@@ -1,0 +1,5 @@
+81,240,7
+427,1
+letter,1
+to,1
+maneklal,1

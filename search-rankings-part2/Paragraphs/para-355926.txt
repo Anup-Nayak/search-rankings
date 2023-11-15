@@ -1,0 +1,12 @@
+92,145,8
+1,1
+some,1
+three,1
+lines,1
+are,1
+illegible,1
+here,1
+2,1
+addressees,1
+younger,1
+sister,1

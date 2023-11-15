@@ -1,0 +1,16 @@
+93,302,7
+he,1
+is,1
+not,1
+a,1
+momin,1
+who,4
+commiteth,1
+adultery,1
+or,4
+stealeth,1
+drinketh,1
+liquor,1
+plundereth,1
+embezzleth,1
+beware,2

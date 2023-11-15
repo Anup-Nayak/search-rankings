@@ -1,0 +1,9 @@
+80,220,11
+ba,1
+getting,1
+weaker,1
+and,1
+restless,1
+if,1
+so,1
+better,1

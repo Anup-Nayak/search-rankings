@@ -1,0 +1,6 @@
+38,328,12
+from,1
+the,1
+gujarati,1
+original,1
+32858,1

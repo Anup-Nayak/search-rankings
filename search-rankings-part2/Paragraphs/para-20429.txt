@@ -1,0 +1,5 @@
+7,95,4
+do,1
+not,1
+offer,1
+bail,1

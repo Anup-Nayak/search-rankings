@@ -1,0 +1,6 @@
+77,35,11
+inviting,1
+dr,1
+dadoo,1
+see,1
+you,1

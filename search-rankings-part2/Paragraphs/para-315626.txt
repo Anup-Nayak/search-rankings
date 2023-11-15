@@ -1,0 +1,16 @@
+82,412,25
+they,1
+will,1
+go,1
+back,1
+to,1
+the,1
+bank,2
+their,2
+own,1
+and,1
+utilize,1
+it,1
+under,1
+direction,1
+for,1

@@ -1,0 +1,14 @@
+72,315,16
+2,1
+the,1
+addressee,1
+was,1
+in,1
+bombay,1
+helping,1
+her,1
+brothers,1
+to,1
+settle,1
+their,1
+differences,1

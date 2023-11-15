@@ -1,0 +1,8 @@
+81,10,9
+madalasa,1
+good,1
+company,1
+allow,1
+stay,1
+unless,1
+you,1

@@ -1,0 +1,12 @@
+44,496,10
+t13,1
+for,1
+my,2
+husband,1
+and,1
+children,2
+guj,1
+has,1
+the,1
+father,1
+of,1

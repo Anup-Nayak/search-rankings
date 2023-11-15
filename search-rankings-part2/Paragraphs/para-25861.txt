@@ -1,0 +1,7 @@
+8,463,13
+highest,1
+educational,1
+qualifications,1
+government,1
+say,1
+we,1

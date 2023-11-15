@@ -1,0 +1,13 @@
+86,337,5
+m,1
+k,1
+gandhi,1
+mushtaq,1
+ali,1
+34,1
+prem,1
+house,1
+connaught,1
+place,1
+new,1
+delhi,1

@@ -1,0 +1,9 @@
+63,108,2
+121,1
+speech,1
+at,1
+om,1
+prakash,1
+mutt,1
+ootacamund,1
+1,1

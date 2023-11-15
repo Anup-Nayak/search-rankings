@@ -1,0 +1,15 @@
+17,382,2
+repeated,1
+by,2
+mr,4
+jamnadas,2
+sentence,2
+as,1
+gandhi,2
+instructed,1
+him,1
+then,1
+read,1
+the,1
+speech,1
+of,1

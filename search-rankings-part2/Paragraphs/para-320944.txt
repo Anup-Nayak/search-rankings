@@ -1,0 +1,12 @@
+84,167,2
+bapu,1
+prof,1
+p,1
+g,1
+mathew,1
+s,1
+h,1
+college,1
+thevara,1
+via,1
+ernakulam,1

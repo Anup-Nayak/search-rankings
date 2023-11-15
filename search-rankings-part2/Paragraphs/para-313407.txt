@@ -1,0 +1,14 @@
+82,298,16
+women,2
+are,1
+not,2
+spared,1
+there,1
+is,1
+a,1
+tradition,1
+that,1
+hurs,1
+do,1
+attack,1
+or,1

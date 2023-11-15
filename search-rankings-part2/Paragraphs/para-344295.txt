@@ -1,0 +1,7 @@
+89,193,6
+273,1
+letter,1
+to,1
+saroj,1
+basini,1
+goho,1

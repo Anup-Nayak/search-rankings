@@ -1,0 +1,8 @@
+14,14,8
+situation,1
+press,1
+cables,1
+announce,1
+you,1
+absent,1
+congress,1

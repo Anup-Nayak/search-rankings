@@ -1,0 +1,14 @@
+63,189,1
+question,1
+which,1
+is,1
+only,1
+one,1
+aspect,1
+of,1
+the,1
+big,1
+problem,1
+to,1
+solve,1
+itself,1

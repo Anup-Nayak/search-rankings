@@ -1,0 +1,6 @@
+17,124,8
+103,1
+letter,1
+to,1
+dattatreya,1
+dabholkar,1

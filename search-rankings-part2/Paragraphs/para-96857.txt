@@ -1,0 +1,12 @@
+28,432,10
+eleven,1
+members,1
+resigned,1
+as,1
+they,1
+could,1
+not,1
+conform,1
+to,1
+the,1
+recommendations,1

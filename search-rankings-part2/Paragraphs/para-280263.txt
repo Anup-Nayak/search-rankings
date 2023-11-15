@@ -1,0 +1,10 @@
+75,62,3
+vinced,1
+time,1
+has,1
+not,1
+arrived,1
+for,1
+her,1
+to,1
+do,1

@@ -1,0 +1,14 @@
+82,213,6
+non,1
+hindi,1
+speaking,1
+provinces,1
+to,1
+learn,1
+the,1
+national,1
+language,1
+through,1
+both,1
+scripts,1
+at,1

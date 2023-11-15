@@ -1,0 +1,6 @@
+38,490,5
+491,1
+letter,1
+t0,1
+raihana,1
+tyabji,1

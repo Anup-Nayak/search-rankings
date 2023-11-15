@@ -1,0 +1,11 @@
+82,298,15
+official,1
+or,4
+a,1
+petty,1
+kotar,1
+beldar,1
+rich,1
+poor,1
+innocent,1
+guilty,1

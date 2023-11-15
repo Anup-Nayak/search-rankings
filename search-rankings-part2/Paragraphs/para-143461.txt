@@ -1,0 +1,5 @@
+42,50,7
+1,1
+by,1
+reinhold,1
+niebuhr,1

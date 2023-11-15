@@ -1,0 +1,7 @@
+40,464,8
+309,1
+speech,1
+at,1
+central,1
+college,1
+jaffna,1

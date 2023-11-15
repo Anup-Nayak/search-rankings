@@ -1,0 +1,5 @@
+75,35,6
+manibehn,1
+detained,1
+state,1
+guests,1

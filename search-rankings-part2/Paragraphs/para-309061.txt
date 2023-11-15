@@ -1,0 +1,10 @@
+81,403,5
+673,1
+letter,1
+to,1
+jafar,1
+hasan,1
+bardoli,1
+january,1
+3,1
+1942,1

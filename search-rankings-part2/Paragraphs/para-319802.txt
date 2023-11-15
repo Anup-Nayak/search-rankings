@@ -1,0 +1,10 @@
+84,56,7
+he,1
+will,1
+be,1
+permitted,1
+write,1
+to,1
+me,1
+cause,1
+fasting,1

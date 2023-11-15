@@ -1,0 +1,9 @@
+68,33,16
+spiegel,1
+papers,1
+courtesy,1
+nehru,1
+memorial,1
+museum,1
+and,1
+library,1

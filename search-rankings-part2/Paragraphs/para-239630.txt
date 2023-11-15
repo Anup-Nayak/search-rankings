@@ -1,0 +1,15 @@
+65,241,5
+6,1
+the,3
+sub,1
+committee,1
+recommends,1
+deletion,1
+of,1
+article,1
+dealing,1
+with,1
+matters,1
+affecting,1
+communal,1
+interests,1

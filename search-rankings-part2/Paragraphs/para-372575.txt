@@ -1,0 +1,14 @@
+96,318,14
+1,2
+this,1
+was,1
+in,1
+reply,1
+to,1
+the,1
+editor,1
+s,1
+letter,1
+dated,1
+september,1
+1947,1

@@ -1,0 +1,13 @@
+78,110,3
+the,1
+case,1
+is,1
+unsatisfactory,1
+because,1
+we,1
+have,1
+no,1
+less,1
+than,1
+five,1
+persons,1

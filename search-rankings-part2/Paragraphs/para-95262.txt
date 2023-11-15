@@ -1,0 +1,5 @@
+28,170,6
+1,1
+community,1
+in,1
+kerala,1

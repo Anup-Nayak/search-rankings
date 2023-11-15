@@ -1,0 +1,8 @@
+26,393,2
+thou,4
+art,2
+brother,1
+and,2
+friend,1
+father,1
+mother,1

@@ -1,0 +1,6 @@
+16,15,6
+mohandas,1
+bhagwanji,1
+anoopchand,1
+vakil,1
+rajkot,1

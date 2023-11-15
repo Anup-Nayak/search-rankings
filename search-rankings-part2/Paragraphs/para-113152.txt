@@ -1,0 +1,13 @@
+33,333,6
+that,2
+there,1
+is,2
+something,1
+lacking,1
+and,1
+why,1
+they,1
+do,1
+not,1
+produce,1
+proper,1

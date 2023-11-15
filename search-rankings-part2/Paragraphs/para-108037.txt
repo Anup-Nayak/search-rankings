@@ -1,0 +1,13 @@
+32,15,2
+please,1
+excuse,1
+my,2
+writing,1
+to,1
+you,1
+about,1
+it,1
+client,1
+who,1
+is,1
+a,1

@@ -1,0 +1,11 @@
+44,473,20
+t1,1
+guj,1
+does,1
+not,1
+have,1
+discovered,1
+that,1
+we,1
+had,1
+left,1

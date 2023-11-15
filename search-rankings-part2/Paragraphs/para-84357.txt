@@ -1,0 +1,14 @@
+25,31,2
+1,1
+a,2
+fabulous,1
+jewel,1
+supposed,1
+to,1
+have,1
+the,1
+virtue,1
+of,1
+fulfilling,1
+wish,1
+instantly,1

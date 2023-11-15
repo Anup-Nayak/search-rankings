@@ -1,0 +1,7 @@
+12,132,3
+105,1
+interview,1
+to,1
+the,1
+evening,1
+chronicle,1

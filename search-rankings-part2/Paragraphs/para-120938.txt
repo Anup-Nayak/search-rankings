@@ -1,0 +1,7 @@
+35,422,5
+pyarelal,1
+must,1
+not,1
+come,1
+navajivan1,1
+arranged,1

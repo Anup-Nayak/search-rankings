@@ -1,0 +1,11 @@
+87,46,5
+m,1
+k,1
+gandhi,1
+h,2
+nawab,1
+saheb,1
+of,1
+chhatari,1
+hyderabad,1
+dn,1

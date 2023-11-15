@@ -1,0 +1,8 @@
+41,494,2
+immigration,1
+act,1
+1913,1
+which,1
+sanctions,1
+temporary,1
+permits,1

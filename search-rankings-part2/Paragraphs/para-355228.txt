@@ -1,0 +1,8 @@
+92,65,7
+99,1
+letter,1
+to,1
+dr,1
+sheikh,1
+muhammed,1
+alam,1

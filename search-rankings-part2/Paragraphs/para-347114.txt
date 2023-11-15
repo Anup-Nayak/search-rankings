@@ -1,0 +1,5 @@
+90,57,3
+1charaka,1
+chikitsa,1
+m,1
+311,1

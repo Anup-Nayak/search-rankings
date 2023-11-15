@@ -1,0 +1,7 @@
+12,79,3
+62,1
+a,1
+fruit,1
+of,1
+passive,1
+resistance,1

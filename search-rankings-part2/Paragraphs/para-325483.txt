@@ -1,0 +1,6 @@
+85,166,4
+252,1
+letter,1
+to,1
+tejwanti,1
+dhir,1

@@ -1,0 +1,16 @@
+19,414,7
+schools,1
+also,1
+and,2
+of,1
+ladies,1
+he,1
+spoke,1
+in,1
+hindi,1
+referred,1
+to,1
+tulsidas,1
+1,1
+several,1
+times,1

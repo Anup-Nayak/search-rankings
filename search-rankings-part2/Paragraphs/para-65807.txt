@@ -1,0 +1,17 @@
+19,3,5
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+in,1
+devanagari,1
+script,1
+c,1
+w,1
+9843,1
+courtesy,1
+narayan,1
+jethalal,1
+sampat,1

@@ -1,0 +1,7 @@
+92,264,8
+advise,1
+seek,1
+appointment,1
+after,1
+return,1
+wardha,1

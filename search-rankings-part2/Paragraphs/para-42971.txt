@@ -1,0 +1,8 @@
+13,146,9
+thirty,1
+three,1
+free,1
+state,1
+law,1
+stop,1
+this,1

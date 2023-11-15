@@ -1,0 +1,7 @@
+30,101,4
+55,1
+speech,1
+at,1
+cultivators,1
+conference,1
+petlad,1

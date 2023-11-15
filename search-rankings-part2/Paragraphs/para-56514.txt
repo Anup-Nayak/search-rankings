@@ -1,0 +1,8 @@
+16,242,4
+140,1
+fragment,1
+of,1
+letter,1
+to,1
+mrs,1
+jinarajadas,1

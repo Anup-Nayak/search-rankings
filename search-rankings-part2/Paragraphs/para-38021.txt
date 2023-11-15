@@ -1,0 +1,12 @@
+11,487,3
+province,1
+no,1
+and,1
+year,1
+of,3
+law,2
+title,1
+or,1
+subject,1
+extent,1
+repeal,1

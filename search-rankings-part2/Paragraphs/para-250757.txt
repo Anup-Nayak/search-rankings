@@ -1,0 +1,8 @@
+67,397,6
+malkani,1
+harijan,1
+sevak,1
+sangh,1
+birla,1
+mills,1
+delhi,1

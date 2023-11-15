@@ -1,0 +1,16 @@
+22,265,5
+1,1
+a,1
+thing,1
+to,1
+be,1
+shunned,1
+2,1
+on,2
+non,2
+co,2
+operation,2
+vide,1
+appendix,1
+congress,1
+resolution,1

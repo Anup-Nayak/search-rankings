@@ -1,0 +1,7 @@
+18,315,1
+245,1
+sir,1
+sankaran,1
+nair,1
+and,1
+champaran,1

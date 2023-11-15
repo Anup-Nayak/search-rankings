@@ -1,0 +1,7 @@
+10,336,9
+johannesburg,1
+kartak,1
+vadi,1
+5,1
+samvat,1
+1966,1

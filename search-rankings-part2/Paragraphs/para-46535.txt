@@ -1,0 +1,8 @@
+14,75,6
+invited,1
+to,1
+speak,1
+mr,1
+andrews,1
+also,1
+delivered,1

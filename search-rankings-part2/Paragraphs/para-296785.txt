@@ -1,0 +1,5 @@
+79,113,3
+can,1
+he,1
+stand,1
+alone,1

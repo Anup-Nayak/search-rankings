@@ -1,0 +1,11 @@
+12,356,2
+harila,1
+l,1
+todani,1
+pol,2
+no,1
+1ni,1
+kalupur,1
+road,1
+ahmedabad,1
+gujarati,1

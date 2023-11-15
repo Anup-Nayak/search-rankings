@@ -1,0 +1,11 @@
+84,312,8
+1,1
+shanti,1
+2,1
+the,1
+superscript,1
+and,1
+subscription,1
+are,1
+in,1
+devanagari,1

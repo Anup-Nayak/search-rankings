@@ -1,0 +1,12 @@
+4,19,6
+any,1
+coloured,1
+person,1
+residing,1
+within,1
+the,1
+municipality,1
+must,1
+be,1
+able,1
+and,1

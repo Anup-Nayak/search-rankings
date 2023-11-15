@@ -1,0 +1,7 @@
+64,87,4
+124,1
+speech,1
+at,1
+public,1
+meeting,1
+poona,1

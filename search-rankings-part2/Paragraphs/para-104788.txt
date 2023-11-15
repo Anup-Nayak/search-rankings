@@ -1,0 +1,10 @@
+31,30,4
+congratulations,1
+y,1
+ou,1
+r,1
+victory,1
+hope,1
+you,1
+are,1
+restored,1

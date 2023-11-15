@@ -1,0 +1,10 @@
+48,507,2
+542,1
+letter,1
+to,1
+reginald,1
+reynolds,1
+unrevised,1
+march,1
+31,1
+1930,1

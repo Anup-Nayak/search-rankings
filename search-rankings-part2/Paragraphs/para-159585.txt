@@ -1,0 +1,12 @@
+46,157,29
+strikes,1
+a,2
+i,1
+s,1
+congress,1
+swaraj,1
+hindu,1
+muslim,1
+question,1
+these,1
+are,1

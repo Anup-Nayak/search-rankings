@@ -1,0 +1,14 @@
+51,324,2
+he,1
+also,1
+said,1
+a,1
+word,1
+about,1
+an,1
+important,1
+reservation,1
+in,2
+the,1
+resolution,1
+viz,1

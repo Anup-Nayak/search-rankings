@@ -1,0 +1,10 @@
+61,70,10
+good,1
+physician,1
+and,1
+descendant,1
+of,1
+those,1
+who,1
+helped,1
+the,1

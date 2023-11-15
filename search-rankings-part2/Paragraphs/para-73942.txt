@@ -1,0 +1,12 @@
+21,239,5
+congress,1
+was,1
+not,1
+one,2
+of,3
+acceptance,1
+and,1
+action,1
+but,1
+the,2
+expression,1

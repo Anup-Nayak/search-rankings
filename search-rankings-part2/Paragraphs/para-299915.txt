@@ -1,0 +1,6 @@
+80,0,1
+1,1
+letter,1
+to,1
+arthur,1
+moore,1

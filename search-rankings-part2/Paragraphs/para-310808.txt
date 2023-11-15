@@ -1,0 +1,13 @@
+82,83,9
+inequality,1
+to,2
+call,1
+oneself,1
+a,1
+hindu,1
+is,2
+confess,1
+that,1
+one,1
+reactionary,1
+and,1

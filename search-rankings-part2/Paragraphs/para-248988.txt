@@ -1,0 +1,17 @@
+67,221,6
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+v,1
+l,1
+mehta,1
+papers,1
+courtesy,1
+nehru,1
+memorial,1
+museum,1
+and,1
+library,1

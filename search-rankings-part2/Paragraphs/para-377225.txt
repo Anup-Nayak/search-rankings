@@ -1,0 +1,12 @@
+98,38,9
+shankarrao,1
+deo,1
+we,1
+have,1
+a,1
+number,1
+of,1
+intelligent,1
+workers,1
+let,1
+them,1

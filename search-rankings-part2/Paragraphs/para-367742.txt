@@ -1,0 +1,5 @@
+95,133,5
+how,1
+to,1
+combat,1
+himsa,1

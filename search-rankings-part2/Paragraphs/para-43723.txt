@@ -1,0 +1,5 @@
+13,238,2
+12,1
+accidents,1
+snake,1
+bite,1

@@ -1,0 +1,17 @@
+67,283,6
+blessings,1
+from,2
+bapu,1
+ps,1
+ask,1
+rama,1
+if,1
+it,1
+is,1
+too,1
+much,1
+to,1
+expect,1
+a,1
+letter,1
+her,1

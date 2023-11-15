@@ -1,0 +1,8 @@
+11,152,7
+173,1
+telegram,1
+to,1
+minister,1
+of,1
+interior,1
+2,1

@@ -1,0 +1,10 @@
+71,271,4
+m,1
+k,1
+gandhi,1
+from,1
+hindi,1
+gandhiji,1
+aur,1
+rajasthan,1
+p,1

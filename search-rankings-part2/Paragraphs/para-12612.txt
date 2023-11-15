@@ -1,0 +1,8 @@
+5,118,3
+separate,1
+pass,1
+for,1
+the,1
+wife,1
+0,2
+5,1

@@ -1,0 +1,15 @@
+58,487,25
+1,1
+the,1
+saying,1
+attributed,1
+to,1
+solon,1
+is,1
+call,1
+no,1
+man,1
+happy,1
+till,1
+he,1
+dies,1

@@ -1,0 +1,6 @@
+17,238,25
+favourable,1
+response,1
+of,1
+the,1
+government,1

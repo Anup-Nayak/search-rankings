@@ -1,0 +1,13 @@
+64,133,18
+people,1
+not,1
+to,1
+change,1
+the,1
+programme,1
+which,1
+was,1
+sufficiently,1
+dynamic,1
+and,1
+truly,1

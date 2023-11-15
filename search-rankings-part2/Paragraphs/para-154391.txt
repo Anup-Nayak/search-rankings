@@ -1,0 +1,7 @@
+44,489,24
+t1,1
+guj,1
+has,1
+it,1
+was,1
+probably,1

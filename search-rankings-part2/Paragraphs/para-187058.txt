@@ -1,0 +1,11 @@
+53,55,9
+b,1
+personal,1
+laws,1
+shall,1
+be,2
+protected,1
+by,1
+specific,1
+provisions,1
+to,1

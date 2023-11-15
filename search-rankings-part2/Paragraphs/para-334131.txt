@@ -1,0 +1,6 @@
+87,84,6
+147,1
+letter,1
+to,1
+uma,1
+agrawal,1

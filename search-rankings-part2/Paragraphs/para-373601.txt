@@ -1,0 +1,12 @@
+96,440,30
+for,1
+instance,1
+he,1
+considered,1
+that,2
+it,1
+was,1
+most,1
+unfortunate,1
+sir,1
+francis,1

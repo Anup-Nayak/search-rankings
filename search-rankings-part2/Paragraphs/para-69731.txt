@@ -1,0 +1,6 @@
+20,30,11
+b,1
+n,1
+sarma,1
+arthur,1
+anderson,1

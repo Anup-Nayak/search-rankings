@@ -1,0 +1,7 @@
+12,442,7
+1,1
+the,1
+entry,1
+of,1
+new,1
+immigrants,1

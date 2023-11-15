@@ -1,0 +1,10 @@
+21,366,8
+3,1
+1469,1
+1538,1
+religious,1
+reformer,1
+and,1
+founder,1
+of,1
+sikhism,1

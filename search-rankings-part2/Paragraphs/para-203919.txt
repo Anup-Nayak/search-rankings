@@ -1,0 +1,10 @@
+57,108,5
+take,1
+previous,1
+sanction,1
+for,1
+such,1
+step,1
+your,1
+time,1
+just,1

@@ -1,0 +1,4 @@
+33,91,6
+hindu,1
+muslim,1
+question,1

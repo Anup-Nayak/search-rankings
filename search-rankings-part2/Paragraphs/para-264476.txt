@@ -1,0 +1,10 @@
+71,132,3
+i,1
+have,1
+carefully,1
+read,1
+the,1
+times,1
+comment,1
+on,1
+my,1

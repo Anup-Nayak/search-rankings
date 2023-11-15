@@ -1,0 +1,17 @@
+52,449,5
+2,1
+the,3
+first,1
+subject,1
+of,1
+importance,1
+discussed,1
+was,1
+situation,1
+in,1
+gujarat,1
+particular,1
+matters,1
+raised,1
+were,1
+followings,1

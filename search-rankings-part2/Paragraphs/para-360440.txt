@@ -1,0 +1,8 @@
+93,152,4
+207,1
+letter,1
+to,1
+amtussalaam,1
+december,1
+17,1
+1946,1

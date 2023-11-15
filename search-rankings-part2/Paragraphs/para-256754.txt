@@ -1,0 +1,8 @@
+69,150,4
+180,1
+letter,1
+to,1
+atar,1
+singh,1
+and,1
+others,1

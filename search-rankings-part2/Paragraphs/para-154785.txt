@@ -1,0 +1,5 @@
+44,505,23
+t10,1
+guj,1
+adds,1
+severely,1

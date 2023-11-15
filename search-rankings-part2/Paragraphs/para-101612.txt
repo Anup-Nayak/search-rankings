@@ -1,0 +1,7 @@
+30,35,6
+23,1
+speech,1
+at,1
+antyaja,1
+ashram,1
+godhra,1

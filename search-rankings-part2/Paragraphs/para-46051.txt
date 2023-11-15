@@ -1,0 +1,10 @@
+14,16,8
+had,1
+hoped,1
+be,1
+able,1
+send,1
+we,1
+all,1
+think,1
+situation,1

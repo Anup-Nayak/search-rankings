@@ -1,0 +1,9 @@
+22,76,1
+52,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+monghyr,1
+1,1

@@ -1,0 +1,9 @@
+16,181,2
+motihari,1
+bihar,1
+magsar,1
+sud,1
+7,1
+december,1
+20,1
+1917,1

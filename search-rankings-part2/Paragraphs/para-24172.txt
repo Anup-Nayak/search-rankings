@@ -1,0 +1,7 @@
+8,176,2
+did,1
+i,1
+lose,1
+courage,1
+in,1
+gaol,1

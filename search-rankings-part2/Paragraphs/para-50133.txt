@@ -1,0 +1,9 @@
+15,5,4
+ahmedabad,1
+vaishakh,1
+vad,1
+8,1
+june,1
+5,1
+1915,1
+2,1

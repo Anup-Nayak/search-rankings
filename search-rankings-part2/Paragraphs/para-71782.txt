@@ -1,0 +1,13 @@
+20,360,10
+possession,1
+of,2
+the,1
+rooms,1
+at,1
+present,1
+occupied,1
+by,1
+them,1
+i,1
+am,1
+course,1

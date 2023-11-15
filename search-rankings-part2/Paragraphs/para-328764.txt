@@ -1,0 +1,7 @@
+86,13,8
+shri,1
+maganlal,1
+pranjivandas,1
+barristor,1
+andheri,1
+bombay,1

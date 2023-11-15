@@ -1,0 +1,13 @@
+21,394,8
+trust,1
+mahatma,1
+gandhi,1
+will,1
+allow,1
+us,1
+the,1
+same,1
+honesty,1
+of,1
+conviction,1
+and,1

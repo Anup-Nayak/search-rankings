@@ -1,0 +1,10 @@
+55,0,6
+from,1
+gujarati,1
+c,1
+w,1
+2807,1
+courtesy,1
+purushottam,1
+d,1
+saraiya,1

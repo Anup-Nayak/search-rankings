@@ -1,0 +1,6 @@
+52,47,7
+65,1
+letter,1
+to,1
+yousuf,1
+hussain,1

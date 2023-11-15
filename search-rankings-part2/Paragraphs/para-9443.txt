@@ -1,0 +1,8 @@
+4,119,11
+immigration,1
+general,1
+not,1
+racial,1
+lines,1
+suggested,1
+regulation,1

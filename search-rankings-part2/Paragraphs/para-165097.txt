@@ -1,0 +1,13 @@
+47,313,13
+i,1
+left,1
+my,2
+college,1
+against,1
+the,2
+advice,1
+of,1
+elders,1
+in,1
+family,1
+and,1

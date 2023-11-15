@@ -1,0 +1,13 @@
+27,401,2
+learning,1
+urdu,1
+and,1
+spinning,1
+mr,1
+george,1
+joseph,1
+writes,1
+from,1
+trivandrum,1
+central,1
+jail,1

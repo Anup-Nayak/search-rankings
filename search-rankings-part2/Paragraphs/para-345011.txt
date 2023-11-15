@@ -1,0 +1,7 @@
+89,279,3
+385,1
+talk,1
+with,1
+indonesian,1
+sailors,1
+1,1

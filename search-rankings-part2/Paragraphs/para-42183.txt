@@ -1,0 +1,10 @@
+13,47,2
+resistance,1
+and,1
+all,1
+consequent,1
+sufferings,1
+may,1
+be,1
+avoided,1
+1,1

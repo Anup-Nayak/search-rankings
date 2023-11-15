@@ -1,0 +1,11 @@
+95,240,11
+i,3
+have,2
+your,1
+note,1
+which,1
+read,1
+most,1
+carefully,1
+if,1
+shared,1

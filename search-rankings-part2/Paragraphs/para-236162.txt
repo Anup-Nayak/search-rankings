@@ -1,0 +1,6 @@
+64,318,4
+372,1
+letter,1
+to,1
+sister,1
+amata,1

@@ -1,0 +1,5 @@
+82,197,5
+240,1
+letter,1
+to,1
+vidyavati,1

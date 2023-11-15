@@ -1,0 +1,10 @@
+81,450,2
+1,1
+on,1
+which,1
+the,1
+goddess,1
+of,1
+learning,1
+is,1
+worshipped,1

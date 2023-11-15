@@ -1,0 +1,7 @@
+80,316,10
+547,1
+letter,1
+to,1
+s,1
+ranganayaki,1
+3,1

@@ -1,0 +1,10 @@
+94,139,12
+locality,1
+so,1
+that,1
+they,1
+may,1
+not,1
+foment,1
+riots,1
+again,1

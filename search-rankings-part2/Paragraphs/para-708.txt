@@ -1,0 +1,16 @@
+1,143,3
+to,1
+the,7
+honourable,1
+speaker,1
+and,1
+members,1
+of,5
+legislative,1
+assembly,1
+colony,2
+natal,2
+petition,1
+indians,1
+resident,1
+in,1

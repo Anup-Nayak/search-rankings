@@ -1,0 +1,4 @@
+32,256,3
+163,1
+teachers,1
+condition,1

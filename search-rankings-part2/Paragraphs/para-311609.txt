@@ -1,0 +1,14 @@
+82,146,2
+from,2
+my,1
+american,1
+post,1
+i,1
+pick,1
+up,1
+the,1
+following,1
+typical,1
+letter,1
+vancouver,1
+1,1

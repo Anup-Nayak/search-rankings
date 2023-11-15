@@ -1,0 +1,13 @@
+82,191,6
+q,1
+you,1
+say,1
+people,1
+in,1
+the,1
+cities,1
+should,1
+evacuate,1
+under,1
+certain,1
+circumstances,1

@@ -1,0 +1,6 @@
+11,228,4
+240,1
+telegram,1
+to,1
+adam,1
+gool,1

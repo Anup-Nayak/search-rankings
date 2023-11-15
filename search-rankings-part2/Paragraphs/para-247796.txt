@@ -1,0 +1,12 @@
+67,100,4
+miss,1
+barr,1
+prevented,1
+start,1
+yesterday,1
+owing,1
+fever,1
+reaching,1
+there,1
+saturday,1
+morning,1

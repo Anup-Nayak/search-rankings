@@ -1,0 +1,13 @@
+71,405,7
+the,2
+war,1
+who,2
+ousted,1
+germans,1
+from,1
+their,1
+jobs,1
+and,1
+guided,1
+fight,1
+against,1

@@ -1,0 +1,9 @@
+59,44,8
+sixteenth,1
+is,1
+gross,1
+distortion,1
+of,1
+a,1
+conversation,1
+which,1

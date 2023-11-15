@@ -1,0 +1,8 @@
+24,424,2
+wearing,1
+khadi,1
+at,1
+the,1
+time,1
+of,1
+marriage,1

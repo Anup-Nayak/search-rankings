@@ -1,0 +1,8 @@
+19,12,6
+against,1
+me,1
+have,1
+just,1
+learnt,1
+committee,1
+be,1

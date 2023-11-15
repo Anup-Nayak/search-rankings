@@ -1,0 +1,17 @@
+31,173,13
+he,2
+find,1
+any,1
+fault,1
+with,2
+that,1
+community,1
+if,1
+at,1
+all,1
+could,1
+get,1
+into,1
+closer,1
+touch,1
+it,1

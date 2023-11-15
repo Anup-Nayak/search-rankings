@@ -1,0 +1,5 @@
+88,98,14
+thursday,1
+four,1
+clock,1
+evening,1

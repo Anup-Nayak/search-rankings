@@ -1,0 +1,14 @@
+80,489,12
+gandhiji,1
+i,1
+do,1
+not,1
+want,1
+you,1
+to,3
+go,1
+jail,1
+nor,1
+retire,1
+into,1
+practice,1

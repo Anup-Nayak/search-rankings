@@ -1,0 +1,17 @@
+46,34,5
+1,1
+heroic,1
+and,2
+chaste,1
+women,1
+namely,1
+ahalya,1
+draupadi,1
+sita,1
+tara,1
+wife,1
+of,1
+vali,1
+mandodari,1
+kunti,1
+arundhati,1

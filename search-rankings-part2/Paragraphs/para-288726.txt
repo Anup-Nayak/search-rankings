@@ -1,0 +1,12 @@
+77,95,10
+i,1
+observe,1
+that,1
+the,1
+main,1
+issue,1
+between,1
+britain,1
+andindia,1
+is,1
+being,1

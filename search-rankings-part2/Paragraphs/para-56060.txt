@@ -1,0 +1,7 @@
+16,181,5
+bapu,1
+from,1
+gujarati,1
+motana,1
+man,1
+p,1

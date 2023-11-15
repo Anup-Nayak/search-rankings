@@ -1,0 +1,4 @@
+75,207,5
+rashtrapati,1
+bose,1
+jealgora,1

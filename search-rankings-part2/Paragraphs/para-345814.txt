@@ -1,0 +1,8 @@
+89,369,4
+no,1
+fast,1
+perform,1
+your,1
+own,1
+duty,1
+quietly,1

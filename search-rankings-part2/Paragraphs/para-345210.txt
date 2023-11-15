@@ -1,0 +1,5 @@
+89,300,8
+1,1
+determination,1
+or,1
+resolve,1

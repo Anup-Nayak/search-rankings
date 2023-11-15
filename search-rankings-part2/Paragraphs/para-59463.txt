@@ -1,0 +1,11 @@
+17,74,24
+effect,1
+to,1
+this,1
+meeting,1
+is,1
+of,1
+opinion,1
+that,1
+though,1
+every,1

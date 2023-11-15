@@ -1,0 +1,6 @@
+85,61,9
+blessings,1
+from,1
+bapu,1
+encl,1
+pamphlet,1

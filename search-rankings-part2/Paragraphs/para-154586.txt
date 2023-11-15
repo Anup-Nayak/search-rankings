@@ -1,0 +1,7 @@
+44,496,14
+t2,1
+guj,1
+adds,1
+by,1
+five,1
+oclock,1

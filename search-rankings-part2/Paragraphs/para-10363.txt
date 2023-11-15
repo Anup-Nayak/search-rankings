@@ -1,0 +1,9 @@
+4,276,3
+my,1
+salaams,2
+to,1
+maji,1
+from,1
+m,1
+k,1
+gandhi,1

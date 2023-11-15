@@ -1,0 +1,5 @@
+65,80,1
+88,1
+letter,1
+to,1
+annapurna,1

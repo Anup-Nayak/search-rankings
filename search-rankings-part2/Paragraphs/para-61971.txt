@@ -1,0 +1,6 @@
+17,379,16
+blood,1
+other,1
+than,1
+our,1
+own,1

@@ -1,0 +1,13 @@
+21,34,5
+4,1
+1858,1
+1922,1
+christian,1
+missionary,1
+scholar,1
+of,1
+sanskrit,1
+social,1
+reformer,1
+and,1
+educationist,1

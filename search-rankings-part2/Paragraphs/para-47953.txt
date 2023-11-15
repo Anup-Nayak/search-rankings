@@ -1,0 +1,12 @@
+14,275,7
+1,1
+sect,1
+of,2
+shiva,1
+worshippers,1
+reputed,1
+to,1
+follow,1
+occult,1
+practices,1
+worship,1

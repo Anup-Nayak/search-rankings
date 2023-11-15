@@ -1,0 +1,5 @@
+46,305,8
+252,1
+from,1
+british,1
+guiana,1

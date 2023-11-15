@@ -1,0 +1,14 @@
+21,502,9
+he,1
+very,1
+much,2
+regretted,1
+that,1
+there,1
+should,1
+have,1
+been,1
+so,1
+class,1
+hatred,1
+manifest,1

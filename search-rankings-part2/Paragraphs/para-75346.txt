@@ -1,0 +1,12 @@
+21,498,9
+operation,1
+movement,1
+in,1
+consequence,1
+of,3
+those,1
+speeches,1
+the,2
+gist,1
+my,1
+letter,1

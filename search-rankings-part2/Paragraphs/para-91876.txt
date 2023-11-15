@@ -1,0 +1,14 @@
+27,175,10
+m,1
+k,1
+gandhi,1
+sir,1
+dinshaw,1
+maneckji,1
+petit,1
+41,1
+nicol,1
+road,1
+ballard,1
+estate,1
+bombay,1

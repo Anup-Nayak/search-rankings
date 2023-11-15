@@ -1,0 +1,7 @@
+17,177,9
+2,1
+words,1
+omitted,1
+in,1
+the,1
+source,1

@@ -1,0 +1,13 @@
+21,96,19
+to,2
+help,1
+the,2
+government,1
+control,1
+disorder,1
+but,1
+he,1
+had,1
+faith,1
+in,1
+people,1

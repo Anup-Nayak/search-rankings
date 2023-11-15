@@ -1,0 +1,7 @@
+64,324,10
+bapu,1
+shri,1
+annapurna,1
+kumari,1
+baree,1
+cuttack,1

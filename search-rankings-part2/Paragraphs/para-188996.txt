@@ -1,0 +1,11 @@
+53,264,2
+yours,1
+sincerely,1
+khan,2
+saheb,1
+abdul,1
+ghaffar,1
+utmanzai,1
+charsadda,1
+dt,1
+peshawar,1

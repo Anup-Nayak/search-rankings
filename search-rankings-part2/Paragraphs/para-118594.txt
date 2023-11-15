@@ -1,0 +1,10 @@
+35,141,3
+mohandas,1
+gandhi,1
+shri,1
+ramu,1
+parmanand,1
+thakkar,1
+shamaldas,1
+college,1
+bhavnagar,1

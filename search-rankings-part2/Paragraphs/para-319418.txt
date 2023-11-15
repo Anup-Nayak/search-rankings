@@ -1,0 +1,4 @@
+84,9,2
+immediate,1
+detention,1
+camp,1

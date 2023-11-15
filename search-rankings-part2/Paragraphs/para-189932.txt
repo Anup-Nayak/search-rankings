@@ -1,0 +1,15 @@
+53,382,14
+sir,1
+akbar,1
+hydari,1
+may,1
+i,1
+ask,1
+one,1
+question,1
+with,1
+regard,1
+to,1
+the,1
+500,1
+000,1

@@ -1,0 +1,7 @@
+82,415,13
+by,1
+running,1
+away,1
+from,1
+the,1
+village,1

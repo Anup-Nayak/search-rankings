@@ -1,0 +1,14 @@
+82,403,4
+is,1
+a,1
+member,1
+of,2
+the,2
+muslim,1
+league,1
+and,1
+an,1
+advocate,1
+pakistan,1
+that,1
+communal,1

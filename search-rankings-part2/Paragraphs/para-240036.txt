@@ -1,0 +1,12 @@
+65,288,6
+i,1
+thank,1
+you,1
+for,1
+your,1
+letter,1
+and,1
+the,1
+books,1
+on,1
+food,1

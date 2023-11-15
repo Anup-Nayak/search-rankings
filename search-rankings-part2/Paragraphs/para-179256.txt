@@ -1,0 +1,16 @@
+51,147,7
+imposed,1
+far,1
+greater,1
+material,1
+damage,1
+on,1
+the,3
+people,1
+than,1
+value,1
+of,1
+tax,1
+due,1
+to,1
+be,1

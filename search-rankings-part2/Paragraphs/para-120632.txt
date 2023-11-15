@@ -1,0 +1,8 @@
+35,387,7
+ridge,1
+road,1
+malabar,1
+hill,1
+p,1
+o,1
+bombay,1

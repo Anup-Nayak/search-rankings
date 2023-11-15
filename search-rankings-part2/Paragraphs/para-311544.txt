@@ -1,0 +1,15 @@
+82,140,5
+certain,1
+to,1
+literary,1
+work,1
+but,1
+it,1
+is,1
+believed,1
+that,1
+knowledge,1
+can,1
+only,1
+be,1
+imbibed,1

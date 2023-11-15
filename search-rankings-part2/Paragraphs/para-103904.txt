@@ -1,0 +1,5 @@
+30,335,1
+scriptures,1
+of,1
+the,1
+world,1

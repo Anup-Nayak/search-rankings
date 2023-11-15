@@ -1,0 +1,10 @@
+66,31,4
+blessings,1
+from,2
+bapu,1
+gujarati,1
+bapuna,1
+patro2,1
+sardar,1
+vallabhbhaine,1
+pp,1

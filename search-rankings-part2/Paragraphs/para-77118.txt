@@ -1,0 +1,7 @@
+22,284,4
+efforts,1
+in,1
+good,1
+cause,1
+never,1
+fail,1

@@ -1,0 +1,12 @@
+42,425,4
+everything,1
+in,1
+the,1
+world,1
+animate,1
+and,2
+inanimate,1
+has,1
+its,1
+virtues,1
+defects,1

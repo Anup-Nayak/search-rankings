@@ -1,0 +1,4 @@
+27,32,3
+your,1
+exalted,1
+highness,1

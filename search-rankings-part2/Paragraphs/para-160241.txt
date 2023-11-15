@@ -1,0 +1,8 @@
+46,227,6
+171,1
+letter,1
+to,1
+s,1
+r,1
+narayan,1
+raju,1

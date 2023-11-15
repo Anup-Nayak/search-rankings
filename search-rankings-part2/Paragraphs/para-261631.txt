@@ -1,0 +1,12 @@
+70,200,1
+ba,1
+manu,1
+nimus,1
+kano,1
+and,1
+navin,1
+will,1
+arrive,1
+on,1
+the,1
+24th,1

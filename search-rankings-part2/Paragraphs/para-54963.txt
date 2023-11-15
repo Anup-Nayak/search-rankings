@@ -1,0 +1,7 @@
+16,14,10
+1,1
+the,1
+english,1
+phrase,1
+is,1
+used,1

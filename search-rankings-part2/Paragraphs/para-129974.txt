@@ -1,0 +1,11 @@
+38,107,10
+1,1
+from,1
+mahadev,1
+desais,1
+weekly,1
+letter,1
+2,1
+n,1
+r,1
+malkani,1

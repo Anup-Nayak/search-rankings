@@ -1,0 +1,8 @@
+76,70,7
+declaration,1
+having,1
+studied,1
+it,1
+carefully,1
+must,1
+say,1

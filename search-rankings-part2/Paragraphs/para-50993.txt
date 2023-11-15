@@ -1,0 +1,7 @@
+15,94,5
+february,1
+21,1
+sunday,1
+on,1
+the,1
+way,1

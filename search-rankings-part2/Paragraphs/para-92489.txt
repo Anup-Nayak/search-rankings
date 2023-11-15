@@ -1,0 +1,8 @@
+27,266,13
+do,1
+please,1
+take,1
+full,1
+rest,1
+before,1
+moving,1

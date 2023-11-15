@@ -1,0 +1,6 @@
+59,60,3
+86,1
+letter,1
+to,1
+s,1
+salivati,1

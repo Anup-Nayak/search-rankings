@@ -1,0 +1,11 @@
+82,337,5
+wont,2
+this,1
+anarchy,2
+be,2
+worse,1
+than,1
+the,2
+existing,1
+ordered,1
+remedy,1

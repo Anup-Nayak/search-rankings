@@ -1,0 +1,5 @@
+75,157,5
+shankerlal,1
+banker,1
+exhibition,1
+tripuri,1

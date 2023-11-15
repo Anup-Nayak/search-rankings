@@ -1,0 +1,8 @@
+47,52,3
+56,1
+distress,1
+in,1
+sind,1
+an,1
+appeal,1
+1,1

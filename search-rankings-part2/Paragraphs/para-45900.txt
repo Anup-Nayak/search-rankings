@@ -1,0 +1,8 @@
+14,7,34
+able,1
+me,1
+announce,1
+acceptance,1
+prayer,1
+before,1
+new,1

@@ -1,0 +1,7 @@
+30,155,3
+here,1
+are,1
+the,1
+questions,1
+with,1
+answers,1

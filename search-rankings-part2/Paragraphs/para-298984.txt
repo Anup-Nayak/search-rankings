@@ -1,0 +1,7 @@
+79,386,4
+bhai,1
+ghulam,1
+rasul,1
+qureshi,1
+harijan,1
+ashram,1

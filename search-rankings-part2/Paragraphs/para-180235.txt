@@ -1,0 +1,8 @@
+51,245,8
+311,1
+speech,1
+to,1
+cloth,1
+merchants,1
+navasari,1
+1,1

@@ -1,0 +1,10 @@
+16,489,6
+amelioration,1
+of,3
+the,4
+material,1
+condition,1
+masses,1
+as,2
+well,1
+satisfaction,1

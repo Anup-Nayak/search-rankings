@@ -1,0 +1,11 @@
+56,442,5
+bapu,1
+from,1
+gujarati,1
+c,1
+w,1
+311,1
+courtesy,1
+lakshmibehn,1
+n,1
+khare,1

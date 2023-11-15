@@ -1,0 +1,6 @@
+88,42,6
+92,1
+letter,1
+to,1
+bibhawati,1
+bose,1

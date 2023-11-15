@@ -1,0 +1,6 @@
+3,29,7
+closed,1
+rustenburg,1
+and,1
+wakkerstroom,1
+suspense,1

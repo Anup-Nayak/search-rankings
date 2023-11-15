@@ -1,0 +1,9 @@
+11,267,12
+does,1
+not,1
+exempt,1
+educated,1
+asiatics,1
+who,1
+may,1
+pass,1

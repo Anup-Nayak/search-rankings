@@ -1,0 +1,9 @@
+72,356,17
+2,1
+the,1
+superscription,1
+and,1
+subscription,1
+are,1
+in,1
+hindi,1

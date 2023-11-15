@@ -1,0 +1,13 @@
+39,496,18
+yield,1
+the,3
+expenses,1
+of,1
+their,1
+upkeep,1
+nutrition,1
+given,1
+to,1
+them,1
+treatment,1
+and,1

@@ -1,0 +1,7 @@
+27,423,11
+bapu,1
+from,1
+gujarati,1
+bapuna,1
+patromanibehn,1
+patelne,1

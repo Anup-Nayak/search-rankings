@@ -1,0 +1,7 @@
+81,144,6
+gods,1
+will,1
+our,1
+law,1
+wire,1
+condition,1

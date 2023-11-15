@@ -1,0 +1,10 @@
+82,315,6
+1,1
+vide,1
+letter,1
+to,1
+lakshmi,1
+gandhi,1
+20,1
+5,1
+1942,1

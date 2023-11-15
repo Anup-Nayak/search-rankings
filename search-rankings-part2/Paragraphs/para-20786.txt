@@ -1,0 +1,12 @@
+7,142,7
+1,1
+vide,1
+letters,1
+to,2
+private,1
+secretary,1
+general,1
+smuts,1
+8,3
+1907,2
+15,1

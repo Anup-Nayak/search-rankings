@@ -1,0 +1,16 @@
+32,408,3
+one,1
+of,2
+the,1
+best,1
+national,1
+workers,1
+sends,1
+me,1
+questions,1
+for,1
+answers,2
+here,1
+they,1
+are,1
+with,1

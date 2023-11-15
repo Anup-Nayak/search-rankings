@@ -1,0 +1,8 @@
+50,325,13
+1,1
+note,2
+by,2
+gandhiji,2
+cow=agriculture,1
+2,1
+brahmin=education,1

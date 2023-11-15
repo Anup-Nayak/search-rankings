@@ -1,0 +1,6 @@
+96,90,6
+138,1
+speech,1
+at,1
+prayer,1
+metting,1

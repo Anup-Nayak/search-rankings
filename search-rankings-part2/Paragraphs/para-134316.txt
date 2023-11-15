@@ -1,0 +1,9 @@
+39,188,3
+183,1
+speech,1
+to,1
+adi,1
+karnataka,1
+boys,1
+bangalore,1
+1,1

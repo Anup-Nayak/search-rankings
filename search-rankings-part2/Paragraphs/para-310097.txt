@@ -1,0 +1,12 @@
+82,22,6
+cheap,1
+hostels,1
+conducted,1
+by,1
+ill,2
+educated,1
+and,2
+paid,1
+teachers,1
+wardens,1
+with,1

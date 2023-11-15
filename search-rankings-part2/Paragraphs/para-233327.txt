@@ -1,0 +1,12 @@
+64,1,13
+wanted,1
+was,1
+not,1
+flowers,1
+but,1
+money,1
+the,1
+hindu,1
+21,1
+5,1
+1934,1

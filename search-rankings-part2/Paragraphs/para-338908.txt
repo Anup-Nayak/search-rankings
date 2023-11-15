@@ -1,0 +1,5 @@
+88,78,8
+capitalism,1
+socialism,1
+or,1
+villagism,1

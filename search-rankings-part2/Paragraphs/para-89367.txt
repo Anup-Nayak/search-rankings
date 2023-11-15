@@ -1,0 +1,9 @@
+26,345,14
+shri,1
+maganlal,1
+gandhi,1
+swaraj,1
+ashram,1
+bardoli,1
+via,1
+surat,1

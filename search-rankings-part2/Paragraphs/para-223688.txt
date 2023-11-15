@@ -1,0 +1,9 @@
+61,280,7
+religious,1
+sanction,1
+and,1
+more,1
+poisonous,1
+than,1
+its,1
+western,1

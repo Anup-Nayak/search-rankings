@@ -1,0 +1,15 @@
+24,99,16
+sons,1
+of,1
+a,2
+mother,1
+and,2
+be,1
+prepared,1
+to,2
+fight,1
+their,1
+battle,1
+peacefully,1
+present,1
+bold,1

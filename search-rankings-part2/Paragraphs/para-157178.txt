@@ -1,0 +1,16 @@
+45,323,16
+1,1
+a,1
+nursery,1
+school,1
+had,1
+been,1
+started,1
+in,2
+the,4
+ashram,2
+for,1
+children,1
+of,1
+families,1
+staying,1

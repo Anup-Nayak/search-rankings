@@ -1,0 +1,5 @@
+57,110,8
+narandas,1
+ashram,1
+sabarmati,1
+ahmedabad,1

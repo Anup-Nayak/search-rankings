@@ -1,0 +1,12 @@
+82,298,24
+attacks,1
+in,2
+military,1
+fashion,1
+and,2
+are,1
+on,1
+occasions,1
+dressed,1
+khaki,1
+shirts,1

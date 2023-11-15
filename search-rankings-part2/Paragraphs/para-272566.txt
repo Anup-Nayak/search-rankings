@@ -1,0 +1,14 @@
+73,137,10
+amtussalaam,1
+care,1
+abdul,1
+waheed,1
+khan,1
+mansa,1
+health,1
+good,1
+weather,1
+perfect,1
+leaving,1
+tenth,1
+morning,1

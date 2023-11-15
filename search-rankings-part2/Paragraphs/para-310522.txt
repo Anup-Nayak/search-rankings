@@ -1,0 +1,11 @@
+82,60,4
+send,1
+me,2
+the,1
+figures,1
+from,1
+time,2
+to,1
+ask,1
+whenever,1
+necessary,1

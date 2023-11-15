@@ -1,0 +1,17 @@
+60,286,9
+1,1
+the,1
+addressee,1
+had,1
+prescribed,1
+tuberculin,1
+injections,1
+for,1
+kusum,1
+gandhi,1
+who,1
+was,1
+suffering,1
+from,1
+t,1
+b,1

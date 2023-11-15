@@ -1,0 +1,4 @@
+22,257,4
+education,1
+or,1
+excise,1

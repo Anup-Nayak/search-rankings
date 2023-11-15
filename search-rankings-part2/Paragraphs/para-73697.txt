@@ -1,0 +1,7 @@
+21,193,3
+111,1
+talk,1
+at,1
+law,1
+college,1
+madras,1

@@ -1,0 +1,8 @@
+52,32,8
+amount,1
+you,1
+know,1
+that,1
+payment,1
+is,1
+assured,1

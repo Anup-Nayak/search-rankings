@@ -1,0 +1,6 @@
+48,255,2
+256,1
+to,1
+the,1
+indian,1
+critics,1

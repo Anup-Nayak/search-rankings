@@ -1,0 +1,11 @@
+44,85,11
+2,1
+from,1
+the,2
+reference,1
+to,1
+rasiks,1
+illness,1
+vide,1
+preceding,1
+item,1

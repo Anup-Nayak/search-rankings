@@ -1,0 +1,13 @@
+82,5,5
+fight,2
+the,2
+englishman,1
+but,1
+you,1
+cannot,1
+german,1
+once,1
+he,1
+puts,1
+his,1
+foot,1

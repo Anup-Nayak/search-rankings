@@ -1,0 +1,9 @@
+30,43,10
+vandemataram,1
+from,1
+mohandas,1
+gandhi,1
+bhaishri,1
+kapil,1
+thakkar,1
+bhavanagar,1

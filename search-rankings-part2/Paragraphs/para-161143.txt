@@ -1,0 +1,7 @@
+46,335,5
+ashram,1
+sabarmati,1
+august,1
+1,2
+192,1
+9,1

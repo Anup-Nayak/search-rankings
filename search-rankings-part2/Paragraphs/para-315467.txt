@@ -1,0 +1,15 @@
+82,408,10
+g,1
+no,2
+with,1
+two,1
+or,1
+three,1
+very,1
+brief,1
+interruptions,1
+but,1
+i,1
+have,1
+trouble,1
+falling,1

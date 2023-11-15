@@ -1,0 +1,10 @@
+67,285,11
+q,1
+is,1
+man,1
+by,1
+nature,1
+slightly,1
+superior,1
+to,1
+woman,1

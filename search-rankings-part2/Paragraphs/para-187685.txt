@@ -1,0 +1,7 @@
+53,129,6
+1,1
+this,1
+is,1
+in,1
+devnagari,1
+script,1

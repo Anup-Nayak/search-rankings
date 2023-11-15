@@ -1,0 +1,16 @@
+1,235,4
+p,1
+c,1
+g,2
+m,2
+s,1
+i,2
+e,1
+etc,2
+viceroy,1
+and,1
+governor,1
+general,1
+of,1
+india,1
+calcutta,1

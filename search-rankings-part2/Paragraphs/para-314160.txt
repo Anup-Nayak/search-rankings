@@ -1,0 +1,12 @@
+82,353,11
+from,1
+a,1
+facisimile,1
+of,1
+the,1
+gujarati,1
+kulsum,1
+sayani,1
+papers,1
+courtesy,1
+nehru,1

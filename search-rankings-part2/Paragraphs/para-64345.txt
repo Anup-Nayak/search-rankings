@@ -1,0 +1,5 @@
+18,224,4
+185,1
+the,1
+lahore,1
+judgment,1

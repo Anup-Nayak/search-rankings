@@ -1,0 +1,8 @@
+46,366,5
+all,1
+these,1
+are,1
+fit,1
+to,1
+be,1
+beaten,1

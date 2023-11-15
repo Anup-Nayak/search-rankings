@@ -1,0 +1,3 @@
+35,33,8
+vendemataram,1
+from,1

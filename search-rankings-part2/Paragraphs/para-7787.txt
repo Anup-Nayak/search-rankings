@@ -1,0 +1,17 @@
+3,282,1
+1,1
+one,1
+headman,1
+who,1
+would,1
+act,1
+as,1
+interpreter,1
+to,1
+and,1
+work,1
+along,1
+with,1
+the,1
+compound,1
+manager,1

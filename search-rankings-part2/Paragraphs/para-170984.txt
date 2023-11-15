@@ -1,0 +1,5 @@
+49,172,1
+176,1
+salaaming,1
+or,1
+flogging,1

@@ -1,0 +1,17 @@
+51,433,8
+about,1
+rs,1
+50,1
+000,1
+which,1
+was,1
+the,2
+main,1
+crop,1
+of,1
+village,1
+had,1
+been,1
+attached,1
+and,1
+sold,1

@@ -1,0 +1,7 @@
+11,78,7
+and,1
+others,1
+deported,1
+returned,1
+sentenced,1
+royeppen,1

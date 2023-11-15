@@ -1,0 +1,8 @@
+42,298,10
+well,1
+knowing,1
+these,1
+members,1
+have,1
+no,1
+influence,1

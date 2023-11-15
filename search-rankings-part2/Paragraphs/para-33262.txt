@@ -1,0 +1,5 @@
+10,479,5
+satyagrahis,1
+in,1
+delagoa,1
+bay,1

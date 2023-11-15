@@ -1,0 +1,5 @@
+19,45,13
+40,1
+fasting,1
+and,1
+prayer,1

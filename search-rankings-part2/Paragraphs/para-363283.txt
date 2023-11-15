@@ -1,0 +1,7 @@
+94,31,9
+regarding,1
+child,1
+marriage,1
+and,1
+widow,1
+remarriage,1

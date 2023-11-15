@@ -1,0 +1,6 @@
+65,38,7
+45,1
+gandhi,1
+aney,1
+statement,1
+1,1

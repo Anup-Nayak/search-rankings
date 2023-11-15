@@ -1,0 +1,10 @@
+82,408,21
+that,1
+the,1
+american,1
+government,1
+is,1
+financing,2
+foreign,1
+governments,1
+and,1

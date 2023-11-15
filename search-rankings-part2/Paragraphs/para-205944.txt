@@ -1,0 +1,9 @@
+57,304,6
+details,1
+sent,1
+friday,1
+delivered,1
+we,1
+are,1
+all,1
+well,1

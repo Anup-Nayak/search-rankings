@@ -1,0 +1,6 @@
+46,286,4
+231,1
+sikhs,1
+in,1
+british,1
+columbia,1

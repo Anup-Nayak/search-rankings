@@ -1,0 +1,8 @@
+14,11,7
+exception,1
+has,1
+been,1
+taken,1
+to,1
+form,1
+presentation,1

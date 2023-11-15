@@ -1,0 +1,7 @@
+20,136,2
+sardar,1
+diwan,1
+singh,1
+sub,1
+editor,1
+says,1

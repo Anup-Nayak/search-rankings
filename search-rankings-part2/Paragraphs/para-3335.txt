@@ -1,0 +1,7 @@
+2,117,2
+sd,1
+abdul,1
+karim,1
+dada,1
+&,1
+co,1

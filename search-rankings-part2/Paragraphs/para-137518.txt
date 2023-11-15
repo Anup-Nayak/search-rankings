@@ -1,0 +1,8 @@
+40,180,6
+108,1
+speech,1
+at,1
+saurashtra,1
+club,1
+madura,1
+2,1

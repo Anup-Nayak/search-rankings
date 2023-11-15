@@ -1,0 +1,10 @@
+57,349,12
+1,1
+the,1
+letter,1
+up,1
+to,1
+here,1
+is,1
+in,1
+urdu,1

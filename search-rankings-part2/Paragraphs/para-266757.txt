@@ -1,0 +1,8 @@
+71,401,4
+class,1
+berths,1
+if,1
+possible,1
+secure,1
+joint,1
+cabin,1

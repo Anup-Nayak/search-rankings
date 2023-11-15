@@ -1,0 +1,10 @@
+48,223,14
+1,1
+harilal,1
+gandhis,1
+daughter,1
+and,1
+wife,1
+of,1
+kunvarji,1
+parekh,1

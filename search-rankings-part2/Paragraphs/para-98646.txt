@@ -1,0 +1,8 @@
+29,160,13
+they,1
+are,1
+slaves,1
+who,1
+dare,1
+not,1
+be,1

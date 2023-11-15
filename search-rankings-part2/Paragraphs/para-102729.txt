@@ -1,0 +1,10 @@
+30,203,5
+102,1
+examination,1
+of,1
+ahmad,1
+gul,1
+on,1
+kohat,1
+riot,1
+1,1

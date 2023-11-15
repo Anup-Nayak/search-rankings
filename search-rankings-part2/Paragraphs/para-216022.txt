@@ -1,0 +1,17 @@
+59,405,8
+dear,1
+friend,1
+i,2
+thank,1
+you,1
+for,1
+your,1
+postcard,1
+2,1
+quite,1
+agree,1
+with,1
+the,1
+sentiment,1
+expressed,1
+therein,1

@@ -1,0 +1,8 @@
+75,403,5
+steel,1
+what,1
+is,1
+your,1
+idea,1
+of,1
+independence,1

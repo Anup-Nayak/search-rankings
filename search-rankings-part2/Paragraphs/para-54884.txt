@@ -1,0 +1,8 @@
+16,2,5
+2,1
+the,1
+indian,1
+review,1
+report,1
+has,1
+afford,1

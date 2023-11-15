@@ -1,0 +1,15 @@
+57,289,7
+1,1
+vide,1
+letter,2
+to,2
+narandas,1
+gandhi,1
+15/16,1
+10,1
+1932,2
+2vide,1
+ramabehn,1
+joshi,1
+6,1
+11,1

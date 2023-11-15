@@ -1,0 +1,11 @@
+9,424,1
+asiatics,1
+might,1
+not,1
+own,1
+fixed,1
+property,1
+save,1
+in,1
+asiatic,1
+locations,1

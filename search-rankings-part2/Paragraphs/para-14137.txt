@@ -1,0 +1,5 @@
+5,376,1
+tuesday,1
+morning,1
+it,1
+said,1

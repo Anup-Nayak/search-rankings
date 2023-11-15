@@ -1,0 +1,5 @@
+33,256,5
+a,1
+correspondent,1
+writes,1
+1,1

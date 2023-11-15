@@ -1,0 +1,14 @@
+78,352,5
+khan,1
+bahadur,1
+from,1
+delhi,1
+you,1
+write,1
+the,1
+following,1
+lines,1
+1,1
+of,1
+eternal,1
+truth,1

@@ -1,0 +1,8 @@
+6,143,3
+who,1
+are,1
+already,1
+resident,1
+in,1
+the,1
+transvaal,1

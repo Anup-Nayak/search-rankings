@@ -1,0 +1,5 @@
+45,171,5
+1,1
+khadi,1
+technical,1
+school,1

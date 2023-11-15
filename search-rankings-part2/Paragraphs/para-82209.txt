@@ -1,0 +1,10 @@
+24,152,8
+4,1
+close,1
+the,2
+slave,1
+houses,1
+schools,1
+of,1
+satanic,1
+government,1

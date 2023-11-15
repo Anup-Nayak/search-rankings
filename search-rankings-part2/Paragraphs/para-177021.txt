@@ -1,0 +1,12 @@
+50,390,3
+1,1
+note,1
+by,1
+gandhiji,1
+asceticism,1
+is,1
+an,1
+approach,1
+to,1
+the,1
+meaning,1

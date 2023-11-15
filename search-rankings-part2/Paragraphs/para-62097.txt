@@ -1,0 +1,10 @@
+17,392,23
+2,1
+medical,1
+practitioner,1
+and,1
+a,1
+congress,1
+leader,1
+of,1
+punjab,1

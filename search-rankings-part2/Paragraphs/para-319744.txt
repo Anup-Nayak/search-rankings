@@ -1,0 +1,8 @@
+84,52,10
+anand,1
+hingorani,1
+sadar,1
+villa,1
+fyzabad,1
+road,1
+lucknow,1

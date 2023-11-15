@@ -1,0 +1,8 @@
+30,277,9
+private,1
+and,1
+spontaneous,1
+effort,1
+or,1
+intervention,1
+my,1

@@ -1,0 +1,12 @@
+21,40,2
+mr,1
+gandhi,1
+in,1
+proposing,1
+the,2
+resolution,2
+said,1
+that,1
+did,1
+not,1
+deal,1

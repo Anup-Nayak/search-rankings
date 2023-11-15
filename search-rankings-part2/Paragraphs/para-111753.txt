@@ -1,0 +1,7 @@
+33,150,4
+86,1
+telegram,1
+to,1
+tulsi,1
+maher,1
+2,1

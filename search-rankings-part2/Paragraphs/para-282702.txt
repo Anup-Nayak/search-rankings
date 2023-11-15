@@ -1,0 +1,10 @@
+75,355,5
+blessings,1
+from,1
+bapu,1
+shri,1
+valji,1
+govindji,1
+desai,1
+gondal,1
+kathiawar,1

@@ -1,0 +1,7 @@
+79,400,5
+amtussalaam,1
+care,1
+jairamdas,1
+doulatram,1
+hyderabad,1
+sind,1

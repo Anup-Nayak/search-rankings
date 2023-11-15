@@ -1,0 +1,8 @@
+33,150,10
+87,1
+speech,1
+at,1
+public,1
+meeting,1
+bhuj,1
+4,1

@@ -1,0 +1,7 @@
+42,406,2
+fires,1
+caused,1
+by,1
+the,1
+primus,1
+stove,1

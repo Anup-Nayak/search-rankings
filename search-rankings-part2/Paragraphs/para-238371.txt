@@ -1,0 +1,4 @@
+65,101,5
+an,1
+odious,1
+practice1,1

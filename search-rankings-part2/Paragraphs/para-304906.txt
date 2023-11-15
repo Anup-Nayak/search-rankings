@@ -1,0 +1,7 @@
+80,476,2
+extracts,1
+from,1
+parting,1
+of,1
+the,1
+ways1,1

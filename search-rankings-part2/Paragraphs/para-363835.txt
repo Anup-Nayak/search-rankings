@@ -1,0 +1,14 @@
+94,83,3
+g,1
+then,1
+the,1
+future,1
+is,1
+dark,1
+indeed,1
+for,4
+islam,2
+and,1
+india,2
+more,1
+than,1

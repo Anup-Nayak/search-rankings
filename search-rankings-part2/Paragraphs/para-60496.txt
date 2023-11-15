@@ -1,0 +1,6 @@
+17,205,6
+187,1
+indians,1
+and,1
+the,1
+transvaal,1

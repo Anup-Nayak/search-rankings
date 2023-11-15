@@ -1,0 +1,7 @@
+88,275,4
+535,1
+the,1
+charkha,1
+sangh,1
+and,1
+politics,1

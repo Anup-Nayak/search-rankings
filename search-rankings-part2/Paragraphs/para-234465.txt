@@ -1,0 +1,9 @@
+64,126,5
+161,1
+letter,1
+to,1
+margarete,1
+spiegel,1
+july,1
+5,1
+1934,1

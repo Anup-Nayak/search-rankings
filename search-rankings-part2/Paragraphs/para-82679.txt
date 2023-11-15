@@ -1,0 +1,7 @@
+24,220,20
+degrade,1
+both,1
+the,2
+giver,1
+and,1
+receiver,1

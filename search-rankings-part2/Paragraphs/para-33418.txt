@@ -1,0 +1,6 @@
+10,492,3
+natal,1
+delegates,1
+letter,1
+to,1
+viceroy,1

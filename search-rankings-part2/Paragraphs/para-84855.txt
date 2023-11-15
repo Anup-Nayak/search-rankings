@@ -1,0 +1,5 @@
+25,109,2
+the,1
+koran,1
+taken,1
+away,1

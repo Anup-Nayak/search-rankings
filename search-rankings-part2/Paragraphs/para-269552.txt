@@ -1,0 +1,6 @@
+72,295,8
+1,1
+son,1
+of,1
+ramdas,1
+gandhi,1

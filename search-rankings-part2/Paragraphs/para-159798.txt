@@ -1,0 +1,15 @@
+46,184,7
+14,1
+actions,1
+do,1
+not,1
+affect,1
+me,1
+nor,1
+am,1
+i,1
+concerned,1
+with,1
+the,1
+fruits,1
+thereof,1

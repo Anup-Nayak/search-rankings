@@ -1,0 +1,13 @@
+68,78,4
+q,1
+2,1
+will,1
+the,2
+number,1
+of,1
+private,1
+traders,1
+increase,1
+or,1
+decrease,1
+with,1

@@ -1,0 +1,15 @@
+78,354,1
+a,1
+voice,1
+reached,1
+moses,1
+from,2
+god,1
+saying,1
+why,1
+didst,1
+thou,1
+separate,1
+my,1
+slave,1
+me,1

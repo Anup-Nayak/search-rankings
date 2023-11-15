@@ -1,0 +1,16 @@
+42,161,8
+yours,1
+sincerely,1
+ben,1
+m,1
+cherrington,1
+esq,1
+executive,1
+secretary,1
+university,1
+of,1
+denver,2
+colorado,1
+u,1
+s,1
+a,1

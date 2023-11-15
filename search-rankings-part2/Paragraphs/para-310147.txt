@@ -1,0 +1,13 @@
+82,23,22
+i,2
+consider,1
+all,1
+this,1
+unpractical,1
+need,1
+not,1
+give,1
+my,1
+arguments,1
+they,1
+are,1

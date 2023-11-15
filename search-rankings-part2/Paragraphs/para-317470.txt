@@ -1,0 +1,9 @@
+83,180,1
+direction,1
+indicated,1
+by,1
+you,1
+1,1
+though,1
+not,1
+ident,1

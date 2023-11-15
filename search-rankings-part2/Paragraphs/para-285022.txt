@@ -1,0 +1,7 @@
+76,133,7
+charge,1
+meenakshi,1
+temple,1
+entered,1
+stealthily,1
+and,1

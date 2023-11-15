@@ -1,0 +1,6 @@
+39,43,3
+55,1
+letter,1
+to,1
+satcowripati,1
+ray,1

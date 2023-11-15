@@ -1,0 +1,8 @@
+87,36,5
+shyamlalji,1
+kasturba,1
+trust,1
+office,1
+scindia,1
+house,1
+bombay,1

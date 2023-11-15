@@ -1,0 +1,6 @@
+3,204,7
+132,1
+the,1
+uses,1
+of,1
+adversity,1

@@ -1,0 +1,8 @@
+52,318,7
+a,1
+brahmin,1
+correspondent,1
+from,1
+madras,1
+writes,1
+2,1

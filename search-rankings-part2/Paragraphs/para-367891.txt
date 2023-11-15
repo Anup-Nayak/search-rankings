@@ -1,0 +1,17 @@
+95,158,11
+1,1
+chinese,1
+ambassador,2
+in,2
+india,1
+the,2
+interview,1
+is,1
+extracted,1
+from,1
+sushila,1
+nayyars,1
+delhi,1
+jawaharlal,1
+nehru,1
+accompanied,1

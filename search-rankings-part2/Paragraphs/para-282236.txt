@@ -1,0 +1,8 @@
+75,286,3
+one,1
+lac,1
+fifty,1
+thousand,1
+central,1
+rest,1
+punjab,1

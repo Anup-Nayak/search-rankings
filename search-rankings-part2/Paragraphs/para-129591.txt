@@ -1,0 +1,10 @@
+38,58,15
+with,1
+what,1
+was,2
+available,1
+no,1
+matter,1
+how,1
+coarse,1
+it,1

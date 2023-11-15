@@ -1,0 +1,8 @@
+78,389,4
+no,1
+hope,1
+settlement,1
+wire,1
+extent,1
+publicity,1
+given,1

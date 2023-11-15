@@ -1,0 +1,10 @@
+14,14,6
+coming,1
+if,1
+only,1
+out,1
+of,1
+deference,1
+we,1
+shall,1
+do,1

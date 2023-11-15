@@ -1,0 +1,13 @@
+24,37,15
+all,1
+non,2
+violent,1
+co,1
+operators,1
+he,1
+hoped,1
+that,1
+hindus,1
+muslims,1
+parsis,1
+sikhs,1

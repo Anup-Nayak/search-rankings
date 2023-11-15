@@ -1,0 +1,14 @@
+44,480,7
+t3,1
+guj,1
+has,1
+i,1
+should,1
+like,1
+to,1
+win,1
+the,2
+friendship,1
+of,1
+other,1
+party,1

@@ -1,0 +1,14 @@
+19,282,5
+even,1
+your,2
+life,1
+was,1
+in,1
+danger,1
+and,1
+you,1
+had,1
+to,1
+leave,1
+motor,1
+car,1

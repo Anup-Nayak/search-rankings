@@ -1,0 +1,4 @@
+8,237,2
+education,1
+in,1
+krugersdorp,1

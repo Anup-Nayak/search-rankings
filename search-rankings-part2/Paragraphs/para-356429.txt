@@ -1,0 +1,7 @@
+92,200,6
+287,1
+letter,1
+to,1
+ganga,1
+a,1
+hingorani,1

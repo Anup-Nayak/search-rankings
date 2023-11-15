@@ -1,0 +1,12 @@
+82,311,3
+of,1
+country,1
+transport,1
+like,1
+bullock,1
+carts,1
+boats,1
+pack,1
+bullocks,1
+horses,1
+and,1

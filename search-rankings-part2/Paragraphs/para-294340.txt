@@ -1,0 +1,5 @@
+78,272,2
+320,1
+letter,1
+to,1
+sampurnanand,1

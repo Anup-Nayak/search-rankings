@@ -1,0 +1,14 @@
+11,147,13
+attitude,1
+of,1
+south,1
+africa,1
+will,1
+make,1
+the,2
+law,1
+more,1
+workable,1
+and,1
+sensible,1
+than,1

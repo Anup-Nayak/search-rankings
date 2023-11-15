@@ -1,0 +1,17 @@
+15,397,3
+compound,1
+a,2
+house,1
+about,1
+hundred,1
+yards,1
+away,1
+from,1
+the,2
+residential,1
+bungalow,1
+is,1
+occupied,1
+by,1
+kothi,1
+men,1

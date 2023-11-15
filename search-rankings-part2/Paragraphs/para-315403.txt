@@ -1,0 +1,13 @@
+82,406,18
+hundred,2
+thousand,1
+votes,1
+and,1
+not,1
+four,1
+million,1
+each,1
+village,1
+in,1
+other,1
+words,1

@@ -1,0 +1,14 @@
+94,141,11
+given,1
+free,1
+rations,1
+as,2
+long,1
+they,1
+do,1
+not,1
+earn,1
+enough,1
+for,1
+their,1
+sustenance,1

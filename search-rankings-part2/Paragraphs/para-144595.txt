@@ -1,0 +1,7 @@
+42,205,7
+230,1
+the,1
+curse,1
+of,1
+foreign,1
+medium,1

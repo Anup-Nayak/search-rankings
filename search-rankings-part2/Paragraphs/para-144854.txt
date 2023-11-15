@@ -1,0 +1,4 @@
+42,229,6
+education,1
+for,1
+service,1

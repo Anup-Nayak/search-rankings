@@ -1,0 +1,5 @@
+86,10,5
+1,1
+opposite,1
+of,1
+satyagraha,1

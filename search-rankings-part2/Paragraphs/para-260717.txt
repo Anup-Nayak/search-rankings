@@ -1,0 +1,11 @@
+70,98,8
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+dr,1
+john,1
+r,1
+mott,1
+nagpur,1

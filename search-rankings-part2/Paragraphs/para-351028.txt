@@ -1,0 +1,11 @@
+91,54,4
+blessings,1
+from,1
+bapu,1
+nyalchand,1
+moolchand,1
+sheth,1
+hemkunj,1
+palace,1
+road,1
+amreli,1

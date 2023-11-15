@@ -1,0 +1,8 @@
+6,490,4
+movement,1
+to,1
+close,1
+shops,1
+at,1
+fixed,1
+hour,1

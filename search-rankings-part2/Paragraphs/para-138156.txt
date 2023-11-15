@@ -1,0 +1,7 @@
+40,295,8
+your,1
+wire,1
+just,1
+received,1
+recognize,1
+difficulty,1

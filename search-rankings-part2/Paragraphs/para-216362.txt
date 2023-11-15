@@ -1,0 +1,11 @@
+59,444,4
+yours,1
+sincerely,1
+dr,1
+arthur,1
+saunders,1
+37,1
+harley,1
+street,1
+london,1
+w,1

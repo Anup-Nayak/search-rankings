@@ -1,0 +1,4 @@
+65,70,8
+gopichand,1
+bhargava,1
+lahore,1

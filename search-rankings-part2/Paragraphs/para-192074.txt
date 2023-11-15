@@ -1,0 +1,12 @@
+54,145,5
+mahatma,1
+gandhi,1
+fully,1
+explained,1
+his,1
+conception,1
+of,1
+provincial,1
+autonomy,1
+which,1
+is,1

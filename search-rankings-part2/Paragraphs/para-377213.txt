@@ -1,0 +1,16 @@
+98,37,2
+question,1
+the,2
+people,1
+are,2
+with,1
+us,1
+but,1
+government,1
+obstruct,1
+our,1
+effort,1
+what,1
+we,1
+to,1
+do,1

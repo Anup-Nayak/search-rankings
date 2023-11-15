@@ -1,0 +1,9 @@
+93,302,3
+whoever,1
+is,2
+kind,2
+to,2
+his,1
+creatures,1
+god,1
+him,1

@@ -1,0 +1,6 @@
+28,98,3
+50,1
+all,1
+india,1
+congress,1
+committee,1

@@ -1,0 +1,15 @@
+19,117,5
+bapu,1
+ps,1
+are,1
+you,1
+planning,1
+to,1
+come,1
+at,1
+the,2
+time,1
+of,1
+congress,1
+session,1
+2,1

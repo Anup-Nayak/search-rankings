@@ -1,0 +1,13 @@
+3,456,2
+1,1
+l,1
+w,1
+ritch,1
+was,1
+then,1
+an,1
+articled,1
+clerk,1
+working,1
+with,1
+gandhiji,1

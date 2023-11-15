@@ -1,0 +1,12 @@
+52,424,12
+were,1
+not,1
+of,1
+congress,1
+persuasion,1
+but,1
+every,1
+congressman,1
+and,2
+woman,1
+everyone,1

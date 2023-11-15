@@ -1,0 +1,6 @@
+36,233,2
+lala,1
+shamal,1
+of,1
+hissar,1
+writes,1

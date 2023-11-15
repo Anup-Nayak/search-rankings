@@ -1,0 +1,14 @@
+76,235,1
+do,1
+all,1
+the,2
+other,1
+work,1
+you,1
+have,1
+given,1
+i,1
+understand,1
+about,1
+autobiography,1
+1,1

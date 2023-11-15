@@ -1,0 +1,12 @@
+56,344,8
+blessings,1
+from,2
+bapu,1
+a,1
+photostat,1
+of,1
+the,1
+urdu/gujarati,1
+s,1
+n,1
+9680,1

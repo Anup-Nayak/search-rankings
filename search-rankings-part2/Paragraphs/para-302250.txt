@@ -1,0 +1,12 @@
+80,228,9
+1vide,1
+the,2
+preceding,1
+item,1
+2,1
+presumably,1
+lady,1
+hardinge,1
+medical,1
+college,1
+journal,1

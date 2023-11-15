@@ -1,0 +1,6 @@
+11,236,17
+resistance,1
+and,1
+gratefully,1
+accept,1
+bill,1

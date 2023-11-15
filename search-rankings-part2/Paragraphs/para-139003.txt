@@ -1,0 +1,14 @@
+40,453,9
+bicknell,1
+the,4
+one,2
+is,4
+a,2
+cow,2
+worshipper,2
+and,2
+other,2
+eater,1
+an,2
+idol,2
+breaker,1

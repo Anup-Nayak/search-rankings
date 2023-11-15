@@ -1,0 +1,5 @@
+8,63,6
+johannesburg,2
+the,2
+editor,1
+star,1

@@ -1,0 +1,14 @@
+16,109,8
+from,1
+the,1
+postcard,1
+in,2
+gujarati,1
+gandhijis,1
+hand,1
+c,1
+w,1
+3030,1
+courtesy,1
+narandas,1
+gandhi,1

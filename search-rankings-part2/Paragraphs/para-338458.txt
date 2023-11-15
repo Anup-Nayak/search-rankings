@@ -1,0 +1,14 @@
+88,40,4
+i,3
+have,2
+your,1
+letter,1
+what,1
+can,1
+do,1
+you,1
+possess,1
+a,1
+long,1
+pen,1
+nothing,1

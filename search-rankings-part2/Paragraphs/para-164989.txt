@@ -1,0 +1,11 @@
+47,301,2
+here,1
+is,1
+the,2
+itinerary,1
+2,1
+for,1
+week,1
+ending,1
+18th,1
+instant,1

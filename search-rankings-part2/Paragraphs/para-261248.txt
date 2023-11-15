@@ -1,0 +1,10 @@
+70,157,9
+q,1
+thats,1
+what,1
+the,1
+germans,1
+say,1
+about,1
+their,1
+beer,1

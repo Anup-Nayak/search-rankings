@@ -1,0 +1,10 @@
+44,484,8
+t9,1
+guj,1
+does,1
+not,1
+have,1
+as,1
+emperor,1
+of,1
+india,1

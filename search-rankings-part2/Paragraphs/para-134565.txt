@@ -1,0 +1,17 @@
+39,220,14
+cattle,1
+have,1
+little,1
+or,1
+no,1
+beef,1
+value,1
+and,1
+we,1
+cannot,1
+afford,1
+to,1
+keep,1
+cows,1
+for,1
+draught,1

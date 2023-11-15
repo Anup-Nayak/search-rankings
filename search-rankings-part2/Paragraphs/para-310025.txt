@@ -1,0 +1,9 @@
+82,17,13
+10,1
+satyagraha,1
+ashram,1
+and,1
+service,1
+of,1
+the,1
+villages,1

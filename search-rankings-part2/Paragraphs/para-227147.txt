@@ -1,0 +1,12 @@
+62,180,3
+1,2
+the,2
+following,1
+except,1
+last,1
+paragraph,1
+is,1
+from,1
+harijan,1
+12,1
+1933,1

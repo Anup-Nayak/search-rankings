@@ -1,0 +1,7 @@
+64,285,10
+irrespective,1
+other,1
+conditions,1
+wire,1
+fixed,1
+date,1

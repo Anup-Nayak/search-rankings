@@ -1,0 +1,7 @@
+62,409,2
+446,1
+speech,1
+at,1
+womens,1
+meeting,1
+guruvayur,1

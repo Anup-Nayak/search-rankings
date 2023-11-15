@@ -1,0 +1,10 @@
+61,48,5
+tell,1
+ba,1
+her,2
+father,1
+imposed,1
+on,1
+a,1
+companion,1
+whose,1

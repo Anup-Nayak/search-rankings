@@ -1,0 +1,13 @@
+82,417,25
+had,2
+come,1
+to,2
+collect,1
+information,1
+about,1
+local,1
+conditions,1
+and,1
+that,1
+i,1
+therefore,1

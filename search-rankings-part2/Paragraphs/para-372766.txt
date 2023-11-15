@@ -1,0 +1,8 @@
+96,341,8
+gandhi,1
+the,1
+hindustan,1
+standard,1
+7,1
+9,1
+1947,1

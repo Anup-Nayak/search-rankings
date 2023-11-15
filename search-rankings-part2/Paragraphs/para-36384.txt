@@ -1,0 +1,7 @@
+11,303,7
+exempting,1
+persons,2
+born,1
+within,1
+union,1
+domiciled,1

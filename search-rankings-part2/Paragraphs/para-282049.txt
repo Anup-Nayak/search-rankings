@@ -1,0 +1,8 @@
+75,267,3
+suggestion,1
+difficult,1
+whole,1
+thing,1
+depends,1
+your,1
+effort,1

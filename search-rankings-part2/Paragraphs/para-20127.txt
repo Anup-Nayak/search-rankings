@@ -1,0 +1,5 @@
+7,49,1
+sympathy,1
+from,1
+natal,1
+congress,1

@@ -1,0 +1,6 @@
+80,147,10
+sevagram,1
+wardha,1
+april,1
+1,1
+1941,1

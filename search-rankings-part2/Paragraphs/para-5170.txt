@@ -1,0 +1,9 @@
+2,364,3
+to,2
+private,1
+secretary,1
+his,1
+excellency,1
+the,1
+governor,1
+pietermaritzburg,1

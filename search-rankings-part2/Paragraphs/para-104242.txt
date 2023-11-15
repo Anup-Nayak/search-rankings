@@ -1,0 +1,14 @@
+30,388,2
+the,1
+following,1
+from,1
+a,2
+friend,1
+has,1
+been,1
+on,1
+my,1
+file,1
+for,1
+long,1
+time,1

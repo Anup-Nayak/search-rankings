@@ -1,0 +1,11 @@
+30,200,6
+q,1
+you,2
+said,1
+witnessed,1
+some,1
+horrible,1
+sights,1
+on,1
+the,1
+9th,1

@@ -1,0 +1,5 @@
+78,261,3
+298,1
+curse,1
+of,1
+untouchability,1

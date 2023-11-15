@@ -1,0 +1,13 @@
+82,22,23
+in,1
+order,1
+to,1
+make,1
+this,1
+education,1
+thorough,1
+and,1
+self,1
+sufficient,1
+we,1
+should,1

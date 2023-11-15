@@ -1,0 +1,7 @@
+36,231,3
+a,1
+letter,1
+from,1
+south,1
+africa,1
+states,1

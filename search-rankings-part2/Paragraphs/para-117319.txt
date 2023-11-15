@@ -1,0 +1,11 @@
+35,0,8
+a,1
+joseph,1
+esq,1
+519,1
+silver,1
+street,1
+st,1
+thomas,1
+mount,1
+madras,1

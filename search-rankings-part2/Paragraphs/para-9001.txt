@@ -1,0 +1,4 @@
+4,32,1
+28,1
+more,1
+disabilities,1

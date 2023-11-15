@@ -1,0 +1,13 @@
+82,415,6
+g,1
+there,1
+may,2
+be,1
+violence,1
+but,1
+then,1
+again,1
+the,1
+landlords,1
+co,1
+operate,1

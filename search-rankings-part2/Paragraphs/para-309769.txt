@@ -1,0 +1,13 @@
+81,509,12
+himself,1
+actively,1
+to,2
+the,1
+execution,1
+of,2
+some,1
+item,1
+this,1
+programme,1
+and,1
+send,1

@@ -1,0 +1,10 @@
+20,204,7
+1,1
+a,1
+word,1
+of,2
+abuse,1
+literally,1
+brother,1
+ones,1
+wife,1

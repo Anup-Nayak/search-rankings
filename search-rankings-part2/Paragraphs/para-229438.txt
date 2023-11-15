@@ -1,0 +1,9 @@
+63,20,2
+is,1
+the,1
+bulsar,1
+municipality,1
+failing,1
+in,1
+its,1
+duty,1

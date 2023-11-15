@@ -1,0 +1,5 @@
+29,77,1
+57,1
+for,1
+fallen,1
+humanity,1

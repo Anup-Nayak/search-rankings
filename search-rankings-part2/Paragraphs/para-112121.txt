@@ -1,0 +1,16 @@
+33,208,8
+mohandas,1
+ps,1
+i,1
+have,1
+used,1
+my,1
+left,1
+hand,2
+as,1
+the,1
+right,1
+is,1
+out,1
+of,1
+action,1

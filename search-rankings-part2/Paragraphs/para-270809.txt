@@ -1,0 +1,10 @@
+72,425,4
+mother,1
+lived,1
+nobly,2
+has,1
+died,1
+she,1
+was,1
+a,1
+model,1

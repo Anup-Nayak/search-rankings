@@ -1,0 +1,10 @@
+55,5,4
+god,1
+has,1
+created,1
+a,1
+mixture,1
+of,1
+good,1
+and,1
+evil,1

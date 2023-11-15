@@ -1,0 +1,7 @@
+70,87,7
+article1,1
+for,1
+harijan,1
+appealing,1
+princes,1
+follow,1

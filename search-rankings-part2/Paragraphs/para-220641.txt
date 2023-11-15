@@ -1,0 +1,12 @@
+60,446,5
+1,2
+vide,2
+students,1
+and,1
+vacation,1
+4,1
+1933,1
+2,1
+the,1
+following,1
+item,1

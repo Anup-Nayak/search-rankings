@@ -1,0 +1,9 @@
+84,227,2
+305,1
+introduction,1
+to,1
+draft,1
+instruction,1
+for,1
+civil,1
+resisters,1

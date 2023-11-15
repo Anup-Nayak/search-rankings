@@ -1,0 +1,9 @@
+47,111,9
+1,1
+gandhiji,1
+has,1
+used,1
+the,2
+pronoun,1
+in,1
+singular,1

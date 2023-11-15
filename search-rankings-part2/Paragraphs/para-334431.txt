@@ -1,0 +1,6 @@
+87,115,4
+nevertheless,1
+come,1
+for,1
+eventualities,1
+if,1

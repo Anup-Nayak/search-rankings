@@ -1,0 +1,14 @@
+64,9,7
+blessings,1
+from,1
+bapu,1
+kumari,1
+p,2
+nirupama,1
+c/o,1
+shri,1
+manjunath,1
+nayak,1
+sudama,1
+kuteer,1
+udipi,1

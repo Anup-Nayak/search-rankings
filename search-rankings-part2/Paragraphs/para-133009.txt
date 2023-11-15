@@ -1,0 +1,3 @@
+38,497,6
+medical,1
+opinions2,1

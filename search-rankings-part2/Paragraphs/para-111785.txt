@@ -1,0 +1,4 @@
+33,154,6
+the,1
+kanpur,1
+congress,1

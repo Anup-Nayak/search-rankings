@@ -1,0 +1,16 @@
+38,255,17
+yes,1
+you,1
+may,1
+have,1
+it,1
+and,2
+yet,1
+the,2
+heat,1
+might,1
+affect,1
+blood,1
+pressure,1
+retard,1
+recovery,1

@@ -1,0 +1,6 @@
+51,40,2
+60,1
+letter,1
+to,1
+durga,1
+desai,1

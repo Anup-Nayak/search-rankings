@@ -1,0 +1,5 @@
+30,100,1
+monthly,1
+return,1
+of,1
+members,1

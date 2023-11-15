@@ -1,0 +1,16 @@
+63,238,8
+1,1
+this,1
+sentence,1
+is,1
+to,1
+be,1
+found,1
+only,1
+in,1
+bapuna,1
+patro,1
+7,1
+shri,1
+chhaganlal,1
+joshine,1

@@ -1,0 +1,10 @@
+61,291,3
+1,1
+what,1
+follows,1
+is,1
+taken,1
+from,1
+the,1
+photostat,1
+source,1

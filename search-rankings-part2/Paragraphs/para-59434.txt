@@ -1,0 +1,10 @@
+17,73,26
+governor,1
+of,1
+bombay,1
+and,1
+desires,1
+to,1
+point,1
+out,1
+that,1

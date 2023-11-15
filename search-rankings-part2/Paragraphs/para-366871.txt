@@ -1,0 +1,10 @@
+95,21,2
+1,1
+sardar,1
+baldev,1
+singh,1
+2,1
+claude,1
+john,1
+eyre,1
+auchinleck,1

@@ -1,0 +1,10 @@
+74,249,4
+y,1
+o,1
+u,1
+r,1
+s,1
+little,1
+spinner,1
+spider,1
+etc,1

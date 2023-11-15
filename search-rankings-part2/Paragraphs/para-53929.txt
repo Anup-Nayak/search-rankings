@@ -1,0 +1,8 @@
+15,430,11
+rived,1
+just,1
+now,1
+having,1
+missed,1
+train,1
+connection,1

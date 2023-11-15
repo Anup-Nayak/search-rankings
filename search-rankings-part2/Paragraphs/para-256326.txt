@@ -1,0 +1,8 @@
+69,99,13
+muslim,1
+sardar,1
+and,1
+others,1
+all,1
+join,1
+me,1

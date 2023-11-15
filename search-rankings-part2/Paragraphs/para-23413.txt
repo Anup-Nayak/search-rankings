@@ -1,0 +1,13 @@
+8,56,4
+two,1
+indians,1
+whose,1
+cases,1
+were,1
+postponed,1
+when,1
+mr,1
+gandhi,1
+and,1
+the,1
+others,1

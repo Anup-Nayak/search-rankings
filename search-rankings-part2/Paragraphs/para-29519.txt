@@ -1,0 +1,14 @@
+9,468,11
+a,2
+malay,1
+born,1
+and,1
+resident,1
+in,2
+any,1
+british,1
+colony,1
+or,2
+possession,1
+south,1
+africa,1

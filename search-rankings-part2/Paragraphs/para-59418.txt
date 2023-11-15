@@ -1,0 +1,5 @@
+17,73,10
+rule,1
+leagues,1
+first,1
+resolution,1

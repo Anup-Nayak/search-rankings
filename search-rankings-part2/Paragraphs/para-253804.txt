@@ -1,0 +1,12 @@
+68,274,4
+1,1
+gandhiji,1
+then,1
+replied,1
+to,1
+the,1
+questions,1
+asked,1
+by,1
+swami,1
+anand,1

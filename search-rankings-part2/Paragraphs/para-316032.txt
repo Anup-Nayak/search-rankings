@@ -1,0 +1,12 @@
+83,9,7
+gandhiji,1
+but,1
+can,1
+you,1
+tell,1
+me,1
+when,1
+the,1
+war,1
+will,1
+end,1

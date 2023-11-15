@@ -1,0 +1,14 @@
+62,460,10
+i,2
+have,1
+been,1
+warned,1
+by,1
+friends,1
+whose,1
+opinion,1
+value,1
+that,1
+my,1
+attitude,1
+towards,1

@@ -1,0 +1,7 @@
+54,270,5
+q,1
+is,1
+not,1
+non,1
+resistance,1
+submission,1

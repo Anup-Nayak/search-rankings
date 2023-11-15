@@ -1,0 +1,9 @@
+30,215,9
+a,1
+nawabzada,1
+bag,1
+mohd,1
+khan,1
+rais,1
+1of,1
+tiri,1

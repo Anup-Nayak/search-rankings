@@ -1,0 +1,8 @@
+22,320,3
+gorakhpur,1
+february,1
+8,1
+1921,1
+khwaja,1
+barrister,1
+aligarh,1

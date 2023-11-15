@@ -1,0 +1,6 @@
+49,154,8
+161,1
+speech,1
+to,1
+headmen,1
+surat,1

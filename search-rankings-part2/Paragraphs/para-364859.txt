@@ -1,0 +1,14 @@
+94,205,14
+gandhiji,1
+referred,1
+to,3
+his,1
+visit,1
+earlier,1
+in,1
+the,1
+day,1
+prof,1
+baris,1
+house,1
+console,1

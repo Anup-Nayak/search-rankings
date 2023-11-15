@@ -1,0 +1,16 @@
+64,195,6
+when,1
+i,1
+think,1
+of,2
+it,1
+somehow,1
+your,1
+rushing,1
+about,1
+in,2
+a,1
+motor,1
+car,1
+the,1
+cause,1

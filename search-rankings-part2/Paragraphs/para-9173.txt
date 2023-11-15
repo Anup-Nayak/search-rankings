@@ -1,0 +1,16 @@
+4,68,6
+1,1
+this,1
+and,1
+other,1
+words,1
+in,1
+square,1
+brackets,1
+have,1
+been,1
+reconstructed,1
+from,1
+the,1
+damaged,1
+original,1

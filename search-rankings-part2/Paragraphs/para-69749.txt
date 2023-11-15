@@ -1,0 +1,6 @@
+20,31,8
+khan,1
+bahadur,1
+mian,1
+lieutenant,1
+colonel,1

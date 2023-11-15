@@ -1,0 +1,14 @@
+16,29,13
+1,1
+to,1
+get,1
+a,1
+power,1
+of,1
+attorney,1
+from,1
+the,1
+raiyats,1
+before,1
+arbitration,1
+which,1

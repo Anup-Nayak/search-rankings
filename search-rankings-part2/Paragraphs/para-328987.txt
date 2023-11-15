@@ -1,0 +1,9 @@
+86,32,10
+cause,1
+grief,1
+he,1
+wrote,1
+dr,1
+mahmud,1
+long,1
+letter,1

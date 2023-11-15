@@ -1,0 +1,13 @@
+43,425,6
+supported,1
+the,2
+british,1
+government,1
+in,1
+its,1
+war,1
+against,1
+germany,1
+how,1
+is,1
+situation,1

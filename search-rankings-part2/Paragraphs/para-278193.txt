@@ -1,0 +1,6 @@
+74,290,3
+hope,1
+you,1
+father,1
+doing,1
+well,1

@@ -1,0 +1,12 @@
+42,234,9
+nothing,1
+is,1
+yet,1
+settled,1
+about,1
+my,1
+visit,1
+to,1
+europe,1
+next,1
+year,1

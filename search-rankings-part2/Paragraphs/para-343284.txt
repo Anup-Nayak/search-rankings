@@ -1,0 +1,12 @@
+89,81,6
+munnalal,1
+i,1
+got,1
+your,1
+letter,1
+of,2
+the,2
+16th,1
+and,1
+postcard,1
+19th,1

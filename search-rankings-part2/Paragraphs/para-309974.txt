@@ -1,0 +1,8 @@
+82,14,10
+you,1
+and,1
+your,1
+partner,1
+cannot,1
+visit,1
+sevagram,1

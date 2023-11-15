@@ -1,0 +1,17 @@
+90,107,3
+sir,1
+john,1
+mcgaw,1
+president,1
+india,1
+office,1
+medical,1
+board,1
+is,1
+reported,1
+by,1
+a,1
+correspondent,1
+to,1
+have,1
+said,1

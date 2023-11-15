@@ -1,0 +1,13 @@
+13,456,7
+e,1
+any,2
+person,1
+born,1
+in,2
+part,1
+of,1
+south,1
+africa,1
+included,1
+the,1
+union,1

@@ -1,0 +1,8 @@
+19,90,14
+81,1
+letter,1
+to,1
+sir,1
+george,1
+barnes,1
+2,1

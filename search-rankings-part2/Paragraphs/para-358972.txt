@@ -1,0 +1,10 @@
+92,455,10
+gandhiji,1
+this,1
+is,1
+a,1
+dangerous,1
+generalization,1
+all,1
+you,1
+mention,1

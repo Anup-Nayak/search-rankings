@@ -1,0 +1,15 @@
+20,430,7
+5,1
+in,1
+mesopotamia,1
+which,1
+became,1
+a,1
+british,1
+mandated,1
+territory,1
+under,1
+the,1
+turkish,1
+peace,1
+terms,1

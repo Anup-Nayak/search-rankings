@@ -1,0 +1,4 @@
+45,295,3
+the,1
+indiscriminate,1
+arrests,1

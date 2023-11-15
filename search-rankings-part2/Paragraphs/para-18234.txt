@@ -1,0 +1,10 @@
+6,332,7
+now,1
+the,2
+association,1
+has,1
+received,1
+a,1
+letter,1
+from,1
+rustenburg,1

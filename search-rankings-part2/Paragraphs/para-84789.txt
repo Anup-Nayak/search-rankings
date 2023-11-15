@@ -1,0 +1,12 @@
+25,99,3
+a,1
+correspondent,1
+asks,1
+some,1
+pertinent,1
+questions,1
+in,1
+the,1
+following,1
+pungent,1
+fashion,1

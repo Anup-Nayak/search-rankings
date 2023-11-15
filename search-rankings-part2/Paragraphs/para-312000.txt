@@ -1,0 +1,11 @@
+82,175,25
+importance,1
+that,1
+people,1
+should,2
+know,1
+how,1
+they,1
+offer,1
+non,1
+violent,1

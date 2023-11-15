@@ -1,0 +1,7 @@
+75,238,8
+without,1
+sacrificing,1
+immediate,1
+duty,1
+but,1
+moment,1

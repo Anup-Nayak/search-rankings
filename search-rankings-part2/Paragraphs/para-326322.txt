@@ -1,0 +1,6 @@
+85,244,6
+388,1
+letter,1
+to,1
+kanaiyalal,1
+desai,1

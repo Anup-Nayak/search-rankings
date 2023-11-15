@@ -1,0 +1,6 @@
+72,23,3
+shri,1
+rajagopalachari,1
+senate,1
+house,1
+madras,1

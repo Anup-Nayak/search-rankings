@@ -1,0 +1,10 @@
+16,489,14
+reform,1
+of,4
+the,2
+police,1
+and,1
+system,1
+administration,1
+justice,1
+temperance,1

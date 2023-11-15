@@ -1,0 +1,16 @@
+73,374,10
+t,1
+but,1
+the,2
+power,1
+is,1
+being,1
+felt,1
+everywhere,1
+and,1
+congress,1
+prestige,1
+has,2
+risen,1
+it,1
+not,1

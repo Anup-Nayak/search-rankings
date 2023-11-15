@@ -1,0 +1,12 @@
+86,212,12
+1,1
+lakshmi,1
+gandhi,1
+had,1
+given,1
+birth,1
+to,1
+her,1
+youngest,1
+son,1
+gopalkrishna,1

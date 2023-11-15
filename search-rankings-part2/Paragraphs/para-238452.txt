@@ -1,0 +1,7 @@
+65,108,1
+129,1
+letter,1
+to,1
+jaimini,1
+bhushen,1
+mittra,1

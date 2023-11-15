@@ -1,0 +1,13 @@
+66,125,8
+oh,1
+mahatmaji,1
+i,1
+have,1
+something,1
+more,1
+then,1
+why,1
+not,1
+give,1
+that,1
+too,1

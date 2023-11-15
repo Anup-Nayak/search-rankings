@@ -1,0 +1,6 @@
+9,99,14
+morning,1
+and,1
+would,1
+be,1
+deported,1

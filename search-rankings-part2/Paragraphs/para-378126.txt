@@ -1,0 +1,6 @@
+98,149,4
+149,1
+talk,1
+with,1
+english,1
+friends1,1

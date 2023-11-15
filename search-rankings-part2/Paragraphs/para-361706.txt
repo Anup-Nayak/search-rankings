@@ -1,0 +1,14 @@
+93,287,10
+he,2
+would,1
+say,1
+the,1
+question,1
+ignored,1
+facts,1
+was,1
+not,1
+nursing,1
+back,1
+his,1
+own,1

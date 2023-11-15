@@ -1,0 +1,17 @@
+69,268,10
+q,1
+how,2
+to,1
+deal,1
+with,1
+beggars,1
+can,1
+we,2
+turn,1
+them,1
+away,1
+when,1
+see,1
+they,1
+are,1
+famishing,1

@@ -1,0 +1,10 @@
+15,180,2
+1,1
+not,1
+found,1
+in,1
+the,2
+available,1
+version,1
+of,1
+speech,1

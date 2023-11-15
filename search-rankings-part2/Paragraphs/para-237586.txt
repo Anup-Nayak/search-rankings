@@ -1,0 +1,9 @@
+65,17,2
+bapu,1
+miss,1
+mary,1
+barr,1
+khedi,1
+saoligarh,1
+betul,1
+dt,1

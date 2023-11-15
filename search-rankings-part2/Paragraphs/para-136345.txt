@@ -1,0 +1,8 @@
+39,475,2
+462,1
+farewell,1
+speech,1
+at,1
+prayer,1
+meeting,1
+bangalore,1

@@ -1,0 +1,9 @@
+14,472,23
+ber,1
+regretted,1
+but,1
+was,1
+due,1
+to,1
+contradictory,1
+information,1

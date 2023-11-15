@@ -1,0 +1,16 @@
+64,132,9
+places,1
+harijans,1
+were,1
+living,1
+and,2
+he,1
+urged,1
+the,2
+city,1
+fathers,1
+people,1
+to,1
+see,1
+that,1
+not,1

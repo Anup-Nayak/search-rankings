@@ -1,0 +1,10 @@
+92,229,13
+a,1
+when,1
+i,1
+understood,1
+the,1
+inner,1
+meaning,1
+of,1
+life,1

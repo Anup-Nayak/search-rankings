@@ -1,0 +1,13 @@
+56,155,4
+1,1
+regular,1
+recitation,1
+2,1
+the,3
+translator,1
+supplies,1
+following,1
+information,1
+later,1
+on,1
+gita,1

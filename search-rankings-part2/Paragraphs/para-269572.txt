@@ -1,0 +1,13 @@
+72,297,9
+2,1
+the,2
+letter,1
+is,2
+in,1
+mahadev,1
+desais,1
+handwriting,1
+but,1
+subscription,1
+by,1
+gandhiji,1

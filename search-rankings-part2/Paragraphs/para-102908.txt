@@ -1,0 +1,16 @@
+30,212,7
+a,1
+no,1
+gun,1
+had,1
+there,1
+been,1
+any,1
+the,2
+d,1
+c,1
+would,1
+not,1
+come,1
+into,1
+crowd,1

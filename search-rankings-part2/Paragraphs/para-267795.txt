@@ -1,0 +1,13 @@
+72,87,11
+i,2
+devote,1
+all,1
+my,1
+time,1
+these,1
+days,1
+to,1
+writing,1
+letters,1
+am,1
+sending,1

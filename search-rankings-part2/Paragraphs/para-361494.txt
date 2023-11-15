@@ -1,0 +1,4 @@
+93,266,10
+no,1
+cause,1
+anxiety,1

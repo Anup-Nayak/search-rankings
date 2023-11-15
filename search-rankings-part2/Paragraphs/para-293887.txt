@@ -1,0 +1,16 @@
+78,229,16
+gesture,1
+which,1
+should,1
+in,1
+the,2
+end,1
+win,1
+heart,1
+of,1
+our,1
+opponent,1
+even,1
+if,1
+such,1
+a,1

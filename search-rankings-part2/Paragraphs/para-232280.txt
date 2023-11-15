@@ -1,0 +1,11 @@
+63,393,1
+what,2
+course,1
+to,1
+follow,1
+you,1
+must,1
+do,1
+the,1
+doctor,1
+says,1

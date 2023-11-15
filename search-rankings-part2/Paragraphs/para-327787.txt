@@ -1,0 +1,16 @@
+85,383,9
+q,1
+if,1
+you,1
+do,1
+not,2
+find,1
+suitable,1
+women,1
+workers,1
+why,1
+should,1
+the,1
+fund,1
+be,1
+used,1

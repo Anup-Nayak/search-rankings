@@ -1,0 +1,6 @@
+39,2,5
+5,1
+letter,1
+to,1
+sharadabehn,1
+kotak,1

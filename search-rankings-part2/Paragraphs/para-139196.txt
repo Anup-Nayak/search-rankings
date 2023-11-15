@@ -1,0 +1,6 @@
+40,484,2
+q,1
+can,1
+they,1
+be,1
+omitted,1

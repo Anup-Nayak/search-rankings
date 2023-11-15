@@ -1,0 +1,8 @@
+7,430,18
+fares,1
+to,1
+germiston,1
+and,1
+donation,1
+25,1
+0,2

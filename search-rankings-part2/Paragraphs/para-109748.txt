@@ -1,0 +1,8 @@
+32,329,3
+1,1
+wife,1
+of,1
+king,1
+nala,1
+in,1
+mahabharata,1

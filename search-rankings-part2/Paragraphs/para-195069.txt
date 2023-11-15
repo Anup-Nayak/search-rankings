@@ -1,0 +1,6 @@
+55,5,2
+all,1
+things,1
+in,1
+the,1
+world,1

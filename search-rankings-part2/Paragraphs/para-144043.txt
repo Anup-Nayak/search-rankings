@@ -1,0 +1,6 @@
+42,134,5
+care,1
+post,1
+master,1
+srinagar,1
+kashmir,1

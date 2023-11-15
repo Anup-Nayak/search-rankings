@@ -1,0 +1,4 @@
+33,381,4
+bishop,1
+fishers,1
+pamphlet,1

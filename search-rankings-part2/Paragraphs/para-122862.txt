@@ -1,0 +1,6 @@
+36,178,2
+an,1
+experienced,1
+worker,1
+writes,1
+1,1

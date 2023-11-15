@@ -1,0 +1,10 @@
+97,212,7
+the,2
+interpretations,1
+of,2
+some,1
+critics,1
+koran,1
+are,1
+not,1
+correct,1

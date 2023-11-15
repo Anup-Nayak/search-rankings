@@ -1,0 +1,8 @@
+14,10,34
+taking,1
+oath,1
+not,1
+accept,1
+present,1
+commission,1
+but,1

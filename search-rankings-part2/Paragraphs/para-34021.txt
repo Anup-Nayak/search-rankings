@@ -1,0 +1,6 @@
+11,53,4
+56,1
+for,1
+colonial,1
+born,1
+indians,1

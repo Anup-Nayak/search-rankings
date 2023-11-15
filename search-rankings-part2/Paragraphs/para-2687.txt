@@ -1,0 +1,14 @@
+2,56,17
+probability,1
+the,1
+guests,1
+would,1
+be,1
+served,1
+by,1
+coolie,1
+waiters,1
+and,1
+partake,1
+of,1
+fare,1

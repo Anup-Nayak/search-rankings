@@ -1,0 +1,12 @@
+42,20,10
+1,1
+kanti,1
+parikh,1
+had,1
+been,1
+injured,1
+during,1
+communal,1
+riots,1
+in,1
+surat,1

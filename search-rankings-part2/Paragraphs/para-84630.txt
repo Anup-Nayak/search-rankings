@@ -1,0 +1,6 @@
+25,70,2
+is,1
+khadi,1
+a,1
+passing,1
+phase,1

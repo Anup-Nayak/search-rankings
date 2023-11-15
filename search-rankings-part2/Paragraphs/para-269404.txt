@@ -1,0 +1,10 @@
+72,274,6
+354,1
+views,1
+on,1
+congress,1
+in,1
+north,1
+west,1
+frontier,1
+province,1

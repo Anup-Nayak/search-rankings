@@ -1,0 +1,14 @@
+94,205,10
+cause,1
+of,1
+the,2
+workers,1
+in,1
+jamshedpur,1
+and,1
+other,1
+places,1
+endeared,1
+himself,1
+to,1
+people,1

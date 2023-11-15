@@ -1,0 +1,5 @@
+26,68,2
+interference,1
+with,1
+religious,1
+liberty,1

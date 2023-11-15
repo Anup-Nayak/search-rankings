@@ -1,0 +1,12 @@
+91,229,6
+in,1
+urdu,2
+cannot,1
+be,1
+used,1
+it,1
+is,1
+either,1
+or,1
+no,1
+good,1

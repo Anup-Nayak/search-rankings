@@ -1,0 +1,17 @@
+2,108,2
+calumniator,1
+stabbing,1
+us,1
+when,1
+at,1
+a,2
+safe,1
+distance,1
+and,1
+if,1
+he,2
+had,1
+acted,1
+so,1
+that,1
+was,1

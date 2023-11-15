@@ -1,0 +1,7 @@
+18,47,15
+under,1
+order,1
+of,1
+the,1
+military,1
+commandant,1

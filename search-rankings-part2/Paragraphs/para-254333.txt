@@ -1,0 +1,9 @@
+68,337,7
+from,1
+gujarati,1
+c,1
+w,1
+9693,1
+courtesy,1
+moolubhai,1
+nautamlal,1

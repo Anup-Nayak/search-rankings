@@ -1,0 +1,16 @@
+41,246,3
+mr,1
+aylmer,1
+maude,1
+than,1
+whom,1
+there,1
+is,1
+no,1
+better,1
+english,1
+authority,1
+on,1
+tolstoyan,1
+literature,1
+writes,1

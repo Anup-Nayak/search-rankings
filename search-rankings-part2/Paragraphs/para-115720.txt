@@ -1,0 +1,16 @@
+34,316,10
+1,1
+from,1
+the,3
+addressees,1
+reply,1
+of,2
+february,1
+23,1
+acknowledging,1
+receipt,1
+it,1
+as,1
+on,1
+preceding,1
+night,1

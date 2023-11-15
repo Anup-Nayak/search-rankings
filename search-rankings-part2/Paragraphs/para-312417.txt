@@ -1,0 +1,14 @@
+82,212,12
+provinces,1
+until,1
+some,1
+of,1
+us,1
+have,1
+learnt,1
+the,2
+national,1
+language,1
+why,1
+not,1
+limit,1

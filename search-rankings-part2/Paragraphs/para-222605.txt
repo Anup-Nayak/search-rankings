@@ -1,0 +1,13 @@
+61,160,4
+i,2
+had,1
+put,1
+your,1
+letter,1
+under,1
+my,1
+mattress,1
+could,1
+reach,1
+it,1
+only,1

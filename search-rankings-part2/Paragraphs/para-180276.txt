@@ -1,0 +1,8 @@
+51,253,7
+session,1
+congress,1
+meanwhile,1
+mr,1
+benns,1
+1,1
+statement,1

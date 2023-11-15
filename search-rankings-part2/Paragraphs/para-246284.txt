@@ -1,0 +1,11 @@
+66,415,4
+gandhiji,1
+to,2
+show,1
+the,1
+people,1
+how,1
+turn,1
+waste,1
+into,1
+wealth,1

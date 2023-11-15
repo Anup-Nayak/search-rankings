@@ -1,0 +1,9 @@
+11,298,11
+not,1
+arise,1
+stop,1
+other,1
+conditions,1
+there,1
+and,1
+absence,1

@@ -1,0 +1,10 @@
+82,342,16
+both,1
+from,1
+africa,1
+and,2
+asia,1
+removed,1
+the,1
+colour,1
+bar,1

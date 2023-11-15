@@ -1,0 +1,7 @@
+30,283,1
+146,1
+speech,1
+at,1
+antyaja,1
+meeting,1
+porbunder,1

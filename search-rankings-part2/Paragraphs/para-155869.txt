@@ -1,0 +1,11 @@
+45,130,5
+1,1
+a,1
+similar,1
+not,1
+appeared,1
+in,1
+navajivan,1
+24,1
+2,1
+1929,1

@@ -1,0 +1,17 @@
+52,312,5
+3,1
+whether,1
+a,1
+person,1
+connected,1
+with,1
+foreign,1
+cloth,1
+dealers,1
+can,1
+be,1
+secretary,1
+of,1
+the,1
+congress,1
+committee,1

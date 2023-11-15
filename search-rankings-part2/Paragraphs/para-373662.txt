@@ -1,0 +1,12 @@
+97,5,4
+is,2
+there,1
+anybody,1
+in,1
+the,3
+meeting,1
+who,1
+against,1
+recitation,1
+from,1
+koran,1

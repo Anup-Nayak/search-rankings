@@ -1,0 +1,17 @@
+11,75,1
+david,2
+andrew,2
+mr,3
+samuel,1
+joseph,1
+and,1
+nayana,1
+have,1
+been,1
+removed,1
+to,1
+pretoria,1
+for,1
+being,1
+deported,1
+again,1

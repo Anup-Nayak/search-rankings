@@ -1,0 +1,13 @@
+73,22,10
+local,1
+politics,1
+he,2
+however,1
+informed,1
+them,1
+that,1
+intended,1
+returning,1
+to,1
+calcutta,1
+by,1

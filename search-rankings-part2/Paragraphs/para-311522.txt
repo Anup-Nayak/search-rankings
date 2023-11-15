@@ -1,0 +1,7 @@
+82,138,7
+160,1
+letter,1
+to,1
+vijay,1
+m,1
+pancholi,1

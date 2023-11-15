@@ -1,0 +1,13 @@
+27,153,10
+the,2
+jail,1
+life,2
+has,1
+brought,1
+a,1
+great,1
+change,1
+in,1
+your,1
+and,2
+vigour,1

@@ -1,0 +1,7 @@
+86,117,7
+wire,1
+satyavatis2,1
+health,1
+does,1
+she,1
+require,1

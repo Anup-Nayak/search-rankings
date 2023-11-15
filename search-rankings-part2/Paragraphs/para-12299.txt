@@ -1,0 +1,7 @@
+5,70,2
+64,1
+british,1
+indians,1
+in,1
+the,1
+transvaal,1

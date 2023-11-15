@@ -1,0 +1,10 @@
+28,292,7
+a,2
+friend,1
+has,1
+raised,1
+very,1
+difficult,1
+question,1
+he,1
+says,1

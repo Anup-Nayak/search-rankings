@@ -1,0 +1,9 @@
+47,9,3
+my,1
+opinion,1
+eighteen,1
+years,1
+girls,1
+twenty,1
+five,1
+boys,1

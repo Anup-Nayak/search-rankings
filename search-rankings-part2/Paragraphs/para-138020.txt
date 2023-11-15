@@ -1,0 +1,7 @@
+40,280,6
+168,1
+letter,1
+to,1
+karim,1
+mahomed,1
+master,1

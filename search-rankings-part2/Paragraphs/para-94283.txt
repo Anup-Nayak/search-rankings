@@ -1,0 +1,4 @@
+28,9,2
+are,1
+sikhs,1
+hindus,1

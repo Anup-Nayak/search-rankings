@@ -1,0 +1,6 @@
+36,89,2
+89,1
+hand,1
+spinning,1
+in,1
+cochin,1

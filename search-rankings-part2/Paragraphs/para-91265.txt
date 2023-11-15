@@ -1,0 +1,15 @@
+27,113,4
+1,1
+this,1
+open,1
+letter,1
+the,2
+original,1
+of,1
+which,1
+was,2
+in,2
+gujarati,1
+published,1
+generally,1
+press,1

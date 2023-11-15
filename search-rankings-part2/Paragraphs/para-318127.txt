@@ -1,0 +1,7 @@
+83,302,5
+1,1
+words,1
+in,1
+parentheses,1
+are,1
+gandhijis,1

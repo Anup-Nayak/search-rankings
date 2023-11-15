@@ -1,0 +1,6 @@
+34,289,9
+20,1
+truth,1
+v,1
+brahmacharya,1
+1,1

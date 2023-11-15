@@ -1,0 +1,7 @@
+91,226,1
+284,1
+letter,1
+to,1
+bakshi,1
+tek,1
+chand,1

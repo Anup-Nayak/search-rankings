@@ -1,0 +1,12 @@
+16,211,3
+i,1
+return,1
+your,2
+letter,1
+on,1
+the,1
+vernaculars,1
+to,2
+you,1
+refresh,1
+memory,1

@@ -1,0 +1,10 @@
+84,90,5
+bapuji,1
+seen,1
+your,1
+postcard,1
+he,1
+is,1
+leaving,1
+for,1
+poona,1

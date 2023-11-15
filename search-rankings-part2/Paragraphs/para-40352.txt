@@ -1,0 +1,15 @@
+12,306,5
+schlesin,1
+roche,2
+&,2
+mrs,1
+and,1
+coopoo,1
+came,2
+all,1
+of,1
+them,1
+miss,1
+knudsen,1
+returned,1
+kallenbach,1

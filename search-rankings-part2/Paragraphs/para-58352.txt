@@ -1,0 +1,17 @@
+16,486,10
+c,1
+the,3
+amount,1
+of,3
+rent,1
+to,1
+be,1
+noted,1
+in,1
+record,1
+rights,1
+under,1
+provisions,1
+sub,1
+section,1
+2,1

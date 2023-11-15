@@ -1,0 +1,12 @@
+49,181,10
+gandhiji,1
+asked,1
+villagers,1
+to,3
+prepare,1
+themselves,1
+go,1
+jail,1
+but,1
+they,1
+should,1

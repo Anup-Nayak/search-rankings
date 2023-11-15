@@ -1,0 +1,12 @@
+82,400,28
+g,1
+it,1
+means,1
+looking,1
+first,2
+at,3
+the,2
+last,1
+page,3
+then,2
+a,1

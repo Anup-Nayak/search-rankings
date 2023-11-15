@@ -1,0 +1,10 @@
+68,310,6
+from,1
+gujarati,1
+c,1
+w,1
+9720,1
+courtesy,1
+lilibehn,1
+a,1
+pandya,1

@@ -1,0 +1,15 @@
+78,34,18
+if,1
+we,2
+had,1
+notnor,1
+the,2
+way,1
+have,1
+treated,1
+her,1
+since,1
+for,1
+worse,1
+our,1
+record,1

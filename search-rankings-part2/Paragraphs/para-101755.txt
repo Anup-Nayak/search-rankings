@@ -1,0 +1,5 @@
+30,57,2
+imitation,1
+of,1
+the,1
+west,1

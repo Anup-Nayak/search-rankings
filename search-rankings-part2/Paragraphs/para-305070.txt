@@ -1,0 +1,10 @@
+80,488,1
+c,1
+the,1
+hindus,1
+are,2
+equally,1
+aggressive,1
+and,1
+organizing,1
+themselves,1

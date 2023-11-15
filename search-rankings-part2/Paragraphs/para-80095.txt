@@ -1,0 +1,12 @@
+23,302,10
+to,1
+follow,1
+the,3
+right,1
+path,3
+straight,1
+and,1
+honest,1
+he,1
+was,1
+extremely,1

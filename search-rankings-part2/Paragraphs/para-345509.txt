@@ -1,0 +1,7 @@
+89,332,9
+g,1
+oh,1
+yes,1
+an,1
+irrepressible,1
+one,1

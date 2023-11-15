@@ -1,0 +1,16 @@
+79,249,2
+carrying,1
+out,1
+the,4
+constructive,1
+programme,1
+that,1
+is,2
+one,1
+of,2
+principal,1
+branches,1
+tree,1
+but,1
+what,1
+root,1

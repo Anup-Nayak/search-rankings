@@ -1,0 +1,13 @@
+87,247,10
+m,1
+n,1
+t,1
+has,1
+the,2
+working,1
+committee,1
+taken,1
+any,1
+decision,1
+regarding,1
+communists,1

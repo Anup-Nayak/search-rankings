@@ -1,0 +1,9 @@
+45,212,9
+q,1
+do,1
+you,2
+think,1
+can,1
+get,1
+dominion,1
+status,1

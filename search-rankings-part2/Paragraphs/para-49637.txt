@@ -1,0 +1,9 @@
+14,469,4
+and,2
+again,1
+supper,1
+imprisonment,1
+march,1
+out,1
+that,1
+was,1

@@ -1,0 +1,12 @@
+44,471,2
+t4,1
+guj,1
+skill,1
+in,1
+drawing,1
+is,1
+necessary,1
+for,1
+mastering,1
+good,1
+handwriting,1

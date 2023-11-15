@@ -1,0 +1,6 @@
+92,166,2
+a,1
+gujarati,1
+friend,1
+2,1
+asks,1

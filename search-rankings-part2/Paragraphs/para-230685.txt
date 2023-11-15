@@ -1,0 +1,14 @@
+63,189,4
+two,1
+political,1
+questions,1
+gandhijis,1
+curt,1
+reply,1
+was,1
+that,1
+he,1
+could,1
+not,1
+answer,1
+them,1

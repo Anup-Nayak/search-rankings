@@ -1,0 +1,7 @@
+11,236,13
+lawful,1
+residents,1
+not,1
+protected,1
+under,1
+common,1

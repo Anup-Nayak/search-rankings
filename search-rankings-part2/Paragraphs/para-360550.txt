@@ -1,0 +1,7 @@
+93,165,5
+225,1
+interview,1
+to,1
+raymond,1
+cartier,1
+2,1

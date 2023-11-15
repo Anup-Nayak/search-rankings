@@ -1,0 +1,8 @@
+13,439,18
+and,1
+for,1
+public,1
+moreover,1
+our,1
+release,1
+without,1

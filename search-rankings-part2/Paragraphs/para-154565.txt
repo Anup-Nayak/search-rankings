@@ -1,0 +1,9 @@
+44,495,21
+t2,1
+guj,1
+does,1
+not,2
+have,1
+are,1
+ashamed,1
+to,1

@@ -1,0 +1,6 @@
+61,150,4
+191,1
+letter,1
+to,1
+amina,1
+qureshi,1

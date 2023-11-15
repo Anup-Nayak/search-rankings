@@ -1,0 +1,15 @@
+13,195,2
+5,1
+the,1
+patient,1
+should,1
+lie,1
+in,1
+a,1
+place,1
+open,1
+to,1
+plenty,1
+of,1
+fresh,1
+air,1

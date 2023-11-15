@@ -1,0 +1,16 @@
+18,355,1
+review,1
+of,1
+the,2
+sentences,1
+already,1
+passed,1
+but,1
+position,1
+will,1
+be,1
+known,1
+more,1
+definitely,1
+by,2
+and,1

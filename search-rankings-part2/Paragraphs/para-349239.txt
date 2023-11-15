@@ -1,0 +1,7 @@
+90,312,9
+1,1
+prayer,1
+as,1
+offered,1
+by,1
+muslims,1

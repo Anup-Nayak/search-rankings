@@ -1,0 +1,12 @@
+76,429,8
+who,1
+stand,1
+for,1
+democracy,1
+and,2
+freedom,1
+the,1
+congress,1
+has,1
+repeatedly,1
+condemned,1

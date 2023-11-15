@@ -1,0 +1,6 @@
+51,128,23
+relatively,1
+to,1
+the,2
+average,1
+income,1

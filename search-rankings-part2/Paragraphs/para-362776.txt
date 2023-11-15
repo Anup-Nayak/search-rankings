@@ -1,0 +1,14 @@
+93,403,9
+1,1
+daughter,1
+of,1
+jamnalal,1
+bajaj,2
+married,1
+to,1
+shriman,1
+narayan,1
+2,1
+ramkrishna,1
+addressees,1
+brother,1

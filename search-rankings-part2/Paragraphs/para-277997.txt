@@ -1,0 +1,16 @@
+74,270,10
+g,1
+you,2
+may,1
+cite,1
+the,1
+resolution,1
+but,1
+will,1
+not,1
+be,1
+able,1
+to,1
+show,1
+corresponding,1
+action,1

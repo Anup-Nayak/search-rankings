@@ -1,0 +1,13 @@
+59,118,9
+m,1
+k,1
+gandhi,1
+lala,1
+sham,1
+lal,1
+advocate,1
+9,1
+dayal,1
+singh,1
+mansions,1
+lahore,1

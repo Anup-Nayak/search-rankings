@@ -1,0 +1,7 @@
+51,77,6
+inadequate,1
+but,1
+in,1
+common,1
+with,1
+majority,1

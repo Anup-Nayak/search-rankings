@@ -1,0 +1,7 @@
+15,290,10
+220,1
+statement,1
+on,1
+lionel,1
+curtis,1
+letter,1

@@ -1,0 +1,15 @@
+91,42,7
+q,1
+why,1
+do,1
+you,1
+go,1
+to,2
+the,2
+doctors,1
+for,1
+examination,1
+and,2
+diagnosis,1
+not,1
+vaidyas,1

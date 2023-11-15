@@ -1,0 +1,10 @@
+17,344,9
+2,1
+declining,1
+the,2
+offer,1
+of,2
+vice,1
+presidentship,1
+satyagraha,1
+sabha,1

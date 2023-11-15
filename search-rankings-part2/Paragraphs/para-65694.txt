@@ -1,0 +1,9 @@
+18,455,4
+m,1
+abdul,1
+aziz,1
+barrister,1
+at,1
+law,1
+of,1
+peshawar,1

@@ -1,0 +1,7 @@
+26,176,2
+82,1
+the,1
+crime,1
+of,1
+chauri,1
+chaura,1

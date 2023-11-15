@@ -1,0 +1,11 @@
+79,106,8
+1,1
+wife,1
+of,1
+gopalrao,1
+kulkarni,1
+a,1
+worker,1
+for,1
+nayee,1
+taleem,1

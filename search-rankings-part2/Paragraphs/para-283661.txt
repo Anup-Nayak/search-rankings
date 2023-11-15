@@ -1,0 +1,4 @@
+75,453,12
+abdul,1
+ghaffar,1
+khan,1

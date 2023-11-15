@@ -1,0 +1,9 @@
+30,434,2
+259,1
+speech,1
+in,1
+reply,1
+to,1
+addresses,1
+trichur,1
+2,1

@@ -1,0 +1,7 @@
+10,301,7
+1,1
+muslim,1
+divines,1
+2,1
+parsee,1
+priests,1

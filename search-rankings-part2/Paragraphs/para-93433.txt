@@ -1,0 +1,6 @@
+27,403,22
+he,1
+was,1
+given,1
+milk,1
+diet,1

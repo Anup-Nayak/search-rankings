@@ -1,0 +1,12 @@
+41,338,2
+1,1
+rama,1
+strength,1
+of,2
+the,2
+weak,1
+opening,1
+words,1
+a,1
+popular,1
+song,1

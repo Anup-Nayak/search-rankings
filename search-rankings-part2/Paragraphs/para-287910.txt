@@ -1,0 +1,13 @@
+76,436,31
+democracy,1
+to,1
+all,1
+colonial,1
+countries,1
+and,1
+by,1
+the,2
+application,1
+of,2
+principle,1
+self,1

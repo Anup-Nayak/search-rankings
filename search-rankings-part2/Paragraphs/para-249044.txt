@@ -1,0 +1,16 @@
+67,226,12
+1,1
+wife,1
+of,2
+maruti,1
+sharma,1
+2,1
+what,1
+follows,1
+is,1
+given,1
+on,1
+the,2
+margin,1
+addressees,1
+letter,1

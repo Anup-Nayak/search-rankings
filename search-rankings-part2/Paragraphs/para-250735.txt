@@ -1,0 +1,6 @@
+67,395,3
+614,1
+leprosy,1
+and,1
+its,1
+prevention,1

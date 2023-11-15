@@ -1,0 +1,10 @@
+47,106,11
+average,1
+daily,1
+income,1
+per,1
+head,1
+1,1
+anna,1
+7,1
+p,1

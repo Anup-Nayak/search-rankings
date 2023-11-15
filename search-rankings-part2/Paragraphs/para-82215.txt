@@ -1,0 +1,16 @@
+24,153,3
+2,1
+it,1
+is,2
+our,1
+duty,1
+to,1
+destroy,1
+a,1
+government,1
+which,1
+capable,1
+of,1
+acting,1
+so,1
+dishonestly,1

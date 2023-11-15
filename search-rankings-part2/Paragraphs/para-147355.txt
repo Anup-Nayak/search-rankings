@@ -1,0 +1,14 @@
+43,32,4
+even,1
+heard,1
+from,1
+some,1
+prisoners,2
+that,1
+one,1
+of,1
+the,1
+was,1
+given,1
+bar,1
+fetters,1

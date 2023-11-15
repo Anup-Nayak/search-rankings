@@ -1,0 +1,14 @@
+6,163,6
+bankers,1
+the,2
+natal,1
+bank,1
+limited,1
+offices,1
+28,1
+queen,1
+annes,1
+chambers,1
+broadway,1
+westminster,1
+w,1

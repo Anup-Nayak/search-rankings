@@ -1,0 +1,12 @@
+82,343,10
+even,1
+supposing,1
+britain,1
+were,1
+to,2
+accede,1
+this,1
+position,1
+you,1
+do,1
+not,1

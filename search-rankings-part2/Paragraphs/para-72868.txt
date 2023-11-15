@@ -1,0 +1,15 @@
+21,52,2
+at,1
+this,1
+stage,1
+mr,2
+gandhi,1
+asked,1
+the,1
+audience,1
+if,1
+ghulam,1
+jalani,1
+1,1
+was,1
+present,1

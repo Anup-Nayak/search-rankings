@@ -1,0 +1,11 @@
+93,302,13
+the,2
+most,1
+valuable,1
+thing,1
+in,1
+world,1
+is,1
+a,1
+virtuous,1
+woman,1

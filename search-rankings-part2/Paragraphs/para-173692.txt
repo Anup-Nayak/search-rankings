@@ -1,0 +1,14 @@
+49,467,15
+the,2
+nation,1
+power,1
+to,2
+give,1
+immediate,1
+effect,1
+them,1
+father,1
+has,1
+been,1
+unwell,1
+last,1

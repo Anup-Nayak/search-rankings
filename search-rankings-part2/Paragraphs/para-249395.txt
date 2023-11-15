@@ -1,0 +1,9 @@
+67,260,7
+an,1
+english,1
+friend,1
+sends,1
+me,1
+the,1
+following,1
+letter,1

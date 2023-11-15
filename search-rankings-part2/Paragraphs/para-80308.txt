@@ -1,0 +1,16 @@
+23,336,10
+they,2
+had,1
+to,1
+throw,1
+out,1
+that,2
+poison,1
+so,1
+long,1
+as,1
+people,1
+did,1
+not,1
+feel,1
+satisfied,1

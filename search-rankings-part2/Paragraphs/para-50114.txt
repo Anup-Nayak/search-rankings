@@ -1,0 +1,17 @@
+15,3,5
+m,1
+k,1
+gandhi,1
+mr,1
+p,1
+g,1
+balasundara,1
+sastri,1
+govindapuram,1
+village,1
+aduturai,1
+post,1
+thanjavur,1
+district,1
+madras,1
+presidency,1

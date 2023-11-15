@@ -1,0 +1,7 @@
+78,301,8
+personal,1
+sevagram,1
+wardha,1
+june,1
+7,1
+1940,1

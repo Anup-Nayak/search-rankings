@@ -1,0 +1,10 @@
+36,72,4
+yours,1
+shrimati,1
+urmila,1
+devi,1
+4a,1
+nafarkundu,1
+road,1
+kalighat,1
+calcutta,1

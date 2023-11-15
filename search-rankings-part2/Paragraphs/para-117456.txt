@@ -1,0 +1,13 @@
+35,12,8
+mohandas,1
+gandhi,1
+shri,1
+narbheram,1
+popatlal,1
+mehta,1
+ransiki,1
+p,1
+o,1
+kumbhajini,1
+derdi,1
+kathiawar,1

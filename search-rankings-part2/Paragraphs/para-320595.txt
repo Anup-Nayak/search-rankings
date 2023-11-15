@@ -1,0 +1,11 @@
+84,128,11
+from,1
+a,1
+photostat,1
+c,1
+w,1
+999,1
+courtesy,1
+v,1
+p,1
+limaye,1

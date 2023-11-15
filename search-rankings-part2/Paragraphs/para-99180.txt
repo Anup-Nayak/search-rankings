@@ -1,0 +1,7 @@
+29,222,10
+hope,1
+you,1
+will,1
+get,1
+well,1
+soon,1

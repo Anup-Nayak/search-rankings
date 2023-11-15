@@ -1,0 +1,6 @@
+3,455,7
+deaths,1
+of,1
+proved,1
+plague,1
+cases,1

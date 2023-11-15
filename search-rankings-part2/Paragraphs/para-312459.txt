@@ -1,0 +1,15 @@
+82,217,3
+q,1
+you,1
+declared,1
+the,1
+other,1
+day,1
+at,1
+wardha,1
+that,1
+jawaharlal,1
+nehru,1
+was,1
+your,1
+legal,1

@@ -1,0 +1,12 @@
+94,14,7
+as,1
+from,1
+kazirkhil,1
+ramganj,1
+p,1
+s,1
+noakhali,1
+distt,1
+february,1
+20,1
+1947,1

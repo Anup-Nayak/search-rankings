@@ -1,0 +1,15 @@
+66,100,5
+i,1
+do,1
+not,1
+think,1
+there,2
+is,2
+no,1
+god,1
+in,1
+the,1
+shadow,1
+life,1
+every,1
+where,1

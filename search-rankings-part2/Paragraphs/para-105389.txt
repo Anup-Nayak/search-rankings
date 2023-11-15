@@ -1,0 +1,10 @@
+31,126,2
+from,1
+the,1
+gujara,1
+ti,1
+origin,1
+al,1
+g,1
+n,1
+11544,1

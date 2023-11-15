@@ -1,0 +1,5 @@
+28,7,3
+to,1
+a,2
+mohammedan,1
+hindu,1

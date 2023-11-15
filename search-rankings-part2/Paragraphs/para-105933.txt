@@ -1,0 +1,11 @@
+31,201,4
+in,1
+the,2
+first,1
+place,1
+word,1
+inducement,1
+was,1
+used,1
+with,1
+inn,1

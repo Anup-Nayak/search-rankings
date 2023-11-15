@@ -1,0 +1,17 @@
+92,229,4
+q,1
+are,1
+you,2
+full,1
+of,2
+the,1
+joy,1
+life,1
+why,1
+do,1
+want,1
+to,1
+live,1
+for,1
+125,1
+years,1

@@ -1,0 +1,12 @@
+31,22,17
+introduced,1
+sanitary,1
+principles,1
+in,1
+the,2
+village,1
+by,1
+themselves,1
+cleaning,1
+wells,1
+and,1

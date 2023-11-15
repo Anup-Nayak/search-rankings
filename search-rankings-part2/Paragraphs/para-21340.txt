@@ -1,0 +1,5 @@
+7,215,2
+uneasiness,1
+at,1
+permit,1
+office,1

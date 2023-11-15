@@ -1,0 +1,9 @@
+76,14,5
+not,1
+even,1
+able,1
+write,1
+three,1
+days,1
+all,1
+well,1

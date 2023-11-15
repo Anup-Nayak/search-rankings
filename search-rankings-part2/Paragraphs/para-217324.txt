@@ -1,0 +1,13 @@
+60,23,6
+yours,1
+sincerely,1
+sjt,1
+balmukund,1
+general,1
+secretary,1
+the,1
+balmik,1
+achhut,1
+mandal,1
+lahore,1
+city,1

@@ -1,0 +1,9 @@
+39,1,5
+bapu,1
+s,1
+d,1
+nadkarni,1
+esq,1
+karwar,1
+n,1
+kanara,1

@@ -1,0 +1,6 @@
+74,141,1
+200,1
+talk,1
+to,1
+khudai,1
+khidmatgars,1

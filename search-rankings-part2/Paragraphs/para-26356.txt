@@ -1,0 +1,3 @@
+9,19,6
+whites,1
+sympathy,1

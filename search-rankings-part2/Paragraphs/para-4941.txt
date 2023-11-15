@@ -1,0 +1,13 @@
+2,336,1
+to,3
+wages,1
+for,1
+bearer,1
+sukhraj,1
+1,1
+0,4
+fare,1
+one,1
+volunteer,1
+tongaat,1
+5,1

@@ -1,0 +1,7 @@
+3,11,5
+calcutta,1
+house,1
+pretoria,1
+january,1
+6,1
+1903,1

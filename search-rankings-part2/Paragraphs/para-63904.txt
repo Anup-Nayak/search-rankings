@@ -1,0 +1,13 @@
+18,151,3
+1,1
+a,1
+measure,1
+of,1
+weight,1
+2,1
+1/2,1
+tolas,1
+making,1
+an,1
+ounce,1
+avoirdupois,1

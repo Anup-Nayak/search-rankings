@@ -1,0 +1,10 @@
+73,209,8
+shri,1
+pyarelal,1
+nayyar,1
+19,1
+raja,1
+bazar,1
+square,1
+new,1
+delhi,1

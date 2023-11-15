@@ -1,0 +1,7 @@
+87,416,6
+718,1
+letter,1
+to,1
+maurice,1
+frydman,1
+1,1

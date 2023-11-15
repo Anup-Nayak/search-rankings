@@ -1,0 +1,8 @@
+69,13,5
+1,1
+krishnan,1
+nair,1
+2,1
+lakshmi,1
+narayan,1
+gadodia,1

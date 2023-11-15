@@ -1,0 +1,6 @@
+73,416,11
+566,1
+letter,1
+to,1
+hanna,1
+lazar,1

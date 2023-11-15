@@ -1,0 +1,12 @@
+63,57,1
+57,1
+speech,1
+at,1
+laying,1
+of,1
+foundation,1
+stone,1
+for,1
+harijan,1
+school,1
+devacottah,1

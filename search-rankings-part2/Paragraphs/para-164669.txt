@@ -1,0 +1,8 @@
+47,268,5
+302,1
+message,1
+to,1
+the,1
+indian,1
+labour,1
+journal2,1

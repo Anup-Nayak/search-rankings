@@ -1,0 +1,14 @@
+94,61,17
+halves,1
+of,2
+one,1
+the,2
+english,1
+language,1
+went,1
+further,1
+and,1
+called,1
+woman,1
+better,1
+half,1

@@ -1,0 +1,11 @@
+61,234,1
+co,2
+operation,2
+and,1
+obedience,1
+to,1
+laws,1
+in,1
+place,1
+of,1
+forced,1

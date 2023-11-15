@@ -1,0 +1,6 @@
+43,160,2
+192,1
+the,1
+students,1
+interrogatories,1
+1,1

@@ -1,0 +1,10 @@
+12,345,3
+medh,1
+&,2
+desai,1
+left,1
+tailor,1
+ratanji,1
+came,1
+regarding,1
+lallu,1

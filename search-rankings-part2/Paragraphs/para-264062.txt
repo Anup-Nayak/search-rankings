@@ -1,0 +1,5 @@
+71,75,2
+87,1
+nattar,1
+harijan,1
+agreement,1

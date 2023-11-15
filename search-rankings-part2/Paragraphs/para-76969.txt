@@ -1,0 +1,3 @@
+22,258,2
+religious,1
+impartiality,1

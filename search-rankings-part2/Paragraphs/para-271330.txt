@@ -1,0 +1,11 @@
+72,486,5
+governors,1
+camp,1
+north,1
+west,1
+frontier,1
+province,1
+abbottabad,1
+august,1
+17,1
+1937,1

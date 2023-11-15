@@ -1,0 +1,4 @@
+5,229,2
+223,1
+wealthy,1
+americans,1

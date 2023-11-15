@@ -1,0 +1,13 @@
+33,363,3
+mohandas,1
+gandhi,1
+ps,1
+i,1
+write,1
+with,1
+the,2
+left,1
+hand,1
+since,1
+right,1
+pains,1

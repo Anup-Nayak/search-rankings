@@ -1,0 +1,4 @@
+22,134,5
+language,1
+of,1
+navajivan,1

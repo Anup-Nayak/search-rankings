@@ -1,0 +1,11 @@
+6,535,2
+penalties,1
+for,1
+not,1
+complying,1
+with,1
+the,2
+order,1
+to,1
+leave,1
+colony,1

@@ -1,0 +1,10 @@
+84,399,4
+blessings,1
+from,1
+bapu,1
+rajshri,1
+sethshri,1
+nanji,1
+kalidas,1
+porbandar,1
+kathiawar,1

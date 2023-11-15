@@ -1,0 +1,11 @@
+60,505,2
+yours,1
+sincerely,1
+harry,1
+bowman,1
+esq,1
+beatrice,1
+nebraska,1
+u,1
+s,1
+a,1

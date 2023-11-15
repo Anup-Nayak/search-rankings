@@ -1,0 +1,15 @@
+20,6,19
+attack,1
+government,1
+and,1
+insult,1
+those,1
+who,1
+are,1
+true,1
+to,1
+their,1
+salt,1
+loyal,1
+men,1
+must,1

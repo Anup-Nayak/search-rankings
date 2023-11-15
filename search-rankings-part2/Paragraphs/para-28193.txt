@@ -1,0 +1,7 @@
+9,267,1
+163,1
+what,1
+does,1
+the,1
+struggle,1
+mean,1

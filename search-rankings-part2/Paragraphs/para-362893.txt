@@ -1,0 +1,17 @@
+93,414,3
+6,1
+wherein,1
+adequate,1
+safeguards,1
+shall,1
+be,1
+provided,1
+for,1
+minorities,1
+backward,2
+and,4
+tribal,1
+areas,1
+depressed,1
+other,1
+classes,1

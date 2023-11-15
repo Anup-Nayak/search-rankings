@@ -1,0 +1,12 @@
+87,11,11
+bapu,1
+shri,1
+jaisukhlal,1
+gandhi,2
+sind,1
+market,1
+no,1
+35,1
+mahatma,1
+road,1
+karachi,1

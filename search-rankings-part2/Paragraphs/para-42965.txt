@@ -1,0 +1,8 @@
+13,146,3
+bar,1
+essence,1
+compromise,1
+is,1
+that,1
+existing,1
+rights,1

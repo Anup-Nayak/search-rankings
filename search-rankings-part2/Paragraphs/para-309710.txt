@@ -1,0 +1,5 @@
+81,501,2
+761,1
+not,1
+necessarily,1
+impure,1

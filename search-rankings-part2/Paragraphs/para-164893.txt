@@ -1,0 +1,7 @@
+47,291,11
+wages,1
+which,1
+were,1
+already,1
+hardly,1
+enough,1

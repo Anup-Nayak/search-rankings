@@ -1,0 +1,11 @@
+12,349,10
+left,1
+phoenix,1
+in,2
+the,1
+afternoon,1
+banquet,1
+at,1
+night,1
+drill,1
+hall,1

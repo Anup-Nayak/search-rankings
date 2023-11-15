@@ -1,0 +1,10 @@
+28,502,5
+not,1
+or,2
+i,1
+die,1
+at,1
+least,1
+have,1
+to,1
+bathe,1

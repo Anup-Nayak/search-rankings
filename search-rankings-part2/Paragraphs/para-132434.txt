@@ -1,0 +1,6 @@
+38,412,6
+418,1
+letter,1
+to,1
+manibehn,1
+patel,1

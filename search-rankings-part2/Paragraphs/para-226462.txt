@@ -1,0 +1,12 @@
+62,88,11
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+gujarati,1
+bapujini,1
+shital,1
+chhaayaman,1
+facing,1
+p,1

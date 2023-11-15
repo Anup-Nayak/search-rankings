@@ -1,0 +1,8 @@
+18,332,3
+254,1
+speech,1
+at,1
+weavers,1
+meeting,1
+dohad,1
+1,1

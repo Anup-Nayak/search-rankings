@@ -1,0 +1,3 @@
+11,479,12
+trading,1
+licences,1

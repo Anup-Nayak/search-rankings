@@ -1,0 +1,8 @@
+30,195,12
+q,1
+are,1
+all,1
+the,1
+persons,1
+converted,1
+hindus,1

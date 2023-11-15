@@ -1,0 +1,9 @@
+7,102,10
+2,1
+a,1
+couplet,1
+by,1
+the,1
+hindi,1
+poet,1
+tulsidas,1

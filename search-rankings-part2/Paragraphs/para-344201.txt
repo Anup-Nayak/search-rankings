@@ -1,0 +1,12 @@
+89,181,15
+1,1
+the,2
+letter,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+a,1
+weak,1
+woman,1

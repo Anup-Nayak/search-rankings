@@ -1,0 +1,17 @@
+10,145,2
+1,1
+1414,1
+79,1
+saint,1
+poet,1
+of,2
+gujarat,1
+author,1
+gandhijis,1
+favourite,1
+hymn,1
+vaishnav,1
+jan,1
+to,1
+tene,1
+kahiye,1

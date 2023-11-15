@@ -1,0 +1,7 @@
+68,393,6
+483,1
+letter,1
+to,1
+bal,1
+d,1
+kalelkar,1

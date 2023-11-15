@@ -1,0 +1,9 @@
+98,377,12
+from,1
+a,1
+facsimile,1
+in,1
+ajkal,1
+april,1
+1982,1
+p,1

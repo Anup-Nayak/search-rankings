@@ -1,0 +1,8 @@
+34,453,5
+weather,1
+here,1
+un,1
+usually,1
+cool,1
+just,1
+now,1

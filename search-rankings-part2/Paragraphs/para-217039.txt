@@ -1,0 +1,11 @@
+59,511,15
+of,1
+admission,1
+to,1
+temples,1
+is,1
+dealt,1
+with,1
+separately,1
+in,1
+second,1

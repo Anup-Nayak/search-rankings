@@ -1,0 +1,11 @@
+56,231,2
+1,1
+the,2
+stars,1
+in,1
+their,1
+courses,1
+universe,2
+around,1
+us,1
+mysterious,1

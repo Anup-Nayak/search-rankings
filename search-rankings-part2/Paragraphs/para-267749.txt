@@ -1,0 +1,9 @@
+72,83,4
+if,1
+regret,1
+for,1
+firing,1
+expressed,1
+and,1
+other,1
+relief,1

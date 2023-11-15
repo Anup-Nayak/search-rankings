@@ -1,0 +1,6 @@
+47,9,13
+12,1
+appeal,1
+to,1
+temple,1
+trustees,1

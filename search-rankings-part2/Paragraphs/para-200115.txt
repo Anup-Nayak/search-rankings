@@ -1,0 +1,7 @@
+56,124,5
+148,1
+letter,1
+to,1
+pushpa,1
+s,1
+patel,1

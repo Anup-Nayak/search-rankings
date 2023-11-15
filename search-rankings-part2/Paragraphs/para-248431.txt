@@ -1,0 +1,7 @@
+67,165,1
+262,1
+letter,1
+to,1
+mohammad,1
+ajmal,1
+khan,1

@@ -1,0 +1,14 @@
+61,198,10
+1,1
+vide,2
+telegram,1
+to,2
+narandas,2
+gandhi,2
+28,1
+6,1
+1933,2
+2,1
+letter,1
+29,1
+4,1

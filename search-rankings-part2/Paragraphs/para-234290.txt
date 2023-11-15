@@ -1,0 +1,8 @@
+64,100,10
+1,1
+at,1
+the,1
+harijan,1
+ashram,2
+satyagraha,1
+sabarmati,1

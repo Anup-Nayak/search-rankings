@@ -1,0 +1,7 @@
+21,8,1
+6,1
+how,1
+navajivan,1
+should,1
+be,1
+run,1

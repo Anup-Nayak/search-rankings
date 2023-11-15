@@ -1,0 +1,8 @@
+17,287,5
+2,1
+a,1
+gujarati,1
+translation,1
+of,1
+gokhales,1
+speeches,1

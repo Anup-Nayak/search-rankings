@@ -1,0 +1,7 @@
+2,258,3
+s,1
+j,1
+p,1
+kruger,1
+state,1
+president,1

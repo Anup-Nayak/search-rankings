@@ -1,0 +1,4 @@
+7,53,6
+regulations,1
+for,1
+hawkers,1

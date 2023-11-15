@@ -1,0 +1,8 @@
+41,301,13
+q,1
+but,1
+who,1
+will,1
+finance,1
+the,1
+industries,1

@@ -1,0 +1,7 @@
+53,230,1
+255,1
+letter,1
+to,1
+mohommad,1
+mufti,1
+kifayatullah,1

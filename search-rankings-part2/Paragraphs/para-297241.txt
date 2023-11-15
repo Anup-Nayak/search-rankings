@@ -1,0 +1,8 @@
+79,171,2
+1,1
+here,1
+gandhiji,1
+showed,1
+them,1
+a,1
+goad,1

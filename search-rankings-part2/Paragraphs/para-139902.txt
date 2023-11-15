@@ -1,0 +1,17 @@
+41,68,3
+1,1
+general,1
+dyer,1
+and,1
+odwyer,1
+were,1
+responsible,1
+for,1
+the,1
+massacre,1
+of,1
+jallianwala,1
+bagh,1
+in,1
+april,1
+1919,1

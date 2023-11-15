@@ -1,0 +1,17 @@
+12,453,3
+2,1
+pending,1
+the,2
+removal,1
+prohibited,1
+immigrant,1
+may,2
+be,2
+detained,1
+in,1
+such,1
+custody,1
+as,1
+prescribed,1
+by,1
+regulation,1

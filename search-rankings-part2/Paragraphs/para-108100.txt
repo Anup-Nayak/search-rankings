@@ -1,0 +1,10 @@
+32,28,2
+1,1
+vaishnava,1
+cult,1
+founded,1
+by,1
+vallabhacharya,1
+15th,1
+16th,1
+century,1

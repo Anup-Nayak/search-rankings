@@ -1,0 +1,6 @@
+6,489,4
+indians,1
+in,1
+german,1
+east,1
+africa,1

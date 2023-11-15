@@ -1,0 +1,11 @@
+44,483,9
+t3,1
+guj,1
+does,1
+not,1
+have,1
+who,1
+read,1
+urdu,1
+with,1
+me,1

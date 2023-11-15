@@ -1,0 +1,10 @@
+44,490,27
+t5,1
+for,1
+settled,1
+establishment,1
+guj,1
+has,1
+carefully,1
+built,1
+nest,1

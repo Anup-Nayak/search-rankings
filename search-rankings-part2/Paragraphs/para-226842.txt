@@ -1,0 +1,10 @@
+62,139,2
+please,1
+continue,1
+to,2
+write,1
+me,1
+at,1
+the,1
+wardha,1
+address,1

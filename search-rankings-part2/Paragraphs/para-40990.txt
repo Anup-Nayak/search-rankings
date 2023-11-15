@@ -1,0 +1,13 @@
+12,352,8
+in,1
+dar,1
+es,1
+salaam,1
+read,1
+about,1
+maharaj,1
+libel,1
+case,2
+age,1
+khans,1
+etc,1

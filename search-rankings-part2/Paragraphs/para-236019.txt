@@ -1,0 +1,4 @@
+64,303,6
+am,1
+gaining,1
+strength,1

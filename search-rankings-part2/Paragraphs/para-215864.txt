@@ -1,0 +1,14 @@
+59,389,2
+be,1
+not,1
+moved,1
+by,1
+joy,1
+or,1
+sorrow,1
+with,1
+the,1
+body,1
+were,1
+they,1
+created,1

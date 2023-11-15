@@ -1,0 +1,3 @@
+9,336,2
+health,1
+impaired,1

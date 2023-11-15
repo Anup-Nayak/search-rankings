@@ -1,0 +1,4 @@
+82,397,18
+than,1
+the,1
+japanese,1

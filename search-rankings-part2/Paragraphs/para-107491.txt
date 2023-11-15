@@ -1,0 +1,4 @@
+31,418,5
+barrister,1
+jetpur,1
+kathiawar,1

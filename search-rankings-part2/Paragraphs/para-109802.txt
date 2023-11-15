@@ -1,0 +1,15 @@
+32,333,10
+provinces,1
+it,1
+is,1
+a,2
+problem,1
+from,1
+the,1
+past,1
+requiring,1
+lifes,1
+study,1
+of,1
+several,1
+workers,1

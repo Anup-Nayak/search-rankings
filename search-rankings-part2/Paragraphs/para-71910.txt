@@ -1,0 +1,6 @@
+20,380,5
+dacoities,1
+in,1
+matar,1
+taluka,1
+3,1

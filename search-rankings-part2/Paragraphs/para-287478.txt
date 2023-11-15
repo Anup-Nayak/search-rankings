@@ -1,0 +1,13 @@
+76,406,1
+sugarcane,1
+cannot,1
+be,1
+grown,1
+with,1
+profit,1
+in,1
+the,1
+same,1
+field,1
+year,2
+after,1

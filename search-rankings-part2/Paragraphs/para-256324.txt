@@ -1,0 +1,10 @@
+69,99,11
+truly,1
+grand,1
+old,1
+man,1
+of,2
+gujarat,1
+and,1
+faithful,1
+servant,1

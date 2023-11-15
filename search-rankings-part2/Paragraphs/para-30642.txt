@@ -1,0 +1,14 @@
+10,94,10
+1,1
+vide,2
+letter,2
+to,4
+private,2
+secretary,2
+lord,2
+crewe,2
+10,1
+9,2
+1909,2
+2,1
+18,1

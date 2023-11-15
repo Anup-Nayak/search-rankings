@@ -1,0 +1,10 @@
+83,101,12
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+gujarati,1
+sutarne,1
+tantane,1
+swaraj,1

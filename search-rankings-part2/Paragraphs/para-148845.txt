@@ -1,0 +1,7 @@
+43,209,10
+256,1
+cruelty,1
+in,1
+guise,1
+of,1
+justice,1

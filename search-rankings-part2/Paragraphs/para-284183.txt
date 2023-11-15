@@ -1,0 +1,6 @@
+76,35,1
+40,1
+letter,1
+to,1
+kapilrai,1
+parekh,1

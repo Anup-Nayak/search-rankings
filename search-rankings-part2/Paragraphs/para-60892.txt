@@ -1,0 +1,14 @@
+17,247,8
+2,1
+refrain,1
+of,3
+surdass,1
+famous,1
+hymn,1
+he,1
+is,1
+the,4
+help,1
+helpless,1
+strength,1
+weak,1

@@ -1,0 +1,7 @@
+16,200,3
+101,1
+letter,1
+to,1
+a,1
+public,1
+worker,1

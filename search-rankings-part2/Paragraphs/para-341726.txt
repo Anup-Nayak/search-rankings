@@ -1,0 +1,9 @@
+88,339,18
+i,1
+have,2
+your,2
+letter,1
+you,1
+well,1
+described,1
+difficulties,1

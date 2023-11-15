@@ -1,0 +1,10 @@
+49,181,19
+not,1
+deter,1
+the,3
+maintenance,1
+of,2
+non,1
+violent,1
+character,1
+struggle,1

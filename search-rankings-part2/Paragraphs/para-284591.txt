@@ -1,0 +1,5 @@
+76,86,7
+110,1
+bhandaris,1
+and,1
+prohibition,1

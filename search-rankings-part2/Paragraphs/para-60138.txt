@@ -1,0 +1,7 @@
+17,164,6
+bhaishri,1
+imam,1
+saheb,1
+abdul,1
+kadir,1
+bawazir,1

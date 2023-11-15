@@ -1,0 +1,12 @@
+88,62,6
+i,1
+am,1
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+h,2
+nawab,1
+of,1
+bhopal,1

@@ -1,0 +1,7 @@
+18,128,13
+bolshevism,1
+stop,1
+governments,1
+whether,1
+alien,1
+or,1

@@ -1,0 +1,11 @@
+69,231,1
+294,1
+talk,1
+with,1
+students,1
+of,1
+village,1
+workers,1
+training,1
+school,1
+1,1

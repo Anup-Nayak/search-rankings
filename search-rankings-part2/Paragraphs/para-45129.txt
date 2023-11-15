@@ -1,0 +1,10 @@
+13,426,29
+ing,1
+travel,1
+from,1
+pretoria,1
+to,1
+durban,1
+we,1
+met,1
+repre,1

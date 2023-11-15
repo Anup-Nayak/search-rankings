@@ -1,0 +1,7 @@
+80,108,3
+192,1
+letter,1
+to,1
+kanchan,1
+m,1
+shah,1

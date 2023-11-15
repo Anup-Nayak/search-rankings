@@ -1,0 +1,9 @@
+82,95,16
+and,1
+also,1
+cultivate,1
+direct,1
+contact,1
+this,1
+is,1
+right,1

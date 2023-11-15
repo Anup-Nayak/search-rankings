@@ -1,0 +1,12 @@
+21,96,9
+impossibility,1
+in,1
+an,1
+atmosphere,1
+surcharged,1
+with,1
+the,1
+spirit,1
+of,1
+violence,2
+was,1

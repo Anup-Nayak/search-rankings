@@ -1,0 +1,6 @@
+47,30,2
+a,1
+bhangi,1
+brother,1
+from,1
+bulsar,1

@@ -1,0 +1,7 @@
+4,277,1
+220,1
+letter,1
+to,1
+haji,2
+dada,1
+habib,1

@@ -1,0 +1,3 @@
+18,442,3
+swadeshi,1
+sugar,1

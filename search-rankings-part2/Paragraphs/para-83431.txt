@@ -1,0 +1,6 @@
+24,359,8
+ajmal,1
+khan,1
+delhi,1
+anasuya,1
+sarabhai,1

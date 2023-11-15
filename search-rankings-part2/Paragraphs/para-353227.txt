@@ -1,0 +1,7 @@
+91,300,8
+l,1
+f,1
+are,1
+they,1
+adequately,1
+penitent,1

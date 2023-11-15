@@ -1,0 +1,13 @@
+35,261,10
+dear,1
+friend,1
+here,1
+is,1
+my,1
+message,1
+in,1
+reply,1
+to,1
+your,1
+circular,1
+letter,1

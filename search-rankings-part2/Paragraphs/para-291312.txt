@@ -1,0 +1,12 @@
+77,418,15
+world,1
+a,1
+crisis,1
+in,2
+which,2
+our,2
+danger,2
+is,1
+indias,2
+and,1
+ours,1

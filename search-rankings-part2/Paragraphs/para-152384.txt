@@ -1,0 +1,10 @@
+44,86,17
+municipality,1
+was,1
+alive,1
+to,1
+the,2
+elementary,1
+needs,1
+of,1
+citizens,1

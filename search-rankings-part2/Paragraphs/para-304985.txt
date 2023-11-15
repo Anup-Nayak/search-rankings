@@ -1,0 +1,4 @@
+80,482,2
+instructions,1
+to,1
+satyagrahis1,1

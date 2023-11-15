@@ -1,0 +1,9 @@
+73,2,9
+1,1
+the,2
+text,1
+of,1
+telegram,1
+is,1
+in,1
+english,1

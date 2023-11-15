@@ -1,0 +1,4 @@
+26,145,4
+66,1
+gorakhpurs,1
+crime,1

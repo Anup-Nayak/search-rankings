@@ -1,0 +1,15 @@
+21,498,18
+gandhi,1
+in,1
+several,1
+of,1
+his,1
+writings,1
+exhorts,1
+the,1
+indian,1
+christians,1
+and,2
+jews,1
+to,1
+come,1

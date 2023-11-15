@@ -1,0 +1,5 @@
+43,318,12
+3,1
+dhairya,1
+means,1
+patience,1

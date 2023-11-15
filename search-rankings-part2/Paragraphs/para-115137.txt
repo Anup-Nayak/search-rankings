@@ -1,0 +1,8 @@
+34,208,2
+1,1
+the,2
+original,1
+adds,1
+adjacent,1
+to,1
+farm,1

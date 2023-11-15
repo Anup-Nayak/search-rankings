@@ -1,0 +1,7 @@
+14,10,6
+stop,1
+during,1
+recent,1
+deadlock,1
+european,1
+railwaymens,1

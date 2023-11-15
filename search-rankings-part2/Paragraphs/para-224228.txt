@@ -1,0 +1,15 @@
+61,338,2
+in,1
+reply,1
+to,1
+a,1
+question,1
+gandhiji,1
+explained,1
+this,1
+point,1
+further,1
+and,1
+said,1
+that,1
+the,1

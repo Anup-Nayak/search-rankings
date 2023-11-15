@@ -1,0 +1,16 @@
+26,207,3
+a,1
+friend,1
+from,1
+lahore,1
+without,1
+giving,1
+his,1
+name,1
+sends,1
+me,1
+the,1
+following,1
+thundering,1
+note,1
+1,1

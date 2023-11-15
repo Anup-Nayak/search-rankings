@@ -1,0 +1,12 @@
+14,389,7
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+c,2
+w,1
+10999,1
+courtesy,1
+survakant,1

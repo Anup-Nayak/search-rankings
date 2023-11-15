@@ -1,0 +1,7 @@
+92,355,4
+517,1
+the,1
+coming,1
+congress,1
+session,1
+1,1

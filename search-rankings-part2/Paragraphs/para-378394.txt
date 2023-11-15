@@ -1,0 +1,7 @@
+98,177,3
+185,1
+khadi,1
+can,1
+remove,1
+cloth,1
+shortage,1

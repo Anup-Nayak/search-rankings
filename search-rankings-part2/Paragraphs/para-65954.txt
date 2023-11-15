@@ -1,0 +1,13 @@
+19,15,14
+from,1
+a,1
+photostat,1
+of,1
+the,1
+draft,1
+in,1
+gandhiji,1
+s,2
+hand,1
+n,1
+6920,1

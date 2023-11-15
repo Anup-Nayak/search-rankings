@@ -1,0 +1,11 @@
+73,439,11
+pyarelal,1
+let,1
+no,1
+one,1
+hurt,2
+mothers,1
+sentiments,1
+you,1
+will,1
+not,1

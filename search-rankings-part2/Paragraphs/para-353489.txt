@@ -1,0 +1,7 @@
+91,327,11
+lifts,1
+ban,1
+for,2
+visit,1
+sheikh,1
+abdullah,1

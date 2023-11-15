@@ -1,0 +1,8 @@
+13,144,18
+not,2
+be,1
+recognized,1
+by,1
+law,1
+stop,1
+am,1

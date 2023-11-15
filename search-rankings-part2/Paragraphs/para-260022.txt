@@ -1,0 +1,10 @@
+70,15,5
+we,1
+are,2
+good,1
+too,1
+all,1
+without,1
+exception,1
+you,1
+sure,1

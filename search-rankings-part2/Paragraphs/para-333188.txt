@@ -1,0 +1,7 @@
+86,435,14
+1,1
+a,1
+sentence,1
+here,1
+is,1
+obscure,1

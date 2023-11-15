@@ -1,0 +1,4 @@
+51,171,12
+darya,1
+ganj,1
+delhi,1

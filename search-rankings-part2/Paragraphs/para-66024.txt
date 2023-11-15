@@ -1,0 +1,10 @@
+19,24,3
+from,1
+a,2
+photostat,1
+of,1
+handwritten,1
+draft,1
+s,1
+n,1
+6926,1

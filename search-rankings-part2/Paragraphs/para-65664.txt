@@ -1,0 +1,13 @@
+18,452,2
+letter,1
+from,1
+g,1
+s,1
+arundale,1
+2nd,1
+line,1
+beach,1
+madras,1
+july,1
+26,1
+1919,1

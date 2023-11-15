@@ -1,0 +1,16 @@
+52,424,6
+to,1
+buy,1
+foreign,1
+cloth,1
+this,1
+was,1
+not,1
+the,1
+case,1
+with,1
+khoja,1
+women,2
+alone,1
+but,1
+hindu,1

@@ -1,0 +1,7 @@
+66,386,4
+580,1
+the,1
+extent,1
+of,1
+medical,1
+aid,1

@@ -1,0 +1,13 @@
+58,129,27
+gandhiji,1
+declared,1
+that,1
+the,3
+future,1
+was,1
+in,2
+hands,2
+of,1
+god,1
+and,1
+not,1

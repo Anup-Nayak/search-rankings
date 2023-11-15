@@ -1,0 +1,10 @@
+54,258,7
+romain,1
+rolland,1
+then,1
+you,2
+should,1
+have,1
+with,1
+american,1
+reporters,1

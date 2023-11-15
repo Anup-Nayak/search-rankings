@@ -1,0 +1,6 @@
+94,48,5
+60,1
+talk,1
+with,1
+fazlul,1
+huq,1

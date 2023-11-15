@@ -1,0 +1,11 @@
+73,161,2
+bombay,1
+may,1
+12,1
+1938,1
+rajkumari,1
+amrit,1
+kaur,1
+guest,1
+house,1
+bangalore,1

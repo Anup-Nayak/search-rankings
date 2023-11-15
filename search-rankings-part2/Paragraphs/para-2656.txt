@@ -1,0 +1,9 @@
+2,54,12
+therefore,1
+special,1
+responsibility,1
+attaches,1
+to,1
+the,2
+leaders,2
+however,1

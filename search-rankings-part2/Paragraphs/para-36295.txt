@@ -1,0 +1,9 @@
+11,297,16
+number,1
+of,1
+educated,1
+indians,1
+passed,1
+under,1
+the,1
+bill,1

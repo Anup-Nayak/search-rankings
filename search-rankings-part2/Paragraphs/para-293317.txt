@@ -1,0 +1,11 @@
+78,182,6
+1,2
+vide,1
+footnote,1
+of,1
+hindu,1
+muslim,1
+tangle,1
+29,1
+4,1
+1940,1

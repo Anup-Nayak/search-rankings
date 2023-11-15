@@ -1,0 +1,17 @@
+37,260,5
+i,1
+am,1
+the,12
+goal,1
+sustainer,1
+lord,1
+witness,1
+abode,1
+refuge,1
+freiend,1
+origin,1
+end,1
+preservation,1
+treasurehouse,1
+imperishable,1
+seed,1

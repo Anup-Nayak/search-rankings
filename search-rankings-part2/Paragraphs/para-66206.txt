@@ -1,0 +1,7 @@
+19,53,3
+c,1
+f,1
+andrews,1
+ferozepore,1
+road,1
+lahore,1

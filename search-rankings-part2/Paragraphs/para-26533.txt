@@ -1,0 +1,14 @@
+9,38,4
+dear,1
+mr,2
+cartwright,1
+i,1
+enclose,1
+herewith,1
+copy,1
+of,1
+my,1
+letter,1
+to,1
+hosken,1
+2,1

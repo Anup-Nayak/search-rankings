@@ -1,0 +1,15 @@
+4,123,1
+reimburse,1
+the,3
+poor,1
+men,1
+expenses,1
+that,1
+they,1
+might,1
+be,1
+put,1
+to,2
+owing,1
+councils,1
+mistakes,1

@@ -1,0 +1,5 @@
+17,205,4
+mohandas,1
+gandhi,1
+from,1
+hindi,1

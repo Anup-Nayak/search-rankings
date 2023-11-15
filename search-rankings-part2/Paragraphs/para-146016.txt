@@ -1,0 +1,3 @@
+42,362,2
+village,1
+sanitation,1

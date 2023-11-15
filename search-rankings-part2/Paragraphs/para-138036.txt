@@ -1,0 +1,8 @@
+40,283,2
+1,1
+the,2
+word,1
+is,1
+underlined,1
+in,1
+original,1

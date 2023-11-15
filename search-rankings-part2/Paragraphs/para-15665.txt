@@ -1,0 +1,16 @@
+6,48,3
+yours,1
+faithfully,1
+mrs,1
+g,1
+blair,1
+hon,1
+secretary,1
+liverpool,2
+indian,1
+famine,1
+fund,1
+21,1
+church,1
+road,1
+waterloo,1

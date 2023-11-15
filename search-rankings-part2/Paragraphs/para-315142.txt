@@ -1,0 +1,16 @@
+82,398,24
+other,1
+things,1
+are,1
+involved,1
+armies,1
+do,1
+not,1
+exist,1
+in,1
+a,1
+vacuum,1
+for,1
+instance,1
+the,1
+united,1

@@ -1,0 +1,7 @@
+74,40,4
+1,1
+the,1
+sunday,1
+preceding,1
+september,1
+24,1

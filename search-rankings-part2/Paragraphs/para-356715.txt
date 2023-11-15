@@ -1,0 +1,13 @@
+92,230,13
+q,1
+this,1
+provoked,1
+the,2
+question,1
+as,1
+to,1
+how,1
+one,1
+could,1
+overcome,1
+unpleasant,1

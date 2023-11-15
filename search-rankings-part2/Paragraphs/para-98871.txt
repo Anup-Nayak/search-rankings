@@ -1,0 +1,7 @@
+29,185,15
+friends,1
+must,1
+not,1
+worry,1
+over,1
+performance,1

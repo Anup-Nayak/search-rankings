@@ -1,0 +1,15 @@
+88,335,1
+to,1
+do,1
+and,1
+continue,1
+the,1
+work,1
+all,1
+this,1
+seems,1
+difficult,1
+write,1
+everything,1
+in,1
+brief,1

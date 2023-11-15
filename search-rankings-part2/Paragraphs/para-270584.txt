@@ -1,0 +1,12 @@
+72,405,9
+1,1
+for,1
+the,1
+congress,1
+session,1
+at,2
+haripura,1
+2,1
+juhu,1
+in,1
+bombay,1

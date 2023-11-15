@@ -1,0 +1,10 @@
+47,106,9
+persons,1
+employed,1
+for,1
+part,1
+of,1
+the,1
+year,1
+11,1
+crores,1

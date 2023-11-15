@@ -1,0 +1,7 @@
+39,121,5
+131,1
+letter,1
+to,1
+jamini,1
+bhushan,1
+mitra,1

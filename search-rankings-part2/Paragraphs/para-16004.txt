@@ -1,0 +1,7 @@
+6,78,7
+70,1
+letter,1
+to,1
+w,1
+h,1
+arathoon,1

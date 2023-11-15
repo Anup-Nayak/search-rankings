@@ -1,0 +1,9 @@
+30,208,20
+and,1
+did,1
+not,1
+take,1
+the,2
+lead,1
+in,1
+disturbances,1

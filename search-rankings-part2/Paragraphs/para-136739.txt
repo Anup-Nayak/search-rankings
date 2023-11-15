@@ -1,0 +1,8 @@
+40,34,1
+share,1
+the,1
+discredit,1
+if,1
+it,1
+becomes,1
+unsuccessful,1

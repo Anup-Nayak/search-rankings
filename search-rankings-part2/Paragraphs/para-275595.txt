@@ -1,0 +1,14 @@
+73,456,21
+and,2
+after,1
+all,1
+is,1
+said,1
+done,1
+one,1
+thing,1
+stands,1
+out,1
+in,1
+bold,1
+reliefgandhijis,1

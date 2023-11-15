@@ -1,0 +1,4 @@
+48,339,8
+as,1
+an,1
+individual,1

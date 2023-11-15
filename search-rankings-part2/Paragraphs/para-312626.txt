@@ -1,0 +1,3 @@
+82,232,3
+foreign,1
+soldiers,1

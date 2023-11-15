@@ -1,0 +1,7 @@
+29,275,4
+mahomed,1
+unable,1
+leave,1
+get,1
+dr,1
+mahmud,1

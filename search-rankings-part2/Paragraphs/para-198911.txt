@@ -1,0 +1,9 @@
+55,480,1
+552,1
+letter,1
+to,1
+d,1
+v,1
+parachure,1
+shastri,1
+1,1

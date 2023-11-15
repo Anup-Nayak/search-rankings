@@ -1,0 +1,8 @@
+77,111,10
+on,1
+the,1
+moving,1
+train,1
+november,1
+18,1
+1939,1

@@ -1,0 +1,13 @@
+26,80,8
+a,2
+practising,1
+lawyer,1
+can,1
+certainly,1
+wear,1
+khadi,1
+but,1
+he,1
+cannot,1
+be,1
+volunteer,1

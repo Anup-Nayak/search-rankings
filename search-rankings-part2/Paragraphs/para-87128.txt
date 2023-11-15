@@ -1,0 +1,8 @@
+25,439,2
+ready,1
+to,1
+sacrifice,1
+life,1
+but,1
+not,1
+property,1

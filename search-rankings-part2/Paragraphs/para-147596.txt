@@ -1,0 +1,8 @@
+43,57,2
+the,2
+pathway,1
+of,2
+love,1
+is,1
+ordeal,1
+fire,1

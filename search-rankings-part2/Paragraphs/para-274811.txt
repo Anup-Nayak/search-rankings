@@ -1,0 +1,17 @@
+73,386,5
+if,1
+shantikumar,1
+can,1
+pay,1
+the,1
+money,1
+let,2
+him,2
+do,2
+so,2
+not,1
+against,1
+his,1
+will,1
+at,1
+all,1

@@ -1,0 +1,12 @@
+54,131,5
+nick,1
+solomon,1
+esq,1
+214,1
+dickinson,1
+avenue,1
+swarthmore,1
+pa,1
+u,1
+s,1
+a,1

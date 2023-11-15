@@ -1,0 +1,6 @@
+75,123,4
+bore,1
+journey,1
+well,1
+talks,1
+begun,1

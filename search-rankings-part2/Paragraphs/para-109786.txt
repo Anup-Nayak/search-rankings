@@ -1,0 +1,15 @@
+32,332,13
+savings,1
+to,1
+fall,1
+back,1
+upon,1
+here,1
+there,1
+was,1
+no,2
+occupation,1
+save,1
+agriculture,1
+work,1
+and,1

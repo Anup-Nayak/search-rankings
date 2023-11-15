@@ -1,0 +1,6 @@
+78,85,1
+82,1
+letter,1
+to,1
+rev,1
+satchell,1

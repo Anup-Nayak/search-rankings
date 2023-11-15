@@ -1,0 +1,10 @@
+43,55,1
+morrow,1
+i,1
+hope,1
+the,1
+oven,1
+is,2
+finished,1
+chhotelal,1
+better,1

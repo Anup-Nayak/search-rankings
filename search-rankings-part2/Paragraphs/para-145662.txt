@@ -1,0 +1,6 @@
+42,320,4
+371,1
+letter,1
+to,1
+pyarelal,1
+chopra,1

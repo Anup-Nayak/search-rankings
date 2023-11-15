@@ -1,0 +1,13 @@
+94,8,6
+q,1
+do,1
+you,1
+support,1
+evacuation,1
+of,1
+the,3
+hindus,1
+from,1
+affected,1
+areas,1
+if,1

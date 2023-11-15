@@ -1,0 +1,8 @@
+89,152,2
+main,1
+camp,1
+sodepur,1
+contai,1
+january,1
+2,1
+1946,1

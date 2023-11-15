@@ -1,0 +1,11 @@
+10,414,5
+244,1
+speech,1
+at,1
+chinese,1
+reception,1
+to,1
+rev,1
+j,2
+doke,1
+4,1

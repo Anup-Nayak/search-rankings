@@ -1,0 +1,14 @@
+90,342,2
+421,1
+useful,1
+hints,1
+the,1
+following,1
+excerpts,1
+are,1
+taken,1
+from,1
+prof,1
+kumarappas,1
+1,1
+notes,1

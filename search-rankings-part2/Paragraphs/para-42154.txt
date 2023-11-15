@@ -1,0 +1,8 @@
+13,46,2
+phoenix,1
+april,1
+9,1
+1913,1
+interior,1
+cape,1
+town,1

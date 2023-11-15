@@ -1,0 +1,17 @@
+54,254,16
+q,1
+a,1
+few,1
+years,1
+ago,1
+i,1
+saw,1
+you,2
+dressed,1
+in,1
+european,1
+clothes,1
+why,1
+have,1
+abandoned,1
+them,1

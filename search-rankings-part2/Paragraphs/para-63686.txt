@@ -1,0 +1,7 @@
+18,128,18
+minal,1
+disobedience,1
+and,1
+anarchical,1
+crime,1
+or,1

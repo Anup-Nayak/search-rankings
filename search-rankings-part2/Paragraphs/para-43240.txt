@@ -1,0 +1,6 @@
+13,174,4
+117,1
+telegram,1
+to,1
+governor,1
+general,1

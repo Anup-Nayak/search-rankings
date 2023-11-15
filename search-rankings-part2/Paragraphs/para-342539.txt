@@ -1,0 +1,8 @@
+89,2,6
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+manoranjan,1
+chatterjee,1

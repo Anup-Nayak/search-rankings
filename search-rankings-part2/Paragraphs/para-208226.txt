@@ -1,0 +1,6 @@
+58,104,9
+mayashankar,1
+8,1
+jayakunvar,1
+doctor,1
+12,1

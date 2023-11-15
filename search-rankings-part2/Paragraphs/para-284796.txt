@@ -1,0 +1,8 @@
+76,108,5
+bapu,1
+lala,1
+shamlal,1
+m,1
+l,1
+a,1
+central,1

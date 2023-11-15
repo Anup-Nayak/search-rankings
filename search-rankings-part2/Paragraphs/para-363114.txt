@@ -1,0 +1,8 @@
+94,10,8
+shall,1
+gladly,1
+retrace,1
+step,1
+meanwhile,1
+do,1
+not,1

@@ -1,0 +1,4 @@
+9,475,6
+right,1
+thumb,1
+impression,1

@@ -1,0 +1,4 @@
+13,224,2
+10,1
+accidents,1
+drowning,1

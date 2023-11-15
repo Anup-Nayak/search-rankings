@@ -1,0 +1,15 @@
+31,245,10
+confined,1
+to,1
+the,2
+hindu,1
+religion,1
+onlyit,1
+was,1
+in,1
+fact,1
+corner,1
+stone,1
+of,1
+all,1
+religions,1

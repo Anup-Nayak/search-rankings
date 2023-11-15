@@ -1,0 +1,14 @@
+38,145,3
+26th,1
+belgaum,1
+8th,1
+bombay,2
+5th,1
+9th,1
+14th,1
+ashram,1
+6th,1
+7th,1
+akola,1
+manilals,1
+marriage,1

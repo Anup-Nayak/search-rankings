@@ -1,0 +1,15 @@
+38,255,15
+mehta,1
+but,1
+you,1
+will,2
+not,1
+vegetate,1
+your,1
+rest,1
+is,1
+work,1
+itself,1
+for,1
+it,1
+set,1

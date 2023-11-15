@@ -1,0 +1,12 @@
+92,402,8
+iv,1
+having,1
+access,1
+to,1
+a,1
+place,2
+of,2
+public,2
+amusement,1
+or,1
+entertainment,1

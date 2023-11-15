@@ -1,0 +1,5 @@
+61,93,8
+guide,1
+you,2
+god,1
+bless,1

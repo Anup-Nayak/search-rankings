@@ -1,0 +1,12 @@
+76,437,9
+war,1
+emergency,1
+sub,1
+committee,2
+and,1
+authorizes,1
+the,1
+working,1
+to,1
+take,1
+such,1

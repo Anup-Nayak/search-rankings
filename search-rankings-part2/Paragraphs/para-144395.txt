@@ -1,0 +1,9 @@
+42,185,1
+205,1
+draft,1
+inscription,1
+for,1
+jallianwala,1
+bagh,1
+memorial,1
+1,1

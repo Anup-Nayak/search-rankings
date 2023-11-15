@@ -1,0 +1,8 @@
+51,127,7
+news,1
+chronicle,1
+interview,1
+is,1
+a,1
+fair,1
+summary,1

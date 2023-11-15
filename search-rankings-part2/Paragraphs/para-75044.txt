@@ -1,0 +1,7 @@
+21,450,4
+teachers,1
+and,1
+pupils,1
+of,1
+gurukul,1
+3,1

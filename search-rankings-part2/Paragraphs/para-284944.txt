@@ -1,0 +1,11 @@
+76,125,2
+shri,1
+p,1
+g,1
+mathew,1
+gram,1
+udyog,1
+lodge,1
+nath,1
+mahal,1
+nagpur,1

@@ -1,0 +1,15 @@
+87,17,9
+bapu,1
+ps,1
+shrimati,1
+kauls,1
+address,1
+lady,1
+c,1
+kaul,1
+camp,1
+via,1
+sangrur,1
+zind,1
+state,1
+punjab,1

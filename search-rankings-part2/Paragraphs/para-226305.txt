@@ -1,0 +1,12 @@
+62,70,3
+bapu,1
+ps,1
+give,1
+me,1
+news,1
+about,1
+jaiji,1
+and,1
+also,1
+her,1
+address,1

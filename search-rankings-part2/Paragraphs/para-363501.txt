@@ -1,0 +1,10 @@
+94,50,18
+proverbial,1
+snowball,1
+gathering,1
+strength,1
+in,1
+geometrical,1
+progression,1
+encircling,1
+the,1

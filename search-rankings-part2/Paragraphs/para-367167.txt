@@ -1,0 +1,6 @@
+95,63,11
+1,1
+slow,1
+baked,1
+crisp,1
+chapatis,1

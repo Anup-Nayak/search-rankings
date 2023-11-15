@@ -1,0 +1,5 @@
+80,0,14
+1,1
+editor,1
+the,1
+statesman,1

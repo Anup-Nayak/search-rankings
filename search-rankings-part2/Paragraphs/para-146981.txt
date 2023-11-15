@@ -1,0 +1,12 @@
+42,468,10
+double,1
+the,2
+assessment,2
+in,1
+respect,1
+thereof,1
+excess,1
+of,1
+thus,1
+received,1
+was,1

@@ -1,0 +1,16 @@
+51,283,3
+where,1
+gandhi,1
+is,1
+the,2
+guide,1
+and,2
+vallabhbhai,1
+fighter,1
+there,1
+will,1
+always,1
+be,1
+victory,1
+wisdom,1
+prosperity,1

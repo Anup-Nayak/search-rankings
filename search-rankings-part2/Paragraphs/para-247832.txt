@@ -1,0 +1,9 @@
+67,102,12
+1,1
+satis,1
+chandra,1
+das,1
+gupta,1
+2,1
+ignorant,1
+attachment,1

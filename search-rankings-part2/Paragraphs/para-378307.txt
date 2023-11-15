@@ -1,0 +1,6 @@
+98,170,2
+1,1
+wavell,1
+centeen,1
+refugee,1
+camp,1

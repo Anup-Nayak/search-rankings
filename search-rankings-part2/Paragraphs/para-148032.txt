@@ -1,0 +1,12 @@
+43,111,9
+bapu,1
+mama,1
+saheb,1
+antyaj,1
+ashram,1
+godhara,1
+b,2
+&,1
+c,1
+i,1
+ry,1

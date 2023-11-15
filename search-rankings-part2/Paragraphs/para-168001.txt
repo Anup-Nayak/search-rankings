@@ -1,0 +1,6 @@
+48,236,6
+235,1
+telegram,1
+to,1
+jawaharlal,1
+nehru,1

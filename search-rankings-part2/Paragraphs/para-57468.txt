@@ -1,0 +1,9 @@
+16,382,11
+m,1
+k,1
+gandhi,1
+my,1
+permanent,1
+address,1
+is,1
+nadiad,1

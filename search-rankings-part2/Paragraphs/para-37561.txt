@@ -1,0 +1,15 @@
+11,432,1
+7,1
+a,1
+law,1
+similar,1
+to,1
+the,2
+one,1
+in,2
+transvaal,1
+which,1
+was,2
+passed,1
+rhodesia,1
+disallowed,1

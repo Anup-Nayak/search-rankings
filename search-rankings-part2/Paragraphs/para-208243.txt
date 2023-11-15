@@ -1,0 +1,7 @@
+58,105,5
+145,1
+letter,1
+to,1
+bechardas,1
+j,1
+doshi,1

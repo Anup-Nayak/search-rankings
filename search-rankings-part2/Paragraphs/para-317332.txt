@@ -1,0 +1,12 @@
+83,158,7
+1,1
+from,1
+the,2
+gujarati,1
+version,1
+published,1
+in,1
+harijanbandhu,1
+9,1
+8,1
+1942,1

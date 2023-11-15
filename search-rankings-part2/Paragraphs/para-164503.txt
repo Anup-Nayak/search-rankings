@@ -1,0 +1,17 @@
+47,249,5
+blessings,1
+from,1
+bapu,1
+shri,1
+prabhudas,1
+chhaganlal,1
+gandhi,1
+udyogagriha,1
+vijapur,1
+via,1
+kalol,1
+b,2
+&,1
+c,1
+i,1
+rly,1

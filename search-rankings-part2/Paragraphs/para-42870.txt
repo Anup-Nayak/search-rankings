@@ -1,0 +1,4 @@
+13,142,3
+interior,1
+cape,1
+town,1

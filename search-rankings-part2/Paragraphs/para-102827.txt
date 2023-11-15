@@ -1,0 +1,16 @@
+30,208,22
+a,2
+no,1
+none,1
+it,1
+is,1
+different,1
+thing,1
+if,1
+there,2
+were,1
+any,1
+sikhs,1
+standing,1
+as,1
+the,1

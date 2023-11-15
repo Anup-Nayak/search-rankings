@@ -1,0 +1,11 @@
+73,415,5
+gandhiji,1
+but,1
+what,2
+do,2
+you,2
+want,1
+and,1
+mean,1
+by,1
+satyagraha,1

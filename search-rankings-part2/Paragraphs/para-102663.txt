@@ -1,0 +1,16 @@
+30,199,6
+q,1
+did,2
+you,1
+try,1
+to,1
+prevent,1
+them,1
+from,1
+this,1
+and,1
+your,1
+efforts,1
+have,1
+any,1
+effect,1

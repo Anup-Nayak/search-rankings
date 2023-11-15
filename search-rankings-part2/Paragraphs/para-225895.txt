@@ -1,0 +1,5 @@
+62,19,2
+24,1
+slavery,1
+v,1
+untouchability,1

@@ -1,0 +1,15 @@
+11,150,8
+1,1
+pragji,1
+khandubhai,1
+desai,1
+a,1
+passive,1
+resister,1
+often,1
+contributed,1
+to,1
+indian,1
+opinion,1
+in,1
+gujarati,1

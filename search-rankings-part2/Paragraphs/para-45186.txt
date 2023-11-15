@@ -1,0 +1,8 @@
+13,430,11
+required,1
+eleven,1
+days,1
+hospital,1
+treatment,1
+phoenix,1
+school,1

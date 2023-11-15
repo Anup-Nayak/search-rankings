@@ -1,0 +1,12 @@
+17,62,7
+i,1
+repeat,1
+my,1
+request,1
+that,1
+you,1
+will,1
+not,1
+misunderstand,1
+this,1
+note,1

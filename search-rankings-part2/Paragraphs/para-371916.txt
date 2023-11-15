@@ -1,0 +1,13 @@
+96,250,19
+india,1
+was,2
+now,3
+free,1
+and,1
+the,1
+reality,1
+clearly,1
+revealed,1
+to,1
+him,1
+that,1

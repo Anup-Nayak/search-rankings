@@ -1,0 +1,9 @@
+12,284,2
+1,1
+squeezed,1
+out,1
+of,1
+wheat,1
+soaked,1
+in,1
+water,1

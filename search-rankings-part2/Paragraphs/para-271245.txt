@@ -1,0 +1,6 @@
+72,476,6
+627,1
+note,1
+to,1
+vallabhbhai,1
+patel,1

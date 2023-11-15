@@ -1,0 +1,11 @@
+32,310,10
+maharashtra,1
+party,1
+do,2
+not,1
+approve,2
+of,2
+it,1
+nor,1
+they,1
+khaddar,1

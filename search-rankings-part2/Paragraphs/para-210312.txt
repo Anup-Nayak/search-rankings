@@ -1,0 +1,11 @@
+58,312,33
+bill,1
+is,1
+merely,1
+permissive,1
+measure,1
+in,1
+that,1
+it,1
+makes,1
+open,1

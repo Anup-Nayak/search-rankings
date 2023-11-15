@@ -1,0 +1,5 @@
+98,365,2
+on,1
+arrival,1
+at,1
+wadi,1

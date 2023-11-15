@@ -1,0 +1,15 @@
+46,156,21
+foreign,1
+cloth,2
+for,1
+daily,1
+use,1
+we,1
+have,1
+still,1
+belief,1
+in,1
+the,1
+quality,1
+of,1
+khadi,1

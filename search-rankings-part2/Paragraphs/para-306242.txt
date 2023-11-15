@@ -1,0 +1,7 @@
+81,102,5
+191,1
+letter,1
+to,1
+pran,1
+krishna,1
+padhiary,1

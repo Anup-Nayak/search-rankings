@@ -1,0 +1,13 @@
+78,246,10
+1,1
+the,1
+source,1
+has,1
+this,1
+scribbled,1
+in,2
+pencil,1
+somebody,1
+else,1
+s,1
+hand,1

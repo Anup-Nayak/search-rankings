@@ -1,0 +1,6 @@
+15,196,12
+1,1
+by,1
+karachi,1
+bandhu,1
+mandal,1

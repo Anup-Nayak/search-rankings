@@ -1,0 +1,10 @@
+85,7,7
+pyarelal,1
+dr,1
+shyama,1
+prasad,1
+mukherjee,2
+77,1
+asutosh,1
+road,1
+calcutta,1

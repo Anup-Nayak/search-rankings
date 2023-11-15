@@ -1,0 +1,11 @@
+14,52,12
+senate,1
+paid,1
+a,1
+personal,1
+visit,1
+to,1
+mr,1
+gandhi,1
+at,1
+phoenix,1

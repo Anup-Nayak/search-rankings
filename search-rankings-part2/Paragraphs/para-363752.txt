@@ -1,0 +1,13 @@
+94,71,8
+situation,1
+might,1
+call,2
+for,1
+the,1
+employment,1
+of,1
+drastic,1
+measures,1
+how,1
+could,1
+they,1

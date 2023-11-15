@@ -1,0 +1,5 @@
+83,84,7
+conserving,1
+energy,1
+dont,1
+worry,1

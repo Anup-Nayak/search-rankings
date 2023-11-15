@@ -1,0 +1,7 @@
+78,168,5
+rameshwari,1
+nehru,1
+2,1
+wares,1
+road,1
+lahore,1

@@ -1,0 +1,6 @@
+58,423,8
+607,1
+statement,1
+to,1
+associated,1
+press,1

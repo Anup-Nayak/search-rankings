@@ -1,0 +1,7 @@
+57,311,26
+untouchable,1
+friends,1
+seeking,1
+emergent,1
+interview,1
+knowing,1

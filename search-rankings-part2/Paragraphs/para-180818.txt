@@ -1,0 +1,14 @@
+51,334,10
+mr,2
+nariman,1
+mrs,1
+naidu,1
+and,1
+aney,1
+speaking,1
+in,1
+hindi,1
+he,1
+referred,1
+to,1
+the,1

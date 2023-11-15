@@ -1,0 +1,7 @@
+9,28,2
+18,1
+trouble,1
+among,1
+cape,1
+indians,1
+1,1

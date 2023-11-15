@@ -1,0 +1,5 @@
+98,179,3
+187,1
+harijans,1
+in,1
+hostels1,1

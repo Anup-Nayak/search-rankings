@@ -1,0 +1,10 @@
+47,14,8
+d,1
+monthly,1
+sale,1
+locally,1
+and,1
+outside,1
+of,1
+khadi,1
+produced,1

@@ -1,0 +1,8 @@
+93,43,6
+bapu,1
+capt,1
+shah,1
+nawaz,1
+congress,1
+camp,1
+meerut,1

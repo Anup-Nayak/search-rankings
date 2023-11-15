@@ -1,0 +1,15 @@
+18,274,2
+1,1
+r,1
+p,1
+paranjapye,1
+principal,1
+fergusson,1
+college,1
+poona,1
+2,1
+magic,1
+formula,1
+but,1
+here,1
+message,1

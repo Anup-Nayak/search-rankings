@@ -1,0 +1,7 @@
+46,160,10
+the,2
+village,1
+for,1
+carrying,1
+on,1
+work,1

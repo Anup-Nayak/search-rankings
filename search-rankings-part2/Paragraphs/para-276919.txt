@@ -1,0 +1,9 @@
+74,140,8
+1,1
+gandhiji,1
+was,1
+in,1
+kohat,1
+on,1
+these,1
+dates,1

@@ -1,0 +1,10 @@
+10,76,9
+sir,1
+the,1
+following,1
+cablegram,1
+has,1
+been,1
+received,1
+from,1
+johannesburg,1

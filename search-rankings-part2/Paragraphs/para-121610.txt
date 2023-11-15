@@ -1,0 +1,10 @@
+36,32,4
+yours,1
+mohandas,1
+gandhi,1
+sjt,1
+banarasidas,1
+chaturvedi,1
+ferozabad,1
+u,1
+p,1

@@ -1,0 +1,16 @@
+82,265,8
+it,1
+is,1
+far,1
+more,1
+useful,1
+for,1
+the,1
+assamese,1
+to,1
+know,1
+bengali,1
+than,1
+hindi,1
+or,1
+urdu,1

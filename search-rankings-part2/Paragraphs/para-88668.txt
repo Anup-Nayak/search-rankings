@@ -1,0 +1,5 @@
+26,213,4
+rather,1
+free,1
+than,1
+sober,1

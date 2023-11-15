@@ -1,0 +1,7 @@
+13,205,5
+mountain,1
+view,1
+johannesburg,1
+july,1
+12,1
+1913,1

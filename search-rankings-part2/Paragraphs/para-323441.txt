@@ -1,0 +1,13 @@
+84,440,13
+letter,1
+s,2
+of,1
+the,1
+right,1
+honour,1
+able,1
+v,1
+sriniv,1
+asa,1
+sastri,1
+pp,1

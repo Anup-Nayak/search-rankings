@@ -1,0 +1,8 @@
+28,13,4
+5,1
+statement,1
+to,1
+associated,1
+press,1
+of,1
+india,1

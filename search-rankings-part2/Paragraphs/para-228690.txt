@@ -1,0 +1,7 @@
+62,382,2
+416,1
+speech,1
+at,1
+public,1
+meeting,1
+bangalore,1

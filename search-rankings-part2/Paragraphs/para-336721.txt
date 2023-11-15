@@ -1,0 +1,9 @@
+87,330,3
+hope,1
+your,1
+illness,1
+temporary,1
+and,1
+you,1
+are,1
+not,1

@@ -1,0 +1,10 @@
+76,437,4
+make,1
+in,1
+regard,1
+to,1
+its,1
+war,1
+and,1
+peace,1
+aims,1

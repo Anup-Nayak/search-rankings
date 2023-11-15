@@ -1,0 +1,4 @@
+33,400,3
+bishop,1
+fishers,1
+warning,1

@@ -1,0 +1,7 @@
+40,184,11
+111,1
+speech,1
+at,1
+womens,1
+meeting,1
+madura,1

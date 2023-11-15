@@ -1,0 +1,7 @@
+68,197,5
+lady,1
+hardinge,1
+medical,1
+college,1
+new,1
+delhi,1

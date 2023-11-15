@@ -1,0 +1,15 @@
+19,260,5
+what,1
+you,1
+say,1
+is,1
+really,1
+that,1
+the,2
+people,1
+burst,1
+out,1
+on,2
+your,1
+arrest,1
+10th,1

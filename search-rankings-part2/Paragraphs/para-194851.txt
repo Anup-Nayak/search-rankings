@@ -1,0 +1,9 @@
+54,464,15
+has,1
+delivered,1
+numerous,1
+speeches,1
+open,1
+to,1
+no,1
+other,1

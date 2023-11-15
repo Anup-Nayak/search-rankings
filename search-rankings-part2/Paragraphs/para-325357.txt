@@ -1,0 +1,7 @@
+85,155,8
+syed,1
+mustafa,1
+bar,1
+at,1
+law,1
+lucknow,1

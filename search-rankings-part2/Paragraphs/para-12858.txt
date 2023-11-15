@@ -1,0 +1,6 @@
+5,160,2
+151,1
+political,1
+turmoil,1
+in,1
+natal,1

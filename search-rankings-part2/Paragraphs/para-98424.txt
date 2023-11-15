@@ -1,0 +1,8 @@
+29,137,3
+wire,1
+full,1
+particulars,1
+here,1
+and,1
+delhi,1
+proceeding,1

@@ -1,0 +1,16 @@
+16,502,20
+might,1
+clear,1
+the,3
+air,1
+if,1
+h,3
+and,2
+two,1
+ms,1
+could,1
+see,1
+him,1
+together,1
+point,1
+out,1

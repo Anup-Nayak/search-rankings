@@ -1,0 +1,7 @@
+14,70,6
+mayor,1
+presiding,1
+publicly,1
+expressed,1
+sympathy,1
+with,1

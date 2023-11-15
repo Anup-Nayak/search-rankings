@@ -1,0 +1,7 @@
+72,341,12
+1,1
+vide,1
+k,1
+f,1
+narimans,1
+statement,1

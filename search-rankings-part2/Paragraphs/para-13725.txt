@@ -1,0 +1,12 @@
+5,305,5
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+c,1
+d,1
+179,1
+vol,1
+243,1

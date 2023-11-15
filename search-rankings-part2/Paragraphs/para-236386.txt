@@ -1,0 +1,10 @@
+64,342,2
+an,2
+english,2
+friends,1
+warning,1
+friend,1
+sends,1
+the,1
+following,1
+message,1

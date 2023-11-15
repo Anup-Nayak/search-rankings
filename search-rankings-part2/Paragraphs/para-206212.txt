@@ -1,0 +1,16 @@
+57,325,2
+mohandas,1
+gandhi,1
+sohanlal,1
+sharma,1
+president,1
+hindu,1
+sabha,1
+pushkar,1
+via,1
+ajmer,1
+b,2
+&,1
+c,1
+i,1
+rly,1

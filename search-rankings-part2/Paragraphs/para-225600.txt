@@ -1,0 +1,11 @@
+61,482,5
+c,1
+r,1
+then,1
+the,1
+mass,1
+struggle,1
+comes,1
+to,1
+an,1
+end,1

@@ -1,0 +1,5 @@
+16,0,1
+1,1
+indian,1
+colonial,1
+emigration,1

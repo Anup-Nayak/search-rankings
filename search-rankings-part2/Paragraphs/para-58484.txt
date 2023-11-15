@@ -1,0 +1,16 @@
+16,495,15
+12,1
+the,3
+matters,1
+mentioned,1
+herein,1
+below,1
+shall,1
+be,1
+exclusively,1
+under,1
+control,1
+of,1
+imperial,1
+legislative,1
+council,1

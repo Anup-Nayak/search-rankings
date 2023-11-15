@@ -1,0 +1,14 @@
+35,278,4
+g,1
+r,1
+s,1
+rao,1
+editor,1
+in,1
+chief,1
+praja,1
+mitra,1
+kamala,1
+vilas,1
+cottonpet,1
+bangalore,1

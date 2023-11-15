@@ -1,0 +1,12 @@
+80,170,2
+wardha,1
+april,1
+12,1
+1941,1
+rajrumari,1
+50,1
+empress,1
+road,1
+lahore,1
+omit,1
+delhi,1

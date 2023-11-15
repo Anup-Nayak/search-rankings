@@ -1,0 +1,8 @@
+18,128,17
+case,1
+discontent,1
+must,1
+either,1
+take,1
+form,1
+cri,1

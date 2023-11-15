@@ -1,0 +1,9 @@
+30,217,19
+q,1
+should,1
+they,1
+accept,1
+both,1
+of,1
+these,1
+conditions,1

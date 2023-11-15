@@ -1,0 +1,9 @@
+87,430,15
+required,1
+to,1
+accept,1
+or,1
+reject,1
+the,1
+proposals,1
+now,1

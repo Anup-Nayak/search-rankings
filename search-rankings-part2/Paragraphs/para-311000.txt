@@ -1,0 +1,15 @@
+82,96,6
+which,1
+he,1
+had,1
+offered,1
+in,2
+the,2
+course,1
+of,1
+our,1
+talks,1
+treatment,1
+will,1
+involve,1
+staying,1

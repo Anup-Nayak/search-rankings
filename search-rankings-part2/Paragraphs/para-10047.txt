@@ -1,0 +1,10 @@
+4,228,11
+speech,1
+causing,1
+no,1
+annoyance,1
+truthful,1
+pleasant,1
+and,2
+beneficial,1
+the,1

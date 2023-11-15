@@ -1,0 +1,6 @@
+32,1,4
+4,1
+telegram,1
+to,1
+urmila,1
+devi,1

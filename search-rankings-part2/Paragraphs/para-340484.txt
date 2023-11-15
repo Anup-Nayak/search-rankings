@@ -1,0 +1,9 @@
+88,208,12
+matter,1
+have,1
+taken,1
+no,1
+interest,1
+sardar,1
+rarely,1
+talks,1

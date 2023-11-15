@@ -1,0 +1,12 @@
+29,263,4
+r,1
+yes,1
+even,1
+if,1
+she,1
+may,1
+be,1
+of,1
+an,1
+ugly,1
+character,1

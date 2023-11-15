@@ -1,0 +1,9 @@
+15,25,1
+what,1
+the,1
+poor,1
+do,1
+and,1
+bear,1
+yourself,1
+accordingly,1

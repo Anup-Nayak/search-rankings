@@ -1,0 +1,10 @@
+56,173,2
+1,1
+gandhiji,1
+wrote,1
+on,1
+the,1
+subject,1
+in,1
+hind,1
+swaraj,1

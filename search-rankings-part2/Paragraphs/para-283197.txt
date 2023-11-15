@@ -1,0 +1,16 @@
+75,416,4
+polak,1
+and,1
+lord,1
+samuel,1
+tell,1
+me,1
+they,1
+have,1
+written,1
+to,1
+you,1
+about,1
+the,2
+attitude,1
+of,1

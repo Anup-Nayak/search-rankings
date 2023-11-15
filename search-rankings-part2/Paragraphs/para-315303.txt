@@ -1,0 +1,12 @@
+82,403,9
+l,1
+f,1
+wouldnt,1
+it,1
+be,1
+better,1
+to,2
+leave,1
+her,1
+the,1
+doctor,1

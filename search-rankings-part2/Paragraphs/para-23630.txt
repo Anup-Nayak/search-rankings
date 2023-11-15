@@ -1,0 +1,6 @@
+8,87,9
+48,1
+interview,1
+to,1
+the,1
+star,1

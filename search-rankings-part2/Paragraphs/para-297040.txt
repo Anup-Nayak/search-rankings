@@ -1,0 +1,10 @@
+79,146,2
+150,1
+letter,1
+to,1
+g,1
+v,1
+mavalankar,1
+august,1
+24,1
+1940,1

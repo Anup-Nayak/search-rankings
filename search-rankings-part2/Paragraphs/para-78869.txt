@@ -1,0 +1,12 @@
+23,77,8
+collection,1
+of,2
+one,2
+crore,2
+rupees,1
+by,1
+the,2
+30th,1
+june,1
+signatories,1
+to,1

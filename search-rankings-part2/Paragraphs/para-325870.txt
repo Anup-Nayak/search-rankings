@@ -1,0 +1,11 @@
+85,200,2
+blessings,1
+from,1
+bapu,1
+pandit,1
+sunderlalji,1
+8,1
+tukoganj,1
+main,1
+road,1
+indore,1

@@ -1,0 +1,12 @@
+66,329,7
+6,2
+bhringamalaka,1
+tailam,1
+hair,1
+oil,1
+2,1
+lbs,1
+10,1
+oz,1
+4,1
+0,1

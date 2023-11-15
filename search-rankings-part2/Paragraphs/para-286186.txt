@@ -1,0 +1,6 @@
+76,256,1
+335,1
+letter,1
+to,1
+popatlal,1
+chudgar,1

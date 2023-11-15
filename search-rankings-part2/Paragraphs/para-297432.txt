@@ -1,0 +1,6 @@
+79,194,5
+indians,1
+states,1
+and,1
+congress,1
+activity,1

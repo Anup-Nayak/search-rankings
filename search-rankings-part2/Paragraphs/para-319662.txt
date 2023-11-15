@@ -1,0 +1,7 @@
+84,44,4
+36,1
+telegram,1
+to,1
+m,2
+malaviya,1
+2,1

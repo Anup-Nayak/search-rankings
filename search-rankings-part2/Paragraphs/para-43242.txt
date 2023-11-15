@@ -1,0 +1,8 @@
+13,174,6
+his,1
+excellency,1
+lord,1
+gladstone,1
+governor,1
+general,1
+pretoria,1

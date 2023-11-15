@@ -1,0 +1,7 @@
+24,267,1
+138,1
+letter,1
+to,1
+manager,1
+eastern,1
+bank,1

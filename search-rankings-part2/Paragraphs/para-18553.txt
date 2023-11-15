@@ -1,0 +1,8 @@
+6,368,20
+waited,1
+colonial,1
+secretary,1
+placed,1
+compromise,1
+before,1
+him,1

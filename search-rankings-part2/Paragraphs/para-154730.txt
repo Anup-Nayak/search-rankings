@@ -1,0 +1,6 @@
+44,503,9
+t3,1
+guj,1
+has,1
+wired,1
+offering,1

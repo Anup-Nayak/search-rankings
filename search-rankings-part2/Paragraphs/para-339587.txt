@@ -1,0 +1,5 @@
+88,130,7
+kasturba,1
+nidhi,1
+bajajwadi,1
+wardha,1

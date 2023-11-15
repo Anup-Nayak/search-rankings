@@ -1,0 +1,17 @@
+94,225,2
+some,1
+thirty,1
+persons,1
+stood,1
+up,1
+and,1
+said,1
+do,2
+not,2
+hold,1
+the,1
+prayer,1
+we,1
+want,1
+your,1
+prayers,1

@@ -1,0 +1,15 @@
+13,166,5
+1,1
+surendrarai,1
+medh,1
+a,3
+satyagrahi,2
+2,1
+parsee,1
+rustomjee,1
+leading,1
+indian,1
+merchant,1
+of,1
+natal,1
+and,1

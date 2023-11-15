@@ -1,0 +1,5 @@
+29,44,2
+a,1
+badge,1
+of,1
+subservience,1

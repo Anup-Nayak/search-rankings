@@ -1,0 +1,6 @@
+56,2,3
+1,1
+son,1
+of,1
+maganlal,1
+gandhi,1

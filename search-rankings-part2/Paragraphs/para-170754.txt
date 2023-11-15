@@ -1,0 +1,5 @@
+49,138,1
+146,1
+calcutta,1
+and,1
+karachi,1

@@ -1,0 +1,6 @@
+18,40,6
+peaceful,1
+hartal,1
+bombays,1
+worthy,1
+example,1

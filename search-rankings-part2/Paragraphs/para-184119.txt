@@ -1,0 +1,8 @@
+52,208,10
+table,1
+conference,1
+and,2
+take,1
+full,1
+share,1
+deliberations,1

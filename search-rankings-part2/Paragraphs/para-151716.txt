@@ -1,0 +1,11 @@
+44,16,4
+40,1
+old,1
+orchard,1
+road,1
+chestnut,1
+hill,1
+mass,1
+u,1
+s,1
+a,1

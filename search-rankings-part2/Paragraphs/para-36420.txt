@@ -1,0 +1,9 @@
+11,304,17
+ters,1
+are,1
+not,1
+at,1
+all,1
+concerned,1
+with,1
+individual,1

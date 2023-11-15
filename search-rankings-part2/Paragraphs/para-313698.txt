@@ -1,0 +1,15 @@
+82,314,6
+for,1
+the,4
+dislike,1
+of,1
+british,1
+is,2
+so,1
+great,1
+that,1
+man,1
+in,1
+street,1
+ready,1
+to,1

@@ -1,0 +1,6 @@
+11,57,5
+transvaal,1
+british,1
+indians,1
+loyally,1
+congratulate,1

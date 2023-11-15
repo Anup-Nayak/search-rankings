@@ -1,0 +1,14 @@
+20,31,2
+the,2
+honble,2
+rai,1
+sitanath,1
+ray,1
+bahadur,1
+mr,1
+r,1
+a,1
+mant,1
+major,1
+general,1
+sir,1

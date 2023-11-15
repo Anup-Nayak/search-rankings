@@ -1,0 +1,6 @@
+46,157,25
+does,1
+not,1
+welcome,1
+the,1
+cow,1

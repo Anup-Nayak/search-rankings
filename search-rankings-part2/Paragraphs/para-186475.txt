@@ -1,0 +1,15 @@
+52,470,3
+districts,1
+on,1
+the,2
+basis,1
+of,1
+reductions,1
+made,1
+by,1
+government,1
+and,1
+though,1
+it,1
+is,1
+not,1

@@ -1,0 +1,6 @@
+24,402,2
+201,1
+speech,1
+to,1
+women,1
+bombay,1

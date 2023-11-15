@@ -1,0 +1,5 @@
+36,73,7
+yours,1
+srimati,1
+sujata,1
+calcutta,1

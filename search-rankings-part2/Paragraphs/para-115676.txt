@@ -1,0 +1,4 @@
+34,311,1
+45,1
+widow,1
+remarriage,1

@@ -1,0 +1,6 @@
+52,297,2
+an,1
+antyaja,1
+friend,1
+writes,1
+1,1

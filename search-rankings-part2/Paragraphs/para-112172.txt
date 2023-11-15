@@ -1,0 +1,4 @@
+33,216,2
+a,1
+khadi,1
+catalogue,1

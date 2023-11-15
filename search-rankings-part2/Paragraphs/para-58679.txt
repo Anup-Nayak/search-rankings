@@ -1,0 +1,7 @@
+16,507,8
+a,1
+letter,1
+from,1
+l,1
+f,1
+morshead,1

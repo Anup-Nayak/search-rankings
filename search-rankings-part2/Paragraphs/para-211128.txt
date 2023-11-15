@@ -1,0 +1,8 @@
+58,396,3
+m,1
+k,1
+gandhi,1
+lala,1
+shamlal,1
+advocate,1
+lahore,1

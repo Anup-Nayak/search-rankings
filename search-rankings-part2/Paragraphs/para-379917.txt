@@ -1,0 +1,11 @@
+98,370,2
+vandemataram,1
+from,1
+mohandas,1
+s,1
+a,1
+dave,1
+hajams,1
+pole,1
+dariyapur,1
+ahmedabad,1

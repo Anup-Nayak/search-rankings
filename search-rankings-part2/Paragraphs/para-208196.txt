@@ -1,0 +1,9 @@
+58,99,17
+1,1
+from,1
+diary,1
+1932,1
+entry,1
+under,1
+this,1
+date,1

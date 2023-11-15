@@ -1,0 +1,7 @@
+17,298,17
+no,2
+heart,1
+confidence,1
+in,1
+deputation,1
+rowlatt,1

@@ -1,0 +1,9 @@
+23,394,5
+m,1
+k,1
+gandhi,1
+the,1
+bombay,1
+chronicle,1
+7,2
+1921,1

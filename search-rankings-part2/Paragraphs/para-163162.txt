@@ -1,0 +1,5 @@
+47,92,4
+104,1
+letter,1
+to,1
+jagannath,1

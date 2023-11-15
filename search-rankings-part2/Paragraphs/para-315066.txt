@@ -1,0 +1,6 @@
+82,396,17
+before,1
+the,1
+invasion,1
+of,1
+russia,1

@@ -1,0 +1,14 @@
+1,472,10
+1,1
+totals,1
+carried,1
+forward,1
+from,1
+page,2
+to,1
+in,1
+the,1
+source,1
+have,1
+been,1
+omitted,1

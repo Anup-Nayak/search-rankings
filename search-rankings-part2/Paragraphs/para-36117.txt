@@ -1,0 +1,9 @@
+11,283,6
+cartwright,1
+he,1
+sees,1
+point,1
+clearly,1
+approves,1
+there,1
+can,1

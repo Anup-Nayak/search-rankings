@@ -1,0 +1,5 @@
+88,298,6
+574,1
+letter,1
+to,1
+hoshiari,1

@@ -1,0 +1,6 @@
+98,12,2
+a,1
+correspondent,1
+says,1
+in,1
+substance,1

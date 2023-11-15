@@ -1,0 +1,10 @@
+98,217,2
+blessings,1
+from,1
+m,1
+k,1
+gandhi,1
+kedarnath,1
+sahni,1
+magistrate,1
+karnal,1

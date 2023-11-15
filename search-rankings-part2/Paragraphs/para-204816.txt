@@ -1,0 +1,10 @@
+57,181,10
+i,1
+am,1
+delighted,1
+you,1
+have,1
+postponed,1
+your,1
+american,1
+visit,1

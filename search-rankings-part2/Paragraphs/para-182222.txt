@@ -1,0 +1,7 @@
+52,11,2
+14,1
+our,1
+duty,1
+to,1
+the,1
+villagers,1

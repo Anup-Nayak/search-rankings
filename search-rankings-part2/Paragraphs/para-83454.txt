@@ -1,0 +1,8 @@
+24,360,16
+abdul,1
+bari,1
+lucknow,1
+mia,1
+mahomed,1
+haji,1
+janmahomed,1

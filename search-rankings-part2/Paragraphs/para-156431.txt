@@ -1,0 +1,14 @@
+45,219,5
+bapu,1
+ps,1
+i,2
+have,1
+not,1
+asked,1
+father,1
+about,1
+andhra,1
+shall,1
+do,1
+so,1
+now,1

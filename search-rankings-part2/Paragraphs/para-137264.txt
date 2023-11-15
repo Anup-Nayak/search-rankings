@@ -1,0 +1,14 @@
+40,131,6
+1,1
+god,1
+in,1
+the,2
+form,1
+of,1
+poor,1
+2,1
+teacher,1
+literally,1
+one,1
+who,1
+spreads,1

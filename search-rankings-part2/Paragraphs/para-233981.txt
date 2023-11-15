@@ -1,0 +1,10 @@
+64,68,7
+the,3
+harijan,1
+sevak,1
+sangh,2
+worthy,1
+doctor,1
+suggested,1
+that,1
+might,1

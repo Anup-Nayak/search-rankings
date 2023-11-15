@@ -1,0 +1,14 @@
+27,465,14
+this,1
+third,1
+point,1
+was,1
+established,1
+in,1
+a,1
+letter,1
+to,1
+the,2
+secretary,1
+of,2
+minister,1

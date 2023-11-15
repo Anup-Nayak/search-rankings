@@ -1,0 +1,5 @@
+32,14,2
+16,1
+a,1
+domestic,1
+chapter,1

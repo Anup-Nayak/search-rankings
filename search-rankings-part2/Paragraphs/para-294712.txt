@@ -1,0 +1,11 @@
+78,307,14
+groups,1
+classes,1
+religions,1
+and,1
+occupations,1
+never,1
+before,1
+have,1
+so,1
+many,1

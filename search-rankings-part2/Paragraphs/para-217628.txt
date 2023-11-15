@@ -1,0 +1,10 @@
+60,66,10
+90,1
+letter,1
+to,1
+narahari,1
+d,1
+parikh,1
+march,1
+17,1
+1933,1

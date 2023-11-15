@@ -1,0 +1,6 @@
+13,430,19
+library,1
+books,1
+not,1
+issued,1
+prevented,1

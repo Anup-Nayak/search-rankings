@@ -1,0 +1,4 @@
+96,132,2
+195,1
+scheduled,1
+castes,1

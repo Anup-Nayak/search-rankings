@@ -1,0 +1,13 @@
+97,8,12
+1,2
+vide,1
+the,1
+preceding,1
+item,1
+and,1
+letter,1
+to,1
+narandas,1
+gandhi,1
+10,1
+1947,1

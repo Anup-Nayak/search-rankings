@@ -1,0 +1,6 @@
+85,12,7
+bapu,1
+dr,1
+syed,1
+mahmud,1
+bombay,1

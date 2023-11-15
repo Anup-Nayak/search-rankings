@@ -1,0 +1,7 @@
+42,268,6
+satyagraha,1
+ashram,1
+sabarmati,1
+july,1
+21,1
+1928,1

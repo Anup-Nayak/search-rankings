@@ -1,0 +1,11 @@
+23,282,10
+the,4
+rich,1
+or,1
+are,2
+you,2
+on,2
+side,2
+of,2
+poor,1
+mammon,1

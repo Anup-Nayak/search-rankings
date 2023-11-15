@@ -1,0 +1,11 @@
+44,479,22
+t2,1
+guj,1
+does,1
+not,1
+have,1
+this,1
+word,1
+chapter,1
+vi,1
+pp,1

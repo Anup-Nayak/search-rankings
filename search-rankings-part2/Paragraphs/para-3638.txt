@@ -1,0 +1,7 @@
+2,154,7
+to,2
+amend,1
+the,1
+laws,1
+relating,1
+quarantine,1

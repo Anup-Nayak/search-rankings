@@ -1,0 +1,7 @@
+63,286,2
+318,1
+temple,1
+entry,1
+v,1
+economic,1
+uplift,1

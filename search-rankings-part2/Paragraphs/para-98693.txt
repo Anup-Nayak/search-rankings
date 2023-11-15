@@ -1,0 +1,14 @@
+29,164,14
+1,1
+as,1
+given,1
+by,1
+the,3
+addressee,1
+2,1
+from,1
+reference,1
+to,1
+21,1
+day,1
+fast,1

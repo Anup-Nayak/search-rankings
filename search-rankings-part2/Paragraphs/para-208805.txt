@@ -1,0 +1,13 @@
+58,159,6
+whether,1
+they,1
+are,1
+temple,1
+goers,1
+or,1
+not,1
+1,1
+if,1
+this,1
+is,1
+so,1

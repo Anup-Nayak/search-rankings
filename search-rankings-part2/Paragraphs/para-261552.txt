@@ -1,0 +1,10 @@
+70,190,2
+i,3
+believe,2
+in,2
+the,3
+bible,1
+as,1
+gita,1
+regard,1
+all,1

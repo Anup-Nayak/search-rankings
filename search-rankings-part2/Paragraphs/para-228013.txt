@@ -1,0 +1,16 @@
+62,291,21
+drink,1
+and,2
+eating,1
+carrion,1
+cow,1
+flesh,1
+to,2
+give,1
+up,1
+these,1
+no,1
+one,1
+who,1
+was,1
+addicted,1

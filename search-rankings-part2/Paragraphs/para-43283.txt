@@ -1,0 +1,14 @@
+13,176,9
+2,1
+passive,1
+resistance,1
+will,1
+be,1
+resumed,1
+probably,1
+at,1
+the,2
+beginning,1
+of,1
+next,1
+month,1

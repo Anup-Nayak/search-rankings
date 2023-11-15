@@ -1,0 +1,6 @@
+73,90,6
+87,1
+talk,1
+with,1
+prisoners,1
+1,1

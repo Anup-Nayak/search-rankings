@@ -1,0 +1,5 @@
+75,163,7
+broke,1
+fast,1
+thank,1
+god,1

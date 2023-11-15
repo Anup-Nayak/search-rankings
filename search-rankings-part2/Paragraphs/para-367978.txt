@@ -1,0 +1,12 @@
+95,175,2
+i,2
+understand,1
+wont,1
+take,1
+any,1
+more,1
+of,1
+your,1
+time,1
+from,1
+gujarati,1

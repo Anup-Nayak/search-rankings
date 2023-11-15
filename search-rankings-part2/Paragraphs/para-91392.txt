@@ -1,0 +1,8 @@
+27,126,4
+not,1
+ready,1
+give,1
+opinion,1
+council,1
+entry,1
+till,1

@@ -1,0 +1,10 @@
+44,483,22
+t7,1
+for,1
+upper,1
+ten,1
+guj,1
+has,1
+officials,1
+and,1
+politicians,1

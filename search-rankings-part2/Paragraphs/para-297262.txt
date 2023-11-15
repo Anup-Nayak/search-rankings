@@ -1,0 +1,14 @@
+79,173,7
+b,1
+but,1
+you,1
+lay,1
+down,1
+the,1
+same,1
+law,1
+for,1
+a,2
+saint,1
+and,1
+robber,1

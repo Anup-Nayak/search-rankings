@@ -1,0 +1,6 @@
+5,456,3
+a,1
+commission,1
+as,1
+an,1
+alternative,1

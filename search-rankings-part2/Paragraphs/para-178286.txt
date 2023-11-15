@@ -1,0 +1,17 @@
+51,56,7
+bapu,1
+ps,1
+you,1
+are,1
+now,1
+entering,1
+the,1
+seventeenth,1
+year,1
+keep,1
+growing,1
+in,2
+character,1
+as,2
+well,1
+age,1

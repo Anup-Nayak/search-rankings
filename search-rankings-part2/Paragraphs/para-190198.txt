@@ -1,0 +1,13 @@
+53,422,7
+q,1
+has,1
+congress,1
+reached,1
+any,2
+conclusion,2
+a,1
+not,1
+positive,1
+it,1
+is,1
+difficult,1

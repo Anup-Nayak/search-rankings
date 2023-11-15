@@ -1,0 +1,7 @@
+57,344,5
+1,1
+vandemataram,1
+2,1
+god,1
+as,1
+truth,1

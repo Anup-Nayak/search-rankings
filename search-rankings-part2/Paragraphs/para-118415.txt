@@ -1,0 +1,9 @@
+35,123,1
+your,1
+health,1
+can,1
+bear,1
+the,2
+strain,1
+of,1
+visit,1

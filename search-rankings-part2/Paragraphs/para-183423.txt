@@ -1,0 +1,6 @@
+52,141,3
+the,1
+representation,1
+of,1
+a,1
+spinner,1

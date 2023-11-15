@@ -1,0 +1,9 @@
+80,422,20
+the,2
+district,1
+concerned,1
+in,1
+north,1
+west,1
+frontier,1
+province,1

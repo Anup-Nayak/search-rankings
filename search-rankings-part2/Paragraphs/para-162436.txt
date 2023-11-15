@@ -1,0 +1,4 @@
+47,8,2
+your,1
+well,1
+wisher,1

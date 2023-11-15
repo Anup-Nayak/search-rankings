@@ -1,0 +1,13 @@
+82,393,4
+the,2
+social,1
+political,1
+administrative,1
+and,1
+other,1
+requirements,1
+of,1
+country,1
+as,1
+a,1
+whole,1

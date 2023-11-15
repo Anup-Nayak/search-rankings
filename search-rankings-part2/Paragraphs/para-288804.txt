@@ -1,0 +1,13 @@
+77,99,12
+1,1
+shumshere,1
+singh,1
+the,2
+addressees,2
+brother,1
+a,1
+retired,1
+surgeon,1
+2,1
+pet,1
+dog,1

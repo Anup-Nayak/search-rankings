@@ -1,0 +1,12 @@
+28,86,3
+q,1
+dont,1
+you,1
+think,1
+that,1
+englishmen,1
+also,1
+fall,1
+under,1
+this,1
+category,1

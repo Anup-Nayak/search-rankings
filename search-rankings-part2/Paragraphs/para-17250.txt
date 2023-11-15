@@ -1,0 +1,6 @@
+6,199,7
+please,1
+move,1
+government,1
+regarding,1
+ordinance,1

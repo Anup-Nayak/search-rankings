@@ -1,0 +1,17 @@
+21,348,19
+living,1
+a,1
+duty,1
+imposed,1
+upon,1
+them,1
+and,1
+use,1
+the,2
+clothes,1
+made,1
+of,1
+yarn,1
+spun,1
+by,1
+their,1

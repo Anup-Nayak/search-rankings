@@ -1,0 +1,10 @@
+71,70,5
+2,1
+lakshmi,1
+devdas,1
+gandhis,1
+wife,1
+daughter,1
+of,1
+c,1
+rajagopalachari,1

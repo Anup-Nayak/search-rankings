@@ -1,0 +1,12 @@
+38,419,3
+m,1
+k,1
+gandhi,1
+mrs,1
+isabel,1
+bamlet,1
+c/o,1
+the,1
+bristol,1
+hotel,1
+calcutta,1

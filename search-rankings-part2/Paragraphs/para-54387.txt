@@ -1,0 +1,12 @@
+15,480,6
+1,1
+no,1
+indigo,1
+to,1
+be,1
+grown,1
+except,1
+in,1
+a,1
+voluntary,1
+system,1

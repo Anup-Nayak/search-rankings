@@ -1,0 +1,14 @@
+31,343,5
+i,1
+do,1
+not,1
+know,1
+whether,1
+he,2
+went,1
+away,1
+convinced,1
+but,1
+apologized,1
+for,1
+having,1

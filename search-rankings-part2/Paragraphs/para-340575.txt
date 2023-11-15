@@ -1,0 +1,4 @@
+88,216,5
+nature,1
+cure,1
+clinic,1

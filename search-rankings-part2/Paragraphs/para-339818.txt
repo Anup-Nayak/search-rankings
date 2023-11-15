@@ -1,0 +1,9 @@
+88,150,10
+1,1
+for,1
+the,1
+letter,1
+to,2
+mridula,2
+sarabhai,2
+videletter,1

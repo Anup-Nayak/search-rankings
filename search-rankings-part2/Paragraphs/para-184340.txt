@@ -1,0 +1,7 @@
+52,236,4
+325,1
+letter,1
+to,1
+narayan,1
+moreshwar,1
+khare,1

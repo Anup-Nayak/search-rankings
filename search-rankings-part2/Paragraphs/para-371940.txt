@@ -1,0 +1,11 @@
+96,251,9
+but,1
+great,1
+teachers,1
+who,1
+had,2
+practised,1
+what,1
+they,1
+preached,1
+successfully,1

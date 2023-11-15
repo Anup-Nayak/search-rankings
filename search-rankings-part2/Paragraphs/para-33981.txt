@@ -1,0 +1,6 @@
+11,48,2
+colonial,1
+born,1
+indians,1
+and,1
+others,1

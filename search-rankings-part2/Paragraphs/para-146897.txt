@@ -1,0 +1,12 @@
+42,464,12
+cash,1
+rents,1
+the,1
+third,1
+question,1
+which,1
+demands,1
+consideration,1
+is,1
+whether,1
+abnormal,1

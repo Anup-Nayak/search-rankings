@@ -1,0 +1,15 @@
+81,510,26
+social,1
+elements,1
+in,1
+the,2
+country,1
+to,2
+avoid,1
+emergence,1
+of,1
+such,1
+a,1
+situation,1
+and,1
+meet,1

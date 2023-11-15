@@ -1,0 +1,11 @@
+21,476,3
+withdraw,1
+students,1
+from,1
+the,1
+government,1
+colleges,1
+without,1
+making,1
+sufficient,1
+provision,1

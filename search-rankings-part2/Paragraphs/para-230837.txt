@@ -1,0 +1,14 @@
+63,213,10
+this,2
+was,1
+the,4
+condition,1
+of,2
+village,2
+and,1
+its,1
+people,1
+before,1
+starting,1
+sangham,1
+in,1

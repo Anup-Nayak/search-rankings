@@ -1,0 +1,8 @@
+44,394,2
+chapter,1
+xiv,1
+face,2
+to,1
+with,1
+ahimsa,1
+t1,1

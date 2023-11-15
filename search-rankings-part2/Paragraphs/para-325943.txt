@@ -1,0 +1,12 @@
+85,205,8
+he,2
+is,2
+not,1
+anxious,1
+to,1
+undertake,1
+a,1
+fast,1
+praying,1
+for,1
+light,1

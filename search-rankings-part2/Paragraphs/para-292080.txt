@@ -1,0 +1,3 @@
+78,46,7
+sevagram,1
+wardha,1

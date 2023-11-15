@@ -1,0 +1,5 @@
+51,98,19
+difficulties,1
+were,1
+got,1
+over,1

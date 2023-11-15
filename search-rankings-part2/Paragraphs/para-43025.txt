@@ -1,0 +1,8 @@
+13,149,10
+obtainable,1
+cape,1
+times,1
+office,1
+interior,1
+has,1
+full,1

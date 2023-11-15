@@ -1,0 +1,11 @@
+89,98,4
+shri,1
+h,1
+c,1
+dasappa,1
+gurukul,1
+ashram,1
+kengri,1
+post,1
+via,1
+bangalore,1

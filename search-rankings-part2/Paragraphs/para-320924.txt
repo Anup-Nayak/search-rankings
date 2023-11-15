@@ -1,0 +1,8 @@
+84,165,10
+rajajis,1
+offer,1
+supercedes,1
+previous,1
+writing,1
+if,1
+contrary,1

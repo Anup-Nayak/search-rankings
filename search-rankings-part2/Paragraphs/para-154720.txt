@@ -1,0 +1,10 @@
+44,502,16
+t4,1
+guj,3
+adds,2
+unbelievable,1
+t5,1
+has,1
+ability,1
+t6,1
+even,1

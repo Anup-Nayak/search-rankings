@@ -1,0 +1,13 @@
+13,183,5
+1,1
+form,1
+of,2
+metallic,1
+medication,1
+in,1
+ayurveda,1
+2,1
+bhasma,1
+with,1
+properties,1
+iron,1

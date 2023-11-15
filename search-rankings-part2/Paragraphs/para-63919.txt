@@ -1,0 +1,11 @@
+18,155,4
+of,3
+the,4
+resolution,1
+committee,1
+sabha,1
+passed,1
+on,1
+15th,1
+june,1
+19,1

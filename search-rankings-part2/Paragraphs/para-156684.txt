@@ -1,0 +1,5 @@
+45,255,3
+241,1
+conceit,1
+and,1
+ignorance,1

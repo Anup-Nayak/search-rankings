@@ -1,0 +1,13 @@
+82,408,8
+how,1
+he,3
+had,1
+slept,1
+said,1
+usually,1
+sleeps,1
+from,1
+9,1
+30,2
+to,1
+4,1

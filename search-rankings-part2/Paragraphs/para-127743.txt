@@ -1,0 +1,13 @@
+37,284,13
+1,2
+xiii,3
+2,2
+3,2
+&,1
+4,2
+aphorisms,1
+on,1
+vedanta,1
+philosophy,1
+by,1
+badarayana,1

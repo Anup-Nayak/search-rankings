@@ -1,0 +1,15 @@
+79,25,12
+e,1
+k,1
+we,2
+are,1
+sinners,1
+all,1
+and,1
+have,1
+but,1
+to,2
+accept,1
+him,1
+be,1
+saved,1

@@ -1,0 +1,7 @@
+13,150,11
+not,1
+settle,1
+outstanding,1
+questions,1
+am,1
+convinced,1

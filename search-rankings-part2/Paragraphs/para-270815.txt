@@ -1,0 +1,11 @@
+72,425,10
+1,1
+a,1
+legendary,1
+bird,1
+supposed,1
+to,1
+drink,1
+only,1
+rain,1
+drops,1

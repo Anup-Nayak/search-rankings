@@ -1,0 +1,7 @@
+3,204,5
+relief,1
+before,1
+tour,1
+regarding,1
+plague,1
+embargo,1

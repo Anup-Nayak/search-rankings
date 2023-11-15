@@ -1,0 +1,7 @@
+16,242,1
+139,1
+letter,1
+to,1
+someone,1
+in,1
+ranchi,1

@@ -1,0 +1,6 @@
+84,52,3
+amtussalaam,1
+care,1
+pioneer,1
+bank,1
+comilla,1

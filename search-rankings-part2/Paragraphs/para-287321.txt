@@ -1,0 +1,12 @@
+76,386,7
+a,2
+demand,1
+from,1
+different,1
+places,1
+for,1
+introduction,1
+of,1
+hand,1
+spinning,1
+separate,1

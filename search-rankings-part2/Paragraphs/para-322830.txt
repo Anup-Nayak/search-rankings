@@ -1,0 +1,7 @@
+84,377,7
+511,1
+letter,1
+to,1
+ahmed,1
+nawaz,1
+jung,1

@@ -1,0 +1,6 @@
+39,121,3
+blair,1
+mall,1
+villa,1
+3,1
+darjeeling,1

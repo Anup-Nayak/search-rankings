@@ -1,0 +1,13 @@
+95,35,7
+wired,1
+barve,1
+about,2
+guruji,1
+2,1
+siddamappa,1
+bassappa,1
+fasting,1
+know,1
+nothing,1
+it,1
+inquire,1

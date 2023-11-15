@@ -1,0 +1,8 @@
+36,423,14
+is,1
+any,1
+truth,1
+rumour,1
+shastri,1
+unable,1
+go,1

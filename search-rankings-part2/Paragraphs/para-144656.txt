@@ -1,0 +1,12 @@
+42,211,16
+1,1
+vide,2
+the,1
+preceding,1
+item,1
+2,1
+satyagraha,1
+ashram,1
+june,1
+14,1
+1928,1

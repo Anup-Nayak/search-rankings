@@ -1,0 +1,15 @@
+80,188,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+shri,1
+sachindra,1
+nath,1
+mitra,1
+5/2,1
+kantapukur,1
+lane,1
+baghabazar,1
+calcutta,1

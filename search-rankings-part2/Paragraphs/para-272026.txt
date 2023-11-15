@@ -1,0 +1,17 @@
+73,78,1
+i,1
+often,1
+thought,1
+of,1
+you,2
+in,1
+delang,1
+and,2
+wished,1
+were,1
+there,2
+was,1
+much,1
+to,1
+see,1
+learn,1

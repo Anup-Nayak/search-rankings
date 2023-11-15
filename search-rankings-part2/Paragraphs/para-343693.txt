@@ -1,0 +1,7 @@
+89,127,6
+192,1
+letter,1
+to,1
+narayan,1
+m,1
+desai,1

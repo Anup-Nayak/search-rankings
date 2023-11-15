@@ -1,0 +1,15 @@
+94,51,8
+a,1
+gandhiji,1
+remarked,1
+that,1
+the,1
+question,1
+had,1
+been,1
+well,1
+put,1
+he,1
+did,1
+not,1
+exactly,1

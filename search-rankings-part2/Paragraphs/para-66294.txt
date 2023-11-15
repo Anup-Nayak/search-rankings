@@ -1,0 +1,7 @@
+19,65,2
+ahmedabad,1
+before,1
+october,1
+22,1
+1919,1
+1,1

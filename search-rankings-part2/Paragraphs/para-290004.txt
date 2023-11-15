@@ -1,0 +1,15 @@
+77,255,4
+yours,1
+sincerely,1
+m,1
+k,2
+gandhi,1
+shrimati,1
+l,1
+rallia,1
+ram,1
+6,1
+goulding,1
+road,1
+lahore,1
+punjab,1

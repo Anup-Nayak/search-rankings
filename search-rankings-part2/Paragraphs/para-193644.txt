@@ -1,0 +1,8 @@
+54,350,4
+resolution,1
+tentatively,1
+sketching,1
+a,1
+plan,1
+of,1
+civil,1

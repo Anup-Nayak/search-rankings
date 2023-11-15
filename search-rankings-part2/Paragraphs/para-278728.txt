@@ -1,0 +1,10 @@
+74,350,1
+467,1
+draft,1
+of,1
+statement,1
+for,1
+hyderabad,1
+state,1
+congress,1
+1,1

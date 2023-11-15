@@ -1,0 +1,14 @@
+31,191,5
+are,1
+better,1
+brahmins,2
+in,1
+the,1
+best,1
+sense,1
+of,1
+that,1
+term,1
+than,1
+most,1
+birth,1

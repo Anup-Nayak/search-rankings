@@ -1,0 +1,17 @@
+30,208,15
+occasion,1
+of,1
+a,1
+private,1
+talk,1
+with,1
+the,1
+deputation,1
+was,1
+given,1
+to,1
+me,1
+had,1
+i,1
+done,1
+anything,1

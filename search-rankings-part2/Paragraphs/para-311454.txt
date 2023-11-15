@@ -1,0 +1,15 @@
+82,133,14
+am,1
+a,1
+humble,1
+follower,1
+of,2
+your,1
+noble,1
+creed,1
+non,1
+violence,1
+it,1
+was,1
+with,1
+the,1

@@ -1,0 +1,8 @@
+82,316,8
+from,1
+c,1
+w,1
+10352,1
+courtesy,1
+visvabharati,1
+santiniketan,1

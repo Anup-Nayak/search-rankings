@@ -1,0 +1,11 @@
+12,368,4
+1,1
+morris,1
+alexander,1
+jewish,1
+member,1
+of,1
+parliament,1
+from,1
+cape,1
+town,1

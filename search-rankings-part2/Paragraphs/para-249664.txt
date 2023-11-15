@@ -1,0 +1,10 @@
+67,286,3
+a,1
+it,1
+is,1
+because,1
+man,1
+attributes,1
+weakness,1
+to,1
+woman,1

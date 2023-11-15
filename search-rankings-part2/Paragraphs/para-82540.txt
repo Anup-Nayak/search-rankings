@@ -1,0 +1,6 @@
+24,207,2
+if,1
+ali,1
+brothers,1
+are,1
+arrested,1

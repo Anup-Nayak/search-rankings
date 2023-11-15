@@ -1,0 +1,15 @@
+96,441,3
+i,2
+said,1
+assumed,1
+that,2
+mr,1
+gandhi,1
+quite,1
+understood,1
+in,1
+the,1
+event,1
+of,1
+a,1
+war,1

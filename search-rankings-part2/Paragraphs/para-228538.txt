@@ -1,0 +1,5 @@
+62,364,8
+bapuna,1
+bane,1
+patro,1
+pp,1

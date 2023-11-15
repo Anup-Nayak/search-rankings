@@ -1,0 +1,14 @@
+98,175,12
+it,1
+will,1
+be,1
+noticed,1
+that,1
+prices,1
+of,1
+sugar,1
+have,1
+fallen,1
+by,1
+50,1
+p,1

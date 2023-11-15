@@ -1,0 +1,12 @@
+51,448,16
+by,1
+government,1
+compensation,1
+will,2
+not,2
+be,2
+given,1
+and,1
+the,1
+sale,1
+proceeds,1

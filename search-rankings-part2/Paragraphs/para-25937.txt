@@ -1,0 +1,12 @@
+8,469,9
+mr,1
+gandhi,1
+who,2
+defended,1
+called,1
+imam,1
+abdool,1
+cadir,1
+bawazeer,1
+said,1
+in,1

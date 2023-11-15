@@ -1,0 +1,14 @@
+49,125,6
+soldiers,1
+suffering,1
+and,2
+receiving,1
+bullets,1
+on,1
+their,1
+own,1
+chests,1
+out,1
+of,2
+the,1
+ashes,1

@@ -1,0 +1,6 @@
+85,209,2
+331,1
+letter,1
+to,1
+malik,1
+wahid,1

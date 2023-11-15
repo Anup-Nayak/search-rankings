@@ -1,0 +1,15 @@
+93,302,2
+muslims,1
+are,1
+those,1
+who,1
+perform,1
+their,3
+trust,1
+and,2
+fail,1
+not,1
+in,1
+word,1
+keep,1
+pledge,1

@@ -1,0 +1,6 @@
+45,150,2
+151,1
+how,1
+to,1
+conquer,1
+desire,1

@@ -1,0 +1,7 @@
+6,292,4
+call,1
+not,2
+man,2
+god,2
+for,1
+is,1

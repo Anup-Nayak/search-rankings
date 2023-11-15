@@ -1,0 +1,10 @@
+24,470,7
+your,1
+letter,1
+dated,1
+30th,1
+reached,1
+me,1
+by,1
+post,1
+yesterday,1

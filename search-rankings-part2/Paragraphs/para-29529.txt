@@ -1,0 +1,10 @@
+9,469,3
+minor,1
+shall,1
+mean,1
+under,1
+the,1
+age,1
+of,1
+sixteen,1
+years,1

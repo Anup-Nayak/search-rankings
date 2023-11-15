@@ -1,0 +1,10 @@
+4,228,6
+fearlessness,1
+sattvic,1
+purity,1
+steadfast,1
+pursuit,1
+of,2
+wisdom,1
+charity,1
+control,1

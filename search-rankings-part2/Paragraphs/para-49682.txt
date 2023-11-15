@@ -1,0 +1,8 @@
+14,470,10
+law,1
+breakers,1
+would,2
+be,1
+repatriated,1
+it,1
+probably,1

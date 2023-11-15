@@ -1,0 +1,4 @@
+7,28,6
+rand,1
+daily,1
+mail,1

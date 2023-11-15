@@ -1,0 +1,15 @@
+30,207,7
+a,1
+my,1
+opinion,1
+was,1
+also,1
+the,2
+same,1
+letter,1
+did,1
+not,1
+smell,1
+of,1
+any,1
+apology,1

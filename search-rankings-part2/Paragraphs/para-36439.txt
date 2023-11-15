@@ -1,0 +1,8 @@
+11,304,36
+conciliate,1
+asiatic,1
+sentiment,1
+and,1
+ask,1
+him,1
+to,1

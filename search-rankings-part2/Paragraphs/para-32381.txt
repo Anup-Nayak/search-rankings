@@ -1,0 +1,8 @@
+10,356,6
+samuel,1
+joseph,1
+headmaster,1
+indian,1
+school,1
+david,1
+andrew,1

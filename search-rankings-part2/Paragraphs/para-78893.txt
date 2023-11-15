@@ -1,0 +1,13 @@
+23,78,16
+ramaraj,1
+in,1
+which,1
+the,3
+meanest,1
+member,1
+of,1
+depressed,1
+class,1
+and,1
+weakest,1
+woman,1

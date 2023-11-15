@@ -1,0 +1,17 @@
+9,216,10
+mr,1
+jordan,1
+i,2
+dont,1
+think,2
+it,2
+is,2
+ostracism,1
+a,1
+wholesome,1
+fear,1
+of,1
+incurring,1
+grievous,1
+bodily,1
+harm,1

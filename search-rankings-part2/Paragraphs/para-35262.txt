@@ -1,0 +1,8 @@
+11,202,10
+the,1
+magistrate,1
+are,1
+they,1
+not,1
+paid,1
+anything,1

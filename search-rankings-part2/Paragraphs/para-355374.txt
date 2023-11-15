@@ -1,0 +1,9 @@
+92,81,10
+regret,1
+my,1
+letter,1
+not,1
+received,1
+now,1
+posting,1
+copy,1

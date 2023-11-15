@@ -1,0 +1,13 @@
+46,233,8
+make,1
+her,1
+powerless,1
+i,1
+think,1
+not,1
+let,1
+the,2
+teachers,1
+in,1
+schools,1
+and,1

@@ -1,0 +1,4 @@
+70,23,2
+1,1
+tenement,1
+houses,1

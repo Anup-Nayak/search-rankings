@@ -1,0 +1,12 @@
+49,181,21
+should,1
+not,1
+depend,1
+on,1
+outside,1
+villagers,1
+for,1
+the,1
+supply,1
+of,1
+cloth,1

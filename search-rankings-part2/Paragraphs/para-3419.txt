@@ -1,0 +1,14 @@
+2,126,12
+state,1
+immigration,1
+at,1
+any,1
+rate,1
+may,1
+be,2
+stopped,1
+if,1
+nothing,1
+more,1
+can,1
+done,1

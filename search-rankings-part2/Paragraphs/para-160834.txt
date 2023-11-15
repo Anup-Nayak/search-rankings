@@ -1,0 +1,16 @@
+46,299,8
+from,1
+a,1
+photostat,1
+c,1
+w,1
+9704,1
+courtesy,1
+the,2
+embassy,1
+of,1
+u,1
+s,2
+r,1
+in,1
+india,1

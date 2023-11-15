@@ -1,0 +1,14 @@
+44,17,8
+yours,1
+sincerely,1
+maulana,1
+shaukat,1
+ali,1
+the,2
+central,1
+khilafat,1
+committee,1
+sultan,1
+mansion,1
+dongri,1
+bombay,1

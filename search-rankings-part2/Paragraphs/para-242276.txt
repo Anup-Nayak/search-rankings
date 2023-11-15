@@ -1,0 +1,11 @@
+66,35,15
+2,1
+on,1
+this,1
+date,1
+gandhiji,1
+arrived,1
+at,1
+the,1
+hariian,1
+home,1

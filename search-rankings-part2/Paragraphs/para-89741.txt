@@ -1,0 +1,10 @@
+26,400,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+hakimji,1
+ajmal,1
+khan,1
+delhi,1

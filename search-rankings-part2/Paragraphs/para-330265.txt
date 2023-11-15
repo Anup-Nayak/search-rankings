@@ -1,0 +1,7 @@
+86,151,7
+286,1
+letter,1
+to,1
+kerum,1
+nath,1
+bhatt,1

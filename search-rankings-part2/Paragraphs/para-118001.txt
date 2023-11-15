@@ -1,0 +1,4 @@
+35,73,2
+monthly,1
+khadi,1
+returns,1

@@ -1,0 +1,10 @@
+20,210,8
+adverse,1
+to,1
+over,1
+whelming,1
+mohammedan,1
+opinion,1
+before,1
+taking,1
+any,1

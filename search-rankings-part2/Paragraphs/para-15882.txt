@@ -1,0 +1,7 @@
+6,67,9
+yours,1
+sincerely,1
+w,1
+j,1
+west,1
+esq,1

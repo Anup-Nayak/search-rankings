@@ -1,0 +1,8 @@
+5,43,4
+but,1
+a,1
+learned,1
+man,1
+throughout,1
+the,1
+world,1

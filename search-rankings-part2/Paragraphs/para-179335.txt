@@ -1,0 +1,7 @@
+51,152,7
+v,1
+who,1
+is,1
+to,1
+decide,1
+that,1

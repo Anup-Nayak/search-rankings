@@ -1,0 +1,8 @@
+66,440,8
+b,1
+i,2
+do,1
+but,1
+declare,1
+my,1
+helplessness,1

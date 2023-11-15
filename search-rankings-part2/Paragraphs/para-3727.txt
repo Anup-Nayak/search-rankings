@@ -1,0 +1,8 @@
+2,160,7
+by,1
+command,1
+of,1
+his,1
+excellency,1
+the,1
+governor,1

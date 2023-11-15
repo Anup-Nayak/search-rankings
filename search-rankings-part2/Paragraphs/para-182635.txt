@@ -1,0 +1,13 @@
+52,57,7
+fashion,1
+nowadays,1
+to,1
+palm,1
+off,1
+foreign,1
+woollens,1
+as,1
+cashmere,1
+i,1
+e,1
+fabrics,1

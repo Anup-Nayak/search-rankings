@@ -1,0 +1,13 @@
+27,401,3
+we,1
+are,2
+a,1
+pretty,1
+happy,1
+family,1
+and,1
+getting,1
+on,1
+cordially,1
+enough,1
+with,1

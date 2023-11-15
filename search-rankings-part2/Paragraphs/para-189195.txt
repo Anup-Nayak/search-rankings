@@ -1,0 +1,7 @@
+53,286,2
+334,1
+cattle,1
+in,1
+ancient,1
+india,1
+1,1

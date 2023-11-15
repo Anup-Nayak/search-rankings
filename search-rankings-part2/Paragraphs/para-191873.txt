@@ -1,0 +1,13 @@
+54,120,3
+indicating,1
+wish,1
+of,2
+the,1
+people,1
+india,1
+to,1
+be,1
+separated,2
+or,1
+not,1
+do,1

@@ -1,0 +1,14 @@
+36,34,2
+today,1
+advising,1
+development,1
+of,1
+your,2
+own,1
+special,1
+work,1
+after,1
+all,2
+it,1
+takes,1
+energy,1

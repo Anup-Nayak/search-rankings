@@ -1,0 +1,13 @@
+31,484,9
+harvesting,1
+season,1
+a,1
+bad,1
+agriculturist,1
+ploughs,1
+his,2
+land,1
+badly,1
+sows,1
+seed,1
+and,1

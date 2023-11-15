@@ -1,0 +1,8 @@
+14,75,17
+sympathy,1
+and,2
+love,1
+all,1
+round,1
+has,1
+contri,1

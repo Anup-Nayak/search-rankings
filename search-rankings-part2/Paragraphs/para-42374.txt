@@ -1,0 +1,9 @@
+13,70,8
+born,1
+indians,1
+enter,1
+cape,1
+stop,1
+regret,1
+reference,1
+passive,1

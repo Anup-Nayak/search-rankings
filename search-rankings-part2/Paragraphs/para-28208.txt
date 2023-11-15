@@ -1,0 +1,14 @@
+9,270,6
+q,1
+all,1
+right,1
+i,1
+cannot,1
+on,1
+my,1
+own,1
+send,1
+you,1
+out,1
+for,1
+that,1

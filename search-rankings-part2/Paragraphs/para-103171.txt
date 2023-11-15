@@ -1,0 +1,7 @@
+30,232,4
+118,1
+speech,1
+at,1
+satyagraha,1
+ashram,1
+sabarmati,1

@@ -1,0 +1,17 @@
+82,283,5
+q,1
+i,2
+am,1
+in,1
+charge,1
+of,1
+a,1
+public,1
+trust,1
+building,1
+soldiers,1
+want,1
+it,1
+they,1
+say,1
+should,1

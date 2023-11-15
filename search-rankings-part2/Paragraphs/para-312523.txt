@@ -1,0 +1,9 @@
+82,223,3
+bapu,1
+shri,1
+madhavdas,1
+gopaldas,1
+navi,1
+khadaki,1
+porbandar,1
+kathiawar,1

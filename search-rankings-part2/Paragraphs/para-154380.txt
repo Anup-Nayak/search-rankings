@@ -1,0 +1,11 @@
+44,489,13
+t4,1
+guj,1
+has,1
+and,1
+did,1
+not,1
+feel,1
+prejudiced,1
+against,1
+anyone,1

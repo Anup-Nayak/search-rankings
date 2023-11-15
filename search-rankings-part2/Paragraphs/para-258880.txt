@@ -1,0 +1,17 @@
+69,361,1
+how,1
+are,2
+you,4
+what,2
+is,1
+diet,1
+do,1
+suffer,1
+from,1
+headaches,1
+able,1
+to,1
+get,1
+milk,1
+about,1
+fruit,1

@@ -1,0 +1,17 @@
+23,196,6
+said,1
+it,1
+was,1
+his,2
+duty,1
+to,1
+point,1
+out,1
+such,1
+mistakes,1
+in,1
+own,1
+humble,1
+way,1
+he,1
+further,1

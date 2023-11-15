@@ -1,0 +1,10 @@
+76,53,3
+67,1
+letter,1
+to,1
+uma,1
+devi,1
+bombay,1
+june,1
+22,1
+1939,1

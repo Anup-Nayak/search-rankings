@@ -1,0 +1,9 @@
+65,0,8
+lala,1
+dunichand,1
+b,1
+a,1
+kripa,1
+nivas,1
+ambala,1
+city,1

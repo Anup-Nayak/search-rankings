@@ -1,0 +1,17 @@
+51,71,8
+asked,1
+if,1
+he,2
+was,1
+happy,1
+at,1
+being,1
+free,1
+once,1
+again,1
+replied,1
+i,1
+really,1
+do,1
+not,1
+know,1

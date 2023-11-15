@@ -1,0 +1,14 @@
+78,283,6
+lottery,1
+tickers,1
+these,1
+tickets,1
+are,1
+sold,1
+to,1
+the,1
+villagers,1
+against,1
+their,1
+wishes,1
+and,1

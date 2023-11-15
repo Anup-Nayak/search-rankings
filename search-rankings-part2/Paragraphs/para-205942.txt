@@ -1,0 +1,6 @@
+57,304,4
+grandmother,1
+died,1
+peacefully,1
+wednesday,1
+afternoon,1

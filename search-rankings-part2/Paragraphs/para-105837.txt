@@ -1,0 +1,13 @@
+31,190,10
+different,1
+spcies,1
+if,1
+an,1
+untouchables,1
+can,2
+become,1
+a,1
+non,1
+brahmin,1
+he,1
+not,1

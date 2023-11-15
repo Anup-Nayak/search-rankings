@@ -1,0 +1,7 @@
+17,238,11
+it,1
+is,1
+the,2
+confirmed,1
+opinion,1
+of,1

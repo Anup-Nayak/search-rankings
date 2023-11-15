@@ -1,0 +1,6 @@
+88,180,4
+p,1
+o,1
+thenkurissi,1
+via,1
+palghat,1

@@ -1,0 +1,17 @@
+82,397,28
+l,1
+f,1
+i,1
+hadnt,1
+missed,1
+it,1
+but,1
+thought,1
+he,1
+was,1
+too,1
+young,1
+to,1
+think,1
+about,1
+returning,1

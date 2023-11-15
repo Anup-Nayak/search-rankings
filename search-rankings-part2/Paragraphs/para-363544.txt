@@ -1,0 +1,9 @@
+94,52,17
+have,1
+made,1
+public,1
+statement,1
+supporting,1
+step,1
+about,1
+royal,1

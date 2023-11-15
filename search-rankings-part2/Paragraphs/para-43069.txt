@@ -1,0 +1,8 @@
+13,150,23
+migration,1
+law,1
+then,1
+indians,1
+could,1
+not,1
+raise,1

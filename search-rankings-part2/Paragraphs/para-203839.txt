@@ -1,0 +1,10 @@
+57,105,9
+taken,1
+fast,1
+in,1
+manner,1
+i,1
+have,1
+done,1
+and,1
+even,1

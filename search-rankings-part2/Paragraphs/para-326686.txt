@@ -1,0 +1,11 @@
+85,281,3
+1,2
+from,1
+the,2
+hindu,1
+13,1
+1945,1
+source,1
+however,1
+has,1
+teaching,1

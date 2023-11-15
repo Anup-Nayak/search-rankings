@@ -1,0 +1,6 @@
+35,175,10
+239,1
+letter,1
+to,1
+prabhashanker,1
+pattani,1

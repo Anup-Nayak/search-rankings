@@ -1,0 +1,15 @@
+98,325,5
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+k,1
+g,1
+mashruwala,1
+records,1
+courtesy,1
+navajivan,1
+trust,1
+ahmedabad,1

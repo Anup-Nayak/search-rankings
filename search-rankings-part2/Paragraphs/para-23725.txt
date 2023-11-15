@@ -1,0 +1,14 @@
+8,99,5
+mr,1
+gandhi,1
+on,1
+his,1
+return,1
+from,1
+pretoria,1
+was,1
+seen,1
+by,1
+a,1
+mail,1
+representative,1

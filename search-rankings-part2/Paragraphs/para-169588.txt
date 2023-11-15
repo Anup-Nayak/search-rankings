@@ -1,0 +1,7 @@
+48,489,2
+526,1
+message,1
+to,1
+hindustani,1
+seva,1
+dal,1

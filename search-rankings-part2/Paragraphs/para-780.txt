@@ -1,0 +1,7 @@
+1,155,7
+2,1
+government,1
+considered,1
+as,1
+mother,1
+father,1

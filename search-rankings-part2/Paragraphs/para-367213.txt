@@ -1,0 +1,6 @@
+95,69,6
+57,1
+letter,1
+to,1
+kanti,1
+gandhi,1

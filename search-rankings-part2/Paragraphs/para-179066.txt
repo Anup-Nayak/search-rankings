@@ -1,0 +1,6 @@
+51,128,22
+expenditure,1
+of,1
+a,1
+foreign,1
+administration,1

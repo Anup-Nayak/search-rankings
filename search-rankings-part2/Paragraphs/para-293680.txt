@@ -1,0 +1,14 @@
+78,212,14
+abused,1
+in,2
+the,1
+world,1
+non,1
+co,1
+operation,1
+has,1
+become,1
+a,1
+curse,1
+everyday,1
+life,1

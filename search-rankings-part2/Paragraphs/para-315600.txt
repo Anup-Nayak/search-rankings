@@ -1,0 +1,11 @@
+82,411,36
+hundred,1
+thousand,1
+units,1
+voluntary,1
+co,2
+operationnot,1
+operation,1
+induced,1
+by,1
+nazi,1

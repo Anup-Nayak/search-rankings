@@ -1,0 +1,7 @@
+13,174,11
+provisional,1
+settlement,1
+in,1
+that,2
+contrary,1
+to,1

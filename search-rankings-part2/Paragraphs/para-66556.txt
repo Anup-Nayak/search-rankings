@@ -1,0 +1,10 @@
+19,100,3
+1,1
+worshippers,1
+of,1
+vishnu,1
+the,2
+preserver,1
+in,1
+hindu,1
+trinity,1

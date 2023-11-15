@@ -1,0 +1,14 @@
+52,5,8
+1,1
+a,2
+word,1
+here,2
+is,1
+illegible,2
+in,2
+the,2
+source,2
+2,1
+few,1
+words,1
+are,1

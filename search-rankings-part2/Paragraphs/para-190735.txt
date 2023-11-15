@@ -1,0 +1,12 @@
+53,486,6
+there,1
+not,2
+be,1
+internecine,1
+strife,1
+between,1
+hindus,1
+and,2
+muslims,1
+would,1
+it,1

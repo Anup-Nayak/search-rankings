@@ -1,0 +1,8 @@
+86,222,10
+r,1
+c,1
+what,1
+about,1
+the,1
+war,1
+criminals,1

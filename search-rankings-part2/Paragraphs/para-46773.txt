@@ -1,0 +1,11 @@
+14,105,2
+blessings,1
+from,2
+mohandas,1
+gujarati,1
+mahatma,1
+gandhijina,1
+patro,1
+and,1
+jivanna,1
+zarana,1

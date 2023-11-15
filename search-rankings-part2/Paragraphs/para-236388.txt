@@ -1,0 +1,16 @@
+64,342,4
+able,1
+to,1
+tolerate,1
+your,1
+previous,1
+fasts,1
+but,1
+you,2
+will,1
+be,1
+discredited,1
+if,1
+repeat,1
+any,1
+more,1

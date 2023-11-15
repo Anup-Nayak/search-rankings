@@ -1,0 +1,10 @@
+14,448,5
+ahmedabad,1
+vaishakh,1
+vad,1
+0,1
+thursday,1
+may,1
+13,1
+1915,1
+2,1

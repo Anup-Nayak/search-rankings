@@ -1,0 +1,12 @@
+6,257,8
+3,1
+if,1
+you,1
+want,1
+to,1
+cough,1
+do,1
+so,1
+holding,1
+your,1
+handkerchief,1

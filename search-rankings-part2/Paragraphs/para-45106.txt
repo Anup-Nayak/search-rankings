@@ -1,0 +1,8 @@
+13,426,6
+partial,1
+approved,1
+by,1
+community,1
+and,1
+unless,1
+nearly,1

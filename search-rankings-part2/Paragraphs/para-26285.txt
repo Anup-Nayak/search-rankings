@@ -1,0 +1,16 @@
+9,13,13
+mr,1
+gandhi,1
+further,1
+asked,1
+whether,1
+the,3
+witness,1
+had,1
+been,1
+prevented,1
+by,1
+authorities,1
+from,1
+giving,1
+list,1

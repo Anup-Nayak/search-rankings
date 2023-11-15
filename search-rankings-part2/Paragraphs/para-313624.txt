@@ -1,0 +1,16 @@
+82,310,22
+than,1
+the,2
+apparent,1
+price,1
+has,1
+to,2
+be,1
+paid,1
+by,1
+merchants,1
+if,1
+they,1
+want,1
+get,1
+a,1

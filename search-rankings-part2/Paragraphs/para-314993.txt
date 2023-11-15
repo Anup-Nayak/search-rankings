@@ -1,0 +1,16 @@
+82,394,13
+i,1
+said,1
+to,2
+him,1
+why,1
+did,1
+you,2
+come,1
+if,2
+this,2
+is,2
+what,1
+have,1
+offer,1
+your,1

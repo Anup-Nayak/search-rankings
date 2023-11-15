@@ -1,0 +1,14 @@
+93,365,3
+srinagar,1
+camp,1
+address,1
+as,1
+at,1
+kazirkhil,1
+p,1
+o,1
+ramganj,1
+noakhali,1
+february,1
+5,1
+1947,1

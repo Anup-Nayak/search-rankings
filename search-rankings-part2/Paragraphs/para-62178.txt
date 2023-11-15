@@ -1,0 +1,8 @@
+17,403,4
+strictly,1
+private,1
+can,1
+bear,1
+no,1
+public,1
+demonstration,1

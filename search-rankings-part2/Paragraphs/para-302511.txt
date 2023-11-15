@@ -1,0 +1,14 @@
+80,256,5
+from,1
+a,2
+photostat,1
+g,1
+n,1
+8709,1
+also,1
+c,1
+w,1
+1494,1
+courtesy,1
+k,1
+sen,1

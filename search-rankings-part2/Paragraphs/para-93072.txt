@@ -1,0 +1,12 @@
+27,364,15
+all,1
+our,1
+workers,1
+have,2
+lost,1
+faith,1
+and,1
+become,1
+quite,1
+disheartened,1
+for,1

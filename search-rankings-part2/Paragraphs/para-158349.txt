@@ -1,0 +1,13 @@
+46,9,5
+occurred,1
+soon,1
+after,1
+the,2
+ladies,1
+meeting,1
+held,1
+at,1
+tanuku,1
+on,1
+22nd,1
+instant,1

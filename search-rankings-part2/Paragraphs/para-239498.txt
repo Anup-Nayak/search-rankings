@@ -1,0 +1,9 @@
+65,220,3
+1,1
+the,2
+following,1
+two,1
+paragraphs,1
+are,1
+from,1
+hindu,1

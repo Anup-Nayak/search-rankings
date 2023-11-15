@@ -1,0 +1,11 @@
+51,339,2
+1,1
+from,1
+koran,1
+embodying,1
+the,1
+central,1
+faith,1
+of,1
+a,1
+muslim,1

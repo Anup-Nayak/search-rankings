@@ -1,0 +1,3 @@
+18,3,7
+satyagraha,1
+movement,1

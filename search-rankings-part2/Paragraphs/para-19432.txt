@@ -1,0 +1,6 @@
+6,496,4
+now,1
+under,1
+the,1
+new,1
+law,1

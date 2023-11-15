@@ -1,0 +1,14 @@
+52,251,2
+yours,1
+sincerely,1
+mrs,1
+v,1
+banerjee,1
+lady,1
+health,1
+visitor,1
+baby,1
+clinic,1
+committee,1
+rajshahi,1
+bengal,1

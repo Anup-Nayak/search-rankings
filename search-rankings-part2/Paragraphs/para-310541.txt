@@ -1,0 +1,6 @@
+82,61,9
+66,1
+letter,1
+to,1
+hamidullah,1
+afsar,1

@@ -1,0 +1,10 @@
+6,96,8
+5,1
+vide,1
+pan,1
+islamic,1
+society,1
+after,1
+16,1
+11,1
+1906,1

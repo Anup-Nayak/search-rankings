@@ -1,0 +1,4 @@
+8,471,11
+the,1
+combat,1
+deepens,1

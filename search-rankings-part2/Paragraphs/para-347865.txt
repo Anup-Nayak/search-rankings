@@ -1,0 +1,17 @@
+90,144,10
+1,1
+addressees,1
+wife,1
+gangi,1
+2,1
+e,1
+w,1
+aryanayakam,1
+secretary,1
+hindustani,1
+talimi,1
+sangh,1
+3,1
+revenue,1
+per,1
+acre,1

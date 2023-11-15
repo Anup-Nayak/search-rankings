@@ -1,0 +1,6 @@
+13,143,7
+registration,2
+india,1
+stop,1
+clause,1
+totally,1

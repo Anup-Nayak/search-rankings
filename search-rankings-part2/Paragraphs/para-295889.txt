@@ -1,0 +1,15 @@
+78,446,14
+permanent,1
+indian,1
+home,1
+the,1
+place,1
+with,1
+which,1
+for,1
+over,1
+a,2
+quarter,1
+of,1
+century,1
+he,1

@@ -1,0 +1,6 @@
+28,65,7
+33,1
+letter,1
+to,1
+abbas,1
+tyabji,1

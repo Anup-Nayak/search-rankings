@@ -1,0 +1,13 @@
+51,150,12
+in,1
+conclusion,1
+and,1
+not,1
+connected,1
+with,1
+the,2
+above,1
+he,1
+mentioned,1
+case,1
+of,1

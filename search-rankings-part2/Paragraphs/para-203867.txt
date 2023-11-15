@@ -1,0 +1,8 @@
+57,105,37
+indivisible,1
+religion,1
+according,1
+to,1
+this,1
+reasoning,1
+my,1

@@ -1,0 +1,8 @@
+17,369,23
+2,1
+new,1
+india,1
+here,2
+has,1
+from,1
+bezwada,1

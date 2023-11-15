@@ -1,0 +1,5 @@
+65,41,3
+47,1
+why,1
+against,1
+violence,1

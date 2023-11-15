@@ -1,0 +1,16 @@
+8,460,9
+cross,1
+examined,1
+he,1
+said,1
+that,1
+a,1
+letter,1
+had,1
+been,1
+sent,1
+by,1
+mr,1
+gandhi,1
+to,1
+the,1

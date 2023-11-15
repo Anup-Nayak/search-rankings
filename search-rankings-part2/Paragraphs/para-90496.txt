@@ -1,0 +1,5 @@
+27,20,12
+sickness,1
+renders,1
+me,1
+incapable,1

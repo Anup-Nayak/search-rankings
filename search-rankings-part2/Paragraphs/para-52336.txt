@@ -1,0 +1,11 @@
+15,247,8
+ahmedabad,1
+bhadarva,1
+vad,1
+6,1
+samvat,1
+1972,1
+sunday,1
+september,1
+17,1
+1916,1

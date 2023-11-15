@@ -1,0 +1,3 @@
+88,249,3
+ashram,1
+sevagram,1

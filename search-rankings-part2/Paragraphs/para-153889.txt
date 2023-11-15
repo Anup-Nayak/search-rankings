@@ -1,0 +1,9 @@
+44,473,13
+t2,1
+guj,1
+has,1
+he,1
+was,1
+an,1
+elderly,1
+man,1

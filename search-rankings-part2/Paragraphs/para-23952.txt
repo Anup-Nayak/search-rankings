@@ -1,0 +1,7 @@
+8,135,2
+76,1
+a,1
+dialogue,1
+on,1
+the,1
+compromise,1

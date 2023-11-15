@@ -1,0 +1,6 @@
+51,287,2
+337,1
+interview,1
+to,1
+chicago,1
+tribune,1

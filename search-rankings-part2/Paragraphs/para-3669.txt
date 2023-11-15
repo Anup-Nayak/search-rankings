@@ -1,0 +1,12 @@
+2,156,7
+f,1
+any,2
+prostitute,1
+and,1
+person,1
+living,1
+on,1
+the,1
+prostitution,1
+of,1
+others,1

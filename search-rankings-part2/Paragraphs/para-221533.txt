@@ -1,0 +1,11 @@
+61,48,18
+rupees,1
+extra,1
+none,1
+should,1
+be,1
+disturbed,1
+over,1
+fast,1
+but,1
+all,1

@@ -1,0 +1,15 @@
+81,127,8
+bapu,1
+ps,1
+about,1
+your,2
+health,1
+take,1
+as,2
+much,1
+exercise,1
+body,1
+can,1
+stand,1
+without,1
+discomfort,1

@@ -1,0 +1,11 @@
+32,286,4
+they,1
+made,1
+great,1
+influences,1
+upon,1
+the,2
+whole,1
+of,2
+souls,1
+japanese,1

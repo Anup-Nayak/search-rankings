@@ -1,0 +1,17 @@
+12,349,14
+on,1
+the,1
+way,1
+addresses,1
+at,2
+heidelberg,1
+standerton,1
+&,1
+volksrust,1
+address,1
+pretoria,1
+station,1
+stayed,1
+in,1
+transvaal,1
+hotel,1

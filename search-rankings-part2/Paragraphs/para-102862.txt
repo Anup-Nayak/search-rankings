@@ -1,0 +1,12 @@
+30,209,26
+a,1
+the,3
+people,1
+wanted,1
+that,1
+matter,1
+be,1
+handed,1
+over,1
+to,1
+government,1

@@ -1,0 +1,8 @@
+51,128,16
+condition,1
+of,1
+the,1
+masses,1
+that,1
+they,1
+are,1

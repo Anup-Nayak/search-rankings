@@ -1,0 +1,16 @@
+24,219,15
+dependence,1
+and,3
+a,2
+badge,1
+of,2
+slavery,1
+for,1
+the,1
+rich,1
+poor,1
+alike,1
+2,1
+it,1
+is,1
+garb,1

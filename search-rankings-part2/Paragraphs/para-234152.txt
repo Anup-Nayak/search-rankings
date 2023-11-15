@@ -1,0 +1,6 @@
+64,85,1
+121,1
+letter,1
+to,1
+krishnadas,1
+jaju,1

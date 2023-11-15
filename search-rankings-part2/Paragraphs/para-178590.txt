@@ -1,0 +1,16 @@
+51,87,15
+spinning,1
+at,1
+the,2
+charkha,1
+and,2
+use,1
+khaddar,1
+made,1
+of,1
+yarn,1
+spun,1
+by,1
+him,1
+or,1
+her,1

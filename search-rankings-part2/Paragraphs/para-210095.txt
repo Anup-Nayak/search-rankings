@@ -1,0 +1,9 @@
+58,292,16
+1,1
+in,1
+yeravda,1
+prison,1
+2,1
+daughter,1
+of,1
+amina,1

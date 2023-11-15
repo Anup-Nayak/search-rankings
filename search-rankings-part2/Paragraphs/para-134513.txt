@@ -1,0 +1,9 @@
+39,217,3
+212,1
+interview,1
+to,1
+mr,1
+and,1
+mrs,1
+bjerrum,1
+2,1

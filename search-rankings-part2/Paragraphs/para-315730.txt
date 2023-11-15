@@ -1,0 +1,14 @@
+82,415,20
+l,1
+f,1
+that,2
+accounts,1
+for,1
+the,1
+villages,1
+but,1
+is,1
+not,1
+all,1
+of,1
+india,1

@@ -1,0 +1,12 @@
+78,185,4
+outlying,1
+bastion,1
+of,1
+the,2
+fort,1
+from,1
+which,1
+congress,1
+flag,1
+was,1
+flown,1

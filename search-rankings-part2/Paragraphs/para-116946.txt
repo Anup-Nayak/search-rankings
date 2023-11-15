@@ -1,0 +1,14 @@
+34,465,11
+1,1
+from,1
+the,1
+reference,1
+to,3
+motis,1
+promise,1
+write,1
+gandhiji,1
+daily,1
+after,1
+her,1
+marriage,1

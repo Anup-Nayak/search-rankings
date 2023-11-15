@@ -1,0 +1,6 @@
+20,486,2
+all,1
+about,1
+the,1
+khilafat,1
+pp,1

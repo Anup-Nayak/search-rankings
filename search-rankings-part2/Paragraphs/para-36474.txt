@@ -1,0 +1,8 @@
+11,306,11
+registration,1
+law,1
+of,1
+the,1
+free,1
+state,1
+thus,1

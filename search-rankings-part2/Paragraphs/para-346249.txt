@@ -1,0 +1,9 @@
+89,423,10
+pilgrim,1
+age,1
+with,1
+our,1
+meeting,1
+would,1
+not,1
+care,1

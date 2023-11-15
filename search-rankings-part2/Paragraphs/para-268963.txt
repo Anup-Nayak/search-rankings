@@ -1,0 +1,6 @@
+72,218,5
+speedy,1
+recovery,1
+expect,1
+daily,1
+wires,1

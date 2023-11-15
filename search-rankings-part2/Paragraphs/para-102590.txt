@@ -1,0 +1,17 @@
+30,196,4
+q,1
+did,1
+ever,1
+any,1
+mussalman,1
+tell,1
+the,1
+hindus,1
+that,1
+they,1
+ought,1
+not,1
+to,1
+behave,1
+like,1
+this,1

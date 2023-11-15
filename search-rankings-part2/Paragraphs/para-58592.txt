@@ -1,0 +1,15 @@
+16,502,12
+merrimans,1
+letter,1
+will,1
+show,1
+that,1
+the,1
+refusal,1
+to,1
+pay,1
+rent,1
+is,1
+becoming,1
+serious,1
+in,1

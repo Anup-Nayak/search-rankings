@@ -1,0 +1,7 @@
+6,356,4
+do,1
+many,1
+indians,1
+enter,1
+without,1
+permits,1

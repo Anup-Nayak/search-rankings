@@ -1,0 +1,15 @@
+23,476,2
+when,1
+a,1
+man,1
+thought,1
+that,1
+to,1
+speak,1
+untruth,1
+was,1
+bad,1
+then,1
+alone,1
+he,1
+would,1

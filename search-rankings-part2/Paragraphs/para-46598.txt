@@ -1,0 +1,8 @@
+14,81,1
+is,2
+just,1
+the,2
+same,1
+danger,1
+not,1
+over,1

@@ -1,0 +1,6 @@
+44,484,27
+t5,1
+guj,1
+adds,1
+if,1
+invited,1

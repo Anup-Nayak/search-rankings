@@ -1,0 +1,6 @@
+5,61,2
+56,1
+mansukhlal,1
+hiralal,1
+nazar,1
+1,1

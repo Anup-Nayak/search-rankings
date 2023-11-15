@@ -1,0 +1,15 @@
+48,202,6
+at,1
+the,2
+temperance,1
+conference,1
+in,1
+lahore,1
+one,1
+of,1
+resolutions,1
+adopted,1
+was,1
+as,1
+follows,1
+1,1

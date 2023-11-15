@@ -1,0 +1,17 @@
+76,71,11
+3,1
+jawaharlal,1
+nehru,1
+was,1
+chairman,1
+of,1
+the,2
+national,2
+planning,1
+committee,1
+appointed,1
+by,1
+indian,1
+congress,1
+in,1
+1938,1

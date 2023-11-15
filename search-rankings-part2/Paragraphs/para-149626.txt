@@ -1,0 +1,10 @@
+43,301,11
+bapu,1
+from,1
+gujarati,1
+c,1
+w,1
+7723,1
+courtesy,1
+radhabehn,1
+chowdhari,1

@@ -1,0 +1,10 @@
+63,136,8
+from,1
+gujarati,1
+c,1
+w,1
+7531,1
+courtesy,1
+k,1
+m,1
+munshi,1

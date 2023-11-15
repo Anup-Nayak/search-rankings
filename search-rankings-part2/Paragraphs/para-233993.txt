@@ -1,0 +1,14 @@
+64,68,19
+every,1
+incident,1
+of,3
+that,2
+description,1
+in,1
+course,1
+his,1
+tour,1
+villages,1
+he,1
+had,1
+noticed,1

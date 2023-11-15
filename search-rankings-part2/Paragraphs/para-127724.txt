@@ -1,0 +1,12 @@
+37,283,7
+who,2
+weighs,1
+in,1
+equal,1
+scale,1
+blame,1
+and,1
+praise,1
+is,1
+silent,1
+content,1

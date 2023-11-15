@@ -1,0 +1,15 @@
+15,263,4
+mr,1
+gandhi,1
+in,2
+moving,1
+the,2
+resolution,1
+spoke,1
+gujarati,1
+explaining,1
+various,1
+difficulties,1
+existing,1
+at,1
+present,1

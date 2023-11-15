@@ -1,0 +1,14 @@
+90,10,1
+an,1
+important,1
+sphere,1
+of,1
+work,1
+for,1
+learning,1
+to,1
+acquire,1
+control,1
+over,1
+ones,1
+temper,1

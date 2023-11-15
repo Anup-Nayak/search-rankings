@@ -1,0 +1,8 @@
+92,324,3
+doctor,1
+ram,1
+manohar,1
+lohia,1
+ramnivas,1
+thalakwadi,1
+belgaum,1

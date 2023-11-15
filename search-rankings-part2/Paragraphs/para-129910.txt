@@ -1,0 +1,7 @@
+38,97,5
+78,1
+speech,1
+at,1
+national,1
+school,1
+khamgaon,1

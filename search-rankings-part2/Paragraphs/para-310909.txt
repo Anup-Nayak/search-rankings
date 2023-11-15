@@ -1,0 +1,15 @@
+82,92,2
+6,1
+if,1
+the,1
+state,1
+of,1
+affairs,1
+cannot,1
+be,1
+mended,1
+by,1
+top,1
+level,1
+approaches,1
+we,1

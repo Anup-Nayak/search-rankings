@@ -1,0 +1,8 @@
+2,26,17
+the,2
+progress,1
+and,1
+health,1
+of,1
+european,1
+population,1

@@ -1,0 +1,5 @@
+1,122,14
+5,1
+the,1
+natal,1
+advertiser,1

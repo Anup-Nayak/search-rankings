@@ -1,0 +1,8 @@
+46,422,4
+a,1
+gentleman,1
+writes,1
+from,1
+ramgarh,1
+jaipur,1
+2,1

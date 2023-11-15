@@ -1,0 +1,6 @@
+9,490,2
+5,1
+transvaal,1
+prime,1
+ministers,1
+minute,1

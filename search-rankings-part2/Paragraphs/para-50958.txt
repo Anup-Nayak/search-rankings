@@ -1,0 +1,15 @@
+15,92,2
+january,1
+30,1
+saturday,1
+address,1
+from,1
+women,1
+at,1
+rajkot,1
+took,1
+ba,1
+to,1
+see,1
+mrs,1
+sladen,1

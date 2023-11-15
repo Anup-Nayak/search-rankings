@@ -1,0 +1,6 @@
+50,184,4
+268,1
+letter,1
+to,1
+upton,1
+sinclair,1

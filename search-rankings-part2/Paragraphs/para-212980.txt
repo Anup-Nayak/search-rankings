@@ -1,0 +1,12 @@
+59,76,5
+bapu,1
+ps,1
+let,1
+me,1
+know,1
+the,1
+date,1
+of,2
+receipt,1
+this,1
+letter,1

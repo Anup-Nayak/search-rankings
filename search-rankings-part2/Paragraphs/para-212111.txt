@@ -1,0 +1,17 @@
+58,487,11
+g,1
+i,2
+am,1
+afraid,1
+no,1
+do,1
+believe,1
+in,1
+the,1
+four,1
+varnas,1
+there,1
+should,1
+not,1
+be,1
+any,1

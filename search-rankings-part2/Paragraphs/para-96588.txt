@@ -1,0 +1,12 @@
+28,386,17
+own,1
+country,1
+which,1
+forbids,1
+the,1
+unlicensed,1
+possession,1
+of,1
+opium,1
+and,1
+its,1

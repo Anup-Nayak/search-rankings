@@ -1,0 +1,6 @@
+28,482,2
+king,1
+can,1
+do,1
+no,1
+wrong,1

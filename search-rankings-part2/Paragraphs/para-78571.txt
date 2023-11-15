@@ -1,0 +1,15 @@
+23,23,16
+he,1
+wanted,1
+all,1
+these,1
+men,1
+and,1
+women,1
+to,1
+be,1
+on,1
+the,2
+side,1
+of,1
+congress,1

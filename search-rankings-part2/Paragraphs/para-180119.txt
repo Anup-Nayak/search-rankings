@@ -1,0 +1,8 @@
+51,230,5
+finlay,1
+1,1
+wires,1
+their,1
+godown,1
+under,1
+picketing,1

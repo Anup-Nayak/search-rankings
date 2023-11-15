@@ -1,0 +1,15 @@
+1,250,5
+mostly,1
+british,1
+subjects,1
+and,1
+do,1
+not,1
+go,1
+to,1
+the,1
+colony,1
+under,1
+any,1
+form,1
+of,1

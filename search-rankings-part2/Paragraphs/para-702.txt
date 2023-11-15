@@ -1,0 +1,6 @@
+1,141,6
+3,1
+without,1
+origin,1
+or,1
+beginning,1

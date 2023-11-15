@@ -1,0 +1,12 @@
+42,118,4
+2,1
+keep,1
+the,2
+dining,1
+hours,1
+shown,1
+in,1
+daily,1
+routine,1
+given,1
+below,1

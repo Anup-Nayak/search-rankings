@@ -1,0 +1,9 @@
+51,37,7
+1,1
+an,1
+offering,1
+prepared,1
+from,1
+sesame,1
+and,1
+jaggery,1

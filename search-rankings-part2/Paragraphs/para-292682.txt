@@ -1,0 +1,17 @@
+78,118,2
+do,1
+you,1
+believe,1
+conscience,1
+can,2
+make,2
+a,2
+man,1
+good,1
+yes,1
+but,1
+it,1
+coward,1
+of,1
+him,1
+too,1

@@ -1,0 +1,10 @@
+15,120,5
+saw,1
+the,1
+jail,1
+boarding,1
+houses,1
+schools,1
+etc,1
+at,1
+amreli,1

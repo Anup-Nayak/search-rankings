@@ -1,0 +1,15 @@
+12,69,6
+1,1
+sam,1
+was,1
+govindsami,1
+a,1
+machine,1
+foreman,1
+in,1
+the,1
+international,1
+printing,1
+press,1
+at,1
+phoenix,1

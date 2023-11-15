@@ -1,0 +1,11 @@
+19,185,2
+east,1
+african,1
+indian,1
+situation,1
+is,1
+now,1
+most,1
+critically,1
+dangerous,1
+because,1

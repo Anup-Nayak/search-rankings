@@ -1,0 +1,10 @@
+83,63,8
+the,2
+frontier,1
+provincial,1
+congress,1
+committee,1
+has,1
+released,1
+following,1
+statement,1

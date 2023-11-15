@@ -1,0 +1,6 @@
+8,176,6
+how,1
+chinese,1
+managed,1
+to,1
+escape,1

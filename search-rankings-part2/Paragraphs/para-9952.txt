@@ -1,0 +1,11 @@
+4,215,6
+although,1
+yiddish,1
+was,1
+accepted,1
+as,1
+a,1
+european,1
+language,1
+for,1
+immigration,1

@@ -1,0 +1,15 @@
+54,129,2
+1,1
+in,1
+connection,1
+with,1
+leprosy,1
+2,1
+a,1
+few,1
+words,1
+that,1
+follow,1
+are,1
+not,1
+clear,1

@@ -1,0 +1,14 @@
+23,301,3
+before,1
+that,1
+the,1
+parsis,1
+were,1
+living,1
+with,1
+mohammedans,1
+and,2
+hindus,1
+they,1
+should,1
+be,1

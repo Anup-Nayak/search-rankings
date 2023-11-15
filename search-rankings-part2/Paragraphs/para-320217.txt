@@ -1,0 +1,6 @@
+84,90,8
+123,1
+letter,1
+to,1
+manu,1
+gandhi,1

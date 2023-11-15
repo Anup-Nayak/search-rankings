@@ -1,0 +1,15 @@
+78,34,17
+the,1
+18th,1
+century,1
+some,1
+other,1
+power,1
+would,1
+no,1
+doubt,1
+have,1
+taken,1
+advantage,1
+of,1
+it,1

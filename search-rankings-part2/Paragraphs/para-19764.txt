@@ -1,0 +1,4 @@
+6,534,10
+peace,1
+preservation,1
+ordinance,1

@@ -1,0 +1,7 @@
+36,332,6
+376,1
+interview,1
+tothe,1
+natal,1
+advertiser,1
+2,1

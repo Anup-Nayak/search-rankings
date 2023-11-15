@@ -1,0 +1,17 @@
+5,14,2
+1,1
+mounted,1
+marauders,1
+during,1
+the,2
+17th,1
+and,1
+18th,1
+centuries,1
+2,1
+principalities,1
+or,1
+landholdings,1
+granted,1
+by,1
+state,1

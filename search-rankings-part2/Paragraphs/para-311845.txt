@@ -1,0 +1,9 @@
+82,164,2
+j,1
+do,1
+you,1
+think,1
+these,1
+things,1
+are,1
+bad,1

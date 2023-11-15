@@ -1,0 +1,10 @@
+57,130,15
+three,1
+clear,1
+months,1
+notice,1
+if,1
+in,1
+the,2
+meanwhile,1
+temple,1

@@ -1,0 +1,6 @@
+95,237,8
+opinion,1
+be,1
+calm,1
+and,1
+steadfast,1

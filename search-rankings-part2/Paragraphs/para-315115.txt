@@ -1,0 +1,16 @@
+82,397,32
+l,1
+f,1
+when,1
+i,2
+hear,1
+a,1
+suggestion,1
+about,1
+some,1
+arrangement,1
+for,1
+the,1
+future,1
+try,1
+to,1

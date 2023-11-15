@@ -1,0 +1,12 @@
+75,455,12
+d,1
+he,1
+also,1
+says,1
+it,1
+takes,1
+no,1
+effort,1
+to,1
+stop,1
+thinking,1

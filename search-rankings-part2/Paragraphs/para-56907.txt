@@ -1,0 +1,10 @@
+16,296,12
+now,1
+about,1
+what,1
+we,1
+shall,1
+do,1
+for,1
+the,1
+workers,1

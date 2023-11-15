@@ -1,0 +1,9 @@
+13,69,32
+previous,1
+bill,1
+stop,1
+if,1
+minister,1
+recognize,1
+legal,1
+possibility,1

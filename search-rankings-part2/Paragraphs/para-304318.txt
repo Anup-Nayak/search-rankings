@@ -1,0 +1,13 @@
+80,422,13
+women,1
+and,2
+children,1
+i,1
+argued,1
+with,1
+dacoits,1
+tribesmen,1
+on,1
+the,1
+inhumanity,1
+of,1

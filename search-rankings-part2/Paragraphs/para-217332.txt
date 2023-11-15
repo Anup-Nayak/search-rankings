@@ -1,0 +1,6 @@
+60,24,3
+32,1
+letter,1
+to,1
+mary,1
+gillett,1

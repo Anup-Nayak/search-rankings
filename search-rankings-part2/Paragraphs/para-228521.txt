@@ -1,0 +1,10 @@
+62,361,12
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10959,1
+courtesy,1
+joachim,1
+alva,1

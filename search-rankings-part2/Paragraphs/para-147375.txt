@@ -1,0 +1,11 @@
+43,34,6
+8,1
+although,1
+a,2
+doctor,1
+will,1
+take,1
+up,1
+handloorn,1
+spinning,1
+wheel,1

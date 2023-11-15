@@ -1,0 +1,9 @@
+81,110,9
+208,1
+letter,1
+to,1
+amrit,1
+kaur,1
+september,1
+22,1
+1941,1

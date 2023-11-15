@@ -1,0 +1,6 @@
+19,498,2
+general,1
+smuts,1
+reply,1
+to,1
+deputation,1

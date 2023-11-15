@@ -1,0 +1,12 @@
+66,150,3
+all,1
+this,1
+change,1
+can,1
+only,1
+be,1
+brought,1
+about,1
+by,1
+some,1
+previous,1

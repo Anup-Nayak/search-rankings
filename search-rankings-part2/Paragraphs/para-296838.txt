@@ -1,0 +1,14 @@
+79,119,12
+2,2
+on,1
+home,1
+medicine,1
+vide,1
+letter,1
+to,1
+satis,1
+chandra,1
+das,1
+gupta,1
+8,1
+1940,1

@@ -1,0 +1,7 @@
+71,121,3
+accepts,1
+my,1
+interpretation,1
+and,1
+condemns,1
+present,1

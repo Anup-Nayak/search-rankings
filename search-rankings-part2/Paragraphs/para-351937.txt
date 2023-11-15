@@ -1,0 +1,6 @@
+91,160,3
+a,1
+harijan,1
+from,1
+gujarat,1
+writes,1

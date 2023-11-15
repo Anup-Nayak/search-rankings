@@ -1,0 +1,8 @@
+75,120,5
+150,1
+letter,1
+to,1
+satish,1
+d,1
+kalelkar,1
+2,1

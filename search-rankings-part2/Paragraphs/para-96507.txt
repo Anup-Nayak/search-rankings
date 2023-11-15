@@ -1,0 +1,13 @@
+28,377,3
+m,1
+k,1
+gandhi,1
+seth,1
+khushi,1
+ram,1
+daryanomal,1
+zamindar,1
+jaco,1
+ba,1
+bad,1
+sind,1

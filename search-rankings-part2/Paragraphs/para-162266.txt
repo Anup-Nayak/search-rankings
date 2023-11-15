@@ -1,0 +1,5 @@
+46,459,4
+are,1
+deteriorating,1
+day,2
+by,1

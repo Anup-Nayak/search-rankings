@@ -1,0 +1,8 @@
+1,17,4
+mahatma,1
+vol,1
+i,1
+also,1
+from,1
+a,1
+photostat,1

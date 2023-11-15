@@ -1,0 +1,13 @@
+16,122,2
+1,1
+tuft,1
+of,2
+hair,1
+at,1
+the,2
+back,1
+head,1
+kept,1
+by,1
+orthodox,1
+hindus,1

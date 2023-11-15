@@ -1,0 +1,4 @@
+19,47,3
+41,1
+widows,1
+outpouring,1

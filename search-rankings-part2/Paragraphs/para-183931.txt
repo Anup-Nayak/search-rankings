@@ -1,0 +1,15 @@
+52,189,17
+it,1
+is,1
+the,2
+spirit,1
+of,1
+age,1
+that,1
+ones,1
+devotion,1
+to,1
+religion,1
+and,1
+god,1
+should,1

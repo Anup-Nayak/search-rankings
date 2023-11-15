@@ -1,0 +1,6 @@
+10,427,1
+258,1
+starvation,1
+of,1
+passive,1
+resisters,1

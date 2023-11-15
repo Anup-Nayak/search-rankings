@@ -1,0 +1,8 @@
+86,161,11
+yours,1
+m,1
+k,1
+gandhi,1
+mahmud,1
+yasin,1
+ludhiana,1

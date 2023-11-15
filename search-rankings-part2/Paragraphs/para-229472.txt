@@ -1,0 +1,12 @@
+63,23,8
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+10741,1
+courtesy,1
+govindbhai,1
+r,1
+patel,1

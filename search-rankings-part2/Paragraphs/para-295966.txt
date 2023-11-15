@@ -1,0 +1,11 @@
+78,449,8
+secure,1
+the,3
+closest,1
+co,1
+operation,1
+of,1
+responsible,1
+government,1
+in,1
+provinces,1

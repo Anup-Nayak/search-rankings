@@ -1,0 +1,10 @@
+90,8,12
+opinion,1
+has,1
+value,1
+fast,1
+should,1
+be,1
+suspended,1
+pending,1
+declaration,1

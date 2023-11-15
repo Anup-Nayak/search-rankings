@@ -1,0 +1,13 @@
+94,227,3
+g,1
+you,2
+are,1
+right,1
+but,1
+must,1
+give,1
+them,1
+a,1
+chance,1
+to,1
+understand,1

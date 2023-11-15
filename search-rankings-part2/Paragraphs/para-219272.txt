@@ -1,0 +1,16 @@
+60,280,10
+1,1
+the,1
+addressee,1
+had,1
+informed,1
+gandhiji,1
+of,1
+his,1
+intention,1
+to,3
+go,1
+madanapalli,1
+take,1
+up,1
+teaching,1

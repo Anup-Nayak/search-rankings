@@ -1,0 +1,6 @@
+81,115,5
+1,1
+khadi,1
+vidyalaya,1
+at,1
+sevagram,1

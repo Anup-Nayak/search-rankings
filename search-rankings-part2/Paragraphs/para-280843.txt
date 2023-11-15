@@ -1,0 +1,17 @@
+75,122,16
+1,1
+for,1
+shri,1
+ramana,2
+maharshis,2
+comments,2
+on,2
+this,1
+vide,1
+sri,1
+gandhijis,1
+description,1
+of,2
+his,1
+state,1
+mind,1

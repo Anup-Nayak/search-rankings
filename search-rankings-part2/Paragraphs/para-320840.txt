@@ -1,0 +1,16 @@
+84,157,1
+way,1
+to,2
+fill,1
+the,1
+void,1
+created,1
+by,1
+his,2
+passing,1
+away,1
+is,1
+emulate,1
+that,1
+love,1
+of,1

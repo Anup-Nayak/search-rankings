@@ -1,0 +1,15 @@
+77,167,12
+lakshmi,1
+what,1
+sort,1
+of,1
+a,1
+person,1
+you,2
+are,1
+go,1
+on,1
+falling,1
+ill,1
+and,1
+making,1

@@ -1,0 +1,8 @@
+14,75,10
+meeting,1
+at,1
+which,1
+many,1
+english,1
+visitors,1
+were,1

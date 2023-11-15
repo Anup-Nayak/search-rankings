@@ -1,0 +1,9 @@
+86,329,12
+1,1
+the,1
+addressee,1
+had,1
+been,1
+suffering,1
+from,1
+gastritis,1

@@ -1,0 +1,5 @@
+92,181,1
+is,1
+it,1
+not,1
+cowardice,1

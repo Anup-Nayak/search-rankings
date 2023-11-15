@@ -1,0 +1,12 @@
+71,27,10
+thesehalf,1
+dead,1
+half,1
+living,1
+masses,1
+require,1
+but,1
+more,1
+vocational,1
+schools,1
+and,1

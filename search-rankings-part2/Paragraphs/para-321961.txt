@@ -1,0 +1,17 @@
+84,279,4
+i,2
+do,1
+not,1
+know,1
+whether,1
+sent,1
+you,1
+any,1
+reply,1
+to,2
+your,1
+letter,1
+of,1
+24th,1
+july,1
+bapu,1

@@ -1,0 +1,5 @@
+33,387,4
+289,1
+ghosts,1
+and,1
+spirits,1

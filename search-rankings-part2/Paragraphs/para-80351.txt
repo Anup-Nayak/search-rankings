@@ -1,0 +1,6 @@
+23,340,2
+from,1
+the,1
+five,1
+hundredth,1
+floor,1

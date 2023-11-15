@@ -1,0 +1,6 @@
+72,228,4
+306,1
+for,1
+ministers,1
+of,1
+education,1

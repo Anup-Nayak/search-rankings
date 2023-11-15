@@ -1,0 +1,12 @@
+52,323,25
+then,1
+houses,1
+of,2
+their,2
+own,1
+and,1
+the,1
+number,1
+cattle,1
+would,1
+increase,1

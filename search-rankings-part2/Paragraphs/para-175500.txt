@@ -1,0 +1,7 @@
+50,197,6
+1,1
+the,1
+original,1
+was,1
+in,1
+gujarati,1

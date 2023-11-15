@@ -1,0 +1,6 @@
+75,56,18
+sevagram,1
+wardha,1
+february,1
+9,1
+1939,1

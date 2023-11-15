@@ -1,0 +1,12 @@
+82,93,20
+whole,1
+country,1
+the,1
+provinces,1
+cities,1
+etc,1
+to,2
+prevent,1
+incidents,1
+likely,1
+hurt,1

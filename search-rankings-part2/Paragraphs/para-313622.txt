@@ -1,0 +1,12 @@
+82,310,20
+placed,1
+by,2
+the,3
+merchants,1
+are,1
+not,1
+executed,1
+people,1
+at,1
+centres,1
+like,1

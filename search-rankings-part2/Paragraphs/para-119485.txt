@@ -1,0 +1,13 @@
+35,253,3
+m,2
+k,1
+gandhi,1
+abbas,1
+tyabji,2
+esq,1
+c/o,1
+b,1
+french,1
+road,1
+chaupatti,1
+bombay,1

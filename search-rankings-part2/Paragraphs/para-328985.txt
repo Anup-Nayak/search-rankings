@@ -1,0 +1,7 @@
+86,32,8
+rameshwari,1
+nehru,1
+fairfields,1
+queens,1
+road,1
+lahore,1

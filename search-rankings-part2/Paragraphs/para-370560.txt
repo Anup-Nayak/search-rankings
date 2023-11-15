@@ -1,0 +1,12 @@
+96,101,12
+pleasure,1
+seems,2
+to,2
+have,1
+undergone,1
+a,1
+radical,1
+change,1
+there,1
+be,1
+very,1

@@ -1,0 +1,11 @@
+43,133,8
+1,1
+the,2
+source,1
+has,1
+21,1
+vide,1
+also,1
+following,1
+two,1
+items,1

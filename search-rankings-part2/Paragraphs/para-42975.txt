@@ -1,0 +1,10 @@
+13,146,13
+ly,1
+met,1
+stop,1
+if,1
+bill,1
+will,1
+take,1
+time,1
+before,1

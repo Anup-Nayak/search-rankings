@@ -1,0 +1,4 @@
+10,48,7
+the,1
+indian,1
+sociologist,1

@@ -1,0 +1,13 @@
+68,77,6
+q,1
+you,2
+write,1
+of,1
+mud,1
+pack,1
+remedies,1
+but,1
+cannot,1
+give,1
+any,1
+assurances,1

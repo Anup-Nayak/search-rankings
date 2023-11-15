@@ -1,0 +1,4 @@
+26,190,2
+to,1
+every,1
+gujarati,1

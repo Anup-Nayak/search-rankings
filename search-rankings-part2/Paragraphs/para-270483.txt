@@ -1,0 +1,6 @@
+72,392,2
+506,1
+letter,1
+to,1
+nirmala,1
+gandhi,1

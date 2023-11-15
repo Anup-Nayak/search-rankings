@@ -1,0 +1,9 @@
+5,10,5
+1,1
+vide,1
+indian,1
+ambulance,1
+corps,1
+13,1
+12,1
+1899,1

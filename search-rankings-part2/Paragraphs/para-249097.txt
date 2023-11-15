@@ -1,0 +1,5 @@
+67,232,8
+to,1
+slaughter,1
+i,1
+condemn,1

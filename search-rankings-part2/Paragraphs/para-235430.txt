@@ -1,0 +1,4 @@
+64,226,20
+language,1
+and,1
+literature,1

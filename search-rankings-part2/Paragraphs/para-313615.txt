@@ -1,0 +1,16 @@
+82,310,13
+salt,1
+are,1
+ineffective,1
+it,1
+is,1
+worse,1
+than,1
+useless,1
+to,1
+control,1
+the,1
+price,1
+of,2
+an,1
+article,1

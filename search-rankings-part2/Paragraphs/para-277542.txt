@@ -1,0 +1,7 @@
+74,220,7
+293,1
+mass,1
+literacy,1
+campaign,1
+in,1
+bihar,1

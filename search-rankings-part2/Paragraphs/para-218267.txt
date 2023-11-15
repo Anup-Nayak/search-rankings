@@ -1,0 +1,8 @@
+60,155,4
+glad,1
+about,1
+satyavati,1
+you,1
+can,1
+go,1
+almora,1

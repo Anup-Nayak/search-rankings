@@ -1,0 +1,12 @@
+30,217,20
+a,1
+we,2
+did,1
+not,1
+fix,1
+any,1
+conditions,1
+before,1
+nor,1
+do,1
+now,1

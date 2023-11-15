@@ -1,0 +1,15 @@
+75,52,19
+1,1
+the,2
+news,1
+report,1
+carrying,1
+this,1
+item,2
+is,1
+dated,1
+february,1
+8,1
+2,1
+vide,1
+following,1

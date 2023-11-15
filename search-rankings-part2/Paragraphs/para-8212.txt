@@ -1,0 +1,9 @@
+3,364,7
+there,1
+appears,1
+in,1
+the,2
+transvaal,1
+government,1
+gazette,1
+dated,1

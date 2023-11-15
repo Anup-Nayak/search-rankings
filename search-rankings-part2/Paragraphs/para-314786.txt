@@ -1,0 +1,15 @@
+82,388,5
+a,1
+father,1
+wields,1
+power,1
+over,1
+his,1
+children,1
+he,1
+may,1
+even,1
+punish,1
+but,1
+not,1
+by,1

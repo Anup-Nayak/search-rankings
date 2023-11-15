@@ -1,0 +1,9 @@
+28,148,11
+approached,1
+mr,2
+rangam,2
+chetty,2
+fully,1
+drunk,1
+escaped,1
+from,1

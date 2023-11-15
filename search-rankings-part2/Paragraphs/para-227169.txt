@@ -1,0 +1,6 @@
+62,183,2
+202,1
+the,1
+utilization,1
+of,1
+donations,1

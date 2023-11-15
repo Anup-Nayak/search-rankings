@@ -1,0 +1,10 @@
+6,71,2
+we,1
+are,1
+etc,1
+m,1
+k,1
+gandhi,1
+h,1
+o,1
+ally,1

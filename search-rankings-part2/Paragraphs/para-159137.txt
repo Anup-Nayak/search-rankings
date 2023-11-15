@@ -1,0 +1,8 @@
+46,107,11
+wrong,1
+to,2
+india,2
+or,1
+through,1
+the,1
+world,1

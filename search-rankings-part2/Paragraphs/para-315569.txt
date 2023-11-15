@@ -1,0 +1,13 @@
+82,411,5
+freedom,1
+i,2
+do,1
+not,2
+welcome,1
+their,1
+sympathy,1
+or,1
+help,1
+know,1
+they,1
+are,1

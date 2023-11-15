@@ -1,0 +1,10 @@
+94,271,7
+1,1
+ham,1
+aise,1
+deshke,1
+vasi,1
+hain,1
+vide,1
+the,1
+hymn,1

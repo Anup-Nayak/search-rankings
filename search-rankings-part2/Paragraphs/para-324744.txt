@@ -1,0 +1,7 @@
+85,99,9
+bapu,1
+ps,1
+get,1
+acquainted,1
+with,1
+amin,1

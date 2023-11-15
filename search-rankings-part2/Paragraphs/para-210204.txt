@@ -1,0 +1,7 @@
+58,302,1
+439,1
+letter,1
+to,1
+an,1
+english,1
+woman,1

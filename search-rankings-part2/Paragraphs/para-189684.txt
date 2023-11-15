@@ -1,0 +1,6 @@
+53,343,2
+407,1
+interview,1
+to,1
+reuter,1
+marseilles,1

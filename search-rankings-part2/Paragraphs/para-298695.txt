@@ -1,0 +1,12 @@
+79,357,5
+wardha,1
+november,1
+7,1
+1940,1
+anand,1
+hingorani,1
+upper,1
+sind,1
+colony,1
+karachi,1
+sadar,1

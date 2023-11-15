@@ -1,0 +1,5 @@
+95,355,4
+339,1
+some,1
+valuable,1
+hints,1

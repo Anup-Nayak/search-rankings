@@ -1,0 +1,10 @@
+2,355,2
+from,1
+the,2
+photostat,1
+of,1
+original,1
+gujarati,1
+s,1
+n,1
+3445,1

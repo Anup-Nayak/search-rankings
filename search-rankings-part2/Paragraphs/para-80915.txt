@@ -1,0 +1,7 @@
+23,434,1
+210,1
+speech,1
+at,1
+parel,1
+bombay,1
+1,1

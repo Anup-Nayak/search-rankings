@@ -1,0 +1,5 @@
+82,17,8
+5,1
+service,1
+of,1
+harijans,1

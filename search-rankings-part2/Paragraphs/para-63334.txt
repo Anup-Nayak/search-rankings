@@ -1,0 +1,6 @@
+18,77,7
+1,1
+prayer,1
+with,1
+set,1
+formula,1

@@ -1,0 +1,4 @@
+35,200,8
+fountain,1
+house,1
+mahabaleshwar,1

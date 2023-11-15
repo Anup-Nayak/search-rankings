@@ -1,0 +1,17 @@
+81,304,11
+from,1
+your,1
+index,1
+i,1
+see,1
+it,1
+is,1
+not,1
+going,1
+to,1
+be,1
+a,1
+popular,1
+book,1
+telling,1
+the,1

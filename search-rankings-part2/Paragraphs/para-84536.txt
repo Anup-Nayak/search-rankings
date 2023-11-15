@@ -1,0 +1,6 @@
+25,56,2
+r,1
+c,1
+banerjee,1
+ratan,1
+ganj,1

@@ -1,0 +1,14 @@
+31,152,4
+is,1
+it,1
+true,1
+that,1
+some,1
+committees,1
+are,1
+accepting,1
+cash,1
+value,1
+for,1
+yarn,1
+as,1

@@ -1,0 +1,8 @@
+30,197,11
+a,1
+i,1
+have,1
+no,1
+knowledge,1
+of,1
+it,1

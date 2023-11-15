@@ -1,0 +1,5 @@
+19,334,16
+for,1
+each,1
+others,1
+sakes,1

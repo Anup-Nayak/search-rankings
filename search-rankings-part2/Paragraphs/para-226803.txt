@@ -1,0 +1,9 @@
+62,132,13
+2,1
+gandhiji,1
+had,1
+opened,1
+a,1
+temple,1
+to,1
+harijans,1

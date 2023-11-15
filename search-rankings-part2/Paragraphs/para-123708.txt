@@ -1,0 +1,10 @@
+36,274,8
+one,1
+who,1
+knows,1
+what,1
+she,1
+is,1
+writing,1
+about,1
+says,1

@@ -1,0 +1,6 @@
+59,89,6
+132,1
+letter,1
+to,1
+sumangal,1
+prakash,1

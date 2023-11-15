@@ -1,0 +1,6 @@
+25,16,5
+6,1
+untouchability,1
+in,1
+hindu,1
+shastras,1

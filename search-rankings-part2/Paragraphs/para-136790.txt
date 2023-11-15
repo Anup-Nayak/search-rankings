@@ -1,0 +1,12 @@
+40,41,7
+a,1
+volunteer,1
+do,1
+you,1
+permit,1
+us,1
+to,1
+proceed,1
+with,1
+our,1
+struggle,1

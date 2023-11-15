@@ -1,0 +1,9 @@
+82,197,11
+1,1
+the,1
+addressees,2
+son,2
+and,1
+his,1
+bride,1
+2,1

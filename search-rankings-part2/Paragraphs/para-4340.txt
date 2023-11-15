@@ -1,0 +1,11 @@
+2,237,14
+to,3
+the,5
+clerk,2
+of,3
+licensing,1
+board,2
+for,1
+division,1
+or,1
+local,1

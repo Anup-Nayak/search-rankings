@@ -1,0 +1,14 @@
+27,402,8
+i,2
+am,1
+enclosing,1
+an,1
+account,1
+of,1
+a,1
+tour,1
+in,1
+chittagong,1
+where,1
+went,1
+recently,1

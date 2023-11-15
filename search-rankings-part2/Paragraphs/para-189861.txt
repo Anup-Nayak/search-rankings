@@ -1,0 +1,9 @@
+53,369,6
+q,1
+are,1
+japanese,1
+goods,1
+preferred,1
+if,1
+so,1
+why,1

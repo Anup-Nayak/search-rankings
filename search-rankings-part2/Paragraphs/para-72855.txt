@@ -1,0 +1,14 @@
+21,51,4
+it,1
+impossible,1
+to,1
+express,1
+adequately,1
+the,2
+pain,1
+he,2
+felt,1
+for,1
+punjab,1
+wrong,1
+would,1

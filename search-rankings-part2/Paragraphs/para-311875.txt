@@ -1,0 +1,6 @@
+82,168,4
+200,1
+curious,1
+non,1
+violence,1
+1,1

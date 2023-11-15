@@ -1,0 +1,13 @@
+31,94,11
+have,1
+better,1
+people,2
+but,1
+not,1
+fewer,1
+in,1
+fact,1
+the,1
+problem,1
+of,1
+population,1

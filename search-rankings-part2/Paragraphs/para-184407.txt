@@ -1,0 +1,6 @@
+52,243,1
+337,1
+letter,1
+to,1
+wilhelm,1
+heydorn,1

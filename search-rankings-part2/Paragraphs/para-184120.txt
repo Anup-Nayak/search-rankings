@@ -1,0 +1,9 @@
+52,208,11
+press,1
+congress,1
+demand,1
+am,1
+therefore,1
+seeking,1
+way,1
+out,1

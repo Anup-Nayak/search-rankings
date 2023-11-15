@@ -1,0 +1,8 @@
+54,348,30
+as,1
+i,1
+understand,1
+it,1
+but,1
+before,1
+committing,1

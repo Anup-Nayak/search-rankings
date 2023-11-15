@@ -1,0 +1,6 @@
+92,14,1
+21,1
+letter,1
+to,1
+mohanlal,1
+rupani,1

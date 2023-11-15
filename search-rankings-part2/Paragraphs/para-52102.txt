@@ -1,0 +1,13 @@
+15,217,11
+1,1
+from,1
+the,1
+contents,1
+2,1
+reproduced,1
+on,1
+an,1
+art,1
+sheet,1
+facing,1
+p,1

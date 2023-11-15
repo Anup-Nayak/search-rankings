@@ -1,0 +1,13 @@
+46,393,8
+agra,1
+u,1
+p,1
+250,1
+houses,1
+were,1
+visited,1
+300,1
+rupees,1
+worth,1
+of,1
+khadi,1

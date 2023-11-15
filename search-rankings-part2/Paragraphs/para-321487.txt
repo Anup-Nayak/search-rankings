@@ -1,0 +1,11 @@
+84,227,4
+1,1
+vide,1
+draft,1
+instructions,1
+for,1
+civil,1
+resisters,1
+4,1
+8,1
+1942,1

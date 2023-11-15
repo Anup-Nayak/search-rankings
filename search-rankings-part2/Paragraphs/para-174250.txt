@@ -1,0 +1,15 @@
+50,64,5
+1,1
+from,1
+the,3
+draft,1
+available,1
+in,2
+s,1
+n,1
+19980,1
+source,1
+word,1
+is,1
+obli,1
+terated,1

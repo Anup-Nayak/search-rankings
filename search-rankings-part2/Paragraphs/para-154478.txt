@@ -1,0 +1,15 @@
+44,492,16
+t4,1
+for,1
+write,1
+something,1
+by,1
+way,1
+of,1
+a,1
+preface,1
+guj,1
+has,1
+narrate,1
+that,1
+sacred,1

@@ -1,0 +1,12 @@
+20,115,10
+q,1
+because,1
+they,2
+were,1
+big,1
+therefore,1
+had,1
+to,1
+suffer,1
+these,1
+lashes,1

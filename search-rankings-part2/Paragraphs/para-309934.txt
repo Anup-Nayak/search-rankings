@@ -1,0 +1,4 @@
+82,9,6
+1,1
+devotional,1
+verse,1

@@ -1,0 +1,7 @@
+33,429,5
+331,1
+letter,1
+to,1
+a,1
+social,1
+worker,1

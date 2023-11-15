@@ -1,0 +1,6 @@
+82,368,3
+430,1
+dr,1
+tarachand,1
+and,1
+hindustani,1

@@ -1,0 +1,6 @@
+36,191,4
+213,1
+has,1
+non,1
+violence,1
+limits,1

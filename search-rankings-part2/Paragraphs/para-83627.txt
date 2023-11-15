@@ -1,0 +1,6 @@
+24,397,6
+outrage,1
+in,1
+name,1
+of,1
+religion,1

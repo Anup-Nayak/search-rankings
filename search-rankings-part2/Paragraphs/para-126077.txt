@@ -1,0 +1,8 @@
+37,37,1
+human,1
+beings,1
+as,1
+are,1
+killed,1
+by,1
+guns,1

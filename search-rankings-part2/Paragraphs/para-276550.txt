@@ -1,0 +1,17 @@
+74,94,2
+2,1
+mother,2
+tongue,2
+is,2
+defined,1
+as,1
+of,1
+the,1
+areawhich,1
+divided,1
+into,1
+hindi,1
+and,1
+marathithus,1
+excluding,1
+urdu,1

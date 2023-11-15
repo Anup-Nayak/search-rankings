@@ -1,0 +1,7 @@
+22,486,3
+1,1
+porbandar,1
+2,1
+rule,1
+of,1
+demons,1

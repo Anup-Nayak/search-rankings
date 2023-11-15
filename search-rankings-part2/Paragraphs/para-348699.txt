@@ -1,0 +1,11 @@
+90,246,4
+uruli,1
+march,1
+29,1
+1946,1
+when,1
+the,2
+ego,1
+dies,1
+soul,1
+awakes,1

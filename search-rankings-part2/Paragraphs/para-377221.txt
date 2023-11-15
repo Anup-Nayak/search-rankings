@@ -1,0 +1,15 @@
+98,38,5
+shankarrao,1
+deo,1
+this,1
+is,1
+not,1
+the,2
+right,1
+way,1
+to,1
+go,1
+about,1
+it,1
+workers,1
+should,1

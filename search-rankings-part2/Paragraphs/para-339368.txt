@@ -1,0 +1,12 @@
+88,113,7
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+g,1
+n,1
+8362,1
+and,1
+8430,1

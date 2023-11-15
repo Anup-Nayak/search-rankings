@@ -1,0 +1,15 @@
+71,321,5
+gods,1
+who,1
+are,1
+dead,1
+and,2
+gone,1
+your,1
+rama,1
+was,1
+born,1
+behaved,1
+acted,1
+like,1
+an,1

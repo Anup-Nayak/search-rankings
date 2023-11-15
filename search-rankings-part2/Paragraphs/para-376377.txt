@@ -1,0 +1,7 @@
+97,396,8
+1,1
+crisp,1
+thin,1
+paper,1
+like,1
+chapatis,1

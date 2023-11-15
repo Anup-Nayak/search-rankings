@@ -1,0 +1,6 @@
+16,183,3
+85,1
+letter,1
+t0,1
+ambalal,1
+sarabhai,1

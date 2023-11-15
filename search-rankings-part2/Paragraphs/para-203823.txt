@@ -1,0 +1,7 @@
+57,104,7
+173,1
+cable,1
+to,1
+william,1
+shirer,1
+1,1

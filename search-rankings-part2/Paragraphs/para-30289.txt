@@ -1,0 +1,3 @@
+10,49,4
+determined,1
+women,1

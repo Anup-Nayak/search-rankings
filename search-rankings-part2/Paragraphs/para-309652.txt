@@ -1,0 +1,11 @@
+81,494,8
+1,2
+vide,1
+hand,1
+spun,1
+as,1
+measure,1
+of,1
+value,1
+13,1
+1942,1

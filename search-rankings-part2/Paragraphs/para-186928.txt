@@ -1,0 +1,7 @@
+53,42,9
+46,1
+telegram,1
+to,1
+abdul,1
+ghaffar,1
+khan,1

@@ -1,0 +1,5 @@
+27,295,10
+1,1
+carding,1
+was,1
+defective,1

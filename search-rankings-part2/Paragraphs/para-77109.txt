@@ -1,0 +1,4 @@
+22,283,3
+politics,1
+and,1
+religion,1

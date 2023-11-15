@@ -1,0 +1,8 @@
+8,41,11
+mr,1
+gandhi,1
+why,1
+do,1
+you,1
+not,1
+register,1

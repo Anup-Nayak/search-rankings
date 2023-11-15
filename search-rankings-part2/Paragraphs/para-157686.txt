@@ -1,0 +1,7 @@
+45,397,11
+1,1
+shankerlal,1
+banker,1
+2,1
+gulzarilal,1
+nanda,1

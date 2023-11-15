@@ -1,0 +1,14 @@
+82,421,4
+g,1
+yes,1
+i,5
+expect,1
+it,1
+any,1
+day,1
+am,2
+ready,2
+know,1
+may,1
+be,1
+arrested,1

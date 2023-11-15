@@ -1,0 +1,11 @@
+13,107,6
+the,2
+private,1
+secretary,1
+to,1
+his,1
+excellency,1
+governor,1
+general,1
+cape,1
+town,1

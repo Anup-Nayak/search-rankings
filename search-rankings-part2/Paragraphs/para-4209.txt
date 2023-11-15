@@ -1,0 +1,12 @@
+2,224,5
+we,2
+can,1
+only,1
+say,1
+that,1
+deeply,1
+regret,1
+the,2
+decision,1
+of,1
+privy,1

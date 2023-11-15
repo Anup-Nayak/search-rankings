@@ -1,0 +1,15 @@
+89,328,3
+the,2
+first,1
+questioner,1
+speaking,1
+in,1
+english,1
+requested,1
+gandhiji,1
+to,1
+tell,1
+them,1
+something,1
+about,1
+future,1

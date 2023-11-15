@@ -1,0 +1,8 @@
+11,267,15
+registered,1
+asiatics,2
+or,1
+who,1
+may,1
+enter,1
+under,1

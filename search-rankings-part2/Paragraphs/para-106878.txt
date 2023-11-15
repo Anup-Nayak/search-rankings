@@ -1,0 +1,15 @@
+31,324,16
+a,1
+i,1
+do,1
+not,1
+know,1
+probably,1
+they,1
+were,1
+if,1
+so,1
+it,1
+was,1
+their,1
+fault,1

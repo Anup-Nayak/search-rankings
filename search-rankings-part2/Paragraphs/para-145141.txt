@@ -1,0 +1,6 @@
+42,260,1
+299,1
+for,1
+south,1
+africa,1
+indians,1

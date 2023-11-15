@@ -1,0 +1,9 @@
+33,199,1
+of,1
+farmers,1
+some,1
+other,1
+occupation,1
+in,1
+their,1
+homes,1

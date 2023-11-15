@@ -1,0 +1,10 @@
+73,99,3
+q,1
+but,1
+the,1
+mending,1
+process,1
+may,1
+be,1
+very,1
+long,1

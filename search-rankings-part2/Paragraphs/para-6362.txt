@@ -1,0 +1,6 @@
+3,36,10
+pretoria,1
+archives,1
+lg,1
+92,1
+97/lg,1

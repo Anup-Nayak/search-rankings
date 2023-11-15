@@ -1,0 +1,9 @@
+19,16,5
+bazar,1
+gate,1
+street,1
+bombay,1
+october,1
+2,1
+1919,1
+1,1

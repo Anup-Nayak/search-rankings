@@ -1,0 +1,6 @@
+6,200,4
+195,1
+oppression,1
+in,1
+the,1
+cape,1

@@ -1,0 +1,7 @@
+45,47,1
+43,1
+fear,1
+of,1
+the,1
+penal,1
+code,1

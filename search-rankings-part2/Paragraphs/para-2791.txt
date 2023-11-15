@@ -1,0 +1,15 @@
+2,75,8
+know,1
+that,1
+the,2
+indentured,1
+indians,1
+settle,1
+in,1
+colony,1
+and,1
+yet,1
+all,1
+or,1
+at,1
+any,1

@@ -1,0 +1,16 @@
+78,81,12
+mr,1
+nehru,1
+and,1
+a,1
+few,1
+other,1
+eminent,1
+indians,1
+came,1
+to,1
+lanka,1
+our,1
+people,1
+met,1
+only,1

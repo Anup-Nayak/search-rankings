@@ -1,0 +1,7 @@
+54,253,3
+146,1
+speech,1
+at,1
+public,1
+meeting,1
+2,1

@@ -1,0 +1,15 @@
+75,389,5
+g,1
+it,2
+does,2
+not,2
+very,1
+seriously,1
+concern,1
+me,1
+for,1
+after,1
+all,1
+solve,1
+the,1
+difficulties,1

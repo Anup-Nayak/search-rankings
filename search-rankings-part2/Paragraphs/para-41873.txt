@@ -1,0 +1,5 @@
+12,482,2
+the,1
+open,1
+door,1
+policy,1

@@ -1,0 +1,9 @@
+14,5,11
+friend,1
+government,1
+has,1
+just,1
+wired,1
+asking,1
+me,1
+suspend,1

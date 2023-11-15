@@ -1,0 +1,10 @@
+76,50,16
+dation,1
+birla,1
+house,1
+improper,1
+only,1
+proper,1
+place,1
+for,1
+allopathic,1

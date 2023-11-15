@@ -1,0 +1,6 @@
+77,255,9
+305,1
+letter,1
+to,1
+abdul,1
+khalil,1

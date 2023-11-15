@@ -1,0 +1,9 @@
+37,59,3
+mohandas,1
+doctor,1
+saheb,1
+ravishanker,1
+ganeshji,1
+anjaria,1
+mangrol,1
+kathiawar,1

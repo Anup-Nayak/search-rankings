@@ -1,0 +1,11 @@
+67,308,8
+1,1
+from,1
+the,2
+addressees,1
+reply,1
+which,1
+also,1
+appeared,1
+in,1
+source,1

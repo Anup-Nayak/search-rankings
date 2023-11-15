@@ -1,0 +1,16 @@
+33,124,10
+sure,1
+there,1
+was,2
+no,1
+place,1
+in,1
+hinduism,1
+for,1
+untouchability,1
+it,1
+a,1
+sin,1
+to,1
+treat,1
+any,1

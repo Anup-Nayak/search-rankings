@@ -1,0 +1,11 @@
+97,186,6
+bapu,1
+madame,1
+edmond,1
+privat,1
+avenue,1
+de,1
+la,1
+gare,1
+neuchatel,1
+switzerland,1

@@ -1,0 +1,6 @@
+53,146,5
+160,1
+five,1
+hundred,1
+rupee,1
+limit,1

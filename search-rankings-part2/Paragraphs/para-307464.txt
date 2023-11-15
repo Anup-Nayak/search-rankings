@@ -1,0 +1,10 @@
+81,224,9
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10374,1
+courtesy,1
+gandhi,1
+annamalai,1

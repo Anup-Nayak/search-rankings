@@ -1,0 +1,5 @@
+64,168,2
+1,1
+opposite,1
+of,1
+dharma,1

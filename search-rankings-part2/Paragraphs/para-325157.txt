@@ -1,0 +1,15 @@
+85,138,8
+i,1
+do,2
+want,1
+to,2
+write,1
+something,1
+for,1
+you,1
+but,1
+not,1
+have,1
+a,1
+moment,1
+spare,1

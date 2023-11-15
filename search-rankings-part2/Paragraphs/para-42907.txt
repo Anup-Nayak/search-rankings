@@ -1,0 +1,9 @@
+13,144,7
+munity,1
+stop,1
+it,1
+takes,1
+away,1
+right,1
+south,1
+africa,1

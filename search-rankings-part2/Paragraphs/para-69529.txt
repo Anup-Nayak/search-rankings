@@ -1,0 +1,5 @@
+20,2,8
+punjab,1
+commonly,1
+known,1
+as,1

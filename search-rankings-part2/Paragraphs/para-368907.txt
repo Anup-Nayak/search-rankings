@@ -1,0 +1,11 @@
+95,325,5
+from,1
+the,1
+gujarati,1
+original,1
+c,1
+w,1
+2923,1
+courtesy,1
+vallabhram,1
+vaidya,1

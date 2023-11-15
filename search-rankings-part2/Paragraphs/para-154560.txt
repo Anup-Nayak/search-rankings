@@ -1,0 +1,13 @@
+44,495,16
+has,1
+before,1
+the,2
+name,1
+satyagraha,1
+was,1
+invented,1
+thing,1
+had,1
+come,1
+into,1
+being,1

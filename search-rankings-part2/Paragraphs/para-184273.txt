@@ -1,0 +1,14 @@
+52,228,6
+my,1
+opinion,1
+permission,1
+cannot,1
+be,1
+granted,1
+gandhi,1
+from,1
+a,1
+microfilm,1
+s,1
+n,1
+17183,1

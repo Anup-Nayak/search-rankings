@@ -1,0 +1,15 @@
+6,145,18
+position,1
+to,3
+take,1
+up,1
+it,1
+is,1
+an,1
+injustice,1
+the,3
+rest,1
+of,1
+population,1
+as,2
+well,1

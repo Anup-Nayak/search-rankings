@@ -1,0 +1,13 @@
+54,85,8
+find,1
+myself,1
+today,1
+in,1
+greater,1
+disagreement,1
+with,1
+you,1
+than,1
+even,1
+mr,1
+winston,1

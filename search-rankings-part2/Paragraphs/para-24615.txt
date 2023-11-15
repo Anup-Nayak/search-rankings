@@ -1,0 +1,6 @@
+8,256,4
+freedom,1
+for,1
+blacks,1
+to,1
+drink,1

@@ -1,0 +1,16 @@
+87,182,2
+i,3
+cannot,1
+say,1
+when,1
+shall,1
+be,2
+able,1
+to,1
+come,1
+there,1
+but,1
+hope,1
+it,1
+will,1
+soon,1

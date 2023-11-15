@@ -1,0 +1,6 @@
+72,297,4
+378,1
+letter,1
+to,1
+sumitra,1
+gandhi,1

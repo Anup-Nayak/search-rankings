@@ -1,0 +1,7 @@
+11,267,13
+education,1
+test,1
+prom,1
+operation,1
+asiatic,1
+registration,1

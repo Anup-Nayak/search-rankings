@@ -1,0 +1,17 @@
+47,195,3
+dear,1
+friend,1
+1,1
+it,1
+is,3
+necessary,1
+to,1
+pray,1
+because,1
+prayer,1
+food,2
+for,2
+the,2
+soul,1
+as,1
+body,1

@@ -1,0 +1,5 @@
+91,7,6
+7,1
+mango,1
+seed,1
+kernel,1

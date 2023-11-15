@@ -1,0 +1,8 @@
+19,443,5
+with,1
+moderation,1
+and,1
+express,1
+truth,1
+in,1
+language,1

@@ -1,0 +1,12 @@
+94,201,7
+q,1
+should,1
+we,1
+ask,1
+the,1
+hindus,1
+not,1
+to,1
+buy,1
+their,1
+properties,1

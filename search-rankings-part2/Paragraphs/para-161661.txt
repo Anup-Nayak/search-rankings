@@ -1,0 +1,15 @@
+46,391,17
+i,2
+write,1
+this,2
+to,1
+ask,1
+your,1
+help,1
+in,1
+work,1
+enclose,1
+a,1
+cutting,1
+from,1
+the,1

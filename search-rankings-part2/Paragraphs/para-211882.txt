@@ -1,0 +1,14 @@
+58,469,6
+1,1
+radha,1
+gandhi,3
+daughter,1
+of,3
+maganlal,2
+2,1
+widow,1
+3,1
+ramabehn,1
+joshi,2
+wife,1
+chhaganlal,1

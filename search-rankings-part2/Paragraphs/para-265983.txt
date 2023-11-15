@@ -1,0 +1,13 @@
+71,321,21
+of,1
+the,2
+people,1
+by,1
+repeating,1
+unpleasant,1
+things,1
+which,1
+were,1
+not,1
+true,1
+local,1

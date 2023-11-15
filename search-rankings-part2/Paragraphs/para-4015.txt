@@ -1,0 +1,5 @@
+2,194,10
+from,1
+british,1
+indians,1
+johannesburg,1

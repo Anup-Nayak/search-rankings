@@ -1,0 +1,10 @@
+79,13,7
+12,1
+letter,1
+to,1
+amrit,1
+kaur,1
+sevagram,1
+july,1
+17,1
+1940,1

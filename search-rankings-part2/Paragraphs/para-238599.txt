@@ -1,0 +1,6 @@
+65,120,3
+150,1
+lettte,1
+to,1
+kamala,1
+nehru,1

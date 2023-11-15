@@ -1,0 +1,3 @@
+64,8,4
+gilbert,1
+building,1

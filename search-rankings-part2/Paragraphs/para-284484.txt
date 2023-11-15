@@ -1,0 +1,6 @@
+76,72,7
+92,1
+indians,1
+in,1
+belgian,1
+congo,1

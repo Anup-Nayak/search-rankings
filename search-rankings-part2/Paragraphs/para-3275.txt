@@ -1,0 +1,15 @@
+2,109,20
+and,1
+in,1
+fact,1
+reuters,1
+cable,1
+read,1
+by,1
+itself,1
+gives,1
+some,1
+such,1
+impression,1
+when,1
+the,1

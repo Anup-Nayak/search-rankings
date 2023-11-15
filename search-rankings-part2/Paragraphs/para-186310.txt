@@ -1,0 +1,10 @@
+52,457,3
+1,1
+abdul,1
+ghaffars,1
+activities,1
+and,1
+speeches,1
+since,1
+the,1
+amnesty,1

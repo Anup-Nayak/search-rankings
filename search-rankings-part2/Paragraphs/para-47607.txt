@@ -1,0 +1,6 @@
+14,207,3
+187,1
+marriage,1
+law,1
+in,1
+mauritius,1

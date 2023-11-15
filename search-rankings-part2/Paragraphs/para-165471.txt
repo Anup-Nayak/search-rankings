@@ -1,0 +1,16 @@
+47,359,12
+1,1
+the,2
+addressee,1
+had,1
+come,1
+to,1
+stay,1
+in,1
+ashram,1
+for,2
+study,1
+and,1
+experience,1
+six,1
+months,1

@@ -1,0 +1,5 @@
+44,479,26
+t1,1
+guj,1
+has,1
+disturbed,1

@@ -1,0 +1,12 @@
+17,14,7
+1,1
+the,2
+reference,1
+is,1
+obviously,1
+to,1
+his,1
+part,1
+in,1
+war,1
+conference,1

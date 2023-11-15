@@ -1,0 +1,16 @@
+59,490,16
+bapu,1
+i,2
+do,2
+not,2
+look,1
+upon,1
+it,1
+as,1
+any,1
+hitch,1
+believe,1
+that,1
+all,1
+those,1
+who,1

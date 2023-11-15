@@ -1,0 +1,8 @@
+26,389,8
+father,1
+dear,1
+show,1
+your,1
+love,1
+for,1
+me,1

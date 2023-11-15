@@ -1,0 +1,13 @@
+37,484,8
+you,1
+say,1
+to,3
+me,2
+my,1
+friend,1
+that,1
+it,1
+is,1
+for,1
+reply,1
+them,1

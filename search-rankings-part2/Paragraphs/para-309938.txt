@@ -1,0 +1,9 @@
+82,10,3
+1,1
+the,2
+following,1
+three,1
+sentences,1
+are,1
+from,1
+hindi,1

@@ -1,0 +1,6 @@
+36,108,4
+118,1
+letter,1
+to,1
+virasuta,1
+tribhuvan,1

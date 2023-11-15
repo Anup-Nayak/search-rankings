@@ -1,0 +1,11 @@
+2,83,2
+on,1
+the,2
+12th,1
+january,1
+there,1
+were,1
+no,1
+signals,1
+from,1
+shore,1

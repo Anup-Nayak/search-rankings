@@ -1,0 +1,6 @@
+61,97,5
+102,1
+letter,1
+to,1
+gomtibehn,1
+mashruwala,1

@@ -1,0 +1,10 @@
+53,203,10
+was,1
+given,1
+to,2
+peasants,1
+that,1
+if,1
+they,1
+paid,1
+according,1

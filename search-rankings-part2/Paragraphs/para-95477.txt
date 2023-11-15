@@ -1,0 +1,10 @@
+28,209,1
+the,2
+following,1
+is,1
+statement,1
+referred,1
+to,1
+by,1
+dr,1
+mahmud,1

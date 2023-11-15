@@ -1,0 +1,9 @@
+15,486,17
+1,1
+the,1
+subject,1
+under,1
+discussion,1
+was,1
+tinkathia,1
+indigo,1

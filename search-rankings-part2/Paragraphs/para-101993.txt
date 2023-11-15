@@ -1,0 +1,3 @@
+30,101,1
+spinning,1
+operations,1

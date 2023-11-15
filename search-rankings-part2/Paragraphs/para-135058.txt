@@ -1,0 +1,7 @@
+39,290,3
+m,1
+chengiah,1
+chetty,1
+chamarajpet,1
+bangalore,1
+city,1

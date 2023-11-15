@@ -1,0 +1,5 @@
+7,421,6
+acknowledgement,1
+of,2
+receipt,1
+application,1

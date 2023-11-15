@@ -1,0 +1,10 @@
+85,17,6
+j,1
+how,1
+much,1
+should,1
+we,1
+spend,1
+on,1
+a,1
+worker,1

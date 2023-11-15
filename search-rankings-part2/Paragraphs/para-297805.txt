@@ -1,0 +1,13 @@
+79,257,3
+and,1
+contradictory,1
+character,1
+of,2
+the,1
+doctrine,1
+non,1
+co,1
+operation,1
+is,1
+a,1
+method,1

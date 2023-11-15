@@ -1,0 +1,10 @@
+52,457,10
+7,1
+the,1
+increase,1
+in,1
+crime,1
+that,1
+has,1
+occurred,1
+there,1

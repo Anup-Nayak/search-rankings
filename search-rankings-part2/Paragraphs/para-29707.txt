@@ -1,0 +1,11 @@
+9,483,4
+4,1
+extract,1
+from,1
+robert,1
+sutherlands,1
+letter,1
+to,1
+rand,1
+daily,1
+mail,1

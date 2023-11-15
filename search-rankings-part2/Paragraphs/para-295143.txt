@@ -1,0 +1,17 @@
+78,354,3
+knowest,1
+thou,1
+that,1
+we,2
+do,1
+not,1
+see,2
+the,4
+exterior,1
+nor,1
+words,1
+only,1
+interior,1
+and,1
+real,1
+thing,1

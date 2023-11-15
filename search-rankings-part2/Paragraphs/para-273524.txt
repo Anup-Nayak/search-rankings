@@ -1,0 +1,10 @@
+73,247,3
+bapu,1
+fulchand,1
+kasturchand,1
+shah,1
+kelavani,1
+mandal,1
+wadhwan,1
+city,1
+kathiawar,1

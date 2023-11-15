@@ -1,0 +1,9 @@
+53,210,23
+i,1
+hold,1
+to,1
+be,1
+perfectly,1
+natural,1
+and,1
+simple,1

@@ -1,0 +1,9 @@
+81,510,10
+congress,1
+committees,1
+and,1
+congressmen,1
+should,1
+therefore,1
+address,1
+themselves,1

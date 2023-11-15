@@ -1,0 +1,5 @@
+19,112,2
+from,1
+hindi,1
+mahatma,1
+gandhi,1

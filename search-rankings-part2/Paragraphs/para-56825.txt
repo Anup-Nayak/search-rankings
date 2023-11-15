@@ -1,0 +1,8 @@
+16,286,4
+176,1
+speech,1
+t0,1
+ahmedabad,1
+mill,1
+hands,1
+1,1

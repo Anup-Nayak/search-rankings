@@ -1,0 +1,13 @@
+73,135,2
+he,1
+added,1
+that,1
+both,1
+these,1
+expressions,1
+of,2
+opinion,1
+from,1
+different,1
+points,1
+view,1

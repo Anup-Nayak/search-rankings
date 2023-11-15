@@ -1,0 +1,16 @@
+82,396,18
+l,1
+f,1
+no,1
+that,1
+is,2
+not,1
+correct,1
+after,1
+the,1
+invasion,1
+russia,1
+got,1
+help,1
+and,1
+now,1

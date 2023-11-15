@@ -1,0 +1,7 @@
+13,226,2
+phoenix,1
+monday,1
+morning,1
+july,1
+28,1
+1913,1

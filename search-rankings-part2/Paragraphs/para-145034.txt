@@ -1,0 +1,7 @@
+42,249,4
+285,1
+equanimity,1
+in,1
+honour,1
+and,1
+dishonour,1

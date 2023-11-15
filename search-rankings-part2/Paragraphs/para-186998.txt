@@ -1,0 +1,16 @@
+53,49,2
+asked,1
+if,1
+he,2
+was,1
+taking,1
+any,1
+advisers,1
+to,1
+london,1
+replied,1
+god,1
+is,1
+my,1
+adviser,1
+general,1

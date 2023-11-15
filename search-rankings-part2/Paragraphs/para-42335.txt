@@ -1,0 +1,9 @@
+13,69,4
+am,1
+grateful,1
+government,1
+full,1
+reply,1
+1,1
+stop,1
+regret,1

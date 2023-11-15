@@ -1,0 +1,10 @@
+78,365,7
+man,1
+has,1
+a,1
+curtness,1
+which,1
+one,1
+does,1
+not,1
+like,1

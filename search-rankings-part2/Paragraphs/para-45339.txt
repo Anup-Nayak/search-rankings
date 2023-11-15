@@ -1,0 +1,8 @@
+13,437,8
+vernment,1
+offering,1
+intervention,1
+if,1
+not,1
+accepted,1
+they,1

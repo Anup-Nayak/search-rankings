@@ -1,0 +1,13 @@
+52,189,9
+minute,1
+if,1
+his,1
+primary,1
+interest,1
+was,1
+education,1
+rather,1
+than,1
+proselytizing,1
+while,1
+not,1

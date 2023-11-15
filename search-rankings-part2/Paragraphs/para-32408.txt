@@ -1,0 +1,15 @@
+10,357,22
+are,1
+contrary,1
+to,1
+the,2
+declarations,1
+so,1
+often,1
+made,1
+by,1
+government,1
+that,1
+there,1
+is,1
+no,1

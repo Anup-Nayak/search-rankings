@@ -1,0 +1,7 @@
+73,10,1
+11,1
+telegram,1
+to,1
+mrs,1
+george,1
+joseph,1

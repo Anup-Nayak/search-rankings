@@ -1,0 +1,13 @@
+75,238,2
+bapu,1
+p,1
+s,1
+i,1
+note,1
+what,1
+you,1
+say,1
+about,1
+the,1
+tension,1
+there,1

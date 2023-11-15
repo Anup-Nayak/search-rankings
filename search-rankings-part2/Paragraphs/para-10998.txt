@@ -1,0 +1,7 @@
+4,356,1
+312,1
+letter,1
+to,1
+haji,2
+ismail,1
+aboobaker,1

@@ -1,0 +1,8 @@
+94,121,5
+bapu,1
+shri,1
+j,1
+c,1
+kumarappa,1
+maganwadi,1
+wardha,1

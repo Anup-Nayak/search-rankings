@@ -1,0 +1,8 @@
+3,10,8
+338,1
+prinsloo,1
+street,1
+pretoria,1
+january,1
+2,1
+1903,1

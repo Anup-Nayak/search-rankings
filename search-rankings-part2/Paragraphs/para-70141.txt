@@ -1,0 +1,16 @@
+20,96,18
+q,1
+and,2
+you,1
+took,1
+it,1
+marched,1
+these,1
+500,1
+students,1
+to,1
+the,2
+fort,1
+in,1
+hot,1
+sun,1

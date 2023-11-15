@@ -1,0 +1,14 @@
+72,352,10
+3,1
+gandhi,1
+jinnah,1
+correspondence,1
+was,1
+released,1
+to,1
+the,1
+press,1
+on,1
+june,1
+15,1
+1938,1

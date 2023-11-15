@@ -1,0 +1,8 @@
+27,98,3
+shevakram,1
+karamchand,1
+guru,1
+sangat,1
+hirabad,1
+hyderabad,1
+sind,1

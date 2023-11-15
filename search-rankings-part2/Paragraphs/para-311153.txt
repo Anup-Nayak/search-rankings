@@ -1,0 +1,14 @@
+82,107,15
+built,1
+with,1
+local,1
+help,1
+and,1
+partial,1
+grants,1
+from,1
+the,2
+taluk,1
+samitis,1
+2,1
+villagers,1

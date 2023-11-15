@@ -1,0 +1,10 @@
+84,51,3
+amtussalaam,1
+care,1
+humayun,1
+kabir,1
+26,1
+amir,1
+ali,1
+avenue,1
+calcutta,1

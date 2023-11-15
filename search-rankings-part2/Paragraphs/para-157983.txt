@@ -1,0 +1,17 @@
+45,441,5
+bapu,1
+ps,1
+sulochanabehn,1
+writes,1
+i,1
+do,1
+not,2
+like,1
+this,1
+place,1
+for,1
+kusumbehn,1
+too,1
+is,1
+with,1
+us,1

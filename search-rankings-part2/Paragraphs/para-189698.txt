@@ -1,0 +1,13 @@
+53,344,6
+strongest,1
+and,2
+that,2
+strength,2
+does,1
+not,1
+mean,1
+mere,1
+of,1
+muscle,1
+to,1
+a,1

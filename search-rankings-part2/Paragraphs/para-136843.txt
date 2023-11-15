@@ -1,0 +1,14 @@
+40,53,4
+1,1
+a,1
+gujarati,1
+version,1
+of,1
+this,1
+was,1
+published,1
+in,1
+navajivan,1
+11,1
+9,1
+1927,1

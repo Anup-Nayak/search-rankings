@@ -1,0 +1,7 @@
+72,188,2
+254,1
+my,1
+meaning,1
+of,1
+office,1
+acceptance,1

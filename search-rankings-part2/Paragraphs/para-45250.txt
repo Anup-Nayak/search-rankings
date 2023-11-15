@@ -1,0 +1,9 @@
+13,432,18
+force,1
+whose,1
+acts,1
+subject,1
+inquiry,1
+legal,1
+adviser,1
+many,1

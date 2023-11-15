@@ -1,0 +1,6 @@
+44,471,13
+t2,1
+guj,1
+adds,1
+polluting,1
+me,1

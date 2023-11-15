@@ -1,0 +1,9 @@
+27,161,6
+from,2
+a,1
+cutting,1
+the,1
+hindu,1
+s,1
+n,1
+10300,1

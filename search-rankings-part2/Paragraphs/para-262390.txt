@@ -1,0 +1,8 @@
+70,305,1
+the,1
+tour,1
+is,1
+going,1
+on,1
+quite,1
+well,1

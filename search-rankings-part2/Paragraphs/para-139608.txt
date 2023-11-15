@@ -1,0 +1,6 @@
+41,32,7
+38,1
+articles,1
+on,1
+cow,1
+protection,1

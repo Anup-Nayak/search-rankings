@@ -1,0 +1,6 @@
+65,86,5
+100,1
+discussion,1
+on,1
+swadeshi,1
+2,1

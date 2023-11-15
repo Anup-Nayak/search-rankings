@@ -1,0 +1,8 @@
+33,190,8
+106,1
+farewell,1
+message,1
+to,1
+kutch,1
+people,1
+4,1

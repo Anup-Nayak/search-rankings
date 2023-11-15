@@ -1,0 +1,12 @@
+73,415,14
+g,1
+explain,1
+to,1
+them,1
+that,2
+room,1
+is,1
+reserved,1
+for,1
+women,1
+and,1

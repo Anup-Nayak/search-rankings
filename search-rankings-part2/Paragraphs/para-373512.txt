@@ -1,0 +1,9 @@
+96,438,7
+of,1
+occupation,1
+to,1
+give,1
+him,1
+the,1
+necessary,1
+rest,1

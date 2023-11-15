@@ -1,0 +1,13 @@
+21,502,14
+in,2
+conclusion,1
+he,1
+advised,1
+them,1
+to,2
+learn,1
+stand,1
+on,1
+their,1
+own,1
+legs,1

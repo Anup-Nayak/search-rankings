@@ -1,0 +1,15 @@
+47,14,7
+c,1
+number,1
+of,2
+wheels,1
+and,3
+looms,1
+working,1
+monthly,1
+production,1
+yarn,1
+khadi,1
+in,1
+quantity,1
+value,1

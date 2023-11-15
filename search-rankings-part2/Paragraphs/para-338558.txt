@@ -1,0 +1,11 @@
+88,47,4
+the,1
+thought,1
+for,1
+monday,1
+is,1
+good,1
+love,1
+to,1
+you,1
+all,1

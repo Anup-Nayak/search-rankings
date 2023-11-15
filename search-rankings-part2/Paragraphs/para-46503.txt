@@ -1,0 +1,9 @@
+14,72,13
+in,1
+south,1
+africa,1
+to,1
+bring,1
+about,1
+better,1
+under,1

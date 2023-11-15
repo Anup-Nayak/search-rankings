@@ -1,0 +1,6 @@
+70,103,3
+113,1
+help,1
+cyclone,1
+stricken,1
+harijans,1

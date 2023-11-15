@@ -1,0 +1,8 @@
+74,85,7
+on,1
+way,1
+to,1
+peshawar,1
+october,1
+5,1
+1938,1

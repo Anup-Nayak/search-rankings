@@ -1,0 +1,11 @@
+20,114,12
+q,1
+and,1
+stands,1
+on,1
+no,1
+other,2
+footing,1
+as,1
+the,1
+statement,1

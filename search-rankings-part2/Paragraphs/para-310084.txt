@@ -1,0 +1,11 @@
+82,21,13
+confident,1
+that,1
+in,2
+addition,1
+to,1
+education,1
+the,2
+ordinary,1
+sense,1
+village,1

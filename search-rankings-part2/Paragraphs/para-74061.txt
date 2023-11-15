@@ -1,0 +1,14 @@
+21,262,2
+he,2
+would,1
+continue,1
+to,2
+attend,1
+the,2
+meetings,1
+of,1
+committee,1
+till,1
+was,1
+forced,1
+leave,1

@@ -1,0 +1,8 @@
+91,83,16
+a,1
+because,1
+it,1
+is,1
+easy,1
+to,1
+procure,1

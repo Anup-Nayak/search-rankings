@@ -1,0 +1,16 @@
+30,51,8
+1,1
+the,4
+mythological,1
+king,1
+whom,2
+sage,1
+vishwamitra,1
+lifted,1
+up,1
+to,1
+heavens,1
+but,1
+gods,1
+refused,1
+admission,1

@@ -1,0 +1,16 @@
+46,107,5
+enmity,1
+to,1
+great,1
+britain,1
+it,1
+means,1
+nothing,1
+of,1
+the,1
+kind,1
+any,1
+more,1
+than,1
+pleas,1
+for,1

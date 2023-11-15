@@ -1,0 +1,5 @@
+63,80,6
+88,1
+bihar,1
+and,1
+untouchability,1

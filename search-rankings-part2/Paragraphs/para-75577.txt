@@ -1,0 +1,9 @@
+21,520,7
+gujarati,1
+teachersramnarayan,1
+vishwanath,1
+pathak,1
+and,1
+narahari,1
+dwarkadas,1
+parikh,1

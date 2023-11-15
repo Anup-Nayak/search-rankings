@@ -1,0 +1,17 @@
+90,247,9
+delhi,1
+april,1
+13,1
+1946,1
+if,1
+all,2
+become,1
+teachers,1
+who,1
+will,1
+be,2
+the,1
+pupils,2
+so,1
+let,1
+us,1

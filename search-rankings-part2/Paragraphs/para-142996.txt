@@ -1,0 +1,5 @@
+41,485,2
+this,1
+congress,1
+resolves,1
+that,1

@@ -1,0 +1,7 @@
+25,145,1
+single,1
+english,1
+or,1
+indian,1
+co,1
+operator,1

@@ -1,0 +1,9 @@
+11,317,7
+ask,1
+kallenbach,1
+if,1
+ritch,1
+may,1
+live,1
+mountain,1
+view,1

@@ -1,0 +1,15 @@
+30,205,4
+q,1
+did,1
+you,1
+hear,1
+of,1
+any,1
+hindus,1
+being,1
+killed,1
+or,1
+wounded,1
+at,1
+that,1
+time,1

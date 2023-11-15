@@ -1,0 +1,10 @@
+98,240,7
+wherever,1
+he,2
+goes,1
+today,1
+becomes,1
+a,1
+burden,1
+on,1
+that,1

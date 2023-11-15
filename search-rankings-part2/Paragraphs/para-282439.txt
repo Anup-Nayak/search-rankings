@@ -1,0 +1,8 @@
+75,308,3
+calcutta,1
+april,1
+30,1
+1939,1
+h,2
+thakoresaheb,1
+rajkot,1

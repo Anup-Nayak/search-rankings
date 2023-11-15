@@ -1,0 +1,6 @@
+65,203,3
+1,1
+material,1
+welfare,2
+2,1
+spiritual,1

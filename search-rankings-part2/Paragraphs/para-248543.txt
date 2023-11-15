@@ -1,0 +1,11 @@
+67,175,5
+shri,1
+sohanlal,1
+oberoi,1
+a,2
+i,1
+s,1
+depot,1
+adampur,1
+jullundur,1
+district,1

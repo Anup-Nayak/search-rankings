@@ -1,0 +1,16 @@
+15,152,1
+come,1
+through,1
+the,4
+farmer,1
+neither,1
+lawyers,1
+nor,2
+doctors,1
+rich,1
+landlords,1
+are,1
+going,1
+to,1
+secure,1
+it,1

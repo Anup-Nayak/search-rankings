@@ -1,0 +1,8 @@
+31,223,2
+143,1
+inter,1
+dining,1
+again,1
+a,1
+correspondent,1
+writes,1

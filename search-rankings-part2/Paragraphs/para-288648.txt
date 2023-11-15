@@ -1,0 +1,4 @@
+77,85,3
+prime,1
+minister,1
+pretoria,1

@@ -1,0 +1,15 @@
+82,397,2
+g,1
+no,1
+i,1
+am,1
+very,1
+imperfect,1
+before,1
+you,2
+are,1
+gone,1
+will,1
+have,1
+discovered,1
+a,1

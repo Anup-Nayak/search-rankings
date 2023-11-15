@@ -1,0 +1,10 @@
+37,466,10
+o,2
+krishna,2
+great,1
+sage,1
+soul,1
+of,2
+the,2
+universe,1
+creator,1

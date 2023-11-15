@@ -1,0 +1,6 @@
+13,446,2
+death,1
+of,1
+giant,1
+despair,1
+1,1

@@ -1,0 +1,14 @@
+64,155,2
+if,1
+you,2
+approve,1
+of,1
+these,1
+changes,1
+may,1
+adopt,1
+them,1
+and,1
+use,1
+the,1
+article,1

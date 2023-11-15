@@ -1,0 +1,15 @@
+11,476,17
+immigration,2
+officer,4
+shall,1
+mean,1
+the,3
+chief,1
+or,2
+any,2
+other,2
+of,2
+department,1
+person,1
+whether,1
+an,1

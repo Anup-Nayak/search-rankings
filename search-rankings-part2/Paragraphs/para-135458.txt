@@ -1,0 +1,14 @@
+39,343,13
+1,1
+presumably,1
+written,1
+on,1
+the,3
+same,1
+date,1
+as,1
+preceding,1
+item,2
+2,1
+vide,1
+succeeding,1

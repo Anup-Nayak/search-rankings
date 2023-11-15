@@ -1,0 +1,12 @@
+59,497,20
+gandhiji,1
+wanted,1
+the,2
+lawyers,1
+to,1
+examine,1
+legal,1
+issue,1
+and,1
+pronounce,1
+their,1

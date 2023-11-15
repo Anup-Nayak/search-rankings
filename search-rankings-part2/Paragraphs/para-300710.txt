@@ -1,0 +1,10 @@
+80,80,3
+139,1
+extract,1
+from,1
+letter,1
+to,1
+p,1
+v,1
+naidu,1
+1,1

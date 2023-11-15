@@ -1,0 +1,5 @@
+38,368,8
+an,1
+english,1
+friend,1
+writes,1

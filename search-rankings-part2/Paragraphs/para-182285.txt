@@ -1,0 +1,7 @@
+52,18,3
+19,1
+telegram,1
+to,1
+h,1
+w,1
+emerson,1

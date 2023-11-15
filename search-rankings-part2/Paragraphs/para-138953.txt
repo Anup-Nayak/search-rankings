@@ -1,0 +1,10 @@
+40,439,3
+293,1
+speech,1
+at,1
+farewell,1
+meeting,1
+colombo,1
+november,1
+25,1
+1927,1

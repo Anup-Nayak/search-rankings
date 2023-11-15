@@ -1,0 +1,6 @@
+13,438,18
+effective,1
+advocacy,1
+gandhi,1
+polak,1
+kallenbach,1

@@ -1,0 +1,16 @@
+2,102,3
+3,1
+that,1
+the,3
+government,1
+is,1
+responsible,1
+for,1
+protection,1
+of,2
+passengers,1
+and,1
+cargo,1
+from,1
+violence,1
+rioters,1

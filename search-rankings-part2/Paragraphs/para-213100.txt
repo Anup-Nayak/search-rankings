@@ -1,0 +1,9 @@
+59,88,12
+from,1
+gujarati,1
+c,1
+w,1
+9222,1
+courtesy,1
+chhaganlal,1
+gandhi,1

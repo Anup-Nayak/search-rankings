@@ -1,0 +1,7 @@
+6,294,2
+i,1
+saw,1
+him,1
+sensitive,1
+in,1
+frame,1

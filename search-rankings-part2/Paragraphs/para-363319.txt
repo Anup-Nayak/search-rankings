@@ -1,0 +1,9 @@
+94,34,11
+1,1
+in,1
+devanagari,1
+2,1
+vide,1
+the,1
+peceding,1
+item,1

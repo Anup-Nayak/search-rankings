@@ -1,0 +1,13 @@
+32,332,14
+no,1
+savings,1
+unemployment,1
+for,1
+four,1
+months,2
+and,1
+even,1
+six,1
+in,2
+the,2
+year,1

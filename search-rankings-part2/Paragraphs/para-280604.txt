@@ -1,0 +1,7 @@
+75,98,11
+124,1
+telegram,1
+to,1
+akbar,1
+hydari,1
+3,1

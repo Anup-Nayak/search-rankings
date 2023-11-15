@@ -1,0 +1,14 @@
+87,48,4
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+ghanshyam,1
+jethanand,1
+29,1
+amil,1
+colony,1
+no,1
+1,1
+karachi,1

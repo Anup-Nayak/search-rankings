@@ -1,0 +1,8 @@
+11,311,4
+saw,1
+minister,1
+short,1
+while,1
+interview,1
+four,1
+oclock,1

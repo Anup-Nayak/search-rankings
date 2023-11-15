@@ -1,0 +1,14 @@
+33,147,2
+1,1
+in,1
+saurashtra,1
+gandhiji,1
+met,1
+the,1
+antyajas,1
+at,1
+mangrol,1
+on,1
+april,1
+7,1
+1925,1

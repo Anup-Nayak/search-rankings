@@ -1,0 +1,12 @@
+62,110,7
+q,1
+is,1
+faith,2
+necessary,2
+or,1
+effort,2
+a,1
+really,1
+both,1
+and,1
+are,1

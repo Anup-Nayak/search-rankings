@@ -1,0 +1,16 @@
+52,470,8
+rentals,1
+at,2
+this,1
+stage,1
+for,1
+if,1
+collections,1
+are,1
+not,1
+made,1
+once,1
+there,1
+will,1
+be,1
+little,1

@@ -1,0 +1,13 @@
+82,23,11
+education,1
+and,2
+free,1
+boarding,1
+lodging,1
+the,2
+other,1
+half,1
+of,1
+students,1
+i,1
+e,1

@@ -1,0 +1,6 @@
+77,127,3
+155,1
+letter,1
+to,1
+barin,1
+ghosh,1

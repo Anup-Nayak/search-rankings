@@ -1,0 +1,12 @@
+82,411,3
+soldiers,2
+here,2
+i,1
+do,1
+not,1
+want,1
+japanese,2
+or,1
+german,1
+the,1
+broadcast,1

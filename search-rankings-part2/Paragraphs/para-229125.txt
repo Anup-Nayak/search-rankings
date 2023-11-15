@@ -1,0 +1,13 @@
+62,453,6
+selu,1
+open,1
+ing,1
+of,1
+a,2
+temple,1
+and,1
+public,1
+meeting,1
+etc,1
+morning,1
+9,1

@@ -1,0 +1,7 @@
+71,28,2
+years,1
+longer,1
+than,1
+this,1
+alien,1
+government,1

@@ -1,0 +1,8 @@
+90,163,6
+216,1
+speech,1
+at,1
+prayer,1
+meeting,1
+uruli,1
+kanchan,1

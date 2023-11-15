@@ -1,0 +1,7 @@
+22,19,6
+13,1
+letter,1
+to,1
+hakim,1
+ajmal,1
+khan,1

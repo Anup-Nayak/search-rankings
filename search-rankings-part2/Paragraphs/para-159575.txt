@@ -1,0 +1,11 @@
+46,157,19
+mohammedan,1
+names,1
+and,2
+mohammedans,1
+worship,1
+hindu,1
+gods,1
+are,1
+called,1
+by,1

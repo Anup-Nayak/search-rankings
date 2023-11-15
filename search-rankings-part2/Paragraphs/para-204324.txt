@@ -1,0 +1,4 @@
+57,140,8
+abandon,1
+his,1
+fast,1

@@ -1,0 +1,5 @@
+24,169,6
+the,2
+land,1
+and,1
+people,1

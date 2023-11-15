@@ -1,0 +1,5 @@
+81,58,2
+unrevised,1
+september,1
+5,1
+1941,1

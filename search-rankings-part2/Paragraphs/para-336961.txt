@@ -1,0 +1,16 @@
+87,352,12
+dear,1
+lakshmi,1
+the,1
+sample,1
+of,1
+yarn,1
+is,1
+good,2
+i,1
+hope,1
+you,1
+will,1
+continue,1
+your,1
+work,1

@@ -1,0 +1,11 @@
+11,135,4
+153,1
+extract,1
+from,1
+letter,1
+to,1
+s,1
+a,1
+b,1
+i,1
+committee,1

@@ -1,0 +1,13 @@
+13,210,8
+5,1
+particulars,1
+about,1
+the,1
+admission,1
+of,1
+indians,1
+this,1
+year,1
+must,1
+be,1
+settled,1

@@ -1,0 +1,11 @@
+57,116,10
+loves,1
+british,1
+people,1
+is,1
+enigma,1
+to,1
+me,1
+since,1
+my,1
+deepest,1

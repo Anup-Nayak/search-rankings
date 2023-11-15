@@ -1,0 +1,4 @@
+15,96,10
+wrote,1
+more,1
+letters,1

@@ -1,0 +1,12 @@
+27,478,3
+belief,1
+that,1
+the,3
+time,1
+is,1
+not,1
+ripe,1
+for,1
+discussion,1
+of,1
+subject,1

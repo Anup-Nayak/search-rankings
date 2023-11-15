@@ -1,0 +1,6 @@
+47,225,2
+tuesday,1
+about,1
+october,1
+1929,1
+1,1

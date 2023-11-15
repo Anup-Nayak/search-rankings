@@ -1,0 +1,10 @@
+28,9,5
+1,1
+1856,1
+1926,1
+nationalist,1
+leader,1
+of,1
+the,1
+arya,1
+samaj,1

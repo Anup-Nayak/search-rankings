@@ -1,0 +1,16 @@
+82,397,16
+interfere,1
+with,1
+the,1
+war,1
+effort,1
+now,1
+i,2
+have,1
+reached,1
+certain,1
+conclusions,1
+do,1
+not,1
+wish,1
+to,1

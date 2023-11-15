@@ -1,0 +1,16 @@
+40,91,8
+from,1
+a,2
+copy,1
+katherine,1
+mayo,1
+papers,1
+courtesy,1
+yale,1
+university,1
+library,1
+new,1
+haven,1
+connecticut,1
+u,1
+s,1

@@ -1,0 +1,14 @@
+13,467,2
+from,1
+a,1
+photos,1
+tat,1
+of,1
+the,1
+typewr,1
+itten,1
+origin,1
+al,1
+s,1
+n,1
+5835,1

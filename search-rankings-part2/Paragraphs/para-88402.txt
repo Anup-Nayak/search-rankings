@@ -1,0 +1,8 @@
+26,162,10
+forget,1
+send,1
+me,1
+full,1
+letter,1
+am,1
+quite,1

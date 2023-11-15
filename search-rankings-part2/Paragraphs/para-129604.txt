@@ -1,0 +1,14 @@
+38,59,10
+visit,1
+was,1
+intended,1
+to,3
+appeal,1
+them,1
+do,1
+some,1
+little,1
+work,1
+for,2
+india,1
+and,1

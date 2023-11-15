@@ -1,0 +1,12 @@
+82,149,11
+the,2
+karnataka,1
+p,1
+c,2
+has,1
+prepared,1
+volunteers,1
+pledge,1
+in,1
+this,1
+form,1

@@ -1,0 +1,14 @@
+21,171,8
+mr,1
+gandhi,1
+said,1
+the,2
+presence,1
+of,2
+so,1
+many,1
+muslim,1
+ladies,1
+was,1
+a,1
+sign,1

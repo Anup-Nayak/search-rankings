@@ -1,0 +1,9 @@
+26,135,7
+your,1
+wire,1
+send,1
+full,1
+accurate,1
+reports2,1
+keep,1
+people,1

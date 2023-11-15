@@ -1,0 +1,16 @@
+52,301,4
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+thomas,1
+b,1
+lee,1
+esq,1
+sterling,1
+radio,1
+co,1
+kansas,1
+city,1
+mo,1

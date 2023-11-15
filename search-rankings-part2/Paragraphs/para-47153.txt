@@ -1,0 +1,7 @@
+14,157,8
+durban,1
+regarding,1
+photograph,1
+s,1
+required,1
+from,1

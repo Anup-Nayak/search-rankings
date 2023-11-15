@@ -1,0 +1,10 @@
+66,40,5
+58,1
+letter,1
+to,1
+vidya,1
+r,1
+patel,1
+december,1
+31,1
+1934,1

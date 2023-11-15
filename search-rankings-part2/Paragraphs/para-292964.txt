@@ -1,0 +1,10 @@
+78,149,6
+can,1
+draw,1
+up,1
+a,1
+better,1
+charter,1
+of,1
+rights,1
+than,1

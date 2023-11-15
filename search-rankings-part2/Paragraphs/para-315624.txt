@@ -1,0 +1,11 @@
+82,412,23
+l,1
+f,1
+a,1
+peasant,1
+buries,1
+his,1
+money,1
+in,1
+the,1
+ground,1

@@ -1,0 +1,7 @@
+36,27,2
+28,1
+letter,1
+to,1
+nautamlal,1
+m,1
+khanderia,1

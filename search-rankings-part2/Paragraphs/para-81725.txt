@@ -1,0 +1,15 @@
+24,66,5
+they,2
+should,2
+part,1
+with,1
+all,1
+their,1
+foreign,1
+clothes,1
+act,1
+up,1
+to,1
+the,1
+decision,1
+of,1

@@ -1,0 +1,7 @@
+50,74,1
+110,1
+letter,1
+to,1
+narayan,1
+moreshwar,1
+khare,1

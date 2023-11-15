@@ -1,0 +1,8 @@
+52,470,18
+m,2
+hailey,1
+k,1
+gandhi,1
+esq,1
+takula,1
+nainital,1

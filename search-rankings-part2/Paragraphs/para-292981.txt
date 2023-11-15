@@ -1,0 +1,8 @@
+78,149,23
+know,1
+anyone,1
+who,1
+possesses,1
+greater,1
+rights,1
+than,1

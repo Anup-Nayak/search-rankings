@@ -1,0 +1,7 @@
+29,222,9
+knew,1
+you,1
+would,1
+approve,1
+religious,1
+necessity,1

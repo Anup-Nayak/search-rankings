@@ -1,0 +1,6 @@
+16,12,3
+educating,1
+ignorant,1
+peasants,1
+in,1
+satyagraha,1

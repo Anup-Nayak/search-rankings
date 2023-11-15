@@ -1,0 +1,11 @@
+80,422,10
+from,1
+village,2
+to,1
+meeting,1
+pirs,1
+maliks,1
+khans,1
+as,2
+well,1
+dacoitsall,1

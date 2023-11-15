@@ -1,0 +1,10 @@
+62,453,13
+8,2
+30,1
+to,1
+45,1
+khalasi,1
+line,1
+untouchable,1
+girls,1
+school,1

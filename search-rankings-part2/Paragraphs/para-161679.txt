@@ -1,0 +1,10 @@
+46,393,6
+at,1
+hyderabad,1
+nawabshah,1
+bhiria,1
+halani,1
+talti,1
+rohri,1
+sukkur,1
+shikarpur,1

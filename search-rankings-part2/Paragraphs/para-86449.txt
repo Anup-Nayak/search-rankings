@@ -1,0 +1,15 @@
+25,342,29
+that,1
+government,1
+went,1
+mad,1
+he,2
+added,1
+did,1
+not,1
+want,1
+protection,1
+for,1
+those,1
+who,1
+had,1

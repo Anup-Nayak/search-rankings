@@ -1,0 +1,12 @@
+16,33,6
+2,1
+a,1
+revenue,1
+officer,1
+not,1
+below,1
+the,1
+rank,1
+of,1
+collector,1
+and,1

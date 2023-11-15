@@ -1,0 +1,9 @@
+21,25,4
+reading,1
+it,1
+at,1
+the,2
+meeting,1
+letter,1
+runs,1
+thus,1

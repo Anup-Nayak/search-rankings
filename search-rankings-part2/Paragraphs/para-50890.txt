@@ -1,0 +1,6 @@
+15,85,11
+withdraw,1
+resignation,1
+ask,1
+permission,1
+attend,1

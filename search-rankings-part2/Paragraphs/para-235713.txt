@@ -1,0 +1,7 @@
+64,262,1
+306,1
+the,1
+anti,1
+untouchability,1
+bill,1
+1,1

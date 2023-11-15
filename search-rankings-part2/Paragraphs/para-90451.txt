@@ -1,0 +1,15 @@
+27,15,11
+recognition,1
+would,1
+be,2
+lost,1
+if,1
+the,1
+prize,1
+is,2
+not,1
+spontaneously,1
+offered,1
+but,1
+to,1
+awarded,1

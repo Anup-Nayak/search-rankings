@@ -1,0 +1,17 @@
+30,43,5
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+c,2
+w,2
+4838,1
+courtesy,1
+bombay,1
+state,1
+committee,1
+for,1
+m,1
+g,1

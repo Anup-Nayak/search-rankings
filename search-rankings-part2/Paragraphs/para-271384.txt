@@ -1,0 +1,4 @@
+72,492,8
+dear,1
+mahatma,1
+gandhi,1

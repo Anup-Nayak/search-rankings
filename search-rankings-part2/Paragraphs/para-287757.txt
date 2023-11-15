@@ -1,0 +1,14 @@
+76,427,2
+i,2
+am,1
+afraid,1
+you,1
+are,1
+giving,1
+an,1
+interpretation,1
+to,1
+the,1
+word,1
+discipline,1
+which,1

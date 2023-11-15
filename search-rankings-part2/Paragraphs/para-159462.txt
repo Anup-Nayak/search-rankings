@@ -1,0 +1,4 @@
+46,147,11
+floods,1
+karimganj,1
+assam,1

@@ -1,0 +1,6 @@
+17,49,1
+46,1
+speech,1
+at,1
+uttarsanda,1
+1,1

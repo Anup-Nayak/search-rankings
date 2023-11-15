@@ -1,0 +1,12 @@
+8,130,3
+i,1
+desire,1
+to,1
+make,1
+our,1
+position,1
+in,1
+this,1
+matter,1
+perfectly,1
+clear,1

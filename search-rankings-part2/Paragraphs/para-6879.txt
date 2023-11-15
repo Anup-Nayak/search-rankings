@@ -1,0 +1,7 @@
+3,119,1
+72,1
+the,2
+bright,1
+side,1
+of,1
+picture,1

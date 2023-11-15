@@ -1,0 +1,9 @@
+59,45,4
+pained,1
+at,1
+breach,1
+of,1
+trust,1
+in,1
+publishing,1
+it,1

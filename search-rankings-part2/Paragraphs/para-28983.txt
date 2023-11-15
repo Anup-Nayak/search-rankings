@@ -1,0 +1,9 @@
+9,395,3
+life,2
+on,1
+ship,1
+and,1
+in,1
+prison,1
+a,1
+comparison,1

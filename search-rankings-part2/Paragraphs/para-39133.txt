@@ -1,0 +1,6 @@
+12,135,7
+108,1
+letter,1
+to,1
+jamnadas,1
+gandhi,1

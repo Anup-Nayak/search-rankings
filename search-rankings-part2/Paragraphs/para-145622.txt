@@ -1,0 +1,16 @@
+42,317,1
+all,1
+you,2
+need,1
+and,1
+if,1
+this,1
+treatment,1
+does,1
+not,1
+cure,1
+nothing,1
+else,1
+is,1
+likely,1
+to,1

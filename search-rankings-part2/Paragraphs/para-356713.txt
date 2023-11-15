@@ -1,0 +1,10 @@
+92,230,11
+q,1
+gandhijis,1
+questioner,1
+next,1
+asked,1
+his,1
+opinion,1
+about,1
+predestination,1

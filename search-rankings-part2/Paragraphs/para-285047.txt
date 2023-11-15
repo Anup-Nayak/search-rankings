@@ -1,0 +1,7 @@
+76,134,15
+south,1
+africa,1
+s,1
+freedom,1
+struggle,1
+p,1

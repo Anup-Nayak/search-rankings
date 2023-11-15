@@ -1,0 +1,17 @@
+56,304,8
+vanamala,1
+i,1
+got,1
+your,3
+letter,1
+you,2
+should,1
+learn,1
+to,1
+do,2
+with,2
+right,1
+hand,1
+everything,1
+which,1
+left,1

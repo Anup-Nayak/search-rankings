@@ -1,0 +1,9 @@
+11,292,7
+requires,1
+application,1
+governor,1
+for,1
+residence,1
+should,1
+not,1
+apply,1

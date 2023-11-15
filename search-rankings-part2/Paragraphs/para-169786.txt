@@ -1,0 +1,13 @@
+48,527,13
+all,1
+contraband,2
+salt,2
+and,2
+every,1
+vessel,1
+animal,1
+or,1
+conveyance,1
+used,1
+in,1
+carrying,1

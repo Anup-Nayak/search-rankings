@@ -1,0 +1,10 @@
+61,254,5
+nations*,1
+pray,1
+count,1
+me,1
+as,1
+one,1
+of,1
+countless,1
+sharers,1

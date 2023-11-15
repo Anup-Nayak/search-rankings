@@ -1,0 +1,12 @@
+52,273,12
+1,1
+this,1
+was,1
+read,1
+out,1
+at,1
+the,1
+conference,1
+on,1
+june,1
+7,1

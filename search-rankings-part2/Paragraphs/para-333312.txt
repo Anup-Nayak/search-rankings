@@ -1,0 +1,16 @@
+87,6,4
+blessings,1
+from,1
+m,2
+k,1
+gandhi,1
+c/o,1
+shri,1
+guruprasad,1
+srivastava,1
+r,1
+s,1
+office,1
+charbagh,1
+junction,1
+lucknow,1

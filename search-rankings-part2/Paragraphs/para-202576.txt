@@ -1,0 +1,9 @@
+56,438,13
+<image,1
+devicegray,1
+width,1
+135,1
+height,1
+33,1
+bpc,1
+1>,1

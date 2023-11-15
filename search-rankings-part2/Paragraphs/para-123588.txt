@@ -1,0 +1,6 @@
+36,261,10
+1,1
+indigenous,1
+bill,1
+of,1
+exchange,1

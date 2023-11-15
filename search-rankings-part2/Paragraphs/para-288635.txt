@@ -1,0 +1,5 @@
+77,82,10
+and,1
+save,1
+precious,1
+life,1

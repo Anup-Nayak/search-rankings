@@ -1,0 +1,14 @@
+18,114,4
+asked,1
+as,2
+to,1
+his,1
+occupation,1
+mr,1
+gandhi,1
+described,1
+himself,1
+a,2
+farmer,1
+and,1
+weaver,1

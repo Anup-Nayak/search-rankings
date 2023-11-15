@@ -1,0 +1,14 @@
+52,189,6
+really,1
+no,1
+education,1
+at,1
+all,1
+but,1
+merely,1
+the,2
+perpetuation,1
+of,1
+present,1
+substitute,1
+for,1

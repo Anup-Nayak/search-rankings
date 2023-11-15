@@ -1,0 +1,6 @@
+61,93,4
+96,1
+telegram,1
+to,1
+harilal,1
+gandhi1,1

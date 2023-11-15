@@ -1,0 +1,7 @@
+59,21,5
+28,1
+letter,1
+to,1
+jivram,1
+k,1
+kothari2,1

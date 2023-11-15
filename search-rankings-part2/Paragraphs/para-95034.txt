@@ -1,0 +1,11 @@
+28,136,3
+i,1
+can,1
+very,1
+well,1
+understand,1
+the,1
+imperative,1
+necessity,1
+for,1
+permanent,1

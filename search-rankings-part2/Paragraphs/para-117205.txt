@@ -1,0 +1,12 @@
+34,493,5
+yours,1
+sincerely,1
+jang,1
+bahadur,1
+singh,1
+esq,1
+editor,1
+nation,1
+railway,1
+road,1
+lahore,1

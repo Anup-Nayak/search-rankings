@@ -1,0 +1,16 @@
+42,261,3
+1,1
+vide,2
+the,1
+non,2
+cooperation,2
+resolution,2
+september,1
+5,1
+1920,2
+2,1
+appendix,1
+on,2
+congress,1
+december,1
+30,1

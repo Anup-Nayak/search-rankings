@@ -1,0 +1,8 @@
+15,108,4
+2,1
+0,2
+vairagya,1
+prakarana,1
+abhanga,1
+and,1
+postage,1

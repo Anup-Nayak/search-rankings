@@ -1,0 +1,6 @@
+61,418,6
+offering,1
+hand,1
+glad,1
+mother,1
+better,1

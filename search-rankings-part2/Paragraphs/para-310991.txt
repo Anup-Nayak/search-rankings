@@ -1,0 +1,14 @@
+82,95,19
+influence,1
+on,1
+the,2
+minds,1
+of,1
+other,1
+communities,1
+will,1
+you,1
+say,1
+something,1
+about,1
+it,1

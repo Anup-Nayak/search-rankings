@@ -1,0 +1,10 @@
+5,122,3
+a,1
+correspondent,1
+from,1
+ladysmith,1
+writes,1
+in,1
+the,1
+gujarati,1
+columns,1

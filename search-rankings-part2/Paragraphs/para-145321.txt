@@ -1,0 +1,16 @@
+42,282,6
+1,1
+subhas,2
+chandra,2
+bose,2
+vide,2
+telegram,1
+to,2
+23,1
+7,2
+1928,2
+2,1
+letter,1
+vallabhbhai,1
+patel,1
+24,1

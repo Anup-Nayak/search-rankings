@@ -1,0 +1,13 @@
+4,11,4
+unless,1
+it,2
+comes,1
+within,1
+the,2
+scope,1
+of,1
+ordinance,1
+has,1
+no,1
+power,1
+towork,1

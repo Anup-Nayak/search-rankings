@@ -1,0 +1,12 @@
+42,427,3
+b,1
+w,1
+tucker,1
+principal,1
+collins,1
+high,1
+school,1
+140,1
+dharmtala,1
+street,1
+calcutta,1

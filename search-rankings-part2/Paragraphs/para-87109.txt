@@ -1,0 +1,15 @@
+25,435,6
+1,1
+adopted,1
+at,2
+ahmedabad,2
+in,1
+december,1
+1921,2
+vide,1
+speech,1
+congress,1
+session,1
+i,1
+28,1
+12,1

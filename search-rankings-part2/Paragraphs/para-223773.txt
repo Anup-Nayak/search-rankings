@@ -1,0 +1,9 @@
+61,290,13
+ability,1
+self,1
+and,2
+companions,1
+will,1
+march,1
+piceless,1
+depend,1

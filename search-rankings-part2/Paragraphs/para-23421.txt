@@ -1,0 +1,6 @@
+8,56,12
+gandhiji,1
+you,1
+are,1
+a,1
+jamadar,1

@@ -1,0 +1,9 @@
+77,391,10
+1,1
+shankerlal,1
+banker,1
+secretary,1
+akhil,1
+bharatiya,1
+charkha,1
+sangh,1

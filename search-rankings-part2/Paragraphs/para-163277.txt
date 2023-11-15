@@ -1,0 +1,8 @@
+47,106,12
+average,1
+daily,1
+income,1
+from,1
+spinning,1
+1,1
+anna,1

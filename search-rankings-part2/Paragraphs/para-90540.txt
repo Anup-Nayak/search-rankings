@@ -1,0 +1,6 @@
+27,26,4
+27,1
+interview,1
+to,1
+sind,1
+deputation,1

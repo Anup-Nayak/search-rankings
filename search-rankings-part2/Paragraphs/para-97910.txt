@@ -1,0 +1,9 @@
+29,66,1
+44,1
+letter,1
+to,1
+secretary,1
+satyagraha,1
+ashram,1
+vykom,1
+1,1

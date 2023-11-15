@@ -1,0 +1,5 @@
+8,290,2
+153,1
+education,1
+among,1
+indians,1

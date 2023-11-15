@@ -1,0 +1,4 @@
+18,164,4
+143,1
+navajivan,1
+weekly,1

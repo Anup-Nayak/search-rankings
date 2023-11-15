@@ -1,0 +1,8 @@
+23,338,11
+the,1
+poor,1
+in,1
+a,1
+down,1
+trodden,1
+condition,1

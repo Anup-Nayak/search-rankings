@@ -1,0 +1,7 @@
+44,7,1
+7,1
+letter,1
+t0,1
+zafar,1
+ul,1
+mulk,1

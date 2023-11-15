@@ -1,0 +1,6 @@
+18,239,9
+tion,1
+secure,1
+withdrawal,1
+rowlatt,1
+legislation,1

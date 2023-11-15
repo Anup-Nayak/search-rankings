@@ -1,0 +1,6 @@
+39,380,1
+376,1
+letter,1
+to,1
+helene,1
+haussding,1

@@ -1,0 +1,8 @@
+97,45,1
+41,1
+letter,1
+to,1
+pyarelal,1
+october,1
+6,1
+1947,1

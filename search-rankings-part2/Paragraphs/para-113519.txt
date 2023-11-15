@@ -1,0 +1,7 @@
+33,375,13
+277,1
+indulgence,1
+or,1
+self,1
+denial,1
+2,1

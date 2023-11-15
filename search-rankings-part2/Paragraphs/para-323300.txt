@@ -1,0 +1,11 @@
+84,430,2
+letter,1
+from,1
+dr,2
+nayyar,1
+and,1
+gilder,1
+to,1
+col,1
+bhandari,1
+1,1

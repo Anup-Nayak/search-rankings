@@ -1,0 +1,6 @@
+82,22,1
+27,1
+model,1
+schools,1
+for,1
+harijans,1

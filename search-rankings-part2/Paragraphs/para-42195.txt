@@ -1,0 +1,11 @@
+13,47,15
+know,1
+why,1
+words,1
+are,1
+added,1
+in,1
+second,1
+schedule,1
+to,1
+extend,1

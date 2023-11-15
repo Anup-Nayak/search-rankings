@@ -1,0 +1,6 @@
+96,93,3
+140,1
+letter,1
+to,1
+ayaz,1
+peerbhoy,1

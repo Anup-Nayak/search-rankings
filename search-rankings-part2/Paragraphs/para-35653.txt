@@ -1,0 +1,9 @@
+11,246,5
+have,1
+accepted,1
+nothing,1
+not,1
+my,1
+power,1
+accept,1
+anything,1

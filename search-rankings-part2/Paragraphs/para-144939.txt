@@ -1,0 +1,6 @@
+42,237,14
+1,1
+teacher,1
+and,1
+social,1
+worker,1

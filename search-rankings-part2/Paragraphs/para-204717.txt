@@ -1,0 +1,10 @@
+57,172,10
+from,1
+a,1
+photostat,1
+c,1
+w,1
+9242,1
+courtesy,1
+jairamdas,1
+doulatram,1

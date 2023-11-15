@@ -1,0 +1,9 @@
+47,96,4
+is,1
+a,1
+careless,1
+thoughtless,1
+and,1
+bad,1
+mannered,1
+girl,1

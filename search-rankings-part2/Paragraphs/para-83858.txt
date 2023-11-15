@@ -1,0 +1,9 @@
+24,433,16
+fruits,1
+of,1
+the,1
+earth,1
+rendering,1
+to,1
+kindly,1
+heaven,1

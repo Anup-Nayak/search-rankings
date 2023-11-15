@@ -1,0 +1,14 @@
+32,22,7
+1,1
+the,2
+message,1
+released,1
+to,1
+press,1
+from,1
+calcutta,1
+is,1
+in,1
+gandhijis,1
+own,1
+handwriting,1

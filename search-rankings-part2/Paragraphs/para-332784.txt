@@ -1,0 +1,9 @@
+86,398,4
+blessings,1
+from,1
+bapu,1
+abdul,1
+ghani,1
+dar,1
+ludhiana,1
+punjab,1

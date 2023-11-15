@@ -1,0 +1,5 @@
+80,55,6
+96,1
+letter,1
+to,1
+kameshwaramma,1

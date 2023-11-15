@@ -1,0 +1,12 @@
+78,281,10
+shri,1
+t,1
+s,1
+jadhav,1
+president,1
+district,1
+local,1
+board,1
+sholapur,1
+writes,1
+2,1

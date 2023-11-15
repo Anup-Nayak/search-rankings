@@ -1,0 +1,19 @@
+traverse the csv create a trie. #done
+traverse the corpus. for each para create a trie. #done
+
+str word_node <word, freq in csv> #done
+
+for every word :
+	word = word_node.first;
+	z = word_node.second;
+	for every para:
+		calculate score of that word;
+		increment in that para score;
+
+sort according to the para scores
+
+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
+
+
+
+------- ( k eles in acsending)

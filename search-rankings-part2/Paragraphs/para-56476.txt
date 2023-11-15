@@ -1,0 +1,6 @@
+16,237,13
+letter,1
+sending,1
+additional,1
+manuscript,1
+shortly,1

@@ -1,0 +1,17 @@
+96,291,5
+would,1
+be,1
+a,1
+dangerous,1
+doctrine,1
+in,2
+free,1
+india,1
+he,1
+had,1
+lived,1
+south,1
+africa,1
+for,1
+20,1
+years,1

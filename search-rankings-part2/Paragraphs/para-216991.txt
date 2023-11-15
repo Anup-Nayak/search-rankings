@@ -1,0 +1,17 @@
+59,508,8
+a,1
+we,1
+have,2
+not,1
+made,1
+any,1
+decision,1
+however,1
+i,1
+shown,1
+you,1
+how,1
+my,1
+mind,1
+is,1
+working,1

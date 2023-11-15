@@ -1,0 +1,17 @@
+24,308,4
+a,3
+listener,1
+pointing,1
+to,1
+gentleman,2
+who,1
+was,1
+seated,1
+also,1
+close,1
+by,1
+said,1
+this,1
+here,1
+is,1
+nadar,1

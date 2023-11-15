@@ -1,0 +1,5 @@
+44,487,26
+t4,1
+guj,1
+adds,1
+therefore,1

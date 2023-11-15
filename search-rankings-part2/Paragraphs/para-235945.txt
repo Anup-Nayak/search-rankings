@@ -1,0 +1,9 @@
+64,294,4
+congress,1
+mandate,1
+the,1
+bombay,1
+chronicle,1
+17,1
+8,1
+1934,1

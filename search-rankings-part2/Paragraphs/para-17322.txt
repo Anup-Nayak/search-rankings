@@ -1,0 +1,7 @@
+6,210,2
+johannesburg,1
+about,1
+january,1
+5,1
+1907,1
+2,1

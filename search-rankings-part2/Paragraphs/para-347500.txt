@@ -1,0 +1,12 @@
+90,103,11
+1,1
+wife,1
+a,1
+chhaganlal,1
+gandhi,1
+2,1
+son,1
+of,2
+hoshiari,1
+niece,1
+balvantsinha,1

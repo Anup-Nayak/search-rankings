@@ -1,0 +1,7 @@
+70,15,2
+girls,1
+oh,2
+yes,3
+no,1
+but,1
+please,1

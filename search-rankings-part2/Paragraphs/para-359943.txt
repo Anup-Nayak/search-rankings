@@ -1,0 +1,6 @@
+93,94,5
+127,1
+letter,1
+to,1
+prema,1
+kantak,1

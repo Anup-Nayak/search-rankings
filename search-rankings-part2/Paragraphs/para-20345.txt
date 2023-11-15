@@ -1,0 +1,12 @@
+7,81,8
+the,5
+hon,1
+ble,1
+speaker,1
+and,1
+members,1
+of,3
+legislative,1
+assembly,1
+colony,1
+natal,1

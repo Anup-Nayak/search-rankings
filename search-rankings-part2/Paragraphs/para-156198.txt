@@ -1,0 +1,5 @@
+45,184,3
+175,1
+foreign,1
+cloth,1
+boycott,1

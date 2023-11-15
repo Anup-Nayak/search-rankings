@@ -1,0 +1,5 @@
+20,190,4
+11,1
+the,1
+satyagraha,1
+week,1

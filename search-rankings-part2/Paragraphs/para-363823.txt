@@ -1,0 +1,16 @@
+94,82,5
+they,2
+said,1
+wanted,1
+freedom,1
+to,1
+work,1
+in,1
+their,1
+own,1
+waythe,1
+government,1
+should,1
+provide,1
+the,1
+finance,1

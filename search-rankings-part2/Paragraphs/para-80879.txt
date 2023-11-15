@@ -1,0 +1,11 @@
+23,430,7
+1,1
+this,1
+was,1
+in,1
+connection,1
+with,1
+the,1
+anti,1
+drink,1
+campaign,1

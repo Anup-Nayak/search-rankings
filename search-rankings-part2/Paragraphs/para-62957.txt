@@ -1,0 +1,7 @@
+18,27,4
+23,1
+speech,1
+at,1
+womens,1
+meeting,1
+bombay,1

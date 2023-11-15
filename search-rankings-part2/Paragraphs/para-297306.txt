@@ -1,0 +1,6 @@
+79,181,1
+180,1
+lettter,1
+ot,1
+kulsum,1
+sayani,1

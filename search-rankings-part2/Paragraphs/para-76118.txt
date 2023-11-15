@@ -1,0 +1,4 @@
+22,93,4
+repression,1
+in,1
+bengal,1

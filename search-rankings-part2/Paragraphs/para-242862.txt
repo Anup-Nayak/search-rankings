@@ -1,0 +1,7 @@
+66,100,3
+why,1
+should,1
+you,1
+call,1
+shadow,1
+devil,1

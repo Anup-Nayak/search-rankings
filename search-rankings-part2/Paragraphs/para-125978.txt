@@ -1,0 +1,8 @@
+37,27,7
+31,1
+introduction,1
+to,1
+hand,2
+spinning,1
+and,1
+weaving,1

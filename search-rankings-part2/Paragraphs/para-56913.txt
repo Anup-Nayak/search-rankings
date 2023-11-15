@@ -1,0 +1,16 @@
+16,297,3
+7,1
+we,1
+shall,1
+nurse,1
+the,2
+sick,1
+among,1
+them,2
+and,2
+get,1
+for,1
+services,1
+of,1
+vaids,1
+doctors,1

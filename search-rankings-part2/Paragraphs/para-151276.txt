@@ -1,0 +1,9 @@
+43,489,2
+q,1
+and,1
+if,1
+your,1
+hopes,1
+are,1
+not,1
+realized,1

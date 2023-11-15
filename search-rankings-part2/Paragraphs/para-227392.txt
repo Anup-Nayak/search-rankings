@@ -1,0 +1,5 @@
+62,215,2
+233,1
+harijan,1
+workers,1
+duty,1

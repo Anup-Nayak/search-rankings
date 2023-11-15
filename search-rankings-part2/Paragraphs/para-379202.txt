@@ -1,0 +1,17 @@
+98,285,4
+1,1
+for,1
+the,2
+first,1
+time,1
+after,1
+his,1
+fast,1
+gandhiji,1
+was,1
+able,1
+to,2
+walk,1
+up,1
+prayer,1
+ground,1

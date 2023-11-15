@@ -1,0 +1,3 @@
+7,41,3
+registrars,1
+signature,1

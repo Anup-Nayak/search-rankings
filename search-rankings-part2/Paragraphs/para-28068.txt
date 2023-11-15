@@ -1,0 +1,11 @@
+9,248,2
+phoenix,1
+january,1
+9,1
+1909,1
+the,1
+editor,1
+rand,1
+daily,1
+mail,1
+johannesburg,1

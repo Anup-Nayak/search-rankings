@@ -1,0 +1,10 @@
+61,61,10
+shri,1
+prabhudas,1
+gandhi,1
+shail,1
+ashram,1
+almora,1
+u,1
+p,1
+ps,1

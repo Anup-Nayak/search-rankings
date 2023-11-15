@@ -1,0 +1,17 @@
+90,362,6
+5,1
+ally,1
+themselves,1
+against,1
+the,1
+awful,1
+waste,1
+of,1
+precious,1
+foodstuffs,1
+for,1
+liquor,1
+in,1
+breweries,1
+and,1
+distilleries,1

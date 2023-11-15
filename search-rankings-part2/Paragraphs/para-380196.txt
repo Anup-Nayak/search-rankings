@@ -1,0 +1,10 @@
+98,392,9
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujartati,1
+s,1
+n,1
+9366,1

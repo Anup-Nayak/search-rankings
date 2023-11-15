@@ -1,0 +1,7 @@
+42,331,8
+practically,1
+finished,1
+satisfactory,1
+am,1
+staying,1
+here,1

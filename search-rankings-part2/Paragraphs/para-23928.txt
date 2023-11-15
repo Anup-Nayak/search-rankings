@@ -1,0 +1,4 @@
+8,131,2
+concerning,1
+finger,1
+prints,1

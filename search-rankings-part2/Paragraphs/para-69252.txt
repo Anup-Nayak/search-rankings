@@ -1,0 +1,6 @@
+19,467,3
+a,1
+servant,1
+with,1
+this,1
+clause,1

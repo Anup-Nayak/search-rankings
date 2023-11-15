@@ -1,0 +1,11 @@
+88,33,12
+blessings,1
+from,1
+bapu,1
+sheth,1
+poonamchand,1
+ranka,2
+kuti,1
+shanker,1
+colony,1
+nagpur,1

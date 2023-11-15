@@ -1,0 +1,13 @@
+17,15,8
+your,1
+no,2
+had,2
+a,1
+real,1
+value,2
+to,1
+me,1
+the,1
+ayes,1
+at,1
+all,1

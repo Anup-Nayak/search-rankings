@@ -1,0 +1,12 @@
+38,440,4
+yours,1
+sincerely,1
+mrs,1
+francisca,1
+standenath,1
+graz,1
+in,1
+styria,1
+trautmansdorfgasse,1
+1,1
+austria,1

@@ -1,0 +1,14 @@
+82,395,16
+main,1
+issue,1
+was,1
+defence,2
+in,1
+war,1
+time,1
+is,1
+the,1
+chief,1
+task,1
+of,1
+government,1

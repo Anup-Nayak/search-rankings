@@ -1,0 +1,6 @@
+93,73,2
+srirampur,1
+ramgunj,1
+november,1
+27,1
+1946,1

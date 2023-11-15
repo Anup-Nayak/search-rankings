@@ -1,0 +1,15 @@
+16,465,16
+own,1
+lands,1
+and,1
+about,1
+two,1
+thirds,1
+by,1
+tenants,1
+owing,1
+to,1
+the,1
+competition,1
+of,1
+synthetic,1

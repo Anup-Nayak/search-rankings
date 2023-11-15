@@ -1,0 +1,14 @@
+82,300,15
+situation,1
+under,1
+control,1
+the,2
+things,1
+are,1
+going,1
+from,1
+bad,1
+to,1
+worse,1
+police,1
+is,1

@@ -1,0 +1,9 @@
+13,150,25
+bound,1
+to,1
+do,1
+now,1
+when,1
+considering,1
+union,1
+bill,1

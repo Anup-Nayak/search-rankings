@@ -1,0 +1,8 @@
+75,378,7
+you,1
+have,1
+had,1
+enough,1
+for,1
+the,1
+day,1

@@ -1,0 +1,9 @@
+19,160,5
+mathuradas,1
+trikumdas,1
+247,1
+bazar,1
+gate,1
+street,1
+fort,1
+bombay,1

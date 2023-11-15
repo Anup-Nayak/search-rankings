@@ -1,0 +1,9 @@
+23,43,2
+1,1
+a,1
+purana,1
+describing,1
+the,1
+avatars,1
+of,1
+vishnu,1

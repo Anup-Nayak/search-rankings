@@ -1,0 +1,10 @@
+51,89,14
+bapu,1
+sjt,1
+n,1
+p,1
+raghavan,1
+khadi,1
+depot,1
+payyanur,1
+malabar,1

@@ -1,0 +1,12 @@
+15,92,10
+1,1
+millowners,1
+of,1
+ahmedabad,2
+2,1
+vide,1
+speech,1
+at,1
+reception,1
+by,1
+citizens,1

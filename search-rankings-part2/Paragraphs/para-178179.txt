@@ -1,0 +1,4 @@
+51,43,14
+vidyavati,1
+lucknow,1
+jail,1

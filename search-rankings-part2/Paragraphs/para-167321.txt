@@ -1,0 +1,10 @@
+48,129,4
+139,1
+speech,1
+at,1
+servants,1
+of,1
+the,1
+people,1
+society,1
+lahore,1

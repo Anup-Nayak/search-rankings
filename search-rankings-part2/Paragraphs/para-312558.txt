@@ -1,0 +1,12 @@
+82,225,13
+deriving,1
+from,1
+hindi,1
+and,2
+having,1
+an,1
+admixture,1
+of,1
+arabic,1
+persian,1
+words,1

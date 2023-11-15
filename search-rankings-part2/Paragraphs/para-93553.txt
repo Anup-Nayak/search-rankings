@@ -1,0 +1,14 @@
+27,409,2
+i,1
+am,1
+already,1
+feeling,1
+better,1
+the,2
+sea,1
+breeze,1
+and,1
+rest,1
+are,1
+doing,1
+me,1

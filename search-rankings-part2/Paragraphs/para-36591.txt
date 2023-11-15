@@ -1,0 +1,8 @@
+11,314,9
+which,1
+are,1
+not,1
+quite,1
+satisfactory,1
+nothing,1
+further,1

@@ -1,0 +1,16 @@
+55,1,1
+this,2
+is,1
+not,1
+clear,1
+to,4
+you,2
+show,1
+letter,1
+premabehn,1
+and,1
+ask,1
+her,1
+explain,1
+its,1
+meaning,1

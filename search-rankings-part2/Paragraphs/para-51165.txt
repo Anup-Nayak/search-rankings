@@ -1,0 +1,5 @@
+15,104,6
+maganlal,1
+and,1
+others,1
+arrived,1

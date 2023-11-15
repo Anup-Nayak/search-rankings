@@ -1,0 +1,11 @@
+59,353,5
+not,1
+know,1
+reason,1
+will,1
+you,1
+please,1
+inquire,1
+and,1
+let,1
+me,1

@@ -1,0 +1,16 @@
+76,277,8
+spinner,1
+has,1
+been,1
+that,2
+in,1
+a,1
+vague,1
+way,1
+she,2
+feels,1
+is,1
+being,1
+paid,1
+more,1
+vastly,1

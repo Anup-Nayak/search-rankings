@@ -1,0 +1,15 @@
+88,93,4
+yours,1
+m,1
+k,1
+gandhi,1
+shri,1
+lalchand,1
+clerk,1
+loco,1
+wheelshop,1
+n,1
+w,1
+r,1
+moghulpura,1
+lahore,1

@@ -1,0 +1,6 @@
+76,126,2
+157,1
+provincial,2
+autonomy,1
+or,1
+jealousy,1

@@ -1,0 +1,10 @@
+53,202,20
+to,2
+communicate,1
+with,1
+you,1
+before,1
+coming,1
+a,1
+final,1
+decision,1

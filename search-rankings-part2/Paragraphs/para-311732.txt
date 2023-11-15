@@ -1,0 +1,4 @@
+82,156,14
+being,1
+treated,1
+properly,1

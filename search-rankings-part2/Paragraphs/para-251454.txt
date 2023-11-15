@@ -1,0 +1,13 @@
+68,27,9
+may,1
+you,1
+live,1
+long,1
+and,2
+do,1
+service,1
+without,1
+swerving,1
+from,1
+truth,1
+ahimsa,1

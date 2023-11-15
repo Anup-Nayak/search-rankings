@@ -1,0 +1,13 @@
+23,279,2
+1,1
+governor,1
+of,1
+bombay,1
+and,1
+sind,1
+which,1
+then,1
+constituted,1
+a,1
+single,1
+province,1

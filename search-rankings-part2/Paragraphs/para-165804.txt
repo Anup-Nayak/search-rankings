@@ -1,0 +1,4 @@
+47,392,11
+hindustani,1
+seva,1
+dal,1

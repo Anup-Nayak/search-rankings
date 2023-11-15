@@ -1,0 +1,8 @@
+11,269,4
+principle,1
+new,1
+bill,1
+satisfactory,1
+because,1
+it,1
+recognises,1

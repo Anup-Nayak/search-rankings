@@ -1,0 +1,13 @@
+82,412,20
+g,1
+one,1
+thing,1
+will,1
+happen,1
+today,1
+the,1
+shareholders,1
+get,1
+no,1
+return,1
+intermediaries,1

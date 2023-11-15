@@ -1,0 +1,11 @@
+59,512,12
+will,2
+be,1
+strongly,1
+opposed,1
+to,1
+the,1
+last,1
+and,1
+delay,1
+fulfilment,1

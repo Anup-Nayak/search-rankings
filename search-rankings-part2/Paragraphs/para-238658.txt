@@ -1,0 +1,6 @@
+65,125,6
+chimodes,1
+wada,1
+vegetable,1
+market,1
+amraoti,1

@@ -1,0 +1,9 @@
+43,28,6
+thank,1
+you,1
+can,1
+spare,1
+time,1
+and,1
+have,1
+inclination,1

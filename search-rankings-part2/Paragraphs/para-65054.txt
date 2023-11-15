@@ -1,0 +1,11 @@
+18,342,4
+your,1
+etc,1
+m,1
+k,1
+gandhi,1
+the,1
+bombay,1
+chronicle,1
+9,2
+1919,1

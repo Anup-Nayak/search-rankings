@@ -1,0 +1,16 @@
+9,54,12
+mr,6
+imam,1
+abdool,1
+kadir,1
+bawazeer,1
+fancy,1
+ibrahim,1
+coovadia,1
+omarji,1
+sale,1
+dildar,1
+khan,1
+ahmed,1
+moosaji,1
+and,1

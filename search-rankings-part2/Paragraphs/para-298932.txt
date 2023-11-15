@@ -1,0 +1,6 @@
+79,382,8
+405,1
+letter,1
+to,1
+margarete,1
+spiegel,1

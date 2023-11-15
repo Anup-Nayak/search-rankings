@@ -1,0 +1,9 @@
+40,290,7
+immediate,1
+visit,1
+delhi,1
+considered,1
+necessary,1
+am,1
+prepared,1
+postpone,1

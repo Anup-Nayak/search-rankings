@@ -1,0 +1,6 @@
+35,386,2
+495,1
+letter,1
+to,1
+g,1
+rajagopalachari,1

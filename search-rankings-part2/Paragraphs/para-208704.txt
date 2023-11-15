@@ -1,0 +1,7 @@
+58,145,4
+gandhiji,1
+then,1
+cry,1
+and,1
+weep,1
+laughter,1

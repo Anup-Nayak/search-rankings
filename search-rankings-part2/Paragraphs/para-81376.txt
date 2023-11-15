@@ -1,0 +1,16 @@
+24,1,23
+many,1
+days,1
+he,2
+had,1
+great,1
+faith,1
+in,1
+his,1
+countrymen,1
+and,1
+therefore,1
+prayed,1
+to,1
+god,1
+that,1

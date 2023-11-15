@@ -1,0 +1,6 @@
+42,403,6
+471,1
+limits,1
+of,1
+satyagraha,1
+1,1

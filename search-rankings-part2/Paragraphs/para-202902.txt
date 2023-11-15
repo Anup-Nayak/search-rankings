@@ -1,0 +1,7 @@
+57,11,7
+18,1
+letter,1
+to,1
+mathuri,1
+n,1
+khare,1

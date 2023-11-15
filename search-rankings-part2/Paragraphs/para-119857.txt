@@ -1,0 +1,7 @@
+35,294,9
+v,1
+m,1
+tarkunde,1
+sasvad,1
+poona,1
+dt,1

@@ -1,0 +1,9 @@
+30,277,15
+145,1
+speech,1
+in,1
+reply,1
+to,1
+welcome,1
+address,1
+porbunder,1

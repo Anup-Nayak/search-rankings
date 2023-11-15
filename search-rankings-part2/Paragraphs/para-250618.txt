@@ -1,0 +1,8 @@
+67,384,3
+thank,1
+god,1
+hope,1
+you,1
+are,1
+well,1
+1,1

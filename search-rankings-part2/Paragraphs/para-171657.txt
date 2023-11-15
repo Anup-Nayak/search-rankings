@@ -1,0 +1,14 @@
+49,255,10
+5,1
+should,1
+induce,1
+pupils,1
+and,1
+teachers,1
+in,1
+schools,1
+under,1
+their,1
+influence,1
+to,1
+spin,1

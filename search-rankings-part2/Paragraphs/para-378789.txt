@@ -1,0 +1,11 @@
+98,226,8
+1,1
+gandhiji,1
+gave,1
+this,1
+to,2
+the,1
+addressee,1
+before,1
+retiring,1
+bed,1

@@ -1,0 +1,10 @@
+22,478,6
+1,1
+for,1
+the,3
+text,1
+of,1
+resolution,1
+vide,1
+following,1
+item,1

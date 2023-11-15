@@ -1,0 +1,7 @@
+17,347,10
+rowlatt,1
+legislation,1
+hope,1
+committee,1
+approves,1
+will,1

@@ -1,0 +1,7 @@
+82,163,7
+journalist,1
+i,1
+doubt,1
+if,1
+anyone,1
+knows,1

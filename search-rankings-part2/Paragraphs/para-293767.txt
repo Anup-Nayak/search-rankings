@@ -1,0 +1,15 @@
+78,221,7
+here,1
+are,1
+some,1
+letter,1
+for,1
+you,2
+i,1
+shall,1
+examine,1
+your,1
+translations,1
+and,1
+return,1
+to,1

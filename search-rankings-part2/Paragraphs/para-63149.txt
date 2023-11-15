@@ -1,0 +1,8 @@
+18,48,7
+he,1
+will,1
+be,2
+allowed,1
+permission,1
+to,1
+defen,1

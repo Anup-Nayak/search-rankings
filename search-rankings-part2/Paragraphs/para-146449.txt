@@ -1,0 +1,6 @@
+42,410,7
+480,1
+letter,1
+to,1
+emma,1
+harker,1

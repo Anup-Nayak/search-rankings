@@ -1,0 +1,5 @@
+76,192,6
+243,1
+letter,1
+to,1
+amtussalaam,1

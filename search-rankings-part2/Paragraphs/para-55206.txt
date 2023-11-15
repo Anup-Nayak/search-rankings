@@ -1,0 +1,13 @@
+16,45,2
+mr,1
+reid,1
+raised,1
+the,2
+question,1
+as,1
+to,1
+whether,1
+abolition,1
+of,1
+tinkathia,1
+should,1

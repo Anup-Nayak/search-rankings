@@ -1,0 +1,6 @@
+98,235,1
+247,1
+speech,1
+at,1
+prayer,1
+meetiing1,1

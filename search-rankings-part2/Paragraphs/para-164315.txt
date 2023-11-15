@@ -1,0 +1,10 @@
+47,225,8
+1,1
+the,1
+congress,1
+must,1
+be,1
+represented,1
+in,1
+every,1
+village,1

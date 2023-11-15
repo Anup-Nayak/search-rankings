@@ -1,0 +1,8 @@
+17,386,10
+358,1
+speech,1
+on,1
+hindu,1
+muslim,1
+friendship,1
+bombay,1

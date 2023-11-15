@@ -1,0 +1,13 @@
+78,35,11
+you,1
+may,1
+say,1
+what,2
+do,2
+we,2
+owe,1
+to,1
+england,1
+and,1
+care,1
+whether,1

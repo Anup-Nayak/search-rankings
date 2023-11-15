@@ -1,0 +1,16 @@
+21,95,15
+1,1
+this,1
+was,1
+sent,1
+by,1
+gandhiji,1
+and,1
+shaukat,1
+ali,1
+as,1
+a,1
+message,1
+to,1
+madras,1
+presidency,1

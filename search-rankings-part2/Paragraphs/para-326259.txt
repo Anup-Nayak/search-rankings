@@ -1,0 +1,6 @@
+85,238,6
+378,1
+letter,1
+to,1
+abdul,1
+majeed,1

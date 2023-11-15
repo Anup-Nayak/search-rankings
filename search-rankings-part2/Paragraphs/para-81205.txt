@@ -1,0 +1,16 @@
+23,477,9
+the,1
+next,1
+point,1
+on,1
+which,1
+i,1
+beg,1
+to,1
+address,1
+you,2
+is,1
+this,1
+do,1
+suppose,1
+that,1

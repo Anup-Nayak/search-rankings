@@ -1,0 +1,5 @@
+7,27,1
+22,1
+india,1
+and,1
+transvaal,1

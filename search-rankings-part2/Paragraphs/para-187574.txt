@@ -1,0 +1,8 @@
+53,118,9
+lector,1
+asking,1
+for,1
+refund,1
+collection,1
+and,1
+stopping,1

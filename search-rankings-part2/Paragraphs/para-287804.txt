@@ -1,0 +1,12 @@
+76,429,18
+democratic,1
+freedom,1
+which,2
+is,2
+denied,1
+to,2
+her,1
+and,1
+likely,1
+be,1
+betrayed,1

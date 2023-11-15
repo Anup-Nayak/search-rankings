@@ -1,0 +1,8 @@
+14,75,11
+present,1
+the,1
+general,1
+impression,1
+created,1
+by,1
+his,1

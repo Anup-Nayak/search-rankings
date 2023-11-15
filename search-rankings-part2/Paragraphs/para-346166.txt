@@ -1,0 +1,9 @@
+89,409,8
+535,1
+talk,1
+with,1
+members,1
+of,1
+talimi,1
+sangh,1
+5,1

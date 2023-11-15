@@ -1,0 +1,13 @@
+33,402,9
+i,2
+am/wish,1
+to,1
+become,1
+a,1
+member,1
+of,1
+the,1
+*,1
+congress,1
+committee,1
+accept,1

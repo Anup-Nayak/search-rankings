@@ -1,0 +1,16 @@
+78,31,1
+1,1
+your,2
+gujarati,1
+handwriting,1
+is,2
+hardly,1
+legible,1
+i,1
+shall,1
+wait,1
+and,1
+see,1
+what,1
+reply,1
+like,1

@@ -1,0 +1,13 @@
+90,287,9
+while,1
+he,1
+was,1
+endeavouring,1
+to,1
+enthrone,1
+god,1
+in,2
+the,1
+heart,1
+and,1
+believed,1

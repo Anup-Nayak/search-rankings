@@ -1,0 +1,10 @@
+62,300,9
+1,1
+children,1
+of,1
+gulam,1
+rasul,1
+qureshi,1
+2,1
+ibid,2
+3,1

@@ -1,0 +1,16 @@
+10,494,8
+search,1
+the,1
+newspapers,1
+and,1
+add,1
+a,1
+line,1
+to,1
+this,1
+letter,1
+if,1
+it,1
+should,1
+be,1
+necessary,1

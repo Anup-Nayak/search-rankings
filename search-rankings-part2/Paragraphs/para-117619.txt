@@ -1,0 +1,5 @@
+35,29,5
+g,2
+jog,1
+motimahal,1
+cawnpore,1

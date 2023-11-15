@@ -1,0 +1,8 @@
+14,21,5
+please,1
+take,1
+rest,1
+during,1
+suspension,1
+no,1
+summary,1

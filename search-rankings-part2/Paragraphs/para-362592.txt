@@ -1,0 +1,14 @@
+93,384,1
+peace,1
+and,1
+let,2
+us,2
+stop,1
+discussing,1
+this,1
+subject,1
+altogether,1
+only,1
+talk,1
+about,1
+work,1

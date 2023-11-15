@@ -1,0 +1,15 @@
+37,197,8
+1,1
+iv,1
+35,1
+2,1
+vishnu,3
+in,1
+water,1
+on,2
+land,1
+and,1
+the,1
+tops,1
+of,1
+mountains,1

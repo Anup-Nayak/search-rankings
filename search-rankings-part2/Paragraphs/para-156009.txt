@@ -1,0 +1,7 @@
+45,148,4
+process,1
+of,1
+self,1
+purification,1
+in,1
+motion,1

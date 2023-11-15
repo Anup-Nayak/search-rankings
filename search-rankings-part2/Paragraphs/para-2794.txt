@@ -1,0 +1,13 @@
+2,75,11
+public,1
+opinion,1
+on,2
+the,2
+whole,1
+subject,1
+indians,1
+are,1
+objected,1
+to,1
+score,1
+of,1

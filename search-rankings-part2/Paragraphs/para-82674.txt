@@ -1,0 +1,14 @@
+24,220,15
+nation,1
+to,3
+offer,1
+its,1
+shreds,1
+and,2
+leavings,1
+another,1
+the,2
+wrong,1
+done,1
+islam,1
+by,1

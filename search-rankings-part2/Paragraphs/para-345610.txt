@@ -1,0 +1,10 @@
+89,344,2
+on,1
+way,1
+to,1
+madura,1
+february,1
+2,2
+1946,2
+harijan,1
+10,1

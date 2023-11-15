@@ -1,0 +1,17 @@
+65,428,17
+1,1
+on,1
+december,1
+10,1
+the,3
+addressee,1
+replied,1
+his,1
+excellency,1
+has,1
+no,1
+objection,1
+to,1
+publication,1
+of,1
+correspondence,1

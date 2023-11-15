@@ -1,0 +1,10 @@
+38,158,5
+k,1
+rajagopalachari,1
+khaddar,1
+stores,1
+gandhi,1
+street,1
+tirupati,1
+chittore,1
+district,1

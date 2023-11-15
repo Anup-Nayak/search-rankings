@@ -1,0 +1,8 @@
+97,262,13
+new,1
+delhi,1
+november,1
+9,2
+1947,2
+harijan,1
+11,1

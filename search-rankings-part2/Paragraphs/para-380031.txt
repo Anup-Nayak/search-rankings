@@ -1,0 +1,7 @@
+98,380,8
+421,1
+letter,1
+to,1
+narayan,1
+moreshwar,1
+khare,1

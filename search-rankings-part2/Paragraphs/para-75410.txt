@@ -1,0 +1,14 @@
+21,502,4
+he,1
+at,2
+the,2
+outset,1
+expressed,1
+regret,1
+for,1
+not,1
+being,1
+able,1
+to,1
+come,1
+there,1

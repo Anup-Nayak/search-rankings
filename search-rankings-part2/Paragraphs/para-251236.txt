@@ -1,0 +1,10 @@
+68,2,3
+from,1
+a,1
+microfilm,1
+of,1
+the,1
+gurjarati,1
+m,2
+u,1
+/ii,1

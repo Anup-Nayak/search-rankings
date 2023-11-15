@@ -1,0 +1,12 @@
+6,177,12
+1,1
+a,1
+similar,1
+letter,1
+was,1
+sent,1
+to,1
+j,1
+m,2
+robertson,1
+p,1

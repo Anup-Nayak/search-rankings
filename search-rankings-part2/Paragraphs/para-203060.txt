@@ -1,0 +1,12 @@
+57,31,9
+that,1
+god,1
+given,1
+opportunity,1
+has,1
+come,1
+to,1
+me,1
+for,1
+offering,1
+final,1

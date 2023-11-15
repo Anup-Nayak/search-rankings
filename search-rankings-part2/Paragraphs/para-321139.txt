@@ -1,0 +1,6 @@
+84,192,9
+256,1
+letter,1
+to,1
+navin,1
+gandhi,1

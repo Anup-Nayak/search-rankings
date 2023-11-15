@@ -1,0 +1,5 @@
+25,106,2
+from,1
+across,1
+the,1
+ocean,1

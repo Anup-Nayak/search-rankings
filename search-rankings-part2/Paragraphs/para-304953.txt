@@ -1,0 +1,6 @@
+80,480,6
+discussion,1
+with,1
+r,1
+s,1
+ruikar1,1

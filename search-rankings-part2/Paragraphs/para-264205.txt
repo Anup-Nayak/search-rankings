@@ -1,0 +1,7 @@
+71,99,5
+107,1
+letter,1
+to,1
+j,1
+c,1
+kumarappa,1

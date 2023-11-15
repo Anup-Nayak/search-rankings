@@ -1,0 +1,11 @@
+38,255,8
+the,2
+argument,1
+is,1
+unanswerable,1
+though,1
+doctor,1
+who,1
+concerns,1
+himself,1
+mainly,1

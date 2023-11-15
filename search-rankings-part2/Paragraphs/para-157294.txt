@@ -1,0 +1,7 @@
+45,343,3
+a,1
+shopkeeper,1
+from,1
+wadhwan,1
+writes,1
+1,1

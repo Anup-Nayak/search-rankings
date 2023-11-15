@@ -1,0 +1,8 @@
+6,380,10
+chinese,1
+have,1
+written,1
+government,1
+accepting,1
+indian,1
+proposal,1

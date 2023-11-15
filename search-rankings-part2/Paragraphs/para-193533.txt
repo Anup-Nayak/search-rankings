@@ -1,0 +1,9 @@
+54,347,16
+he,2
+was,1
+entitled,1
+to,1
+open,1
+trial,1
+where,1
+could,1

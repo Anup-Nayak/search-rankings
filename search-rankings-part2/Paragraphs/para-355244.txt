@@ -1,0 +1,10 @@
+92,68,2
+102,1
+the,1
+place,1
+of,1
+medicine,1
+in,1
+nayee,1
+talim,1
+1,1

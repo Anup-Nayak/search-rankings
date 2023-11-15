@@ -1,0 +1,7 @@
+92,230,9
+q,1
+do,1
+you,1
+ever,1
+feel,1
+depressed,1

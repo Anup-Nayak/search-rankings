@@ -1,0 +1,14 @@
+54,24,3
+q,1
+so,1
+you,1
+are,1
+opposed,1
+to,1
+machinery,1
+only,1
+because,1
+and,1
+when,1
+it,1
+concentrates,1

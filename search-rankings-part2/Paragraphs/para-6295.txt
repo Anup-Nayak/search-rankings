@@ -1,0 +1,7 @@
+3,29,4
+private,1
+secretary,1
+his,1
+excellency,1
+lieutenant,1
+governor,1

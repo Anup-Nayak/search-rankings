@@ -1,0 +1,14 @@
+68,444,15
+the,1
+association,1
+among,1
+those,2
+that,1
+are,1
+already,1
+certified,1
+only,1
+who,1
+will,1
+work,1
+strictly,1

@@ -1,0 +1,14 @@
+86,16,12
+1,1
+this,1
+is,1
+written,1
+as,1
+a,1
+postscript,1
+to,2
+sushila,1
+nayyars,1
+letter,1
+the,1
+addressee,1

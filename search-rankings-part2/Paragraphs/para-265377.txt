@@ -1,0 +1,7 @@
+71,257,8
+273,1
+message,1
+on,1
+opening,1
+of,1
+annakshetra,1

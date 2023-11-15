@@ -1,0 +1,14 @@
+38,377,12
+make,1
+inquiries,1
+and,1
+once,1
+in,1
+conjunction,1
+with,1
+mr,1
+gandhi,1
+the,1
+result,1
+was,1
+that,1

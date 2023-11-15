@@ -1,0 +1,8 @@
+19,256,1
+you,1
+and,1
+other,1
+people,1
+all,1
+these,1
+years,1

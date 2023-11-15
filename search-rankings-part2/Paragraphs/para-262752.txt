@@ -1,0 +1,7 @@
+70,363,6
+tarabehn,1
+mahila,1
+vidyalaya,1
+ganga,1
+prasad,1
+road,1

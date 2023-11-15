@@ -1,0 +1,15 @@
+31,308,8
+of,2
+each,1
+locality,1
+1,1
+but,1
+he,1
+said,1
+that,1
+charkha,1
+might,1
+form,1
+the,2
+main,1
+part,1

@@ -1,0 +1,16 @@
+98,122,7
+mahatma,1
+gandhi,1
+advised,1
+indonesia,1
+to,2
+take,1
+every,1
+opportunity,1
+establish,1
+closer,1
+relations,1
+with,1
+other,1
+asian,1
+peoples,1

@@ -1,0 +1,14 @@
+9,50,13
+gandhiji,1
+does,1
+he,1
+not,1
+hold,1
+a,1
+permit,1
+under,1
+the,1
+peace,1
+preser,1
+vation,1
+ordinance,1

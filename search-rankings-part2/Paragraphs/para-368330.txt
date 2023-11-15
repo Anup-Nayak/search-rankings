@@ -1,0 +1,10 @@
+95,237,7
+by,1
+private,1
+persons,1
+except,1
+at,1
+the,1
+bar,1
+of,1
+public,1

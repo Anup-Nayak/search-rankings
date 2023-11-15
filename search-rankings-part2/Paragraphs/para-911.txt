@@ -1,0 +1,13 @@
+1,181,1
+26,1
+the,2
+committee,1
+shall,1
+have,1
+power,1
+to,1
+amend,1
+these,1
+rules,1
+in,1
+future,1

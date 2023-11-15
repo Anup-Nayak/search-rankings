@@ -1,0 +1,7 @@
+80,490,13
+pilgri,1
+mage,1
+to,1
+freedo,1
+m,1
+pp,1

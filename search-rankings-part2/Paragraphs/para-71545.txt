@@ -1,0 +1,8 @@
+20,322,3
+109,1
+mill,1
+owners,1
+and,1
+workers,1
+of,1
+ahmedabad,1

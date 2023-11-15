@@ -1,0 +1,5 @@
+92,126,2
+nature,1
+cure,1
+a,1
+panacea,1

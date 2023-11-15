@@ -1,0 +1,3 @@
+9,474,5
+temporary,1
+permits,1

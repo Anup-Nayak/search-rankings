@@ -1,0 +1,13 @@
+49,290,16
+4,1
+the,2
+remaining,1
+seven,1
+points,1
+raised,1
+in,1
+mr,1
+gandhis,1
+letter,1
+to,2
+viceroy,1

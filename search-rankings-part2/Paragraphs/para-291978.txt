@@ -1,0 +1,16 @@
+78,35,20
+dissipate,1
+if,1
+on,1
+the,2
+other,1
+hand,1
+you,2
+are,1
+able,1
+to,1
+make,1
+us,1
+lose,1
+war,1
+do,1

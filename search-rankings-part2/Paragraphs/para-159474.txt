@@ -1,0 +1,6 @@
+46,150,1
+140,1
+maurya,1
+empire,1
+and,1
+untouchability,1

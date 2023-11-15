@@ -1,0 +1,6 @@
+51,248,2
+appeal,1
+to,1
+foreign,1
+cloth,1
+merchants,1

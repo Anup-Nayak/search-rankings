@@ -1,0 +1,6 @@
+14,410,3
+ask,1
+manilal,1
+to,2
+write,1
+me,1

@@ -1,0 +1,6 @@
+42,20,1
+31,1
+letter,1
+to,1
+ramdas,1
+gandhi,1

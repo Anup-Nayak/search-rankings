@@ -1,0 +1,11 @@
+13,451,35
+allow,1
+every,1
+indian,1
+born,1
+in,1
+natal,1
+the,1
+right,1
+to,1
+enter,1

@@ -1,0 +1,9 @@
+44,508,3
+t7,1
+guj,1
+does,1
+not,1
+have,1
+of,1
+the,1
+north,1

@@ -1,0 +1,16 @@
+27,6,3
+mr,1
+gandhi,1
+is,1
+recuperating,1
+in,1
+the,1
+mountain,1
+air,1
+of,1
+poona,1
+just,1
+a,1
+few,1
+miles,1
+from,1

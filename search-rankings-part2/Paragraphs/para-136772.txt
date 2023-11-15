@@ -1,0 +1,9 @@
+40,39,5
+kulandai,1
+that,1
+is,1
+one,1
+view,1
+of,1
+the,1
+subject,1

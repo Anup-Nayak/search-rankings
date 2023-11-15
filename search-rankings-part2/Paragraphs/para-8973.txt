@@ -1,0 +1,7 @@
+4,27,1
+23,1
+the,1
+pretoria,1
+municipality,1
+on,1
+colour,1

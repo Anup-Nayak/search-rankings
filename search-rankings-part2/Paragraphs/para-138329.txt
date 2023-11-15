@@ -1,0 +1,12 @@
+40,326,2
+s,1
+d,1
+nadkarni,1
+in,1
+letter,1
+from,1
+karwar,1
+dated,1
+10th,1
+september,1
+says,1

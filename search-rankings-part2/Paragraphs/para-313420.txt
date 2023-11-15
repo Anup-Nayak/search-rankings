@@ -1,0 +1,12 @@
+82,298,29
+to,1
+greet,1
+them,1
+thinking,1
+they,2
+were,1
+some,1
+military,1
+soldiers,1
+attack,1
+and,1

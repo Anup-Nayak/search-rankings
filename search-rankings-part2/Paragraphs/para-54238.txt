@@ -1,0 +1,8 @@
+15,466,1
+381,1
+a,1
+few,1
+words,1
+to,1
+orphanages,1
+1,1

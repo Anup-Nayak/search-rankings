@@ -1,0 +1,10 @@
+68,299,14
+1,1
+from,1
+the,2
+printed,1
+version,1
+in,1
+source,1
+2,1
+ibid,1

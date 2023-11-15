@@ -1,0 +1,7 @@
+44,485,1
+t3,1
+guj,1
+has,1
+were,1
+aware,1
+of,1

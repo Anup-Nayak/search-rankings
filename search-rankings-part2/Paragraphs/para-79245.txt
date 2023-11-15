@@ -1,0 +1,15 @@
+23,151,4
+said,1
+pundit,1
+malaviya,1
+had,1
+sent,1
+him,2
+a,1
+telegram,1
+asking,1
+to,2
+come,1
+up,1
+simla,1
+and,1

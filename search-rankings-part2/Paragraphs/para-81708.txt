@@ -1,0 +1,13 @@
+24,65,7
+not,1
+even,1
+curse,1
+or,1
+socially,1
+boycott,1
+the,1
+government,1
+officials,1
+when,1
+they,1
+had,1

@@ -1,0 +1,12 @@
+29,317,3
+m,1
+k,1
+gandhi,1
+sjt,1
+satish,1
+chandra,1
+mukerjee,1
+110,1
+hazra,1
+road,1
+calcutta,1

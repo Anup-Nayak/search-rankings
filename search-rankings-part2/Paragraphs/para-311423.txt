@@ -1,0 +1,5 @@
+82,131,12
+it,1
+is,1
+getting,1
+hotter,1

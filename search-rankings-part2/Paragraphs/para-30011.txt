@@ -1,0 +1,6 @@
+10,11,2
+7,1
+letter,1
+to,1
+ameer,1
+ali,1

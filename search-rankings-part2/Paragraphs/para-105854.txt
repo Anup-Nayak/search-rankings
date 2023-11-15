@@ -1,0 +1,12 @@
+31,191,13
+in,2
+india,1
+conceded,1
+some,1
+years,1
+ago,1
+that,1
+the,1
+herditary,1
+principle,1
+varnashrama,1

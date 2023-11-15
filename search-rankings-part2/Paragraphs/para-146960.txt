@@ -1,0 +1,13 @@
+42,467,1
+to,1
+enquire,1
+into,1
+and,2
+report,1
+upon,1
+the,2
+complaint,1
+of,2
+people,1
+bardoli,1
+valod,1

@@ -1,0 +1,5 @@
+78,412,5
+480,1
+the,1
+delhi,1
+resolution,1

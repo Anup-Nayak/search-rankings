@@ -1,0 +1,9 @@
+30,195,13
+a,1
+they,2
+are,2
+all,1
+hindus,1
+sometimes,1
+sikhs,1
+also,1

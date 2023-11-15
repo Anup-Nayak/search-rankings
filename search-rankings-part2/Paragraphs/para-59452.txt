@@ -1,0 +1,10 @@
+17,74,13
+departments,1
+fail,1
+to,1
+seek,1
+in,1
+spirit,1
+of,1
+equality,1
+the,1

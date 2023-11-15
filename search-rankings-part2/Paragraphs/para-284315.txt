@@ -1,0 +1,9 @@
+76,50,17
+treatment,1
+would,1
+be,1
+hospital,1
+all,1
+things,1
+considered,1
+my,1

@@ -1,0 +1,10 @@
+1,329,3
+1,1
+secretary,1
+of,1
+state,1
+for,1
+foreign,1
+affairs,1
+1894,1
+5,1

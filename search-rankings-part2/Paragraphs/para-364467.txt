@@ -1,0 +1,7 @@
+94,161,3
+172,1
+talk,1
+with,1
+village,1
+representatives,1
+1,1

@@ -1,0 +1,8 @@
+71,321,17
+effect,1
+in,1
+the,1
+case,1
+of,1
+diseased,1
+patients,1

@@ -1,0 +1,14 @@
+77,423,21
+in,3
+numbers,1
+as,2
+well,1
+great,1
+historic,1
+importance,1
+and,1
+culture,1
+those,1
+are,1
+all,1
+factors,1

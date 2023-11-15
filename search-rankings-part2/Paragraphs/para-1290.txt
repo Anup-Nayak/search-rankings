@@ -1,0 +1,11 @@
+1,250,8
+the,1
+coolie,1
+does,1
+not,1
+come,1
+into,1
+competition,1
+to,1
+any,1
+considerable,1

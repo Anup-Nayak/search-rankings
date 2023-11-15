@@ -1,0 +1,7 @@
+18,128,12
+ever,1
+replace,1
+criminal,1
+disobedience,1
+and,1
+onrush,1

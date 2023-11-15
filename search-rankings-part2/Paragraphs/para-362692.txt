@@ -1,0 +1,6 @@
+93,394,6
+1,1
+bargadars,1
+land,1
+tenancy,1
+bill,1

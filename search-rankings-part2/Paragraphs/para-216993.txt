@@ -1,0 +1,15 @@
+59,508,10
+a,1
+we,1
+cannot,1
+ask,1
+the,1
+savarna,1
+hindus,1
+to,1
+decide,1
+for,1
+themselves,1
+whether,1
+or,1
+not,1

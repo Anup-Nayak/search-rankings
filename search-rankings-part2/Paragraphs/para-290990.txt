@@ -1,0 +1,15 @@
+77,395,2
+take,1
+part,1
+in,1
+politics,1
+hence,1
+it,2
+would,1
+be,1
+enough,1
+to,1
+correct,1
+this,1
+seems,1
+impracticable,1

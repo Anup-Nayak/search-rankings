@@ -1,0 +1,12 @@
+30,210,11
+q,1
+at,1
+what,1
+time,1
+was,1
+jivandas,1
+released,1
+on,1
+the,1
+8th,1
+september,1

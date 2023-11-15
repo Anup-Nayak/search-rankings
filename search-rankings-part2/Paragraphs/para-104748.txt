@@ -1,0 +1,15 @@
+31,22,16
+described,1
+the,3
+way,1
+in,1
+which,1
+dr,1
+dev,1
+with,1
+co,1
+operation,1
+of,1
+villagers,1
+and,1
+others,1

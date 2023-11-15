@@ -1,0 +1,13 @@
+46,157,22
+buffalo,1
+is,2
+the,1
+chief,1
+milk,1
+producer,1
+and,1
+cow,1
+scarcely,1
+reared,1
+for,1
+milking,1

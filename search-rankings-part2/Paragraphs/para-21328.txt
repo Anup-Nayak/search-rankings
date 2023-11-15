@@ -1,0 +1,5 @@
+7,213,6
+johannesburg,1
+in,1
+tight,1
+grip,1

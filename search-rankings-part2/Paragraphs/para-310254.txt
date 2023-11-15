@@ -1,0 +1,5 @@
+82,32,16
+42,1
+letter,1
+to,1
+bhagwandas,1

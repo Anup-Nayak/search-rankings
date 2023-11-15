@@ -1,0 +1,9 @@
+11,139,2
+tolstoy,1
+farm,1
+aso,1
+vadi,1
+1,2
+october,1
+19,1
+1910,1

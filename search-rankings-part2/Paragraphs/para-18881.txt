@@ -1,0 +1,6 @@
+6,415,2
+indians,1
+going,1
+to,1
+lobito,1
+bay1,1

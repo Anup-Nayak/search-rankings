@@ -1,0 +1,12 @@
+44,480,25
+t2,1
+in,1
+guj,1
+this,1
+para,1
+begins,1
+with,1
+i,1
+worked,1
+very,1
+hard,1

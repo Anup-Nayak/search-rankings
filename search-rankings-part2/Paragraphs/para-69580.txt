@@ -1,0 +1,12 @@
+20,6,15
+gallant,1
+punjabi,1
+mohammedans,1
+sikhs,1
+and,1
+gurkhas,1
+that,1
+had,1
+returned,1
+from,1
+the,1

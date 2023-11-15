@@ -1,0 +1,15 @@
+62,5,3
+bhai,1
+ghanshyamdas,1
+gopi,1
+is,2
+doing,1
+quite,1
+well,1
+she,1
+cheerful,1
+i,1
+have,1
+written,1
+to,1
+gajanan,1

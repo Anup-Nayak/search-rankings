@@ -1,0 +1,12 @@
+71,73,4
+find,1
+many,1
+leading,1
+doctors,1
+and,1
+scientists,1
+belonging,1
+to,1
+the,1
+american,1
+social,1

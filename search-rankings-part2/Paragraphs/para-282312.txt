@@ -1,0 +1,12 @@
+75,296,2
+1vide,1
+speech,1
+at,1
+praja,1
+parishad,1
+workers,1
+meeting,1
+rajkot,1
+25,1
+4,1
+1939,1

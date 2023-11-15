@@ -1,0 +1,13 @@
+25,275,3
+chapra,1
+do,1
+enlist,1
+leaving,1
+instruction,1
+to,1
+young,1
+reliable,1
+ten,1
+ensuring,1
+non,1
+violence,1

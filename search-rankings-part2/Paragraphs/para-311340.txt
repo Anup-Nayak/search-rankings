@@ -1,0 +1,16 @@
+82,123,4
+villages,1
+2,1
+but,1
+there,1
+will,1
+be,1
+thousands,1
+of,1
+evacuees,1
+who,1
+have,1
+been,1
+employed,1
+in,1
+the,1

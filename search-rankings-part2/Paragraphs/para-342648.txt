@@ -1,0 +1,12 @@
+89,12,10
+25,1
+letter,1
+to,1
+mrs,1
+s,1
+r,1
+das,1
+sodepur,1
+december,1
+8,1
+1945,1

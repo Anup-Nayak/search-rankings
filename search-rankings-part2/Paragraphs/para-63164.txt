@@ -1,0 +1,7 @@
+18,49,4
+1,1
+sakarlal,1
+amritlal,1
+dave,1
+gujarati,1
+educationist,1

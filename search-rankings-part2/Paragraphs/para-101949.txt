@@ -1,0 +1,7 @@
+30,97,6
+taluka,1
+district,1
+yarn,1
+quota,1
+received,1
+province,1

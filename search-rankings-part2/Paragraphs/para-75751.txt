@@ -1,0 +1,12 @@
+22,28,1
+they,1
+realized,1
+the,2
+real,1
+situation,1
+non,1
+co,1
+operation,1
+was,1
+only,1
+alternative,1

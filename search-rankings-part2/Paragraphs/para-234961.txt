@@ -1,0 +1,13 @@
+64,176,8
+gandhiji,1
+said,1
+that,2
+he,1
+had,1
+numerous,1
+complaints,1
+against,1
+sikhs,1
+to,1
+the,1
+effect,1

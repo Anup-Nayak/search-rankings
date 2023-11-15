@@ -1,0 +1,15 @@
+27,121,2
+if,1
+you,1
+are,1
+not,1
+already,1
+so,1
+humorously,1
+remarked,1
+mr,1
+andrews,1
+with,1
+a,1
+broad,1
+smile,1

@@ -1,0 +1,13 @@
+82,300,10
+these,1
+districts,1
+military,1
+has,1
+been,1
+sent,1
+to,1
+aid,1
+the,2
+police,1
+sindh,1
+assembly,1

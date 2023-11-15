@@ -1,0 +1,11 @@
+78,140,3
+dear,1
+dr,1
+gopichand,1
+1,1
+what,1
+do,1
+you,1
+say,1
+to,1
+this,1

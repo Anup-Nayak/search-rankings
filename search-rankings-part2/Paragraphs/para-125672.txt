@@ -1,0 +1,13 @@
+36,502,7
+a,1
+1,1
+in,2
+defining,1
+arya,1
+dharma,1
+everyone,1
+has,1
+his,1
+own,1
+religion,1
+view,1

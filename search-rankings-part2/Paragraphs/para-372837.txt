@@ -1,0 +1,8 @@
+96,347,1
+467,1
+speech,1
+at,1
+gobra,1
+leprosy,1
+hospital,1
+1,1

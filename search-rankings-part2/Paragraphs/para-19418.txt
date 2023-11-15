@@ -1,0 +1,7 @@
+6,494,7
+prime,1
+ministers,1
+archives,1
+pretoria,1
+file,1
+14/1/1907,1

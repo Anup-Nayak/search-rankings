@@ -1,0 +1,12 @@
+73,90,4
+m,1
+k,1
+gandhi,1
+mr,1
+syed,1
+mahmud,1
+minister,1
+of,1
+education,1
+patna,1
+bihar,1

@@ -1,0 +1,8 @@
+98,133,2
+1,1
+the,1
+jammu,1
+and,1
+kashmir,1
+state,1
+forces,1

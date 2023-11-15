@@ -1,0 +1,12 @@
+46,156,16
+cheapness,1
+and,1
+evenness,1
+have,1
+attracted,1
+us,1
+self,1
+spinning,1
+has,1
+lost,1
+its,1

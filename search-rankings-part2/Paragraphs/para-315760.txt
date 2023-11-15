@@ -1,0 +1,16 @@
+82,416,15
+l,1
+f,1
+i,1
+do,1
+not,1
+underestimate,1
+the,1
+power,1
+of,1
+truth,1
+but,1
+this,1
+explanation,1
+seems,1
+to,1

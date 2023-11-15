@@ -1,0 +1,7 @@
+64,32,4
+48,1
+untouchability,1
+as,1
+it,1
+exists,1
+today,1

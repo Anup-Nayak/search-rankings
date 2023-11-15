@@ -1,0 +1,9 @@
+3,28,1
+17,1
+telegram,1
+to,2
+p,1
+s,1
+lt,1
+governor,1
+transvaal,1

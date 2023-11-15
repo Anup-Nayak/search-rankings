@@ -1,0 +1,17 @@
+54,456,6
+3,1
+anand,1
+hingorani,1
+who,1
+has,1
+since,1
+published,1
+its,1
+sindhi,1
+version,1
+under,1
+the,1
+title,1
+iswara,1
+ahe,2
+ha,1

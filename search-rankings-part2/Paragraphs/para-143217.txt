@@ -1,0 +1,11 @@
+42,17,11
+1,1
+the,1
+addressee,1
+was,1
+professor,1
+of,1
+chemistry,1
+khalsa,1
+college,1
+amritsar,1

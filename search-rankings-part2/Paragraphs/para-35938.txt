@@ -1,0 +1,8 @@
+11,268,13
+education,1
+test,1
+uncertainty,1
+rights,1
+of,1
+domicile,1
+and,1

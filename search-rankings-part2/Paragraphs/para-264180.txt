@@ -1,0 +1,6 @@
+71,94,6
+103,1
+hindi,1
+prachar,1
+and,1
+purity,1

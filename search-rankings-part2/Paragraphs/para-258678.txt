@@ -1,0 +1,10 @@
+69,338,3
+from,1
+a,1
+copy,1
+c,1
+w,1
+10100,1
+courtesy,1
+amrit,1
+kaur,1

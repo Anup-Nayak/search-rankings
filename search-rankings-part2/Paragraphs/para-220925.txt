@@ -1,0 +1,6 @@
+60,486,4
+577,1
+letter,1
+to,1
+premabehn,1
+kantak,1

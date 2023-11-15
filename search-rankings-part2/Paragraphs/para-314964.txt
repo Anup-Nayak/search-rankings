@@ -1,0 +1,10 @@
+82,393,18
+4,1
+to,2
+conduct,1
+examinations,1
+in,2
+various,1
+places,1
+order,1
+propagate,1

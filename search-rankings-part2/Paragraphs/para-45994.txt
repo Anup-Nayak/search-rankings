@@ -1,0 +1,7 @@
+14,11,16
+who,1
+should,1
+simply,1
+enquire,1
+charges,1
+flogging,1

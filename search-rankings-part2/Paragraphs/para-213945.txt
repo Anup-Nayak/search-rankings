@@ -1,0 +1,12 @@
+59,178,12
+the,2
+method,1
+to,1
+be,1
+adopted,1
+for,2
+consolidating,1
+public,1
+opinion,1
+and,1
+demonstrating,1

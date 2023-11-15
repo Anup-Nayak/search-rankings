@@ -1,0 +1,7 @@
+68,28,7
+35,1
+letter,1
+to,1
+shardabehn,1
+h,1
+kotak,1

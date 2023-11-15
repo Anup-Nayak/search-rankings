@@ -1,0 +1,15 @@
+80,218,3
+krishnachandra,1
+what,1
+does,2
+lilavatibehn,1
+say,1
+tell,1
+me,1
+about,1
+the,2
+stove,1
+etc,1
+who,1
+all,1
+shopping,1

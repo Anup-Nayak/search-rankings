@@ -1,0 +1,9 @@
+11,267,17
+cover,1
+objections,1
+when,1
+it,1
+will,1
+happily,1
+end,1
+painful,1

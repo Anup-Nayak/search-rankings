@@ -1,0 +1,15 @@
+67,17,7
+madalasa,1
+should,1
+have,1
+boiled,1
+milk,1
+and,1
+cream,1
+whole,1
+meal,1
+bread,1
+or,1
+chapati,1
+if,1
+digestible,1

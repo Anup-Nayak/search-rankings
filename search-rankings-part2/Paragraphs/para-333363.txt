@@ -1,0 +1,12 @@
+87,10,9
+bapu,1
+shri,1
+mirabehn,1
+kisan,1
+ashram,1
+bahadarabad,1
+p,1
+o,1
+jwalapur,1
+near,1
+hardwar,1

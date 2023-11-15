@@ -1,0 +1,13 @@
+78,35,10
+give,1
+that,2
+little,1
+push,1
+to,1
+the,1
+scales,1
+might,1
+well,1
+have,1
+meant,1
+defeat,1

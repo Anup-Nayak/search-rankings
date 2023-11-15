@@ -1,0 +1,9 @@
+52,318,14
+1,1
+the,2
+words,1
+of,1
+resolution,1
+dealing,1
+with,1
+untouchability,1

@@ -1,0 +1,7 @@
+71,67,3
+babu,1
+rajendra,1
+prasad,1
+sadaquat,1
+ashram,1
+patna,1

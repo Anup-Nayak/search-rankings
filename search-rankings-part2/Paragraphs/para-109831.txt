@@ -1,0 +1,17 @@
+32,336,4
+founded,1
+if,1
+not,1
+will,1
+you,1
+please,1
+wash,1
+your,1
+hands,1
+of,1
+the,1
+patak,1
+1,1
+by,1
+publishing,1
+a,1

@@ -1,0 +1,6 @@
+12,141,1
+113,1
+the,1
+new,1
+immigration,1
+bill,1

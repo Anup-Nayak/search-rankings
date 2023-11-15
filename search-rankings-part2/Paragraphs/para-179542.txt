@@ -1,0 +1,6 @@
+51,171,15
+2,1
+addressees,1
+father,1
+and,1
+mother,1

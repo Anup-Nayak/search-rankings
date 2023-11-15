@@ -1,0 +1,6 @@
+31,31,3
+kelappan,1
+nair,1
+satyagraha,1
+ashram,1
+vykom,1

@@ -1,0 +1,15 @@
+15,413,3
+pound,2
+or,1
+if,1
+the,2
+d,1
+b,1
+is,1
+leased,1
+out,1
+to,1
+landlord,1
+then,1
+in,1
+it,1

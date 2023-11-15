@@ -1,0 +1,16 @@
+76,101,7
+it,1
+is,2
+an,1
+encouragement,1
+to,2
+me,1
+there,1
+a,1
+kind,1
+of,1
+hero,1
+worship,1
+that,1
+attributes,1
+you,1

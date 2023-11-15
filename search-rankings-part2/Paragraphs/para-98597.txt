@@ -1,0 +1,5 @@
+29,156,17
+like,1
+sardar,1
+mangal,1
+singh,1

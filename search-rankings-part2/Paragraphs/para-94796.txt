@@ -1,0 +1,12 @@
+28,93,6
+1,1
+the,2
+stuff,1
+is,1
+very,1
+heavy,1
+ladies,1
+do,1
+not,1
+tolerate,1
+it,1

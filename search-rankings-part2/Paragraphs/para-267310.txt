@@ -1,0 +1,13 @@
+72,33,1
+of,1
+any,1
+kind,1
+whatever,1
+if,1
+she,2
+comes,1
+may,1
+bring,1
+the,1
+typewriter,1
+1,1

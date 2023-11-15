@@ -1,0 +1,14 @@
+77,392,10
+politics,1
+are,2
+being,1
+asked,1
+to,2
+leave,1
+the,1
+sangh,1
+but,1
+those,1
+who,1
+inclined,1
+pursue,1

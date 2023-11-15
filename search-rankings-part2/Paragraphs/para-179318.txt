@@ -1,0 +1,16 @@
+51,151,5
+who,1
+asked,1
+him,1
+whether,1
+the,1
+talks,1
+were,1
+over,1
+he,1
+looked,1
+thoughtful,1
+and,1
+with,1
+his,1
+usual,1

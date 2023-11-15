@@ -1,0 +1,8 @@
+16,93,2
+1,1
+couplet,1
+2,1
+this,1
+is,1
+from,1
+ramacharitamanas,1

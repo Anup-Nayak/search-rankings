@@ -1,0 +1,6 @@
+5,194,2
+183,1
+the,1
+meeting,1
+at,1
+mombasa,1

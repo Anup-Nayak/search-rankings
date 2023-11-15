@@ -1,0 +1,9 @@
+56,112,2
+1,1
+author,1
+of,2
+charakasamhita,1
+a,1
+manual,1
+ayurvedic,1
+medicine,1

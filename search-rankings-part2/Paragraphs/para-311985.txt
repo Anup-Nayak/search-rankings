@@ -1,0 +1,17 @@
+82,175,10
+even,1
+bravery,1
+in,1
+so,2
+leaving,1
+my,1
+homestead,1
+and,1
+crops,1
+if,1
+i,1
+do,1
+not,1
+out,1
+of,1
+fear,1

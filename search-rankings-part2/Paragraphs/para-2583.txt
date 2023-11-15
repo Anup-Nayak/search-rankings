@@ -1,0 +1,7 @@
+2,39,1
+government,1
+it,1
+contained,1
+the,1
+following,1
+paragraph,1

@@ -1,0 +1,5 @@
+95,142,6
+bihar,1
+pacchi,1
+dilhi,1
+pp,1

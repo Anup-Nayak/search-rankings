@@ -1,0 +1,15 @@
+80,21,6
+yours,1
+sincerely,1
+m,2
+k,2
+gandhi,1
+shri,1
+n,1
+sarma,1
+l,1
+a,1
+bar,1
+association,1
+jorhat,1
+assam,1

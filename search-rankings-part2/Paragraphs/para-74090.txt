@@ -1,0 +1,7 @@
+21,263,20
+1,1
+editor,1
+amrita,1
+bazar,1
+patrika,1
+calcutta,1

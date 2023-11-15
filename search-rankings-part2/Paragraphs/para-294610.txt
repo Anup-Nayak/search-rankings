@@ -1,0 +1,17 @@
+78,299,13
+1,1
+this,1
+was,1
+in,1
+response,1
+to,2
+the,2
+adressee,1
+s,1
+reply,1
+preceding,1
+item,1
+2,1
+bill,1
+of,1
+exchange,1

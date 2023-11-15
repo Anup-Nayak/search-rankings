@@ -1,0 +1,6 @@
+46,379,2
+336,1
+experiment,1
+in,1
+uncooked,1
+food,1

@@ -1,0 +1,12 @@
+7,289,6
+a,1
+letter,1
+of,1
+thanks,1
+has,1
+been,1
+sent,1
+to,1
+the,1
+chinde,1
+association,1

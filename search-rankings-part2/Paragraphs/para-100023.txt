@@ -1,0 +1,12 @@
+29,311,3
+q,1
+the,3
+congress,1
+will,2
+no,1
+longer,1
+belong,2
+to,2
+poor,1
+it,1
+only,1

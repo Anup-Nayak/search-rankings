@@ -1,0 +1,14 @@
+23,151,9
+operation,1
+party,1
+before,2
+him,1
+mr,1
+gandhi,1
+saw,1
+nothing,1
+wrong,1
+in,1
+putting,1
+his,1
+case,1

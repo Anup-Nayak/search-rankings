@@ -1,0 +1,15 @@
+11,241,3
+from,1
+a,1
+copy,1
+of,2
+the,3
+gujarati,1
+original,1
+in,1
+possession,1
+navajivan,1
+trust,1
+c,1
+w,1
+663,1

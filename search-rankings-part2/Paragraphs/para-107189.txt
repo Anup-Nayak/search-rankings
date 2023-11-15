@@ -1,0 +1,8 @@
+31,366,6
+4,1
+average,1
+count12,1
+the,1
+highest,1
+being,1
+152,1

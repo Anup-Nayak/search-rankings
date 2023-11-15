@@ -1,0 +1,4 @@
+32,286,7
+feel,1
+quite,1
+happy,1

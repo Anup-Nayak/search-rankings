@@ -1,0 +1,15 @@
+85,70,7
+wholly,1
+unnecessary,1
+2,1
+you,1
+may,1
+give,1
+something,1
+for,1
+those,1
+who,1
+are,1
+in,1
+real,1
+need,1

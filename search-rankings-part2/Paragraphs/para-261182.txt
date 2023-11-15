@@ -1,0 +1,11 @@
+70,152,2
+175,1
+letter,1
+to,1
+muriel,1
+lester,1
+after,1
+december,1
+6,1
+1936,1
+1,1

@@ -1,0 +1,7 @@
+14,196,5
+guidance,1
+and,2
+to,1
+andrews,1
+pearsons,1
+mission,1

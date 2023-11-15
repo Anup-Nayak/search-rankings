@@ -1,0 +1,9 @@
+27,360,5
+and,2
+which,1
+uses,1
+unrestrained,1
+untruthful,1
+language,1
+towards,1
+political,1

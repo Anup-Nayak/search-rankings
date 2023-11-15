@@ -1,0 +1,15 @@
+6,45,3
+to,1
+say,1
+without,1
+in,1
+any,1
+way,1
+challenging,1
+the,1
+authority,1
+with,1
+which,1
+mr,2
+gandhi,1
+and,1

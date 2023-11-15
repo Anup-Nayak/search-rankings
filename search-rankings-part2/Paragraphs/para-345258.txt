@@ -1,0 +1,11 @@
+89,305,10
+tamilians,1
+and,2
+the,3
+andhras,1
+kanarese,1
+malayalees,1
+were,1
+distinct,1
+but,1
+not,1

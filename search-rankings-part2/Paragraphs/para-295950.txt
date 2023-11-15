@@ -1,0 +1,3 @@
+78,448,22
+political,1
+situation,1

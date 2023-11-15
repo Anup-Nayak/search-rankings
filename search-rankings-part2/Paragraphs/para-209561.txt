@@ -1,0 +1,9 @@
+58,242,12
+there,1
+are,1
+other,1
+points,1
+in,1
+your,1
+letter,1
+about,1

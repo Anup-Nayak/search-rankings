@@ -1,0 +1,5 @@
+43,69,1
+71,1
+letter,1
+to,1
+nanakchand,1

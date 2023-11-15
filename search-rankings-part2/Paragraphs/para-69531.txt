@@ -1,0 +1,5 @@
+20,2,10
+mohammedans,1
+from,1
+south,1
+punjab,1

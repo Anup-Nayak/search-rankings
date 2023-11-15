@@ -1,0 +1,7 @@
+6,123,1
+johannesburg,1
+i,1
+enclose,1
+herewith,1
+24,1
+stamps,1

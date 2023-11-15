@@ -1,0 +1,7 @@
+88,100,8
+my,1
+good,1
+wishes,1
+to,1
+all,1
+china,1

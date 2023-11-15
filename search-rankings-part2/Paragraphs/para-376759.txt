@@ -1,0 +1,16 @@
+97,452,6
+1,1
+the,2
+version,1
+in,2
+mahatma,1
+gandhithe,1
+last,1
+phase,1
+has,1
+been,1
+collated,1
+with,1
+gujarati,1
+dilhiman,1
+gandhiji,1

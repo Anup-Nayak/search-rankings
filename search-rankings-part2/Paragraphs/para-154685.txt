@@ -1,0 +1,8 @@
+44,500,24
+t4,1
+guj,1
+has,1
+some,1
+of,1
+the,1
+passengers,1

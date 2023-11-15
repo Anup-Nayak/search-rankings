@@ -1,0 +1,10 @@
+88,30,2
+blessings,1
+from,1
+bapu,1
+maneklal,1
+amritlal,1
+gandhi,1
+thana,1
+devli,1
+kathiawar,1

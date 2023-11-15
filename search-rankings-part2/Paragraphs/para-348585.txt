@@ -1,0 +1,16 @@
+90,232,6
+1,1
+originally,1
+written,1
+in,1
+gujarati,1
+this,1
+appeared,1
+as,1
+from,1
+harijanbandhu,1
+published,1
+simultaneously,1
+with,1
+the,1
+source,1

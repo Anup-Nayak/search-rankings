@@ -1,0 +1,5 @@
+47,90,5
+ellore,1
+west,1
+godavari,1
+district,1

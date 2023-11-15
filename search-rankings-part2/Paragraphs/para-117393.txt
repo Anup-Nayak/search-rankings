@@ -1,0 +1,17 @@
+35,6,9
+1,1
+vide,2
+letter,3
+to,3
+mrs,1
+hanumantharao,1
+21,3
+3,3
+1926,3
+and,1
+d,1
+v,2
+ramaswami,1
+2,1
+c,1
+krishna,1

@@ -1,0 +1,15 @@
+92,110,8
+1,1
+the,2
+first,1
+instalment,1
+of,1
+dictionary,1
+covered,1
+only,1
+half,1
+a,1
+column,1
+containing,1
+thirteen,1
+words,1

@@ -1,0 +1,14 @@
+10,107,2
+1,1
+1820,1
+1903,1
+english,1
+philosopher,1
+author,1
+of,3
+principles,2
+psychology,1
+synthetic,1
+philosophy,1
+and,1
+sociology,1

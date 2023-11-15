@@ -1,0 +1,9 @@
+92,160,10
+miss,1
+lester,1
+arriving,1
+frontier,1
+mail,1
+friday,1
+inform,1
+doctor,1

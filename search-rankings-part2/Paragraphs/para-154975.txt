@@ -1,0 +1,9 @@
+45,9,9
+10,1
+speech,1
+at,1
+bharat,1
+sarasvati,1
+mandir,1
+karachi,1
+3,1

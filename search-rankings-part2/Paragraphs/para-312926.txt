@@ -1,0 +1,16 @@
+82,255,7
+not,1
+playing,1
+fair,1
+by,1
+india,1
+but,1
+can,1
+two,1
+wrongs,1
+make,1
+a,1
+right,1
+when,1
+even,1
+the,1

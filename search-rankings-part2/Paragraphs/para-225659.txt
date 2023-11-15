@@ -1,0 +1,13 @@
+61,485,27
+does,1
+not,2
+surprise,1
+or,1
+hurt,1
+me,1
+too,1
+much,1
+for,1
+have,1
+they,1
+often,1

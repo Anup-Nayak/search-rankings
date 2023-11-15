@@ -1,0 +1,9 @@
+95,100,4
+to,2
+the,2
+satyagrahis,1
+i,1
+would,1
+advise,1
+strict,1
+adherence,1

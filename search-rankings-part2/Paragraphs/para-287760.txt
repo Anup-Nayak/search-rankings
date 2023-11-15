@@ -1,0 +1,10 @@
+76,427,5
+mean,1
+denying,1
+a,1
+person,1
+his,1
+constitutional,1
+and,1
+democratic,1
+right,1

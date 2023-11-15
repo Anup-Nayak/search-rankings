@@ -1,0 +1,4 @@
+98,435,11
+prime,1
+minister,1
+kathmandu,1

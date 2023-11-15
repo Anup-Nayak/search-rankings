@@ -1,0 +1,14 @@
+43,343,10
+1,1
+permanent,1
+address,1
+2,1
+vide,1
+letter,1
+to,1
+f,1
+b,1
+fisher,1
+26,1
+10,1
+1928,1

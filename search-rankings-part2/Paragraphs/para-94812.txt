@@ -1,0 +1,5 @@
+28,95,4
+49,1
+hindu,1
+muslim,1
+unity,1

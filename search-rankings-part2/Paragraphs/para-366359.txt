@@ -1,0 +1,14 @@
+94,394,8
+bapu,1
+shri,1
+rajkumari,1
+amrit,1
+kaur,1
+c/o,1
+sardar,1
+patel,1
+1,1
+aurangzeb,1
+road,1
+new,1
+delhi,1

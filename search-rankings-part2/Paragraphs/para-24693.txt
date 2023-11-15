@@ -1,0 +1,15 @@
+8,270,7
+meletus,1
+i,1
+do,1
+s,1
+who,2
+is,1
+it,1
+then,1
+makes,1
+them,1
+virtuous,1
+m,1
+the,1
+laws,1

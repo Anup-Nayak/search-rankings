@@ -1,0 +1,12 @@
+76,50,18
+choice,1
+is,1
+ahmedabad,1
+unless,1
+chandan,1
+and,1
+her,1
+father,1
+have,1
+faith,1
+in,1

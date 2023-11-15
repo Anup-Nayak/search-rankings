@@ -1,0 +1,7 @@
+19,443,4
+conditional,1
+adherence,1
+advise,1
+you,1
+temper,1
+firmness,1

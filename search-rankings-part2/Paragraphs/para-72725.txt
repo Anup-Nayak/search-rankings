@@ -1,0 +1,6 @@
+21,37,7
+25,1
+telegram,1
+to,1
+khwaja,1
+delhi,1

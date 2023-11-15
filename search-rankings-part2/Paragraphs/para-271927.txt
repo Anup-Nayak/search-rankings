@@ -1,0 +1,13 @@
+73,66,12
+of,1
+the,2
+congress,1
+as,2
+well,1
+gandhi,1
+seva,1
+sangh,1
+in,1
+my,1
+opinion,1
+appeasement,1

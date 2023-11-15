@@ -1,0 +1,15 @@
+3,197,10
+my,1
+question,1
+was,2
+whether,1
+the,2
+area,3
+as,2
+a,3
+whole,2
+sanitary,2
+i,1
+would,1
+say,1
+is,1

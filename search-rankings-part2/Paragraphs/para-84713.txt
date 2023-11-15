@@ -1,0 +1,12 @@
+25,85,2
+1,1
+a,2
+bill,1
+of,1
+exchange,1
+or,1
+draft,1
+2,1
+an,1
+indian,1
+game,1

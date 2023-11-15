@@ -1,0 +1,6 @@
+22,279,7
+a,1
+friend,1
+writes,1
+from,1
+surat,1

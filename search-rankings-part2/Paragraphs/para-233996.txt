@@ -1,0 +1,15 @@
+64,68,22
+did,1
+not,1
+think,1
+there,1
+was,2
+overlapping,1
+in,1
+fact,1
+the,2
+sangh,1
+unable,1
+to,1
+cope,1
+with,1

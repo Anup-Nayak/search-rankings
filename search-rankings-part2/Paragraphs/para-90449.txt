@@ -1,0 +1,15 @@
+27,15,9
+in,1
+the,2
+cause,1
+of,2
+world,1
+peace,1
+being,1
+their,1
+own,1
+prize,1
+any,1
+recognition,1
+by,1
+europe,1

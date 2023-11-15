@@ -1,0 +1,15 @@
+21,474,14
+them,1
+of,2
+something,1
+important,1
+first,1
+all,1
+he,2
+wanted,1
+to,1
+tell,1
+the,1
+students,1
+that,1
+did,1

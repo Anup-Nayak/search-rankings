@@ -1,0 +1,8 @@
+30,288,2
+152,1
+speech,1
+at,1
+opening,1
+of,1
+nursery,1
+school,1

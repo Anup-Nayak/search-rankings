@@ -1,0 +1,12 @@
+24,411,7
+1,1
+the,2
+call,1
+of,1
+truths,1
+by,1
+rabindranath,1
+tagore,1
+in,1
+october,1
+issue,1

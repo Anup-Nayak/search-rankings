@@ -1,0 +1,7 @@
+67,25,1
+44,1
+letter,1
+to,1
+kanti,1
+lal,1
+gandhi,1

@@ -1,0 +1,8 @@
+18,321,2
+246,1
+extract,1
+from,1
+letter,1
+to,1
+abdul,1
+bari,1

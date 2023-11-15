@@ -1,0 +1,13 @@
+83,161,4
+b,1
+ill,1
+treatment,1
+meted,1
+out,1
+by,1
+the,2
+jail,1
+authorities,1
+to,1
+political,1
+prisoners,1

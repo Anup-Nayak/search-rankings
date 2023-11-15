@@ -1,0 +1,5 @@
+66,327,4
+takli,1
+for,1
+village,1
+workers,1

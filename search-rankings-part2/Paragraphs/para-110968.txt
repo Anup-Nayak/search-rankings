@@ -1,0 +1,14 @@
+33,20,3
+that,1
+he,3
+had,2
+said,1
+and,1
+to,1
+withdraw,1
+nothing,1
+but,1
+could,1
+distinguish,1
+good,1
+from,1

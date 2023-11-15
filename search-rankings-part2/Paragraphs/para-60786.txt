@@ -1,0 +1,6 @@
+17,238,10
+assume,1
+any,1
+further,1
+pecuniary,1
+bur,1

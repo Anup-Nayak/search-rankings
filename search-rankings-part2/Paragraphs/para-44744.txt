@@ -1,0 +1,7 @@
+13,387,3
+have,1
+read,1
+government,1
+reply,1
+natal,1
+collierie,1

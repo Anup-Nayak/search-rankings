@@ -1,0 +1,4 @@
+81,74,6
+dear,1
+ku,1
+marappa,1

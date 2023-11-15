@@ -1,0 +1,6 @@
+10,428,3
+259,1
+the,1
+natal,1
+indian,1
+congress,1

@@ -1,0 +1,7 @@
+35,25,3
+the,2
+vice,1
+chairman,1
+district,1
+board,1
+puri,1

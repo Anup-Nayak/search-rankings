@@ -1,0 +1,17 @@
+51,460,20
+1,1
+vide,4
+letter,2
+to,2
+h,2
+w,2
+emerson,2
+20,2
+3,3
+1931,2
+2,1
+the,2
+following,1
+item,2
+4,1
+preceding,1

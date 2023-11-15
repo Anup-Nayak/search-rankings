@@ -1,0 +1,11 @@
+76,50,9
+worried,1
+in,1
+any,1
+case,1
+if,1
+diagnosis,1
+cor,1
+rect,1
+treatment,1
+not,1

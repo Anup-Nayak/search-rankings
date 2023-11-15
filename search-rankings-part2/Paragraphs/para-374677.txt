@@ -1,0 +1,14 @@
+97,157,5
+1,2
+in,1
+july,1
+1907,1
+2,1
+on,1
+january,1
+10,2
+1908,2
+vide,1
+trial,1
+at,1
+johannesburg,1

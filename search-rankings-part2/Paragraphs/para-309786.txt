@@ -1,0 +1,12 @@
+81,510,12
+maintaining,1
+contacts,1
+with,1
+the,2
+people,1
+in,1
+villages,1
+and,1
+towns,1
+every,1
+village,1

@@ -1,0 +1,11 @@
+10,268,3
+chapter,1
+x,1
+the,3
+condition,1
+of,1
+india,1
+continued,1
+hindus,1
+and,1
+mahomedans,1

@@ -1,0 +1,5 @@
+24,100,8
+a,1
+hindi,1
+n,1
+avajivan,1

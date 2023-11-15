@@ -1,0 +1,7 @@
+7,55,6
+40,1
+petition,1
+to,1
+transvaal,1
+legislative,1
+assembly,1

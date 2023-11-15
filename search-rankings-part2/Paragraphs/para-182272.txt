@@ -1,0 +1,14 @@
+52,17,3
+are,1
+you,1
+willing,1
+to,1
+die,1
+in,1
+such,1
+a,2
+cause,1
+that,1
+is,1
+bad,1
+question,1

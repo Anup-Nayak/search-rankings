@@ -1,0 +1,14 @@
+19,310,10
+1,1
+these,1
+are,1
+not,1
+available,1
+2,1
+the,3
+committee,1
+members,1
+visited,1
+ashram,1
+next,1
+day,1

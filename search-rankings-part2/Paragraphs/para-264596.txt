@@ -1,0 +1,8 @@
+71,144,3
+gather,1
+us,1
+in,1
+we,1
+worship,1
+only,1
+thee,1

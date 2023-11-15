@@ -1,0 +1,15 @@
+90,247,6
+delhi,1
+april,1
+10,1
+1946,1
+he,1
+who,1
+has,2
+everything,1
+but,1
+god,1
+on,1
+his,1
+side,1
+nothing,1

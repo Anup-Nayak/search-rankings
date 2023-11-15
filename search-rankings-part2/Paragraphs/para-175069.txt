@@ -1,0 +1,6 @@
+50,152,4
+222,1
+letter,1
+to,1
+kasumba,1
+gandhi,1

@@ -1,0 +1,12 @@
+24,27,5
+why,2
+should,2
+we,1
+then,1
+try,1
+to,1
+collect,1
+such,1
+garments,1
+or,1
+cloth,1

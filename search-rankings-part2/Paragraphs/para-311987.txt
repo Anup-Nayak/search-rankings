@@ -1,0 +1,3 @@
+82,175,12
+humanitarian,1
+motive,1

@@ -1,0 +1,6 @@
+87,144,10
+unchangeable,1
+religious,1
+division,1
+will,1
+become,1

@@ -1,0 +1,6 @@
+7,446,7
+asiatics,1
+might,1
+not,1
+own,1
+fixed,1

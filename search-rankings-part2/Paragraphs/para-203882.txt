@@ -1,0 +1,11 @@
+57,106,14
+my,1
+religion,1
+is,1
+not,1
+exclusive,1
+but,1
+inclusive,1
+and,1
+they,1
+must,1

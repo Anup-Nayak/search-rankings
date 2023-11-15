@@ -1,0 +1,7 @@
+27,248,8
+strike,1
+unlawful,1
+think,1
+vykom,1
+struggle,1
+should,1

@@ -1,0 +1,14 @@
+94,50,11
+a,1
+gandhiji,1
+said,1
+that,1
+the,2
+question,1
+had,1
+been,1
+answered,1
+by,1
+him,1
+on,1
+previous,1

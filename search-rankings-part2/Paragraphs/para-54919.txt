@@ -1,0 +1,11 @@
+16,7,2
+1,1
+god,1
+like,1
+equipment,2
+and,1
+demoniac,1
+vide,1
+bhagvad,1
+gita,1
+xvi,1

@@ -1,0 +1,9 @@
+9,322,10
+washing,1
+bathing,1
+facilities,1
+nor,1
+change,1
+clothing,1
+indian,1
+passive,1

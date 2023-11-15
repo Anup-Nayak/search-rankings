@@ -1,0 +1,7 @@
+81,120,10
+1,1
+rice,1
+and,1
+dal,1
+cooked,1
+together,1

@@ -1,0 +1,11 @@
+89,80,10
+1,1
+the,1
+subscription,1
+is,1
+in,1
+hindi,1
+2,1
+purushottam,1
+kanji,1
+jerajani,1

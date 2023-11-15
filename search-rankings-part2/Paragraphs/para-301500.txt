@@ -1,0 +1,15 @@
+80,153,3
+munnalal,1
+better,1
+is,2
+death,1
+in,1
+the,1
+discharge,1
+of,1
+ones,1
+duty,2
+anothers,1
+frought,1
+with,1
+danger,1

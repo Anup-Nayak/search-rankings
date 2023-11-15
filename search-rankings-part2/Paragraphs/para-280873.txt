@@ -1,0 +1,8 @@
+75,125,7
+1,1
+extracted,1
+from,1
+pyarelals,1
+the,1
+rajkot,1
+fast,1

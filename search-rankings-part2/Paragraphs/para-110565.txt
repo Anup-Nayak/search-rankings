@@ -1,0 +1,10 @@
+32,454,7
+signature,1
+in,1
+legible,1
+hand,1
+and,1
+if,1
+a,1
+woman,1
+state,1

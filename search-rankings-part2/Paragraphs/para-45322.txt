@@ -1,0 +1,9 @@
+13,436,20
+here,1
+but,1
+whether,2
+or,1
+not,1
+and,1
+after,1
+vice,1

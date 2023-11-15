@@ -1,0 +1,12 @@
+76,172,15
+the,1
+committee,1
+is,1
+empowered,1
+to,2
+appoint,1
+sub,1
+committees,1
+and,1
+co,1
+opt,1

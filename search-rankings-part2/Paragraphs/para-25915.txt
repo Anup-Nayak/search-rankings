@@ -1,0 +1,9 @@
+8,468,5
+four,2
+mahomedan,1
+hindu,1
+hawkers,1
+elected,1
+to,1
+go,1
+gaol,1

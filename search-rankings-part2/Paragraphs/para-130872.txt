@@ -1,0 +1,13 @@
+38,224,2
+yours,1
+bapu,1
+ps,1
+you,2
+left,1
+money,1
+etc,1
+it,1
+has,1
+been,1
+sent,1
+to,1

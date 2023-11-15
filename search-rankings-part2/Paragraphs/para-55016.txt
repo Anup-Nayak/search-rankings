@@ -1,0 +1,7 @@
+16,20,5
+14,1
+letter,1
+to,1
+satyanand,1
+bose,1
+2,1

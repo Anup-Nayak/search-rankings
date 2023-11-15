@@ -1,0 +1,7 @@
+98,363,7
+384,1
+letter,1
+to,1
+shankerlal,1
+g,1
+banker1,1

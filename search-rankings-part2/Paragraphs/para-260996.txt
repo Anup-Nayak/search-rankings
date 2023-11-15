@@ -1,0 +1,6 @@
+70,129,1
+148,1
+birth,1
+control,2
+through,1
+self,1

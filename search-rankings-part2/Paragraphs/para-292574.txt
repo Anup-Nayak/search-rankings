@@ -1,0 +1,8 @@
+78,105,6
+1,1
+harijan,1
+sevak,1
+sangh,2
+2,1
+hindustani,1
+talimi,1

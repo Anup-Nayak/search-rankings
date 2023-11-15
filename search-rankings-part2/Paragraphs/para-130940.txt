@@ -1,0 +1,9 @@
+38,233,2
+220,1
+speech,1
+at,1
+sarvajanik,1
+jivadaya,1
+khata,1
+1,1
+ghatkopar,1

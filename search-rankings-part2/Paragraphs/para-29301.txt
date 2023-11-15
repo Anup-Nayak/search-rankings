@@ -1,0 +1,14 @@
+9,440,8
+1,1
+lord,1
+ampthill,1
+had,1
+felt,1
+that,2
+they,1
+could,1
+not,1
+profitably,1
+work,1
+in,1
+quarter,1

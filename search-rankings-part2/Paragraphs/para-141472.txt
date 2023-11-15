@@ -1,0 +1,8 @@
+41,288,3
+newspaper,1
+reports,1
+absolutely,1
+incorrect,1
+i,1
+am,1
+quite,1

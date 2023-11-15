@@ -1,0 +1,16 @@
+85,12,6
+i,2
+hope,1
+you,2
+are,1
+fairly,1
+fit,1
+shall,1
+expect,1
+here,1
+as,2
+soon,1
+well,1
+enough,1
+to,1
+come,1

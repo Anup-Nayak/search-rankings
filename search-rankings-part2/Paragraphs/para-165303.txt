@@ -1,0 +1,5 @@
+47,339,2
+non,1
+violence,1
+v,1
+cowardice,1

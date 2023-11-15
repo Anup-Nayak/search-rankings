@@ -1,0 +1,17 @@
+61,114,1
+it,1
+would,1
+be,2
+desirable,1
+to,2
+supply,1
+everybody,1
+who,1
+wants,1
+the,1
+green,1
+vegetables,1
+which,1
+can,1
+eaten,1
+uncooked,1

@@ -1,0 +1,10 @@
+36,433,12
+1,1
+these,1
+are,1
+not,1
+available,1
+2,1
+polaks,1
+eldest,1
+son,1

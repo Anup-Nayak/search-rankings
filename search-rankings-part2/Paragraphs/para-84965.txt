@@ -1,0 +1,9 @@
+25,130,2
+sabarmati,1
+kartak,1
+vad,1
+4,1
+november,1
+19,1
+1921,1
+1,1

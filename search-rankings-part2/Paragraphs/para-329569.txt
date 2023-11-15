@@ -1,0 +1,7 @@
+86,86,5
+166,1
+letter,1
+to,1
+hafiz,1
+zaffar,1
+hussain,1

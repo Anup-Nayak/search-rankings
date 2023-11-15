@@ -1,0 +1,14 @@
+82,384,17
+states,2
+peoples,1
+he,2
+did,1
+not,1
+wish,1
+to,1
+see,1
+the,1
+rulers,1
+disappear,1
+immediately,1
+but,1

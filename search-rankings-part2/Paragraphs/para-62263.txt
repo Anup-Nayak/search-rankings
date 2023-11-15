@@ -1,0 +1,8 @@
+17,410,3
+mahatma,1
+gandhis,1
+warning,1
+to,1
+satyagrahis,1
+and,1
+sympathizers,1

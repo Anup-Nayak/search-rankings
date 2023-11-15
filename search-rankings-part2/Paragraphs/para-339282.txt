@@ -1,0 +1,8 @@
+88,107,5
+and,1
+truth,1
+for,1
+britain,1
+consists,1
+in,1
+recognition,1

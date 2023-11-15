@@ -1,0 +1,14 @@
+64,454,8
+1,1
+vide,1
+letter,1
+to,2
+jawaharlal,1
+nehru,1
+17,1
+8,2
+1934,2
+andletter,1
+vallabhbhai,1
+patel,1
+19,1

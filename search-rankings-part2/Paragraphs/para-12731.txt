@@ -1,0 +1,12 @@
+5,138,2
+regards,1
+from,1
+m,1
+k,1
+gandhi,1
+haji,1
+ismail,1
+aboobaker,1
+jhaveri,1
+esq,1
+porbunder,1

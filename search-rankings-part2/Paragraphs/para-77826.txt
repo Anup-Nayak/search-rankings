@@ -1,0 +1,12 @@
+22,407,2
+1,1
+one,1
+who,1
+has,1
+cultivated,1
+indifference,1
+to,1
+things,1
+of,1
+the,1
+world,1

@@ -1,0 +1,11 @@
+85,360,4
+blessings,1
+from,1
+bapu,1
+raojibhai,1
+manibhai,1
+patel,1
+vitthal,1
+kanya,1
+vidyalaya,1
+nadiad,1

@@ -1,0 +1,8 @@
+19,8,1
+7,1
+telegram,1
+to,2
+p,1
+s,1
+governor,1
+bombay,1

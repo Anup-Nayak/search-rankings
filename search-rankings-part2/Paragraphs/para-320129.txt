@@ -1,0 +1,17 @@
+84,84,1
+estate,1
+of,2
+course,2
+you,2
+will,1
+come,1
+when,1
+have,1
+finished,1
+the,1
+treatment,1
+i,1
+am,1
+making,1
+slow,1
+progress,1

@@ -1,0 +1,5 @@
+52,289,4
+406,1
+worker,1
+village,1
+ratio,1

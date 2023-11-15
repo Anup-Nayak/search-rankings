@@ -1,0 +1,15 @@
+32,445,7
+window,1
+at,1
+the,2
+lion,1
+as,1
+it,1
+was,1
+ready,1
+to,1
+spring,1
+bullet,1
+pierced,1
+its,1
+heart,1

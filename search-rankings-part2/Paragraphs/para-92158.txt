@@ -1,0 +1,4 @@
+27,213,5
+journeys,1
+and,1
+lectures,1

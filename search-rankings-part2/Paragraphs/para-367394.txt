@@ -1,0 +1,6 @@
+95,89,12
+owed,1
+to,1
+the,1
+wronged,1
+refugees,1

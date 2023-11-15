@@ -1,0 +1,6 @@
+90,141,6
+192,1
+nature,1
+cure,1
+prescriptions,1
+i,1

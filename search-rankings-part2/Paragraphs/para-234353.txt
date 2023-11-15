@@ -1,0 +1,12 @@
+64,112,7
+regarding,1
+the,2
+question,1
+of,1
+class,1
+struggle,1
+gandhiji,1
+agreed,1
+that,1
+in,1
+present,1

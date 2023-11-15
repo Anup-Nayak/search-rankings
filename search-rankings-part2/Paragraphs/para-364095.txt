@@ -1,0 +1,15 @@
+94,115,6
+courtesy,1
+call,1
+because,1
+he,1
+could,1
+not,1
+go,1
+expecting,1
+any,1
+favours,1
+or,1
+services,1
+from,1
+the,1

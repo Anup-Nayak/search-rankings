@@ -1,0 +1,16 @@
+15,278,2
+an,1
+interesting,1
+discussion,1
+followed,1
+in,1
+the,2
+course,1
+of,1
+which,1
+several,1
+students,1
+put,1
+questions,1
+to,1
+lecturer,1

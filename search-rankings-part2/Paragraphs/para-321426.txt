@@ -1,0 +1,8 @@
+84,223,3
+norman,1
+cliff,1
+foreign,1
+editor,1
+news,1
+chronicle,1
+london,1

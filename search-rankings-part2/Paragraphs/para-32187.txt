@@ -1,0 +1,8 @@
+10,333,7
+fusing,1
+put,1
+on,1
+spare,1
+diet,1
+solitary,1
+con,1

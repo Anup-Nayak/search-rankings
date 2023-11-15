@@ -1,0 +1,11 @@
+27,326,7
+wire,1
+received,1
+only,1
+comfort,1
+i,1
+can,1
+offer,1
+is,1
+send,1
+devdas,1

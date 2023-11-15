@@ -1,0 +1,10 @@
+9,191,19
+strictest,1
+administrative,1
+test,1
+immense,1
+suffering,1
+anticipated,1
+m,1
+k,1
+gandhi,1

@@ -1,0 +1,5 @@
+36,252,3
+285,1
+a,1
+heroic,1
+sacrifice,1

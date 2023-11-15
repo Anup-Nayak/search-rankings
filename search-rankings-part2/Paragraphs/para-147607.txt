@@ -1,0 +1,5 @@
+43,59,5
+when,1
+killing,1
+is,1
+himsa,1

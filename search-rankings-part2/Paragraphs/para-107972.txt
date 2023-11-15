@@ -1,0 +1,4 @@
+32,2,19
+unnecessarily,1
+irritate,1
+orthodoxy,1

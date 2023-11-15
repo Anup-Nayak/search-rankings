@@ -1,0 +1,8 @@
+14,223,4
+1,1
+the,1
+speech,1
+was,1
+translated,1
+into,1
+tamil,1

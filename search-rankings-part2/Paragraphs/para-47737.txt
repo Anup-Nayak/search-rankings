@@ -1,0 +1,7 @@
+14,228,5
+202,1
+speech,1
+at,1
+farewell,1
+banquet,1
+3,1

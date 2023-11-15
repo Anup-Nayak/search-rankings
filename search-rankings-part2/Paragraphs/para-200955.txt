@@ -1,0 +1,4 @@
+56,257,10
+seva,1
+upvan,1
+nagwa,1

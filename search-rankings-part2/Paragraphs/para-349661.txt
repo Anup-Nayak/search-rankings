@@ -1,0 +1,17 @@
+90,362,3
+2,1
+demand,1
+a,2
+thorough,1
+alcohol,1
+and,1
+narcotic,1
+drugs,1
+education,1
+to,1
+be,1
+part,1
+of,1
+the,1
+school,1
+curriculum,1

@@ -1,0 +1,12 @@
+82,299,12
+the,3
+situation,1
+can,1
+be,1
+realized,1
+from,1
+fact,1
+that,1
+normal,1
+functioning,1
+of,1

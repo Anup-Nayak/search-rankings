@@ -1,0 +1,13 @@
+67,20,10
+yours,1
+m,1
+k,1
+gandhi,1
+general,1
+secretary,1
+reception,1
+committee,1
+hindi,1
+sahitya,1
+sammelan,1
+indore,1

@@ -1,0 +1,15 @@
+62,59,2
+q,1
+will,1
+you,2
+kindly,1
+explain,1
+that,1
+in,2
+more,1
+detail,1
+by,1
+your,1
+fast,1
+1932,1
+did,1

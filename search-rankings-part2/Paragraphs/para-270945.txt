@@ -1,0 +1,9 @@
+72,441,7
+welcome,1
+home,1
+god,1
+give,1
+you,1
+strength,1
+to,1
+bear,1

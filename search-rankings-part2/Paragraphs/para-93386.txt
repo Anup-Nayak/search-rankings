@@ -1,0 +1,16 @@
+27,401,13
+as,1
+is,1
+likely,1
+to,2
+be,1
+useful,1
+i,1
+can,1
+read,1
+and,1
+understand,1
+urdu,1
+up,1
+a,1
+reasonable,1

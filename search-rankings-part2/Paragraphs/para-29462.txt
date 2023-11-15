@@ -1,0 +1,8 @@
+9,461,10
+general,1
+smuts,1
+speech,1
+in,1
+legislative,1
+assembly,1
+1,1

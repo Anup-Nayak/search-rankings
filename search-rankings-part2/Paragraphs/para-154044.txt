@@ -1,0 +1,11 @@
+44,478,13
+t1,1
+for,1
+legal,1
+maxims,2
+guj,1
+has,1
+many,1
+moral,1
+in,1
+law,1

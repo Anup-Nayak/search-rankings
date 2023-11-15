@@ -1,0 +1,5 @@
+7,142,3
+the,1
+editor,1
+indian,1
+opinion,1

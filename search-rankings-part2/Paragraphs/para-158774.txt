@@ -1,0 +1,7 @@
+46,57,7
+54,1
+from,1
+and,1
+about,1
+sarojini,1
+devi,1

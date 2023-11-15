@@ -1,0 +1,9 @@
+43,50,8
+wednesday,1
+on,1
+or,1
+before,1
+september,1
+26,1
+1928,1
+2,1

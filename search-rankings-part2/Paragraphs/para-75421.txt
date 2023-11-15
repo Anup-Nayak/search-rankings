@@ -1,0 +1,12 @@
+21,502,16
+india,1
+required,1
+national,1
+education,2
+and,1
+not,1
+the,1
+given,1
+in,1
+government,1
+schools,1

@@ -1,0 +1,14 @@
+14,187,23
+had,1
+no,1
+doubt,1
+the,2
+government,1
+here,1
+would,1
+be,1
+able,1
+to,1
+solve,1
+problems,1
+which,1

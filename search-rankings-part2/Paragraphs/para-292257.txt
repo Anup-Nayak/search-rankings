@@ -1,0 +1,14 @@
+78,65,2
+q,1
+you,1
+talk,1
+of,2
+complete,1
+independence,1
+from,1
+britain,1
+and,1
+at,1
+the,1
+same,1
+time,1

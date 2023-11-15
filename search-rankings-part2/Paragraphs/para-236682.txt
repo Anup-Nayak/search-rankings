@@ -1,0 +1,4 @@
+64,374,4
+441,1
+terrible,1
+oppression,1

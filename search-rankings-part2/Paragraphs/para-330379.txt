@@ -1,0 +1,6 @@
+86,161,8
+302,1
+letter,1
+to,1
+mahmud,1
+yasin,1

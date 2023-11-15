@@ -1,0 +1,10 @@
+14,466,9
+was,1
+sent,1
+to,1
+report,1
+on,1
+arrangements,1
+in,1
+the,1
+newcastle,1

@@ -1,0 +1,7 @@
+11,268,12
+protest,1
+against,1
+immigration,1
+bill,1
+regarding,1
+severity,1

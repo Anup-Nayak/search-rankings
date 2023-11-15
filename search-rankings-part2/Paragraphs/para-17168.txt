@@ -1,0 +1,12 @@
+6,187,20
+2,1
+the,1
+letter,1
+published,1
+in,1
+south,1
+africa,1
+is,1
+dated,1
+november,1
+29,1

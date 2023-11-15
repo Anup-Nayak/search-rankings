@@ -1,0 +1,6 @@
+10,358,2
+friday,1
+night,1
+december,1
+24,1
+1909,1

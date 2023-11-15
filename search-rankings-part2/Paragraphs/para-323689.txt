@@ -1,0 +1,15 @@
+84,467,5
+5,1
+this,1
+point,1
+does,1
+not,1
+arise,1
+by,1
+way,1
+of,3
+clarification,1
+the,2
+text,1
+lahore,1
+resolution,1

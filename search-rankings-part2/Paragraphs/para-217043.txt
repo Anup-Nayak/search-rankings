@@ -1,0 +1,10 @@
+59,511,19
+now,1
+imposed,1
+upon,1
+the,2
+depressed,1
+classes,1
+including,1
+bar,1
+in,1

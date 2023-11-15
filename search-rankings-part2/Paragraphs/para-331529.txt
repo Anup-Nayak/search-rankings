@@ -1,0 +1,8 @@
+86,278,6
+485,1
+letter,1
+to,1
+g,1
+v,1
+narayana,1
+murti,1

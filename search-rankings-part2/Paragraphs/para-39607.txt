@@ -1,0 +1,4 @@
+12,200,3
+bhaishri,1
+khushal,1
+jivan,1

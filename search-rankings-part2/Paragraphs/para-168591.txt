@@ -1,0 +1,5 @@
+48,314,2
+330,1
+treatment,1
+of,1
+smallpox,1

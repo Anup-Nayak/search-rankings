@@ -1,0 +1,7 @@
+63,328,1
+lative,1
+department,1
+new,1
+delhi,1
+as,1
+follows,1

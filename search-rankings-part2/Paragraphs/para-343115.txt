@@ -1,0 +1,14 @@
+89,60,2
+amrita,1
+bazar,1
+patrika,1
+19,1
+12,1
+45,1
+and,1
+visva,1
+bharati,1
+news,1
+vol,1
+xiv,1
+no,1

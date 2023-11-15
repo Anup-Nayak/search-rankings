@@ -1,0 +1,10 @@
+61,167,7
+when,1
+health,1
+permits,1
+courting,1
+interview,1
+for,1
+my,1
+part,1
+there,1

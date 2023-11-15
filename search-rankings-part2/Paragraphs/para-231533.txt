@@ -1,0 +1,13 @@
+63,297,8
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+shri,1
+rajkumari,1
+amrit,1
+kaur,1
+jullundur,1
+city,1
+punjab,1

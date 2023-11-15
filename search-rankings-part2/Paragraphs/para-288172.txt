@@ -1,0 +1,13 @@
+77,29,8
+1,1
+whether,1
+there,1
+is,1
+any,1
+visible,1
+drop,1
+in,1
+the,1
+blood,1
+pressure,1
+variation,1

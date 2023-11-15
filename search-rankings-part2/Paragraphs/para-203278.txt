@@ -1,0 +1,10 @@
+57,53,11
+do,1
+come,1
+if,1
+you,1
+find,1
+necessary,1
+hope,1
+mother,1
+peaceful,1

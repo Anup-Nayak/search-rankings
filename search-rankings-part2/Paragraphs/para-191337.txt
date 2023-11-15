@@ -1,0 +1,17 @@
+54,50,17
+mr,1
+gandhi,1
+not,1
+only,1
+no,1
+tax,2
+but,1
+the,1
+which,1
+is,1
+today,1
+levied,1
+on,1
+salt,1
+should,1
+go,1

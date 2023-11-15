@@ -1,0 +1,15 @@
+44,43,8
+1,1
+anne,2
+marie,2
+petersen,2
+vide,2
+letter,1
+to,1
+january,1
+20,1
+1929,1
+2,1
+the,1
+following,1
+item,1

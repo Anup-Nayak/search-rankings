@@ -1,0 +1,16 @@
+60,432,3
+1,1
+what,1
+work,1
+should,1
+the,4
+brahmin,1
+kshatriya,1
+vaishya,1
+and,1
+shudra,1
+do,1
+to,1
+earn,1
+their,1
+livelihood,1

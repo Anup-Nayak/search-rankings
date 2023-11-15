@@ -1,0 +1,13 @@
+9,50,8
+mr,2
+cramer,1
+prosecuted,1
+and,1
+gandhi,1
+appeared,1
+for,1
+the,1
+accused,1
+who,1
+pleaded,1
+guilty,1

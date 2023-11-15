@@ -1,0 +1,6 @@
+47,297,6
+347,1
+economies,1
+of,1
+cattle,1
+breeding,1

@@ -1,0 +1,16 @@
+17,12,1
+and,3
+protect,1
+him,2
+you,2
+his,1
+faithful,1
+devoted,1
+secretary,2
+i,1
+feel,1
+are,1
+more,1
+than,1
+a,1
+to,1

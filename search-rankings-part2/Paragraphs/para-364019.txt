@@ -1,0 +1,12 @@
+94,106,2
+1,1
+anugraha,1
+narayan,1
+sinha,1
+minister,1
+finance,1
+labour,1
+supply,1
+and,1
+price,1
+control,1

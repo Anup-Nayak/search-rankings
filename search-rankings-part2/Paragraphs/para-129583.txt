@@ -1,0 +1,15 @@
+38,58,7
+cloth,1
+then,1
+was,1
+it,1
+to,1
+help,1
+the,2
+weavers,1
+of,1
+manchester,1
+certainly,1
+not,1
+one,1
+answer,1

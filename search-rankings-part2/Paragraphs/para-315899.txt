@@ -1,0 +1,13 @@
+82,420,12
+l,1
+f,1
+you,1
+had,1
+better,1
+not,1
+tell,1
+them,1
+too,1
+far,1
+in,1
+advance,1

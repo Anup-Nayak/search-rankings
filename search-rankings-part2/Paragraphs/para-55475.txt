@@ -1,0 +1,17 @@
+16,94,2
+1,1
+the,2
+idol,1
+or,1
+image,1
+of,4
+god,1
+2,1
+parvati,1
+spouse,1
+shiva,2
+3,1
+one,1
+hindu,1
+trinity,1
+gods,1

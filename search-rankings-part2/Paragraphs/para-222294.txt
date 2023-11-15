@@ -1,0 +1,11 @@
+61,132,4
+should,1
+be,1
+brave,1
+and,1
+not,1
+apply,1
+am,1
+quite,1
+well,1
+happy,1

@@ -1,0 +1,12 @@
+52,189,7
+education,1
+initiated,1
+by,1
+the,1
+government,1
+which,1
+no,1
+honest,1
+missionary,1
+familiar,1
+with,1

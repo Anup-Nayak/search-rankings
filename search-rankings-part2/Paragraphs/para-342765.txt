@@ -1,0 +1,7 @@
+89,24,1
+46,1
+congress,1
+working,1
+committee,1
+resolution,1
+1,1

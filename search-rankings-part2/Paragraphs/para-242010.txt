@@ -1,0 +1,16 @@
+66,9,13
+4,1
+the,2
+rules,1
+framed,1
+under,1
+bye,1
+law,1
+10,1
+were,1
+issued,1
+to,1
+press,1
+on,1
+this,1
+date,1

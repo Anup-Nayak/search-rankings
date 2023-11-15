@@ -1,0 +1,9 @@
+57,398,38
+are,1
+physically,1
+placed,1
+near,1
+one,1
+another,1
+through,1
+civil,1

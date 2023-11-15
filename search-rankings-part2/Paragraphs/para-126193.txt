@@ -1,0 +1,6 @@
+37,53,2
+57,1
+khadi,1
+from,1
+yajna,1
+yarn,1

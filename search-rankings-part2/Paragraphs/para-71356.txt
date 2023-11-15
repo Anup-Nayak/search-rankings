@@ -1,0 +1,13 @@
+20,292,5
+1,1
+this,1
+last,1
+sentence,1
+is,1
+not,1
+found,1
+in,2
+the,1
+translation,1
+young,1
+india,1

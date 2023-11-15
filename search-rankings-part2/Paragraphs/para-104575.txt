@@ -1,0 +1,7 @@
+30,461,1
+267,1
+speech,1
+at,1
+ashram,1
+pudupalayam,1
+1,1

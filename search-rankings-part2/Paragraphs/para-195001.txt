@@ -1,0 +1,13 @@
+54,470,10
+should,1
+in,1
+each,1
+case,1
+be,1
+submitted,1
+to,2
+the,2
+private,1
+secretary,1
+his,1
+excellency,1

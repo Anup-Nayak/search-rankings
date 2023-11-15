@@ -1,0 +1,14 @@
+21,261,8
+the,2
+minority,1
+to,5
+continue,1
+be,2
+members,1
+of,1
+congress,1
+and,1
+free,1
+act,1
+or,1
+not,1

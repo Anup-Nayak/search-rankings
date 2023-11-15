@@ -1,0 +1,5 @@
+83,161,7
+183,1
+to,1
+american,1
+friends,1

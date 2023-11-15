@@ -1,0 +1,9 @@
+82,123,6
+where,1
+they,1
+can,1
+take,1
+refuge,1
+what,1
+of,1
+them,1

@@ -1,0 +1,7 @@
+75,99,2
+and,1
+iron,1
+ring,1
+in,1
+his,1
+foot,1

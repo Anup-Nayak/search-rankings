@@ -1,0 +1,7 @@
+47,292,6
+337,1
+letter,1
+to,1
+harcharan,1
+lall,1
+varman,1

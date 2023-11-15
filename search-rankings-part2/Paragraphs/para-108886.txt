@@ -1,0 +1,13 @@
+32,172,5
+123,1
+letter,1
+to,1
+konda,1
+venkatappayya,1
+148,1
+russa,1
+road,1
+calcutta,1
+july,1
+24,1
+1925,1

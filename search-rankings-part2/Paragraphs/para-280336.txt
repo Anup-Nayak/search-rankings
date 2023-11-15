@@ -1,0 +1,9 @@
+75,68,7
+blessings,1
+from,2
+bapu,1
+gujarati,1
+bapuna,1
+bane,1
+patro,1
+p,1

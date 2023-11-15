@@ -1,0 +1,11 @@
+26,40,1
+refusal,1
+of,2
+taxes,1
+in,1
+accordance,1
+with,1
+the,2
+opinion,1
+said,1
+committee,1

@@ -1,0 +1,6 @@
+59,473,19
+15,1
+shrimati,1
+rameshwari,1
+nehru,1
+lahore,1

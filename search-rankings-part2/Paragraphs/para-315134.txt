@@ -1,0 +1,15 @@
+82,398,16
+go,1
+bag,1
+and,1
+baggage,1
+you,2
+are,2
+simply,1
+asking,1
+the,1
+impossible,1
+barking,1
+up,1
+a,1
+tree,1

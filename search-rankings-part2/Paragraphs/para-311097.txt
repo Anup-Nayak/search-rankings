@@ -1,0 +1,15 @@
+82,103,13
+do,1
+what,1
+i,2
+can,1
+in,2
+defence,1
+of,1
+principles,1
+which,1
+believe,1
+to,1
+be,1
+both,1
+right,1

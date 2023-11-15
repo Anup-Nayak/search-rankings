@@ -1,0 +1,7 @@
+20,124,2
+lieutenant,1
+colonel,1
+officer,1
+commanding,1
+district,1
+gujranwala,1

@@ -1,0 +1,14 @@
+33,468,2
+if,2
+in,1
+any,1
+country,1
+we,2
+find,2
+no,1
+symptom,1
+of,1
+such,1
+rebellion,1
+its,1
+people,1

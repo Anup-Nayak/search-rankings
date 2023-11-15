@@ -1,0 +1,5 @@
+16,509,13
+the,2
+editor,1
+stat,1
+esman,1

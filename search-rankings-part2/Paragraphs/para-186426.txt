@@ -1,0 +1,15 @@
+52,467,31
+available,1
+at,2
+all,1
+for,1
+payment,2
+of,2
+rentals,1
+if,1
+tenants,1
+get,1
+over,1
+the,1
+any,1
+rental,1

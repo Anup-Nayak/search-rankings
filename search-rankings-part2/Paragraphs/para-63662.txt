@@ -1,0 +1,7 @@
+18,127,4
+110,1
+letter,1
+to,1
+sadiq,1
+ali,1
+khan,1

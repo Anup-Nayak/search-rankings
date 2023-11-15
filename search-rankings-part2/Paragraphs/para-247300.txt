@@ -1,0 +1,6 @@
+67,52,2
+84,1
+letter,1
+to,1
+t,1
+prakasam,1

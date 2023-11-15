@@ -1,0 +1,6 @@
+3,230,1
+147,1
+indian,1
+labour,1
+and,1
+mauritius,1

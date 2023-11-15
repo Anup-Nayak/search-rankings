@@ -1,0 +1,7 @@
+27,342,1
+poor,1
+widows,1
+and,1
+other,1
+needy,1
+women,1

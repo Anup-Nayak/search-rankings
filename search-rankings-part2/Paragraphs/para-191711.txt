@@ -1,0 +1,15 @@
+54,101,4
+we,1
+asked,1
+gandhi,1
+if,1
+he,1
+did,1
+not,1
+believe,1
+that,1
+one,1
+of,2
+the,2
+principal,1
+causes,1

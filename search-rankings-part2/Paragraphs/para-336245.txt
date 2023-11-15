@@ -1,0 +1,5 @@
+87,280,6
+480,1
+letter,1
+to,1
+hoshiari,1

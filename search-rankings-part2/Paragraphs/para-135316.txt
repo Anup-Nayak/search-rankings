@@ -1,0 +1,3 @@
+39,326,7
+morality,1
+bombay,1

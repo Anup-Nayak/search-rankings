@@ -1,0 +1,6 @@
+50,27,1
+34,1
+letter,1
+to,1
+bhagwanji,1
+pandya,1

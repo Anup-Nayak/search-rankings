@@ -1,0 +1,7 @@
+58,241,13
+1,1
+hajam,1
+karna,1
+in,1
+the,1
+source,1

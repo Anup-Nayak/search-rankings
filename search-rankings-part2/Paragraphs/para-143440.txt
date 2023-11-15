@@ -1,0 +1,8 @@
+42,48,7
+will,1
+accept,1
+decision,1
+arbitration,1
+court,1
+wire,1
+reply,1

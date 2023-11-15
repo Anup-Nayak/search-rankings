@@ -1,0 +1,15 @@
+8,40,8
+i,1
+paid,1
+nothing,1
+you,1
+have,1
+not,1
+taken,1
+out,1
+a,1
+registration,1
+certificate,1
+under,1
+the,1
+law,1

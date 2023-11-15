@@ -1,0 +1,6 @@
+28,189,4
+106,1
+the,2
+purdah,1
+and,1
+pledge,1

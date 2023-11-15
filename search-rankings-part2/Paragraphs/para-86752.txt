@@ -1,0 +1,10 @@
+25,384,4
+1,1
+a,1
+backward,1
+hindu,1
+community,1
+traditionally,1
+regarded,1
+as,1
+untouchable,1

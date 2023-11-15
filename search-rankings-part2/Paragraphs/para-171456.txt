@@ -1,0 +1,6 @@
+49,231,19
+may,1
+non,1
+violence,1
+achieve,1
+success,1

@@ -1,0 +1,7 @@
+97,51,1
+50,1
+letter,1
+to,1
+khateeb,1
+ahmed,1
+hussain,1

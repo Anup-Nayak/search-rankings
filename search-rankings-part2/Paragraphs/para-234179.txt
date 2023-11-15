@@ -1,0 +1,14 @@
+64,87,10
+opposition,1
+to,1
+address,1
+the,1
+meeting,1
+shri,1
+lavate,1
+said,1
+that,1
+he,1
+and,1
+his,1
+sanatanist,1

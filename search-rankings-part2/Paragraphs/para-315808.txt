@@ -1,0 +1,14 @@
+82,417,28
+british,1
+my,1
+desire,1
+was,1
+to,2
+establish,1
+the,2
+principle,1
+that,1
+no,1
+englishman,1
+had,1
+right,1

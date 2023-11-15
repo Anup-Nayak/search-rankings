@@ -1,0 +1,11 @@
+86,193,1
+i,2
+shall,1
+send,1
+letters,1
+to,1
+others,1
+if,1
+can,1
+manage,1
+it,1

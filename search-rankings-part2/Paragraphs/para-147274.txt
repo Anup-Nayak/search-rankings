@@ -1,0 +1,5 @@
+43,23,3
+18,1
+khadi,1
+propaganda,1
+fund,1

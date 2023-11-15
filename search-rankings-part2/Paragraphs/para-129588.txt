@@ -1,0 +1,17 @@
+38,58,12
+their,1
+mothers,1
+for,1
+better,1
+bread,1
+but,1
+as,2
+long,1
+that,1
+was,1
+not,1
+ready,1
+they,1
+had,1
+no,1
+other,1

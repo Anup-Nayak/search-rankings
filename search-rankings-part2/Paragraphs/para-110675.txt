@@ -1,0 +1,12 @@
+32,461,9
+minor,1
+obstacles,1
+barring,1
+the,4
+way,1
+of,2
+minister,1
+and,1
+release,1
+men,1
+detained,1

@@ -1,0 +1,5 @@
+28,48,2
+the,2
+bully,1
+and,1
+coward,1

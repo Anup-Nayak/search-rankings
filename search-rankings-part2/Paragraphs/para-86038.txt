@@ -1,0 +1,6 @@
+25,290,3
+the,2
+habit,1
+of,1
+blaming,1
+police,1

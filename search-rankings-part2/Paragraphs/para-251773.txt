@@ -1,0 +1,6 @@
+68,60,11
+1,2
+bharwad,1
+shepherd,1
+luhar,1
+blacksmith,1

@@ -1,0 +1,13 @@
+29,30,14
+1,1
+gandhiji,1
+had,1
+personally,1
+visited,1
+the,2
+scene,1
+of,1
+riots,1
+2,1
+gandhijis,1
+nephew,1

@@ -1,0 +1,13 @@
+62,295,5
+of,1
+high,1
+and,2
+low,1
+touchable,1
+untouchable,1
+continued,1
+amongst,1
+hindus,1
+he,1
+was,1
+sure,1

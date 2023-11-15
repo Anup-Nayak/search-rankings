@@ -1,0 +1,6 @@
+4,334,2
+286,1
+letter,1
+to,1
+haji,1
+habib,1

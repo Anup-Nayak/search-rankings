@@ -1,0 +1,3 @@
+65,140,2
+harilal,1
+rajkot,1

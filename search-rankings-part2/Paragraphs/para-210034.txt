@@ -1,0 +1,8 @@
+58,287,13
+1,1
+the,1
+addressee,1
+wished,1
+to,1
+observe,1
+brahmacharya,1

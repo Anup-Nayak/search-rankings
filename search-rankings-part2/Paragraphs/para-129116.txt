@@ -1,0 +1,15 @@
+37,483,6
+i,1
+find,1
+at,1
+last,1
+an,1
+hour,1
+for,1
+conversing,1
+with,2
+you,2
+and,1
+through,1
+your,1
+bapu,1

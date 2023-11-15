@@ -1,0 +1,6 @@
+48,178,5
+silence,1
+day,1
+satyagrahashram,1
+1929,1
+4,1

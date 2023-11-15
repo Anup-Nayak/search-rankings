@@ -1,0 +1,12 @@
+44,22,3
+miss,1
+marie,1
+petersen,1
+national,1
+christian,1
+girls,1
+school,1
+porto,1
+novo,1
+s,1
+india,1

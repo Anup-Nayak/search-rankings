@@ -1,0 +1,9 @@
+2,30,8
+the,3
+following,1
+was,1
+signalled,1
+from,1
+naderi,1
+on,1
+30th,1

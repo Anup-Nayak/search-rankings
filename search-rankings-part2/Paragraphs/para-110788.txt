@@ -1,0 +1,13 @@
+32,469,2
+anything,1
+and,1
+everything,1
+done,1
+for,1
+the,3
+good,1
+of,1
+country,1
+is,1
+opposed,1
+by,1

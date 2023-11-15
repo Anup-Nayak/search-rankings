@@ -1,0 +1,5 @@
+78,5,8
+6,1
+duty,1
+towards,1
+nation,1

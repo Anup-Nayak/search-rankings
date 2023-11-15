@@ -1,0 +1,10 @@
+82,158,19
+ancillary,1
+and,2
+subsidiary,1
+industries,1
+trades,1
+occupations,1
+would,1
+all,1
+suffer,1

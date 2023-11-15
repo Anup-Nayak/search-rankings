@@ -1,0 +1,11 @@
+13,175,13
+1,1
+the,1
+free,1
+state,1
+difficulty,1
+appears,1
+to,1
+remain,1
+and,1
+therefore,1

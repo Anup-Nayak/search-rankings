@@ -1,0 +1,11 @@
+40,149,2
+now,1
+you,2
+will,1
+even,1
+perhaps,1
+understand,1
+why,1
+i,1
+consider,1
+that,1

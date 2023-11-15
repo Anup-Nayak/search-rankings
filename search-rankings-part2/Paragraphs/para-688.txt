@@ -1,0 +1,6 @@
+1,139,2
+pretoria,1
+to,1
+the,2
+editor,1
+vegetarian,1

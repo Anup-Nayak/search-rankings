@@ -1,0 +1,8 @@
+5,185,4
+1,1
+acting,1
+lieutenant,1
+governor,1
+of,1
+the,1
+transvaal,1

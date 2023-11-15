@@ -1,0 +1,14 @@
+82,45,6
+mahatma,1
+gandhi,1
+did,1
+not,1
+give,1
+a,1
+direct,1
+reply,1
+to,1
+questions,1
+about,1
+the,1
+interview,1

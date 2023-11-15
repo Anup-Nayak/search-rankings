@@ -1,0 +1,9 @@
+57,36,15
+fast,1
+till,1
+settlement,1
+reached,1
+how,1
+is,1
+kikibehn,1
+2,1

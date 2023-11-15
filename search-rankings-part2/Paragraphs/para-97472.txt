@@ -1,0 +1,10 @@
+29,0,11
+bapu,1
+chi,1
+radha,1
+c/o,1
+vora,1
+shivlal,1
+karsanji,1
+rajkot,1
+city,1

@@ -1,0 +1,11 @@
+98,39,2
+question,1
+why,1
+cannot,1
+we,1
+get,1
+it,1
+done,1
+through,1
+the,1
+congress,1

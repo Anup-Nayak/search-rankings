@@ -1,0 +1,14 @@
+28,91,14
+the,2
+land,1
+on,1
+which,1
+national,1
+school,1
+at,1
+bandar,1
+was,1
+situated,1
+and,1
+with,1
+rs,1

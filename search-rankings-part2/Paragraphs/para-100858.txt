@@ -1,0 +1,5 @@
+29,423,10
+1,1
+an,1
+intoxicating,1
+drink,1

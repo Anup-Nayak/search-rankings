@@ -1,0 +1,12 @@
+31,243,6
+he,2
+had,1
+seen,1
+working,1
+in,2
+agricultural,1
+departments,1
+these,1
+two,1
+countries,1
+and,1

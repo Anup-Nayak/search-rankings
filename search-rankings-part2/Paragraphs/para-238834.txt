@@ -1,0 +1,4 @@
+65,143,2
+ramdas,1
+gandhi,1
+ahmedabad,1

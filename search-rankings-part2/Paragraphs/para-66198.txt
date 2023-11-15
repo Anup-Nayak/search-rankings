@@ -1,0 +1,5 @@
+19,52,7
+petition,1
+against,1
+rowlatt,1
+act,1

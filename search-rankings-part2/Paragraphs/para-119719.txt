@@ -1,0 +1,16 @@
+35,278,9
+1,1
+two,1
+things,1
+stand,1
+for,1
+praja,1
+mitra,1
+friend,2
+of,2
+the,3
+people,2
+and,1
+spinning,1
+wheel,1
+also,1

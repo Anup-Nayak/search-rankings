@@ -1,0 +1,12 @@
+6,487,7
+2,1
+in,1
+gujarati,1
+registration,1
+certificate,1
+has,1
+been,1
+referred,1
+to,1
+as,1
+register,1

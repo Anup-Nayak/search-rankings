@@ -1,0 +1,12 @@
+87,409,7
+yours,1
+m,1
+k,1
+gandhi,2
+brijbihari,1
+avasthi,1
+seva,1
+samiti,1
+general,1
+ganj,1
+kanpur,1

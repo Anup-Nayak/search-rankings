@@ -1,0 +1,5 @@
+76,111,2
+140,1
+meenakshi,1
+temple,1
+open,1

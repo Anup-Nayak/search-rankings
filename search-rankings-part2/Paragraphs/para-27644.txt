@@ -1,0 +1,9 @@
+9,191,11
+all,1
+long,1
+domiciled,1
+transvaal,1
+just,1
+returned,1
+visit,1
+india,1

@@ -1,0 +1,4 @@
+80,25,3
+dear,1
+sir,1
+gilbert,1

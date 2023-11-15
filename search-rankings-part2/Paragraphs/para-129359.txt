@@ -1,0 +1,10 @@
+38,28,19
+mahatma,1
+gandhi,1
+this,1
+also,1
+is,1
+among,1
+the,1
+essential,1
+features,1

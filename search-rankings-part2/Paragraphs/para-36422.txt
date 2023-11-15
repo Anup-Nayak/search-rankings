@@ -1,0 +1,10 @@
+11,304,19
+a,1
+single,1
+asiatic,1
+actually,1
+enters,1
+free,1
+state,1
+but,1
+even,1

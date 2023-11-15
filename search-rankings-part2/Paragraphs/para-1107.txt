@@ -1,0 +1,10 @@
+1,216,5
+pretoria,1
+south,1
+african,1
+republic,1
+before,1
+may,1
+5,1
+1895,1
+2,1

@@ -1,0 +1,16 @@
+97,426,7
+1,1
+a,1
+small,1
+mat,1
+2,1
+vide,1
+speech,2
+at,2
+prayer,2
+meeting,2
+27,1
+11,2
+1947,2
+and,1
+28,1

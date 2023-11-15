@@ -1,0 +1,17 @@
+13,153,8
+personally,1
+i,1
+think,1
+the,1
+world,1
+as,1
+a,2
+whole,1
+will,1
+never,1
+have,2
+and,1
+need,1
+not,1
+single,1
+religion,1

@@ -1,0 +1,17 @@
+24,177,9
+2,1
+a,1
+place,1
+of,3
+residence,1
+for,1
+jain,1
+sadhus,1
+3,1
+religious,1
+festival,1
+the,2
+jains,1
+celebrating,1
+birth,1
+mahavira,1

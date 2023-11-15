@@ -1,0 +1,7 @@
+17,242,14
+3,1
+gujarat,1
+swadeshi,1
+store,1
+at,1
+ahmedabad,1

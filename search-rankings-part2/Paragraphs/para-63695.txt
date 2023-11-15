@@ -1,0 +1,7 @@
+18,128,27
+ses,1
+disturbances,1
+punjab,1
+and,1
+administration,1
+mar,1

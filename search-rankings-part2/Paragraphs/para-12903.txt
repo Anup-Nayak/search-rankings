@@ -1,0 +1,7 @@
+5,167,3
+m,1
+k,2
+gandhi,2
+c,1
+esq,1
+phoenix,1

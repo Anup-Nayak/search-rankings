@@ -1,0 +1,6 @@
+25,18,1
+8,1
+speech,1
+on,1
+swadeshi,1
+ahmedabad,1

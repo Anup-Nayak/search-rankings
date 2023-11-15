@@ -1,0 +1,9 @@
+79,394,10
+no,1
+hurry,1
+about,1
+fasting,1
+2,1
+your,1
+presence,1
+is,1

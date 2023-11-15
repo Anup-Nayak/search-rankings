@@ -1,0 +1,9 @@
+39,429,3
+b,1
+gopalachar,1
+r,1
+a,1
+member,1
+tirthahalli,1
+shimoga,1
+district,1

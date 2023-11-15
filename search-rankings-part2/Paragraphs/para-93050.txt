@@ -1,0 +1,14 @@
+27,363,26
+secondary,1
+and,1
+middle,1
+vernacular,1
+schools,1
+are,1
+under,1
+our,1
+control,1
+but,1
+we,1
+have,1
+to,1

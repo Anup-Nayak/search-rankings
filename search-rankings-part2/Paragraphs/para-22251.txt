@@ -1,0 +1,4 @@
+7,347,4
+law,1
+destroys,1
+life,1

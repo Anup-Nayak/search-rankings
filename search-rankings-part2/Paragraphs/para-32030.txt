@@ -1,0 +1,11 @@
+10,311,21
+shrewd,1
+in,2
+business,1
+acute,1
+reasoning,1
+thrifty,1
+religious,1
+sober,1
+charitable,1
+obedient,1

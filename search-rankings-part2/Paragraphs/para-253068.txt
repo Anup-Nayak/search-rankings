@@ -1,0 +1,7 @@
+68,196,3
+245,1
+letter,1
+to,1
+purushottam,1
+j,1
+joshi,1

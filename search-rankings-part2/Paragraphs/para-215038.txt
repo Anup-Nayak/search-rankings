@@ -1,0 +1,6 @@
+59,304,3
+423,1
+temple,1
+entry,1
+and,1
+varnashrama,1

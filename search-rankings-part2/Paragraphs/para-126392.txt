@@ -1,0 +1,9 @@
+37,83,4
+1,1
+vedic,1
+prayer,1
+to,1
+sun,1
+god,1
+for,1
+illumination,1

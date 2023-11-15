@@ -1,0 +1,13 @@
+94,70,4
+gandhiji,1
+i,2
+have,2
+come,2
+to,2
+lighten,1
+it,1
+also,1
+wired,1
+badshah,1
+khan,1
+2,1

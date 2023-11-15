@@ -1,0 +1,8 @@
+20,114,18
+q,1
+do,1
+you,1
+adhere,1
+to,1
+it,1
+now,1

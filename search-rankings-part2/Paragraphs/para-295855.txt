@@ -1,0 +1,14 @@
+78,444,4
+language,1
+to,2
+that,1
+effect,1
+if,1
+the,2
+object,1
+of,1
+constituent,1
+assembly,1
+is,1
+only,1
+ascertain,1

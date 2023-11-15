@@ -1,0 +1,12 @@
+82,286,4
+q,1
+but,1
+unadulterated,1
+non,2
+violent,1
+co,1
+operation,1
+has,1
+not,1
+been,1
+successful,1

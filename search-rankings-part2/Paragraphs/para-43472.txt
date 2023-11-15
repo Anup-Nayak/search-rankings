@@ -1,0 +1,8 @@
+13,203,4
+1,1
+a,1
+community,1
+of,1
+shepherds,1
+in,1
+gujarat,1

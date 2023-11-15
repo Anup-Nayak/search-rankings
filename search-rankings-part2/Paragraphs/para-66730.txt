@@ -1,0 +1,6 @@
+19,126,3
+1,1
+spiritual,1
+counsel,1
+or,1
+advice,1

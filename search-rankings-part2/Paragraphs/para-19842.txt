@@ -1,0 +1,5 @@
+7,8,6
+winner,1
+ambaram,1
+mangalji,1
+thakar,1

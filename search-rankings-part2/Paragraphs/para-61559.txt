@@ -1,0 +1,7 @@
+17,327,4
+313,1
+speech,1
+on,1
+satyagraha,1
+allahabad,1
+2,1

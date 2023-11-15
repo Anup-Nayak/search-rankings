@@ -1,0 +1,4 @@
+59,501,17
+kill,1
+the,1
+savarnas,1

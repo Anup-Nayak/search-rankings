@@ -1,0 +1,9 @@
+67,246,10
+1,1
+all,2
+india,2
+village,1
+industries,1
+association,2
+2,1
+spinners,1

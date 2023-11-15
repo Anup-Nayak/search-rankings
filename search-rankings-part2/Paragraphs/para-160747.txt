@@ -1,0 +1,15 @@
+46,287,2
+a,1
+case,1
+of,1
+destitution,1
+in,1
+which,1
+the,2
+khalsa,1
+dewan,1
+society,1
+has,1
+not,1
+come,1
+to,1

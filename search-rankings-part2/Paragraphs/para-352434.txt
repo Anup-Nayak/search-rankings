@@ -1,0 +1,16 @@
+91,214,4
+gandhiji,1
+the,4
+law,2
+rightly,1
+does,1
+not,1
+accept,1
+intention,1
+of,2
+farmer,1
+a,1
+outside,1
+what,1
+text,1
+bears,1

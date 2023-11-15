@@ -1,0 +1,9 @@
+54,67,17
+1,1
+dr,1
+b,1
+r,1
+ambedkar,1
+2,1
+south,1
+africa,1

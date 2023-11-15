@@ -1,0 +1,7 @@
+62,109,9
+126,1
+interview,1
+with,1
+dr,1
+conger,1
+2,1

@@ -1,0 +1,12 @@
+76,434,5
+socially,1
+and,2
+economically,1
+this,1
+crisis,1
+is,1
+the,2
+inevitable,1
+consequence,1
+of,1
+social,1

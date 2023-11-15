@@ -1,0 +1,9 @@
+23,473,9
+laziness,1
+and,1
+follow,1
+non,1
+co,1
+operation,1
+programme,1
+especially,1

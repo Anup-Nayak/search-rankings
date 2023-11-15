@@ -1,0 +1,8 @@
+39,234,7
+221,1
+speech,1
+at,1
+public,1
+meeting,1
+tumkur,1
+2,1

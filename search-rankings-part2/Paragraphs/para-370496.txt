@@ -1,0 +1,17 @@
+96,93,7
+from,2
+a,2
+facsimile,1
+of,2
+the,2
+gujarati,2
+weekly,1
+observer,1
+6,1
+3,1
+1948,1
+also,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1

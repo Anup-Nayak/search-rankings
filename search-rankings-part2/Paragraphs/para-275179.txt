@@ -1,0 +1,6 @@
+73,418,13
+571,1
+message,1
+to,1
+harijan,1
+satyagrahis,1

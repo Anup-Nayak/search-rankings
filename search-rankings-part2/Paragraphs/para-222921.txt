@@ -1,0 +1,6 @@
+61,190,12
+bishop,1
+mcconnell,1
+hotel,1
+morrison,1
+chicago,1

@@ -1,0 +1,3 @@
+74,326,4
+hindustani,1
+only,1

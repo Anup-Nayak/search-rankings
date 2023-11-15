@@ -1,0 +1,7 @@
+85,397,5
+676,1
+letter,1
+to,1
+laj,1
+rallia,1
+ram,1

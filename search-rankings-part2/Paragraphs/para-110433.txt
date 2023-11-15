@@ -1,0 +1,16 @@
+32,438,6
+only,1
+five,1
+voted,1
+against,1
+and,1
+the,1
+alternative,1
+spinning,1
+franchise,1
+was,1
+carried,1
+by,1
+an,1
+overwhelming,1
+majority,1

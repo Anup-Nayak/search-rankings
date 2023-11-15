@@ -1,0 +1,15 @@
+31,256,3
+there,1
+is,3
+nothing,1
+obnoxious,1
+in,1
+idol,1
+worship,2
+as,1
+such,1
+it,1
+without,1
+understanding,1
+which,1
+so,1

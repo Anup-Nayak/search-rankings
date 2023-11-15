@@ -1,0 +1,9 @@
+64,350,8
+abul,1
+kalam,1
+azad,1
+19,1
+a,1
+ballyganj,1
+circular,1
+road,1

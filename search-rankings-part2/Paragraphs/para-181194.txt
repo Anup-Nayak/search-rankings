@@ -1,0 +1,9 @@
+51,395,13
+available,1
+the,1
+country,1
+should,1
+be,1
+prepared,1
+to,1
+suffer,1

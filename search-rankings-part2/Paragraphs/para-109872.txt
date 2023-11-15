@@ -1,0 +1,5 @@
+32,343,1
+218,1
+khaddar,1
+workers,1
+census,1

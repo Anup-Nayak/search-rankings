@@ -1,0 +1,11 @@
+45,21,15
+non,1
+violent,1
+by,2
+compulsion,1
+but,1
+abstaining,1
+from,1
+voting,1
+for,1
+military,1

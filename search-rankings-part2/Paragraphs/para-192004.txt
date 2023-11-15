@@ -1,0 +1,13 @@
+54,135,9
+questioned,1
+whether,1
+if,1
+eighty,1
+per,1
+cent,1
+of,1
+the,2
+congress,1
+demand,1
+is,1
+granted,1

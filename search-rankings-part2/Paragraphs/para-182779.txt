@@ -1,0 +1,7 @@
+52,74,1
+94,1
+letter,1
+to,1
+livingston,1
+&,1
+doull,1

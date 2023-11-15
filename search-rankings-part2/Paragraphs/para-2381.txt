@@ -1,0 +1,10 @@
+2,9,1
+durban,1
+after,1
+the,1
+incident,1
+that,1
+happened,1
+on,1
+wednesday,1
+last,1

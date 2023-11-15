@@ -1,0 +1,6 @@
+38,418,2
+423,1
+letter,1
+to,1
+isabel,1
+bamlet,1

@@ -1,0 +1,12 @@
+10,40,2
+yours,1
+sincerely,1
+dr,1
+abdurrahman,1
+38,1
+longridge,1
+road,1
+earls,1
+court,1
+s,1
+w,1

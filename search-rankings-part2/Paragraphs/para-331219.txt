@@ -1,0 +1,16 @@
+86,250,4
+yours,1
+m,1
+k,1
+gandhi,1
+khwaja,1
+saheb,1
+mohammed,1
+retired,1
+principal,1
+islamia,1
+college,1
+outside,1
+delhi,1
+gate,1
+lahore,1

@@ -1,0 +1,6 @@
+68,209,8
+not,1
+below,1
+cost,1
+without,1
+permission,1

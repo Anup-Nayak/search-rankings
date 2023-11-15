@@ -1,0 +1,6 @@
+30,6,2
+resolution,1
+xi,1
+paid,1
+national,1
+service,1

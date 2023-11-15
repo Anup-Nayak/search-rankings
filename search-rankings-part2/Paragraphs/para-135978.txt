@@ -1,0 +1,14 @@
+39,420,1
+husbandmen,1
+a,2
+few,2
+live,1
+by,1
+driving,1
+carts,1
+others,1
+spin,1
+coarse,1
+hem,1
+tag,1
+and,1

@@ -1,0 +1,11 @@
+32,0,7
+my,1
+heart,1
+with,1
+you,3
+may,1
+god,1
+bless,1
+expect,1
+be,1
+brave,1

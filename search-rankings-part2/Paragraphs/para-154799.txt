@@ -1,0 +1,11 @@
+44,506,5
+t6,1
+for,1
+only,1
+half,2
+a,2
+mile,2
+guj,1
+has,1
+less,1
+than,1

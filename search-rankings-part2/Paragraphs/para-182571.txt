@@ -1,0 +1,4 @@
+52,47,9
+dear,1
+young,1
+friend,1

@@ -1,0 +1,7 @@
+73,89,1
+83,1
+speech,1
+at,1
+khadi,1
+pratishthan,1
+sodepur,1

@@ -1,0 +1,5 @@
+82,166,1
+199,1
+non,1
+violent,1
+resistance,1

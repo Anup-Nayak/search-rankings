@@ -1,0 +1,8 @@
+71,76,5
+obstinacy,1
+refusing,1
+assurances,1
+1,1
+will,1
+surely,1
+result,1

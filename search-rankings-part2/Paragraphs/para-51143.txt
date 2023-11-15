@@ -1,0 +1,8 @@
+15,102,15
+7,1
+vide,1
+speech,1
+at,1
+civic,1
+reception,1
+bangalore,1

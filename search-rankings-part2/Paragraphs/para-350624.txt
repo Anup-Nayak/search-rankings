@@ -1,0 +1,12 @@
+91,11,4
+new,1
+delhi,1
+may,1
+21,1
+1946,2
+from,1
+hindi,1
+harijan,1
+sevak,1
+26,1
+5,1

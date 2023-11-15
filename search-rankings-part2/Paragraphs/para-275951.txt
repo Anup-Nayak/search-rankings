@@ -1,0 +1,9 @@
+74,27,9
+nobody,1
+can,1
+come,1
+up,1
+to,1
+her,1
+in,1
+devotion,1

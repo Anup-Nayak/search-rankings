@@ -1,0 +1,7 @@
+52,74,6
+95,1
+letter,1
+to,1
+abdur,1
+razzaq,1
+malihabadi,1

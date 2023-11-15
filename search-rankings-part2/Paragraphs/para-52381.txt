@@ -1,0 +1,6 @@
+15,253,3
+the,1
+modern,1
+review,1
+october,1
+1916,1

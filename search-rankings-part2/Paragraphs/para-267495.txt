@@ -1,0 +1,14 @@
+72,52,9
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+4743,1
+courtesy,1
+l,1
+r,1
+dacha,1

@@ -1,0 +1,15 @@
+21,475,18
+abuse,2
+an,3
+opponent,2
+it,1
+is,1
+act,1
+of,1
+violence,1
+to,1
+and,1
+so,1
+long,1
+as,1
+they,1

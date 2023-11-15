@@ -1,0 +1,7 @@
+37,70,7
+73,1
+letter,1
+to,1
+l,1
+r,1
+pangarkar,1

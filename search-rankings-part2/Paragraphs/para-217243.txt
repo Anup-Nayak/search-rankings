@@ -1,0 +1,7 @@
+60,9,6
+19,1
+letter,1
+to,1
+chhotubhai,1
+k,1
+mehta,1

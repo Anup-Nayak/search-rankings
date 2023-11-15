@@ -1,0 +1,4 @@
+52,147,10
+swaraj,1
+ashram,1
+bardoli,1

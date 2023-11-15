@@ -1,0 +1,6 @@
+14,173,3
+from,1
+gujarati,1
+mahatma,1
+gandhijina,1
+patro,1

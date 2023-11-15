@@ -1,0 +1,8 @@
+83,413,2
+c,1
+no,1
+secrecy,1
+to,1
+resist,1
+slave,1
+drivers,1

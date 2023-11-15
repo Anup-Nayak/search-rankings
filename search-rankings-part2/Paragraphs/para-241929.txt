@@ -1,0 +1,11 @@
+66,3,2
+m,1
+k,1
+g,1
+rajkumari,1
+amrit,1
+kaur,1
+4a,1
+staff,1
+lines,1
+karachi,1

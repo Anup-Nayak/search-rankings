@@ -1,0 +1,12 @@
+64,227,3
+mira,1
+this,1
+is,1
+just,1
+to,1
+tell,1
+you,2
+are,1
+constantly,1
+with,1
+me,1

@@ -1,0 +1,6 @@
+21,496,1
+281,1
+the,1
+gujarat,1
+national,1
+college,1

@@ -1,0 +1,7 @@
+80,323,1
+562,1
+letter,1
+to,1
+d,1
+p,1
+karmarkar,1

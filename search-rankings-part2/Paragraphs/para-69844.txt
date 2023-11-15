@@ -1,0 +1,4 @@
+20,47,4
+part,1
+ii,1
+amritsar,1

@@ -1,0 +1,12 @@
+57,212,9
+1,1
+up,1
+to,1
+this,1
+the,1
+text,1
+is,1
+in,1
+urdu,1
+2,1
+compliments,1

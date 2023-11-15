@@ -1,0 +1,7 @@
+76,71,2
+contained,1
+in,1
+documents,1
+signed,1
+by,1
+political,1

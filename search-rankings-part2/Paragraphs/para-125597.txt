@@ -1,0 +1,7 @@
+36,493,6
+1,1
+the,2
+source,1
+has,1
+both,1
+words,1

@@ -1,0 +1,11 @@
+53,504,12
+given,1
+why,1
+government,1
+were,1
+not,1
+able,1
+to,1
+accept,1
+the,1
+suggestion,1

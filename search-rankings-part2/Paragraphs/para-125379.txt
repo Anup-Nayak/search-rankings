@@ -1,0 +1,9 @@
+36,469,6
+tread,1
+the,3
+path,1
+trodden,1
+by,1
+wise,1
+and,1
+great,1

@@ -1,0 +1,10 @@
+24,33,1
+18,1
+speech,1
+at,1
+inauguration,1
+of,1
+khadi,1
+exhibition,1
+bombay,1
+1,1

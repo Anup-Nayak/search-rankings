@@ -1,0 +1,7 @@
+61,78,5
+1,1
+r,1
+v,1
+shastri,1
+editor,1
+harijan,1

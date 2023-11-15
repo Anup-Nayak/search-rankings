@@ -1,0 +1,4 @@
+44,82,2
+slums,1
+of,1
+ahmedabad,1

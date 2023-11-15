@@ -1,0 +1,4 @@
+24,295,6
+the,1
+impassable,1
+barrier,1

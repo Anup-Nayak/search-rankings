@@ -1,0 +1,7 @@
+35,293,4
+380,1
+letter,1
+to,1
+mahadeo,1
+v,1
+pandlorkar,1

@@ -1,0 +1,6 @@
+2,154,2
+sd,1
+abdul,1
+carim,1
+haji,1
+adam,1

@@ -1,0 +1,15 @@
+82,390,7
+whether,1
+or,1
+not,1
+an,1
+indian,1
+state,1
+elects,1
+to,2
+adhere,1
+the,1
+constitution,1
+it,1
+will,1
+be,1

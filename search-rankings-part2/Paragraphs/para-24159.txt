@@ -1,0 +1,4 @@
+8,174,4
+hawkers,1
+and,1
+pedlars,1

@@ -1,0 +1,16 @@
+82,309,12
+stocks,1
+for,1
+the,2
+needs,1
+of,1
+province,1
+cattle,1
+in,1
+these,1
+parts,1
+are,1
+given,1
+no,1
+salt,2
+if,1

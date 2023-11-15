@@ -1,0 +1,7 @@
+47,64,9
+72,1
+letter,1
+to,1
+satis,1
+chandra,1
+mukherjee,1

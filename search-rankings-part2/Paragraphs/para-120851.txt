@@ -1,0 +1,6 @@
+35,409,8
+528,1
+charkha,1
+in,1
+other,1
+lands,1

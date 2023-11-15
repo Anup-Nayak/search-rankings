@@ -1,0 +1,17 @@
+40,286,2
+question,1
+me,1
+again,1
+if,1
+you,2
+have,1
+still,1
+not,1
+understood,1
+and,1
+go,1
+on,1
+questioning,1
+till,1
+do,1
+understand,1

@@ -1,0 +1,14 @@
+68,107,1
+learning,1
+to,3
+draw,2
+if,1
+you,2
+are,1
+eager,1
+learn,1
+how,1
+such,1
+letters,1
+may,1
+succeed,1

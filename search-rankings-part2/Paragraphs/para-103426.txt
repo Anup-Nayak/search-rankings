@@ -1,0 +1,9 @@
+30,277,10
+friends,1
+and,1
+self,1
+can,1
+only,1
+assist,1
+government,1
+effort,1

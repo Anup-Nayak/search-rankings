@@ -1,0 +1,5 @@
+98,0,2
+a,1
+sindhi,1
+sufferer,1
+writes,1

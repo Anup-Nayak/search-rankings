@@ -1,0 +1,7 @@
+19,191,1
+147,1
+speech,1
+at,1
+amritsar,1
+congress,1
+1,1

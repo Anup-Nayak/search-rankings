@@ -1,0 +1,10 @@
+19,498,9
+with,1
+name,1
+of,1
+allah,1
+the,2
+most,2
+merciful,1
+and,1
+compassionate,1

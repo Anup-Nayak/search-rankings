@@ -1,0 +1,6 @@
+46,403,6
+373,1
+need,1
+for,1
+far,1
+sightedness,1

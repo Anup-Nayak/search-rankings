@@ -1,0 +1,7 @@
+78,49,10
+months,1
+ago,1
+hold,1
+congress,1
+attitude,1
+honest,1

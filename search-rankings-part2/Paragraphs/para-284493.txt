@@ -1,0 +1,6 @@
+76,73,7
+94,1
+letter,1
+to,1
+mangaldas,1
+pakwasa,1

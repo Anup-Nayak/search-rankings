@@ -1,0 +1,10 @@
+17,442,6
+402,1
+press,1
+statement,1
+on,1
+suspension,1
+of,1
+civil,1
+disobedience,1
+2,1

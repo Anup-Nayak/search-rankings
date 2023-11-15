@@ -1,0 +1,13 @@
+58,168,2
+yours,1
+sincerely,1
+chas,1
+peacock,1
+esq,1
+head,1
+master,1
+board,1
+middle,1
+school,1
+salur,1
+vizagapatam,1

@@ -1,0 +1,8 @@
+13,46,12
+although,1
+the,2
+immigrant,1
+may,1
+have,1
+passed,1
+education,1

@@ -1,0 +1,11 @@
+83,392,3
+will,1
+you,1
+include,1
+closing,1
+of,1
+liquor,1
+shops,2
+and,1
+foreign,1
+cloth,1

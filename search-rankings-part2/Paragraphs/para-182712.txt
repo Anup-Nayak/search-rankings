@@ -1,0 +1,5 @@
+52,67,14
+lala,1
+khan,1
+chand,1
+dev,1

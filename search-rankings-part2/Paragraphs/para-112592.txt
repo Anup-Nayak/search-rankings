@@ -1,0 +1,6 @@
+33,270,1
+161,1
+the,1
+curse,1
+of,1
+untouchability,1

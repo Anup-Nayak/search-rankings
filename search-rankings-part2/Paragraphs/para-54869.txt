@@ -1,0 +1,11 @@
+15,523,18
+10th,1
+together,1
+with,1
+a,1
+memorandum,1
+stating,1
+the,2
+qualifications,1
+of,1
+writer,1

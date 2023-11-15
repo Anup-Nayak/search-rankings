@@ -1,0 +1,7 @@
+78,68,6
+70,1
+speech,1
+at,1
+subjects,1
+committee,1
+2,1

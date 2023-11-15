@@ -1,0 +1,6 @@
+58,4,1
+2,1
+foreword,1
+to,1
+hamara,1
+kalank,1

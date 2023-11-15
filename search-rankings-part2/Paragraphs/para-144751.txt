@@ -1,0 +1,6 @@
+42,220,2
+marriage,1
+of,1
+old,1
+with,1
+young,1

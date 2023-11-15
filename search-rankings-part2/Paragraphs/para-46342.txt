@@ -1,0 +1,9 @@
+14,52,4
+people,1
+opinion,1
+is,1
+sharply,1
+divided,1
+the,1
+majority,1
+voted,1

@@ -1,0 +1,14 @@
+59,210,14
+answer,1
+the,2
+question,1
+without,1
+entering,1
+into,1
+region,1
+of,1
+politics,1
+which,1
+he,1
+could,1
+not,1

@@ -1,0 +1,10 @@
+64,18,10
+m,1
+k,1
+gandhi,1
+shri,1
+kshirode,1
+chandra,1
+maity,1
+bybattarhat,1
+midnapur,1

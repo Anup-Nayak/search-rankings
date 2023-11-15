@@ -1,0 +1,9 @@
+92,22,9
+wakeful,1
+come,1
+with,1
+the,1
+light,1
+and,1
+thy,1
+thunder,1

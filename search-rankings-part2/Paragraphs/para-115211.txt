@@ -1,0 +1,12 @@
+34,228,2
+1,1
+in,1
+the,2
+original,1
+this,1
+sentence,1
+occurs,1
+after,1
+one,1
+that,1
+follows,1

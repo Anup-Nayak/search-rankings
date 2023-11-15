@@ -1,0 +1,10 @@
+6,526,15
+all,1
+asiatics,1
+lawfully,1
+resident,1
+in,1
+colony,1
+to,1
+be,1
+registered,1

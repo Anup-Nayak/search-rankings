@@ -1,0 +1,7 @@
+11,314,7
+send,1
+polak,1
+alexanders,1
+ministers,1
+amendments,1
+publi,1

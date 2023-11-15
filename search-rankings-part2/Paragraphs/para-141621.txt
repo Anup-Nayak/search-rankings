@@ -1,0 +1,9 @@
+41,301,14
+our,2
+finance,1
+consists,1
+in,1
+own,1
+men,1
+and,2
+women,1

@@ -1,0 +1,10 @@
+78,13,3
+14,1
+letter,1
+to,1
+amrit,1
+kaur,1
+calcutta,1
+february,1
+26,1
+1940,1

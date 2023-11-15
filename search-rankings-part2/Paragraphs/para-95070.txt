@@ -1,0 +1,6 @@
+28,143,2
+the,1
+aga,1
+khani,1
+khojas,1
+1,1

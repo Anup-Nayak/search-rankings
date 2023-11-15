@@ -1,0 +1,7 @@
+14,72,3
+cape,1
+times,1
+reproduces,1
+andrews,1
+lecture,1
+fully,1

@@ -1,0 +1,13 @@
+11,254,7
+the,2
+legislative,1
+assembly,1
+of,2
+union,1
+south,1
+africa,1
+in,1
+parliament,1
+assembled,1
+cape,1
+town,1

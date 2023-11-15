@@ -1,0 +1,7 @@
+47,106,8
+persons,1
+dependent,1
+on,1
+agriculture,1
+23,1
+crores,1

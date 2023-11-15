@@ -1,0 +1,13 @@
+16,99,9
+instruction,1
+in,1
+commerce,1
+and,1
+industry,1
+india,1
+will,1
+become,1
+conscious,1
+of,1
+her,1
+self,1

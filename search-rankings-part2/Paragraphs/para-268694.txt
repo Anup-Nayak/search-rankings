@@ -1,0 +1,15 @@
+72,191,5
+flown,1
+from,1
+all,1
+parts,1
+of,1
+the,1
+city,1
+but,1
+these,1
+flags,1
+were,1
+manufactured,1
+anyhow,1
+by,1

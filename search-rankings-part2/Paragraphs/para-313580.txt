@@ -1,0 +1,13 @@
+82,308,8
+q,1
+in,1
+resisting,1
+unjust,1
+military,1
+or,1
+civil,1
+orders,1
+is,1
+the,1
+primary,1
+motive,1

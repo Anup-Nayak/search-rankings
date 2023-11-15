@@ -1,0 +1,13 @@
+84,85,1
+details,1
+you,2
+are,2
+permitted,1
+to,1
+give,1
+all,1
+the,1
+old,1
+attendants,1
+still,1
+with,1

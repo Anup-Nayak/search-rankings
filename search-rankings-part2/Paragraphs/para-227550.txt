@@ -1,0 +1,11 @@
+62,238,4
+m,1
+k,1
+gandhi,1
+lala,1
+dunichand,1
+kripa,1
+niwas,1
+ambala,1
+city,1
+punjab,1

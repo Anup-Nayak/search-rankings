@@ -1,0 +1,9 @@
+30,178,2
+the,1
+secretary,1
+taluka,1
+congress,1
+committee,1
+haliyal,1
+karwar,1
+writes,1

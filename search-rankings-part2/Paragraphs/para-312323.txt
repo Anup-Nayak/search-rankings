@@ -1,0 +1,8 @@
+82,205,2
+it,1
+is,1
+my,1
+duty,1
+to,1
+caution,1
+you,1

@@ -1,0 +1,8 @@
+19,106,7
+no,1
+legislation,1
+he,1
+said,1
+would,1
+be,1
+required,1

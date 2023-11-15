@@ -1,0 +1,6 @@
+13,387,6
+letter,2
+also,1
+my,1
+september,1
+28th,1

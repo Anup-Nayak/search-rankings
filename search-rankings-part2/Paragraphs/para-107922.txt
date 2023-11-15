@@ -1,0 +1,6 @@
+32,0,11
+3,1
+telegram,1
+to,1
+satcouripati,1
+roy,1

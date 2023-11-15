@@ -1,0 +1,15 @@
+9,485,9
+1,1
+extract,1
+from,1
+h,1
+s,1
+l,1
+polaks,1
+letter,1
+to,1
+the,1
+press,1
+octobr,1
+26,1
+1908,1

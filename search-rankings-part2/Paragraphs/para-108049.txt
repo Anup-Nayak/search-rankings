@@ -1,0 +1,13 @@
+32,17,6
+and,1
+no,1
+risk,1
+you,1
+must,1
+descend,1
+to,1
+plains,1
+in,1
+full,1
+vigour,1
+staying,1

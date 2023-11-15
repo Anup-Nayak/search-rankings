@@ -1,0 +1,12 @@
+85,452,1
+a,2
+hurry,1
+little,1
+but,2
+solid,1
+work,1
+is,1
+more,1
+than,1
+much,1
+useless,1

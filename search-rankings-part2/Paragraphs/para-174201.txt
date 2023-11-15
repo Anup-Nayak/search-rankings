@@ -1,0 +1,6 @@
+50,60,6
+86,1
+letter,1
+to,1
+kamala,1
+nevatia,1

@@ -1,0 +1,6 @@
+88,80,12
+174,1
+letter,1
+to,1
+amtussalaam,1
+2,1

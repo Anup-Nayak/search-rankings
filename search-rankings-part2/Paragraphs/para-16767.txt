@@ -1,0 +1,13 @@
+6,145,26
+soldiers,1
+for,1
+the,4
+defence,1
+of,1
+transvaal,1
+position,1
+is,1
+therefore,1
+this,1
+that,1
+when,1

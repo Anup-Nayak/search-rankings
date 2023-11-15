@@ -1,0 +1,12 @@
+21,51,8
+committed,1
+a,1
+few,1
+pound,1
+of,3
+wrong,2
+the,1
+authorities,1
+were,1
+guilty,1
+tons,1

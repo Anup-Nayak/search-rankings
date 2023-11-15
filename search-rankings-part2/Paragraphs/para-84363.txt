@@ -1,0 +1,11 @@
+25,32,5
+peoples,1
+fair,2
+means,1
+a,1
+for,1
+the,1
+people,1
+two,1
+parsi,1
+sisters,1

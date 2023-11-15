@@ -1,0 +1,7 @@
+34,405,10
+shri,1
+gangaram,1
+khodidas,1
+chhatrala,1
+dariapur,1
+ahmedabad,1

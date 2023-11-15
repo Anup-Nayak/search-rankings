@@ -1,0 +1,7 @@
+74,279,3
+370,1
+harijan,1
+welfare,1
+in,1
+tatanagar,1
+1,1

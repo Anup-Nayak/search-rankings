@@ -1,0 +1,15 @@
+31,94,13
+inefficient,1
+one,1
+the,1
+art,1
+of,1
+cattle,2
+breeding,1
+does,1
+not,1
+give,1
+us,1
+few,1
+but,1
+more,1

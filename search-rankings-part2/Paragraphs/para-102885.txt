@@ -1,0 +1,6 @@
+30,211,6
+a,1
+it,1
+is,1
+altogether,1
+wrong,1

@@ -1,0 +1,6 @@
+15,110,11
+july,1
+28,1
+wednesday,1
+mangal,1
+joined,1

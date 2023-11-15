@@ -1,0 +1,7 @@
+90,304,4
+371,1
+letter,1
+to,1
+puspha,1
+n,1
+naik,1

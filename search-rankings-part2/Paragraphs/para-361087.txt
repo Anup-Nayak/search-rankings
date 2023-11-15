@@ -1,0 +1,6 @@
+93,223,7
+1,1
+these,1
+are,1
+in,1
+devanagari,1

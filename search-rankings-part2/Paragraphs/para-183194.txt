@@ -1,0 +1,16 @@
+52,119,10
+2,1
+according,1
+to,1
+mahadev,1
+desai,1
+gandhiji,1
+wrote,1
+this,1
+message,1
+last,1
+monday,2
+may,1
+18,1
+was,1
+a,1

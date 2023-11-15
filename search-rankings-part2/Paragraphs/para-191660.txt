@@ -1,0 +1,11 @@
+54,95,3
+a,1
+carlyle,1
+walsh,1
+esq,1
+northam,1
+athenafeum,1
+road,1
+whetstone,1
+n,1
+20,1

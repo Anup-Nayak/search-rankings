@@ -1,0 +1,7 @@
+96,142,14
+1,1
+the,1
+address,1
+is,1
+in,1
+devanagari,1

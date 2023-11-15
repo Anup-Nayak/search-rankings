@@ -1,0 +1,5 @@
+65,462,3
+g,1
+laughing,1
+many,1
+are,1

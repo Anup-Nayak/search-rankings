@@ -1,0 +1,6 @@
+30,194,8
+q,1
+are,1
+you,1
+a,1
+zamindar,1

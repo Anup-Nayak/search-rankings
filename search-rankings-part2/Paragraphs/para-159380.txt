@@ -1,0 +1,8 @@
+46,136,7
+refuse,1
+terms,1
+dholka,1
+land,1
+if,1
+tanning,1
+prohibited,1

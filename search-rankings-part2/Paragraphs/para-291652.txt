@@ -1,0 +1,7 @@
+78,6,1
+7,1
+address,1
+to,1
+bengal,1
+women,1
+workers,1

@@ -1,0 +1,10 @@
+44,477,29
+t4,1
+guj,1
+has,1
+there,2
+was,2
+no,1
+noise,1
+and,1
+always,1

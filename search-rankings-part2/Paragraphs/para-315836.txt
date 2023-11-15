@@ -1,0 +1,13 @@
+82,418,19
+too,1
+cautious,1
+that,1
+was,1
+necessary,1
+for,2
+my,2
+own,1
+training,2
+and,1
+the,1
+of,1

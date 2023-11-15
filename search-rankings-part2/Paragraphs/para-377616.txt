@@ -1,0 +1,8 @@
+98,91,5
+76,1
+need,1
+for,1
+storing,1
+grain,1
+in,1
+villages,1

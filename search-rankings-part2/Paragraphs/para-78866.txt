@@ -1,0 +1,7 @@
+23,77,5
+32,1
+speeches,1
+in,1
+surat,1
+district,1
+2,1

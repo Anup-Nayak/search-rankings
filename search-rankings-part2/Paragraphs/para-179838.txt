@@ -1,0 +1,15 @@
+51,196,12
+political,1
+weapon,1
+and,1
+an,1
+assurance,1
+of,1
+complete,1
+freedom,1
+for,1
+cloth,1
+merchants,1
+to,1
+do,1
+what,1

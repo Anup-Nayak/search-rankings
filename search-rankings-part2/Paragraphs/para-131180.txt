@@ -1,0 +1,6 @@
+38,258,5
+255,1
+letter,1
+to,1
+janakidevi,1
+bajaj,1

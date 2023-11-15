@@ -1,0 +1,7 @@
+24,23,3
+non,1
+co,1
+operators,1
+cannot,1
+give,1
+evidence,1

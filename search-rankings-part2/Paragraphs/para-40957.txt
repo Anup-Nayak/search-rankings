@@ -1,0 +1,4 @@
+12,350,7
+november,1
+20,1
+wednesday,1

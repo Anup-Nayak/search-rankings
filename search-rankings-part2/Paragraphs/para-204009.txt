@@ -1,0 +1,10 @@
+57,115,9
+perfect,1
+peace,1
+no,1
+conditonal,1
+acceptance,1
+of,1
+the,1
+settlement,1
+will,1

@@ -1,0 +1,10 @@
+31,140,9
+1,1
+effort,1
+without,1
+desire,1
+the,2
+principal,1
+teaching,1
+of,1
+gita,1

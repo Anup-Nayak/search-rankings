@@ -1,0 +1,11 @@
+89,184,6
+muslim,1
+and,2
+the,2
+properietors,1
+hindu,1
+but,1
+in,1
+andhra,1
+both,1
+cultivators,1

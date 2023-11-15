@@ -1,0 +1,10 @@
+11,303,20
+fifteen,1
+1907,1
+no,1
+direct,1
+racial,1
+bar,1
+appears,1
+but,1
+as,1

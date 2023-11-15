@@ -1,0 +1,7 @@
+97,2,1
+4,1
+letter,1
+to,1
+sayed,1
+mahmud,1
+had,1

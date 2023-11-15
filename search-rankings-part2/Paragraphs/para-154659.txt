@@ -1,0 +1,8 @@
+44,499,17
+t5,1
+for,1
+complete,1
+frankness,1
+guj,1
+has,1
+truthfulness,1

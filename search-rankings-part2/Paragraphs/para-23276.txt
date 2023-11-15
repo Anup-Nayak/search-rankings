@@ -1,0 +1,6 @@
+8,40,9
+not,2
+under,1
+any,1
+law,1
+why,1

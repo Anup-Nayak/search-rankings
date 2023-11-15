@@ -1,0 +1,6 @@
+6,420,4
+362,1
+klerksdorp,1
+indians,1
+and,1
+smuts,1

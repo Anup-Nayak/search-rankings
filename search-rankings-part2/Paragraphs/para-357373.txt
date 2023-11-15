@@ -1,0 +1,13 @@
+92,300,8
+rent,1
+than,2
+real,1
+mill,1
+cloth,1
+is,1
+21,1
+2,1
+times,1
+cheaper,1
+khadi,1
+today,1

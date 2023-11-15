@@ -1,0 +1,10 @@
+77,34,7
+framed,1
+by,1
+her,1
+elected,1
+representatives,1
+after,1
+war,1
+this,1
+declaration,1

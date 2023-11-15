@@ -1,0 +1,7 @@
+7,67,2
+will,1
+newspapers,1
+be,1
+available,1
+in,1
+prison,1

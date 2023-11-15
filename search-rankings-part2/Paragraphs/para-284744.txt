@@ -1,0 +1,13 @@
+76,103,2
+said,1
+he,2
+could,2
+not,2
+in,1
+all,1
+conscience,1
+sign,1
+this,1
+endorse,1
+a,1
+falsehood,1

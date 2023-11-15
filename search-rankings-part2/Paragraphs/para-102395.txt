@@ -1,0 +1,6 @@
+30,170,5
+amritlal,1
+need,1
+not,1
+wait,1
+mohandas,1

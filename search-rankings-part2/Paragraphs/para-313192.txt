@@ -1,0 +1,7 @@
+82,278,8
+339,1
+interview,1
+to,1
+the,1
+news,1
+chronicle,1

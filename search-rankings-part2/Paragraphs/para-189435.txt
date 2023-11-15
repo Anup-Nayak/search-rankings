@@ -1,0 +1,10 @@
+53,315,12
+case,1
+will,1
+i,1
+leave,1
+europe,1
+without,1
+seeing,1
+you,1
+therefore,1

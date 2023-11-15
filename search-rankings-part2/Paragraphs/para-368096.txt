@@ -1,0 +1,9 @@
+95,195,6
+183,1
+speech,1
+at,1
+congress,1
+working,1
+committee,1
+meeting,1
+2,1

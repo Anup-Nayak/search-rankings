@@ -1,0 +1,6 @@
+47,27,1
+23,1
+if,1
+spinners,1
+also,1
+weave,1

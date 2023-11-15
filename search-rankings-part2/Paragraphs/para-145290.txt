@@ -1,0 +1,7 @@
+42,279,5
+fear,1
+you,1
+should,1
+shoulder,1
+burden,1
+especially,1

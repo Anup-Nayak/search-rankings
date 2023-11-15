@@ -1,0 +1,4 @@
+43,501,5
+hindi,1
+vishva,1
+kosh,1

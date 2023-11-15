@@ -1,0 +1,13 @@
+2,186,6
+from,1
+the,2
+photostat,1
+of,1
+office,1
+copy,1
+in,1
+gandhijis,1
+handwriting,1
+s,1
+n,1
+2730,1

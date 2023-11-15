@@ -1,0 +1,8 @@
+29,241,7
+203,1
+duty,1
+of,1
+a,1
+non,1
+co,1
+operator,1

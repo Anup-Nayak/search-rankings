@@ -1,0 +1,6 @@
+64,114,8
+150,1
+speech,1
+to,1
+harijans,1
+bhavnagar,1

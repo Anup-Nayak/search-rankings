@@ -1,0 +1,8 @@
+71,388,17
+1,1
+the,2
+superscription,1
+is,1
+in,2
+urdu,1
+source,1

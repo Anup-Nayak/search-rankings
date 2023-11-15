@@ -1,0 +1,16 @@
+37,139,4
+from,3
+food,2
+springs,1
+all,1
+life,1
+rain,2
+is,2
+born,1
+sacrifice,2
+comes,1
+and,1
+the,1
+result,1
+of,1
+action,1

@@ -1,0 +1,15 @@
+30,208,8
+sikandar,1
+shah,1
+saheb,2
+came,1
+up,1
+fortunately,1
+we,1
+were,1
+going,1
+to,1
+pir,1
+kamal,1
+he,1
+met,1

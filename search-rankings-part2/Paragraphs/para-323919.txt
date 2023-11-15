@@ -1,0 +1,12 @@
+85,11,7
+g,1
+does,1
+the,1
+a,2
+i,1
+s,1
+have,1
+about,1
+2,1
+000,1
+workers,1

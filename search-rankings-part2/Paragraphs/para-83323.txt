@@ -1,0 +1,3 @@
+24,335,5
+afflicted,1
+madras,1

@@ -1,0 +1,6 @@
+96,75,9
+114,1
+talk,1
+with,1
+chinese,1
+couple,1

@@ -1,0 +1,12 @@
+82,300,6
+control,1
+special,1
+police,1
+has,1
+been,1
+stationed,1
+in,2
+hundreds,1
+the,1
+affected,1
+areas,1

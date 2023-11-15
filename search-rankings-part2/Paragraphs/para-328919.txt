@@ -1,0 +1,10 @@
+86,26,16
+1,1
+this,1
+is,1
+in,1
+tamil,1
+script,1
+2,1
+addressees,1
+daughter,1

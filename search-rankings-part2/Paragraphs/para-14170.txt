@@ -1,0 +1,7 @@
+5,380,2
+343,1
+divine,1
+wrath,1
+on,1
+hong,1
+kong,1

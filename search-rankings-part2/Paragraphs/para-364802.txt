@@ -1,0 +1,13 @@
+94,200,5
+gandhiji,1
+man,1
+can,1
+only,1
+try,1
+the,2
+result,1
+is,1
+in,1
+hands,1
+of,1
+god,1

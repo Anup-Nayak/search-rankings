@@ -1,0 +1,7 @@
+22,360,9
+advisor,1
+interpreter,1
+hakimji,1
+dr,1
+ansari,1
+reaching,1

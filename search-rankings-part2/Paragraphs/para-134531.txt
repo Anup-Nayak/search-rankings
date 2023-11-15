@@ -1,0 +1,12 @@
+39,218,5
+some,1
+of,1
+the,1
+existing,1
+pinjrapoles,1
+with,1
+more,1
+or,1
+less,1
+permanent,1
+and,1

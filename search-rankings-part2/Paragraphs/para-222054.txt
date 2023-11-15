@@ -1,0 +1,12 @@
+61,105,13
+blessings,1
+from,1
+bapu,1
+shri,1
+bhujangilal,1
+chhaya,1
+porbandar,1
+state,1
+vakil,1
+rajkot,1
+kathiawar,1

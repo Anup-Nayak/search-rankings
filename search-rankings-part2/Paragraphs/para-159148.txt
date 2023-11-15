@@ -1,0 +1,11 @@
+46,107,22
+both,1
+inside,1
+and,2
+outside,1
+of,1
+parliament,1
+particularly,1
+the,1
+labour,1
+party,1

@@ -1,0 +1,10 @@
+83,105,2
+if,1
+you,2
+were,1
+convinced,1
+would,1
+call,1
+off,1
+the,1
+campaign,1

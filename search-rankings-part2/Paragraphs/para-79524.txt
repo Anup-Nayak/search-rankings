@@ -1,0 +1,15 @@
+23,196,12
+to,2
+buy,1
+it,1
+so,1
+that,1
+he,1
+would,1
+devote,1
+the,2
+sale,1
+proceeds,1
+tilak,1
+swaraj,1
+fund,1

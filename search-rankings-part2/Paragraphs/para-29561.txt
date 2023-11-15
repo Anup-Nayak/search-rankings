@@ -1,0 +1,3 @@
+9,471,1
+minor,1
+asiatics,1

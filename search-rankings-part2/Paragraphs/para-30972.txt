@@ -1,0 +1,14 @@
+10,147,7
+london,1
+october,1
+6,1
+1909,1
+sir,1
+francis,1
+j,1
+g,1
+hopwood,1
+colonial,1
+office,1
+s,1
+w,1

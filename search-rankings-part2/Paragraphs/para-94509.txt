@@ -1,0 +1,5 @@
+28,47,2
+not,1
+truly,1
+non,1
+violent,1

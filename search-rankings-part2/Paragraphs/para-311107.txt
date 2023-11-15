@@ -1,0 +1,14 @@
+82,103,24
+thinking,1
+that,2
+war,1
+is,2
+so,1
+damnable,1
+anyone,1
+who,1
+takes,1
+part,1
+in,1
+it,1
+damned,1

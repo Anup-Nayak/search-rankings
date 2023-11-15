@@ -1,0 +1,10 @@
+40,484,10
+q,1
+does,1
+not,1
+manusmriti,1
+contain,1
+a,1
+lot,1
+of,1
+injustice,1

@@ -1,0 +1,4 @@
+32,250,2
+a,1
+political,1
+sufferer,1

@@ -1,0 +1,12 @@
+64,68,14
+public,1
+schools,1
+without,1
+any,1
+discrimination,1
+being,1
+exercised,1
+against,1
+them,1
+as,1
+regards,1

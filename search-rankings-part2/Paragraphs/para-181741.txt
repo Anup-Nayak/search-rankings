@@ -1,0 +1,16 @@
+51,446,20
+political,1
+weapon,1
+and,1
+that,1
+in,1
+consequence,1
+those,1
+who,1
+have,1
+given,1
+up,1
+during,1
+a,1
+time,1
+of,1

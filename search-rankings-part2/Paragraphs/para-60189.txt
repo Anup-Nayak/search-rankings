@@ -1,0 +1,12 @@
+17,170,2
+1,1
+lokamanya,1
+bal,1
+gangadhar,1
+tilak,1
+1856,1
+1920,1
+patriot,1
+politician,1
+and,1
+scholar,1

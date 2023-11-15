@@ -1,0 +1,12 @@
+82,250,3
+q,1
+harijan,2
+service,1
+has,1
+really,1
+developed,1
+into,1
+mere,1
+uplift,1
+practically,1
+no,1

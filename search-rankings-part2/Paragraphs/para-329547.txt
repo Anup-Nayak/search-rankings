@@ -1,0 +1,4 @@
+86,84,11
+sardar,1
+kulwant,1
+singh,1

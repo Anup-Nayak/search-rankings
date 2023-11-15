@@ -1,0 +1,16 @@
+3,196,11
+do,1
+you,1
+think,2
+coolies,1
+are,2
+not,1
+subject,2
+to,1
+typhoid,1
+i,1
+should,1
+they,1
+as,2
+other,1
+people,1

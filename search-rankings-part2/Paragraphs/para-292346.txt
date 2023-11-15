@@ -1,0 +1,14 @@
+78,81,10
+we,1
+told,1
+him,1
+that,1
+there,1
+was,2
+no,1
+racial,1
+animosity,1
+against,1
+indians,1
+as,1
+made,1

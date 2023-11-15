@@ -1,0 +1,17 @@
+37,164,2
+as,1
+fire,1
+is,2
+obscured,2
+by,4
+smoke,1
+a,1
+mirror,1
+dirt,1
+and,1
+the,2
+embryo,1
+amnion,1
+so,1
+knowledge,1
+this,1

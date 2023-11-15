@@ -1,0 +1,13 @@
+46,364,9
+non,1
+violent,1
+prohibition,1
+is,1
+self,1
+contradictory,1
+could,1
+one,1
+frame,1
+a,1
+section,1
+of,1

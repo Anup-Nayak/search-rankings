@@ -1,0 +1,12 @@
+82,310,5
+position,1
+of,2
+stock,1
+food,1
+stuffs,1
+kerosine,1
+oil,1
+and,2
+salt,1
+other,1
+necessary,1

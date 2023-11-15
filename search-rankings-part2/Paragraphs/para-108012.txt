@@ -1,0 +1,4 @@
+32,9,4
+the,1
+correspondent,1
+writes,1

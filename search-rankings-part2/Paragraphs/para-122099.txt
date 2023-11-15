@@ -1,0 +1,6 @@
+36,96,2
+shri,1
+g,1
+kulkarni,1
+dakshinamurti,1
+bhavnagar,1

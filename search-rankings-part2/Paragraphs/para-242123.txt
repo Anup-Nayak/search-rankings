@@ -1,0 +1,6 @@
+66,23,7
+33,1
+letter,1
+to,1
+mirza,1
+ismail,1

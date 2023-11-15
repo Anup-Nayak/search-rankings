@@ -1,0 +1,6 @@
+82,182,10
+segaon,1
+via,1
+wardha,1
+c,1
+p,1

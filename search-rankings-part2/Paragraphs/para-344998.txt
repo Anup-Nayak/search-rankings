@@ -1,0 +1,4 @@
+89,278,2
+hindustani,1
+gujarati,1
+kosha,1

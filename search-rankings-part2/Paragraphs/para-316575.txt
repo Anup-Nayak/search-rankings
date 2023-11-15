@@ -1,0 +1,13 @@
+83,69,11
+says,1
+what,1
+about,1
+the,2
+public,1
+sentiment,1
+they,1
+somehow,1
+want,1
+to,1
+save,1
+cow,1

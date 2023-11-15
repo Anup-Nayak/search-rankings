@@ -1,0 +1,10 @@
+13,452,6
+state,1
+and,1
+the,2
+possible,1
+withdrawal,1
+of,1
+bill,1
+which,1
+is,1

@@ -1,0 +1,10 @@
+53,82,6
+q,1
+when,1
+do,1
+you,1
+expect,1
+these,1
+conditions,1
+to,1
+appear,1

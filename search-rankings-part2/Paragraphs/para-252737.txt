@@ -1,0 +1,11 @@
+68,160,2
+blessings,1
+from,1
+bapu,1
+shri,1
+dahyabhai,1
+manorbhai,1
+patel,1
+congress,1
+office,1
+dholka,1

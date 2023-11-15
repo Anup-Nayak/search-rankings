@@ -1,0 +1,6 @@
+25,492,7
+2,1
+traditional,1
+name,1
+for,1
+allahabad,1

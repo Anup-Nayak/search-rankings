@@ -1,0 +1,7 @@
+76,16,12
+frontier,1
+visit,1
+postponed,1
+reaching,1
+segaon,1
+eighth,1

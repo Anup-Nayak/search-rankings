@@ -1,0 +1,11 @@
+23,316,2
+if,1
+we,2
+find,1
+these,1
+questions,1
+answered,1
+in,1
+the,1
+affirmativeifbut,1
+shall,1

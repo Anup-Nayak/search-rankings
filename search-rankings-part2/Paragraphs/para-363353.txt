@@ -1,0 +1,9 @@
+94,39,2
+haimchar,1
+on,1
+or,1
+after,1
+feburary,1
+24,1
+1947,1
+1,1

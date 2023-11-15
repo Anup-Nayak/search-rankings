@@ -1,0 +1,13 @@
+59,398,14
+2,2
+resist,2
+untruth,2
+with,2
+truth,2
+and,1
+keeping,1
+the,1
+word,1
+vide,1
+26,1
+1933,1

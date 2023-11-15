@@ -1,0 +1,10 @@
+57,177,5
+m,1
+k,1
+gandhi,1
+smt,1
+khagendra,1
+priya,1
+barua,1
+nowgong,1
+assam,1

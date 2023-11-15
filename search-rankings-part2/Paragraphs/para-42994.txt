@@ -1,0 +1,4 @@
+13,147,9
+entered,1
+south,1
+africa,1

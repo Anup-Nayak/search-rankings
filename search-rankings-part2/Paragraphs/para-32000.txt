@@ -1,0 +1,7 @@
+10,310,12
+the,1
+white,1
+slaves,1
+of,1
+england,1
+sherard,1

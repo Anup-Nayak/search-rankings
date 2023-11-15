@@ -1,0 +1,8 @@
+14,0,30
+possibly,1
+urge,1
+acceptance,1
+this,1
+middle,1
+course,1
+which,1

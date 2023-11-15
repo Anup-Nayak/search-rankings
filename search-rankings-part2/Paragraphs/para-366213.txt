@@ -1,0 +1,4 @@
+94,376,2
+sadaquat,1
+ashram,1
+patna,1

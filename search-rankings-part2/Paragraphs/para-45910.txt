@@ -1,0 +1,11 @@
+14,8,8
+no,1
+further,1
+way,1
+out,1
+possible,1
+stop,1
+if,1
+we,1
+must,1
+lose,1

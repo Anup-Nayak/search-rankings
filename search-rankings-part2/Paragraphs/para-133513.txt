@@ -1,0 +1,6 @@
+39,66,10
+deshbandhu,1
+buildings,1
+mount,1
+road,1
+madras,1

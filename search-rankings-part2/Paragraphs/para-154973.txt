@@ -1,0 +1,4 @@
+45,9,6
+karachi,1
+till,1
+wednesday,1

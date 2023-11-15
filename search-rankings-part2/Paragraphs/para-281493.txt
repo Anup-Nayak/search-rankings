@@ -1,0 +1,8 @@
+75,203,12
+put,1
+before,1
+resident,1
+all,1
+facts,1
+you,1
+telegraphed,1

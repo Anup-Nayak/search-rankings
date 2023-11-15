@@ -1,0 +1,6 @@
+57,420,4
+do,1
+some,1
+thing,1
+remove,1
+untouchablity,1

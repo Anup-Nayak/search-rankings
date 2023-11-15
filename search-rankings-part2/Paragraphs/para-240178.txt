@@ -1,0 +1,4 @@
+65,300,2
+shri,1
+janammal,1
+madras,1

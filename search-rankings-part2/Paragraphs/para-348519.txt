@@ -1,0 +1,17 @@
+90,224,4
+c,1
+but,1
+then,1
+the,1
+governor,1
+general,1
+under,1
+that,1
+system,1
+was,1
+an,1
+autocrat,1
+and,1
+exercised,1
+all,1
+powers,1

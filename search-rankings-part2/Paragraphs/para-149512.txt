@@ -1,0 +1,6 @@
+43,285,1
+359,1
+hand,1
+spinning,1
+in,1
+mysore,1

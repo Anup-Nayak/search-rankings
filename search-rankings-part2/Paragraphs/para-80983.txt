@@ -1,0 +1,17 @@
+23,450,3
+1,1
+the,1
+comments,1
+which,1
+follow,1
+were,1
+appended,1
+to,1
+an,1
+article,1
+on,1
+this,1
+subject,1
+by,1
+vasantram,1
+shastri,1

@@ -1,0 +1,4 @@
+15,218,7
+majhi,1
+jivan,1
+katha,1

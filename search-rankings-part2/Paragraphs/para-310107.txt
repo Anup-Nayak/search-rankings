@@ -1,0 +1,12 @@
+82,22,16
+should,1
+start,1
+a,2
+few,1
+such,1
+schools,1
+first,1
+of,1
+all,1
+as,1
+trial,1

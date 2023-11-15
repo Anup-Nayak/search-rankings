@@ -1,0 +1,10 @@
+21,475,12
+non,3
+co,3
+operation,2
+his,1
+had,1
+no,1
+similarity,1
+with,1
+the,1

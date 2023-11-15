@@ -1,0 +1,12 @@
+52,50,6
+konda,1
+venkatappayya,1
+guntur,1
+madras,1
+presidency,1
+from,1
+a,1
+microfilm,1
+s,1
+n,1
+17041,1

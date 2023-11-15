@@ -1,0 +1,17 @@
+15,85,15
+3,1
+this,1
+evidently,1
+was,1
+drafted,1
+before,1
+telegram,1
+to,2
+v,2
+g,2
+desai,2
+and,1
+letter,1
+21,1
+12,1
+1915,1

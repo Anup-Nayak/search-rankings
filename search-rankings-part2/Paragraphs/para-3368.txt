@@ -1,0 +1,14 @@
+2,121,4
+3,1
+indians,1
+unlike,1
+europeans,1
+when,1
+driving,1
+cattle,1
+must,1
+be,1
+provided,1
+with,1
+certain,1
+passes,1

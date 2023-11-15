@@ -1,0 +1,7 @@
+91,10,1
+10,1
+nature,1
+cure,1
+in,1
+kanchangaon,1
+1,1

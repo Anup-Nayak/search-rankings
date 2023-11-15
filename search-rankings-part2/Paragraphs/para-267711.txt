@@ -1,0 +1,4 @@
+72,75,4
+111,1
+criticism,1
+answered,1

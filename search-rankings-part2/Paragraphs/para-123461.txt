@@ -1,0 +1,10 @@
+36,246,3
+sammelan,1
+ready,1
+come,1
+here,1
+about,1
+tuesday,1
+are,1
+you,1
+free,1

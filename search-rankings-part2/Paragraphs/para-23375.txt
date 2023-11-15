@@ -1,0 +1,5 @@
+8,52,4
+deportation,1
+out,1
+of,1
+question,1

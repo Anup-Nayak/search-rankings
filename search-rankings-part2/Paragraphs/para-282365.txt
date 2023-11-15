@@ -1,0 +1,16 @@
+75,302,10
+a,1
+there,2
+could,1
+be,1
+no,2
+resignations,1
+without,1
+reference,1
+to,1
+the,1
+president,1
+is,1
+question,1
+of,1
+insubordination,1

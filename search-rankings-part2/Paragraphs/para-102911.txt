@@ -1,0 +1,11 @@
+30,212,10
+q,1
+you,1
+went,1
+in,1
+motor,1
+car,1
+at,1
+half,1
+past,1
+one,1

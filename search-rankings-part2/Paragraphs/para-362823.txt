@@ -1,0 +1,13 @@
+93,410,10
+the,2
+demands,1
+were,1
+now,1
+examined,1
+one,2
+by,1
+in,1
+place,1
+of,1
+demand,1
+that,1

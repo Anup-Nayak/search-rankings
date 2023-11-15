@@ -1,0 +1,6 @@
+51,98,9
+black,1
+repression,1
+continues,1
+unabated,1
+unprovoked,1

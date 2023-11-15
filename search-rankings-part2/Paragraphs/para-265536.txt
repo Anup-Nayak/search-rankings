@@ -1,0 +1,6 @@
+71,274,2
+304,1
+religious,2
+oath,1
+and,1
+non,1

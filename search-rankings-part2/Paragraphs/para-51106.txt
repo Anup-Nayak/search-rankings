@@ -1,0 +1,14 @@
+15,100,9
+dinner,1
+with,1
+bohra,1
+friends,1
+social,1
+service,1
+league,1
+5,1
+womens,1
+meeting,1
+arya,1
+vaishya,1
+sabha,1

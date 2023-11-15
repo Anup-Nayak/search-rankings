@@ -1,0 +1,14 @@
+96,101,8
+trees,1
+etc,1
+are,1
+not,1
+visible,1
+except,1
+as,1
+chumps,1
+of,1
+grass,1
+here,1
+and,1
+there,1

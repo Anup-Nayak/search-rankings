@@ -1,0 +1,13 @@
+64,141,4
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+g,1
+n,1
+7286,1
+courtesy,1
+kanti,1
+gandhi,1

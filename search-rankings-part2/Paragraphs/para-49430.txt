@@ -1,0 +1,8 @@
+14,454,3
+two,1
+other,1
+vows,1
+follow,1
+from,1
+the,1
+foregoing,1

@@ -1,0 +1,8 @@
+15,146,5
+bapu,1
+bhai,1
+maganbhai,1
+patel,1
+satyagraha,1
+ashram,1
+ahmedabad,1

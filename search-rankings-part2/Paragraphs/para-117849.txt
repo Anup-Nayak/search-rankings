@@ -1,0 +1,8 @@
+35,54,8
+87,1
+letter,1
+to,1
+bagala,1
+prasanna,1
+guha,1
+roy,1

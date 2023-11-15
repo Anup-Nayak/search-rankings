@@ -1,0 +1,14 @@
+62,168,11
+1,1
+rameshwarlal,1
+bazaj,1
+2,1
+some,1
+of,2
+the,1
+women,1
+workers,1
+had,1
+complained,1
+scanty,1
+wages,1

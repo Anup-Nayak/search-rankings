@@ -1,0 +1,11 @@
+73,99,5
+q,1
+but,1
+why,1
+not,1
+parcel,1
+out,1
+the,2
+land,1
+among,1
+tillers,1

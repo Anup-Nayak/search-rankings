@@ -1,0 +1,8 @@
+64,5,2
+6,1
+letter,1
+to,1
+amrit,1
+lal,1
+chatterjee,1
+1,1

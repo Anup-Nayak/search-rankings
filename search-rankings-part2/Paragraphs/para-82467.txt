@@ -1,0 +1,14 @@
+24,195,5
+1,1
+1863,1
+1931,1
+lawyer,1
+and,1
+politician,1
+twice,1
+president,1
+of,1
+the,1
+indian,1
+national,1
+congress,1

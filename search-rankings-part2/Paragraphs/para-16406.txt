@@ -1,0 +1,9 @@
+6,115,9
+j,1
+d,1
+rees,1
+esq,1
+craegynog,1
+new,1
+town,1
+montgomeryshire,1

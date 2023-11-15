@@ -1,0 +1,10 @@
+62,269,9
+300,1
+letter,1
+to,1
+kasturba,1
+gandhi,1
+delhi,1
+december,1
+12,1
+1933,1

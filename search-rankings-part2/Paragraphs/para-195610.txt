@@ -1,0 +1,6 @@
+55,86,2
+bapu,1
+my,1
+dear,1
+child,1
+p,1

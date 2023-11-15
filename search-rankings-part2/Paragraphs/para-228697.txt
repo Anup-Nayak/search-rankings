@@ -1,0 +1,13 @@
+62,383,4
+1,1
+a,1
+gujarati,1
+version,1
+of,1
+this,1
+appeared,1
+in,1
+harijanbandhu,1
+31,1
+12,1
+1933,1

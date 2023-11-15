@@ -1,0 +1,11 @@
+95,290,7
+1,1
+what,1
+follows,1
+is,1
+from,1
+the,1
+hindu,1
+2,1
+for,1
+health,1

@@ -1,0 +1,7 @@
+30,446,2
+m,1
+k,1
+g,1
+mr,1
+gandhis,1
+statement,1

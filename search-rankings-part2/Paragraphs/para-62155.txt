@@ -1,0 +1,7 @@
+17,402,9
+vocation,1
+rushed,1
+towards,1
+bristol,1
+hotel,1
+threw,1

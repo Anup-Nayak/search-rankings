@@ -1,0 +1,12 @@
+52,424,16
+industrial,1
+towns,1
+a,2
+few,1
+thousands,1
+of,2
+shareholders,1
+and,2
+smaller,1
+number,1
+agents,1

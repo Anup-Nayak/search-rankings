@@ -1,0 +1,7 @@
+77,158,2
+188,1
+letter,1
+to,1
+nalini,1
+ranjan,1
+sarkar,1

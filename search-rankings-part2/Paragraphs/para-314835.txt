@@ -1,0 +1,14 @@
+82,389,18
+dominion,1
+equal,1
+in,1
+every,1
+respect,1
+to,1
+the,2
+united,1
+kingdom,1
+and,1
+other,1
+dominions,1
+of,1

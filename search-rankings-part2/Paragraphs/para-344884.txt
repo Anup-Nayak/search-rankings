@@ -1,0 +1,10 @@
+89,257,13
+1,1
+the,1
+addressee,1
+had,2
+dysentery,1
+and,1
+refused,1
+medical,1
+treatment,1

@@ -1,0 +1,7 @@
+53,34,10
+attire,1
+when,1
+visiting,1
+england,1
+or,1
+america,1

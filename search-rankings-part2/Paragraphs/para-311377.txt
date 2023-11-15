@@ -1,0 +1,15 @@
+82,126,13
+the,1
+following,1
+has,1
+been,1
+sent,1
+to,1
+me,1
+by,1
+maharaj,1
+kumar,1
+vijaya,1
+anand,1
+of,1
+vizianagram,1

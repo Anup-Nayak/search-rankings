@@ -1,0 +1,12 @@
+61,487,9
+6,1
+government,1
+are,1
+not,1
+aware,1
+what,1
+mr,1
+gandhi,1
+means,1
+by,1
+saying,1

@@ -1,0 +1,16 @@
+30,228,7
+wire,1
+lalajis,1
+health,1
+post,1
+names,1
+and,1
+other,1
+praticulars,1
+two,1
+persons,1
+murdered,1
+near,1
+kohat,1
+ninth,1
+september,1

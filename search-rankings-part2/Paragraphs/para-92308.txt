@@ -1,0 +1,6 @@
+27,237,1
+240,1
+satyagraha,1
+and,1
+caste,1
+reform,1

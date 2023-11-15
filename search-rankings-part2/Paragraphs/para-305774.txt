@@ -1,0 +1,14 @@
+81,59,9
+q,1
+is,2
+the,1
+satyagraha,1
+movement,1
+proceeding,1
+to,1
+your,1
+satisfaction,1
+in,1
+what,1
+way,1
+it,1

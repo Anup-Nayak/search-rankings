@@ -1,0 +1,14 @@
+16,99,19
+social,1
+reform,1
+and,1
+religion,1
+seemed,1
+to,2
+be,1
+quite,1
+simple,1
+matters,1
+the,1
+leaders,1
+of,1

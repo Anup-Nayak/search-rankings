@@ -1,0 +1,7 @@
+22,418,3
+222,1
+all,1
+india,1
+tilak,1
+swaraj,1
+fund,1

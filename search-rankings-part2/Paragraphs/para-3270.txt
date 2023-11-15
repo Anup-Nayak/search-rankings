@@ -1,0 +1,15 @@
+2,109,15
+gandhi,1
+we,1
+think,1
+might,1
+make,1
+greater,1
+allowance,1
+for,1
+the,1
+fact,1
+that,1
+as,1
+whole,1
+his,1

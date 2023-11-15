@@ -1,0 +1,6 @@
+14,486,6
+the,1
+orange,1
+free,1
+state,1
+question,1

@@ -1,0 +1,13 @@
+82,380,3
+you,3
+are,3
+having,1
+a,1
+stre,1
+nuous,1
+time,1
+i,1
+hope,1
+not,1
+overdoing,1
+it,1

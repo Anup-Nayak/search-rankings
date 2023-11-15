@@ -1,0 +1,6 @@
+64,249,2
+1,1
+devanavakacharya,1
+had,1
+just,1
+arrived,1

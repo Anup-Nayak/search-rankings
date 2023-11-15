@@ -1,0 +1,7 @@
+5,40,9
+3,1
+hormsgy,1
+idolgy,1
+in,1
+the,1
+original,1

@@ -1,0 +1,7 @@
+98,114,4
+105,1
+letter,1
+to,1
+niranjan,1
+singh,1
+gill,1

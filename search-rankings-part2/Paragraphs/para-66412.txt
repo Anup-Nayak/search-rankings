@@ -1,0 +1,6 @@
+19,82,4
+lahore,1
+monday,1
+october,1
+27,1
+1919,1

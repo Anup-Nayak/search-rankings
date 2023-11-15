@@ -1,0 +1,6 @@
+73,396,8
+blessing,1
+from,1
+m,1
+k,1
+gandhi,1

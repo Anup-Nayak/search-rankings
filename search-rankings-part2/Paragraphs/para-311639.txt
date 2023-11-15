@@ -1,0 +1,11 @@
+82,149,6
+q,1
+in,2
+the,3
+instructions,1
+issued,1
+by,1
+working,1
+committee,1
+of,1
+congress,1

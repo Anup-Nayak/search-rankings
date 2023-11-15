@@ -1,0 +1,6 @@
+41,20,1
+24,1
+letter,1
+to,1
+harjivan,1
+kotak,1

@@ -1,0 +1,17 @@
+9,313,3
+1,1
+the,1
+gujarati,1
+saying,1
+used,1
+here,1
+literally,1
+means,1
+a,1
+squint,1
+eyed,1
+uncle,2
+is,1
+better,1
+than,1
+no,1

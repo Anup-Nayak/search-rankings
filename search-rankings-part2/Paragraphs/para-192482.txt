@@ -1,0 +1,7 @@
+54,213,4
+there,1
+till,1
+eleventh,1
+sailing,1
+venice,1
+cracovia,1

@@ -1,0 +1,8 @@
+83,168,1
+188,1
+draft,1
+instructions,1
+for,1
+civil,1
+resisters,1
+1,1

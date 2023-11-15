@@ -1,0 +1,7 @@
+53,120,10
+taken,1
+and,1
+none,1
+without,1
+first,1
+informing,1

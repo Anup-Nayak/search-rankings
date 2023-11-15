@@ -1,0 +1,5 @@
+92,206,7
+a,1
+congress,1
+worker,1
+asks,1

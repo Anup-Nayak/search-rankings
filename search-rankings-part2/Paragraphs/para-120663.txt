@@ -1,0 +1,5 @@
+35,390,2
+liquor,1
+shops,1
+and,1
+parsis,1

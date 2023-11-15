@@ -1,0 +1,8 @@
+50,165,5
+from,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+32733,1

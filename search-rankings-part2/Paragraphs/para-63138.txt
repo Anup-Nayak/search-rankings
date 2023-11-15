@@ -1,0 +1,9 @@
+18,47,23
+bail,1
+too,1
+was,1
+refused,1
+it,1
+is,1
+conjectured,1
+that,1

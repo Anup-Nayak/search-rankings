@@ -1,0 +1,7 @@
+13,426,9
+suspend,1
+passive,1
+resistance,1
+pending,1
+finding,1
+commission,1

@@ -1,0 +1,10 @@
+21,11,7
+8,1
+letter,1
+to,1
+the,1
+press,1
+on,1
+non,1
+co,1
+operation,1

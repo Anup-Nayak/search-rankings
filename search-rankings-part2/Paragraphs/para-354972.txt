@@ -1,0 +1,7 @@
+92,35,6
+plans,1
+uncertain,1
+do,1
+not,1
+come,1
+now,1

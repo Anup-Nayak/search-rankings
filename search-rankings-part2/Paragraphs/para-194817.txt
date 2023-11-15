@@ -1,0 +1,8 @@
+54,463,10
+government,1
+to,2
+take,1
+all,1
+possible,1
+measures,1
+prevent,1

@@ -1,0 +1,12 @@
+93,1,10
+a,2
+worker,1
+but,1
+here,1
+we,1
+are,1
+mere,1
+drop,1
+in,1
+the,1
+ocean,1

@@ -1,0 +1,7 @@
+57,62,11
+silence,1
+day,1
+morning,1
+september,1
+19,1
+1932,1

@@ -1,0 +1,7 @@
+29,212,10
+me,1
+do,2
+that,1
+pray,1
+not,1
+worry,1

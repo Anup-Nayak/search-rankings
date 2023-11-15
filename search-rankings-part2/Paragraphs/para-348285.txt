@@ -1,0 +1,14 @@
+90,199,2
+1,1
+this,1
+sentence,1
+and,1
+the,1
+paragraph,1
+that,1
+precedes,1
+are,1
+translated,1
+from,1
+harijan,1
+sevak,1

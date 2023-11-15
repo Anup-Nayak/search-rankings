@@ -1,0 +1,11 @@
+20,440,4
+11,1
+turkey,1
+recognizes,1
+the,1
+french,1
+protectorate,1
+over,1
+morocco,1
+and,1
+tunisia,1

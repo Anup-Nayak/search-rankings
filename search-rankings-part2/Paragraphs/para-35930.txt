@@ -1,0 +1,9 @@
+11,268,5
+have,1
+sent,1
+wires,1
+1,1
+following,1
+quinn,1
+wyndham,1
+t,1

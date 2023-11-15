@@ -1,0 +1,5 @@
+71,11,6
+9,1
+letter,1
+to,1
+sampurnanand,1

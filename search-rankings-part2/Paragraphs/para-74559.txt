@@ -1,0 +1,12 @@
+21,354,12
+operation,1
+programme,1
+but,1
+it,1
+was,2
+necessary,1
+to,1
+distinguish,1
+his,1
+object,1
+the,1

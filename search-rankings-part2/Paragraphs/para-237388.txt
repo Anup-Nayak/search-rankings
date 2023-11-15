@@ -1,0 +1,12 @@
+64,452,15
+your,1
+speeches,1
+in,2
+framing,1
+the,2
+future,1
+constitution,1
+since,1
+final,1
+determination,1
+of,1

@@ -1,0 +1,12 @@
+30,343,12
+1,1
+one,1
+of,2
+gandhijis,1
+co,1
+workers,1
+in,1
+the,1
+champaran,1
+campaign,1
+1917,1

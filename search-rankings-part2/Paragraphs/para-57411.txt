@@ -1,0 +1,5 @@
+16,375,3
+thoughts,1
+on,1
+national,1
+language,1

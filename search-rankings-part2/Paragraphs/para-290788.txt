@@ -1,0 +1,10 @@
+77,353,2
+1,1
+author,1
+of,1
+arthashastra,1
+a,1
+treatise,1
+on,1
+political,1
+science,1

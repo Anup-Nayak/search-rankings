@@ -1,0 +1,12 @@
+21,476,10
+concluding,1
+mr,1
+gandhi,1
+told,1
+them,1
+that,1
+the,1
+present,1
+universities,1
+and,1
+colleges,1

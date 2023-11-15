@@ -1,0 +1,7 @@
+44,283,2
+chapter,1
+iv,1
+quickened,1
+spirit,1
+of,1
+sacrifice,1

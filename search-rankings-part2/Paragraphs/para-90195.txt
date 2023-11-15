@@ -1,0 +1,12 @@
+26,452,4
+1,1
+this,1
+and,1
+the,1
+following,1
+are,1
+titles,1
+of,1
+books,1
+in,1
+gujarati,1

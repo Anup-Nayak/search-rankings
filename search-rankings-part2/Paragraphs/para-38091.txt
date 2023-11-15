@@ -1,0 +1,8 @@
+11,493,1
+settlement,1
+in,1
+interests,1
+south,1
+africa,1
+and,1
+empire,1

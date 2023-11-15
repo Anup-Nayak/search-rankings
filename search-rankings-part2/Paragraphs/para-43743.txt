@@ -1,0 +1,5 @@
+13,243,6
+the,1
+immigration,1
+officer,1
+pretoria,1

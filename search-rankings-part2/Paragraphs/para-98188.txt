@@ -1,0 +1,17 @@
+29,101,10
+m,1
+k,1
+g,1
+ps,1
+i,2
+have,1
+your,1
+wire,1
+need,1
+hardly,1
+add,1
+anything,1
+to,1
+the,1
+fore,1
+going,1

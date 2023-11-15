@@ -1,0 +1,7 @@
+42,38,4
+52,1
+history,1
+of,1
+south,1
+african,1
+satyagraha,1

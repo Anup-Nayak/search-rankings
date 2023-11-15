@@ -1,0 +1,9 @@
+28,478,4
+these,1
+conditions,1
+one,1
+of,1
+which,1
+may,1
+be,1
+selected,1

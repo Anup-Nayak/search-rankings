@@ -1,0 +1,9 @@
+35,370,3
+m,1
+k,1
+gandhi,1
+lala,1
+girdharilal,1
+chamberlain,1
+road,1
+lahore,1

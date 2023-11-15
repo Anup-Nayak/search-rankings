@@ -1,0 +1,10 @@
+45,15,3
+1,1
+slave,1
+girls,1
+or,1
+maid,1
+servants,1
+2,1
+dowry,1
+system,1

@@ -1,0 +1,7 @@
+10,53,4
+gandhiji,2
+na,1
+patro,1
+and,1
+ni,1
+sadhna,1

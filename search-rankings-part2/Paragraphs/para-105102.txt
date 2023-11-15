@@ -1,0 +1,4 @@
+31,77,2
+simplicity,1
+and,1
+peasants,1

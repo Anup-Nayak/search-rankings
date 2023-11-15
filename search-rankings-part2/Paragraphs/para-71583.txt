@@ -1,0 +1,8 @@
+20,329,5
+114,1
+press,1
+statement,1
+on,1
+turkish,1
+peace,1
+terms,1

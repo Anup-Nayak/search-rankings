@@ -1,0 +1,12 @@
+36,241,10
+from,1
+a,1
+photostat,1
+c,1
+w,1
+11341,1
+courtesy,1
+mrs,1
+eunice,1
+jones,1
+mathew,1

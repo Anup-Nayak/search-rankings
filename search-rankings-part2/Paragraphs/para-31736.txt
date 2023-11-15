@@ -1,0 +1,10 @@
+10,265,1
+pindaris,1
+1,1
+and,1
+the,2
+bhils,1
+2,1
+were,1
+to,1
+country,1

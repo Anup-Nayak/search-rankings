@@ -1,0 +1,17 @@
+32,46,1
+b,1
+to,1
+promote,1
+spinning,1
+weaving,1
+tailoring,1
+needle,1
+works,1
+and,1
+other,1
+handicrafts,1
+by,1
+establishing,1
+a,1
+nari,1
+silpasram,1

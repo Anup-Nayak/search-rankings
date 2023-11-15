@@ -1,0 +1,13 @@
+31,153,4
+do,1
+you,1
+agree,1
+with,1
+the,2
+interpretation,1
+put,1
+by,1
+anglo,1
+indians,1
+and,1
+europeans,1

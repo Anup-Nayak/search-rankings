@@ -1,0 +1,11 @@
+51,287,12
+total,1
+prohibition,1
+of,3
+alcoholic,1
+drinks,1
+the,3
+abolition,1
+salt,1
+tax,1
+reduction,1

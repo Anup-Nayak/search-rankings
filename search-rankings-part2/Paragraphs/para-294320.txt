@@ -1,0 +1,11 @@
+78,270,11
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10159,1
+courtesy,1
+gorur,1
+ramaswami,1
+iyengar,1

@@ -1,0 +1,5 @@
+72,101,3
+139,1
+telegram,1
+to,1
+amtussalaam,1

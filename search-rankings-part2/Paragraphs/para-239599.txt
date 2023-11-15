@@ -1,0 +1,10 @@
+65,238,2
+the,2
+new,1
+changes,1
+had,1
+not,1
+been,1
+thrust,1
+on,1
+speaker,1

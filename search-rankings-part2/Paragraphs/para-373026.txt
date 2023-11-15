@@ -1,0 +1,10 @@
+96,379,7
+returning,1
+evil,3
+for,2
+religion,1
+taught,1
+us,1
+to,1
+return,1
+good,1

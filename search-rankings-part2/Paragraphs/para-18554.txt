@@ -1,0 +1,5 @@
+6,368,21
+indecisive,1
+sympathetic,1
+influences,1
+working,1

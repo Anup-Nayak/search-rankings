@@ -1,0 +1,8 @@
+23,198,7
+93,1
+reply,1
+to,1
+addresses,1
+at,1
+bijapur,1
+1,1

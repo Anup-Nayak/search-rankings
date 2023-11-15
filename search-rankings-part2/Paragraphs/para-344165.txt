@@ -1,0 +1,7 @@
+89,178,3
+gandhiji,1
+then,1
+proceeded,1
+to,1
+answer,1
+questions,1

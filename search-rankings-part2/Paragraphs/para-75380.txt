@@ -1,0 +1,12 @@
+21,499,22
+platform,1
+and,2
+on,1
+the,3
+lips,1
+of,3
+leaders,2
+this,1
+movement,1
+when,1
+a,1

@@ -1,0 +1,10 @@
+57,126,8
+temples,1
+you,1
+know,1
+perhaps,1
+that,1
+kelappan,1
+has,1
+been,1
+fasting,1

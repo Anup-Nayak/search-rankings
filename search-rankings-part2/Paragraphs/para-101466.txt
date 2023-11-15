@@ -1,0 +1,6 @@
+30,5,6
+resolution,1
+x,1
+national,1
+educational,1
+institutions,1

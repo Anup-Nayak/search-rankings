@@ -1,0 +1,16 @@
+25,17,8
+1,1
+viz,1
+kama,1
+krodha,1
+lobha,1
+mada,1
+moha,1
+and,2
+matsara,1
+lust,1
+anger,1
+greed,1
+intoxication,1
+delusion,1
+jealousy,1

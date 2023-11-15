@@ -1,0 +1,11 @@
+67,276,15
+1,1
+craft,1
+teacher,1
+for,1
+spinning,1
+and,1
+weaving,1
+at,1
+sabarmati,1
+ashram,1

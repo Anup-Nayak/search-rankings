@@ -1,0 +1,5 @@
+21,82,3
+ghulam,1
+rasool,1
+khilafat,1
+multan,1

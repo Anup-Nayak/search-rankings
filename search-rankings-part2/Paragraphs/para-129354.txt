@@ -1,0 +1,15 @@
+38,28,14
+first,1
+of,2
+all,1
+do,1
+you,1
+think,1
+or,1
+not,1
+that,1
+the,1
+essence,1
+true,2
+swaraj,1
+self,1

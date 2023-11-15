@@ -1,0 +1,11 @@
+23,292,11
+coming,1
+to,1
+the,3
+charkhas,1
+mahatma,1
+gandhi,1
+said,1
+through,1
+charkha,1
+whole,1

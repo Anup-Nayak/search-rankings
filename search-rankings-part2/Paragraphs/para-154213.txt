@@ -1,0 +1,7 @@
+44,483,29
+t1,1
+guj,1
+has,1
+loyalty,1
+and,1
+nursing,1

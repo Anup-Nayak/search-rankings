@@ -1,0 +1,9 @@
+20,252,1
+57,1
+press,1
+statement,1
+on,1
+the,1
+turkish,1
+treaty,1
+1,1

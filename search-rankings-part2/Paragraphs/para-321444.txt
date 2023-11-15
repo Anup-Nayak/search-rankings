@@ -1,0 +1,12 @@
+84,223,21
+do,1
+so,1
+even,1
+if,2
+my,2
+power,1
+is,1
+revived,1
+after,1
+discharge,1
+government,1

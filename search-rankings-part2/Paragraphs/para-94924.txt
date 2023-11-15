@@ -1,0 +1,11 @@
+28,115,3
+1,1
+monk,1
+2,1
+follower,1
+of,2
+the,2
+jain,2
+religion,2
+3,1
+founder,1

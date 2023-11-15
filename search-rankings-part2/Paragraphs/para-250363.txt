@@ -1,0 +1,5 @@
+67,356,3
+557,1
+self,1
+sufficing,1
+khadi,1

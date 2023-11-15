@@ -1,0 +1,7 @@
+6,534,8
+title,1
+and,1
+date,1
+of,1
+taking,1
+effect,1

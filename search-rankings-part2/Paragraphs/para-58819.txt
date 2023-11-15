@@ -1,0 +1,13 @@
+16,517,12
+do,2
+you,2
+want,1
+to,2
+destroy,1
+your,3
+property,1
+by,1
+own,1
+hands,1
+wish,1
+lose,1

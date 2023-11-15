@@ -1,0 +1,14 @@
+16,34,5
+c,1
+the,2
+actual,1
+rate,1
+of,1
+sharahbeshi,1
+which,1
+had,1
+been,1
+taken,1
+in,2
+concern,1
+or,1

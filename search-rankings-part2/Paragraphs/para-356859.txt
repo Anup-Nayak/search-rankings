@@ -1,0 +1,4 @@
+92,243,10
+yours,1
+amrit,1
+kaur,1

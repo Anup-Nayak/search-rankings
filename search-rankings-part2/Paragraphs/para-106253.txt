@@ -1,0 +1,12 @@
+31,243,4
+claimed,1
+to,1
+know,1
+something,1
+of,2
+agriculture,1
+he,1
+had,1
+considerable,1
+experience,1
+the,1

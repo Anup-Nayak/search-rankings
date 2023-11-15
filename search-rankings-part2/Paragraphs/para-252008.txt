@@ -1,0 +1,4 @@
+68,86,10
+from,1
+gujarati,1
+shrimadrajachandra,1

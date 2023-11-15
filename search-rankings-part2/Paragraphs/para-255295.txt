@@ -1,0 +1,16 @@
+68,442,12
+automata,1
+and,2
+drudges,1
+in,2
+the,1
+mill,1
+area,1
+half,1
+their,1
+wages,1
+again,1
+are,1
+consumed,1
+drink,1
+prostitution,1

@@ -1,0 +1,13 @@
+7,446,12
+asiatics,1
+including,1
+british,1
+indians,1
+are,1
+excluded,1
+from,1
+both,1
+political,1
+and,1
+municipal,1
+privileges,1

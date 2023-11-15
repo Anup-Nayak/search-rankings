@@ -1,0 +1,17 @@
+87,123,8
+bapu,1
+ps,1
+you,2
+must,1
+not,1
+allow,1
+gope,1
+1,1
+or,1
+his,1
+wife,1
+to,1
+be,1
+a,1
+load,1
+on,1

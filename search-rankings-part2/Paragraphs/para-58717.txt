@@ -1,0 +1,8 @@
+16,509,10
+w,1
+s,1
+irwins,1
+letter,1
+to,1
+the,1
+statesman,1

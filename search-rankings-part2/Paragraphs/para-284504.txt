@@ -1,0 +1,6 @@
+76,74,5
+96,1
+parsis,1
+and,1
+liquor,1
+traffic,1

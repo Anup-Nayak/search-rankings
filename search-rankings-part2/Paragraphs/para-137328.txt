@@ -1,0 +1,17 @@
+40,144,8
+i,2
+hope,1
+medh,1
+and,1
+you,1
+are,1
+keeping,1
+good,1
+health,1
+have,1
+been,1
+travelling,1
+for,1
+some,1
+time,1
+now,1

@@ -1,0 +1,6 @@
+36,114,5
+129,1
+the,1
+hydra,1
+headed,1
+monster,1

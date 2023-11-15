@@ -1,0 +1,8 @@
+79,296,1
+280,1
+plain,1
+living,1
+and,1
+high,1
+thinking,1
+1,1

@@ -1,0 +1,6 @@
+70,418,11
+my,1
+affection,1
+to,1
+you,1
+both,1

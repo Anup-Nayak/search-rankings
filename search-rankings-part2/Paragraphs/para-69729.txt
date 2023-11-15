@@ -1,0 +1,6 @@
+20,30,9
+pandit,1
+m,2
+malaviya,1
+william,1
+vincent,1

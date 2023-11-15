@@ -1,0 +1,11 @@
+71,43,6
+lecturing,1
+this,2
+term,1
+but,1
+morning,1
+the,1
+paper,1
+exceeded,1
+my,1
+highest,1

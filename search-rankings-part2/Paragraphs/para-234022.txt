@@ -1,0 +1,12 @@
+64,72,9
+just,1
+read,1
+sad,1
+news,1
+5,1
+such,1
+was,1
+gods,1
+will,1
+i,1
+know,1

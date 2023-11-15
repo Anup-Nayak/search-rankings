@@ -1,0 +1,8 @@
+6,347,4
+reuter,1
+send,1
+full,1
+report,1
+proceedings,1
+mass,1
+meeting,1

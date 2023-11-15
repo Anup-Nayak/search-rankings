@@ -1,0 +1,3 @@
+72,253,4
+legalized,1
+prostitution,1

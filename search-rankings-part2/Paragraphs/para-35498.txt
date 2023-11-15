@@ -1,0 +1,10 @@
+11,231,7
+who,1
+may,1
+pass,1
+education,1
+test,1
+will,1
+be,1
+able,1
+enter,1

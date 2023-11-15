@@ -1,0 +1,5 @@
+77,98,5
+complete,1
+get,1
+thoroughly,1
+well,1

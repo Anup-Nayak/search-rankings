@@ -1,0 +1,15 @@
+34,372,7
+life,1
+is,3
+an,1
+organic,1
+whole,1
+it,2
+the,1
+spirit,1
+that,1
+after,1
+all,1
+matters,1
+not,1
+a,1

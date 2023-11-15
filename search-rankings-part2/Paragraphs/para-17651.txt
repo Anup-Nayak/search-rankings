@@ -1,0 +1,17 @@
+6,257,6
+2,1
+one,1
+should,1
+not,1
+belch,1
+hiccup,1
+break,1
+wind,1
+or,1
+scratch,1
+oneself,1
+in,1
+the,1
+presence,1
+of,1
+others,1

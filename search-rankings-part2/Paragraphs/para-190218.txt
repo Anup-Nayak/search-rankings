@@ -1,0 +1,14 @@
+53,426,2
+463,1
+letter,1
+to,1
+sir,1
+samuel,1
+hoare,1
+88,1
+knightsbridge,1
+london,1
+w,1
+september,1
+28,1
+1931,1

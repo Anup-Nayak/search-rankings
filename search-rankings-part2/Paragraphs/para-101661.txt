@@ -1,0 +1,6 @@
+30,43,6
+30,1
+letter,1
+to,1
+kapil,1
+thakkar,1

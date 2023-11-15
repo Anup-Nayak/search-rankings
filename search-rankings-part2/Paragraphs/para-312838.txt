@@ -1,0 +1,6 @@
+82,248,15
+307,1
+statement,1
+on,1
+hindustani,1
+1,1

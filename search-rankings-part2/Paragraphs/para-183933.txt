@@ -1,0 +1,12 @@
+52,189,19
+spiritual,1
+religion,1
+in,1
+fact,1
+the,1
+whole,1
+christian,1
+community,1
+have,1
+had,1
+their,1

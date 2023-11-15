@@ -1,0 +1,9 @@
+81,294,6
+525,1
+letter,1
+to,1
+sam,1
+higginbottom,1
+november,1
+15,1
+1941,1

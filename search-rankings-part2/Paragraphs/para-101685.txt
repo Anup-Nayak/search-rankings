@@ -1,0 +1,9 @@
+30,44,17
+i,2
+should,1
+be,1
+their,1
+guest,1
+must,1
+avoid,1
+setting,1

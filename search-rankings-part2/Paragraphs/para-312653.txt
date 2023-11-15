@@ -1,0 +1,8 @@
+82,235,1
+287,1
+foreword,1
+to,2
+dead,1
+animals,1
+tanned,1
+leather,1

@@ -1,0 +1,16 @@
+51,195,10
+could,1
+devise,1
+would,1
+really,1
+be,2
+much,1
+good,1
+or,1
+was,1
+indeed,1
+possible,1
+i,1
+should,1
+in,1
+fact,1

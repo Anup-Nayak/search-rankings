@@ -1,0 +1,9 @@
+13,144,23
+stop,1
+present,1
+bill,1
+seems,1
+break,1
+this,1
+condition,1
+by,1

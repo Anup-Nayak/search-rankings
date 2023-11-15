@@ -1,0 +1,5 @@
+64,54,6
+78,1
+speech,1
+at,1
+balasore,1

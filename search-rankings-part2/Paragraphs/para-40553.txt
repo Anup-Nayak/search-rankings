@@ -1,0 +1,15 @@
+12,321,10
+letters,1
+chhaganlal,1
+west,1
+velshi,1
+boyd,1
+railage,1
+for,1
+vijiya,1
+0,5
+2,1
+6,1
+stamps,1
+1,2
+freight,1

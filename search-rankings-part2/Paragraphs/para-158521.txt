@@ -1,0 +1,13 @@
+46,33,5
+m,2
+k,1
+gandhi,1
+sjt,1
+s,1
+satyamurti,1
+l,1
+c,1
+singarachari,1
+street,1
+triplicane,1
+madras,1

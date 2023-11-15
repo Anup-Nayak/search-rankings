@@ -1,0 +1,14 @@
+32,469,12
+government,1
+is,1
+alone,1
+responsible,1
+you,1
+are,1
+supported,1
+in,1
+this,1
+your,1
+programme,1
+by,1
+the,1

@@ -1,0 +1,6 @@
+17,326,9
+not,1
+intend,1
+intensifying,1
+existing,1
+bitterness,1

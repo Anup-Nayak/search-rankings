@@ -1,0 +1,8 @@
+16,53,5
+32,1
+speech,1
+on,1
+cow,1
+protection,1
+bettiah,1
+2,1

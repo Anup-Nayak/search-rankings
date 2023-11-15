@@ -1,0 +1,8 @@
+44,474,22
+t12,1
+for,1
+far,1
+from,1
+guj,1
+has,1
+beyond,1

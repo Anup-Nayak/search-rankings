@@ -1,0 +1,4 @@
+29,195,6
+my,1
+dearest,1
+friend,1

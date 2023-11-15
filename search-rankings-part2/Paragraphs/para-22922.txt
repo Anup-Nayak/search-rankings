@@ -1,0 +1,16 @@
+7,432,5
+a,2
+required,1
+to,1
+pay,1
+fee,1
+of,2
+3,1
+for,1
+the,2
+privilege,1
+trading,1
+or,1
+residing,1
+in,1
+republic,1

@@ -1,0 +1,12 @@
+60,481,7
+1,1
+dr,1
+hiralal,1
+sharma,1
+a,1
+naturopath,1
+and,1
+chromopath,1
+2,1
+chhaganlal,1
+joshi,1

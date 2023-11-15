@@ -1,0 +1,9 @@
+9,483,8
+5,1
+extract,1
+from,1
+notes,1
+on,1
+the,1
+transvaal,1
+struggle,1

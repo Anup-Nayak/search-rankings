@@ -1,0 +1,3 @@
+81,405,4
+bardoli,1
+resolution,1

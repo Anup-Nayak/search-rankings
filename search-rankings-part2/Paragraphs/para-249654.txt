@@ -1,0 +1,12 @@
+67,285,4
+a,1
+we,2
+should,1
+disregard,1
+only,1
+that,1
+which,1
+feel,1
+violates,1
+our,1
+dharma,1

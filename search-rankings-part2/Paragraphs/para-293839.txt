@@ -1,0 +1,3 @@
+78,226,2
+spinning,1
+regularly,1

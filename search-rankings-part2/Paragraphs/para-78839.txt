@@ -1,0 +1,7 @@
+23,71,4
+30,1
+speech,1
+at,1
+meeting,1
+in,1
+sisodra,1

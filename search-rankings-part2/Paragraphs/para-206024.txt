@@ -1,0 +1,8 @@
+57,310,14
+twenty,1
+fourth,1
+ultimo,1
+should,1
+have,1
+reached,1
+government,1

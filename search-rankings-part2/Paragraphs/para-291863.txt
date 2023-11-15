@@ -1,0 +1,11 @@
+78,30,1
+day,1
+will,2
+come,1
+when,1
+the,1
+spinning,1
+wheel,1
+have,1
+become,1
+popular,1

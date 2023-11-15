@@ -1,0 +1,4 @@
+8,19,2
+what,1
+about,1
+compromise,1

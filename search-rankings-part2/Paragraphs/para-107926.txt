@@ -1,0 +1,9 @@
+32,0,15
+engagements,1
+leaving,1
+noon,1
+pray,1
+await,1
+arrival,1
+final,1
+funeral,1

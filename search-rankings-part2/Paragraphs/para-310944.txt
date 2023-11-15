@@ -1,0 +1,14 @@
+82,93,14
+integrity,1
+i,2
+have,2
+succeeded,1
+in,1
+rallying,1
+men,1
+and,1
+women,1
+for,1
+the,1
+task,1
+briefly,1

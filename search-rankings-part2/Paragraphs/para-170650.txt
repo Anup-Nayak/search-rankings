@@ -1,0 +1,6 @@
+49,126,1
+130,1
+letter,1
+to,1
+shaukat,1
+ali,1

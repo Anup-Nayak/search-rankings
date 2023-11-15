@@ -1,0 +1,12 @@
+95,240,5
+from,1
+a,1
+facsimile,1
+mahatma,1
+gandhithe,1
+last,1
+phase,1
+vol,1
+ii,1
+facing,1
+p,1

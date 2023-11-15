@@ -1,0 +1,9 @@
+73,331,6
+from,1
+a,2
+copy,1
+c,2
+w,1
+2898,1
+courtesy,1
+tulpule,1

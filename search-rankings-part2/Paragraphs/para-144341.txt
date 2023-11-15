@@ -1,0 +1,3 @@
+42,178,5
+satyagraha,1
+ashram,1

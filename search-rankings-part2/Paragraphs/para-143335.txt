@@ -1,0 +1,4 @@
+42,35,6
+49,1
+primary,1
+educationii,1

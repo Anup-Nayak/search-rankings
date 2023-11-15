@@ -1,0 +1,5 @@
+92,175,14
+subject,1
+to,1
+merit,1
+desirable,1

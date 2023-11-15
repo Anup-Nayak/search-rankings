@@ -1,0 +1,7 @@
+4,21,3
+16,1
+the,2
+permit,1
+office,1
+in,1
+transvaal,1

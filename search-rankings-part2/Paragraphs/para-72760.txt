@@ -1,0 +1,13 @@
+21,40,3
+with,1
+the,3
+condition,1
+of,2
+indians,1
+in,1
+fiji,1
+during,1
+period,1
+indenture,1
+which,1
+was,1

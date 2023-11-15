@@ -1,0 +1,10 @@
+75,147,5
+rajkot,1
+march,1
+4,1
+1939,1
+mirabai,1
+care,1
+badshahkhan,1
+charsadda,1
+tahsil,1

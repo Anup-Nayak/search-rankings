@@ -1,0 +1,9 @@
+16,5,5
+4,1
+letter,1
+to,1
+shankarlal,1
+on,1
+ideas,1
+about,1
+satyagraha,1

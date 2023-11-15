@@ -1,0 +1,11 @@
+93,2,10
+a,1
+worker,1
+so,1
+we,1
+are,1
+to,1
+fight,1
+with,1
+arms,1
+anyhow,1

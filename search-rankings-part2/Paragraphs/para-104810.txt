@@ -1,0 +1,5 @@
+31,31,10
+ahmedabad,1
+where,1
+wire,1
+progress,1

@@ -1,0 +1,6 @@
+45,197,3
+unrevised,1
+satyagraha,1
+ashram,1
+sabarmati,1
+1,1

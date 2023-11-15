@@ -1,0 +1,11 @@
+81,90,3
+bapu,1
+ps,1
+we,1
+are,1
+trying,1
+to,1
+get,1
+paper,1
+for,1
+sarvodaya,1

@@ -1,0 +1,3 @@
+96,437,27
+political,1
+lobbying,1

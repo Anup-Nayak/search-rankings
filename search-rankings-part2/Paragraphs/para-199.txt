@@ -1,0 +1,6 @@
+1,54,2
+24,1
+letter,1
+to,1
+ranchhodlal,1
+patwari,1

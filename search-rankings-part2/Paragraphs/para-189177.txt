@@ -1,0 +1,10 @@
+53,282,5
+a,1
+flag,1
+by,1
+the,1
+following,1
+resolution,1
+almost,1
+unanimously,1
+passed,1

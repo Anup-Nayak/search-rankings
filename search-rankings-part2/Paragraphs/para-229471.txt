@@ -1,0 +1,7 @@
+63,23,7
+mohandas,1
+shri,1
+govindbhai,1
+the,1
+ashram,1
+pondicherry,1

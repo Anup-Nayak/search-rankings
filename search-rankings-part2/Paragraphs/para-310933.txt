@@ -1,0 +1,15 @@
+82,93,3
+monetary,1
+help,1
+from,1
+their,1
+own,1
+community,1
+the,1
+nations,1
+muslim,1
+wing,1
+is,2
+weak,1
+if,1
+it,1

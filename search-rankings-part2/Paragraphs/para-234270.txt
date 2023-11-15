@@ -1,0 +1,15 @@
+64,97,4
+gandhiji,1
+said,1
+that,1
+if,1
+they,2
+were,1
+earnest,1
+in,1
+their,1
+work,1
+could,1
+easily,1
+get,1
+funds,1

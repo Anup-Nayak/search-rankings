@@ -1,0 +1,7 @@
+55,205,4
+242,1
+letter,1
+to,1
+vanamala,1
+n,1
+parikh,1

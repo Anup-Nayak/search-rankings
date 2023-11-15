@@ -1,0 +1,4 @@
+28,495,8
+nava,1
+para,1
+rajkot,1

@@ -1,0 +1,16 @@
+6,350,7
+1,1
+vide,2
+mass,2
+meeting,2
+of,2
+transvaal,2
+indians,2
+6,2
+4,2
+1907,2
+2,1
+for,1
+a,1
+fuller,1
+report,1

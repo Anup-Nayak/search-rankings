@@ -1,0 +1,7 @@
+61,127,8
+1,1
+totaram,1
+sanadhya,1
+an,1
+ashram,1
+inmate,1

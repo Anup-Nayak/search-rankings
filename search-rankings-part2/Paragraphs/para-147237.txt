@@ -1,0 +1,7 @@
+43,19,6
+k,1
+s,2
+subramaniam,1
+a,2
+i,1
+ahmedabad,1

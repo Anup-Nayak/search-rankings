@@ -1,0 +1,16 @@
+67,229,5
+3,1
+definite,1
+allotment,1
+in,2
+the,3
+budget,1
+for,1
+provision,1
+of,1
+drinking,1
+water,1
+wells,1
+to,1
+harijans,1
+villages,1

@@ -1,0 +1,8 @@
+27,200,8
+fight,1
+will,1
+be,1
+kept,1
+up,1
+to,1
+finish,1

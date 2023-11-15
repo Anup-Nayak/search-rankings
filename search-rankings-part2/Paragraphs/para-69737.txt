@@ -1,0 +1,7 @@
+20,30,17
+m,1
+a,1
+jinnah,1
+sir,1
+james,1
+duboulay,1

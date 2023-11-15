@@ -1,0 +1,10 @@
+45,54,2
+yours,1
+sincerely,1
+oamer,1
+ahmed,1
+esq,1
+khilafat,1
+house,1
+bombay,1
+10,1

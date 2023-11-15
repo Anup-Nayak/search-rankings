@@ -1,0 +1,11 @@
+36,128,1
+i,1
+think,1
+prayer,1
+and,1
+meditation,1
+are,1
+of,1
+the,1
+utmost,1
+importance,1

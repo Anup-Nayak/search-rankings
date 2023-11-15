@@ -1,0 +1,6 @@
+43,100,7
+113,1
+letter,1
+to,1
+isaac,1
+santra,1

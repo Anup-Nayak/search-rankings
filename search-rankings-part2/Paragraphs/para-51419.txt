@@ -1,0 +1,6 @@
+15,118,22
+november,1
+19,1
+friday,1
+pain,1
+continues,1

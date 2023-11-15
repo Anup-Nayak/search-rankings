@@ -1,0 +1,13 @@
+52,263,7
+country,1
+as,2
+well,1
+on,1
+the,1
+continent,1
+of,1
+europe,1
+expressed,1
+their,1
+sincere,1
+appre,1

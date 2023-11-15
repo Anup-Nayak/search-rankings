@@ -1,0 +1,7 @@
+51,77,5
+face,1
+of,1
+it,1
+would,1
+appear,1
+wholly,1

@@ -1,0 +1,8 @@
+14,469,34
+gandhis,1
+advice,1
+the,1
+position,1
+is,1
+serious,1
+government,1

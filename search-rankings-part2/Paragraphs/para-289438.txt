@@ -1,0 +1,6 @@
+77,180,5
+221,1
+letter,1
+to,1
+khadir,1
+katha,1

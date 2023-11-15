@@ -1,0 +1,8 @@
+21,204,1
+121,1
+speech,1
+at,1
+gujarat,1
+political,1
+conference,1
+ahmedabad,1

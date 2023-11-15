@@ -1,0 +1,6 @@
+47,243,5
+276,1
+letter,1
+to,1
+adele,1
+kaufmann,1

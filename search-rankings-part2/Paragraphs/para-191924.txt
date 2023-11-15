@@ -1,0 +1,14 @@
+54,127,4
+education,1
+was,2
+what,2
+it,1
+really,1
+should,1
+beto,1
+bring,1
+out,1
+best,1
+in,1
+themwe,1
+could,1

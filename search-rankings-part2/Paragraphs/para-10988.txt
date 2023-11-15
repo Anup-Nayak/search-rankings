@@ -1,0 +1,10 @@
+4,355,8
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+s,1
+n,1
+4245,1

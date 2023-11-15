@@ -1,0 +1,14 @@
+40,484,1
+a,1
+no,2
+not,1
+at,1
+all,1
+in,1
+its,1
+purest,1
+state,1
+there,1
+can,1
+be,1
+restrictions,1

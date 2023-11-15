@@ -1,0 +1,12 @@
+91,377,2
+q,1
+can,1
+basic,1
+education,1
+be,1
+conducted,1
+minus,1
+the,1
+self,1
+support,1
+basis,1

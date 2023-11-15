@@ -1,0 +1,16 @@
+89,118,8
+1,1
+gandhiji,1
+was,1
+answering,1
+a,1
+woman,1
+worker,1
+who,1
+had,1
+complained,1
+of,1
+hardships,1
+and,1
+government,1
+oppression,1

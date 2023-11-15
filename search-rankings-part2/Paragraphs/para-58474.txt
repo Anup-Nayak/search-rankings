@@ -1,0 +1,10 @@
+16,495,5
+2,1
+four,1
+fifths,1
+of,1
+the,1
+members,1
+shall,1
+be,1
+elected,1

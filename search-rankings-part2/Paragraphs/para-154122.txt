@@ -1,0 +1,10 @@
+44,480,31
+t2,1
+guj,1
+has,1
+acquiring,1
+for,1
+myself,1
+the,1
+label,1
+of,1

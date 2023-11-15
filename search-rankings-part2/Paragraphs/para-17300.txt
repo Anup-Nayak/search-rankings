@@ -1,0 +1,9 @@
+6,206,7
+1,2
+vide,1
+duty,1
+of,1
+educated,1
+indians,1
+19,1
+1907,1

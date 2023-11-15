@@ -1,0 +1,8 @@
+97,197,6
+i,1
+hope,1
+you,1
+will,1
+bear,1
+the,1
+loss,1

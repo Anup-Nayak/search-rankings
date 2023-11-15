@@ -1,0 +1,9 @@
+80,490,12
+gandhiji,1
+i,1
+know,1
+she,1
+will,1
+be,1
+with,1
+you,1

@@ -1,0 +1,12 @@
+1,210,8
+1,1
+legal,1
+sharers,1
+2,1
+residuaries,1
+3,1
+distant,1
+kindred,1
+4,1
+successors,1
+by,1

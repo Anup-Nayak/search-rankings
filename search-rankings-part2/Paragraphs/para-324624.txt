@@ -1,0 +1,6 @@
+85,85,1
+110,1
+letter,1
+to,1
+parikshitlal,1
+majmudar,1

@@ -1,0 +1,4 @@
+25,172,2
+an,1
+andhra,1
+definition,1

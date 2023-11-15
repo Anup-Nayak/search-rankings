@@ -1,0 +1,13 @@
+89,148,10
+gandhiji,1
+advised,1
+women,1
+living,1
+in,1
+towns,1
+to,2
+serve,1
+the,1
+villages,1
+he,1
+appealed,1

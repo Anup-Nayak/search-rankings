@@ -1,0 +1,6 @@
+43,365,10
+2,1
+daughter,1
+of,1
+dalbahadur,1
+giri,1

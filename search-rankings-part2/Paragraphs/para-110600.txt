@@ -1,0 +1,8 @@
+32,458,6
+287,1
+speech,1
+at,1
+national,1
+school,1
+khagaul,1
+2,1

@@ -1,0 +1,5 @@
+41,380,6
+444,1
+letter,1
+to,1
+narayana,1

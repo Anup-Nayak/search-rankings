@@ -1,0 +1,7 @@
+39,496,14
+gandhiji,1
+at,1
+the,1
+imperial,1
+dairy,1
+bangalore,1

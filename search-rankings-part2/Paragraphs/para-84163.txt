@@ -1,0 +1,10 @@
+24,472,23
+in,5
+asia,1
+persia,1
+mesopotamia,1
+egypt,1
+indiaits,1
+dominant,1
+motive,1
+has,1

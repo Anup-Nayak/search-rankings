@@ -1,0 +1,8 @@
+87,50,1
+88,1
+statement,1
+on,1
+syrian,1
+lebanese,1
+question,1
+1,1

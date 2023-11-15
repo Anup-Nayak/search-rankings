@@ -1,0 +1,8 @@
+19,64,11
+not,1
+going,1
+navsari,1
+taking,1
+punjab,1
+mail,1
+to,1

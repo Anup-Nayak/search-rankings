@@ -1,0 +1,17 @@
+1,456,7
+2,1
+the,3
+question,1
+was,1
+when,1
+antipathy,1
+of,1
+south,1
+african,1
+whites,1
+to,2
+indians,1
+first,1
+began,1
+manifest,1
+itself,1

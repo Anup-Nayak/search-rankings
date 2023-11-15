@@ -1,0 +1,8 @@
+50,299,8
+1,1
+these,1
+four,1
+sentences,1
+are,1
+in,1
+urdu,1

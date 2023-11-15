@@ -1,0 +1,7 @@
+70,96,7
+106,1
+letter,1
+to,1
+ramnarayan,1
+n,1
+pathak,1

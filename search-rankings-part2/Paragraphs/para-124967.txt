@@ -1,0 +1,10 @@
+36,422,11
+mohandas,1
+gandhi,1
+sjt,1
+lakshman,1
+dutt,1
+bhatt,1
+kashipur,1
+nainital,1
+dist,1

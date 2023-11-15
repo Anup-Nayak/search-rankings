@@ -1,0 +1,13 @@
+34,354,2
+yours,1
+sincerely,1
+miss,1
+alice,1
+mckay,1
+kelly,1
+1200,1
+madison,1
+avenue,1
+new,1
+york,1
+city,1

@@ -1,0 +1,7 @@
+60,265,4
+my,1
+suggestion,1
+about,1
+the,1
+women,1
+stands,1

@@ -1,0 +1,12 @@
+82,406,25
+congress,2
+has,1
+been,1
+accused,1
+of,1
+being,1
+an,1
+authoritarian,1
+organization,1
+there,1
+is,1

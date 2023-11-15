@@ -1,0 +1,11 @@
+66,372,15
+1,1
+gandhiji,1
+did,1
+write,1
+shampur,1
+vide,1
+letter,1
+to,1
+purushottam,1
+bavishi,1

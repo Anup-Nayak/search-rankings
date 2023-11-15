@@ -1,0 +1,3 @@
+27,145,8
+undergo,1
+fatigue,1

@@ -1,0 +1,11 @@
+72,112,5
+1,1
+vimala,1
+the,2
+addressees,1
+daughter,1
+2,1
+omission,1
+as,1
+in,1
+source,1

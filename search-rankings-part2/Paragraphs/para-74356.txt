@@ -1,0 +1,12 @@
+21,313,4
+they,1
+i,1
+the,2
+british,1
+soldiers,1
+and,2
+officers,1
+were,1
+bent,1
+on,1
+murder,2

@@ -1,0 +1,14 @@
+46,48,10
+in,1
+its,1
+train,1
+social,1
+reforms,1
+better,1
+sanitation,1
+and,1
+improved,1
+public,1
+health,1
+it,1
+is,1

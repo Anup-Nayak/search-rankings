@@ -1,0 +1,9 @@
+74,393,3
+if,1
+cable,1
+received,1
+for,1
+soga,1
+to,1
+repeat,1
+dreisler,1

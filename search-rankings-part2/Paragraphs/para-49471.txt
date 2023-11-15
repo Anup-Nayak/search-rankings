@@ -1,0 +1,11 @@
+14,459,5
+from,1
+photostat,1
+of,1
+printed,1
+leaflets,1
+s,2
+n,2
+6187,1
+and,1
+6189,1

@@ -1,0 +1,10 @@
+66,155,13
+1,1
+dalit,1
+pratinidhi,1
+sabha,1
+2,1
+vide,1
+the,1
+preceding,1
+item,1

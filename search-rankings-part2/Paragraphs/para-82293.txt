@@ -1,0 +1,11 @@
+24,166,4
+1,1
+self,1
+the,2
+reference,1
+is,1
+to,1
+bhagvad,1
+gita,1
+vi,1
+5,1

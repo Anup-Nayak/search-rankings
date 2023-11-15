@@ -1,0 +1,9 @@
+9,499,7
+indians,1
+in,1
+the,2
+transvaal,2
+who,1
+have,1
+passed,1
+through,1

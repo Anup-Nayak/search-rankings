@@ -1,0 +1,9 @@
+11,304,5
+seems,1
+to,1
+consider,1
+proposed,1
+amendment,2
+but,1
+just,1
+as,1

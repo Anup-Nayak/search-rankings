@@ -1,0 +1,13 @@
+25,367,5
+mr,1
+paul,1
+richard,1
+delivered,1
+a,1
+lecture,1
+at,1
+the,1
+gujarat,1
+vidyapith,1
+ahmedabad,1
+on,1

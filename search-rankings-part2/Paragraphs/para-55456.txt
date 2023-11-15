@@ -1,0 +1,7 @@
+16,88,4
+4,1
+the,1
+gujarat,1
+vidyapeeth,1
+in,1
+ahmedabad,1

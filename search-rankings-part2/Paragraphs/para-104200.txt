@@ -1,0 +1,10 @@
+30,379,2
+232,1
+talk,1
+to,1
+inmates,1
+of,1
+satyagraha,1
+ashram,1
+vykom,1
+1,1

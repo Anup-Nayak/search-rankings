@@ -1,0 +1,12 @@
+63,380,5
+on,1
+your,2
+way,1
+to,1
+coimbatore,1
+from,1
+tirupur,1
+during,1
+recent,1
+visit,1
+a,1

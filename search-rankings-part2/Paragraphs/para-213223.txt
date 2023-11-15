@@ -1,0 +1,16 @@
+59,103,3
+m,3
+k,1
+gandhi,1
+sjt,1
+ananta,1
+rau,1
+sanatana,1
+dharma,1
+karyalaya,1
+40,1
+iswardas,1
+lala,1
+street,1
+triplicane,1
+madras,1

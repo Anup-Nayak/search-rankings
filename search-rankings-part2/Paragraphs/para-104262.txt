@@ -1,0 +1,5 @@
+30,392,2
+no,1
+stoning,1
+in,1
+koran,1

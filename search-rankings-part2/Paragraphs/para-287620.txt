@@ -1,0 +1,14 @@
+76,417,24
+employment,1
+it,1
+is,1
+not,1
+impossible,1
+that,1
+migration,1
+from,1
+the,1
+prohibited,1
+area,1
+to,1
+outside,1

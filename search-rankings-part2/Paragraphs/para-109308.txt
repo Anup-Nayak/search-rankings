@@ -1,0 +1,16 @@
+32,254,4
+the,1
+following,1
+extract,1
+from,1
+a,2
+letter,1
+of,2
+passionate,1
+lover,1
+khaddar,1
+will,1
+be,1
+read,1
+with,1
+interest,1

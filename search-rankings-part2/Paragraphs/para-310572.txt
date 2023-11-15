@@ -1,0 +1,12 @@
+82,64,3
+many,1
+activities,1
+i,2
+can,2
+understand,2
+giving,1
+wealth,1
+and,1
+to,1
+some,1
+extent,1

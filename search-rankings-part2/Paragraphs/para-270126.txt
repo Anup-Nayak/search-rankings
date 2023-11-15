@@ -1,0 +1,12 @@
+72,354,5
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4444,1
+courtesy,1
+dr,1
+william,1
+h,1
+tandy,1

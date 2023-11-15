@@ -1,0 +1,8 @@
+45,211,2
+196,1
+speech,1
+at,1
+shawe,1
+dagon,1
+pagoda,1
+rangoon,1

@@ -1,0 +1,11 @@
+28,127,2
+1,1
+central,1
+jail,1
+where,1
+gandhiji,1
+was,1
+imprisoned,1
+in,1
+1922,1
+24,1

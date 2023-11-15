@@ -1,0 +1,6 @@
+38,119,2
+97,1
+letter,1
+to,1
+sushilabehn,1
+mashruwala,1

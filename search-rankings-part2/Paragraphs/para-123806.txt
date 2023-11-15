@@ -1,0 +1,6 @@
+36,289,5
+327,1
+letter,1
+to,1
+bhikhaiji,1
+palamkot,1

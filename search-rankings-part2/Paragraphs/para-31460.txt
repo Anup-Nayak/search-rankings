@@ -1,0 +1,6 @@
+10,222,8
+147,1
+letter,1
+to,1
+leo,1
+tolstoy,1

@@ -1,0 +1,9 @@
+3,479,2
+315,1
+the,1
+pretoria,1
+town,1
+council,1
+and,1
+british,1
+indians,1

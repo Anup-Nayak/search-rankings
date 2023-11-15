@@ -1,0 +1,6 @@
+28,265,4
+mohandas,1
+gandhi,1
+birla,1
+house,1
+hardwar,1

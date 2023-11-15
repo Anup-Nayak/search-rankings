@@ -1,0 +1,8 @@
+43,97,10
+gandhi,1
+from,1
+handwritten,1
+draft,1
+s,1
+n,1
+2456,1

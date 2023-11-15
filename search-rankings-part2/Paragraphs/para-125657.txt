@@ -1,0 +1,8 @@
+36,501,4
+signify,1
+a,1
+different,1
+being,1
+of,1
+greater,1
+power,1

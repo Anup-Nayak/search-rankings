@@ -1,0 +1,13 @@
+96,412,12
+from,1
+a,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1
+also,1
+the,1
+hindu,1
+11,1
+10,1
+1947,1

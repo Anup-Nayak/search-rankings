@@ -1,0 +1,8 @@
+6,190,2
+statement,1
+regarding,1
+british,1
+indian,1
+position,1
+in,1
+natal1,1

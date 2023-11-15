@@ -1,0 +1,11 @@
+69,200,8
+pray,1
+accept,1
+my,1
+condolences,1
+4,1
+i,1
+have,1
+nothing,1
+but,1
+pleasant,1

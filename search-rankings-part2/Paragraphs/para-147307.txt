@@ -1,0 +1,11 @@
+43,27,8
+it,1
+is,1
+better,1
+to,2
+die,1
+rather,1
+than,1
+ever,1
+forsake,1
+truth,1

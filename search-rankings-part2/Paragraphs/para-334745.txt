@@ -1,0 +1,8 @@
+87,144,23
+but,1
+not,1
+at,1
+sacrifice,1
+of,1
+fundamental,1
+and,1

@@ -1,0 +1,11 @@
+44,510,4
+t1,1
+for,1
+the,2
+non,3
+co,2
+operation,2
+resolution,2
+guj,1
+has,1
+violent,1

@@ -1,0 +1,6 @@
+29,398,3
+349,1
+letter,1
+t0,1
+ramabehn,1
+pattani,1

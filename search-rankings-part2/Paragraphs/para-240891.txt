@@ -1,0 +1,4 @@
+65,365,18
+ridge,1
+road,1
+bombay,1

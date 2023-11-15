@@ -1,0 +1,6 @@
+87,70,4
+122,1
+letter,1
+to,1
+harekrushna,1
+mahtab,1

@@ -1,0 +1,16 @@
+82,381,17
+value,1
+it,1
+we,1
+hear,1
+often,1
+from,1
+her,1
+richard,1
+is,1
+the,2
+most,1
+wonderful,1
+baby,1
+in,1
+world,1

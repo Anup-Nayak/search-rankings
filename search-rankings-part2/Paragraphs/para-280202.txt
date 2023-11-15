@@ -1,0 +1,10 @@
+75,56,13
+principal,1
+work,1
+er,1
+s,1
+engaged,1
+in,1
+struggle,1
+going,1
+on,1

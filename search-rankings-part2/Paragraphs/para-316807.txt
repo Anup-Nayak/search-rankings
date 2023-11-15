@@ -1,0 +1,10 @@
+83,98,10
+q,1
+will,1
+you,1
+resort,1
+to,2
+fasting,1
+if,1
+sent,1
+jail,1

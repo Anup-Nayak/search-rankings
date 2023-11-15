@@ -1,0 +1,15 @@
+82,211,5
+q,1
+2,1
+if,1
+you,1
+advocate,1
+the,2
+learning,1
+of,2
+urdu,1
+for,1
+sake,1
+hindu,1
+muslim,1
+unity,1

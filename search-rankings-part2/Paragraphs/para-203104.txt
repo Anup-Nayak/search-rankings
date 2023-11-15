@@ -1,0 +1,11 @@
+57,36,13
+pray,1
+do,1
+not,1
+ask,1
+me,1
+alter,1
+decision,1
+taken,1
+gods,1
+name,1

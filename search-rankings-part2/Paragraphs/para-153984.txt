@@ -1,0 +1,17 @@
+44,476,17
+t9,1
+guj,1
+adds,1
+but,1
+i,1
+did,1
+not,1
+have,1
+the,1
+courage,1
+to,1
+suggest,1
+that,1
+we,1
+should,1
+return,1

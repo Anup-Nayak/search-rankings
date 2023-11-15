@@ -1,0 +1,7 @@
+84,289,3
+anil,1
+chandra,1
+32,1
+nandan,1
+road,1
+calcutta,1

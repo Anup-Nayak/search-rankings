@@ -1,0 +1,17 @@
+82,420,16
+l,1
+f,1
+if,1
+you,2
+look,1
+at,1
+this,1
+in,1
+its,1
+historic,1
+perspective,1
+are,1
+doing,1
+a,1
+novel,1
+and,1

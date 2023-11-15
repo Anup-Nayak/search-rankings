@@ -1,0 +1,16 @@
+86,55,13
+1,1
+the,1
+addressee,1
+had,1
+asked,1
+what,1
+is,2
+fate,1
+and,1
+how,1
+it,1
+related,1
+to,1
+human,1
+effort,1

@@ -1,0 +1,6 @@
+79,333,1
+they,1
+are,1
+friendly,1
+notwithstanding,1
+their,1

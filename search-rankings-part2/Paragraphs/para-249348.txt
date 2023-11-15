@@ -1,0 +1,14 @@
+67,256,7
+yours,1
+sincerely,1
+m,1
+k,2
+gandhi,1
+v,1
+ratnam,2
+and,1
+brothers,1
+fountain,1
+pen,1
+works,1
+rajahmundry,1

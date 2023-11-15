@@ -1,0 +1,14 @@
+59,500,5
+c,1
+dikshareceiving,1
+mantram,3
+either,1
+ashtakshar,1
+with,2
+or,2
+without,2
+wearing,2
+tulsi,1
+bead,2
+panchakshar,1
+rudraksha,1

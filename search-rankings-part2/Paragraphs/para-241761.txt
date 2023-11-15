@@ -1,0 +1,15 @@
+65,449,4
+the,3
+total,1
+amount,1
+spent,1
+on,1
+schools,1
+during,1
+year,1
+was,1
+rs,1
+4,2
+495,1
+1,1
+o,1

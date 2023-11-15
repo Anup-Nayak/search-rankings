@@ -1,0 +1,13 @@
+61,103,1
+i,1
+expect,1
+you,1
+to,2
+return,1
+the,1
+ashram,1
+refreshed,1
+for,1
+much,1
+concentrated,1
+work,1

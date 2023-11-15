@@ -1,0 +1,14 @@
+3,196,1
+stand,1
+36,1
+iron,1
+house,1
+big,1
+rooms,1
+lofty,1
+and,1
+well,1
+ventilated,1
+yard,1
+etc,1
+clean,1

@@ -1,0 +1,16 @@
+78,137,14
+2,1
+on,1
+the,3
+settlement,1
+between,1
+jaipur,3
+state,2
+and,2
+rajya,1
+praja,2
+mandal,2
+vide,1
+14,1
+4,1
+1940,1

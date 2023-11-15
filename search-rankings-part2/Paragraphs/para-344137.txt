@@ -1,0 +1,7 @@
+89,175,6
+257,1
+letter,1
+to,1
+saval,1
+l,1
+idlani,1

@@ -1,0 +1,6 @@
+76,16,8
+20,1
+telegram,1
+to,1
+amrit,1
+kaur,1

@@ -1,0 +1,6 @@
+51,149,14
+he,1
+appeared,1
+to,1
+accept,1
+this,1

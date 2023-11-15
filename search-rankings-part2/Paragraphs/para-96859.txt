@@ -1,0 +1,10 @@
+28,432,12
+the,2
+general,1
+body,1
+of,2
+hubli,1
+taluka,1
+congress,1
+committee,1
+consists,1

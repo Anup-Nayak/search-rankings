@@ -1,0 +1,16 @@
+82,346,9
+leader,1
+in,1
+the,1
+congress,1
+thinks,1
+like,1
+that,2
+and,1
+he,3
+says,1
+is,1
+sure,1
+because,1
+had,1
+this,1

@@ -1,0 +1,4 @@
+60,424,6
+gurukula,1
+seva,1
+sangh,1

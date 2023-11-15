@@ -1,0 +1,16 @@
+48,299,4
+q,1
+do,1
+you,1
+accept,1
+the,1
+duty,1
+of,1
+bread,1
+labour,1
+expounded,1
+by,1
+tolstoy,1
+a,1
+yes,1
+certainly,1

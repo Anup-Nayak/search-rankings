@@ -1,0 +1,6 @@
+29,100,9
+69,1
+telegram,1
+to,1
+mahomed,1
+ali,1

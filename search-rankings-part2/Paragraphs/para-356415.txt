@@ -1,0 +1,13 @@
+92,198,13
+1,1
+this,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+addressees,1
+husband,1
+and,1
+their,1
+son,1

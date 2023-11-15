@@ -1,0 +1,12 @@
+94,61,10
+meeting,1
+tomorrow,1
+in,2
+haimchar,1
+but,1
+would,1
+like,1
+to,1
+have,1
+it,1
+chandpur,1

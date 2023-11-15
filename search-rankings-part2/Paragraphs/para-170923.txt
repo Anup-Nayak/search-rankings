@@ -1,0 +1,15 @@
+49,162,6
+great,1
+treasure,1
+of,1
+the,2
+worlds,2
+art,1
+but,1
+it,1
+is,1
+still,1
+more,1
+true,1
+for,1
+ideals,1

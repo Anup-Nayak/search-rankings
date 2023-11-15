@@ -1,0 +1,12 @@
+41,300,3
+q,1
+do,1
+you,2
+think,1
+can,1
+reach,1
+so,1
+far,1
+through,1
+non,1
+violence,1

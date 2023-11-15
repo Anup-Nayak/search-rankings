@@ -1,0 +1,6 @@
+42,298,6
+situation,1
+worse,1
+government,1
+seems,1
+determined,1

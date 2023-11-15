@@ -1,0 +1,17 @@
+19,10,4
+that,1
+she,1
+might,2
+live,1
+long,1
+for,1
+india,2
+s,1
+sake,1
+and,1
+be,1
+able,1
+to,1
+see,1
+secure,1
+home,1

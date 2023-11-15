@@ -1,0 +1,7 @@
+2,408,6
+189,1
+joint,1
+action,1
+for,1
+permits,1
+1,1

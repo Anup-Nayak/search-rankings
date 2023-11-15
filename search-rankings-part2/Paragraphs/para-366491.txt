@@ -1,0 +1,11 @@
+94,410,8
+if,1
+you,2
+can,2
+get,1
+money,1
+from,1
+bhagirath,1
+1,1
+take,1
+it,1

@@ -1,0 +1,7 @@
+13,279,5
+minimize,1
+points,1
+of,1
+differences,1
+regarding,1
+polyga,1

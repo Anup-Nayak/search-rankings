@@ -1,0 +1,14 @@
+32,375,5
+1,1
+not,1
+reproduced,1
+here,1
+the,2
+list,1
+showed,1
+contributions,1
+from,1
+almost,1
+all,1
+over,1
+country,1

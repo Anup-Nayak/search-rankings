@@ -1,0 +1,16 @@
+82,402,17
+in,1
+actual,1
+life,1
+it,1
+is,1
+impossible,1
+to,1
+separate,1
+us,1
+into,1
+two,2
+nations,1
+we,1
+are,1
+not,1

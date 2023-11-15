@@ -1,0 +1,5 @@
+13,401,3
+satyagrahi,1
+mohandas,1
+karamchand,1
+gandhi,1

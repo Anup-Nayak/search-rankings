@@ -1,0 +1,5 @@
+92,192,2
+an,1
+arya,1
+samajist,1
+writes,1

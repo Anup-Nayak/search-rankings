@@ -1,0 +1,16 @@
+82,92,12
+8,1
+one,2
+of,2
+the,1
+tenets,1
+islam,1
+lays,1
+down,1
+that,1
+no,1
+but,1
+god,1
+deserves,1
+to,1
+be,1

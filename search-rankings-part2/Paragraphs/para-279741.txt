@@ -1,0 +1,10 @@
+75,7,9
+ps,1
+i,1
+am,1
+leaving,1
+for,1
+segaon,1
+on,1
+the,1
+1st,1

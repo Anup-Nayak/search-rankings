@@ -1,0 +1,13 @@
+92,320,10
+1,1
+the,1
+three,1
+humours,1
+viz,1
+wind,1
+vata,1
+bile,1
+pitta,1
+and,1
+phlegm,1
+kapha,1

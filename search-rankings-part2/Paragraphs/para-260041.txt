@@ -1,0 +1,8 @@
+70,16,8
+28,1
+speech,1
+at,1
+municipal,1
+girls,1
+school,1
+1,1

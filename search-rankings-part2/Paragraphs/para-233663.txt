@@ -1,0 +1,6 @@
+64,35,4
+51,1
+letter,1
+to,1
+kamala,1
+nehru,1

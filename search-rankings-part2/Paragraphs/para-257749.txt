@@ -1,0 +1,4 @@
+69,246,9
+317,1
+avoidable,1
+misery,1

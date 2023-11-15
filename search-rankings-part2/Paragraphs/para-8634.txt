@@ -1,0 +1,12 @@
+3,457,4
+1,1
+district,1
+surgeons,1
+assigned,1
+especially,1
+by,1
+town,1
+council,1
+for,1
+this,1
+work,1

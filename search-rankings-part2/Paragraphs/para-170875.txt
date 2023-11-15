@@ -1,0 +1,6 @@
+49,155,7
+163,1
+letter,1
+to,1
+purushottamdas,1
+trikamdas,1

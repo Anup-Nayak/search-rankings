@@ -1,0 +1,8 @@
+32,347,3
+221,1
+statement,1
+regarding,1
+a,1
+i,1
+c,2
+meeting,1

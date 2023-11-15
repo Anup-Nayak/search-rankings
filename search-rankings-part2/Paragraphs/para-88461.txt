@@ -1,0 +1,6 @@
+26,171,5
+as,1
+in,1
+all,1
+other,1
+countries,1

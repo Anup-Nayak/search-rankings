@@ -1,0 +1,12 @@
+94,360,10
+zakir,1
+husain,1
+the,2
+sangh,1
+has,1
+not,1
+made,1
+co,1
+education,1
+obligatory,1
+for,1

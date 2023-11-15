@@ -1,0 +1,9 @@
+19,8,6
+lac,1
+seventy,1
+five,1
+thousand,1
+to,1
+be,1
+collected,1
+from,1

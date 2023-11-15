@@ -1,0 +1,4 @@
+8,252,7
+126,1
+lepers,1
+blessings,1

@@ -1,0 +1,5 @@
+40,244,3
+help,1
+from,1
+kangri,1
+gurukul,1

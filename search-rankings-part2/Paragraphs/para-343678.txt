@@ -1,0 +1,14 @@
+89,125,8
+1,1
+these,1
+two,1
+paragraphs,1
+are,1
+reproduced,1
+from,1
+the,1
+hindu,1
+of,1
+30,1
+12,1
+1945,1

@@ -1,0 +1,15 @@
+6,45,16
+have,1
+to,1
+recognize,1
+the,3
+fact,1
+that,1
+all,1
+over,1
+world,1
+there,1
+are,1
+difficulties,1
+arising,1
+on,1

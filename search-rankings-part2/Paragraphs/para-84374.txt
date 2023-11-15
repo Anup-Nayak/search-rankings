@@ -1,0 +1,9 @@
+25,34,3
+13,1
+letter,1
+to,1
+main,1
+mohammed,2
+haji,1
+jan,1
+chotani,1

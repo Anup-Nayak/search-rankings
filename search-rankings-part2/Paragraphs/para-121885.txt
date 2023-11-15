@@ -1,0 +1,11 @@
+36,69,8
+m,1
+k,2
+gandhi,1
+shri,1
+rajagopalachari,1
+secretary,1
+chittoor,1
+d,1
+c,2
+tirupati,1

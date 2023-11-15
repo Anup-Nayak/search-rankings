@@ -1,0 +1,13 @@
+25,276,3
+hope,1
+you,1
+will,1
+get,1
+maximum,1
+penalty,1
+gandhi,2
+seven,1
+months,1
+with,1
+mahatma,1
+p,1

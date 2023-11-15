@@ -1,0 +1,7 @@
+46,384,7
+344,1
+letter,1
+to,1
+frederick,1
+b,1
+fischer,1

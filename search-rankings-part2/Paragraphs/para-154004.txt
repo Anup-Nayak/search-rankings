@@ -1,0 +1,5 @@
+44,477,7
+t4,1
+guj,1
+has,1
+scriptures,1

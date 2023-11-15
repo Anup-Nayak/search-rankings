@@ -1,0 +1,13 @@
+62,80,6
+bapu,1
+ps,1
+you,1
+have,1
+done,1
+well,1
+in,1
+going,1
+to,1
+n,1
+s,1
+rescue,1

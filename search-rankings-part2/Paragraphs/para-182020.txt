@@ -1,0 +1,15 @@
+51,465,12
+gandhi,1
+has,1
+to,2
+say,1
+give,1
+him,1
+the,2
+other,1
+side,1
+of,1
+picture,1
+with,1
+specific,1
+examples,1

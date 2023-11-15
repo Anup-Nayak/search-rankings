@@ -1,0 +1,15 @@
+14,136,8
+1,1
+susil,1
+kumar,1
+rudra,1
+indian,1
+christian,1
+educationist,1
+principal,1
+st,1
+stephens,1
+college,1
+delhi,1
+1909,1
+23,1

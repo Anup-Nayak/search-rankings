@@ -1,0 +1,12 @@
+58,23,17
+very,1
+stern,1
+in,1
+their,1
+religious,1
+beliefs,1
+and,2
+prejudices,1
+they,1
+strongly,1
+resented,1

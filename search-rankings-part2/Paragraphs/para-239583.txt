@@ -1,0 +1,10 @@
+65,236,3
+279,1
+speech,1
+at,1
+subjects,1
+committee,1
+meeting,1
+a,1
+i,1
+c,2

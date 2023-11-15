@@ -1,0 +1,16 @@
+52,323,18
+speaker,1
+brought,1
+liquor,1
+from,1
+a,1
+canteen,1
+keeper,1
+and,1
+gave,1
+it,1
+to,1
+them,1
+men,1
+who,1
+were,1

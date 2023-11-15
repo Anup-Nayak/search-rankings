@@ -1,0 +1,10 @@
+42,468,22
+5,1
+name,1
+of,1
+wife,1
+if,1
+any,1
+and,1
+present,1
+whereabouts,1

@@ -1,0 +1,7 @@
+61,385,6
+1,1
+pursuit,1
+of,1
+the,2
+highest,1
+values,1

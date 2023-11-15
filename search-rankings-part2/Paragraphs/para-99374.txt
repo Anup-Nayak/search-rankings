@@ -1,0 +1,11 @@
+29,240,12
+1,1
+from,1
+the,3
+reference,1
+to,2
+fast,1
+and,1
+contemplated,1
+visit,1
+kohat,1

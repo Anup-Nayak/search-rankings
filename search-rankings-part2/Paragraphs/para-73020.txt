@@ -1,0 +1,6 @@
+21,76,2
+49,1
+hijrat,1
+and,1
+its,1
+meaning,1

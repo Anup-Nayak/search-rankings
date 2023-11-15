@@ -1,0 +1,8 @@
+11,306,16
+mentioned,1
+thrice,1
+repeated,1
+assurance,1
+and,1
+now,1
+intro,1

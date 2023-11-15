@@ -1,0 +1,16 @@
+16,510,1
+of,1
+enquiry,1
+i,1
+am,1
+once,1
+more,1
+tempted,1
+to,2
+draw,1
+attention,1
+and,2
+emphasize,1
+both,1
+cause,1
+effect,1

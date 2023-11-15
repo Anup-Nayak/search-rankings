@@ -1,0 +1,5 @@
+14,342,1
+gandhiji,1
+replied,1
+as,1
+follows,1

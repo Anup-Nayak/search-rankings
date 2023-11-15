@@ -1,0 +1,3 @@
+18,50,5
+dear,1
+manibehn,1

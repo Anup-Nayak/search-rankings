@@ -1,0 +1,5 @@
+21,50,2
+33,1
+speech,1
+at,1
+jullundur,1

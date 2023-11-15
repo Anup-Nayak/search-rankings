@@ -1,0 +1,9 @@
+80,190,3
+from,1
+gujarati,1
+c,1
+w,1
+10129,1
+courtesy,1
+benarsilal,1
+bajaj,1

@@ -1,0 +1,16 @@
+34,498,42
+559,1
+560,1
+562,1
+four,1
+room,1
+block,1
+that,1
+ched,1
+shed,1
+manure,1
+pit,1
+goshala,1
+and,1
+maganlalbhais,1
+house,1

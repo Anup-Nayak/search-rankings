@@ -1,0 +1,12 @@
+65,172,6
+shri,1
+p,1
+kodandaramiah,1
+swaraj,1
+ashram,1
+polavaram,1
+via,1
+kovvur,1
+m,2
+s,1
+rly,1

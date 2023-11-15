@@ -1,0 +1,11 @@
+57,85,19
+1,1
+from,1
+the,3
+placing,1
+of,1
+item,1
+in,1
+source,1
+2,1
+ibid,1

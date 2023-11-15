@@ -1,0 +1,7 @@
+68,349,1
+425,1
+letter,1
+to,1
+albert,1
+h,1
+west,1

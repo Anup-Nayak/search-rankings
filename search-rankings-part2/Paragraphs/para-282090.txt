@@ -1,0 +1,10 @@
+75,272,7
+one,1
+let,1
+a,1
+i,1
+c,2
+decide,1
+composite,1
+cabinet,1
+seems,1

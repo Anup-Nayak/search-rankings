@@ -1,0 +1,13 @@
+31,94,16
+1,1
+authors,1
+of,1
+the,1
+smritis,1
+law,1
+books,1
+regulating,1
+social,1
+and,1
+moral,1
+conduct,1

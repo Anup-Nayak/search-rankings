@@ -1,0 +1,11 @@
+97,48,3
+45,1
+letter,1
+to,1
+shah,1
+nawaz,1
+khan,1
+delhi,1
+october,1
+7,1
+1947,1

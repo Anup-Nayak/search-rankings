@@ -1,0 +1,12 @@
+82,299,25
+revenue,1
+collection,1
+is,1
+done,1
+at,2
+the,2
+taluka,1
+headquarters,1
+and,1
+not,1
+tapadars,1

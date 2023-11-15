@@ -1,0 +1,6 @@
+36,436,8
+507,1
+letter,1
+to,1
+lalan,1
+pandit,1

@@ -1,0 +1,9 @@
+54,254,14
+q,1
+are,1
+you,1
+satisfied,1
+with,1
+mr,1
+macdonalds,1
+declarations,1

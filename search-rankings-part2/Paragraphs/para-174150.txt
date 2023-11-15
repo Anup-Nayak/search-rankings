@@ -1,0 +1,7 @@
+50,52,3
+rani,1
+vidya,1
+devi,1
+satyagraha,1
+ashram,1
+hardoi,1

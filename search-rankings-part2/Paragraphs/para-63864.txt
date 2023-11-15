@@ -1,0 +1,12 @@
+18,146,8
+17,1
+minimum,1
+capital,1
+required,1
+for,1
+the,1
+starting,1
+of,1
+a,1
+weaving,1
+mill,1

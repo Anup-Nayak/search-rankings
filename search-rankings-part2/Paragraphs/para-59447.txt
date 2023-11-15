@@ -1,0 +1,10 @@
+17,74,8
+manpower,1
+and,1
+the,1
+resources,1
+of,1
+india,1
+in,1
+war,1
+are,1

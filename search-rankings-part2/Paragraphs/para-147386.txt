@@ -1,0 +1,5 @@
+43,35,7
+thursday,1
+september,1
+20,1
+1928,1

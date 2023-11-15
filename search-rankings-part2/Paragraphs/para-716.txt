@@ -1,0 +1,12 @@
+1,144,5
+2,1
+1816,1
+73,1
+lawyer,1
+and,1
+politician,1
+member,1
+of,1
+parliament,1
+1847,1
+52,1

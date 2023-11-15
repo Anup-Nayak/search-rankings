@@ -1,0 +1,6 @@
+36,113,4
+127,1
+letter,1
+to,1
+panachand,1
+shah,1

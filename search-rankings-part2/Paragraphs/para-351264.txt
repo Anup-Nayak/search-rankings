@@ -1,0 +1,7 @@
+91,83,6
+105,1
+instructive,1
+conversation,1
+on,1
+khadi,1
+2,1

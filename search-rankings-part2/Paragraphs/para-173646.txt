@@ -1,0 +1,8 @@
+49,465,3
+central,1
+prison,1
+naini,1
+allahabad,1
+july,1
+28,1
+1930,1

@@ -1,0 +1,10 @@
+71,132,5
+the,2
+congress,1
+to,1
+test,1
+bona,1
+fides,1
+by,1
+taking,1
+office,1

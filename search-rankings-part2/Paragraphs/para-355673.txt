@@ -1,0 +1,7 @@
+92,116,1
+167,1
+letter,1
+to,1
+ram,1
+naresh,1
+tripathi,1

@@ -1,0 +1,3 @@
+82,184,5
+linguistic,1
+basis,1

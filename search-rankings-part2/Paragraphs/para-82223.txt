@@ -1,0 +1,13 @@
+24,153,11
+2,1
+the,2
+government,1
+cut,1
+up,1
+turkish,1
+kingdom,1
+but,1
+left,1
+european,1
+kingdoms,1
+intact,1

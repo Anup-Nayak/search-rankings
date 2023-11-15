@@ -1,0 +1,16 @@
+9,13,20
+a,1
+third,1
+hawker,1
+was,1
+then,1
+placed,1
+in,1
+the,1
+dock,1
+and,1
+mr,2
+gandhi,1
+again,1
+called,1
+jefferson,1

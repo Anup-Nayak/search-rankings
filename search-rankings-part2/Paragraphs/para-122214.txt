@@ -1,0 +1,7 @@
+36,106,11
+114,1
+letter,1
+to,1
+jagjivan,1
+talekchand,1
+durbari,1

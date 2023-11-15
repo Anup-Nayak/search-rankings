@@ -1,0 +1,13 @@
+27,27,6
+m,1
+k,1
+gandhi,1
+gajanan,1
+n,1
+kanitkar,1
+managing,1
+trustee,1
+s,1
+r,1
+pathshala,1
+chinchwad,1

@@ -1,0 +1,10 @@
+57,399,7
+man,2
+and,2
+i,1
+wrote,1
+advising,1
+sir,1
+samuel,1
+hoare,1
+of,1

@@ -1,0 +1,11 @@
+88,241,3
+send,1
+doctor,1
+katjus,1
+1,1
+opinion,1
+on,1
+basuda,1
+singh,1
+2,1
+case,1

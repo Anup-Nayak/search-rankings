@@ -1,0 +1,6 @@
+79,437,9
+early,1
+morning,1
+december,1
+16,1
+1940,1

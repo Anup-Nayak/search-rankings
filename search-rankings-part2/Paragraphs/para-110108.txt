@@ -1,0 +1,6 @@
+32,391,1
+246,1
+all,1
+bengal,1
+deshbandhu,1
+memorial,1

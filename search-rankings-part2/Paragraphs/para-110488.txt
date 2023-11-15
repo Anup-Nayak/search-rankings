@@ -1,0 +1,15 @@
+32,445,10
+was,1
+he,1
+justified,1
+to,1
+kill,1
+the,2
+lion,1
+should,1
+father,1
+remain,1
+non,1
+violent,1
+and,1
+let,1

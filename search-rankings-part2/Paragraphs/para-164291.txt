@@ -1,0 +1,5 @@
+47,223,7
+on,1
+way,1
+to,1
+manakpur,1

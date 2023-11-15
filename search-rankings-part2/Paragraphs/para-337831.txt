@@ -1,0 +1,8 @@
+87,430,16
+only,1
+immediate,1
+question,1
+is,1
+whether,1
+the,1
+proposals,1

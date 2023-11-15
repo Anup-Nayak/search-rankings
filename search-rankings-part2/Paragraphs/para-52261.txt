@@ -1,0 +1,17 @@
+15,237,7
+1,1
+in,1
+reply,1
+to,1
+a,2
+question,1
+during,1
+post,1
+prayer,1
+meeting,1
+at,1
+satyagraha,1
+ashram,1
+near,1
+kochrab,1
+ahmedabad,1

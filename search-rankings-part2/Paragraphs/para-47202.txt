@@ -1,0 +1,8 @@
+14,160,6
+request,1
+favourable,1
+reply,1
+my,1
+wire,1
+regarding,1
+photo,1

@@ -1,0 +1,7 @@
+51,127,12
+position,2
+take,1
+n,1
+at,1
+yeravda,1
+interviews,1

@@ -1,0 +1,16 @@
+78,34,1
+if,1
+therefore,1
+the,1
+resolution,1
+must,1
+be,1
+taken,1
+to,1
+mean,1
+what,1
+it,1
+says,1
+and,1
+we,1
+are,1

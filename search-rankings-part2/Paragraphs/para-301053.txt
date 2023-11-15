@@ -1,0 +1,9 @@
+80,111,2
+from,1
+a,1
+facsimile,1
+of,2
+the,1
+gujarati,1
+report,1
+vikasgriha,1

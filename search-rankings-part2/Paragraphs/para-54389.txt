@@ -1,0 +1,10 @@
+15,480,8
+3,1
+no,1
+hurja,1
+1,1
+or,1
+tawan,1
+to,1
+be,1
+taken,1

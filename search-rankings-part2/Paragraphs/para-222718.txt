@@ -1,0 +1,9 @@
+61,170,8
+father,1
+gives,1
+full,1
+consent,1
+have,1
+asked,1
+narandas,1
+confirm,1

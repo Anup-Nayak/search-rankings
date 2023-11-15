@@ -1,0 +1,6 @@
+39,74,7
+83,1
+letter,1
+to,1
+manorama,1
+devi,1

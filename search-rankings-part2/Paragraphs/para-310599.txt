@@ -1,0 +1,6 @@
+82,66,6
+71,1
+message,1
+to,1
+marathi,1
+harijan,1

@@ -1,0 +1,14 @@
+20,22,4
+the,2
+tahsildar,1
+came,1
+to,1
+our,1
+village,1
+in,1
+month,1
+of,1
+baisakh,1
+at,1
+night,1
+it,1

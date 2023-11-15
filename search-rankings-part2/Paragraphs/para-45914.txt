@@ -1,0 +1,9 @@
+14,8,12
+suffering,1
+is,1
+what,1
+we,2
+bargained,1
+for,1
+and,1
+shall,1

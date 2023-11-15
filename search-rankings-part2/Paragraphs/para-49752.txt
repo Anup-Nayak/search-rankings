@@ -1,0 +1,7 @@
+14,473,18
+release,1
+of,2
+the,2
+balance,1
+passive,1
+resisters,1

@@ -1,0 +1,17 @@
+46,159,1
+departments,1
+we,1
+therefore,1
+pass,1
+by,1
+many,1
+a,1
+wrong,1
+that,1
+is,1
+being,1
+perpetrated,1
+in,1
+front,1
+of,1
+us,1

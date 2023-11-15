@@ -1,0 +1,16 @@
+23,151,6
+go,1
+to,3
+him,2
+in,1
+order,1
+bring,1
+up,1
+simla,1
+soon,1
+after,1
+the,1
+telegram,1
+he,1
+received,1
+a,1

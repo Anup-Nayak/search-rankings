@@ -1,0 +1,4 @@
+19,8,23
+and,1
+manner,1
+suggested,1

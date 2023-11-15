@@ -1,0 +1,9 @@
+15,480,13
+motihari,1
+shravan,1
+shukla,1
+1,1
+july,1
+28,1
+1917,1
+2,1

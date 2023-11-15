@@ -1,0 +1,5 @@
+92,38,4
+55,1
+disloyalty,1
+to,1
+khadi,1

@@ -1,0 +1,6 @@
+9,333,3
+208,1
+speech,1
+at,1
+johannesburg,1
+meeting,1

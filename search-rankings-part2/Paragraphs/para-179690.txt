@@ -1,0 +1,13 @@
+51,188,4
+in,1
+reply,1
+to,2
+this,1
+he,2
+said,1
+that,1
+would,1
+wish,1
+raise,1
+particular,1
+subjects,1

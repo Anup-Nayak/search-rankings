@@ -1,0 +1,13 @@
+64,195,11
+souls,1
+matter,1
+more,1
+than,1
+villages,1
+and,1
+one,1
+pilgrim,1
+is,1
+worth,1
+a,1
+thousand,1

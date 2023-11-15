@@ -1,0 +1,7 @@
+36,481,5
+period,1
+from,2
+the,2
+city,1
+district,1
+total,1

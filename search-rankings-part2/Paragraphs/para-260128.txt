@@ -1,0 +1,14 @@
+70,35,3
+34,1
+speech,1
+at,1
+the,2
+concluding,1
+session,1
+of,1
+twelfth,1
+gujarati,1
+sahitya,1
+parishad,1
+ahmedabad,1
+1,1

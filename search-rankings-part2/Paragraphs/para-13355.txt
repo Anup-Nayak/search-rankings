@@ -1,0 +1,15 @@
+5,242,3
+4,1
+indians,1
+held,1
+99,1
+years,1
+lease,1
+for,1
+landed,1
+property,1
+in,2
+location,1
+or,1
+bazaar,1
+johannesburg,1

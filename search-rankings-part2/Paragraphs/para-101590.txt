@@ -1,0 +1,17 @@
+30,33,4
+i,1
+promise,1
+to,1
+introduce,1
+ten,1
+thousand,1
+charkhas,1
+in,1
+the,1
+city,1
+of,1
+madura,1
+before,1
+30th,1
+april,1
+1926,1

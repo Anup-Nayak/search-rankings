@@ -1,0 +1,16 @@
+31,261,8
+after,2
+the,2
+health,1
+of,1
+citizens,1
+they,1
+had,1
+to,1
+look,1
+water,1
+supply,1
+which,1
+was,1
+a,1
+great,1

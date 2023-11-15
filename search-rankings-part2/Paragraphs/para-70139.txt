@@ -1,0 +1,6 @@
+20,96,16
+q,1
+you,1
+got,1
+that,1
+opportunity,1

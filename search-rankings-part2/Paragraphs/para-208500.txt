@@ -1,0 +1,8 @@
+58,127,15
+3,1
+these,1
+two,1
+sentences,1
+are,1
+in,1
+gujarati,1

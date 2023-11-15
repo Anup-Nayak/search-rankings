@@ -1,0 +1,7 @@
+42,190,6
+professors,1
+marriage,1
+to,1
+a,1
+young,1
+girl,1

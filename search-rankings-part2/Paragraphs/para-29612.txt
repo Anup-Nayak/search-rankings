@@ -1,0 +1,16 @@
+9,475,12
+sons,1
+and,1
+male,1
+wards,1
+under,1
+the,1
+age,2
+of,1
+16,1
+years,1
+names,1
+residence,1
+relationship,1
+to,1
+guardian,1

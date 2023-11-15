@@ -1,0 +1,14 @@
+66,248,7
+2,1
+cow,1
+milk,2
+being,1
+easily,1
+digestible,1
+is,1
+more,1
+beneficial,1
+to,1
+patients,1
+than,1
+buffalo,1

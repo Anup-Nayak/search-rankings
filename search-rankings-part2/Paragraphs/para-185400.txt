@@ -1,0 +1,6 @@
+52,355,9
+teachers,1
+trained,1
+so,1
+far,1
+250,1

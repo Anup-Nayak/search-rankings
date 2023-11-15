@@ -1,0 +1,8 @@
+88,388,11
+1,1
+nature,1
+cure,1
+clinic,1
+at,1
+uruli,1
+kanchan,1

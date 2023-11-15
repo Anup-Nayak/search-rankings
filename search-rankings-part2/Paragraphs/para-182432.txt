@@ -1,0 +1,4 @@
+52,34,2
+as,1
+at,1
+sabarmati,1

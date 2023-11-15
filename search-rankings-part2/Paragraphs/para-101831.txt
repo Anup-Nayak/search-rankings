@@ -1,0 +1,6 @@
+30,73,2
+navajivan,1
+supplement,1
+18,1
+1,1
+1925,1

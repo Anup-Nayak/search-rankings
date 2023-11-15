@@ -1,0 +1,17 @@
+82,417,8
+and,1
+persuasively,1
+that,2
+i,2
+promised,1
+but,1
+he,1
+wanted,1
+me,1
+to,1
+fix,1
+the,1
+date,1
+could,1
+not,1
+do,1

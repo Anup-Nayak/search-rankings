@@ -1,0 +1,16 @@
+82,155,7
+on,1
+poland,1
+and,1
+france,1
+that,1
+is,1
+why,1
+the,1
+average,1
+citizen,1
+of,1
+conquered,1
+countries,1
+puts,1
+his,1

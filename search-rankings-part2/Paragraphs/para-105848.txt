@@ -1,0 +1,9 @@
+31,191,7
+inter,1
+dining,1
+between,1
+say,1
+vegetarian,2
+brahmins,2
+and,1
+non,1

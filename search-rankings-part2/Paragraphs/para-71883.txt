@@ -1,0 +1,9 @@
+20,375,1
+144,1
+why,1
+is,1
+non,1
+co,1
+operation,1
+being,1
+delayed,1

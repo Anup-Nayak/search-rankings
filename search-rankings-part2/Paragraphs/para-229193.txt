@@ -1,0 +1,13 @@
+62,455,9
+4,1
+mondays,1
+and,2
+tuesdays,1
+in,1
+every,1
+week,1
+are,1
+nonworking,1
+days,1
+should,1
+be,1

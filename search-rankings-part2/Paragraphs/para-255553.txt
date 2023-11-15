@@ -1,0 +1,7 @@
+69,18,2
+nandi,1
+hill,1
+bangalore,1
+may,1
+21,1
+1936,1

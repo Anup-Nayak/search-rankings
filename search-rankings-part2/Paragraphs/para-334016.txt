@@ -1,0 +1,10 @@
+87,74,2
+i,1
+a,1
+m,2
+yours,1
+sincerely,1
+k,1
+gandhi,1
+enclosures,1
+2,1

@@ -1,0 +1,8 @@
+44,219,4
+1,1
+minister,1
+of,1
+st,1
+aidans,1
+church,1
+durban,1

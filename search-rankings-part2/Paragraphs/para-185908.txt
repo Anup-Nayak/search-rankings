@@ -1,0 +1,5 @@
+52,418,2
+self,1
+respect,1
+above,1
+all,1

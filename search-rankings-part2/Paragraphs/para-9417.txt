@@ -1,0 +1,15 @@
+4,116,6
+we,1
+have,1
+received,1
+a,1
+copy,1
+of,1
+the,3
+circular,1
+issued,1
+by,1
+edwin,1
+arnold,1
+memorial,1
+committee,2

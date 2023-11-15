@@ -1,0 +1,6 @@
+62,410,2
+447,1
+letter,1
+to,1
+yvonne,1
+privat,1

@@ -1,0 +1,8 @@
+42,469,2
+signature,1
+in,1
+roman,1
+characters,1
+or,1
+thumb,1
+print,1

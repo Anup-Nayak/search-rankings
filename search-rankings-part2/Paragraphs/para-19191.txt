@@ -1,0 +1,5 @@
+6,458,4
+what,1
+should,1
+traders,1
+do,1

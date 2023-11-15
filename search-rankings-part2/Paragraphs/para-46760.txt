@@ -1,0 +1,15 @@
+14,102,8
+1,1
+mystic,1
+poet,1
+of,1
+the,1
+17th,1
+century,1
+famed,1
+for,1
+his,1
+satire,1
+vedantist,1
+and,1
+rationalist,1

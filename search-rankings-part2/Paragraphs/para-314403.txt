@@ -1,0 +1,10 @@
+82,372,14
+resistance,1
+against,1
+the,2
+japanese,2
+far,1
+from,1
+preventing,1
+non,1
+violent,1

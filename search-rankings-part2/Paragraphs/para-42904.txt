@@ -1,0 +1,7 @@
+13,144,4
+immigration,1
+bills,1
+now,1
+before,1
+senate,1
+fails,1

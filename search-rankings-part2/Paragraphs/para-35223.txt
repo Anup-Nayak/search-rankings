@@ -1,0 +1,15 @@
+11,199,6
+from,1
+a,1
+photostat,1
+of,1
+the,2
+typewritten,1
+copy,1
+in,1
+colonial,1
+office,1
+records,1
+c,1
+o,1
+551/7,1

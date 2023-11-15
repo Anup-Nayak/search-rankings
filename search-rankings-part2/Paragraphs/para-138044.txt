@@ -1,0 +1,15 @@
+40,284,7
+1,1
+from,1
+bapuna,1
+patro6,1
+g,1
+s,1
+gangabehnne,1
+gandhiji,1
+was,1
+at,1
+coimbatore,1
+on,1
+this,1
+date,1

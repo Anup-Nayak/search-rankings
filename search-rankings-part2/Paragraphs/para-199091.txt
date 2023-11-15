@@ -1,0 +1,9 @@
+55,509,2
+bapu,1
+ps,1
+write,1
+to,1
+me,1
+about,1
+your,1
+constipation,1

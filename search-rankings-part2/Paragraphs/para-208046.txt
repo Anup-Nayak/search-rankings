@@ -1,0 +1,15 @@
+58,82,7
+5,1
+the,1
+addressee,1
+had,1
+sought,1
+permission,1
+to,1
+see,1
+gandhiji,1
+along,1
+with,1
+her,1
+friend,1
+ushila,1

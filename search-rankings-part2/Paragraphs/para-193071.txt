@@ -1,0 +1,9 @@
+54,290,8
+hasty,1
+decision,1
+but,1
+await,1
+my,1
+statement,1
+i,1
+shall,1

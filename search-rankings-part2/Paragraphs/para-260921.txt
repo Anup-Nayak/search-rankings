@@ -1,0 +1,14 @@
+70,120,4
+vandemataram,1
+from,1
+mohandas,1
+gandhi,1
+shri,1
+manshanker,1
+j,1
+trivedi,1
+106,1
+vithalbhai,1
+patel,1
+road,1
+bombay,1

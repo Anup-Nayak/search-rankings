@@ -1,0 +1,12 @@
+8,113,2
+65,1
+letter,1
+to,1
+indian,2
+opinion,2
+johannesburg,1
+february,1
+2,1
+1908,1
+the,1
+editor,1

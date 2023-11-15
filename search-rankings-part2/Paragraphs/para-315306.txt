@@ -1,0 +1,11 @@
+82,403,12
+l,1
+f,1
+i,1
+dont,1
+like,1
+the,1
+taste,1
+of,1
+these,1
+vegetables,1

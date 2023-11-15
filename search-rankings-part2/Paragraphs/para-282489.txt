@@ -1,0 +1,7 @@
+75,312,13
+myself,1
+developing,1
+new,1
+technique,1
+my,1
+desire,1

@@ -1,0 +1,12 @@
+76,18,4
+leaders,1
+must,1
+lead,1
+a,1
+cutch,1
+worker,1
+came,1
+in,1
+yesterday,1
+and,1
+said,1

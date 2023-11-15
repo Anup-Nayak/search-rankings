@@ -1,0 +1,6 @@
+77,255,10
+segaon,1
+wardha,1
+january,1
+25,1
+1940,1

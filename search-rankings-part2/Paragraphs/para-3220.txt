@@ -1,0 +1,16 @@
+2,108,3
+fit,1
+object,1
+to,2
+be,1
+spat,1
+at,1
+and,2
+afraid,1
+return,1
+face,1
+the,1
+consequences,1
+then,1
+he,1
+was,1

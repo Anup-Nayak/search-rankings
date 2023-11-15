@@ -1,0 +1,7 @@
+90,119,6
+wait,1
+till,1
+then,1
+cloistered,1
+civilization,1
+like,1

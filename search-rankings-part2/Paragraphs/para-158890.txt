@@ -1,0 +1,5 @@
+46,75,1
+67,1
+karachi,1
+khadi,1
+bhandar,1

@@ -1,0 +1,14 @@
+49,466,25
+false,1
+or,1
+weak,1
+move,1
+on,1
+our,1
+part,1
+i,2
+am,1
+expressing,1
+myself,2
+moderately,1
+for,1

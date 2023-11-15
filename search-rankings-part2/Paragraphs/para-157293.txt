@@ -1,0 +1,6 @@
+45,343,2
+caste,1
+dinners,1
+by,1
+incurring,1
+debt,1

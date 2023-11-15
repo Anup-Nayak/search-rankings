@@ -1,0 +1,4 @@
+81,364,3
+12,1
+national,1
+language,1

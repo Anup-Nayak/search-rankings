@@ -1,0 +1,17 @@
+62,460,20
+i,2
+write,1
+as,1
+an,1
+individual,1
+and,1
+in,1
+this,1
+matter,1
+claim,1
+to,1
+represent,1
+no,1
+one,1
+but,1
+myself,1

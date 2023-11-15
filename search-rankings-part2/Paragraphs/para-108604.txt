@@ -1,0 +1,12 @@
+32,120,4
+2,1
+who,1
+performed,1
+severe,1
+penance,1
+to,1
+secure,1
+shiva,1
+as,1
+her,1
+husband,1

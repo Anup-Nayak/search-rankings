@@ -1,0 +1,9 @@
+13,47,13
+state,1
+although,1
+they,1
+will,1
+remain,1
+liable,1
+to,1
+restrictions,1

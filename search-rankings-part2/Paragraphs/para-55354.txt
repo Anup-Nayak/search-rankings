@@ -1,0 +1,6 @@
+16,66,2
+mothari,1
+tuesday,1
+october,1
+16,1
+1917,1

@@ -1,0 +1,9 @@
+68,272,6
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+hindi,1
+shri,1
+ramacharitmanas,1

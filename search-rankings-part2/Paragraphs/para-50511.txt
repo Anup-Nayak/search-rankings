@@ -1,0 +1,7 @@
+15,43,10
+vandemataram,1
+from,2
+mohandas,1
+karam,1
+chand,1
+gujarati,1

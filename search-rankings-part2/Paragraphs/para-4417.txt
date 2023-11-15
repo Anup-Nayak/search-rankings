@@ -1,0 +1,6 @@
+2,245,1
+79,1
+indian,1
+traders,1
+in,1
+rhodesia,1

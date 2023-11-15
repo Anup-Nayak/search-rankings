@@ -1,0 +1,7 @@
+70,119,1
+134,1
+letter,1
+to,1
+dr,1
+harilal,1
+adalja,1

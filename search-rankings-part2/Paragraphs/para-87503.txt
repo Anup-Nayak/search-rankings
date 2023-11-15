@@ -1,0 +1,13 @@
+25,494,12
+the,1
+errors,1
+of,1
+one,1
+another,1
+hindus,1
+mussulmans,1
+parsis,1
+christians,1
+and,1
+jews,1
+who,1

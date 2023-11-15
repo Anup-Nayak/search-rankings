@@ -1,0 +1,13 @@
+24,116,5
+2,1
+if,1
+the,1
+bhangi,1
+who,1
+cleans,1
+your,2
+lavatories,1
+comes,1
+to,1
+house,1
+at,1

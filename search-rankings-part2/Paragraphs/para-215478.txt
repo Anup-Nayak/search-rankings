@@ -1,0 +1,9 @@
+59,352,9
+2,1
+mahavir,1
+prasad,1
+dwivedi,1
+founder,1
+editor,1
+of,1
+sarasvati,1

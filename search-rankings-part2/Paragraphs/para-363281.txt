@@ -1,0 +1,13 @@
+94,31,7
+caste,1
+widow,1
+marriage,1
+was,2
+prevalent,1
+but,1
+in,1
+imitation,1
+of,1
+another,1
+section,1
+which,1

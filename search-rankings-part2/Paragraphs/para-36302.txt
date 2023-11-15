@@ -1,0 +1,8 @@
+11,298,4
+colour,2
+bar,1
+stop,1
+if,1
+passive,1
+resisters,1
+object,1

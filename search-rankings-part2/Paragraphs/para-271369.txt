@@ -1,0 +1,8 @@
+72,491,2
+a,2
+m,1
+jinnahs,1
+speech,1
+at,1
+lucknow,1
+1,1

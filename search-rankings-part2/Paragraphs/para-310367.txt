@@ -1,0 +1,12 @@
+82,41,3
+so,1
+much,1
+for,1
+what,2
+a,2
+woman,1
+should,1
+do,1
+but,1
+about,1
+man,1

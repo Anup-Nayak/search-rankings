@@ -1,0 +1,13 @@
+95,77,2
+gandhiji,1
+asked,2
+many,1
+questions,1
+of,1
+the,2
+two,1
+girls,1
+in,1
+group,1
+he,1
+them,1

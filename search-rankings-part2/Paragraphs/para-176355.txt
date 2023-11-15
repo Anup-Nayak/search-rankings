@@ -1,0 +1,13 @@
+50,294,10
+1,1
+one,1
+who,1
+clings,1
+to,1
+the,1
+name,1
+which,1
+is,1
+his,1
+very,1
+self,1

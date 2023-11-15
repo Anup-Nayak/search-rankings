@@ -1,0 +1,11 @@
+42,209,1
+selfthe,1
+constant,1
+habit,1
+and,2
+purpose,1
+of,1
+living,1
+doing,1
+for,1
+others,1

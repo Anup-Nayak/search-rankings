@@ -1,0 +1,16 @@
+13,23,2
+phoenix,1
+natal,1
+march,1
+24,1
+1913,1
+the,4
+private,1
+secretary,1
+to,1
+honble,1
+minister,1
+of,1
+interior,1
+cape,1
+twon,1

@@ -1,0 +1,12 @@
+37,336,4
+1,1
+sacred,1
+books,1
+prescribing,1
+rules,1
+for,1
+personal,1
+conduct,1
+and,1
+social,1
+life,1

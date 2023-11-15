@@ -1,0 +1,10 @@
+11,487,13
+act,1
+no,1
+38,1
+of,1
+1908,1
+the,2
+immigrants,1
+restriction,1
+whole,1

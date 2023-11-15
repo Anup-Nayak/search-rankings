@@ -1,0 +1,14 @@
+82,416,24
+g,1
+truth,2
+is,2
+not,1
+merely,1
+a,2
+matter,2
+of,2
+words,1
+it,1
+really,1
+living,1
+the,1

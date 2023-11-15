@@ -1,0 +1,13 @@
+82,408,11
+asleep,1
+again,1
+and,1
+then,1
+i,1
+have,1
+half,1
+an,1
+hours,1
+sleep,1
+every,1
+afternoon,1

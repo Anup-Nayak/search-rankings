@@ -1,0 +1,12 @@
+89,244,14
+1vide,1
+the,3
+following,1
+item,1
+2,1
+letter,1
+is,1
+written,1
+in,1
+devanagari,1
+script,1

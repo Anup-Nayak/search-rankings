@@ -1,0 +1,8 @@
+92,439,2
+silence,1
+day,1
+after,1
+november,1
+2,1
+1946,1
+1,1

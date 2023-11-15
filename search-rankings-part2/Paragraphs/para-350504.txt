@@ -1,0 +1,8 @@
+90,446,7
+1,1
+adult,1
+suffrage,1
+has,1
+been,1
+ruled,1
+out,1

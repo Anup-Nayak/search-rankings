@@ -1,0 +1,13 @@
+64,174,5
+otherwise,1
+he,2
+said,2
+hinduism,1
+would,1
+die,1
+the,1
+women,1
+of,1
+india,1
+had,1
+always,1

@@ -1,0 +1,5 @@
+76,106,7
+134,1
+letter,1
+to,1
+krishnachandra,1

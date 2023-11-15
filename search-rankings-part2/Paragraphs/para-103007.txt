@@ -1,0 +1,7 @@
+30,217,4
+a,1
+surely,1
+the,1
+hindus,1
+suffered,1
+more,1

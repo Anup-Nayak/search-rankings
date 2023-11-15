@@ -1,0 +1,7 @@
+3,323,5
+weekly,1
+statement,1
+ending,1
+november,1
+16,1
+1903,1

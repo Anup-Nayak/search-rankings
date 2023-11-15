@@ -1,0 +1,13 @@
+6,530,4
+a,1
+to,1
+the,1
+penalties,1
+mentioned,1
+in,1
+sub,1
+section,2
+1,1
+of,1
+this,1
+and,1

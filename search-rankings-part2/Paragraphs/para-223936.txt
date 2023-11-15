@@ -1,0 +1,14 @@
+61,304,13
+gandhiji,1
+i,2
+think,1
+in,1
+1922,1
+when,1
+pleaded,1
+guilty,1
+all,1
+evidence,1
+was,1
+dispensed,1
+with,1

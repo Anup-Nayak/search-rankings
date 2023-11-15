@@ -1,0 +1,8 @@
+54,347,23
+rents,2
+actually,1
+arrived,1
+and,1
+began,1
+to,1
+be,1

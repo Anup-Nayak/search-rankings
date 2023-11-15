@@ -1,0 +1,12 @@
+52,62,4
+a,2
+friend,1
+of,3
+mine,1
+gave,1
+me,1
+copy,1
+the,2
+madras,1
+catholic,1
+leader,1

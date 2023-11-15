@@ -1,0 +1,9 @@
+14,10,21
+stop,1
+this,1
+infuse,1
+indignation,1
+added,1
+to,1
+by,1
+knowledge,1

@@ -1,0 +1,15 @@
+6,45,7
+placed,1
+before,1
+me,1
+today,2
+and,1
+with,1
+regard,1
+to,1
+the,1
+general,1
+feeling,1
+i,1
+have,1
+received,1

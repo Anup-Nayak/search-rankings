@@ -1,0 +1,8 @@
+90,102,10
+to,1
+consider,1
+asiatic,1
+african,1
+and,1
+general,1
+colour,1

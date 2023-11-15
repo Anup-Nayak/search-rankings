@@ -1,0 +1,7 @@
+42,198,6
+jamnadas,1
+gandhi,1
+opposite,1
+middle,1
+school,1
+rajkot,1

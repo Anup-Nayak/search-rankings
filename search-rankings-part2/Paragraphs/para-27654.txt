@@ -1,0 +1,6 @@
+9,191,21
+1,1
+the,1
+original,1
+has,1
+komatiepoort,1

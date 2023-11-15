@@ -1,0 +1,13 @@
+78,185,6
+permission,1
+was,1
+neither,1
+sought,1
+for,2
+nor,1
+obtained,1
+this,1
+act,1
+apart,1
+from,1
+the,1

@@ -1,0 +1,7 @@
+77,244,2
+1,1
+phoenix,1
+settlement,1
+and,1
+tolstoy,1
+farm,1

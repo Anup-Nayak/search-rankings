@@ -1,0 +1,9 @@
+17,249,3
+not,1
+yet,1
+out,1
+of,1
+bed,1
+though,1
+recovering,1
+therefore,1

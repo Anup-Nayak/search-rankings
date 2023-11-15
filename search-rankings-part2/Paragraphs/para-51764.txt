@@ -1,0 +1,5 @@
+15,172,2
+education,1
+through,1
+the,1
+vernaculars,1

@@ -1,0 +1,15 @@
+52,403,5
+1,1
+hereditary,1
+land,1
+grants,1
+or,1
+cash,1
+allowances,1
+for,1
+performance,1
+of,1
+service,1
+2,1
+village,1
+headmen,1

@@ -1,0 +1,8 @@
+46,460,6
+shall,1
+be,1
+a,1
+member,1
+of,1
+the,1
+association,1

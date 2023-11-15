@@ -1,0 +1,6 @@
+87,130,6
+221,1
+letter,1
+to,1
+lakshmi,1
+gandhi,1

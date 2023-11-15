@@ -1,0 +1,13 @@
+97,466,12
+1,1
+addressees,1
+husband,1
+2,1
+vide,1
+letter,1
+to,1
+harjivan,1
+kotak,1
+9,1
+11,1
+1947,1

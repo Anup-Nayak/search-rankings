@@ -1,0 +1,4 @@
+82,390,18
+the,1
+electoral,1
+college,1

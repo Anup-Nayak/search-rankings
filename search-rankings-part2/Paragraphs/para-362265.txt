@@ -1,0 +1,12 @@
+93,348,5
+wire,1
+received,1
+yesterday,1
+do,1
+not,1
+know,1
+full,1
+facts,1
+consult,1
+vinoba,1
+or,1

@@ -1,0 +1,6 @@
+50,128,1
+187,1
+letter,1
+to,1
+vasumati,1
+pandit,1

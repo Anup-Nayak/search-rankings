@@ -1,0 +1,13 @@
+76,112,5
+b,1
+the,1
+sevaks,1
+should,1
+undertake,1
+to,1
+serve,1
+for,1
+at,1
+least,1
+five,1
+years,1

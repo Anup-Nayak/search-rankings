@@ -1,0 +1,7 @@
+35,171,11
+1,1
+vide,1
+the,1
+succeeding,1
+two,1
+items,1

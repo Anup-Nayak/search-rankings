@@ -1,0 +1,9 @@
+43,59,2
+the,2
+way,1
+of,1
+lord,1
+is,1
+meant,1
+for,1
+heroes,1

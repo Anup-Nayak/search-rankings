@@ -1,0 +1,13 @@
+54,11,6
+with,1
+the,2
+material,1
+at,1
+its,1
+disposal,1
+to,2
+give,1
+conference,1
+a,1
+minimum,1
+scheme,1

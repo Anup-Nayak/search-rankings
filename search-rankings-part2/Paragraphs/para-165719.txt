@@ -1,0 +1,6 @@
+47,387,8
+deepest,1
+sympathy,1
+your,1
+grief,1
+console,1

@@ -1,0 +1,16 @@
+97,111,1
+the,1
+characters,1
+should,1
+be,1
+as,2
+neat,1
+and,1
+well,1
+formed,1
+pearls,1
+can,1
+one,1
+ever,1
+forget,1
+you,1

@@ -1,0 +1,6 @@
+47,446,4
+511,1
+the,1
+same,1
+old,1
+questions,1

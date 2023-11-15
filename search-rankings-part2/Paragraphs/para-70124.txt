@@ -1,0 +1,7 @@
+20,96,1
+q,1
+on,1
+a,1
+lahore,1
+summer,1
+day,1

@@ -1,0 +1,10 @@
+56,359,9
+awake,1
+and,1
+arise,1
+o,1
+traveller,1
+it,1
+is,1
+morning,1
+now,1

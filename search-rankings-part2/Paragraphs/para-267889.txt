@@ -1,0 +1,12 @@
+72,96,8
+bapu,1
+ps,1
+i,2
+am,1
+keeping,1
+well,1
+returned,1
+from,1
+delhi,1
+only,1
+yesterday,1

@@ -1,0 +1,6 @@
+72,267,1
+342,1
+letter,1
+to,1
+manu,1
+subedar,1

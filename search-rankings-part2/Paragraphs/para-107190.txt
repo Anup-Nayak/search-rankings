@@ -1,0 +1,7 @@
+31,366,7
+5,1
+monthly,1
+output,1
+of,1
+yarn1,1
+maund,1

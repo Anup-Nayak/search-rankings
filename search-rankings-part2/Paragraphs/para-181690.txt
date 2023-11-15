@@ -1,0 +1,13 @@
+51,444,10
+is,1
+a,2
+certain,2
+commitment,1
+in,1
+it,1
+regarding,1
+the,1
+scope,1
+of,1
+discussions,1
+and,1

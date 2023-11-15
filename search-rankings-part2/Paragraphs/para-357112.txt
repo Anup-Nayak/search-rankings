@@ -1,0 +1,16 @@
+92,271,6
+1,2
+this,1
+was,1
+in,1
+reply,1
+to,2
+the,1
+addressees,1
+letter,1
+of,1
+october,1
+1946,1
+rajkumari,1
+amrit,1
+kaur,1

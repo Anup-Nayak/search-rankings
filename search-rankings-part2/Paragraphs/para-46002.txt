@@ -1,0 +1,9 @@
+14,11,24
+proposals,1
+may,1
+be,1
+submitted,1
+in,1
+writing,1
+promising,1
+consideration,1

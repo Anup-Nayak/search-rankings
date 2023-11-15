@@ -1,0 +1,15 @@
+93,252,6
+1,2
+of,1
+a,1
+village,2
+to,1
+walking,1
+tour,1
+vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+6,1
+1947,1

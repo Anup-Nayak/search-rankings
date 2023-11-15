@@ -1,0 +1,8 @@
+41,58,4
+70,1
+letter,1
+to,1
+s,1
+v,1
+visvanatha,1
+iyer,1

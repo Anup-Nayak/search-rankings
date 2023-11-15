@@ -1,0 +1,8 @@
+29,185,12
+forty,1
+days,2
+fast,1
+but,1
+fixed,1
+twenty,1
+one,1

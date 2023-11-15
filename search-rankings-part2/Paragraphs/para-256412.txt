@@ -1,0 +1,14 @@
+69,112,6
+q,1
+have,1
+we,2
+given,1
+up,2
+the,1
+temple,1
+entry,1
+bill,1
+cant,1
+take,1
+it,1
+again,1

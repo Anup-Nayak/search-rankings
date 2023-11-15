@@ -1,0 +1,9 @@
+32,0,17
+unless,1
+friends,1
+have,1
+valid,1
+reasons,1
+contrary,1
+nations,1
+work,1

@@ -1,0 +1,14 @@
+38,85,9
+in,1
+sack,1
+cloth,1
+and,1
+ashes,1
+to,2
+offer,1
+fasts,1
+hold,1
+hartal,1
+raise,1
+memorial,1
+the,1

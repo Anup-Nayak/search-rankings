@@ -1,0 +1,12 @@
+32,445,8
+now,1
+give,1
+your,1
+opinion,1
+regarding,1
+the,2
+method,1
+used,1
+by,1
+childs,1
+father,1

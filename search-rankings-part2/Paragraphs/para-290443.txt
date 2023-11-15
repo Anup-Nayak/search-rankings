@@ -1,0 +1,8 @@
+77,305,11
+371,1
+statement,1
+to,1
+the,1
+daily,1
+herald,1
+3,1

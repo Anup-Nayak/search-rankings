@@ -1,0 +1,9 @@
+13,174,18
+under,1
+bill,1
+be,1
+allowed,1
+claim,1
+right,1
+residence,1
+that,1

@@ -1,0 +1,6 @@
+81,507,3
+congress,1
+working,1
+committees,1
+resolution,1
+1,1

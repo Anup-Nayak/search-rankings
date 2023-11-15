@@ -1,0 +1,10 @@
+82,170,10
+from,1
+a,1
+photostat,1
+c,1
+w,1
+988,1
+courtesy,1
+lala,1
+jagannath,1

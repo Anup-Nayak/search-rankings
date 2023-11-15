@@ -1,0 +1,9 @@
+14,11,10
+stop,1
+we,1
+must,1
+not,1
+be,1
+penalized,1
+by,1
+governments,1

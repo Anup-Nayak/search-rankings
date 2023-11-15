@@ -1,0 +1,12 @@
+72,159,15
+relief,1
+for,1
+you,1
+it,1
+would,1
+be,1
+graceful,1
+on,1
+your,1
+part,1
+yield,1

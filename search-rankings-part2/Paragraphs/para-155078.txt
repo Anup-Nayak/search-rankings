@@ -1,0 +1,5 @@
+45,24,5
+a,1
+lawyer,1
+friend,1
+writes,1

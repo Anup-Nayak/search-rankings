@@ -1,0 +1,14 @@
+77,101,8
+sumi,1
+you,2
+must,1
+have,1
+grown,1
+into,1
+a,1
+big,1
+girl,1
+now,1
+does,1
+kanam,1
+harass,1

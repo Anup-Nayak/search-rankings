@@ -1,0 +1,15 @@
+16,17,6
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+postcard,1
+in,2
+gujarati,1
+gandhijis,1
+hand,1
+g,1
+n,1
+2665,1

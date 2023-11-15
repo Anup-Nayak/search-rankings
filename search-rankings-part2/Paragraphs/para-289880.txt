@@ -1,0 +1,12 @@
+77,238,3
+1,1
+vide,1
+speech,1
+on,1
+hindu,1
+muslim,1
+friendship,1
+bombay,1
+6,1
+4,1
+1919,1

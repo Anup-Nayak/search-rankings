@@ -1,0 +1,12 @@
+22,511,9
+and,1
+this,1
+congress,1
+appeals,1
+to,1
+all,1
+people,1
+in,1
+government,1
+employment,1
+pending,1

@@ -1,0 +1,6 @@
+67,190,7
+298,1
+letter,1
+to,1
+vithaldas,1
+jerajani,1

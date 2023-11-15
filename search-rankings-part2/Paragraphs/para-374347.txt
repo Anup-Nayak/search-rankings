@@ -1,0 +1,9 @@
+97,112,11
+96,1
+talk,1
+with,1
+lord,1
+and,1
+lady,1
+handes,1
+2,1

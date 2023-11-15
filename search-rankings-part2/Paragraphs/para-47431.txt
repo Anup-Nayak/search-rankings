@@ -1,0 +1,11 @@
+14,187,10
+passive,1
+resistance,1
+was,1
+as,1
+an,1
+instrument,1
+for,1
+winning,1
+reformsperhaps,1
+the,1

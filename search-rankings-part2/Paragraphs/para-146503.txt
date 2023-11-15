@@ -1,0 +1,7 @@
+42,415,2
+do,1
+write,1
+to,2
+me,1
+from,1
+time,2

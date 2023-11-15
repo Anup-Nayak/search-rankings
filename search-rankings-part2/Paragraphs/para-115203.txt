@@ -1,0 +1,6 @@
+34,226,3
+when,1
+a,2
+marriage,2
+is,1
+not,1

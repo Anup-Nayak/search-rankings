@@ -1,0 +1,4 @@
+92,314,2
+the,1
+smoking,1
+evil,1

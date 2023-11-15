@@ -1,0 +1,7 @@
+83,83,7
+101,1
+letter,1
+to,1
+jagdish,1
+and,1
+chandramukhi,1

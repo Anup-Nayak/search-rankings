@@ -1,0 +1,17 @@
+71,22,8
+a,1
+roman,1
+catholic,1
+father,1
+who,1
+saw,1
+gandhiji,2
+the,2
+other,1
+day,1
+asked,1
+how,1
+proposed,1
+to,1
+break,1
+caste,1

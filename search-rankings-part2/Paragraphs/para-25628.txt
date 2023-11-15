@@ -1,0 +1,15 @@
+8,432,8
+the,3
+following,1
+letter,1
+2,1
+from,1
+mr,1
+gandhi,1
+appeared,1
+in,1
+trans,1
+vaal,1
+press,1
+on,1
+4th,1

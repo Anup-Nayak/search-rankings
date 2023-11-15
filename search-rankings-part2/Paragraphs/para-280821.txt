@@ -1,0 +1,14 @@
+75,121,8
+mira,1
+we,1
+reach,1
+rajkot,1
+about,1
+2,1
+50,1
+p,1
+train,1
+going,1
+so,1
+good,1
+bye,1

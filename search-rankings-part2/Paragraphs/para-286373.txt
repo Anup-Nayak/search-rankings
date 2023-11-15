@@ -1,0 +1,5 @@
+76,276,20
+up,1
+to,1
+their,1
+expectations,1

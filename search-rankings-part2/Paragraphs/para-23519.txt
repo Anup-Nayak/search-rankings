@@ -1,0 +1,4 @@
+8,68,5
+general,1
+smuts,1
+statement,1

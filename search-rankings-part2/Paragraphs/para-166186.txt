@@ -1,0 +1,6 @@
+47,439,1
+502,1
+letter,1
+to,1
+nargis,1
+captain,1

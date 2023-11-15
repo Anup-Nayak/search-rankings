@@ -1,0 +1,12 @@
+38,85,10
+departed,1
+muslim,1
+and,1
+many,1
+other,1
+things,1
+why,1
+do,1
+you,1
+accord,1
+preferential,1

@@ -1,0 +1,6 @@
+43,180,6
+221,1
+letter,1
+to,1
+shaukat,1
+ali,1

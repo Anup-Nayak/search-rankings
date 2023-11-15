@@ -1,0 +1,9 @@
+14,20,20
+ful,1
+in,1
+our,1
+calamity,1
+preparing,1
+for,1
+and,1
+awaiting,1

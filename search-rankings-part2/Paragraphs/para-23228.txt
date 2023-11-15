@@ -1,0 +1,5 @@
+8,36,2
+attack,1
+on,1
+germiston,1
+indians,1

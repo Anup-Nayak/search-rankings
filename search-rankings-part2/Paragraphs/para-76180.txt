@@ -1,0 +1,10 @@
+22,110,2
+on,1
+way,1
+to,1
+calcutta,1
+thursday,1
+december,1
+16,1
+1920,1
+1,1

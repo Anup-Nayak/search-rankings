@@ -1,0 +1,11 @@
+82,323,8
+the,1
+17th,1
+may,1
+plucked,1
+fruits,1
+and,2
+wilfully,1
+damaged,1
+green,1
+mangoes,1

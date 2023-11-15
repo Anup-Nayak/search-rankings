@@ -1,0 +1,13 @@
+71,355,6
+bapu,1
+ps,1
+how,1
+is,2
+the,1
+heat,1
+there,1
+it,1
+quite,1
+hot,1
+over,1
+here,1

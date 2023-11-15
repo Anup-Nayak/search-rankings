@@ -1,0 +1,4 @@
+82,190,12
+economy,1
+in,1
+travelling,1

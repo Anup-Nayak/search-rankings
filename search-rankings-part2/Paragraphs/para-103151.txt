@@ -1,0 +1,6 @@
+30,230,12
+115,1
+telegram,1
+to,1
+mathuradas,1
+trikumji,1

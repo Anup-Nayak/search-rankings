@@ -1,0 +1,11 @@
+27,429,10
+presidency,1
+mahatmaji,1
+emphasized,1
+self,2
+reliance,1
+and,1
+sufficiency,1
+involved,1
+in,1
+a,1

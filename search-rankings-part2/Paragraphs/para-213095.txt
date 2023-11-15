@@ -1,0 +1,6 @@
+59,88,7
+130,1
+letter,1
+to,1
+ranchhoddas,1
+patwari,1

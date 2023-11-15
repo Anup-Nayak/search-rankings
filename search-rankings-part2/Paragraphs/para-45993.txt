@@ -1,0 +1,7 @@
+14,11,15
+evidence,1
+before,1
+sir,1
+william,1
+solomon,1
+alone,1

@@ -1,0 +1,11 @@
+77,34,14
+hindu,1
+muslim,1
+question,1
+is,1
+the,1
+direct,1
+product,1
+of,1
+british,1
+rule,1

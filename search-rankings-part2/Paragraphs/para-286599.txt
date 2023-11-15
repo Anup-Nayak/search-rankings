@@ -1,0 +1,11 @@
+76,298,5
+m,1
+k,1
+gandhi,1
+dr,1
+purshottamdas,1
+amershi,1
+patadia,1
+wadhwan,1
+camp,1
+kathiawar,1

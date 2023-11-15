@@ -1,0 +1,4 @@
+7,39,17
+right,1
+hand,1
+impressions,1

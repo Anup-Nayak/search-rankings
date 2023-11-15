@@ -1,0 +1,4 @@
+74,34,3
+57,1
+accumulating,1
+evidence,1

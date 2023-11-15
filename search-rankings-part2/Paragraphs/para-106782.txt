@@ -1,0 +1,6 @@
+31,318,5
+a,1
+nswer,1
+yes,1
+most,1
+emphatically,1

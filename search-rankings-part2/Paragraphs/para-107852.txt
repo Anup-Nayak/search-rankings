@@ -1,0 +1,13 @@
+31,478,7
+m,1
+k,1
+gandhi,1
+madame,1
+antoinette,1
+mirbel,1
+100,1
+rue,1
+brule,1
+maison,1
+lillenord,1
+france,1

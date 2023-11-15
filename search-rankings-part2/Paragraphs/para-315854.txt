@@ -1,0 +1,8 @@
+82,419,3
+must,1
+be,1
+irrevocable,1
+and,1
+complete,1
+political,1
+withdrawal,1

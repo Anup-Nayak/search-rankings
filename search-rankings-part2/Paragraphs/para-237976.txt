@@ -1,0 +1,9 @@
+65,55,6
+satyapal,1
+b,2
+a,1
+m,1
+42,1
+nisbet,1
+road,1
+lahore,1

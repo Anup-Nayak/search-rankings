@@ -1,0 +1,13 @@
+28,436,2
+i,1
+nave,1
+to,1
+say,1
+much,1
+the,1
+same,1
+thing,1
+of,1
+our,1
+women,2
+and,1

@@ -1,0 +1,9 @@
+72,300,8
+1,1
+at,1
+the,1
+congress,1
+session,1
+in,1
+december,1
+1936,1

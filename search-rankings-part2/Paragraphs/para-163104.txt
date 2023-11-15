@@ -1,0 +1,7 @@
+47,87,6
+96,1
+letter,1
+to,1
+ziauddin,1
+ahmad,1
+3,1

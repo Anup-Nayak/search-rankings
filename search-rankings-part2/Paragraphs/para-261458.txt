@@ -1,0 +1,11 @@
+70,178,10
+wardhaganj,1
+december,1
+16,1
+1936,1
+amtul,1
+salaam,1
+easter,1
+villa,1
+santa,1
+cruz,1

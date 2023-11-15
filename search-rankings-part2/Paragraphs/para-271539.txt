@@ -1,0 +1,6 @@
+73,5,8
+segaon,1
+wardha,1
+february,1
+27,1
+1938,1

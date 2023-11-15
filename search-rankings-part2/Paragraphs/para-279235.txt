@@ -1,0 +1,12 @@
+74,411,3
+g,1
+what,1
+is,1
+the,2
+feeling,1
+of,1
+people,1
+in,1
+japan,1
+about,1
+war,1

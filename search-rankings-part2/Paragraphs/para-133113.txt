@@ -1,0 +1,15 @@
+39,11,6
+1,1
+from,1
+the,2
+contents,1
+of,1
+letter,1
+gandhiji,1
+reached,1
+bangalore,1
+on,1
+june,1
+5,1
+a,1
+sunday,1

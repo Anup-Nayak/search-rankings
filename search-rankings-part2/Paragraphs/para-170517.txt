@@ -1,0 +1,8 @@
+49,105,5
+feel,1
+sure,1
+my,1
+wearing,1
+crown,1
+unnecessary,1
+may,1

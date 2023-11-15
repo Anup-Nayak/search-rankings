@@ -1,0 +1,16 @@
+31,482,5
+mind,1
+and,2
+heart,1
+night,1
+day,1
+all,1
+these,1
+years,1
+indeed,1
+i,2
+confess,1
+have,1
+hardly,1
+any,1
+claim,1

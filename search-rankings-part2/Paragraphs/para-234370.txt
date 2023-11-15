@@ -1,0 +1,7 @@
+64,113,1
+148,1
+letter,1
+to,1
+s,1
+d,1
+saklatwala,1

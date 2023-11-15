@@ -1,0 +1,15 @@
+6,145,22
+from,1
+them,1
+an,1
+english,1
+lady,1
+told,1
+me,1
+that,1
+her,2
+husband,1
+objected,1
+to,1
+dealing,1
+with,1

@@ -1,0 +1,4 @@
+31,155,5
+1,1
+darkness,1
+strife,1

@@ -1,0 +1,13 @@
+83,460,13
+1,2
+vide,1
+letter,2
+to,2
+lord,2
+linlithgow,1
+19,1
+1943,2
+and,1
+samuel,1
+15,1
+5,1

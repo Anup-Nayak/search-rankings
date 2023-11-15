@@ -1,0 +1,14 @@
+57,215,10
+from,1
+a,1
+photostat,1
+of,1
+the,1
+original,1
+c,1
+w,1
+4543,1
+courtesy,1
+swarthmore,1
+college,1
+philadelphia,1

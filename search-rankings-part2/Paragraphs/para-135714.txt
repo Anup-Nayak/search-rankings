@@ -1,0 +1,7 @@
+39,378,7
+m,2
+k,1
+gandhi,1
+abdul,1
+gani,1
+kurnool,1

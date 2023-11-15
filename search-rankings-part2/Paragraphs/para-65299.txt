@@ -1,0 +1,5 @@
+18,388,1
+285,1
+swadeshi,1
+v,1
+machinery,1

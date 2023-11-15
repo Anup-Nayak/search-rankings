@@ -1,0 +1,7 @@
+5,322,3
+c,1
+k,1
+gandhi,1
+esq,1
+phoenix,1
+natal,1

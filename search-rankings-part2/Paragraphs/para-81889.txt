@@ -1,0 +1,14 @@
+24,99,9
+audience,1
+to,3
+see,1
+that,2
+resolution,1
+was,1
+carried,1
+into,1
+effect,1
+he,1
+appealed,1
+them,1
+use,1

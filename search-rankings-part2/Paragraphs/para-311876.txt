@@ -1,0 +1,10 @@
+82,168,5
+a,2
+friend,1
+sends,1
+the,1
+following,1
+extract,1
+from,1
+vamberys,1
+2,1

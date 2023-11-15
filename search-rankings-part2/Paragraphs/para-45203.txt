@@ -1,0 +1,9 @@
+13,430,28
+them,1
+vegetarian,1
+by,1
+religion,1
+forcibly,1
+fed,1
+with,1
+milk,1

@@ -1,0 +1,5 @@
+78,448,28
+development,1
+in,1
+world,1
+affairs,1

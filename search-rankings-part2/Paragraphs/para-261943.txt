@@ -1,0 +1,13 @@
+70,242,11
+k,1
+it,1
+is,1
+necessary,1
+to,1
+examine,1
+every,1
+religion,1
+philosophically,1
+and,1
+find,1
+out,1

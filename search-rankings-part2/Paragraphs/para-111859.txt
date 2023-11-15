@@ -1,0 +1,12 @@
+33,163,8
+10,1
+are,1
+not,2
+the,1
+hindus,1
+justified,1
+in,1
+organizing,1
+themselves,1
+for,1
+any,1

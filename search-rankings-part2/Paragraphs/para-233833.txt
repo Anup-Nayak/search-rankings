@@ -1,0 +1,9 @@
+64,54,2
+on,2
+government,1
+communique,1
+lifting,1
+the,1
+ban,1
+congress,1
+organizations,1

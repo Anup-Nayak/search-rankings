@@ -1,0 +1,11 @@
+44,482,29
+t6,1
+guj,1
+has,1
+my,1
+trust,1
+did,1
+not,1
+deserve,1
+this,1
+return,1

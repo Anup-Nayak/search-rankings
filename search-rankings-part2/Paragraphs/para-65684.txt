@@ -1,0 +1,6 @@
+18,453,9
+letter,1
+from,1
+m,1
+abdul,1
+aziz,1

@@ -1,0 +1,16 @@
+94,61,15
+subordinate,1
+or,1
+inferior,1
+to,1
+men,1
+it,1
+was,2
+proclaimed,1
+that,1
+woman,1
+half,1
+of,1
+man,1
+and,1
+by,1

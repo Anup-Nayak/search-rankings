@@ -1,0 +1,15 @@
+15,92,7
+february,1
+4,1
+thursday,1
+left,1
+ahmedabad,1
+harilal,1
+and,1
+gokuldas,1
+stayed,1
+on,1
+reached,1
+bombay,1
+at,1
+night,1

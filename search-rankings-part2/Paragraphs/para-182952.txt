@@ -1,0 +1,8 @@
+52,91,10
+emerson,1
+home,1
+secretary,1
+was,1
+handed,1
+to,1
+gandhiji,1

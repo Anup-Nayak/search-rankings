@@ -1,0 +1,5 @@
+23,124,2
+a,1
+parsi,1
+friends,1
+defence,1

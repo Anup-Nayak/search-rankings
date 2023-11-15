@@ -1,0 +1,12 @@
+27,228,4
+1,1
+a,1
+gujarati,1
+book,1
+containing,1
+stories,1
+of,2
+eighty,1
+four,1
+devotees,1
+vishnu,1

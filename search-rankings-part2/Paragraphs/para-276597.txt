@@ -1,0 +1,13 @@
+74,100,9
+you,1
+will,1
+give,1
+me,1
+your,1
+reaction,1
+to,1
+the,2
+articles,1
+on,1
+european,1
+situation,1

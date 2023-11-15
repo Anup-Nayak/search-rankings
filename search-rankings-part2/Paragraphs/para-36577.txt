@@ -1,0 +1,10 @@
+11,313,10
+g,1
+looking,1
+after,1
+the,1
+families,1
+of,1
+passive,1
+resisters,1
+etc,1

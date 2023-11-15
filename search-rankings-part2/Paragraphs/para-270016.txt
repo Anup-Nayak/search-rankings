@@ -1,0 +1,5 @@
+72,342,3
+442,1
+self,1
+supporting,1
+education,1

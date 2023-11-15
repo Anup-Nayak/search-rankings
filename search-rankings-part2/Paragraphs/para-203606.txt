@@ -1,0 +1,7 @@
+57,83,15
+you,1
+can,1
+blot,1
+out,1
+curse,1
+untouchability,1

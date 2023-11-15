@@ -1,0 +1,8 @@
+72,421,6
+557,1
+discussion,1
+with,1
+an,1
+italian,1
+professor,1
+2,1

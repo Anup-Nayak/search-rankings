@@ -1,0 +1,17 @@
+54,254,8
+q,1
+if,1
+india,1
+were,1
+freed,1
+would,2
+you,2
+set,1
+up,1
+economic,1
+barriers,1
+permit,1
+commercial,1
+exchange,1
+with,1
+france,1

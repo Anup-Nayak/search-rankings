@@ -1,0 +1,15 @@
+80,255,4
+can,1
+enrolled,1
+satyagrahis,1
+fight,1
+such,1
+elections,1
+individually,1
+i,1
+am,1
+quite,1
+clear,1
+on,1
+this,1
+point,1

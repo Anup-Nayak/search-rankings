@@ -1,0 +1,16 @@
+82,392,10
+her,1
+hold,1
+on,2
+india,2
+it,1
+is,1
+the,1
+basis,1
+of,1
+independence,1
+alone,1
+that,1
+can,1
+deal,1
+with,1

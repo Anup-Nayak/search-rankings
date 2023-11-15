@@ -1,0 +1,4 @@
+42,255,10
+konda,1
+venkatappayyagaru,1
+guntur,1

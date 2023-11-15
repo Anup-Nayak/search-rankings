@@ -1,0 +1,12 @@
+27,195,1
+walk,1
+in,1
+the,2
+evening,1
+by,1
+seaside,1
+with,1
+love,1
+to,1
+you,1
+all,1

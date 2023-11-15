@@ -1,0 +1,12 @@
+14,472,7
+arrive,1
+in,1
+durban,1
+on,1
+11th,1
+or,1
+12th,1
+stop,1
+i,1
+have,1
+asked,1

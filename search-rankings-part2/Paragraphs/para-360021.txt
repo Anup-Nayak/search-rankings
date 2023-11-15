@@ -1,0 +1,15 @@
+93,103,10
+he,1
+would,1
+never,1
+mind,1
+if,1
+a,2
+hindu,1
+recited,1
+the,1
+kalma,1
+willingly,1
+and,1
+with,1
+full,1

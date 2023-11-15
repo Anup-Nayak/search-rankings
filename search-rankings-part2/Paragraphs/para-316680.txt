@@ -1,0 +1,15 @@
+83,82,11
+1,1
+this,1
+appeared,1
+under,1
+the,2
+heading,1
+notes,1
+2,1
+source,1
+has,1
+from,1
+upper,1
+poor,1
+people,1

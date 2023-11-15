@@ -1,0 +1,9 @@
+3,45,13
+excellency,2
+a,1
+small,1
+deputation,1
+will,1
+wait,1
+on,1
+his,1

@@ -1,0 +1,6 @@
+89,387,3
+502,1
+telegram,1
+to,1
+wanda,1
+dynowska,1

@@ -1,0 +1,9 @@
+41,192,4
+211,1
+talk,1
+with,1
+representatives,1
+of,1
+bardoli,1
+taluk,1
+1,1

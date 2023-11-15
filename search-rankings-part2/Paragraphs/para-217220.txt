@@ -1,0 +1,9 @@
+60,6,5
+14,1
+letter,1
+to,1
+margarete,1
+spiegel,1
+march,1
+10,1
+1933,1

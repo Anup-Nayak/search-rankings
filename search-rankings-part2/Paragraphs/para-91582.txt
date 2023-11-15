@@ -1,0 +1,8 @@
+27,145,4
+help,1
+khaddar,1
+which,1
+alone,1
+can,1
+remove,1
+starvation,1

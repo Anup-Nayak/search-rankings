@@ -1,0 +1,13 @@
+17,57,6
+1,1
+this,1
+has,1
+been,1
+collated,1
+with,1
+a,1
+gujarati,1
+report,1
+in,1
+kheda,1
+satyagraha,1

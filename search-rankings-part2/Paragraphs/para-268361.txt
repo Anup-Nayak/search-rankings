@@ -1,0 +1,16 @@
+72,150,3
+bhai,1
+vallabhbhai,1
+i,2
+send,1
+with,1
+this,1
+a,1
+letter,1
+from,1
+jayanti,1
+addressed,1
+to,1
+me,1
+replied,1
+1,1

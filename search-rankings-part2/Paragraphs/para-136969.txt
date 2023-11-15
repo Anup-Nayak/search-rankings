@@ -1,0 +1,12 @@
+40,80,4
+6,1
+what,1
+is,1
+the,1
+most,1
+praiseworthy,1
+quality,1
+in,1
+a,1
+woman,1
+purity,1

@@ -1,0 +1,6 @@
+50,87,5
+133,1
+letter,1
+to,1
+kalavati,1
+trivedi,1

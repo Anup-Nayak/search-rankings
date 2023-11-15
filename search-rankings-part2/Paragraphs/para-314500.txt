@@ -1,0 +1,17 @@
+82,379,29
+doctors,1
+were,1
+call,1
+ed,1
+in,1
+the,1
+b,1
+lood,1
+p,1
+ressure,1
+was,1
+250/125,1
+they,1
+thought,1
+of,1
+blood,1

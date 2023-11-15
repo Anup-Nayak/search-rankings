@@ -1,0 +1,9 @@
+9,496,14
+minutes,1
+of,1
+meeting,1
+held,1
+on,1
+june,1
+13,1
+1909,1

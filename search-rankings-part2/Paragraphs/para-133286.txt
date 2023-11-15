@@ -1,0 +1,7 @@
+39,35,2
+kumara,1
+park,1
+banalore,1
+june,1
+9,1
+1927,1

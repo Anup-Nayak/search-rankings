@@ -1,0 +1,13 @@
+52,16,2
+q,1
+mr,1
+gandhi,1
+fox,1
+movietone,1
+news,1
+and,1
+the,1
+associated,1
+press,1
+of,1
+america,1

@@ -1,0 +1,11 @@
+84,436,15
+w,2
+what,1
+is,1
+the,1
+quickest,1
+way,1
+to,1
+reach,1
+our,1
+goal,1

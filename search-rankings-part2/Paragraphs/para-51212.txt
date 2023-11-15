@@ -1,0 +1,8 @@
+15,107,6
+june,1
+19,1
+saturday,1
+narandas,1
+left,1
+for,1
+home,1

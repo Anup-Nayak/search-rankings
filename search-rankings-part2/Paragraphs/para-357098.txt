@@ -1,0 +1,6 @@
+92,270,6
+388,1
+letter,1
+to,1
+kalka,1
+prasad,1

@@ -1,0 +1,10 @@
+7,244,8
+johannesburg,1
+october,1
+7,1
+1907,1
+the,2
+honble,1
+colonial,1
+secretary,1
+pretoria,1

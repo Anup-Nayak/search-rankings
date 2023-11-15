@@ -1,0 +1,15 @@
+6,45,15
+restrictions,1
+on,1
+british,1
+citizens,1
+and,1
+i,1
+do,1
+not,1
+go,1
+back,1
+from,1
+one,1
+single,1
+word,1

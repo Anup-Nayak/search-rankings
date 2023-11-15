@@ -1,0 +1,14 @@
+29,234,9
+1,1
+from,1
+the,1
+postmark,1
+2,1
+addressees,2
+wife,1
+3,1
+father,1
+and,1
+mother,1
+4,1
+ibid,1

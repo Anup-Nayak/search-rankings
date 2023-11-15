@@ -1,0 +1,13 @@
+28,91,15
+100/,1
+for,2
+building,1
+our,1
+ashram,1
+the,2
+present,1
+we,1
+are,1
+housed,1
+in,1
+bungalow,1

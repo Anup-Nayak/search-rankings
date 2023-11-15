@@ -1,0 +1,16 @@
+64,234,13
+desired,1
+to,1
+be,1
+with,1
+the,2
+masses,1
+they,1
+must,1
+keep,1
+that,1
+clause,1
+in,1
+franchise,1
+rules,1
+but,1

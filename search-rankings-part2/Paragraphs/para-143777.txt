@@ -1,0 +1,10 @@
+42,89,3
+from,1
+gujarati,1
+c,1
+w,1
+7758,1
+courtesy,1
+lalchand,1
+jeychand,1
+vora,1

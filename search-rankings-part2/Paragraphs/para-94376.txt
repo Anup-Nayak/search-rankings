@@ -1,0 +1,12 @@
+28,25,6
+2,1
+periodical,1
+published,1
+by,1
+the,2
+majoor,1
+mahajan,1
+textile,1
+workers,1
+union,1
+ahmedabad,1

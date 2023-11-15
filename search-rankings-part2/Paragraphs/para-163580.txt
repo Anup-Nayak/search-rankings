@@ -1,0 +1,12 @@
+47,139,10
+hindu,1
+dharma,2
+could,2
+be,1
+discarded,1
+only,1
+if,1
+one,1
+find,1
+a,1
+better,1

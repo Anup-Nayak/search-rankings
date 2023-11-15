@@ -1,0 +1,10 @@
+11,190,2
+tolstoy,1
+farm,1
+magshar,1
+shud,1
+11,1
+december,1
+12,1
+1910,1
+1,1

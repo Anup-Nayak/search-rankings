@@ -1,0 +1,8 @@
+83,444,2
+resolutions,1
+passed,1
+by,1
+congress,1
+working,1
+committee,1
+1,1

@@ -1,0 +1,17 @@
+23,302,5
+rich,1
+and,2
+poor,1
+of,2
+the,2
+place,1
+had,1
+taken,1
+a,1
+hand,1
+in,1
+this,1
+he,1
+saw,1
+sure,1
+foundation,1

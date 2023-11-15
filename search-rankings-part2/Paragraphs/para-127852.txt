@@ -1,0 +1,6 @@
+37,296,4
+1,1
+one,1
+who,1
+seeks,1
+knowledge,1

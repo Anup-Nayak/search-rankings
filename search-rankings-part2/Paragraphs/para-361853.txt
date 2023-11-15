@@ -1,0 +1,9 @@
+93,302,12
+learned,1
+are,1
+those,1
+who,1
+practise,1
+what,1
+they,1
+know,1

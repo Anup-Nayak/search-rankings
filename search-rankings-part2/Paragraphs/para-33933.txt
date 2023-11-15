@@ -1,0 +1,4 @@
+11,42,7
+case,1
+against,1
+chinese,1

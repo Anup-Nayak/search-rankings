@@ -1,0 +1,10 @@
+83,105,8
+r,1
+j,1
+what,1
+can,1
+free,1
+india,1
+do,1
+for,1
+china,1

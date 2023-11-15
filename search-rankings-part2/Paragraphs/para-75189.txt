@@ -1,0 +1,15 @@
+21,475,15
+while,1
+he,1
+was,1
+against,2
+it,1
+the,2
+use,1
+of,1
+sword,1
+or,2
+force,1
+abuse,1
+an,1
+opponent,1

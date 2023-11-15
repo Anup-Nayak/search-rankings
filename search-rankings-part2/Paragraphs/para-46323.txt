@@ -1,0 +1,8 @@
+14,49,5
+indian,1
+mass,1
+meetings,1
+at,1
+durban,1
+pretoria,1
+johannesburg,1

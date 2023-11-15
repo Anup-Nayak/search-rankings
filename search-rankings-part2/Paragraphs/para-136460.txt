@@ -1,0 +1,7 @@
+39,492,3
+kailasnath,1
+katju,1
+9,1
+edmunton,1
+road,1
+allahabad,1

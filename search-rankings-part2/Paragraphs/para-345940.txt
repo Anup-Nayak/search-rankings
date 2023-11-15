@@ -1,0 +1,7 @@
+89,385,7
+h,2
+the,1
+aga,1
+khan,1
+malabar,1
+hill,1

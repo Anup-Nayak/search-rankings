@@ -1,0 +1,7 @@
+10,193,6
+m,1
+k,1
+gandhi,1
+aylmer,1
+maude,1
+esq,1

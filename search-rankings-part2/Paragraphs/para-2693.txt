@@ -1,0 +1,14 @@
+2,56,23
+dark,1
+man,1
+brings,1
+the,1
+work,1
+of,1
+minimizing,1
+arrivals,1
+will,1
+certainly,1
+be,1
+difficult,1
+if,1

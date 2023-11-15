@@ -1,0 +1,6 @@
+15,35,11
+39,1
+letter,1
+to,1
+chhotalal,1
+tejpal,1

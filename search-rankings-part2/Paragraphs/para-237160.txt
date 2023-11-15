@@ -1,0 +1,7 @@
+64,428,9
+satisfactory,1
+certificate,1
+there,1
+writing,1
+4,1
+tomorrow,1

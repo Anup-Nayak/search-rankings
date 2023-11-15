@@ -1,0 +1,6 @@
+19,473,17
+out,1
+of,1
+selfs,1
+hateful,1
+sight,1

@@ -1,0 +1,7 @@
+62,394,2
+431,1
+speech,1
+at,1
+civic,1
+reception,1
+bangalore,1

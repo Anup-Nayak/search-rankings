@@ -1,0 +1,14 @@
+36,499,7
+entity,1
+which,2
+exists,1
+eternally,1
+in,1
+the,2
+same,1
+form,1
+anything,1
+is,1
+not,1
+product,1
+of,1

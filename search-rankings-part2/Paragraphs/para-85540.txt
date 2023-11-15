@@ -1,0 +1,7 @@
+25,224,10
+consider,1
+news,1
+most,1
+cheering,1
+not,1
+gloomy,1

@@ -1,0 +1,14 @@
+82,264,8
+it,1
+will,1
+go,1
+a,1
+long,1
+way,1
+to,1
+bring,1
+the,2
+hindus,1
+and,1
+muslims,1
+together,1

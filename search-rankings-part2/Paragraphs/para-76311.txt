@@ -1,0 +1,6 @@
+22,134,7
+1,1
+untouchability,1
+2,1
+maharashtra,1
+tour,1

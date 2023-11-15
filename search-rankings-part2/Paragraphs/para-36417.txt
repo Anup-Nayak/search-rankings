@@ -1,0 +1,10 @@
+11,304,14
+ing,1
+new,1
+point,1
+if,1
+they,1
+objected,1
+on,1
+score,1
+of,1

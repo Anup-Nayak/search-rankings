@@ -1,0 +1,16 @@
+82,395,11
+you,1
+not,1
+think,1
+that,1
+irrespective,1
+of,1
+the,2
+plan,1
+for,1
+future,1
+there,1
+might,1
+be,1
+some,1
+value,1

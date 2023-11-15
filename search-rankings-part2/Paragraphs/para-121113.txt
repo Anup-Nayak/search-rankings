@@ -1,0 +1,6 @@
+35,442,4
+565,1
+colour,1
+bar,1
+v,1
+swadeshi,1

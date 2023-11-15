@@ -1,0 +1,12 @@
+72,111,13
+1,1
+this,1
+is,1
+not,1
+available,1
+2,1
+the,1
+addressee,1
+indu,1
+and,1
+kanti,1

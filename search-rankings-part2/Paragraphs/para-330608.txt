@@ -1,0 +1,16 @@
+86,184,4
+do,1
+send,1
+me,1
+details,1
+about,2
+dhirendas,1
+activities,1
+and,1
+let,1
+dr,1
+indra,1
+see,1
+profulla,1
+medical,1
+work,1

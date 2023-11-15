@@ -1,0 +1,15 @@
+23,207,8
+they,1
+had,1
+given,1
+the,2
+largest,1
+sum,1
+for,1
+jallianwala,1
+fund,1
+and,1
+bombay,1
+was,1
+capable,1
+of,1

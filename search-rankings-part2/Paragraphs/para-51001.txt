@@ -1,0 +1,10 @@
+15,94,13
+3,1
+johannesburg,1
+vide,1
+cable,1
+to,1
+transvaal,1
+b,1
+i,1
+association,1

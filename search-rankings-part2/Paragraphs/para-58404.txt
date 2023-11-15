@@ -1,0 +1,13 @@
+16,489,16
+of,3
+medical,1
+relief,1
+the,1
+re,1
+institution,1
+village,1
+panchayats,1
+all,1
+which,1
+are,1
+designed,1

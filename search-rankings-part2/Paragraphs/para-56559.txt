@@ -1,0 +1,14 @@
+16,248,1
+an,1
+association,1
+whose,1
+members,1
+are,1
+scholars,1
+either,1
+in,2
+their,1
+own,1
+language,1
+or,1
+english,1

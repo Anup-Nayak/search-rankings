@@ -1,0 +1,7 @@
+62,318,2
+349,1
+speech,1
+at,1
+vaishya,1
+association,1
+1,1

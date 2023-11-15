@@ -1,0 +1,12 @@
+76,426,4
+it,1
+is,1
+my,2
+constitutional,1
+right,1
+to,2
+give,1
+expression,1
+opinion,1
+regarding,1
+any,1

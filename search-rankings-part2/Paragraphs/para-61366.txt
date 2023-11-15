@@ -1,0 +1,15 @@
+17,302,8
+2,1
+inferred,1
+from,1
+the,4
+reference,1
+to,1
+foundation,1
+of,1
+struggle,1
+having,1
+been,1
+laid,1
+previous,1
+day,1

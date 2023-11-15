@@ -1,0 +1,9 @@
+32,290,6
+183,1
+letter,1
+to,1
+antoinette,1
+mirbel,1
+august,1
+13,1
+1925,1

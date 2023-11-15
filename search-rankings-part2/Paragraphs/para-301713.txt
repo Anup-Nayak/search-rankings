@@ -1,0 +1,15 @@
+80,173,12
+1,1
+the,2
+addressee,1
+had,1
+given,1
+his,1
+own,1
+plan,1
+for,1
+implementing,1
+scheme,1
+of,1
+basic,1
+education,1

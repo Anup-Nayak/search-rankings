@@ -1,0 +1,9 @@
+10,333,3
+pray,1
+thank,1
+mr,1
+tata,1
+2,1
+for,1
+munificent,1
+time,1

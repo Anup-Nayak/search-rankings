@@ -1,0 +1,4 @@
+12,208,3
+170,1
+indian,1
+interpreters,1

@@ -1,0 +1,14 @@
+49,162,9
+for,1
+let,1
+me,1
+declare,1
+again,1
+that,2
+it,2
+is,2
+in,1
+crowds,1
+ideals,1
+reside,1
+they,1

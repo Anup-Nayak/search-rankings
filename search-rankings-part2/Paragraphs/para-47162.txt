@@ -1,0 +1,10 @@
+14,157,17
+and,1
+accept,1
+local,1
+proof,1
+offered,1
+by,1
+the,1
+parties,1
+in,1

@@ -1,0 +1,16 @@
+90,50,5
+without,1
+knowledge,1
+of,1
+case,1
+1,1
+difficult,1
+give,1
+opinion,1
+gandhi,1
+from,1
+a,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1

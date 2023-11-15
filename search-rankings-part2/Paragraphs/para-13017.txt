@@ -1,0 +1,6 @@
+5,188,2
+176,1
+speech,1
+at,1
+congress,1
+meeting,1

@@ -1,0 +1,6 @@
+92,264,7
+zamindari,1
+and,1
+malguzari,1
+sabha,1
+nagpur,1

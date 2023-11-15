@@ -1,0 +1,9 @@
+36,217,7
+message,1
+let,1
+all,1
+follow,1
+krishna,1
+in,1
+doing,1
+duty,1

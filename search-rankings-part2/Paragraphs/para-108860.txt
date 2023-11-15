@@ -1,0 +1,11 @@
+32,166,2
+dr,1
+moreno,1
+has,1
+handed,1
+me,1
+the,1
+following,1
+questions,1
+foranswers,1
+1,1

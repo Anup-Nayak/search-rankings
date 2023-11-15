@@ -1,0 +1,6 @@
+32,188,3
+mohandas,1
+benarsidas,1
+chaturvedi,1
+ferozabad,1
+dist,1

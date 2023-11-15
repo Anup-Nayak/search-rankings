@@ -1,0 +1,13 @@
+32,469,10
+untouchables,1
+how,1
+can,1
+you,2
+succeed,1
+in,1
+this,2
+matter,1
+unless,1
+and,1
+until,1
+remove,1

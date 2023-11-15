@@ -1,0 +1,8 @@
+4,259,7
+from,1
+the,1
+typewritten,1
+original,1
+s,1
+n,1
+4234,1

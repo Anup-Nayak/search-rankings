@@ -1,0 +1,15 @@
+79,120,5
+q,1
+then,1
+what,1
+about,1
+meat,1
+eating,2
+and,1
+egg,1
+are,1
+they,1
+consistent,1
+with,1
+non,1
+violence,1

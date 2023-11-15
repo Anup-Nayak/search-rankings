@@ -1,0 +1,11 @@
+90,19,7
+relief,1
+is,1
+through,1
+working,1
+committee,1
+yesterdays,1
+wire,1
+2,1
+was,1
+seen,1

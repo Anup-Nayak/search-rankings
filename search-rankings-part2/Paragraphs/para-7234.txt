@@ -1,0 +1,8 @@
+3,182,7
+against,1
+lord,1
+milners,1
+statement,1
+segregation,1
+necessary,1
+sanitary,1

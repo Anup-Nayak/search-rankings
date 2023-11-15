@@ -1,0 +1,11 @@
+48,172,4
+yours,1
+bijon,1
+kumar,1
+sinha,1
+under,1
+trial,1
+prisoner,1
+borstel,1
+jail,1
+lahore,1

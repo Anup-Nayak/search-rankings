@@ -1,0 +1,16 @@
+82,397,30
+g,1
+why,1
+you,1
+and,3
+i,1
+all,2
+of,1
+us,1
+some,1
+in,1
+a,1
+hundred,1
+twenty,1
+years,1
+but,1

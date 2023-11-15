@@ -1,0 +1,7 @@
+33,274,10
+fast,1
+broken,1
+happiest,1
+auspices,1
+condition,1
+excellent,1

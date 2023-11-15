@@ -1,0 +1,7 @@
+77,79,4
+an,1
+m,1
+a,1
+of,1
+aligarh,1
+writes,1

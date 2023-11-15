@@ -1,0 +1,7 @@
+44,504,4
+t2,1
+guj,1
+adds,1
+for,1
+some,1
+time,1

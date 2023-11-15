@@ -1,0 +1,7 @@
+20,169,3
+1,1
+proprietor,1
+swadeshi,1
+stores,1
+anarkali,1
+lahore,1

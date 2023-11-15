@@ -1,0 +1,6 @@
+65,144,2
+an,1
+esteemed,1
+friend,1
+writes,1
+2,1

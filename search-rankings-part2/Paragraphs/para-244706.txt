@@ -1,0 +1,15 @@
+66,275,11
+blessings,1
+from,1
+bapu,1
+sjt,1
+raojibhai,1
+patel,1
+limbasi,1
+matar,1
+taluka,1
+b,2
+&,1
+c,1
+i,1
+rly,1

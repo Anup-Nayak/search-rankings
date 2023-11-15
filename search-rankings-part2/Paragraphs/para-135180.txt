@@ -1,0 +1,7 @@
+39,307,3
+s,1
+d,1
+nadkarni,1
+karwar,1
+n,1
+kanara,1

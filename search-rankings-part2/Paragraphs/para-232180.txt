@@ -1,0 +1,15 @@
+63,380,12
+10,1
+years,1
+old,1
+was,2
+fortunate,1
+enough,1
+to,1
+get,1
+that,1
+lost,1
+chain,1
+he,1
+from,1
+a,1

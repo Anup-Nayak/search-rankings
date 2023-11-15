@@ -1,0 +1,12 @@
+70,262,4
+mays,1
+how,1
+is,1
+a,1
+minority,1
+to,1
+act,1
+against,1
+an,1
+overwhelming,1
+majority,1

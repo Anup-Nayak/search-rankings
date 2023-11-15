@@ -1,0 +1,12 @@
+85,201,13
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10232,1
+courtesy,1
+gandhi,1
+seva,1
+sangh,1
+sevagram,1

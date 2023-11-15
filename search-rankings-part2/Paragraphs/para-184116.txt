@@ -1,0 +1,8 @@
+52,208,7
+table,1
+conference,1
+delicate,1
+situation,1
+and,1
+irwin,1
+gandhi,1

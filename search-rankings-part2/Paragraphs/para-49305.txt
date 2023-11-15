@@ -1,0 +1,5 @@
+14,439,6
+modern,1
+civilization,1
+a,1
+curse,1

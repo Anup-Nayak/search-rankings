@@ -1,0 +1,5 @@
+82,58,8
+quit,1
+india,1
+movement,1
+p,1

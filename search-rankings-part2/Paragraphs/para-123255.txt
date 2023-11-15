@@ -1,0 +1,7 @@
+36,223,5
+lakshmidas,1
+purushottam,1
+jayajirao,1
+cotton,1
+mills,1
+gwalior,1

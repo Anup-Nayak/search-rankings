@@ -1,0 +1,7 @@
+13,123,1
+84,1
+general,1
+knowledge,1
+about,1
+health,1
+xix,1

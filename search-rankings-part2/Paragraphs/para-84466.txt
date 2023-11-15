@@ -1,0 +1,4 @@
+25,47,3
+a,1
+correspondent,1
+inquires,1

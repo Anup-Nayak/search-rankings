@@ -1,0 +1,13 @@
+86,25,10
+a,1
+those,1
+who,1
+are,1
+real,1
+sympathizers,1
+will,1
+remain,1
+so,1
+even,1
+if,1
+for,1

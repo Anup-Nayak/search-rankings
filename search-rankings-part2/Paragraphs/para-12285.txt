@@ -1,0 +1,14 @@
+5,68,4
+your,1
+obedient,1
+servant,1
+abdul,1
+gani,1
+chairman,1
+british,1
+indian,2
+association,1
+opinion,1
+17,1
+2,1
+1906,1

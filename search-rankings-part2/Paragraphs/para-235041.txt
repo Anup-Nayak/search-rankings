@@ -1,0 +1,8 @@
+64,185,1
+233,1
+speech,1
+at,1
+prayer,1
+meeting,1
+lahore,1
+1,1

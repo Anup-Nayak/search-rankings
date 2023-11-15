@@ -1,0 +1,13 @@
+2,160,6
+given,1
+at,1
+government,1
+house,1
+natal,1
+this,1
+twenty,1
+ninth,1
+day,1
+of,1
+may,1
+1897,1

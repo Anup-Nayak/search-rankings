@@ -1,0 +1,11 @@
+93,420,7
+the,3
+a,1
+i,1
+c,2
+endorses,1
+statement,1
+of,2
+working,1
+committee,1
+december,1

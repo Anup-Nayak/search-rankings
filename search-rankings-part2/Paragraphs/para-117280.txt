@@ -1,0 +1,8 @@
+34,498,25
+weedy,1
+land,2
+kalidas,1
+jijis,1
+mohandas,1
+k,1
+gandhi,1

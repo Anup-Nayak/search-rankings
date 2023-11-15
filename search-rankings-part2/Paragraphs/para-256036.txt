@@ -1,0 +1,13 @@
+69,69,9
+1,1
+the,3
+following,1
+two,1
+paragraphs,1
+are,1
+from,2
+hindu,2
+2,1
+this,1
+sentence,1
+is,1

@@ -1,0 +1,6 @@
+70,47,8
+49,1
+telegram,1
+to,1
+r,1
+srinivasan,1

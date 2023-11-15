@@ -1,0 +1,13 @@
+46,157,27
+god,1
+bless,1
+us,2
+none,1
+of,1
+are,1
+habitual,1
+drunkards,1
+malaria,1
+typhoid,1
+cholera,1
+hold,1

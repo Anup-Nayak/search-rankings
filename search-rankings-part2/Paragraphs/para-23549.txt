@@ -1,0 +1,4 @@
+8,74,2
+the,1
+irrevocable,1
+law,1

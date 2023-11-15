@@ -1,0 +1,13 @@
+14,26,4
+from,1
+a,1
+copy,1
+c,1
+w,1
+11345,1
+courtesy,1
+e,1
+s,1
+reddy,1
+new,1
+york,1

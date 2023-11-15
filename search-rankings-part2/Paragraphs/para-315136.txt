@@ -1,0 +1,13 @@
+82,398,18
+no,1
+britain,1
+and,2
+america,1
+other,1
+countries,1
+too,1
+can,1
+keep,1
+their,1
+armies,1
+here,1

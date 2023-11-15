@@ -1,0 +1,14 @@
+82,392,17
+complete,1
+non,2
+violent,1
+co,1
+operation,1
+to,2
+the,1
+invading,1
+forces,1
+and,1
+not,1
+render,1
+any,1

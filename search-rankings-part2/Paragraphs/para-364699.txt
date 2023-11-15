@@ -1,0 +1,6 @@
+94,188,9
+s,1
+zafar,1
+imam,1
+sahib,1
+patna,1

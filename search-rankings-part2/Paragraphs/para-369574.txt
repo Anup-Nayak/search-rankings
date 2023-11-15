@@ -1,0 +1,9 @@
+95,414,10
+multan,2
+divisiondera,1
+ghazi,1
+khan,1
+jhang,1
+lyallpur,1
+montgomery,1
+muzaffargarh,1

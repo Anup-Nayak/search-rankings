@@ -1,0 +1,8 @@
+71,333,8
+391,1
+speech,1
+on,1
+cow,1
+protection,1
+tithal,1
+2,1

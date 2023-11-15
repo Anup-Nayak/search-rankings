@@ -1,0 +1,4 @@
+81,33,10
+1fulchand,1
+kasturchand,1
+shah,1

@@ -1,0 +1,6 @@
+83,49,11
+thus,1
+writes,1
+sardar,1
+mangal,1
+singh,1

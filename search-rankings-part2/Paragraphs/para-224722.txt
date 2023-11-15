@@ -1,0 +1,8 @@
+61,383,6
+a,1
+girl,1
+one,1
+cannot,1
+do,1
+without,1
+it,1

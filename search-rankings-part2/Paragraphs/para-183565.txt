@@ -1,0 +1,9 @@
+52,151,4
+your,1
+kind,1
+joint,1
+cable,1
+in,1
+absence,1
+solution,1
+communal,1

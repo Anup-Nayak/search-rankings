@@ -1,0 +1,11 @@
+6,126,5
+d,1
+he,1
+was,1
+mobbed,1
+at,1
+durban,1
+by,1
+the,1
+european,1
+community,1

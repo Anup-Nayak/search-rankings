@@ -1,0 +1,16 @@
+55,156,12
+1,1
+omission,1
+as,1
+in,3
+the,3
+source,2
+2,1
+this,1
+paragraph,1
+and,1
+song,1
+which,1
+follows,1
+are,1
+urdu,1

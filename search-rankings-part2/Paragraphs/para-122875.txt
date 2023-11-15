@@ -1,0 +1,7 @@
+36,180,4
+202,1
+principal,1
+dhruva,1
+and,1
+national,1
+education,1

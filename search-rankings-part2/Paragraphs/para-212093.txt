@@ -1,0 +1,12 @@
+58,486,10
+g,1
+then,1
+you,2
+reverse,1
+the,1
+thing,1
+and,1
+win,1
+him,1
+through,1
+love,1

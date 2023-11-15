@@ -1,0 +1,10 @@
+75,10,6
+encourage,2
+social,1
+activities,1
+but,1
+not,1
+political,1
+6,1
+genuine,1
+states,1

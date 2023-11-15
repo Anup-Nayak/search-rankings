@@ -1,0 +1,16 @@
+82,95,5
+respect,1
+will,1
+it,3
+be,2
+all,1
+right,1
+to,2
+organize,2
+such,1
+things,1
+tend,1
+themselves,1
+cannot,1
+done,1
+artificially,1

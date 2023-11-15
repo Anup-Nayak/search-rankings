@@ -1,0 +1,5 @@
+4,256,6
+the,1
+native,1
+remains,1
+subdued,1

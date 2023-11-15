@@ -1,0 +1,12 @@
+32,108,3
+80,1
+not,1
+two,1
+races,1
+the,1
+following,1
+will,1
+be,1
+read,1
+with,1
+interest,1

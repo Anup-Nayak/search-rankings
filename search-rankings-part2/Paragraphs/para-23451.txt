@@ -1,0 +1,16 @@
+8,58,8
+mr,1
+jordan,1
+i,1
+wont,1
+allow,1
+any,1
+more,1
+it,1
+has,1
+nothing,1
+to,1
+do,1
+with,1
+the,1
+case,1

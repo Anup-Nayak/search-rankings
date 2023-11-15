@@ -1,0 +1,11 @@
+64,54,5
+amrita,1
+bazar,1
+patrika,1
+also,1
+the,1
+bombay,1
+chronicle,1
+9,1
+6,1
+1934,1

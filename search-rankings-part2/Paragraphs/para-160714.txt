@@ -1,0 +1,5 @@
+46,283,2
+fresh,1
+fruit,1
+when,1
+available,1

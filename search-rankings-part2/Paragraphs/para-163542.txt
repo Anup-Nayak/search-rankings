@@ -1,0 +1,14 @@
+47,137,17
+pointing,1
+to,1
+the,2
+students,1
+present,1
+he,1
+said,1
+you,1
+must,1
+have,1
+done,1
+same,1
+if,1

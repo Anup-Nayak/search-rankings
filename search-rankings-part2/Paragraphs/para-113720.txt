@@ -1,0 +1,14 @@
+33,400,8
+still,1
+another,1
+fact,1
+is,1
+that,1
+the,3
+indians,1
+do,1
+not,1
+drink,1
+liquor,1
+bill,1
+of,1

@@ -1,0 +1,15 @@
+31,140,6
+what,1
+do,1
+you,2
+think,1
+of,1
+kamal,1
+pasha,1
+and,1
+de,1
+valera,1
+would,1
+like,1
+to,1
+call,1

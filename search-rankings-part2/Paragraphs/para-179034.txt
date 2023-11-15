@@ -1,0 +1,8 @@
+51,127,20
+certain,1
+matters,1
+we,1
+are,1
+unable,1
+to,1
+give,1

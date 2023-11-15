@@ -1,0 +1,8 @@
+60,118,1
+150,1
+letter,1
+to,1
+secretary,1
+jathi,1
+nashini,1
+sabha,1

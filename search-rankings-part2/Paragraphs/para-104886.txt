@@ -1,0 +1,15 @@
+31,44,10
+clothes,1
+they,1
+must,1
+not,1
+leave,1
+their,2
+work,1
+nor,1
+spend,1
+income,1
+by,1
+taking,1
+to,1
+vicious,1

@@ -1,0 +1,5 @@
+25,75,2
+34,1
+the,1
+momentous,1
+issue,1

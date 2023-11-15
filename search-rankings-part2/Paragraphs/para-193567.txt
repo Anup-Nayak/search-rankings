@@ -1,0 +1,8 @@
+54,348,9
+the,2
+congress,1
+is,1
+at,1
+one,1
+with,1
+government,1

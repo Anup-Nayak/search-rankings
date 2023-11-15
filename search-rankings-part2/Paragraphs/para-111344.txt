@@ -1,0 +1,11 @@
+33,86,4
+1,1
+sattva,1
+purity,1
+or,1
+clarity,1
+rajas,1
+restlessness,1
+and,1
+tamas,1
+torpidity,1

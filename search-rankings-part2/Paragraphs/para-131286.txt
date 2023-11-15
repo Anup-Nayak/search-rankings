@@ -1,0 +1,6 @@
+38,270,1
+270,1
+letter,1
+to,1
+hiralal,1
+amritlal,1

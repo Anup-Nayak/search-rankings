@@ -1,0 +1,7 @@
+96,220,2
+an,1
+eighteen,1
+year,1
+old,1
+youngster,1
+interposed,1

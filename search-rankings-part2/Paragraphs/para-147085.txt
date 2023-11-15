@@ -1,0 +1,14 @@
+42,473,19
+certificate,1
+of,1
+domicile,1
+or,2
+other,1
+document,1
+authorizing,1
+him,1
+to,1
+enter,1
+reside,1
+remain,1
+in,1

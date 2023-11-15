@@ -1,0 +1,17 @@
+1,232,2
+p,2
+j,2
+w,1
+jagger,1
+&,4
+co,2
+spence,1
+hurry,1
+t,1
+charle,1
+freisman,1
+shapiso,1
+r,1
+g,1
+kramer,1
+fogelman,1

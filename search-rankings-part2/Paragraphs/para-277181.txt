@@ -1,0 +1,6 @@
+74,175,7
+238,1
+interpretation,1
+of,1
+members,1
+pledge,1

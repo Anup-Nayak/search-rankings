@@ -1,0 +1,8 @@
+6,304,15
+requests,1
+reasons,1
+for,1
+taking,1
+finger,1
+impressions,1
+and,1

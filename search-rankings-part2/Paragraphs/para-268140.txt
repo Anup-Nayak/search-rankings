@@ -1,0 +1,17 @@
+72,125,8
+1,1
+this,1
+and,1
+the,3
+letter,1
+to,1
+m,1
+marguerite,1
+wiy,1
+preceding,1
+item,1
+are,1
+written,1
+on,1
+same,1
+sheet,1

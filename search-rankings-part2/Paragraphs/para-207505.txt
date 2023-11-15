@@ -1,0 +1,16 @@
+58,23,23
+1,1
+president,1
+servants,1
+of,2
+india,2
+society,1
+and,1
+the,2
+maharashtra,1
+divisional,1
+board,1
+all,1
+anti,1
+untouchability,1
+league,1

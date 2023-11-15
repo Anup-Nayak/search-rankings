@@ -1,0 +1,14 @@
+54,192,8
+q,1
+don,1
+t,1
+you,1
+think,1
+the,2
+government,1
+having,1
+allowed,1
+discussion,1
+will,1
+now,1
+do,1

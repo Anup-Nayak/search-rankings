@@ -1,0 +1,15 @@
+82,299,2
+attacks,1
+people,1
+are,1
+in,1
+a,1
+state,1
+of,1
+sheer,1
+helplessness,1
+it,1
+must,1
+not,1
+be,1
+supposed,1

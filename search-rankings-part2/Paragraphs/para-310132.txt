@@ -1,0 +1,12 @@
+82,23,7
+not,1
+be,2
+neglected,1
+equal,1
+respect,1
+for,1
+all,1
+religions,1
+should,1
+inculcated,1
+along,1

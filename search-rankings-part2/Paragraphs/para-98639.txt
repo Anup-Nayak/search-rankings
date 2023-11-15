@@ -1,0 +1,15 @@
+29,160,6
+thou,3
+art,1
+like,2
+all,3
+things,3
+and,1
+nothing,1
+unlike,1
+thee,1
+if,1
+wilt,1
+be,1
+must,1
+forsake,1

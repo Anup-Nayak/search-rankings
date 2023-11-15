@@ -1,0 +1,7 @@
+18,48,4
+givings,1
+regarding,1
+proper,1
+treatment,1
+or,1
+trial,1

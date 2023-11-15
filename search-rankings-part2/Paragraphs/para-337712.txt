@@ -1,0 +1,6 @@
+87,421,6
+729,1
+letter,1
+to,1
+parachure,1
+shastri,1

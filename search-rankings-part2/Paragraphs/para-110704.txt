@@ -1,0 +1,6 @@
+32,463,8
+letter,1
+from,1
+k,1
+kelappan,1
+nair,1

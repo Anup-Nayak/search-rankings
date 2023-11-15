@@ -1,0 +1,8 @@
+28,0,4
+1,1
+then,1
+secretary,1
+gujarat,1
+provincial,1
+congress,1
+committee,1

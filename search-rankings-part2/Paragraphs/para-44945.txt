@@ -1,0 +1,6 @@
+13,405,4
+maganlal,1
+k,1
+gandhi,1
+phoenix,1
+natal,1

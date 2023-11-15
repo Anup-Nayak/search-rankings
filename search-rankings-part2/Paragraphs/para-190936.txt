@@ -1,0 +1,11 @@
+53,512,10
+1,1
+vide,1
+speech,1
+to,1
+depressed,1
+classes,1
+deputation,1
+26,1
+7,1
+1931,1

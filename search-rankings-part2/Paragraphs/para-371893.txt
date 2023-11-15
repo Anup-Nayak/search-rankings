@@ -1,0 +1,13 @@
+96,249,26
+was,1
+not,1
+satyagraha,1
+but,1
+passive,1
+resistancea,1
+weapon,1
+of,1
+the,1
+weak,1
+indians,1
+harboured,1

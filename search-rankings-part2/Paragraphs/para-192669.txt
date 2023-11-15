@@ -1,0 +1,15 @@
+54,240,9
+told,1
+me,1
+that,2
+he,2
+had,1
+thought,1
+his,1
+strength,1
+was,2
+equal,1
+to,1
+anything,1
+but,1
+now,1

@@ -1,0 +1,9 @@
+92,205,1
+safely,1
+go,1
+across,2
+in,1
+it,1
+and,1
+carry,1
+others,1

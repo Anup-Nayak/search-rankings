@@ -1,0 +1,6 @@
+49,267,3
+270,1
+the,1
+problem,1
+of,1
+minorities,1

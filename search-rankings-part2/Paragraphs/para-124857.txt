@@ -1,0 +1,9 @@
+36,408,8
+kamala,1
+has,1
+no,1
+typhoid,1
+simple,1
+malaria,1
+getting,1
+better,1

@@ -1,0 +1,11 @@
+35,26,1
+then,1
+tell,1
+me,1
+whether,1
+it,1
+does,1
+not,1
+give,1
+you,1
+satisfaction,1

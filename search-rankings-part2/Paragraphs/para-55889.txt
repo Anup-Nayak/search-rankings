@@ -1,0 +1,10 @@
+16,160,6
+1,1
+an,2
+aphorism,1
+2,1
+old,1
+sanskrit,1
+saying,1
+runs,1
+|,1

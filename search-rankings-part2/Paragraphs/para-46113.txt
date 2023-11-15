@@ -1,0 +1,9 @@
+14,21,6
+reuter,1
+andrews,1
+wants,1
+me,1
+pass,1
+one,1
+week,1
+with,1

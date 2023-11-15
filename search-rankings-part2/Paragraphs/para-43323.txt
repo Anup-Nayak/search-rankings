@@ -1,0 +1,9 @@
+13,181,11
+meet,1
+expenses,1
+of,1
+his,1
+trip,1
+which,1
+are,1
+estimated,1

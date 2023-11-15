@@ -1,0 +1,10 @@
+44,484,10
+t11,1
+for,1
+my,1
+sentiments,1
+of,1
+ahimsa,1
+guj,1
+has,1
+me,1

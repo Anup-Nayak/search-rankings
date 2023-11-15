@@ -1,0 +1,14 @@
+81,307,12
+1,1
+the,2
+letter,2
+is,1
+written,1
+at,1
+back,1
+of,2
+kasturba,1
+gandhis,1
+21,1
+11,1
+1941,1

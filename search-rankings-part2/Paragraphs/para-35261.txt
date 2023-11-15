@@ -1,0 +1,15 @@
+11,202,9
+mr,1
+gandhi,1
+those,1
+who,1
+so,1
+wish,1
+are,1
+taken,1
+to,1
+tolstoy,1
+farm,1
+and,1
+there,1
+supported,1

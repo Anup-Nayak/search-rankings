@@ -1,0 +1,6 @@
+52,255,1
+361,1
+caste,1
+and,1
+communal,1
+question,1

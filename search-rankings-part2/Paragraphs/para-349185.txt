@@ -1,0 +1,6 @@
+90,307,8
+377,1
+letter,1
+to,1
+aftab,1
+iqbal,1

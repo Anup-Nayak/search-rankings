@@ -1,0 +1,6 @@
+14,17,1
+solemn,1
+declaration,1
+full,1
+statement,1
+preparing,1

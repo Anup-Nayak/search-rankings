@@ -1,0 +1,12 @@
+88,35,15
+1,1
+barrister,1
+from,1
+lahore,1
+minister,1
+local,1
+self,1
+government,1
+in,1
+the,1
+punjab,1

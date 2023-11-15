@@ -1,0 +1,3 @@
+6,1,9
+near,1
+reading,1

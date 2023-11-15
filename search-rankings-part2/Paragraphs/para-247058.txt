@@ -1,0 +1,16 @@
+67,25,11
+1,1
+vide,1
+the,1
+preceding,1
+two,1
+items,1
+2,1
+a,1
+social,1
+worker,1
+and,1
+medical,1
+practitioner,1
+of,1
+ahmedabad,1

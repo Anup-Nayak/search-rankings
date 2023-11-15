@@ -1,0 +1,11 @@
+82,406,21
+would,2
+elect,1
+a,1
+president,1
+who,1
+be,1
+the,1
+national,1
+chief,1
+executive,1

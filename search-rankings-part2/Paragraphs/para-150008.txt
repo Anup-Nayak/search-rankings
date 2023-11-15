@@ -1,0 +1,6 @@
+43,339,10
+432,1
+letter,1
+to,1
+bhagwan,1
+das,1

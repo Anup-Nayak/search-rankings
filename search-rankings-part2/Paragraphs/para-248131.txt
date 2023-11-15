@@ -1,0 +1,14 @@
+67,135,3
+blessings,1
+from,1
+bapu,1
+shri,1
+rukmini,1
+devi,1
+bazaj,1
+shakti,1
+ashram,1
+p,1
+o,1
+rajpur,1
+dehradun,1

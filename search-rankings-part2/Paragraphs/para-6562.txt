@@ -1,0 +1,11 @@
+3,59,7
+indians,1
+to,1
+bazaars,1
+etc,1
+on,1
+the,1
+ground,1
+that,1
+such,1
+enforcement,1

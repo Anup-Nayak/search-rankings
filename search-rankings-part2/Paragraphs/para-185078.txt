@@ -1,0 +1,12 @@
+52,323,21
+if,1
+rural,1
+industries,1
+like,1
+spinning,1
+weaving,1
+dairying,1
+shoe,1
+making,1
+etc,1
+were,1

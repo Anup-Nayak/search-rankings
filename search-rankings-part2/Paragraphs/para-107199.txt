@@ -1,0 +1,16 @@
+31,367,1
+then,1
+follows,2
+an,1
+interesting,1
+commentary,1
+on,1
+most,1
+of,1
+the,1
+items,1
+it,1
+is,1
+wound,1
+up,1
+as,1

@@ -1,0 +1,9 @@
+24,64,3
+vandemataram,1
+from,2
+mohandas,1
+gandhi,1
+gujarati,2
+14,1
+8,1
+1921,1

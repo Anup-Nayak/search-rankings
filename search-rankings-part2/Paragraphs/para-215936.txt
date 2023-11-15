@@ -1,0 +1,13 @@
+59,397,6
+you,2
+are,1
+very,1
+hasty,1
+although,1
+a,1
+non,1
+co,1
+operator,1
+even,1
+seek,1
+help,1

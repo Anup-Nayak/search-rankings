@@ -1,0 +1,13 @@
+36,67,4
+vandemataram,1
+from,1
+bhaishri,1
+dahyabhai,1
+manordas,1
+patel,1
+mohandas,1
+vaidya,1
+jaishankar,1
+liladhars,1
+dispensary,1
+ahmedabad,1

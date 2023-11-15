@@ -1,0 +1,8 @@
+60,415,14
+1,1
+vide,1
+a,1
+harijans,1
+questions,1
+5,2
+1933,1

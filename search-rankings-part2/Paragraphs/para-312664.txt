@@ -1,0 +1,10 @@
+82,235,12
+go,2
+to,1
+and,1
+who,1
+would,1
+be,1
+unwelcome,1
+wherever,1
+they,1

@@ -1,0 +1,10 @@
+98,210,4
+bhai,1
+harilal,1
+bawabhai,1
+patel,1
+of,1
+gram,1
+dakshinamurty,1
+writes,1
+1,1

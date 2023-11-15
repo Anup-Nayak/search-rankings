@@ -1,0 +1,8 @@
+73,125,1
+130,1
+speech,1
+at,1
+hindustani,1
+talimi,1
+sangh,1
+1,1

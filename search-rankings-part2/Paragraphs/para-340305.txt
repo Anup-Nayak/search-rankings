@@ -1,0 +1,12 @@
+88,191,9
+principal,1
+ramdev,1
+smarak,1
+nidhi,1
+kanya,1
+gurukul,1
+60,1
+rajpur,1
+road,1
+dehra,1
+dun,1

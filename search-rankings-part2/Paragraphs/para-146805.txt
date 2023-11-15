@@ -1,0 +1,5 @@
+42,451,3
+1,1
+of,1
+steadfast,1
+intellect,1

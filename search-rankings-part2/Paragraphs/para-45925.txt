@@ -1,0 +1,8 @@
+14,9,3
+indians,1
+consider,1
+commission,1
+as,1
+at,1
+present,1
+constituted,1

@@ -1,0 +1,11 @@
+52,86,2
+bangles,1
+made,2
+of,2
+hand,1
+spun,1
+yarn,1
+should,1
+replace,1
+those,1
+gold,1

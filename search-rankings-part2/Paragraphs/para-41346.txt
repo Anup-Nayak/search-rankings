@@ -1,0 +1,7 @@
+12,400,4
+283,1
+our,1
+problem,1
+at,1
+the,1
+congress,1

@@ -1,0 +1,13 @@
+73,375,16
+raining,1
+bombs,1
+they,1
+rained,1
+handbills,1
+and,1
+leaflets,1
+showing,1
+the,2
+wrong,1
+of,1
+war,1

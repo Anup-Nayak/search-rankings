@@ -1,0 +1,8 @@
+10,105,2
+after,1
+september,1
+18,1
+1909,1
+civilization,1
+or,1
+barbarism,1

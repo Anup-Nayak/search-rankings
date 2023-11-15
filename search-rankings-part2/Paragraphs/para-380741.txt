@@ -1,0 +1,8 @@
+98,435,12
+learn,1
+tulsimahe,1
+loyalist,1
+fasting,1
+in,1
+prison,1
+for,1

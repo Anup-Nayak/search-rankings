@@ -1,0 +1,9 @@
+58,312,22
+who,1
+have,1
+been,1
+arbitrarily,1
+deprived,1
+of,1
+right,1
+to,1

@@ -1,0 +1,14 @@
+78,229,20
+strength,1
+in,1
+us,1
+and,3
+therefore,1
+mean,1
+greater,1
+more,1
+lasting,1
+benefit,1
+will,1
+it,1
+not,1

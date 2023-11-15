@@ -1,0 +1,8 @@
+38,483,3
+485,1
+the,2
+wheel,1
+of,1
+life,1
+and,1
+vedas,1

@@ -1,0 +1,12 @@
+51,392,4
+you,2
+explained,1
+to,1
+the,2
+subjects,1
+committee,1
+at,1
+karachi,1
+why,1
+kept,1
+out,1

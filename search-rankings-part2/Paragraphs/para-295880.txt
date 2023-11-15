@@ -1,0 +1,14 @@
+78,446,5
+nobody,1
+who,1
+is,1
+not,1
+above,1
+the,1
+age,1
+of,1
+18,1
+may,1
+take,1
+this,1
+pledge,1

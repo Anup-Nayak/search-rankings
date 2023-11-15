@@ -1,0 +1,12 @@
+21,386,3
+your,1
+faithful,1
+friend,1
+m,1
+k,1
+gandhi,1
+young,1
+india,1
+27,1
+10,1
+1920,1

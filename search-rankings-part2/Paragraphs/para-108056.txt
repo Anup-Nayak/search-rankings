@@ -1,0 +1,11 @@
+32,18,3
+we,1
+may,2
+not,1
+agree,1
+any,1
+half,1
+settlement,1
+but,1
+satyagrahis,1
+post,1

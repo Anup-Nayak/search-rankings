@@ -1,0 +1,4 @@
+7,305,2
+pretoria,1
+is,1
+weak,1

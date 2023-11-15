@@ -1,0 +1,15 @@
+8,270,8
+1,1
+here,1
+follows,1
+the,3
+gujarati,1
+translation,1
+of,1
+essay,1
+for,1
+english,1
+text,1
+vide,1
+appendix,1
+iii,1

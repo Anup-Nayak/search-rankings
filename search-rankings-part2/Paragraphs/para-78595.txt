@@ -1,0 +1,15 @@
+23,24,21
+that,2
+to,1
+clothe,1
+oneself,1
+in,1
+country,1
+made,1
+goods,1
+was,2
+a,1
+beautiful,1
+thing,1
+and,1
+it,1

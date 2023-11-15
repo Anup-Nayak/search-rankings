@@ -1,0 +1,13 @@
+82,298,14
+attacks,1
+whether,1
+he,1
+be,1
+a,3
+zamindar,1
+or,2
+sethia,1
+hindu,1
+muslim,1
+high,1
+paid,1

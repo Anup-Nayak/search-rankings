@@ -1,0 +1,8 @@
+16,465,11
+area,1
+under,1
+indigo,1
+and,1
+methods,1
+of,1
+cultivation,1

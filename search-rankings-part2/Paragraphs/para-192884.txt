@@ -1,0 +1,14 @@
+54,264,3
+q,1
+how,1
+can,1
+east,1
+and,1
+west,1
+be,1
+brought,1
+together,1
+to,1
+work,1
+for,1
+peace,1

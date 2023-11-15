@@ -1,0 +1,6 @@
+27,88,1
+outline,1
+i,1
+have,1
+sketched,1
+above,1

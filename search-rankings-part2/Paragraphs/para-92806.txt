@@ -1,0 +1,6 @@
+27,326,8
+wire,1
+condition,1
+and,1
+reply,1
+4,1

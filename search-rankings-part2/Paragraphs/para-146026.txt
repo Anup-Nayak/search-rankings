@@ -1,0 +1,4 @@
+42,363,6
+removal,1
+of,1
+untouchability,1

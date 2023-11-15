@@ -1,0 +1,5 @@
+18,21,4
+sundays,1
+hartal,1
+and,1
+fasting,1

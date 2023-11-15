@@ -1,0 +1,7 @@
+74,276,6
+speak,1
+lord,1
+for,1
+thy,1
+servant,1
+hearkeneth,1

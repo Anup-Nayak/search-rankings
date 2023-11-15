@@ -1,0 +1,10 @@
+76,136,11
+abbottabad,1
+july,1
+17,1
+1939,1
+thanu,1
+pillai,1
+state,1
+congress,1
+trivandrum,1

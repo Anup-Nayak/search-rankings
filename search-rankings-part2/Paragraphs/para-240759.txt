@@ -1,0 +1,8 @@
+65,356,11
+shri,1
+damodar,1
+m,1
+damle,1
+b,2
+a,1
+ll,1

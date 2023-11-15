@@ -1,0 +1,12 @@
+20,6,17
+no,2
+martial,1
+spirit,1
+themselves,1
+and,2
+appreciation,1
+for,1
+the,1
+valour,1
+loyalty,1
+of,1

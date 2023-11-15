@@ -1,0 +1,12 @@
+87,80,4
+blessings,1
+from,1
+m,1
+k,1
+gandhi,1
+shri,1
+janakidevi,1
+mira,1
+govindpur,1
+rae,1
+bareli,1

@@ -1,0 +1,9 @@
+47,250,12
+1,1
+from,1
+the,1
+reference,1
+to,2
+gandhijis,1
+visit,1
+hardwar,1

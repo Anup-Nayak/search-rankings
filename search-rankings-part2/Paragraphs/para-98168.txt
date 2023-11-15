@@ -1,0 +1,7 @@
+29,100,6
+advise,1
+hindus,1
+delhi,1
+accept,1
+terms,1
+suggested,1

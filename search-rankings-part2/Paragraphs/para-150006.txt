@@ -1,0 +1,8 @@
+43,339,8
+aksel,1
+g,1
+knudsen,1
+bredgade,1
+90,1
+skern,1
+denmark,1

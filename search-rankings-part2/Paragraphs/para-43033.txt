@@ -1,0 +1,8 @@
+13,149,18
+has,1
+telegraphed,1
+to,1
+me,1
+taking,1
+up,1
+impossible,1

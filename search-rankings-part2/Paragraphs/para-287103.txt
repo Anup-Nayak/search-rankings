@@ -1,0 +1,16 @@
+76,362,5
+daughter,1
+amtul,1
+salaam,1
+hope,1
+you,1
+are,1
+calm,1
+keep,1
+cheerful,1
+and,1
+take,1
+care,1
+of,1
+your,1
+health,1

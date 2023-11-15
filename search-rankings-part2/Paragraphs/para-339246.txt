@@ -1,0 +1,8 @@
+88,104,11
+227,1
+letter,1
+to,1
+krishnachandra,1
+october,1
+2,1
+1945,1

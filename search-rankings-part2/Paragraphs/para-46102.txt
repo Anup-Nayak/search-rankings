@@ -1,0 +1,8 @@
+14,20,19
+determination,1
+and,1
+discipline,1
+we,1
+are,1
+quite,1
+cheer,1

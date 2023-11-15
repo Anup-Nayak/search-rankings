@@ -1,0 +1,5 @@
+55,30,2
+sardar,1
+is,1
+very,1
+well,1

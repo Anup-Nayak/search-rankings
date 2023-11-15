@@ -1,0 +1,8 @@
+86,147,7
+govind,1
+ballabh,1
+pant,1
+care,1
+doctor,1
+joshi,1
+delhi,1

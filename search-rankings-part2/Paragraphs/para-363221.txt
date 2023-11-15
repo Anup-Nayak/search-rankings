@@ -1,0 +1,9 @@
+94,22,7
+1,1
+from,1
+a,1
+report,1
+in,1
+amrita,1
+bazar,1
+patrika,1

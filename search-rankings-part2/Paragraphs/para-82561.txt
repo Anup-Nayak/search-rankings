@@ -1,0 +1,15 @@
+24,210,3
+q,1
+some,1
+of,1
+you,1
+look,1
+advanced,1
+in,1
+age,1
+do,1
+these,1
+still,1
+follow,1
+your,1
+profession,1

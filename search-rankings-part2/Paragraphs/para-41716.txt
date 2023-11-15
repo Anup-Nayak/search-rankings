@@ -1,0 +1,11 @@
+12,458,7
+smuts,1
+speech,1
+on,1
+i,1
+r,1
+bill,1
+1912,1
+in,1
+union,1
+parliament,1

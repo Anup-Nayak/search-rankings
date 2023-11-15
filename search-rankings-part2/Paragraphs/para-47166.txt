@@ -1,0 +1,8 @@
+14,157,21
+possessing,1
+rights,1
+domicile,1
+more,1
+than,1
+one,1
+province,1

@@ -1,0 +1,6 @@
+3,434,4
+286,1
+the,2
+elections,1
+at,1
+cape,1

@@ -1,0 +1,15 @@
+75,439,7
+2,1
+the,1
+huzur,1
+office,1
+is,3
+closed,1
+today,1
+as,1
+it,2
+a,1
+holiday,1
+but,1
+open,1
+on,1

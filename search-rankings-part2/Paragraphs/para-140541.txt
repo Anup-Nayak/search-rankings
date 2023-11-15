@@ -1,0 +1,8 @@
+41,165,5
+general,1
+secretary,1
+punjab,1
+provincial,1
+congress,1
+committee,1
+lahore,1

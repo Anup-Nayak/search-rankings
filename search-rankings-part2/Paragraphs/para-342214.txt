@@ -1,0 +1,7 @@
+88,396,4
+714,1
+speech,1
+at,1
+mahila,1
+ashram,1
+2,1

@@ -1,0 +1,16 @@
+40,86,2
+500,1
+1,2
+100,1
+5,2
+50,2
+10,1
+units,2
+should,1
+be,1
+placed,1
+under,2
+tens,2
+and,1
+so,1
+on,1

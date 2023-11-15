@@ -1,0 +1,7 @@
+64,36,5
+52,1
+speech,1
+at,1
+public,1
+meeting,1
+jajpur,1

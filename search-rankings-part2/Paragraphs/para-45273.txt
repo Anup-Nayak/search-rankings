@@ -1,0 +1,6 @@
+13,433,14
+difficulty,1
+experienced,1
+induce,1
+acceptance,1
+peo,1

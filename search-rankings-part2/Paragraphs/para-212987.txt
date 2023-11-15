@@ -1,0 +1,12 @@
+59,77,2
+mr,1
+gandhi,1
+has,1
+declined,1
+to,1
+comment,1
+on,1
+the,2
+suggestion,1
+that,1
+government,1

@@ -1,0 +1,13 @@
+12,294,5
+enclosed,1
+is,1
+the,2
+bill,1
+of,1
+lading,1
+regarding,1
+lost,1
+case,1
+and,1
+insurance,1
+certificate,1

@@ -1,0 +1,6 @@
+68,165,3
+203,1
+a,1
+great,1
+social,1
+worker,1

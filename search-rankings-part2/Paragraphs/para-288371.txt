@@ -1,0 +1,8 @@
+77,50,23
+not,1
+satisfy,1
+the,2
+government,1
+standard,1
+but,1
+congress,1

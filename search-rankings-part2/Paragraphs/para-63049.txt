@@ -1,0 +1,8 @@
+18,39,1
+draw,1
+public,1
+attention,1
+to,1
+our,1
+principle,1
+by,1

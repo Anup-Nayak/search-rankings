@@ -1,0 +1,4 @@
+39,334,2
+329,1
+cultural,1
+spinning,1

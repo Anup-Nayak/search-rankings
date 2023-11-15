@@ -1,0 +1,10 @@
+50,212,6
+blessings,1
+from,2
+bapu,1
+the,1
+gujarati,1
+original,1
+s,1
+n,1
+33009,1

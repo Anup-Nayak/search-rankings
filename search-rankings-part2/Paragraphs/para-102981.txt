@@ -1,0 +1,10 @@
+30,215,19
+a,1
+sometimes,1
+six,1
+at,1
+other,1
+times,1
+12,1
+or,1
+15,1

@@ -1,0 +1,16 @@
+82,23,19
+there,1
+would,1
+be,1
+no,1
+room,1
+for,1
+teachers,1
+other,1
+than,1
+those,1
+prepared,1
+to,1
+lead,1
+a,1
+simple,1

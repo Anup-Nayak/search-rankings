@@ -1,0 +1,7 @@
+86,387,4
+676,1
+foreword,1
+to,1
+cow,1
+in,1
+india,1

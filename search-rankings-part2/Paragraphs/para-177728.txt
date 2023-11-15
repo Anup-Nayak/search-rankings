@@ -1,0 +1,16 @@
+50,474,6
+was,1
+strictly,1
+non,1
+violent,1
+we,2
+would,1
+not,1
+confuse,1
+the,2
+issue,1
+but,1
+least,1
+can,1
+do,1
+is,1

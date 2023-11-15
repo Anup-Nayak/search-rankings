@@ -1,0 +1,6 @@
+23,362,7
+1,1
+a,1
+fifteenth,1
+century,1
+philosopher,1

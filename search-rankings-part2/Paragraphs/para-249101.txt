@@ -1,0 +1,14 @@
+67,233,1
+death,1
+is,2
+like,2
+unto,1
+sleep,2
+and,1
+life,1
+the,1
+waking,1
+after,1
+that,1
+compare,1
+wordsworths,1

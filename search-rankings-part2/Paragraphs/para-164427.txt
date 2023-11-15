@@ -1,0 +1,10 @@
+47,240,4
+yours,1
+sincerely,1
+frederic,1
+standenath,1
+esq,1
+graz,1
+in,1
+syria,1
+austria,1

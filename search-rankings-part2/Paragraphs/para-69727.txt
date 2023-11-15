@@ -1,0 +1,6 @@
+20,30,7
+raja,1
+of,1
+mahmudabad,1
+sankaran,1
+nair,1

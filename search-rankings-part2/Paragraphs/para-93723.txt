@@ -1,0 +1,14 @@
+27,428,14
+small,1
+subsidy,1
+be,1
+paid,1
+from,1
+congress,1
+funds,1
+to,2
+some,1
+individual,1
+who,1
+is,1
+willing,1

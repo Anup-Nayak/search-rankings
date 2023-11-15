@@ -1,0 +1,6 @@
+36,331,2
+spinning,1
+wheel,1
+and,1
+self,1
+purification,1

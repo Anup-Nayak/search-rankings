@@ -1,0 +1,4 @@
+77,100,11
+karadi,1
+via,1
+navsari,1

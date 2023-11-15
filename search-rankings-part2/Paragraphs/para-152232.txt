@@ -1,0 +1,4 @@
+44,70,5
+students,1
+strike,1
+1,1

@@ -1,0 +1,7 @@
+26,350,9
+148,1
+trial,1
+and,1
+statement,1
+in,1
+court,1

@@ -1,0 +1,6 @@
+8,76,5
+45,1
+general,1
+smuts,1
+speech,1
+2,1

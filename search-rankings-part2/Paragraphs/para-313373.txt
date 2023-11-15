@@ -1,0 +1,12 @@
+82,297,10
+settlements,1
+these,1
+were,2
+abolished,1
+some,1
+years,1
+ago,1
+but,1
+they,1
+still,1
+under,1

@@ -1,0 +1,16 @@
+94,1,7
+1,1
+this,1
+paragraph,1
+is,1
+translated,1
+from,2
+eklo,1
+jane,1
+re,1
+2,1
+extracted,1
+gandhijis,1
+walking,1
+tour,1
+diary,1

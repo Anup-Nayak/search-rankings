@@ -1,0 +1,11 @@
+70,344,3
+357,1
+summary,1
+of,1
+speeches,1
+at,1
+prayer,1
+meeting,1
+in,1
+temples,1
+1,1

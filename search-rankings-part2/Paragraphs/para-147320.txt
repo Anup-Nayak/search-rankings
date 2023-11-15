@@ -1,0 +1,6 @@
+43,28,11
+secretary,1
+punjab,1
+political,1
+conference,1
+lyallpur,1

@@ -1,0 +1,7 @@
+75,280,20
+personal,1
+letter,1
+thanks,1
+for,1
+sending,1
+him,1

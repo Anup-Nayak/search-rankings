@@ -1,0 +1,8 @@
+60,3,2
+march,1
+10,1
+1933,1
+the,2
+manager,1
+milap,1
+lahore,1

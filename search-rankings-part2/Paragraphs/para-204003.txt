@@ -1,0 +1,8 @@
+57,115,3
+congratulations,1
+hope,1
+your,1
+example,1
+will,1
+be,1
+infectious,1

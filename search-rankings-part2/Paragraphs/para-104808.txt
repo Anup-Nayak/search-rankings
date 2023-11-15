@@ -1,0 +1,10 @@
+31,31,8
+are,1
+but,1
+on,1
+no,1
+account,1
+cross,1
+boundary,1
+line,1
+notwithstanding,1

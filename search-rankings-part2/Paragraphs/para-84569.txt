@@ -1,0 +1,8 @@
+25,60,4
+delhi,1
+silence,1
+day,1
+november,1
+7,1
+1921,1
+1,1

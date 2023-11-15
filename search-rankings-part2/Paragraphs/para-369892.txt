@@ -1,0 +1,15 @@
+96,23,5
+it,1
+depends,1
+upon,1
+you,2
+gandhiji,1
+are,1
+the,1
+biggest,1
+force,1
+i,1
+am,1
+a,1
+spent,1
+bullet,1

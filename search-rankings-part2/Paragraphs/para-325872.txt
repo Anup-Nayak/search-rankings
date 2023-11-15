@@ -1,0 +1,7 @@
+85,200,4
+316,1
+letter,1
+to,1
+khwaja,1
+a,1
+hamid,1

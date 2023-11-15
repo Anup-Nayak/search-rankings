@@ -1,0 +1,15 @@
+52,189,18
+find,1
+an,1
+immediate,1
+return,1
+in,1
+increased,1
+material,1
+prosperity,1
+which,1
+is,1
+the,1
+negation,1
+of,1
+all,1

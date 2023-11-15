@@ -1,0 +1,8 @@
+84,19,7
+blessings,1
+from,1
+bapu,1
+ps,1
+preserve,1
+this,1
+letter,1

@@ -1,0 +1,10 @@
+12,155,3
+yours,1
+sincerely,1
+earnest,1
+f,1
+c,1
+lane,1
+esq,1
+cape,1
+town,1

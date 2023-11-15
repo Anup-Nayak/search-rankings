@@ -1,0 +1,7 @@
+35,220,5
+sewa,1
+ram,1
+22,1
+jail,1
+road,1
+lahore,1

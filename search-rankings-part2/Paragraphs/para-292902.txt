@@ -1,0 +1,8 @@
+78,141,13
+nations,1
+and,1
+shall,1
+covet,1
+no,1
+foreign,1
+territory,1

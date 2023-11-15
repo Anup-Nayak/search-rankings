@@ -1,0 +1,13 @@
+38,43,8
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+4319,1
+courtesy,1
+kanubhai,1
+mashruwala,1

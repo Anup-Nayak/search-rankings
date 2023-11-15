@@ -1,0 +1,12 @@
+19,341,5
+1,2
+a,1
+gujarati,1
+translation,1
+of,1
+this,1
+appeared,1
+in,1
+navajivan,1
+25,1
+1920,1

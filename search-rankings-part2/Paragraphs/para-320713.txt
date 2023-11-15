@@ -1,0 +1,6 @@
+84,144,1
+199,1
+letter,1
+to,1
+gomati,1
+mashruwala,1

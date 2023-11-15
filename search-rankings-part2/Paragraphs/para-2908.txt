@@ -1,0 +1,14 @@
+2,81,11
+on,1
+the,3
+22nd,1
+december,1
+decks,1
+were,2
+washed,1
+and,1
+water,1
+closets,1
+latrines,1
+etc,1
+disinfected,1

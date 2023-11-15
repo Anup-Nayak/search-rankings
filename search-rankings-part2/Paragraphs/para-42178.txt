@@ -1,0 +1,10 @@
+13,46,26
+religions,1
+in,1
+order,1
+to,1
+protect,1
+lawful,1
+wives,1
+and,1
+minor,1

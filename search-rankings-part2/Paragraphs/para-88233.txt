@@ -1,0 +1,9 @@
+26,136,1
+61,1
+note,1
+on,1
+civil,1
+disobedience,1
+in,1
+guntur,1
+1,1

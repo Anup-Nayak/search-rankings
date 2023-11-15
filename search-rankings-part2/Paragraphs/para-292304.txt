@@ -1,0 +1,6 @@
+78,75,3
+71,1
+speech,1
+at,1
+exhibition,1
+2,1

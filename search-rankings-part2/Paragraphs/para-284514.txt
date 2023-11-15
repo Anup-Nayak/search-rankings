@@ -1,0 +1,16 @@
+76,76,3
+i,2
+must,1
+resume,1
+the,4
+argument,1
+about,1
+implications,1
+of,1
+rajkot,1
+step,1
+where,1
+left,1
+it,1
+week,1
+before,1

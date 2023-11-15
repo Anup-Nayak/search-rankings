@@ -1,0 +1,8 @@
+51,125,8
+rather,1
+than,1
+talk,1
+sing,1
+or,1
+write,1
+about,1

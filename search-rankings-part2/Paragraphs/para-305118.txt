@@ -1,0 +1,12 @@
+80,490,11
+munshi,1
+but,1
+she,1
+may,1
+prefer,1
+to,1
+be,1
+with,2
+you,1
+than,1
+me,1

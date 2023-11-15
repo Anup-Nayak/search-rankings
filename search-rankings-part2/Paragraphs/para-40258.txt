@@ -1,0 +1,13 @@
+12,297,4
+thambi,1
+naidoo,1
+left,2
+dadabhai,1
+came,2
+&,1
+albert,1
+wrote,1
+abhechand,1
+tyndale,1
+schlesin,1
+diwan,1

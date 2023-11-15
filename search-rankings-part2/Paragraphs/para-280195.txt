@@ -1,0 +1,6 @@
+75,56,6
+him,1
+suffer,1
+if,1
+he,1
+must,1

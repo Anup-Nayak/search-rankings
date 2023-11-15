@@ -1,0 +1,11 @@
+64,227,18
+much,1
+bigger,1
+purse,1
+but,1
+this,1
+time,1
+it,1
+had,1
+disappointed,1
+him,1

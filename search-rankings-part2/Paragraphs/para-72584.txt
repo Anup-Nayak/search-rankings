@@ -1,0 +1,8 @@
+21,10,13
+religious,1
+sentiment,1
+and,1
+for,1
+ensuring,1
+fulfilment,1
+of,1

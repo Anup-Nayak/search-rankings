@@ -1,0 +1,17 @@
+72,217,2
+hasnt,1
+one,2
+ever,1
+been,1
+brought,1
+to,1
+you,1
+i,2
+query,1
+he,1
+laughs,1
+again,1
+no,1
+have,1
+never,1
+seen,1

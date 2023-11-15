@@ -1,0 +1,6 @@
+19,12,8
+request,1
+urgent,1
+and,1
+telegraphic,1
+reply,1

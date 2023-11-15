@@ -1,0 +1,12 @@
+51,441,29
+gather,1
+he,1
+did,1
+not,1
+attach,1
+much,1
+importance,1
+to,1
+the,1
+point,1
+and,1

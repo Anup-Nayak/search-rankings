@@ -1,0 +1,12 @@
+70,192,2
+a,1
+correspondent,1
+who,1
+saw,1
+my,1
+article,1
+2,1
+on,1
+obscene,1
+advertisements,1
+writes,1

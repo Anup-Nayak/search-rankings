@@ -1,0 +1,15 @@
+52,279,4
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+dr,1
+josiah,1
+oldfield,1
+lady,1
+margaret,1
+hospital,1
+doddington,1
+kent,1
+england,1

@@ -1,0 +1,6 @@
+83,139,6
+kishorelal,1
+you,1
+yourself,1
+will,1
+decide,1

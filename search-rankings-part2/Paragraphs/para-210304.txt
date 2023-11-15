@@ -1,0 +1,8 @@
+58,312,25
+majesty,1
+s,1
+government,1
+to,2
+afford,1
+protection,1
+untouch,1

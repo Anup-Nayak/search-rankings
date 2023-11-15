@@ -1,0 +1,5 @@
+6,316,5
+rules,1
+for,1
+asiatic,1
+bazaars,1

@@ -1,0 +1,7 @@
+82,325,10
+380,1
+letter,1
+to,1
+puratan,1
+j,1
+buch,1

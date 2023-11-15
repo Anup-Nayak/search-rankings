@@ -1,0 +1,6 @@
+31,347,3
+he,1
+knows,1
+what,1
+they,1
+are,1

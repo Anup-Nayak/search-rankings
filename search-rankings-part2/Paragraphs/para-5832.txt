@@ -1,0 +1,12 @@
+2,446,2
+from,1
+the,2
+photostat,1
+of,1
+office,1
+copy,1
+in,1
+gujarati,1
+s,1
+n,1
+3937,1

@@ -1,0 +1,9 @@
+66,284,8
+o,1
+v,1
+r,1
+seshan,1
+24,1
+bungalow,1
+tatapuram,1
+cochin,1

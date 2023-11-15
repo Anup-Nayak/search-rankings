@@ -1,0 +1,15 @@
+96,176,7
+we,1
+are,1
+waiting,1
+for,1
+the,1
+rains,1
+if,1
+it,1
+does,1
+not,1
+rain,1
+people,1
+will,1
+suffer,1

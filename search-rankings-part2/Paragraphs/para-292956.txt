@@ -1,0 +1,10 @@
+78,148,5
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10940,1
+courtesy,1
+marjorie,1
+sykes,1

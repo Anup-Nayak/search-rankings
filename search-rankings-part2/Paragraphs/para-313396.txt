@@ -1,0 +1,11 @@
+82,298,5
+time,1
+their,1
+activities,1
+have,2
+assumed,1
+not,1
+only,1
+greater,1
+frequency,1
+but,1

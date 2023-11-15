@@ -1,0 +1,6 @@
+24,359,9
+lajpat,1
+rai,1
+lahore,1
+jitendralal,1
+banerji,1

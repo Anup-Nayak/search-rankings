@@ -1,0 +1,13 @@
+33,20,11
+which,1
+they,1
+grappled,1
+with,1
+it,2
+stemmed,1
+its,1
+onward,1
+progress,1
+and,1
+finally,1
+killed,1

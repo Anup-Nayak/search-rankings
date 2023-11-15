@@ -1,0 +1,7 @@
+14,10,36
+vital,1
+principle,1
+granted,1
+stop,1
+community,1
+deeply,1

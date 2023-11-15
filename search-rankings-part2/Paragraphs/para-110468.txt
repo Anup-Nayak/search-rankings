@@ -1,0 +1,12 @@
+32,442,11
+where,1
+spinning,1
+is,2
+being,1
+tried,1
+it,2
+an,1
+interesting,1
+experiment,1
+and,1
+if,1

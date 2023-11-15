@@ -1,0 +1,8 @@
+27,90,9
+sardar,1
+mangal,1
+singh,1
+akali,1
+te,1
+pardesi,1
+amritsar,1

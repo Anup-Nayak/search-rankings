@@ -1,0 +1,6 @@
+50,151,1
+220,1
+letter,1
+to,1
+ramabehn,1
+joshi,1

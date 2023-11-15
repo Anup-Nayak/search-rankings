@@ -1,0 +1,6 @@
+30,42,8
+28,1
+letter,1
+t0,1
+fulchand,1
+shah,1

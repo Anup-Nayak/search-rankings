@@ -1,0 +1,10 @@
+21,365,4
+m,1
+k,1
+gandhi,1
+from,1
+gujarati,1
+vidyabehn,1
+nilkanth,1
+jeevan,1
+jhanki,1

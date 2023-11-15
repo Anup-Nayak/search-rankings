@@ -1,0 +1,9 @@
+17,275,11
+1,1
+the,1
+signature,1
+is,1
+in,1
+mathuradas,1
+trikumjis,1
+hand,1

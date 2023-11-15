@@ -1,0 +1,12 @@
+13,448,5
+stated,1
+last,1
+year,1
+by,1
+the,2
+minister,1
+of,1
+interior,1
+in,1
+his,1
+speech,1

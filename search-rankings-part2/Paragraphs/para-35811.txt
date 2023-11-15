@@ -1,0 +1,8 @@
+11,257,11
+south,1
+african,1
+of,1
+over,1
+twenty,1
+years,1
+standing,1

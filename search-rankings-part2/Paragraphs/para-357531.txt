@@ -1,0 +1,6 @@
+92,318,3
+459,1
+ruralizing,1
+university,1
+education,1
+1,1

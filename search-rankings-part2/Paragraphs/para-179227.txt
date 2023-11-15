@@ -1,0 +1,7 @@
+51,145,6
+hear,1
+violence,1
+being,1
+used,1
+picketing,1
+foreign,1

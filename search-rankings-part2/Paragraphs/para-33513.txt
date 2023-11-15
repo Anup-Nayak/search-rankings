@@ -1,0 +1,5 @@
+10,500,11
+m,1
+k,1
+gandhi,1
+transvaal,1

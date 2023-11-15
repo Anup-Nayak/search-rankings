@@ -1,0 +1,13 @@
+82,107,7
+politic,1
+on,1
+democratic,1
+lines,1
+in,1
+this,1
+country,1
+unless,1
+we,1
+achieve,1
+social,1
+solidarity,1

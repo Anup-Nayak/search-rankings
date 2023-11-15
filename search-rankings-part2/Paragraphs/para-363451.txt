@@ -1,0 +1,9 @@
+94,46,14
+love,1
+to,1
+stay,1
+with,1
+you,2
+unless,1
+all,1
+desire,1

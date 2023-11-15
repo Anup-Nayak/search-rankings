@@ -1,0 +1,13 @@
+78,40,15
+would,1
+be,1
+in,1
+a,1
+position,1
+to,1
+guarantee,1
+the,2
+wages,1
+of,1
+wage,1
+earners,1

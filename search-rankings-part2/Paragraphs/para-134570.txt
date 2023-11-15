@@ -1,0 +1,15 @@
+39,220,19
+the,3
+people,1
+can,1
+be,1
+maintained,1
+and,1
+improved,1
+by,1
+milk,1
+of,1
+cow,1
+in,1
+a,1
+sense,1

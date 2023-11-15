@@ -1,0 +1,3 @@
+16,508,7
+camp,1
+ramgarhwa,1

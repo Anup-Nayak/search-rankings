@@ -1,0 +1,11 @@
+38,437,6
+these,1
+machines,1
+and,1
+sciences,1
+they,2
+have,1
+only,1
+one,1
+result,1
+spread,1

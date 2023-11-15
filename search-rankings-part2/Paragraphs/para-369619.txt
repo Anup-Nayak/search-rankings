@@ -1,0 +1,15 @@
+95,418,9
+he,2
+was,2
+indeed,1
+in,1
+a,1
+very,1
+upset,1
+mood,1
+and,1
+began,1
+by,1
+saying,1
+how,1
+unhappy,1

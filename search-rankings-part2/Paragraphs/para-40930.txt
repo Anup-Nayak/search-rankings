@@ -1,0 +1,15 @@
+12,349,2
+addresses,1
+in,3
+newcastle,1
+and,1
+dundee,1
+arrived,1
+maritzburg,1
+stayed,1
+at,1
+camden,1
+hotel,1
+address,1
+town,1
+hall,1

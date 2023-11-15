@@ -1,0 +1,11 @@
+93,411,9
+such,1
+a,2
+thing,1
+if,1
+true,1
+was,1
+surely,1
+sign,1
+of,1
+weakness,1

@@ -1,0 +1,11 @@
+94,31,18
+all,1
+caste,2
+distinctions,1
+should,2
+be,2
+abolished,1
+and,1
+there,1
+only,1
+one,1

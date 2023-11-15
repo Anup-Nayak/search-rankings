@@ -1,0 +1,5 @@
+1,20,2
+9,1
+indian,1
+vegetarians,1
+iii,1

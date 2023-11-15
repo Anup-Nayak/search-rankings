@@ -1,0 +1,6 @@
+45,465,2
+a,1
+model,1
+co,1
+operative,1
+society,1

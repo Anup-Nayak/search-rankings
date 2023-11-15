@@ -1,0 +1,16 @@
+32,459,6
+as,1
+to,1
+weaving,1
+now,1
+there,1
+was,1
+no,1
+excuse,1
+for,1
+saying,1
+that,1
+weavers,1
+did,1
+not,1
+accept,1

@@ -1,0 +1,14 @@
+39,419,7
+roads,1
+and,1
+railways,1
+some,2
+of,1
+them,1
+now,1
+deal,1
+in,1
+cattle,1
+have,1
+settled,1
+as,1

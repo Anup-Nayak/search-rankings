@@ -1,0 +1,6 @@
+12,115,5
+89,1
+mixed,1
+schools,1
+and,1
+morals,1

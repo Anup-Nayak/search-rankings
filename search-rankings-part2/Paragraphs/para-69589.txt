@@ -1,0 +1,12 @@
+20,7,2
+certain,1
+quarters,1
+in,1
+order,1
+to,1
+mislead,1
+the,2
+ignorant,1
+and,2
+credulous,1
+masses,1

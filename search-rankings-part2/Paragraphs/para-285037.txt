@@ -1,0 +1,6 @@
+76,134,4
+for,1
+freedom,1
+from,1
+imprisonment,1
+indefensible,1

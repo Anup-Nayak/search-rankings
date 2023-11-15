@@ -1,0 +1,4 @@
+64,348,8
+mohandas,1
+from,1
+gujarati,1

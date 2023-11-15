@@ -1,0 +1,8 @@
+71,121,4
+ministries,1
+as,1
+wholly,1
+illegal,1
+no,1
+settlement,1
+possible,1

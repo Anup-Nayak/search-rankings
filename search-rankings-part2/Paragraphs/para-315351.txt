@@ -1,0 +1,11 @@
+82,404,35
+congress,1
+has,1
+from,1
+time,2
+to,1
+especially,1
+under,1
+the,1
+influence,1
+of,1

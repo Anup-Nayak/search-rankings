@@ -1,0 +1,12 @@
+46,57,11
+los,1
+angeles,1
+and,2
+back,1
+through,1
+the,1
+wheat,1
+copper,1
+oil,1
+cattle,1
+cotton,1

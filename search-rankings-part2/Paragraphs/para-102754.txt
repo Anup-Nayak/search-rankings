@@ -1,0 +1,7 @@
+30,204,6
+1,1
+gardeners,1
+wife,1
+2,1
+upper,1
+apartment,1

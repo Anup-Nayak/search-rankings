@@ -1,0 +1,6 @@
+74,31,7
+56,1
+the,1
+states,1
+and,1
+responsibility,1

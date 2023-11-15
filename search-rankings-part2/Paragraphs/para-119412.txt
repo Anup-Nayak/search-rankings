@@ -1,0 +1,13 @@
+35,243,4
+i,1
+am,1
+enabled,1
+this,1
+week,1
+to,1
+give,1
+the,1
+following,1
+comparative,1
+tables,1
+1,1

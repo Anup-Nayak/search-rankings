@@ -1,0 +1,7 @@
+15,479,2
+guest,1
+house,1
+bettiah,1
+july,1
+27,1
+1917,1

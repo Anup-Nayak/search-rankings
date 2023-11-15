@@ -1,0 +1,16 @@
+64,452,4
+of,1
+the,3
+states,1
+people,1
+in,1
+way,1
+you,2
+did,1
+wished,1
+it,1
+to,1
+be,1
+understood,1
+by,1
+rulers,1

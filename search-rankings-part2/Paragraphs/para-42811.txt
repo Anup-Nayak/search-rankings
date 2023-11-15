@@ -1,0 +1,7 @@
+13,139,12
+future,1
+marriages,2
+and,1
+then,1
+only,1
+cele,1

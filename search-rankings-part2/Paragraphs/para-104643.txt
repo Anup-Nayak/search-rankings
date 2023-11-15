@@ -1,0 +1,7 @@
+31,2,4
+1,1
+the,1
+arguments,1
+are,1
+summarized,1
+here,1

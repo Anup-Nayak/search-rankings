@@ -1,0 +1,13 @@
+30,232,3
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+2867,1
+courtesy,1
+shardabehn,1
+shah,1

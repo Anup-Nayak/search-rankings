@@ -1,0 +1,12 @@
+21,96,10
+an,1
+exhibition,2
+of,2
+anger,1
+and,1
+any,1
+such,1
+was,1
+dissipation,1
+valuable,1
+energy,1

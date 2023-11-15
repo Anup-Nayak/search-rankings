@@ -1,0 +1,5 @@
+5,392,2
+350,1
+conflagration,1
+all,1
+round,1

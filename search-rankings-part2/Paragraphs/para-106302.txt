@@ -1,0 +1,15 @@
+31,246,9
+superior,1
+hindu,2
+but,1
+could,1
+not,1
+enter,1
+the,1
+room,1
+where,1
+water,1
+was,1
+kept,1
+no,1
+would,1

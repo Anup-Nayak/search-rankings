@@ -1,0 +1,9 @@
+20,95,19
+q,1
+were,1
+they,1
+not,1
+made,1
+to,1
+carry,1
+them,1

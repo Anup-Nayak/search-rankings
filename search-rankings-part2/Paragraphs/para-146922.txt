@@ -1,0 +1,12 @@
+42,465,3
+announcement,1
+that,1
+revision,1
+settlement,1
+of,1
+the,1
+viramgam,1
+taluk,1
+will,1
+be,1
+reconsidered,1

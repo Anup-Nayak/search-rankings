@@ -1,0 +1,8 @@
+29,12,1
+8,1
+letter,1
+t0,1
+the,1
+traffic,1
+superintendent,1
+ajmer,1

@@ -1,0 +1,13 @@
+52,275,2
+swaraj,1
+ashram,1
+bardoli,1
+june,1
+5,1
+1931,1
+fulchand,1
+shah,1
+national,1
+school,1
+wadhwan,1
+city,1

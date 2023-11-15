@@ -1,0 +1,11 @@
+60,269,7
+mohandas,1
+gandhi,1
+shri,1
+rama,1
+devi,1
+anti,1
+untouchability,1
+league,1
+cuttack,1
+orissa,1

@@ -1,0 +1,7 @@
+7,204,14
+claim,1
+unanimous,1
+approval,1
+support,1
+all,1
+parties,1

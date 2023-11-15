@@ -1,0 +1,8 @@
+34,386,13
+shri,1
+lallubhai,1
+bakorbhai,1
+patel,1
+napad,1
+taluk,1
+anand,1

@@ -1,0 +1,9 @@
+57,82,9
+my,1
+statement,1
+2,1
+perhaps,1
+press,1
+answers,1
+your,1
+questions,1

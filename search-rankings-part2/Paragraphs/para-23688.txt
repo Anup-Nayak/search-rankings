@@ -1,0 +1,12 @@
+8,94,13
+mr,1
+jordan,1
+you,1
+asked,1
+for,1
+the,2
+heaviest,1
+penalty,1
+which,1
+law,1
+authorizes,1

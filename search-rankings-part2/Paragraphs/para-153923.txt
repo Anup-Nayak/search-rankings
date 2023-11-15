@@ -1,0 +1,7 @@
+44,474,14
+t4,1
+guj,1
+adds,1
+and,1
+the,1
+public,1

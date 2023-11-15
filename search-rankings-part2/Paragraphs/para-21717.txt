@@ -1,0 +1,7 @@
+7,271,4
+can,1
+time,1
+be,1
+granted,1
+for,1
+leaving,1

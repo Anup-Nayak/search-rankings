@@ -1,0 +1,7 @@
+84,132,6
+190,1
+letter,1
+to,1
+gajanan,1
+n,1
+kanitkar,1

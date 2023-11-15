@@ -1,0 +1,10 @@
+56,436,16
+1,1
+maganlal,1
+gandhis,1
+son,2
+2,1
+of,1
+narahari,1
+dwarkadas,1
+parikh,1

@@ -1,0 +1,10 @@
+57,348,5
+from,1
+gujarati,1
+c,1
+w,1
+2766,1
+courtesy,1
+ramanarayan,1
+n,1
+pathak,1

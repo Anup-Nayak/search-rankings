@@ -1,0 +1,8 @@
+80,140,8
+251,1
+the,1
+only,1
+way,1
+towards,1
+world,1
+peace,1

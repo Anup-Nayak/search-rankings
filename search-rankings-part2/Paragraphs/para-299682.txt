@@ -1,0 +1,7 @@
+79,452,7
+my,1
+health,1
+passable,1
+situation,1
+demands,1
+time,1

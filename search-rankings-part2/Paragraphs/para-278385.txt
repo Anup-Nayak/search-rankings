@@ -1,0 +1,10 @@
+74,312,6
+q,1
+do,1
+you,1
+find,1
+any,1
+response,1
+to,1
+your,1
+prayer,1

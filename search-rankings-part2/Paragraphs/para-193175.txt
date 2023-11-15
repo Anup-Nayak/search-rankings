@@ -1,0 +1,13 @@
+54,301,6
+1,1
+the,2
+date,2
+is,1
+inferred,1
+from,1
+entry,1
+under,1
+this,1
+in,1
+diary,1
+1931,1

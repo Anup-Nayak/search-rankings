@@ -1,0 +1,13 @@
+42,419,5
+1,1
+that,1
+a,2
+subsidiary,1
+cottage,1
+industry,1
+in,1
+these,1
+parts,1
+is,1
+felt,1
+want,1

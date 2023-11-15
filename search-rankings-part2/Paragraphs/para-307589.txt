@@ -1,0 +1,10 @@
+81,240,6
+from,1
+gujarati,1
+c,1
+w,1
+893,1
+courtesy,1
+maneklal,1
+a,1
+gandhi,1

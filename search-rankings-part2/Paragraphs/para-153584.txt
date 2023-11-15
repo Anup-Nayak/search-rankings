@@ -1,0 +1,12 @@
+44,420,5
+1,1
+for,1
+the,1
+speech,2
+vide,1
+at,1
+war,1
+conference,1
+april,1
+28,1
+1918,1

@@ -1,0 +1,17 @@
+33,180,9
+1,1
+a,1
+jain,1
+prayer,1
+2,1
+gandhijis,1
+kutch,1
+tour,1
+began,1
+on,2
+october,1
+22,1
+and,1
+ended,1
+november,1
+3,1

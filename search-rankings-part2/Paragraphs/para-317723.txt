@@ -1,0 +1,15 @@
+83,223,7
+part,1
+1,2
+the,3
+human,1
+body,1
+it,1
+is,1
+necessary,1
+to,1
+understand,1
+meaning,1
+of,1
+word,1
+health,1

@@ -1,0 +1,5 @@
+68,41,2
+tree,1
+cotton,1
+and,1
+spinning,1

@@ -1,0 +1,13 @@
+64,112,8
+stage,1
+of,1
+society,1
+class,2
+struggle,2
+did,1
+exist,1
+if,1
+implied,1
+violence,1
+it,1
+was,1

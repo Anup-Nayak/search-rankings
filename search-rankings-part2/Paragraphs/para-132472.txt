@@ -1,0 +1,8 @@
+38,416,5
+a,1
+votary,1
+of,1
+non,1
+violence,1
+writes,1
+1,1

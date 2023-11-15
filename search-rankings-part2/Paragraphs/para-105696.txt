@@ -1,0 +1,12 @@
+31,173,5
+stirred,1
+the,2
+parsi,2
+friends,1
+through,2
+and,2
+his,1
+friendship,1
+with,1
+debt,1
+to,1

@@ -1,0 +1,7 @@
+59,38,6
+56,1
+letter,1
+to,1
+rasik,1
+lal,1
+biswas,1

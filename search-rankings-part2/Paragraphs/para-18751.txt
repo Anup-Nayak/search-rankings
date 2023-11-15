@@ -1,0 +1,12 @@
+6,394,2
+1,1
+manilal,1
+ramdas,1
+and,1
+devdas,1
+sons,1
+of,1
+gandhiji,1
+2,1
+ibid,2
+3,1

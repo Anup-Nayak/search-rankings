@@ -1,0 +1,9 @@
+29,180,6
+fast,1
+due,1
+grief,1
+present,1
+wants,1
+no,1
+cause,1
+alarm,1

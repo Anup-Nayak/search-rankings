@@ -1,0 +1,6 @@
+38,115,8
+3,1
+which,1
+are,1
+considered,1
+inauspicious,1

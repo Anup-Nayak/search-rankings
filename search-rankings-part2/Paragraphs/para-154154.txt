@@ -1,0 +1,7 @@
+44,482,2
+t1,1
+guj,1
+has,1
+prepared,1
+a,1
+bill,1

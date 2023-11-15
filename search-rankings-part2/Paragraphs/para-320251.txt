@@ -1,0 +1,7 @@
+84,94,1
+129,1
+letter,1
+to,1
+annada,1
+babu,1
+chowdhary,1

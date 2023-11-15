@@ -1,0 +1,15 @@
+92,182,2
+1,1
+the,5
+seventh,1
+day,2
+of,4
+moon,1
+in,1
+month,1
+shravan,1
+observed,1
+as,1
+shitala,1
+goddess,1
+smallpox,1

@@ -1,0 +1,8 @@
+66,134,4
+abdul,1
+ghani,1
+hindustan,1
+sugar,1
+mills,1
+gola,1
+gokarannath,1

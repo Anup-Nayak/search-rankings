@@ -1,0 +1,9 @@
+40,37,8
+volunteer,1
+we,1
+want,1
+money,1
+for,1
+propaganda,2
+work,2
+what,1

@@ -1,0 +1,7 @@
+45,380,1
+371,1
+speech,1
+at,1
+public,1
+meeting,1
+potunooru,1

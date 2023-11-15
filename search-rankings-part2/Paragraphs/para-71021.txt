@@ -1,0 +1,7 @@
+20,232,2
+the,1
+replies,1
+are,1
+analysed,1
+as,1
+follows,1

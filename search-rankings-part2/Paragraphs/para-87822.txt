@@ -1,0 +1,4 @@
+26,66,4
+inhumanity,1
+in,1
+banaras,1

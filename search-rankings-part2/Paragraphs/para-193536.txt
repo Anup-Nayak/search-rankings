@@ -1,0 +1,8 @@
+54,347,19
+surely,1
+misinformed,1
+because,1
+there,1
+was,1
+no,2
+rent,1

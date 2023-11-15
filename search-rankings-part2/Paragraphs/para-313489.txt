@@ -1,0 +1,12 @@
+82,300,22
+time,1
+most,1
+of,1
+the,2
+arrests,1
+in,2
+connection,1
+with,1
+specific,1
+offences,1
+affected,1

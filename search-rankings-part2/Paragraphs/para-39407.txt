@@ -1,0 +1,5 @@
+12,170,6
+137,1
+the,1
+indenture,1
+resolution,1

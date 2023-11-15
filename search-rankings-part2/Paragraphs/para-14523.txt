@@ -1,0 +1,10 @@
+5,425,8
+2,1
+ruthnam,1
+pather,1
+who,1
+was,1
+studying,1
+for,1
+the,1
+bar,1

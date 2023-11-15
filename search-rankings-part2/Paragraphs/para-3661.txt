@@ -1,0 +1,17 @@
+2,155,18
+f,1
+any,2
+person,1
+duly,1
+accredited,1
+to,1
+natal,1
+by,1
+or,2
+under,1
+the,2
+authority,1
+of,1
+imperial,1
+other,1
+government,1

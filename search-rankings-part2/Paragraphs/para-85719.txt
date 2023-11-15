@@ -1,0 +1,17 @@
+25,247,5
+maulana,1
+mainuddin,1
+maulvi,3
+abdulla,1
+mirza,1
+abdul,2
+kadir,2
+beg,1
+sayed,1
+abbas,1
+ali,1
+hafiz,1
+sultan,1
+hasan,1
+nuruddin,1
+bodhari,1

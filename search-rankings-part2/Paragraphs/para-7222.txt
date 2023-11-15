@@ -1,0 +1,8 @@
+3,181,11
+at,1
+an,1
+end,1
+indians,1
+offer,1
+undergo,1
+quarantine,1

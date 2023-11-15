@@ -1,0 +1,5 @@
+7,97,2
+any,1
+fear,1
+for,1
+merchants,1

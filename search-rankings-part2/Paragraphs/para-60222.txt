@@ -1,0 +1,11 @@
+17,174,10
+1,1
+the,1
+foregoing,1
+item,1
+is,1
+an,1
+enclosure,1
+to,1
+this,1
+letter,1

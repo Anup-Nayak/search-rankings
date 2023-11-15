@@ -1,0 +1,10 @@
+87,122,2
+shri,1
+lalmansinghji,1
+village,1
+samarpur,1
+p,1
+o,1
+khurja,1
+bulandshahr,1
+district,1

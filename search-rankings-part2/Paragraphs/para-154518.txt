@@ -1,0 +1,12 @@
+44,493,26
+t1,1
+for,1
+and,1
+do,1
+its,2
+worst,1
+guj,1
+has,1
+to,1
+enforce,1
+will,1

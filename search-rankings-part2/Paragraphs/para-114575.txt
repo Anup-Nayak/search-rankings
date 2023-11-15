@@ -1,0 +1,12 @@
+34,44,8
+i,3
+then,1
+saw,1
+gokhale,1
+have,1
+written,1
+elsewhere,1
+how,1
+fell,1
+in,1
+love,1

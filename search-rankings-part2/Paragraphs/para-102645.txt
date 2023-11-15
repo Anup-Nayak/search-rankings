@@ -1,0 +1,15 @@
+30,198,14
+q,1
+did,1
+you,1
+come,1
+to,1
+know,1
+the,1
+facts,1
+about,1
+it,1
+only,1
+from,1
+hearsay,1
+reports,1

@@ -1,0 +1,5 @@
+70,436,2
+travancore,1
+temple,1
+entry,1
+rules,1

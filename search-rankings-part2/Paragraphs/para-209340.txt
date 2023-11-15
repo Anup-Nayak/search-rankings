@@ -1,0 +1,6 @@
+58,218,2
+saturday,1
+morning,1
+december,1
+17,1
+1932,1

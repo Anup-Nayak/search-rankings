@@ -1,0 +1,10 @@
+95,365,8
+h,1
+there,1
+should,1
+be,1
+provision,1
+for,1
+clean,1
+water,1
+everywhere,1

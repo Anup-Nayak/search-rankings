@@ -1,0 +1,16 @@
+45,186,3
+dr,1
+menon,1
+writes,1
+as,1
+follows,1
+from,1
+calcutta,1
+regarding,1
+my,1
+article,1
+on,1
+the,1
+sutlej,1
+tragedy,1
+1,1

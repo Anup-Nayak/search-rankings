@@ -1,0 +1,4 @@
+87,146,11
+consider,1
+whole,1
+situation,1

@@ -1,0 +1,17 @@
+46,184,10
+action,1
+is,1
+not,1
+the,1
+doer,1
+thereof,1
+and,1
+when,1
+we,1
+are,1
+but,1
+instruments,1
+in,1
+his,1
+hands,1
+where,1

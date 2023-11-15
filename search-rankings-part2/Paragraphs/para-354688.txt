@@ -1,0 +1,13 @@
+92,5,10
+1,1
+extracted,1
+from,1
+pyarelals,1
+weekly,1
+letter,1
+dated,1
+11,1
+8,1
+1946,1
+2,1
+ibid,1

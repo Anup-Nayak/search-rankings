@@ -1,0 +1,16 @@
+91,83,13
+q,1
+to,1
+a,1
+third,1
+you,2
+cannot,1
+buy,1
+khadi,1
+unless,1
+produce,1
+the,1
+requisite,1
+quantity,1
+of,1
+yarn,1

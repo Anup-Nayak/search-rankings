@@ -1,0 +1,9 @@
+80,64,10
+1,1
+vide,1
+the,1
+preceding,1
+item,1
+2,1
+a,1
+german,1

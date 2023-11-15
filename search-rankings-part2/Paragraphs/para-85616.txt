@@ -1,0 +1,4 @@
+25,236,3
+kapadvanj,1
+and,1
+thasra,1

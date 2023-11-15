@@ -1,0 +1,5 @@
+35,27,1
+prayer,1
+common,1
+to,1
+all,1

@@ -1,0 +1,11 @@
+5,107,4
+100,1
+fragment,1
+of,1
+a,1
+letter,1
+after,1
+march,1
+9,1
+1906,1
+1,1

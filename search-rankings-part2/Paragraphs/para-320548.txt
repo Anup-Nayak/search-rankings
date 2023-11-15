@@ -1,0 +1,12 @@
+84,124,4
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+smt,1
+laxmibai,1
+abhyankar,1
+sardar,1
+griha,1
+bombay,1

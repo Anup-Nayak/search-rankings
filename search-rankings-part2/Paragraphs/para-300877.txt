@@ -1,0 +1,11 @@
+80,96,5
+from,1
+a,1
+copy,1
+c,1
+w,1
+10289,1
+courtesy,1
+allahabad,1
+municipal,1
+museum,1

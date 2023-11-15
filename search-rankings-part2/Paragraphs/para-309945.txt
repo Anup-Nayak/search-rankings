@@ -1,0 +1,13 @@
+82,11,6
+1,1
+this,1
+sentence,1
+is,2
+in,1
+english,1
+2,1
+the,2
+following,1
+paragraph,1
+from,1
+hindi,1

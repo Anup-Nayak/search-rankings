@@ -1,0 +1,17 @@
+78,35,5
+than,1
+it,1
+would,1
+be,1
+under,1
+nazism,1
+they,2
+know,1
+too,1
+or,1
+if,1
+do,1
+not,1
+i,1
+am,1
+afraid,1

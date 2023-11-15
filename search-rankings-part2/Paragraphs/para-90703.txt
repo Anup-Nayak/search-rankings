@@ -1,0 +1,15 @@
+27,49,2
+mr,1
+gandhi,1
+i,2
+said,1
+am,1
+going,1
+to,1
+ask,1
+you,2
+ten,1
+questions,1
+will,1
+of,1
+cou,1

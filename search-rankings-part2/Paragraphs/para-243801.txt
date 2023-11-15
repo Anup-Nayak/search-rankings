@@ -1,0 +1,6 @@
+66,191,3
+276,1
+letter,1
+to,1
+haribhau,1
+phatak,1

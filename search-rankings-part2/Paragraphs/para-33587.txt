@@ -1,0 +1,4 @@
+10,506,2
+colonial,1
+office,1
+minute,1

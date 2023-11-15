@@ -1,0 +1,11 @@
+74,456,7
+g,1
+the,1
+contradiction,1
+in,2
+these,1
+cases,1
+is,1
+only,1
+appearance,1
+and,1

@@ -1,0 +1,15 @@
+82,21,3
+i,1
+was,1
+able,1
+to,1
+meet,1
+the,2
+teachers,1
+and,1
+pupils,1
+of,2
+18,1
+out,1
+27,1
+schools,1

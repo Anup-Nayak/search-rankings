@@ -1,0 +1,16 @@
+23,302,23
+would,1
+say,1
+that,2
+he,2
+had,2
+not,1
+meant,1
+at,1
+all,1
+used,1
+the,2
+word,1
+memon,1
+for,1
+whole,1

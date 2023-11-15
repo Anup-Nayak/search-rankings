@@ -1,0 +1,6 @@
+84,228,7
+welcome,1
+twenty,1
+seventh,1
+four,1
+afternoon,1

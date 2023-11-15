@@ -1,0 +1,12 @@
+78,265,15
+i,1
+understand,1
+all,2
+you,1
+say,1
+but,1
+panic,1
+must,1
+be,1
+avoided,1
+at,1

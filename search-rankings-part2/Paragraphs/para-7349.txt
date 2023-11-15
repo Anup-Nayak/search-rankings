@@ -1,0 +1,11 @@
+3,197,15
+and,1
+you,1
+are,1
+prepared,2
+to,1
+differ,1
+from,1
+them,1
+i,1
+am,1

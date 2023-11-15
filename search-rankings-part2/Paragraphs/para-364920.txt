@@ -1,0 +1,15 @@
+94,209,9
+in,2
+answer,1
+to,1
+a,1
+question,1
+whether,1
+he,1
+believed,1
+the,1
+theory,1
+of,1
+one,1
+world,1
+and,1

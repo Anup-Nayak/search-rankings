@@ -1,0 +1,16 @@
+94,115,20
+much,1
+authority,1
+and,2
+power,1
+it,1
+was,1
+up,1
+to,2
+the,2
+people,1
+do,1
+their,1
+duty,1
+along,1
+lines,1

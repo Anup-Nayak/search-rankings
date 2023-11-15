@@ -1,0 +1,4 @@
+8,67,4
+the,1
+chief,1
+objections,1

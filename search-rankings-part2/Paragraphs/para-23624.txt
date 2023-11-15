@@ -1,0 +1,5 @@
+8,87,3
+maulvi,1
+saheb,1
+ahmed,1
+mukhtiar,1

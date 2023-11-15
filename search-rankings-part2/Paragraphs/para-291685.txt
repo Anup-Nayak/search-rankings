@@ -1,0 +1,8 @@
+78,9,7
+hospitality,1
+of,2
+culture,1
+to,1
+the,2
+rest,1
+world,1

@@ -1,0 +1,6 @@
+28,25,2
+15,1
+mill,1
+hands,1
+and,1
+khadi,1

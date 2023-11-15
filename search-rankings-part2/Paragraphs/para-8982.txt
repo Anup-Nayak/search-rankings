@@ -1,0 +1,12 @@
+4,28,4
+1,1
+a,2
+platform,1
+along,1
+the,2
+front,1
+and,1
+sometimes,1
+sides,1
+of,1
+house,1

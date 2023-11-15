@@ -1,0 +1,14 @@
+78,103,1
+mahatma,1
+but,1
+try,1
+to,2
+be,1
+a,1
+true,1
+servant,1
+god,1
+alone,1
+can,1
+testify,1
+this,1

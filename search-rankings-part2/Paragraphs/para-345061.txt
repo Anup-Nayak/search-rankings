@@ -1,0 +1,17 @@
+89,284,6
+g,1
+no,2
+but,1
+you,1
+are,1
+certainly,1
+good,1
+for,1
+it,1
+in,1
+the,1
+present,1
+state,1
+of,1
+your,1
+health,1

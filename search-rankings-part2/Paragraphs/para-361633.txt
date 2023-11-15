@@ -1,0 +1,8 @@
+93,279,10
+hazara,1
+3,1
+please,1
+reply,1
+about,1
+truth,1
+allegations,1

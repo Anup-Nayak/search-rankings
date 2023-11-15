@@ -1,0 +1,13 @@
+32,310,7
+khaddar,2
+depots,1
+or,1
+shops,1
+but,1
+hereafter,1
+they,1
+will,1
+be,1
+nothing,1
+more,1
+than,1

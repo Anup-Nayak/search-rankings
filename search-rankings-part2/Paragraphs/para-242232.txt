@@ -1,0 +1,4 @@
+66,32,4
+48,1
+villagers,1
+hands,1

@@ -1,0 +1,10 @@
+92,227,2
+q,1
+how,1
+should,1
+the,1
+hindu,1
+muslim,1
+questions,1
+be,1
+tackled,1

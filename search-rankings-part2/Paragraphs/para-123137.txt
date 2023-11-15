@@ -1,0 +1,10 @@
+36,211,2
+the,1
+mind,1
+is,1
+its,1
+own,1
+place,1
+and,1
+in,1
+itself,1

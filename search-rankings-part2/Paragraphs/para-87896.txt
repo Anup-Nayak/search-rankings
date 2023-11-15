@@ -1,0 +1,13 @@
+26,80,4
+1,1
+is,1
+it,1
+permissible,1
+for,1
+practising,1
+lawyers,1
+to,1
+enrol,1
+themselves,1
+as,1
+volunteers,1

@@ -1,0 +1,6 @@
+17,150,6
+130,1
+letter,1
+to,1
+rajibhai,1
+patel,1

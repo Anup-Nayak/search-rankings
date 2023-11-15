@@ -1,0 +1,7 @@
+29,280,12
+refugees,1
+at,1
+rawalpindi,1
+to,1
+return,1
+kohat,1

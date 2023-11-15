@@ -1,0 +1,5 @@
+20,147,2
+nawan,1
+pind,1
+chak,1
+no,1

@@ -1,0 +1,8 @@
+92,88,4
+welcome,1
+can,1
+come,1
+here,1
+hope,1
+you,1
+well,1

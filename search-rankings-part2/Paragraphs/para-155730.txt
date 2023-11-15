@@ -1,0 +1,12 @@
+45,114,9
+1,1
+this,1
+is,1
+not,1
+available,1
+2,1
+from,1
+the,1
+postmark,1
+of,1
+clearance,1

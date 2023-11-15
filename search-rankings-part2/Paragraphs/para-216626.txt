@@ -1,0 +1,12 @@
+59,475,3
+19,1
+it,1
+shall,1
+be,1
+competent,1
+for,1
+the,1
+central,1
+board,1
+to,1
+frame,1

@@ -1,0 +1,8 @@
+15,345,8
+instructions,1
+govt,1
+regarding,1
+mission,1
+no,1
+public,1
+agitation,1

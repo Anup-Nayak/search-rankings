@@ -1,0 +1,7 @@
+8,90,1
+50,1
+speech,1
+at,1
+newtown,1
+mosque,1
+1,1

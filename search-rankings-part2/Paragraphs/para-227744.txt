@@ -1,0 +1,15 @@
+62,261,1
+ps,1
+you,1
+ought,1
+to,2
+come,1
+the,2
+station,1
+on,1
+15th,1
+finger,1
+should,1
+be,1
+all,1
+right,1

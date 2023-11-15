@@ -1,0 +1,9 @@
+36,123,6
+across,1
+the,1
+soul,1
+all,1
+oceans,1
+waves,1
+may,1
+sweep,1

@@ -1,0 +1,7 @@
+50,290,7
+410,1
+letter,1
+to,1
+taramati,1
+mathuradas,1
+trikumji,1

@@ -1,0 +1,10 @@
+19,8,7
+mill,1
+hands,1
+this,1
+sum,1
+ordered,1
+to,1
+be,1
+collected,1
+through,1

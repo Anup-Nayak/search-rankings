@@ -1,0 +1,12 @@
+31,173,3
+another,1
+interesting,1
+item,1
+during,1
+the,3
+visit,1
+to,1
+navasari,1
+was,1
+meeting,1
+with,1

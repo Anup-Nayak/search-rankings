@@ -1,0 +1,5 @@
+21,426,5
+1,1
+opposite,1
+of,1
+dharma,1

@@ -1,0 +1,8 @@
+23,178,7
+83,1
+speech,1
+at,1
+meeting,1
+in,1
+barsi,1
+2,1

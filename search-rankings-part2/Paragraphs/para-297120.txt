@@ -1,0 +1,8 @@
+79,156,7
+ii,1
+a,1
+small,1
+but,1
+properly,1
+equipped,1
+hospital,1

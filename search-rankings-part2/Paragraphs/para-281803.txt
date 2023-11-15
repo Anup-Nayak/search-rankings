@@ -1,0 +1,7 @@
+75,238,6
+your,1
+telephone,1
+message,1
+rajkot,1
+work,1
+takes,1

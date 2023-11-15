@@ -1,0 +1,8 @@
+13,382,13
+245,1
+statement,1
+at,1
+chamber,1
+of,1
+commerce,1
+2,1

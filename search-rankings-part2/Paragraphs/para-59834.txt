@@ -1,0 +1,16 @@
+17,125,5
+i,1
+have,1
+not,1
+had,1
+a,1
+single,1
+recruit,1
+so,2
+far,1
+deplorable,1
+is,1
+the,2
+plight,1
+of,1
+country,1

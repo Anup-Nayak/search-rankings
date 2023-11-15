@@ -1,0 +1,7 @@
+66,182,14
+kaviraj,1
+gananath,1
+sen,1
+ayurvedic,1
+hospital,1
+calcutta,1

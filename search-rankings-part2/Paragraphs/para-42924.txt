@@ -1,0 +1,7 @@
+13,144,24
+requiring,1
+indians,1
+make,1
+declaration,1
+not,1
+required,1

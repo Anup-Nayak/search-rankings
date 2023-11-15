@@ -1,0 +1,11 @@
+42,297,4
+i,1
+am,1
+now,1
+thinking,1
+what,1
+further,1
+information,1
+we,1
+can,1
+cable,1

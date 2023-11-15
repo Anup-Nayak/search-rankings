@@ -1,0 +1,7 @@
+41,330,6
+so,1
+let,1
+the,1
+wise,1
+man,1
+dwell,1

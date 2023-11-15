@@ -1,0 +1,9 @@
+35,225,6
+from,1
+the,3
+paragraphs,1
+on,1
+agricultural,1
+conditions,1
+i,1
+cull,1

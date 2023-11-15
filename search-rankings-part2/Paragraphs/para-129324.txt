@@ -1,0 +1,15 @@
+38,25,7
+pure,1
+life,1
+he,1
+concluded,1
+by,1
+saying,1
+that,1
+the,2
+charkha,1
+was,1
+only,1
+cure,1
+for,1
+pauperism,1

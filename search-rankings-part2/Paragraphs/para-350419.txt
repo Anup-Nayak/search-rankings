@@ -1,0 +1,6 @@
+90,436,13
+here,1
+all,1
+barter,1
+is,1
+just,1

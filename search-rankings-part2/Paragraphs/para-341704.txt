@@ -1,0 +1,12 @@
+88,337,12
+2,1
+the,1
+addressees,1
+mother,1
+tongue,1
+was,2
+however,1
+malayalam,1
+her,1
+husbands,1
+tamil,1

@@ -1,0 +1,7 @@
+48,76,4
+a,1
+resident,1
+of,1
+banaras,1
+writes,1
+1,1

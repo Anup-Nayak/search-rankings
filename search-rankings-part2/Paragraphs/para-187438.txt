@@ -1,0 +1,16 @@
+53,101,15
+q,1
+how,1
+long,1
+more,1
+do,1
+you,2
+think,1
+will,1
+take,1
+to,1
+decide,1
+on,1
+boarding,1
+a,1
+steamer,1

@@ -1,0 +1,9 @@
+10,35,6
+1,1
+the,1
+meeting,1
+took,1
+place,1
+on,1
+august,1
+21,1

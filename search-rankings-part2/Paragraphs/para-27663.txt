@@ -1,0 +1,5 @@
+9,192,8
+king,1
+edwards,1
+hotel,1
+3,1

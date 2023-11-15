@@ -1,0 +1,7 @@
+96,204,5
+287,1
+work,1
+alone,1
+is,1
+true,1
+speech,1

@@ -1,0 +1,10 @@
+26,159,11
+with,1
+us,2
+let,1
+derive,1
+strength,1
+from,1
+him,1
+rather,1
+than,1

@@ -1,0 +1,15 @@
+27,305,5
+1,1
+a,2
+village,1
+in,1
+north,1
+gujarat,1
+2,1
+avantikabai,1
+gokhale,1
+leading,1
+congress,1
+worker,1
+of,1
+maharashtra,1

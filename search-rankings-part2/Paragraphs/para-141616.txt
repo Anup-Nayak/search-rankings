@@ -1,0 +1,17 @@
+41,301,9
+q,1
+but,1
+if,1
+you,2
+make,1
+your,1
+own,1
+things,1
+would,1
+not,1
+have,1
+to,1
+face,1
+the,1
+labour,1
+question,1

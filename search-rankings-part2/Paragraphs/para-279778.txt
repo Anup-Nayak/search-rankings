@@ -1,0 +1,6 @@
+75,12,1
+8,1
+letter,1
+to,1
+purushottam,1
+gandhi,1

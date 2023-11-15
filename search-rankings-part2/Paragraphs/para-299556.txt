@@ -1,0 +1,12 @@
+79,438,7
+1,1
+ambalal,1
+sarabhai,1
+2,1
+gulzarilal,1
+nanda,1
+secretary,1
+ahmedabad,1
+textile,1
+workers,1
+union,1

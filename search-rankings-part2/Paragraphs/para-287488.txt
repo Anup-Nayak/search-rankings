@@ -1,0 +1,6 @@
+76,407,1
+514,1
+letter,1
+to,1
+mahomed,1
+yunus,1

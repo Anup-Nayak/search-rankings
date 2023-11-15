@@ -1,0 +1,14 @@
+27,101,13
+swarajist,1
+success,1
+has,1
+taken,1
+the,3
+country,1
+by,1
+storm,1
+and,1
+leader,1
+who,1
+made,1
+swaraj,1

@@ -1,0 +1,16 @@
+94,360,18
+requisite,1
+literature,1
+for,1
+nayee,1
+talim,1
+if,1
+we,1
+can,2
+have,1
+it,2
+ready,1
+at,1
+one,1
+place,1
+be,1

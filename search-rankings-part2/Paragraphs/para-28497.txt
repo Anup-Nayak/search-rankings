@@ -1,0 +1,17 @@
+9,314,4
+my,1
+dear,1
+west,1
+i,2
+am,1
+still,1
+left,1
+handed,1
+the,1
+right,1
+hand,1
+can,1
+use,1
+only,1
+with,1
+difficulty,1

@@ -1,0 +1,7 @@
+14,70,9
+similar,1
+viceregal,1
+lodge,1
+simla,1
+merriman,1
+late,1

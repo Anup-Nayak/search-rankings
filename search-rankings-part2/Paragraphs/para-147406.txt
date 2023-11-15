@@ -1,0 +1,6 @@
+43,36,17
+pray,1
+interest,1
+yourself,1
+aboobakers,1
+pretoria,1

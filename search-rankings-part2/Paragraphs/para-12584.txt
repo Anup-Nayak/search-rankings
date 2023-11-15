@@ -1,0 +1,6 @@
+5,114,2
+105,1
+a,1
+poll,1
+tax,1
+grievance,1

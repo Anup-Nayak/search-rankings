@@ -1,0 +1,8 @@
+86,65,9
+bapu,1
+smt,1
+maude,1
+c/o,1
+rajkumari,1
+amrit,1
+kaur,1

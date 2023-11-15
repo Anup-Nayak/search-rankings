@@ -1,0 +1,14 @@
+54,100,9
+q,1
+can,1
+these,1
+people,1
+enrich,1
+themselves,1
+without,1
+exploiting,1
+the,1
+indian,1
+workers,1
+and,1
+peasants,1

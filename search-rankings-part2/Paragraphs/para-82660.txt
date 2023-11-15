@@ -1,0 +1,15 @@
+24,220,1
+many,1
+times,1
+dependent,1
+and,1
+so,1
+slaves,1
+for,1
+our,1
+other,1
+requirements,1
+which,1
+too,1
+should,1
+on,1

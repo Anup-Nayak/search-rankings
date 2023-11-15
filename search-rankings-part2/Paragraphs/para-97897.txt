@@ -1,0 +1,10 @@
+29,63,2
+god,1
+has,1
+bound,1
+me,1
+with,1
+a,1
+string,1
+of,1
+yarn,1

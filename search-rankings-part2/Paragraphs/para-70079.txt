@@ -1,0 +1,11 @@
+20,91,3
+1,1
+it,1
+was,1
+closed,1
+to,1
+the,1
+public,1
+for,1
+two,1
+weeks,1

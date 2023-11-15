@@ -1,0 +1,5 @@
+23,232,1
+110,1
+gujarat,1
+s,1
+decision,1

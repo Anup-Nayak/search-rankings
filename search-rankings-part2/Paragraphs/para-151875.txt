@@ -1,0 +1,7 @@
+44,30,4
+45,1
+letter,1
+to,1
+dr,1
+indarlal,1
+kapur,1

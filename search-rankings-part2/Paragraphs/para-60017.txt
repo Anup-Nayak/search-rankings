@@ -1,0 +1,6 @@
+17,148,5
+129,1
+letter,1
+t0,1
+maganlal,1
+gandhi,1

@@ -1,0 +1,9 @@
+4,289,6
+238,1
+letter,1
+to,1
+deputy,1
+commissioner,1
+of,1
+police,1
+2,1

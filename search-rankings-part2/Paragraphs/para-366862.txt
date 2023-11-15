@@ -1,0 +1,15 @@
+95,19,1
+because,1
+i,1
+too,1
+belong,1
+to,1
+the,2
+public,1
+well,1
+then,1
+you,1
+will,1
+not,1
+allow,1
+prayer,1

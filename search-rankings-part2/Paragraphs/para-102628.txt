@@ -1,0 +1,9 @@
+30,197,19
+a,1
+it,1
+ought,1
+not,1
+to,1
+have,1
+left,1
+any,1

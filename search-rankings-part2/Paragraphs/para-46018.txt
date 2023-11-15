@@ -1,0 +1,10 @@
+14,13,6
+trust,1
+me,1
+to,2
+die,1
+make,1
+good,1
+word,1
+givenby,1
+you,1

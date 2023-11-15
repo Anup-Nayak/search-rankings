@@ -1,0 +1,9 @@
+82,76,1
+88,1
+talk,1
+to,1
+members,1
+of,1
+mahila,1
+ashram,1
+1,1

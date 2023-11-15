@@ -1,0 +1,5 @@
+92,162,1
+230,1
+letter,1
+to,1
+madalasa,1

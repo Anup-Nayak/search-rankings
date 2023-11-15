@@ -1,0 +1,16 @@
+96,436,18
+subjects,1
+mentioned,1
+in,1
+the,1
+cabinet,1
+mission,1
+plan,1
+i,1
+felt,1
+very,1
+hopeful,1
+of,1
+being,1
+able,1
+to,1

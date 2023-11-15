@@ -1,0 +1,12 @@
+19,230,1
+on,2
+this,1
+particular,1
+occasion,1
+the,3
+10th,1
+11th,1
+and,1
+12th,1
+affection,1
+took,1

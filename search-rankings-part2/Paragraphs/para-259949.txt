@@ -1,0 +1,5 @@
+70,8,3
+15,1
+speech,1
+at,1
+banaras,1

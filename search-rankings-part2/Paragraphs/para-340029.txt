@@ -1,0 +1,6 @@
+88,168,3
+ratnadevi,1
+vanasthali,1
+vidyapith,1
+jaipur,1
+state,1

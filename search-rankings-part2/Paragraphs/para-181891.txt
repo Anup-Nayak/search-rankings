@@ -1,0 +1,13 @@
+51,458,19
+village,1
+servants,1
+who,1
+had,3
+resigned,1
+not,1
+only,1
+to,2
+apply,1
+for,1
+reinstatement,1
+but,1

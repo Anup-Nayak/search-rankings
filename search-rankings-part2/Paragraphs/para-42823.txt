@@ -1,0 +1,7 @@
+13,140,2
+solve,1
+free,1
+state,1
+difficulty,1
+theoretical,1
+right,1

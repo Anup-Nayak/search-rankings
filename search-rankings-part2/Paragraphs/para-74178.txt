@@ -1,0 +1,6 @@
+21,277,8
+aga,1
+safdar,1
+care,1
+zamindar,1
+lahore,1

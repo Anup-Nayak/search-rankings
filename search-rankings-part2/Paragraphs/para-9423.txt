@@ -1,0 +1,7 @@
+4,117,3
+94,1
+long,1
+live,1
+the,1
+king,1
+emperor,1

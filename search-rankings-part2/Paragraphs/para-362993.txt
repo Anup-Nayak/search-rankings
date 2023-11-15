@@ -1,0 +1,12 @@
+93,422,3
+objective,1
+entity,1
+immune,1
+from,1
+the,2
+operation,1
+of,1
+force,1
+which,1
+tends,1
+towards,1

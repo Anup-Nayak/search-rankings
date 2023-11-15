@@ -1,0 +1,12 @@
+2,233,7
+we,1
+prefer,1
+to,1
+say,1
+nothing,1
+on,1
+the,2
+political,1
+aspect,1
+of,1
+question,1

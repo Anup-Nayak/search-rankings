@@ -1,0 +1,6 @@
+3,385,3
+253,1
+last,1
+years,1
+stock,1
+taking,1

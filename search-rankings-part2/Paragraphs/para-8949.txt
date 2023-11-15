@@ -1,0 +1,8 @@
+4,23,6
+18,1
+an,1
+appeal,1
+to,1
+the,1
+natal,1
+contemporaries,1

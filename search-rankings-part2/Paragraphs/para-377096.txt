@@ -1,0 +1,8 @@
+98,16,9
+14,1
+talk,1
+with,1
+workers,1
+of,1
+kasturba,1
+trust,1

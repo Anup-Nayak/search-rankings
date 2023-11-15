@@ -1,0 +1,14 @@
+54,127,6
+the,3
+general,1
+situation,1
+at,1
+present,1
+moment,1
+is,1
+so,1
+gloomy,1
+and,1
+only,1
+ray,1
+of,1

@@ -1,0 +1,13 @@
+92,34,4
+velukutty,1
+nair,1
+must,1
+not,1
+fast,1
+gandhi,1
+from,1
+a,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1

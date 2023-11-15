@@ -1,0 +1,6 @@
+80,115,9
+205,1
+letter,1
+to,1
+mirza,1
+ismail,1

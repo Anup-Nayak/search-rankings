@@ -1,0 +1,5 @@
+47,106,7
+villages,1
+population,1
+29,1
+crores,1

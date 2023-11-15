@@ -1,0 +1,11 @@
+21,142,9
+in,2
+other,1
+words,1
+obstruction,1
+is,1
+no,1
+stage,1
+non,1
+co,1
+operation,1

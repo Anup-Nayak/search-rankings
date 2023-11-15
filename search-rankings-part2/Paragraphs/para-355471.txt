@@ -1,0 +1,8 @@
+92,91,5
+and,1
+foreign,1
+journalists,1
+being,1
+admitted,1
+by,1
+countries,1

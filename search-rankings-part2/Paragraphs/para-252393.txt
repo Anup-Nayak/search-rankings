@@ -1,0 +1,6 @@
+68,128,2
+s,1
+v,1
+kowjalgi,1
+advocate,1
+bijapur,1

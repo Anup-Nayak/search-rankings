@@ -1,0 +1,7 @@
+59,218,8
+servants,1
+untouchables,1
+society,1
+bunder,1
+road,1
+karachi,1

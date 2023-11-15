@@ -1,0 +1,15 @@
+82,172,10
+1,1
+gandhijis,2
+grandson,1
+and,1
+harilal,1
+gandhis,2
+son,2
+2,1
+addressees,1
+wife,2
+3,1
+youngest,1
+4,1
+devdas,1

@@ -1,0 +1,8 @@
+71,87,2
+1,1
+secretary,1
+of,1
+state,1
+for,1
+home,1
+affairs,1

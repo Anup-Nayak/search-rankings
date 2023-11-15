@@ -1,0 +1,12 @@
+82,103,10
+which,1
+we,1
+have,1
+neither,1
+trained,1
+nor,1
+disciplined,1
+ourselves,1
+in,1
+the,1
+past,1

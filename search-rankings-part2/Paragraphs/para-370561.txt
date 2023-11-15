@@ -1,0 +1,15 @@
+96,101,13
+effective,1
+rationing,1
+in,1
+which,1
+a,1
+great,1
+deal,1
+of,1
+credit,1
+should,1
+be,1
+given,1
+to,1
+the,1

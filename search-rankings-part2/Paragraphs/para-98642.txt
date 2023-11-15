@@ -1,0 +1,8 @@
+29,160,9
+they,1
+are,1
+slaves,1
+who,1
+will,1
+not,1
+choose,1

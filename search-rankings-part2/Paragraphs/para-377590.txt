@@ -1,0 +1,10 @@
+98,88,10
+1,1
+vide,1
+letter,1
+to,1
+narandas,1
+gandhi,1
+5,1
+12,1
+1947,1

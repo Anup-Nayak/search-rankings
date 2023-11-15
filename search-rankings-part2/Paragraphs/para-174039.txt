@@ -1,0 +1,6 @@
+50,39,5
+57,1
+letter,1
+to,1
+mathuradas,1
+purushottam,1

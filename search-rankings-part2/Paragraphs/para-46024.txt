@@ -1,0 +1,8 @@
+14,14,2
+shall,1
+wait,1
+one,1
+week,1
+even,1
+longer,1
+after,1

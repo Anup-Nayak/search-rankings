@@ -1,0 +1,6 @@
+24,129,2
+christians,1
+and,1
+non,1
+co,1
+operation,1

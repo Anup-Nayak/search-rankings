@@ -1,0 +1,9 @@
+61,271,8
+from,1
+gujarati,1
+c,1
+w,1
+9652,1
+courtesy,1
+amritlal,1
+nanavati,1

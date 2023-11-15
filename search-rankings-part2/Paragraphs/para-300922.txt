@@ -1,0 +1,16 @@
+80,100,3
+dear,1
+dr,1
+sant,1
+all,1
+things,1
+considered,1
+you,1
+should,1
+adhere,1
+to,2
+the,1
+decision,1
+offer,1
+civil,1
+disobedience,1

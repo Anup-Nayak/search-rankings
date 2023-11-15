@@ -1,0 +1,8 @@
+23,312,1
+143,1
+dr,1
+pollen,1
+on,1
+the,1
+war,1
+path,1

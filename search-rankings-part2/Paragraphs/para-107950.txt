@@ -1,0 +1,8 @@
+32,1,18
+deshbandhu,1
+died,1
+heart,1
+failure,1
+darjeeling,1
+remains,1
+reaching,1

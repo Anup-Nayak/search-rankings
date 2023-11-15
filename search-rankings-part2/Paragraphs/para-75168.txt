@@ -1,0 +1,14 @@
+21,474,12
+mr,1
+gandhi,1
+addressing,1
+the,1
+audience,1
+as,1
+brothers,1
+and,1
+sisters,1
+said,1
+he,1
+was,1
+not,1

@@ -1,0 +1,8 @@
+15,430,21
+position,1
+delicate,1
+with,1
+friends,1
+who,1
+though,1
+entitled,1

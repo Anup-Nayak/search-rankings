@@ -1,0 +1,16 @@
+82,82,13
+should,1
+be,1
+brave,2
+enough,1
+to,1
+face,1
+the,1
+risk,1
+after,1
+all,1
+women,1
+cannot,1
+become,1
+or,1
+self,1

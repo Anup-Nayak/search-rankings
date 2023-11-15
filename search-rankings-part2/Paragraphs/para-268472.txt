@@ -1,0 +1,6 @@
+72,161,1
+222,1
+letter,1
+to,1
+zakir,1
+husain,1

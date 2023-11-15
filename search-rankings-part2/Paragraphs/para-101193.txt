@@ -1,0 +1,8 @@
+29,476,11
+it,1
+is,1
+not,1
+always,1
+of,1
+good,1
+cotton,1

@@ -1,0 +1,12 @@
+1,313,1
+86,1
+letter,1
+to,2
+the,3
+natal,2
+mercury,2
+durban,1
+march,1
+2,1
+1896,1
+editor,1

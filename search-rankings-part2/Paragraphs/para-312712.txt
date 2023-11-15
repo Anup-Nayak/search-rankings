@@ -1,0 +1,5 @@
+82,239,4
+thus,1
+writes,1
+a,1
+correspondent,1

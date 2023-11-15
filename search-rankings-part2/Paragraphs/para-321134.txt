@@ -1,0 +1,6 @@
+84,192,4
+255,1
+letter,1
+to,1
+nandu,1
+kanuga,1

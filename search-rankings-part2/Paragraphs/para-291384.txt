@@ -1,0 +1,16 @@
+77,420,14
+country,1
+is,1
+entitled,1
+to,1
+know,1
+in,1
+a,2
+matter,1
+of,2
+such,2
+moment,1
+and,1
+at,1
+time,1
+gravity,1

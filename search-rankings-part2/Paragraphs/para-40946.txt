@@ -1,0 +1,17 @@
+12,349,18
+left,2
+pretoria,1
+by,1
+car,1
+to,1
+see,1
+wyndham,1
+returned,1
+lunch,1
+with,1
+gladstone,1
+for,1
+lawley,1
+in,1
+the,1
+evening,1

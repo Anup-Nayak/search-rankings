@@ -1,0 +1,8 @@
+28,374,4
+m,1
+k,1
+gandhi,1
+maulana,1
+mahomed,1
+ali,1
+delhi,1

@@ -1,0 +1,14 @@
+93,407,6
+gandhiji,1
+said,1
+that,1
+the,1
+question,1
+was,1
+good,1
+and,1
+admitted,1
+of,1
+a,1
+simple,1
+answer,1

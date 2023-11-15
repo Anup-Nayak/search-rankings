@@ -1,0 +1,15 @@
+21,67,14
+up,1
+and,1
+said,1
+they,1
+had,1
+come,1
+to,3
+take,1
+him,1
+campbellpore,1
+the,1
+mahatma,1
+asked,1
+them,1

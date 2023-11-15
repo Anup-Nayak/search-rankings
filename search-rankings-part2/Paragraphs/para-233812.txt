@@ -1,0 +1,7 @@
+64,51,2
+75,1
+telegram,1
+to,1
+anand,1
+t,1
+hingorani,1

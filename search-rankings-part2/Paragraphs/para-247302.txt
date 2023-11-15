@@ -1,0 +1,4 @@
+67,52,4
+my,1
+dear,1
+prakasam,1

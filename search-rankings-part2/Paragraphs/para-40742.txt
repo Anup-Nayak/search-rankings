@@ -1,0 +1,7 @@
+12,336,4
+august,1
+13,1
+tuesday,1
+shravan,1
+sud,1
+1,1

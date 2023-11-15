@@ -1,0 +1,6 @@
+43,474,2
+600,1
+letter,1
+to,1
+ashram,1
+women,1

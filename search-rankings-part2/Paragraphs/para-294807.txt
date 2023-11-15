@@ -1,0 +1,15 @@
+78,316,17
+but,1
+they,1
+did,1
+not,1
+consider,1
+it,1
+a,1
+part,1
+of,1
+the,1
+gentlemans,1
+agreement,1
+with,1
+regard,1

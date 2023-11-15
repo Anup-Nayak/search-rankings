@@ -1,0 +1,17 @@
+90,336,4
+q,1
+5,1
+is,1
+not,1
+non,1
+violent,1
+resistance,1
+by,2
+the,2
+militarily,2
+strong,1
+more,1
+effective,1
+than,1
+that,1
+weak,1

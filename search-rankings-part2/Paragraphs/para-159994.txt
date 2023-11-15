@@ -1,0 +1,8 @@
+46,199,1
+27,1
+whatever,3
+thou,3
+doest,1
+eatest,1
+offerest,1
+as,1

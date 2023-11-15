@@ -1,0 +1,5 @@
+35,47,5
+77,1
+letter,1
+to,1
+gulabdas,1

@@ -1,0 +1,10 @@
+42,43,2
+yours,1
+sincerely,1
+sjt,1
+t,2
+prakasam,1
+swarajya,1
+broadway,1
+madras,1
+g,1

@@ -1,0 +1,7 @@
+30,67,2
+action,1
+is,2
+duty,1
+fruit,1
+the,1
+right,1

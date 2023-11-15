@@ -1,0 +1,10 @@
+33,244,10
+ahmedabad,1
+november,1
+23,1
+1925,1
+mathuradas,1
+trikumji,1
+93,1
+bazargate,1
+bombay,1

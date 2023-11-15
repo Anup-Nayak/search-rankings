@@ -1,0 +1,6 @@
+62,10,6
+2,1
+these,1
+are,1
+not,1
+available,1

@@ -1,0 +1,17 @@
+76,426,11
+right,1
+to,1
+express,1
+our,1
+views,2
+then,1
+it,1
+does,1
+not,1
+matter,1
+if,1
+those,1
+are,1
+favourable,1
+or,1
+un,1

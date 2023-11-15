@@ -1,0 +1,12 @@
+1,250,9
+extent,1
+with,1
+the,2
+european,1
+field,1
+work,1
+for,1
+europeans,1
+is,1
+impossible,1
+on,1

@@ -1,0 +1,16 @@
+25,203,7
+principle,1
+of,1
+non,1
+co,1
+operation,1
+that,1
+it,1
+was,1
+based,1
+on,1
+hate,1
+and,2
+not,1
+love,1
+so,1

@@ -1,0 +1,12 @@
+43,388,10
+1,1
+that,1
+no,1
+cow,1
+slaughter,1
+would,1
+be,1
+permitted,1
+in,1
+the,1
+town,1

@@ -1,0 +1,6 @@
+20,60,4
+q,1
+did,1
+you,1
+continue,1
+firing,1

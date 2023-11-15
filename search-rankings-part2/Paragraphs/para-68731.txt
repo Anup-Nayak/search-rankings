@@ -1,0 +1,14 @@
+19,387,4
+1,1
+there,1
+were,1
+200,1
+strikes,1
+in,2
+india,2
+during,1
+the,1
+year,1
+1920,2
+ch,1
+v,1

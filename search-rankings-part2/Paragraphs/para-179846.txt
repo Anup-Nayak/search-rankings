@@ -1,0 +1,12 @@
+51,196,20
+peaceful,2
+picketing,2
+they,1
+want,1
+liberty,1
+to,1
+employ,1
+from,1
+as,1
+it,1
+has,1

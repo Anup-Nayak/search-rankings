@@ -1,0 +1,7 @@
+13,149,31
+of,1
+celebration,1
+marriage,2
+such,1
+is,1
+clause,1

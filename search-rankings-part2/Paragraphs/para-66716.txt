@@ -1,0 +1,8 @@
+19,124,1
+109,1
+speech,1
+at,1
+farewell,1
+to,1
+andrews,1
+1,1

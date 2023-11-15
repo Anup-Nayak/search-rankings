@@ -1,0 +1,7 @@
+48,289,1
+300,1
+letter,1
+to,1
+c,1
+y,1
+chintamani,1

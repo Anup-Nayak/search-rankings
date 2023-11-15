@@ -1,0 +1,9 @@
+11,282,21
+not,1
+even,1
+tolerate,1
+a,1
+solitary,1
+educated,1
+asiatic,1
+within,1

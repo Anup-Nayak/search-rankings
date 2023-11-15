@@ -1,0 +1,9 @@
+30,161,2
+n,1
+ase,1
+f,1
+isappropriation,1
+an,1
+andhra,1
+friend,1
+writes,1

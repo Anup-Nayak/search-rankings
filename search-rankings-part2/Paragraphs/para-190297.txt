@@ -1,0 +1,11 @@
+53,434,4
+yours,1
+sincerely,1
+dr,1
+kristian,1
+schjelderup,1
+the,1
+university,1
+of,1
+oslo,1
+norway,1

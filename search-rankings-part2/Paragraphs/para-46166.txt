@@ -1,0 +1,9 @@
+14,28,2
+i,1
+am,1
+indias,1
+bond,1
+slave,1
+mohandas,1
+karamchand,1
+gandhi,1

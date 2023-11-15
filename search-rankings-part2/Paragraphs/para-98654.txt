@@ -1,0 +1,9 @@
+29,161,4
+not,1
+that,1
+which,1
+we,2
+give,1
+but,1
+what,1
+share,1

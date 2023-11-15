@@ -1,0 +1,8 @@
+66,439,14
+b,1
+no,1
+though,1
+it,1
+may,1
+seem,1
+strange,1

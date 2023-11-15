@@ -1,0 +1,8 @@
+78,49,6
+all,1
+minds,1
+congress,1
+muslim,1
+league,1
+and,1
+princes,1

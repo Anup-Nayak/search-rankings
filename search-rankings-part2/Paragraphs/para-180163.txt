@@ -1,0 +1,10 @@
+51,233,12
+am,1
+moving,1
+6,1
+but,1
+suggest,1
+patience,1
+keep,1
+me,1
+informed,1

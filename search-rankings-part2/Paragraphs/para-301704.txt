@@ -1,0 +1,6 @@
+80,173,3
+315,1
+letter,1
+to,1
+lakshmiswar,1
+sinha,1

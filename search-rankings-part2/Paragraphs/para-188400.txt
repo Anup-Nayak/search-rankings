@@ -1,0 +1,10 @@
+53,210,8
+effort,1
+humanly,1
+possible,1
+was,1
+made,1
+by,1
+me,1
+to,1
+proceed,1

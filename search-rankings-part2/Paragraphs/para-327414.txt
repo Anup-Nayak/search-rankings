@@ -1,0 +1,6 @@
+85,349,9
+586,1
+letter,1
+to,1
+lady,1
+chhoturam,1

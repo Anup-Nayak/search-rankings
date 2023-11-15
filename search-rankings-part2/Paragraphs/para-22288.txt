@@ -1,0 +1,12 @@
+7,352,2
+m,1
+k,1
+gandhi,1
+secretary,1
+from,1
+gujarati,1
+indian,1
+opinion,1
+23,1
+11,1
+1907,1

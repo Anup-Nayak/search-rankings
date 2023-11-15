@@ -1,0 +1,14 @@
+45,316,9
+1,1
+permanent,1
+address,1
+2,1
+first,1
+day,1
+of,1
+the,1
+national,1
+week,1
+observed,1
+since,1
+1919,1

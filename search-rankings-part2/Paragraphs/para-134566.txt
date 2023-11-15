@@ -1,0 +1,14 @@
+39,220,15
+cattle,1
+production,1
+and,2
+buffaloes,1
+for,1
+milk,1
+the,1
+cow,1
+alone,1
+can,1
+must,1
+do,1
+both,1

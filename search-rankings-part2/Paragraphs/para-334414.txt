@@ -1,0 +1,8 @@
+87,114,7
+out,1
+the,1
+central,1
+fact,1
+of,1
+indias,1
+freedom,1

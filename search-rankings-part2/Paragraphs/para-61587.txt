@@ -1,0 +1,6 @@
+17,330,9
+days,1
+bombay,2
+just,1
+leaving,1
+for,1

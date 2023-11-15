@@ -1,0 +1,9 @@
+89,180,11
+1,1
+the,1
+words,1
+in,2
+single,1
+quotes,1
+are,1
+english,1

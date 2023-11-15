@@ -1,0 +1,5 @@
+33,159,2
+one,1
+thousand,1
+rupees,1
+prize,1

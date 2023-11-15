@@ -1,0 +1,10 @@
+64,68,25
+1,1
+g,1
+v,1
+naik,1
+amritrao,1
+khambe,1
+and,1
+baburao,1
+gaekwad,1

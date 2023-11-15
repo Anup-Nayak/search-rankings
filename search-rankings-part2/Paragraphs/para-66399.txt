@@ -1,0 +1,8 @@
+19,80,2
+68,1
+message,1
+to,1
+people,1
+of,1
+amritsar,1
+1,1

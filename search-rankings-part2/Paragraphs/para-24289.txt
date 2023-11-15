@@ -1,0 +1,4 @@
+8,198,2
+other,1
+indian,1
+prisoners,1

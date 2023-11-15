@@ -1,0 +1,13 @@
+24,79,9
+47,1
+letter,1
+to,1
+c,1
+f,1
+andrews,1
+bihar,1
+sharif,1
+august,1
+13,1
+1921,1
+1,1

@@ -1,0 +1,5 @@
+27,288,1
+270,1
+freedom,1
+of,1
+expression,1

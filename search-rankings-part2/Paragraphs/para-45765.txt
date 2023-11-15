@@ -1,0 +1,7 @@
+14,0,8
+no,1
+commissions,1
+could,1
+possibly,1
+have,1
+done,1

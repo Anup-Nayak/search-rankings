@@ -1,0 +1,10 @@
+40,169,4
+how,1
+are,1
+you,2
+may,1
+god,1
+make,1
+strong,1
+physically,1
+mentally,1

@@ -1,0 +1,13 @@
+65,125,12
+a,1
+rupee,1
+spent,1
+on,1
+mill,2
+cloth,1
+means,1
+half,1
+the,2
+amount,1
+for,1
+owner,1

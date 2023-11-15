@@ -1,0 +1,8 @@
+42,189,2
+live,1
+in,1
+the,1
+world,1
+as,1
+you,1
+like,1

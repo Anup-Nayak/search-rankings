@@ -1,0 +1,9 @@
+35,9,8
+mohandas,1
+gandhi,1
+shri,1
+dharmavir,1
+vaidik,1
+pustakalaya,1
+lahore,2
+road,1

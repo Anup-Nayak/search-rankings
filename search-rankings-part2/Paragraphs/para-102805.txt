@@ -1,0 +1,12 @@
+30,207,14
+1,1
+locality,1
+2,1
+there,1
+is,1
+a,1
+gap,1
+here,1
+in,1
+the,1
+source,1

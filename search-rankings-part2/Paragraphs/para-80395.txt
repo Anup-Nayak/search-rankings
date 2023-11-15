@@ -1,0 +1,8 @@
+23,349,2
+159,1
+the,1
+working,1
+committee,1
+and,1
+its,1
+function,1

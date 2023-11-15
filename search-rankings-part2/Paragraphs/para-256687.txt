@@ -1,0 +1,12 @@
+69,142,14
+1,1
+in,1
+the,3
+original,1
+this,1
+is,1
+written,1
+at,1
+top,1
+of,1
+letter,1

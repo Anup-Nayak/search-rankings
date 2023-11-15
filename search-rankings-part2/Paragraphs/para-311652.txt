@@ -1,0 +1,15 @@
+82,149,19
+allowed,1
+to,2
+be,1
+diluted,1
+suit,1
+individual,1
+ideas,1
+what,1
+is,1
+your,1
+opinion,1
+in,1
+the,1
+matter,1

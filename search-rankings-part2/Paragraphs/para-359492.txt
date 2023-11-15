@@ -1,0 +1,10 @@
+93,44,10
+1,1
+a,1
+congress,1
+leader,1
+2,1
+this,1
+is,1
+in,1
+devanagari,1

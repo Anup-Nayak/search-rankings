@@ -1,0 +1,17 @@
+15,117,6
+returned,1
+to,1
+ahmedabad,1
+jagjivandas,1
+mehta,1
+and,1
+a,1
+kapol,1
+boy,1
+came,1
+last,1
+evening,1
+left,1
+the,1
+same,1
+night,1

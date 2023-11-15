@@ -1,0 +1,6 @@
+36,266,6
+303,1
+letter,1
+to,1
+kaluram,1
+bajoria,1

@@ -1,0 +1,15 @@
+43,34,5
+2,1
+if,1
+a,2
+lawyer,1
+will,1
+give,1
+up,2
+his,1
+profession,1
+and,1
+take,1
+handloom,1
+spinning,1
+wheel,1

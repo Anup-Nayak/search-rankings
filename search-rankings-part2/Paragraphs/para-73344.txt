@@ -1,0 +1,7 @@
+21,115,1
+81,1
+crusade,1
+against,1
+non,1
+co,1
+operation,1

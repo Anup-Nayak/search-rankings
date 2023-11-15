@@ -1,0 +1,13 @@
+21,51,3
+mr,1
+gandhi,1
+who,1
+on,1
+rising,1
+was,1
+most,1
+enthusiastically,1
+cheered,1
+stated,1
+he,1
+found,1

@@ -1,0 +1,11 @@
+90,217,5
+c,1
+there,1
+is,1
+something,1
+like,1
+a,2
+confederation,1
+and,1
+confederal,1
+centre,1

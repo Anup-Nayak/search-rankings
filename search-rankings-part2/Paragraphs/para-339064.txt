@@ -1,0 +1,12 @@
+88,90,10
+1,1
+the,1
+letter,1
+is,1
+found,1
+among,1
+those,1
+of,1
+september,1
+29,1
+1945,1

@@ -1,0 +1,8 @@
+13,430,15
+repeated,1
+protests,1
+many,1
+not,1
+received,1
+sandals,1
+socks,1

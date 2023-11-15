@@ -1,0 +1,6 @@
+26,76,2
+32,1
+a,1
+christian,1
+missionarys,1
+generalizations,1

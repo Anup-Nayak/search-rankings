@@ -1,0 +1,12 @@
+37,174,2
+1,2
+chiretta,1
+2,1
+vide,1
+note,1
+on,1
+tilaks,1
+letter,1
+after,1
+18,1
+1920,1

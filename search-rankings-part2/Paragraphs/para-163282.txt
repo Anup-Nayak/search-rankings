@@ -1,0 +1,12 @@
+47,106,17
+capital,1
+invested,1
+in,1
+khadi,1
+by,1
+a,2
+i,1
+s,1
+rs,1
+21,1
+lakhs,1

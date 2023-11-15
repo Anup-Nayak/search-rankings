@@ -1,0 +1,7 @@
+18,250,10
+199,1
+an,1
+appeal,1
+from,1
+the,1
+punjab,1

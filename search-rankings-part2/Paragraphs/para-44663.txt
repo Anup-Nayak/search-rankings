@@ -1,0 +1,17 @@
+13,378,3
+3,1
+the,3
+evidence,1
+led,1
+at,1
+hearing,1
+of,1
+appeal,1
+and,1
+which,1
+was,1
+not,1
+disproved,1
+or,1
+rebutted,1
+shows,1

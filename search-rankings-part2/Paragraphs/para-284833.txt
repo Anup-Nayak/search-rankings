@@ -1,0 +1,14 @@
+76,112,8
+e,1
+the,3
+qualifications,1
+of,1
+sevak,1
+and,1
+pledge,1
+to,1
+be,2
+given,1
+by,1
+him,1
+shall,1

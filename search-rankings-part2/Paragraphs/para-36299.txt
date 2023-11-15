@@ -1,0 +1,10 @@
+11,298,1
+rights,1
+in,1
+any,1
+province,1
+of,1
+the,1
+union,1
+stop,1
+but,1

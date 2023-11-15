@@ -1,0 +1,10 @@
+84,81,14
+1,1
+kasturba,1
+gandhi,1
+had,1
+died,1
+on,1
+february,1
+22,1
+1944,1

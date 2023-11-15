@@ -1,0 +1,6 @@
+47,269,2
+camp,1
+mussoorie,1
+october,1
+18,1
+1929,1

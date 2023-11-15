@@ -1,0 +1,8 @@
+44,506,20
+t1,1
+guj,1
+has,1
+unless,1
+people,1
+remain,1
+peaceful,1

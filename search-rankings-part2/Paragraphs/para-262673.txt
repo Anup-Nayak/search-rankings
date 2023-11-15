@@ -1,0 +1,17 @@
+70,354,8
+1,2
+the,1
+gujarati,1
+original,1
+of,1
+this,2
+was,1
+published,1
+in,1
+harijanbandhu,1
+24,1
+1937,1
+translation,1
+is,1
+by,1
+pyarelal,1

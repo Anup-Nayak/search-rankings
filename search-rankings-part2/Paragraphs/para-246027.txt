@@ -1,0 +1,11 @@
+66,396,5
+m,1
+k,1
+gandhi,1
+saiyed,1
+kasim,1
+ali,1
+visharad,1
+betui,1
+c,1
+p,1

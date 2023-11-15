@@ -1,0 +1,10 @@
+82,37,3
+after,1
+all,1
+calcutta,1
+is,1
+only,1
+12,1
+hours,1
+from,1
+chunking,1

@@ -1,0 +1,8 @@
+81,510,24
+influence,1
+in,1
+times,1
+of,1
+dislocation,1
+and,1
+uneasiness,1

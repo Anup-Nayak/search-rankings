@@ -1,0 +1,10 @@
+59,511,17
+to,2
+resolution,1
+or,1
+accepted,1
+it,1
+secure,1
+by,1
+every,1
+legitimate,1

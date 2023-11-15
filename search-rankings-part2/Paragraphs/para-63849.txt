@@ -1,0 +1,14 @@
+18,145,3
+6,1
+results,1
+arrived,1
+at,1
+by,1
+the,1
+cotton,1
+commission,1
+vide,1
+reply,1
+to,1
+question,1
+5,1

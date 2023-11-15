@@ -1,0 +1,16 @@
+8,314,1
+is,1
+in,1
+our,1
+hands,1
+but,1
+then,1
+you,2
+cannot,1
+sell,1
+your,2
+berries,1
+unless,1
+shout,1
+wares,1
+1,1

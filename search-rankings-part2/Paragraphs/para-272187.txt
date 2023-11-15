@@ -1,0 +1,12 @@
+73,94,4
+during,1
+your,2
+last,1
+visit,1
+you,1
+expressed,1
+desire,1
+to,1
+be,1
+acquainted,1
+with,1

@@ -1,0 +1,14 @@
+35,81,4
+the,1
+charge,1
+of,2
+weaving,1
+cloth,1
+50,1
+width,1
+is,1
+annas,1
+61,1
+2,1
+per,1
+yard,1

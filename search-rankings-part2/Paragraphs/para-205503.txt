@@ -1,0 +1,7 @@
+57,252,14
+455,1
+letter,1
+to,1
+gulam,1
+rasul,1
+qureshi,1

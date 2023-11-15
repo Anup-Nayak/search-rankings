@@ -1,0 +1,6 @@
+79,72,2
+sevagram,1
+wardha,1
+august,1
+1,1
+1940,1

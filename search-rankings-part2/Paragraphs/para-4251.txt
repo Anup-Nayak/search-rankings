@@ -1,0 +1,17 @@
+2,230,1
+bedroom,1
+accommodation,1
+attached,1
+to,1
+the,1
+store,1
+would,1
+be,1
+insufficient,1
+and,1
+unsanitary,1
+signed,1
+jas,1
+macdonald,1
+sanitary,1
+inspector,1

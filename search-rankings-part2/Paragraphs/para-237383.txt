@@ -1,0 +1,15 @@
+64,452,10
+we,1
+know,1
+that,1
+the,2
+rulers,1
+of,1
+states,1
+are,1
+putting,1
+a,1
+ditterent,1
+interpretation,1
+upon,1
+what,1

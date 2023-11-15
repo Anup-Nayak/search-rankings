@@ -1,0 +1,9 @@
+76,113,10
+1,1
+kano,1
+son,1
+of,1
+nirmala,1
+and,1
+ramdas,1
+gandhi,1

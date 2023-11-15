@@ -1,0 +1,5 @@
+38,294,5
+a,1
+polish,1
+professor,1
+writes,1

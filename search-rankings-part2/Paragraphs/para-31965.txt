@@ -1,0 +1,11 @@
+10,304,7
+reader,1
+what,1
+then,1
+would,1
+you,1
+say,1
+to,1
+both,1
+the,1
+parties,1

@@ -1,0 +1,4 @@
+46,67,2
+khadi,1
+clad,1
+barber,1

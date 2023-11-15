@@ -1,0 +1,9 @@
+71,26,6
+consolidate,1
+it,1
+all,1
+other,1
+religions,1
+should,1
+be,1
+destroyed,1

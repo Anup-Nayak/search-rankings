@@ -1,0 +1,8 @@
+45,226,5
+sir,1
+charles,1
+tegart,1
+commissioner,1
+of,1
+police,1
+calcutta,1

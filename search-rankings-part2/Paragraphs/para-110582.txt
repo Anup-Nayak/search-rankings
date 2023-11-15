@@ -1,0 +1,13 @@
+32,456,1
+every,1
+person,1
+wishing,1
+to,1
+join,1
+the,2
+association,1
+shall,1
+apply,1
+in,1
+following,1
+form,1

@@ -1,0 +1,12 @@
+67,45,3
+bapu,1
+ps,1
+i,1
+shall,1
+have,1
+to,2
+write,1
+mathew,1
+again,1
+from,1
+gujarati,1

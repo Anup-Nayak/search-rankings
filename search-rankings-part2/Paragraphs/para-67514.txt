@@ -1,0 +1,15 @@
+19,239,13
+when,1
+he,2
+got,1
+free,1
+on,2
+friday,1
+intended,1
+to,2
+start,1
+again,1
+for,1
+delhi,1
+sunday,1
+try,1

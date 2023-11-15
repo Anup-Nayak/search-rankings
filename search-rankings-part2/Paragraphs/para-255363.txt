@@ -1,0 +1,17 @@
+68,445,11
+3,1
+that,1
+the,1
+test,1
+of,1
+foreign,1
+and,1
+indigenous,1
+shall,1
+not,1
+be,1
+applied,1
+to,1
+any,1
+word,1
+but,1

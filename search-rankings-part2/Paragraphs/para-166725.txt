@@ -1,0 +1,10 @@
+48,47,2
+silence,1
+day,1
+magshar,1
+sud,1
+1,1
+1986,1
+december,1
+2,1
+1929,1

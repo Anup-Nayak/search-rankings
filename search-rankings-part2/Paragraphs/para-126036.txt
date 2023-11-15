@@ -1,0 +1,15 @@
+37,32,6
+there,1
+is,1
+joy,1
+even,1
+in,1
+the,2
+endeavour,1
+after,1
+realization,1
+let,1
+alone,1
+state,1
+of,1
+fulfilment,1

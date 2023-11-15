@@ -1,0 +1,12 @@
+41,302,2
+q,1
+should,1
+your,1
+industry,1
+be,1
+run,1
+by,2
+the,2
+state,1
+or,1
+country,1

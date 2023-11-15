@@ -1,0 +1,10 @@
+27,325,7
+other,1
+handicrafts,1
+like,1
+weaving,1
+carpentry,1
+iron,1
+smithy,1
+dyeing,1
+printing,1

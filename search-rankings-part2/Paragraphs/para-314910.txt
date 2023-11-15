@@ -1,0 +1,15 @@
+82,391,31
+past,1
+experience,1
+teaches,1
+her,2
+that,1
+it,1
+is,1
+harmful,1
+to,2
+interest,1
+and,1
+dangerous,1
+the,1
+cause,1

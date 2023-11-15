@@ -1,0 +1,15 @@
+23,24,35
+indians,1
+slaves,1
+was,1
+it,1
+not,1
+better,1
+to,1
+live,1
+in,1
+poverty,1
+only,1
+when,1
+they,1
+stopped,1

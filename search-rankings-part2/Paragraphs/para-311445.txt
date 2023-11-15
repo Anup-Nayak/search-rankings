@@ -1,0 +1,11 @@
+82,133,5
+evacuees,1
+from,1
+burma,1
+and,2
+malaya,1
+absolutely,1
+irrespective,1
+of,1
+caste,1
+creed,1

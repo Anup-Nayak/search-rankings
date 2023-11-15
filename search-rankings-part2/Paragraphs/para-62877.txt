@@ -1,0 +1,6 @@
+18,15,3
+sundays,1
+hartal,1
+its,1
+religious,1
+spirit,1

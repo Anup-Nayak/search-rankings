@@ -1,0 +1,14 @@
+19,225,5
+it,2
+amount,1
+to,1
+this,1
+that,1
+in,1
+consequence,1
+of,2
+an,1
+order,1
+government,1
+was,1
+made,1

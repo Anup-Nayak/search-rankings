@@ -1,0 +1,10 @@
+15,76,2
+gondal,1
+kartak,1
+vad,1
+13,1
+saturday,1
+december,1
+4,1
+1915,1
+1,1

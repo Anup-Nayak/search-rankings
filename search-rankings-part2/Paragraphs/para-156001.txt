@@ -1,0 +1,16 @@
+45,147,2
+no,1
+exclaimed,1
+the,2
+english,1
+friend,1
+realizing,1
+false,1
+position,1
+into,1
+which,1
+she,1
+had,1
+unconsciously,1
+betrayed,1
+herself,1

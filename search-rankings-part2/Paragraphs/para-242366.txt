@@ -1,0 +1,15 @@
+66,45,9
+2,2
+the,2
+pledge,1
+which,1
+was,2
+a,1
+part,1
+of,1
+constitution,1
+discussed,1
+and,1
+adopted,1
+on,1
+january,1

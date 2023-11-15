@@ -1,0 +1,13 @@
+30,219,10
+a,1
+yes,1
+on,1
+hearing,1
+of,1
+the,1
+same,1
+shot,1
+i,1
+went,1
+to,1
+bazaar,1

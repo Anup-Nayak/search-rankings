@@ -1,0 +1,8 @@
+29,186,8
+say,1
+does,1
+he,1
+not,1
+embrace,1
+sustain,1
+include,1

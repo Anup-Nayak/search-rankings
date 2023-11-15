@@ -1,0 +1,13 @@
+21,96,13
+operation,1
+did,1
+not,1
+involve,1
+rapine,1
+plunder,1
+incendiarism,1
+and,1
+all,1
+the,1
+concomitants,1
+of,1

@@ -1,0 +1,7 @@
+34,368,12
+sent,1
+opinion,1
+delhi,1
+committee,1
+week,1
+ago,1

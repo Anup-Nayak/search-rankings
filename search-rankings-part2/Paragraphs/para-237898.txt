@@ -1,0 +1,8 @@
+65,46,6
+53,1
+letter,1
+to,1
+k,1
+p,1
+raman,1
+vaidyar,1

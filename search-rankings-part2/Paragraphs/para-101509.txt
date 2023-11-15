@@ -1,0 +1,7 @@
+30,13,4
+12,1
+speech,1
+at,1
+untouchability,1
+conference,1
+belgaum,1

@@ -1,0 +1,10 @@
+73,258,4
+your,1
+letter,1
+saraswati,1
+wants,1
+you,1
+take,1
+leave,1
+be,1
+firm,1

@@ -1,0 +1,14 @@
+82,255,9
+withdraw,1
+are,1
+you,1
+not,1
+inviting,1
+your,1
+own,1
+people,1
+to,2
+bend,1
+the,1
+knee,1
+japan,1

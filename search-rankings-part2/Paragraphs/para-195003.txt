@@ -1,0 +1,16 @@
+54,470,12
+time,1
+either,1
+prisoner,1
+appears,1
+to,1
+be,1
+suffering,1
+in,1
+health,1
+or,1
+is,1
+attacked,1
+by,1
+any,1
+serious,1

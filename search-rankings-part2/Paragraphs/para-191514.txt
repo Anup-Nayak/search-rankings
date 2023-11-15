@@ -1,0 +1,17 @@
+54,79,1
+mr,1
+jinnah,1
+mahatma,1
+gandhi,1
+made,1
+a,1
+reference,1
+to,1
+what,1
+i,2
+said,1
+did,1
+not,1
+quite,1
+catch,1
+that,1

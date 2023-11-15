@@ -1,0 +1,15 @@
+24,153,10
+1,1
+the,2
+sinful,1
+british,1
+government,1
+taught,1
+chinese,1
+to,2
+smoke,1
+opium,1
+and,1
+indians,1
+drink,1
+alcohol,1

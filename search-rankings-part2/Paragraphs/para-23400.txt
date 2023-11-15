@@ -1,0 +1,12 @@
+8,54,9
+in,2
+reply,1
+to,1
+the,2
+comments,1
+made,1
+by,1
+mr,1
+jordan,1
+course,1
+of,1

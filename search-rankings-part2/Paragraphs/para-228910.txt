@@ -1,0 +1,6 @@
+62,419,4
+then,1
+follows,1
+this,1
+astonishing,1
+paragraph,1

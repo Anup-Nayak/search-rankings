@@ -1,0 +1,15 @@
+92,195,12
+1,1
+the,4
+superscription,1
+is,1
+in,2
+hindi,1
+so,1
+are,1
+first,1
+sentence,1
+and,1
+words,1
+italicized,1
+text,1

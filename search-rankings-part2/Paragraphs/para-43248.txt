@@ -1,0 +1,8 @@
+13,174,12
+settlement,1
+it,2
+takes,1
+away,1
+existing,1
+rights,1
+restricts,1

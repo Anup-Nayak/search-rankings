@@ -1,0 +1,16 @@
+68,375,3
+manudi,1
+my,2
+letter,1
+to,2
+ramibehn,1
+contains,1
+reply,1
+i,1
+am,1
+not,1
+writing,1
+your,1
+mothers,1
+sisters,1
+separately,1

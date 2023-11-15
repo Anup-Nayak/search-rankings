@@ -1,0 +1,13 @@
+30,196,2
+q,1
+are,2
+all,1
+these,1
+people,1
+who,1
+converted,1
+to,1
+islam,1
+of,1
+full,1
+age,1

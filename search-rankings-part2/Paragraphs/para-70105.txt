@@ -1,0 +1,16 @@
+20,95,3
+q,1
+the,2
+sanatan,1
+dharma,1
+college,1
+was,1
+one,1
+of,1
+buildings,1
+selected,1
+for,1
+putting,1
+up,1
+that,1
+notice,1

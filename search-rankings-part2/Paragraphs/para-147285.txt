@@ -1,0 +1,3 @@
+43,24,2
+kakas,1
+impatience,1

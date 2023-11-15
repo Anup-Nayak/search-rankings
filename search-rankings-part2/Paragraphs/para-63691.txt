@@ -1,0 +1,8 @@
+18,128,23
+orderly,1
+manner,1
+and,1
+without,1
+anger,1
+or,1
+ill,1

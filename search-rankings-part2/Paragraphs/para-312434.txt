@@ -1,0 +1,10 @@
+82,213,14
+script,2
+why,1
+should,1
+the,1
+devanagari,1
+then,1
+not,1
+be,1
+maintained,1

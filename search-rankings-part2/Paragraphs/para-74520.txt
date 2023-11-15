@@ -1,0 +1,13 @@
+21,348,14
+daughters,1
+of,1
+india,2
+used,1
+to,1
+spin,1
+yarn,1
+and,2
+covered,1
+themselves,1
+others,1
+was,1

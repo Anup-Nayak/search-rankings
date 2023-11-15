@@ -1,0 +1,6 @@
+5,66,6
+to,1
+the,1
+colonial,1
+secretary,1
+pretoria,1

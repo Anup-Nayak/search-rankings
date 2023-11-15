@@ -1,0 +1,16 @@
+27,356,4
+a,1
+better,1
+man,1
+than,1
+most,1
+of,2
+them,1
+god,1
+knows,1
+i,1
+have,1
+been,1
+guilty,1
+worse,1
+crimes,1

@@ -1,0 +1,8 @@
+65,55,12
+shri,1
+bishva,1
+nath,1
+gupta,1
+kucha,1
+maidan,1
+delhi,1

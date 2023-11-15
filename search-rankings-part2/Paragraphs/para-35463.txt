@@ -1,0 +1,8 @@
+11,228,12
+await,1
+letter,1
+wire,1
+whether,1
+you,1
+got,1
+copy,1

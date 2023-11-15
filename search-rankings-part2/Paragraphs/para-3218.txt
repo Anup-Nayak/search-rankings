@@ -1,0 +1,14 @@
+2,108,1
+if,2
+the,1
+above,1
+charges,1
+wee,1
+true,1
+in,1
+other,1
+words,1
+he,1
+was,1
+a,1
+cowardly,1

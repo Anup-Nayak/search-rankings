@@ -1,0 +1,7 @@
+39,112,3
+120,1
+letter,1
+to,1
+shah,1
+chamanlal,1
+dungaji,1

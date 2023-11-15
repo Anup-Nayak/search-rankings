@@ -1,0 +1,6 @@
+18,37,5
+bombay,1
+secret,1
+abstracts,1
+1919,1
+p,1

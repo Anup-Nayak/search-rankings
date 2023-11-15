@@ -1,0 +1,11 @@
+53,55,6
+shall,1
+include,1
+a,1
+guarantee,1
+to,1
+the,2
+communities,1
+concerned,1
+of,2
+protection,1

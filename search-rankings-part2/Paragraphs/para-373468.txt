@@ -1,0 +1,17 @@
+96,436,33
+1vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+29,1
+7,1
+1947,1
+jawaharlal,1
+nehru,1
+and,1
+vallabhbhai,1
+patel,1
+also,1
+were,1
+present,1

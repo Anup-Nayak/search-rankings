@@ -1,0 +1,15 @@
+27,403,17
+in,2
+the,2
+morning,1
+and,2
+half,1
+an,1
+hour,1
+evening,1
+that,1
+he,1
+was,1
+given,1
+food,1
+as,1

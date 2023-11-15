@@ -1,0 +1,10 @@
+43,248,7
+2,1
+wife,1
+of,2
+maganlal,2
+gandhi,2
+3,1
+daughters,1
+4,1
+ibid,1

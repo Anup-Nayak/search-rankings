@@ -1,0 +1,15 @@
+24,99,20
+that,1
+he,2
+would,1
+address,1
+them,1
+again,1
+and,1
+devote,1
+a,1
+longer,1
+time,1
+when,1
+returned,1
+to,1

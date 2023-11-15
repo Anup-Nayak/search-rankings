@@ -1,0 +1,11 @@
+34,359,2
+ashram,1
+sabarmati,1
+phalgun,1
+vad,1
+6,1
+friday,1
+march,1
+5,1
+1926,1
+1,1

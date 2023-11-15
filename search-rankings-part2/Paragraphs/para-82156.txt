@@ -1,0 +1,10 @@
+24,141,1
+abridge,1
+it,1
+the,1
+speech,1
+may,1
+be,1
+read,1
+with,1
+profit,1

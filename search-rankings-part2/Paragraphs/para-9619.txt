@@ -1,0 +1,12 @@
+4,153,2
+1,1
+vide,1
+letter,1
+to,2
+the,1
+star,1
+dated,1
+prior,1
+december,1
+24,1
+1904,1

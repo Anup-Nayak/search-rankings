@@ -1,0 +1,15 @@
+92,22,6
+when,1
+my,1
+beggarly,1
+heart,1
+sits,1
+crouched,1
+shut,1
+up,1
+in,1
+a,1
+corner,1
+break,1
+open,1
+the,1

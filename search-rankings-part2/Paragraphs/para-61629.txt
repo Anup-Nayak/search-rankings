@@ -1,0 +1,7 @@
+17,334,3
+321,1
+speech,1
+on,1
+satyagraha,1
+madras,1
+2,1

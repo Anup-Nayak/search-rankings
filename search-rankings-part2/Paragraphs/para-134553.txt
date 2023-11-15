@@ -1,0 +1,12 @@
+39,220,2
+the,2
+buffalo,1
+exists,1
+and,1
+increases,1
+in,1
+india,1
+owing,1
+to,1
+poor,1
+milking,1

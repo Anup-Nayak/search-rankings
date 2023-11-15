@@ -1,0 +1,7 @@
+30,210,7
+q,1
+what,1
+happened,1
+after,1
+5th,1
+september,1

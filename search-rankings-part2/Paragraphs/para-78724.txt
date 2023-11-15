@@ -1,0 +1,7 @@
+23,48,2
+17,1
+speech,1
+at,1
+meeting,1
+in,1
+borsad,1

@@ -1,0 +1,16 @@
+31,257,2
+a,2
+teachers,1
+spinning,1
+shri,1
+zaverbhai,1
+teacher,1
+at,1
+the,1
+rashtriya,1
+kumar,1
+mandir,1
+of,1
+varad,1
+writes,1
+1,1

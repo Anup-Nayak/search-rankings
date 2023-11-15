@@ -1,0 +1,8 @@
+53,315,5
+no,1
+partiality,1
+had,1
+fervent,1
+appeal,1
+from,1
+dr,1

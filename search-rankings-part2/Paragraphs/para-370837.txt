@@ -1,0 +1,16 @@
+96,133,7
+1,1
+the,1
+superscription,1
+is,1
+in,1
+devanagari,1
+2,1
+vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+24,1
+7,1
+1947,1

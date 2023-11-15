@@ -1,0 +1,9 @@
+72,175,5
+them,1
+not,1
+persist,1
+allowing,1
+country,1
+chance,1
+seek,1
+relief,1

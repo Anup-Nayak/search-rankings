@@ -1,0 +1,8 @@
+40,461,4
+has,1
+doctor,1
+opened,1
+wound,1
+berhampur,1
+or,1
+neighbour,1

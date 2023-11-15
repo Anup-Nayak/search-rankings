@@ -1,0 +1,7 @@
+83,221,9
+thetransfer,1
+of,1
+power,1
+vol,1
+iii,1
+p,1

@@ -1,0 +1,12 @@
+31,234,18
+the,2
+national,2
+congress,1
+ought,1
+to,1
+represent,1
+feeling,1
+there,1
+were,1
+two,1
+sides,1

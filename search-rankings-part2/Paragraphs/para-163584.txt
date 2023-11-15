@@ -1,0 +1,14 @@
+47,139,14
+between,1
+their,1
+work,1
+and,1
+his,1
+but,1
+a,1
+doctors,2
+occupation,1
+cannot,1
+be,1
+called,1
+bad,1

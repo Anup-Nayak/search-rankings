@@ -1,0 +1,13 @@
+70,15,6
+yes,1
+sir,1
+well,1
+then,1
+now,1
+tell,2
+me,1
+if,1
+any,1
+of,1
+you,1
+lies,1

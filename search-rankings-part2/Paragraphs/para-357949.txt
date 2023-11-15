@@ -1,0 +1,13 @@
+92,360,9
+blessings,1
+from,1
+bapu,1
+sjt,1
+harjivan,1
+kotak,1
+shri,1
+lallubhai,1
+gordhandas,1
+hospital,1
+maninagar,1
+ahmedabad,1

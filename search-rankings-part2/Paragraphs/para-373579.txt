@@ -1,0 +1,15 @@
+96,440,8
+mr,1
+gandhi,1
+went,1
+on,1
+to,2
+say,1
+that,1
+he,1
+was,1
+perfectly,1
+prepared,1
+support,1
+this,1
+line,1

@@ -1,0 +1,10 @@
+60,309,14
+i,1
+am,1
+glad,1
+father,1
+has,1
+been,1
+paying,1
+occasional,1
+visits,1

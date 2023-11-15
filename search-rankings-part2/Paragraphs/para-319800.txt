@@ -1,0 +1,11 @@
+84,56,5
+on,2
+hunger,1
+strike,1
+in,1
+your,1
+jail,1
+1,1
+please,1
+tell,1
+him,1

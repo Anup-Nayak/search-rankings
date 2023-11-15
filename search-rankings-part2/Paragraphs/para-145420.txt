@@ -1,0 +1,10 @@
+42,295,13
+1,1
+booklet,1
+on,1
+rules,1
+for,1
+the,2
+inmates,1
+of,1
+ashram,1

@@ -1,0 +1,8 @@
+13,370,5
+labourers,1
+families,1
+indentured,1
+and,1
+free,1
+in,1
+natal,1

@@ -1,0 +1,9 @@
+24,433,21
+by,1
+food,2
+the,1
+living,1
+live,1
+comes,1
+of,1
+rain,1

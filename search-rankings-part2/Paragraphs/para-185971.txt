@@ -1,0 +1,7 @@
+52,423,17
+work,1
+with,1
+greater,1
+faith,1
+and,1
+zeal,1

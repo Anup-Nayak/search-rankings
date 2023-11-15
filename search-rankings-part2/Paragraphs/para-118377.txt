@@ -1,0 +1,6 @@
+35,119,2
+160,1
+for,1
+and,1
+against,1
+khadi,1

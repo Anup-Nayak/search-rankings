@@ -1,0 +1,7 @@
+90,102,19
+and,1
+your,1
+daughter,1
+bear,1
+with,1
+fortitude,1

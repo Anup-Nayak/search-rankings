@@ -1,0 +1,8 @@
+39,76,5
+86,1
+quarrelling,1
+in,1
+the,1
+name,1
+of,1
+religion,1

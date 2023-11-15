@@ -1,0 +1,13 @@
+82,39,10
+2,1
+is,1
+such,1
+a,1
+woman,1
+to,1
+be,1
+condemned,1
+and,1
+ostracized,1
+by,1
+society,1

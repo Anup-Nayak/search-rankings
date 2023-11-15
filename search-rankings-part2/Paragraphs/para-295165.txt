@@ -1,0 +1,14 @@
+78,356,5
+illiterate,1
+and,2
+nearly,1
+cent,2
+per,1
+are,1
+swayed,1
+by,1
+religious,1
+prejudices,1
+then,1
+there,1
+is,1

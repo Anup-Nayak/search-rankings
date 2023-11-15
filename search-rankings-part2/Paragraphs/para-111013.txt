@@ -1,0 +1,13 @@
+33,21,19
+had,2
+told,1
+them,2
+he,3
+felt,1
+would,1
+feel,1
+not,1
+come,1
+to,1
+in,1
+vain,1

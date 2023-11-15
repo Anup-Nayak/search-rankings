@@ -1,0 +1,10 @@
+4,287,4
+234,1
+letter,1
+to,1
+omar,1
+haji,1
+amod,1
+and,1
+adamji,1
+miankhan,1

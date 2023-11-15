@@ -1,0 +1,5 @@
+13,194,2
+7,1
+other,1
+infectious,1
+diseases,1

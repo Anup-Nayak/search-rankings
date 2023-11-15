@@ -1,0 +1,12 @@
+90,222,3
+c,1
+i,1
+do,1
+not,1
+foresee,1
+any,1
+great,1
+difficulty,1
+from,1
+that,1
+quarter,1

@@ -1,0 +1,7 @@
+19,420,2
+1,1
+members,1
+of,1
+a,1
+mercantile,1
+community,1

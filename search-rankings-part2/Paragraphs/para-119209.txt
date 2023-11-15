@@ -1,0 +1,16 @@
+35,215,6
+yours,1
+sincerely,1
+horace,1
+green,1
+esq,1
+president,1
+duffield,1
+&,1
+company,1
+211,1
+east,1
+19th,1
+street,1
+new,1
+york,1

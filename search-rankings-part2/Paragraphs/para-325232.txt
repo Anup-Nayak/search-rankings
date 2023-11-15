@@ -1,0 +1,6 @@
+85,145,6
+210,1
+letter,1
+to,1
+diwanchand,1
+obherai,1

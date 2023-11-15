@@ -1,0 +1,11 @@
+95,263,6
+1,1
+khwaja,1
+abdul,1
+majid,1
+president,1
+all,1
+india,1
+nationalist,1
+muslim,1
+majlis,1

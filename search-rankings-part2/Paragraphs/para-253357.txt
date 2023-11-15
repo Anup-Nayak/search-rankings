@@ -1,0 +1,10 @@
+68,221,7
+1,1
+wife,1
+of,2
+devdas,1
+gandhi,1
+2,1
+daughter,1
+lakshmidas,1
+asar,1

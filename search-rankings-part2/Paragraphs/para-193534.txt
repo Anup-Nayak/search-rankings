@@ -1,0 +1,6 @@
+54,347,17
+have,1
+defended,1
+himself,1
+against,1
+accusation,1

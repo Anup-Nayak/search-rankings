@@ -1,0 +1,7 @@
+75,250,8
+323,1
+letter,1
+to,1
+subhas,1
+chandra,1
+bose,1

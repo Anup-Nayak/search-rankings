@@ -1,0 +1,7 @@
+81,10,8
+mahesh,1
+2,1
+well,1
+but,1
+requires,1
+observation,1

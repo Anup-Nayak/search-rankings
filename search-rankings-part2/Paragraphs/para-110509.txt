@@ -1,0 +1,12 @@
+32,448,5
+including,1
+the,2
+time,2
+taken,1
+to,1
+go,1
+and,1
+return,1
+for,1
+satyagraha,1
+comes,1

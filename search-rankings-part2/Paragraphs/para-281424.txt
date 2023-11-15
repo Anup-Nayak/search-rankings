@@ -1,0 +1,4 @@
+75,196,4
+travellers,1
+bungalow,1
+madura,1

@@ -1,0 +1,12 @@
+47,433,4
+yours,1
+sincerely,1
+miss,1
+c,1
+d,1
+smiley,1
+american,1
+marathi,1
+mission,1
+byculla,1
+bombay,1

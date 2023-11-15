@@ -1,0 +1,11 @@
+78,86,2
+given,1
+of,2
+our,2
+non,1
+violence,1
+or,1
+desire,1
+to,1
+cultivate,1
+goodwill,1

@@ -1,0 +1,13 @@
+25,342,8
+the,2
+committee,1
+met,1
+at,1
+eight,1
+in,1
+morning,1
+hakim,1
+ajmal,1
+khan,1
+could,1
+not,1

@@ -1,0 +1,11 @@
+82,411,19
+glamour,1
+brilliance,1
+culture,1
+and,2
+armed,1
+strength,1
+of,1
+american,1
+british,1
+civilization,1

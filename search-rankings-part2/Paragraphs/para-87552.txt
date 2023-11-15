@@ -1,0 +1,5 @@
+26,1,10
+an,1
+english,1
+lady,1
+blesses,1

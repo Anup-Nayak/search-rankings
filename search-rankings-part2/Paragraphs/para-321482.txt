@@ -1,0 +1,6 @@
+84,226,3
+1,1
+haji,1
+muhammad,1
+hashim,1
+gazdar,1

@@ -1,0 +1,6 @@
+38,456,2
+457,1
+means,1
+of,1
+cow,1
+protection,1

@@ -1,0 +1,7 @@
+77,118,3
+a,2
+good,1
+suggestion,1
+khadi,1
+lover,1
+says,1

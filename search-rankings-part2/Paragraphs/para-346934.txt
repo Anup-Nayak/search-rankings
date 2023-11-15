@@ -1,0 +1,14 @@
+90,34,10
+the,3
+manager,1
+has,1
+made,1
+usual,1
+application,1
+but,1
+you,1
+know,1
+way,1
+of,1
+red,1
+tape,1

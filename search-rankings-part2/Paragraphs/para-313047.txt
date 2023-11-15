@@ -1,0 +1,7 @@
+82,264,14
+question,1
+in,1
+a,1
+telugu,1
+examination,1
+paper,1

@@ -1,0 +1,9 @@
+76,96,16
+5,1
+vide,1
+south,1
+africa,1
+resolution,1
+26,1
+6,1
+1939,1

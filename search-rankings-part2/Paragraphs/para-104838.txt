@@ -1,0 +1,16 @@
+31,33,14
+be,1
+able,1
+to,1
+serve,1
+ayurveda,1
+he,1
+knew,1
+there,1
+were,1
+most,1
+potent,1
+and,1
+efficacious,1
+drugs,1
+in,1

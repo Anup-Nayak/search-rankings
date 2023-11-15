@@ -1,0 +1,7 @@
+12,143,4
+summary,1
+of,1
+important,1
+clauses,1
+and,1
+comments,1

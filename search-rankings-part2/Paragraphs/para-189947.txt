@@ -1,0 +1,12 @@
+53,383,8
+individual,1
+irrespective,1
+of,1
+class,1
+or,1
+creed,1
+should,1
+be,1
+able,1
+to,1
+vote,1

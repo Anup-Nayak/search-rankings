@@ -1,0 +1,7 @@
+43,212,6
+blessings,1
+from,2
+bapu,1
+ps,1
+greetings,1
+ba,1

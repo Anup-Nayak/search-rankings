@@ -1,0 +1,17 @@
+15,120,12
+function,2
+in,4
+wadhwan,2
+reception,1
+camp,1
+left,1
+for,1
+dhrangadhra,1
+arrived,1
+there,1
+high,1
+school,1
+raja,1
+saheb,1
+the,1
+chair,1

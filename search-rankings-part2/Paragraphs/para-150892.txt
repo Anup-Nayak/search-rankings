@@ -1,0 +1,6 @@
+43,431,7
+561,1
+letter,1
+to,1
+baban,1
+gokhalay,1

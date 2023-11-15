@@ -1,0 +1,5 @@
+89,80,7
+128,1
+letter,1
+to,1
+manibehn,1

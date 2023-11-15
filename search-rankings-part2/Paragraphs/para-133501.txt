@@ -1,0 +1,6 @@
+39,65,12
+75,1
+letter,1
+to,1
+maneckbai,1
+bahadurji,1

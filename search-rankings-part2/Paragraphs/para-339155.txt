@@ -1,0 +1,7 @@
+88,98,3
+other,1
+commodity,1
+in,1
+place,1
+of,1
+money,1

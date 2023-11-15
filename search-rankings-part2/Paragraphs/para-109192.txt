@@ -1,0 +1,12 @@
+32,228,3
+mahatma,1
+gandhi,1
+speaking,1
+in,1
+hindustani,1
+said,1
+that,2
+the,1
+great,1
+mantra,1
+bal,1

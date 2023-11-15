@@ -1,0 +1,7 @@
+13,432,8
+struggle,1
+recognition,1
+right,1
+consultation,1
+vital,1
+matters,1

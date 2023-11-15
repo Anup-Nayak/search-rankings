@@ -1,0 +1,7 @@
+98,89,5
+from,1
+the,1
+gujarati,1
+original,1
+courtesy,1
+pyarelal,1

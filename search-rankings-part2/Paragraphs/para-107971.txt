@@ -1,0 +1,7 @@
+32,2,18
+no,2
+offensive,1
+demonstration,1
+and,1
+act,1
+calculated,1

@@ -1,0 +1,16 @@
+93,412,1
+operation,1
+of,1
+all,1
+parties,1
+in,1
+the,1
+constituent,1
+assembly,1
+it,1
+is,1
+not,1
+expected,1
+that,1
+any,1
+final,1

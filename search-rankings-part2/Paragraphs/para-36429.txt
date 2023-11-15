@@ -1,0 +1,7 @@
+11,304,26
+passive,1
+resisters,1
+to,1
+secure,1
+equitable,1
+treatment,1

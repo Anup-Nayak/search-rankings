@@ -1,0 +1,6 @@
+2,348,7
+to,1
+the,2
+editor,1
+natal,1
+witness,1

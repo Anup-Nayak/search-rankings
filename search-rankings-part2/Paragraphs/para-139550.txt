@@ -1,0 +1,13 @@
+41,24,6
+30,1
+letter,1
+to,1
+captain,1
+j,1
+w,1
+petavel,1
+camp,1
+balasore,1
+december,1
+14,1
+1927,1

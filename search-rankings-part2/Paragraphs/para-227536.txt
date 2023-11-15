@@ -1,0 +1,7 @@
+62,236,6
+1,1
+for,1
+the,2
+verse,1
+from,1
+ramacharitmanasa,1

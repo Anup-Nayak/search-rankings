@@ -1,0 +1,15 @@
+64,134,11
+like,1
+drink,1
+and,2
+gambling,1
+when,1
+they,1
+did,1
+borrow,1
+six,1
+per,1
+cent,1
+was,1
+the,1
+maximum,1

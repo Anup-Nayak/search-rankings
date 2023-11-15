@@ -1,0 +1,8 @@
+6,294,6
+for,1
+these,1
+are,1
+all,1
+their,1
+own,1
+reward,1

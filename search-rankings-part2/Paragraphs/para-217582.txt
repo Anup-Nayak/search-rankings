@@ -1,0 +1,17 @@
+60,62,1
+should,2
+reduce,1
+her,1
+work,1
+if,1
+she,2
+has,1
+such,1
+peace,1
+be,1
+able,1
+to,2
+listen,1
+criticism,1
+from,1
+anybody,1

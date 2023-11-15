@@ -1,0 +1,7 @@
+85,87,2
+sevagram,1
+via,1
+wardha,1
+october,1
+24,1
+1944,1

@@ -1,0 +1,15 @@
+82,314,4
+q,1
+do,1
+you,2
+know,1
+being,1
+confined,1
+in,1
+sevagram,1
+how,1
+much,1
+are,1
+out,1
+of,1
+touch,1

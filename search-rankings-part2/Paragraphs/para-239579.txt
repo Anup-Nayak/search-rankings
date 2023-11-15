@@ -1,0 +1,16 @@
+65,235,4
+1,1
+gandhiji,1
+presided,1
+over,1
+the,3
+third,1
+anniversary,1
+celebration,1
+of,1
+shoorji,1
+vallabhdas,1
+swadeshi,1
+bazaar,1
+in,1
+morning,1

@@ -1,0 +1,6 @@
+82,274,2
+we,1
+are,1
+returning,1
+on,1
+sunday,1

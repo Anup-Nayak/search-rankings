@@ -1,0 +1,12 @@
+25,343,4
+was,2
+essential,1
+then,1
+it,1
+necessary,1
+that,1
+the,3
+terms,1
+and,1
+composition,1
+of,1

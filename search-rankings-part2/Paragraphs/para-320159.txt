@@ -1,0 +1,3 @@
+84,86,6
+srinagar,1
+kashmir,1

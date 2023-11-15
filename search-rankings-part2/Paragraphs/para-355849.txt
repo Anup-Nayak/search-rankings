@@ -1,0 +1,7 @@
+92,136,3
+192,1
+letter,1
+to,1
+kisanlal,1
+c,1
+tejpal,1

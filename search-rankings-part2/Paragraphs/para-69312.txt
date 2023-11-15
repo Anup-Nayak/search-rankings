@@ -1,0 +1,9 @@
+19,473,12
+i,1
+fancy,1
+all,1
+the,1
+world,1
+engrossed,1
+with,1
+judging,1

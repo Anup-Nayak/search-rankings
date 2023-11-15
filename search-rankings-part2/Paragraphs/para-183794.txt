@@ -1,0 +1,12 @@
+52,175,5
+l,1
+r,1
+guruswamy,1
+naidu,1
+president,1
+taluq,1
+congress,1
+committee,1
+koilpatti,1
+madras,1
+presidency,1

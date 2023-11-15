@@ -1,0 +1,8 @@
+41,434,10
+maganlals,1
+condition,1
+daily,1
+what,1
+is,1
+cause,1
+delirium,1

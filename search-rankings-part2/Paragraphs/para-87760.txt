@@ -1,0 +1,15 @@
+26,53,5
+1,1
+village,1
+headmen,1
+who,1
+help,1
+in,1
+the,1
+collection,1
+of,1
+government,1
+dues,1
+from,1
+tic,1
+cultivators,1

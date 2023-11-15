@@ -1,0 +1,7 @@
+43,470,6
+593,1
+letter,1
+to,1
+sayyid,1
+abdul,1
+latif,1

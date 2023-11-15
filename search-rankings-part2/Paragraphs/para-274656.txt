@@ -1,0 +1,15 @@
+73,375,3
+describe,1
+the,1
+chinese,1
+system,1
+of,1
+relay,1
+teachers,1
+whereby,1
+each,1
+man,1
+or,1
+woman,1
+who,1
+had,1

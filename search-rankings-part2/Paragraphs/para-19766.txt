@@ -1,0 +1,9 @@
+6,534,12
+persons,1
+arrested,1
+to,1
+be,1
+examined,1
+by,1
+a,1
+magistrate,1

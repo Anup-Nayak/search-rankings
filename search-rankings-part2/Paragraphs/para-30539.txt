@@ -1,0 +1,6 @@
+10,80,3
+did,1
+they,1
+reach,1
+north,1
+pole,1

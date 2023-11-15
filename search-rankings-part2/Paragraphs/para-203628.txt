@@ -1,0 +1,4 @@
+57,85,3
+let,1
+god,1
+prevail,1

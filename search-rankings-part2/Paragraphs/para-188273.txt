@@ -1,0 +1,14 @@
+53,201,15
+a,1
+yes,1
+i,1
+should,1
+like,1
+them,1
+to,2
+join,1
+the,1
+ashram,1
+ready,1
+face,1
+all,1

@@ -1,0 +1,7 @@
+21,120,9
+86,1
+passing,1
+away,1
+of,1
+the,1
+lokamanya,1

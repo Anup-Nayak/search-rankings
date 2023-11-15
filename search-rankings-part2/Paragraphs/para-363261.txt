@@ -1,0 +1,6 @@
+94,29,2
+char,1
+krishnapur,1
+february,1
+22,1
+1947,1

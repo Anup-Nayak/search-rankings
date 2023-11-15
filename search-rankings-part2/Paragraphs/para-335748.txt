@@ -1,0 +1,11 @@
+87,230,7
+simla,1
+july,1
+14,1
+1945,1
+doctor,1
+shaukatullah,1
+ansari,1
+rajpur,1
+road,1
+delhi,1

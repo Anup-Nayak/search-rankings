@@ -1,0 +1,5 @@
+94,156,13
+and,1
+correctly,1
+1,1
+gandhi,1

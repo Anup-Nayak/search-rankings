@@ -1,0 +1,17 @@
+22,103,2
+1,1
+that,1
+is,1
+dissuading,1
+people,1
+from,1
+voting,1
+in,2
+the,2
+elections,1
+to,1
+legislative,1
+councils,1
+held,1
+november,1
+1920,1

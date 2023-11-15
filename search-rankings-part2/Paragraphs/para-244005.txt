@@ -1,0 +1,12 @@
+66,208,9
+yours,1
+sincerely,1
+shri,1
+p,1
+s,2
+rama,1
+iyer,1
+sankeswaram,1
+village,1
+chittur,1
+cochin,1

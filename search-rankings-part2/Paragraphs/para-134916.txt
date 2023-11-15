@@ -1,0 +1,7 @@
+39,274,5
+258,1
+speech,1
+to,1
+adi,1
+karnatakas,1
+mysore,1

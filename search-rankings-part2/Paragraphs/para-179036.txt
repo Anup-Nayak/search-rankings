@@ -1,0 +1,8 @@
+51,127,22
+ours,1
+but,1
+incapacity,1
+due,1
+to,1
+what,1
+i,1

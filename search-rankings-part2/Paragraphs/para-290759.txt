@@ -1,0 +1,9 @@
+77,348,5
+from,1
+gujarati,1
+c,1
+w,1
+2686,1
+courtesy,1
+navajivan,1
+trust,1

@@ -1,0 +1,16 @@
+13,108,6
+did,1
+you,3
+write,1
+to,1
+hoosen,1
+the,2
+sooner,1
+do,1
+so,2
+better,1
+if,1
+have,1
+not,1
+done,1
+already,1

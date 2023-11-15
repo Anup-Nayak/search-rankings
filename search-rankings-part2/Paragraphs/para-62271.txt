@@ -1,0 +1,5 @@
+17,411,2
+satyagraha,1
+sabha,1
+apollo,1
+street,1

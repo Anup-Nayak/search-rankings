@@ -1,0 +1,15 @@
+82,399,8
+from,1
+making,1
+the,2
+speech,1
+in,1
+which,1
+he,1
+declared,1
+that,1
+atlantic,1
+charter,1
+did,1
+not,1
+apply,1

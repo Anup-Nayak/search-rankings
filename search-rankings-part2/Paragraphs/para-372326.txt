@@ -1,0 +1,13 @@
+96,291,8
+he,1
+is,1
+a,3
+great,2
+lawyer,1
+farmer,1
+owning,1
+magnificent,1
+farm,1
+and,1
+everyone,1
+knew,1

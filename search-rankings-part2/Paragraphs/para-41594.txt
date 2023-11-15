@@ -1,0 +1,9 @@
+12,444,4
+2,1
+the,2
+status,1
+of,1
+indians,1
+resident,1
+in,1
+dominions,1

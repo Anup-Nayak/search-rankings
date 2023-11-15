@@ -1,0 +1,7 @@
+45,247,3
+mandalay,1
+silence,1
+day,1
+march,1
+18,1
+1929,1

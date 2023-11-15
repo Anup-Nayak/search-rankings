@@ -1,0 +1,13 @@
+47,137,12
+the,2
+normal,1
+state,1
+did,1
+not,1
+amount,1
+to,2
+anything,1
+mahatmaji,1
+made,1
+a,1
+reference,1

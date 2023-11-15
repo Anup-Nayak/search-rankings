@@ -1,0 +1,14 @@
+72,254,10
+8,1
+mahura,1
+wood,1
+is,1
+used,1
+as,1
+fuel,1
+and,1
+timber,1
+harijan,1
+25,1
+9,1
+1937,1

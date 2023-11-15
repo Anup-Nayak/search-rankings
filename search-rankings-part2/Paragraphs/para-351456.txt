@@ -1,0 +1,5 @@
+91,103,2
+128,1
+language,1
+and,1
+thought,1

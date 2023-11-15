@@ -1,0 +1,10 @@
+13,448,2
+his,1
+domicile,1
+in,1
+south,1
+africa,1
+regarding,1
+question,1
+of,1
+inter,1

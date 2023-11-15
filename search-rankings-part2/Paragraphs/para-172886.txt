@@ -1,0 +1,7 @@
+49,387,12
+428,1
+letter,1
+to,1
+bali,1
+and,1
+kumi,1

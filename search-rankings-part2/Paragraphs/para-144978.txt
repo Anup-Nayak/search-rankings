@@ -1,0 +1,9 @@
+42,241,3
+a,1
+student,1
+from,1
+calcutta,1
+writes,1
+to,1
+say,1
+1,1

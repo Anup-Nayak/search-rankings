@@ -1,0 +1,6 @@
+75,58,4
+70,1
+letter,1
+to,1
+kasturba,1
+gandhi,1

@@ -1,0 +1,8 @@
+90,123,5
+uruli,1
+kanchan,1
+after,1
+march,1
+22,1
+1946,1
+3,1

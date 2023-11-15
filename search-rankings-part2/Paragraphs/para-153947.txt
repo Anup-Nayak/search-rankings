@@ -1,0 +1,8 @@
+44,475,7
+t12,1
+guj,1
+has,1
+a,1
+full,1
+stop,1
+here,1

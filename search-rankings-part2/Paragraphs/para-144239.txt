@@ -1,0 +1,16 @@
+42,162,4
+1,1
+the,2
+questions,1
+to,1
+which,1
+these,1
+are,2
+gandhijis,1
+answers,1
+not,1
+available,1
+2,1
+source,1
+has,1
+function,1

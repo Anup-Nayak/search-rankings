@@ -1,0 +1,8 @@
+8,97,6
+to,1
+the,3
+honble,1
+colonial,1
+secretary,1
+of,1
+transvaal,1

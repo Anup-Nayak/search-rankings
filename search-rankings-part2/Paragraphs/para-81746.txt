@@ -1,0 +1,15 @@
+24,67,12
+who,1
+refuse,1
+to,2
+go,1
+temples,1
+because,1
+they,1
+have,1
+not,1
+got,1
+rich,1
+clothes,1
+and,1
+costly,1

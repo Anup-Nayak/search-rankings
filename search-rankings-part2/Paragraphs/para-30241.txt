@@ -1,0 +1,9 @@
+10,42,3
+progress,1
+continues,1
+very,1
+1,1
+uncertain,1
+produce,1
+deporteds,1
+meeting,1

@@ -1,0 +1,6 @@
+76,417,19
+muslims,1
+to,1
+abstain,1
+from,1
+drink,1

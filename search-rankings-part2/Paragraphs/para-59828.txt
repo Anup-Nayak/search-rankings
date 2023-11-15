@@ -1,0 +1,10 @@
+17,124,12
+1,1
+pupils,1
+in,1
+the,1
+danish,1
+mission,1
+boarding,1
+school,1
+tirukoilur,1

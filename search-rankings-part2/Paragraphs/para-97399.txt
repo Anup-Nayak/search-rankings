@@ -1,0 +1,14 @@
+28,502,3
+in,1
+respect,1
+of,1
+marriage,1
+both,1
+hinduism,1
+and,2
+islam,1
+are,1
+theoretically,1
+to,1
+some,1
+extent,1

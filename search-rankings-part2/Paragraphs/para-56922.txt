@@ -1,0 +1,8 @@
+16,298,4
+lt,1
+governor,1
+of,1
+bihar,1
+&,1
+orissa,1
+patna,1

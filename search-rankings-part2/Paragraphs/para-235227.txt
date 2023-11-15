@@ -1,0 +1,12 @@
+64,205,4
+he,2
+recalled,1
+the,2
+occasion,1
+when,1
+received,1
+another,1
+civic,1
+address,1
+from,1
+hands,1

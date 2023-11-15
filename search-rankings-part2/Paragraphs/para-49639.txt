@@ -1,0 +1,10 @@
+14,469,6
+a,1
+quiet,1
+life,1
+they,1
+would,1
+incur,1
+the,1
+disgrace,1
+of,1

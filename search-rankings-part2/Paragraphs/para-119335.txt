@@ -1,0 +1,13 @@
+35,229,9
+chhodega,2
+4,1
+but,1
+chhutega,1
+5,1
+is,1
+transitive,1
+and,1
+so,1
+you,1
+drop,1
+the,1

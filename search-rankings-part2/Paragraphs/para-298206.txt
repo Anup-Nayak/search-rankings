@@ -1,0 +1,8 @@
+79,313,16
+meaning,1
+if,1
+mutilation,1
+of,1
+statements,1
+is,1
+considered,1

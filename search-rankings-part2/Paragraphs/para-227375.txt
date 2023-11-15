@@ -1,0 +1,6 @@
+62,212,3
+231,1
+extracts,1
+from,1
+speeches,1
+1,1

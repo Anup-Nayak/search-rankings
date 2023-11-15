@@ -1,0 +1,13 @@
+6,13,3
+section,1
+18,1
+gives,1
+the,2
+lieutenant,1
+governor,1
+power,1
+to,1
+frame,1
+regulations,1
+under,1
+ordinance,1

@@ -1,0 +1,8 @@
+40,58,9
+29,1
+speech,1
+to,1
+gujaratis,1
+and,1
+marwaris,1
+madras,1

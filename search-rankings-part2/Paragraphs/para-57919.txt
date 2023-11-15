@@ -1,0 +1,5 @@
+16,446,4
+307,1
+speech,1
+at,1
+ajarpura,1

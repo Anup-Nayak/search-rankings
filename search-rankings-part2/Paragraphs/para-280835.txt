@@ -1,0 +1,14 @@
+75,122,8
+question,1
+does,1
+that,2
+mean,1
+you,1
+will,1
+not,1
+be,1
+able,1
+to,2
+go,1
+tripuri,1
+congress,1

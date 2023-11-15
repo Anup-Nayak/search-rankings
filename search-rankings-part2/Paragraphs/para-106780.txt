@@ -1,0 +1,15 @@
+31,318,3
+gandhiji,1
+was,1
+interviewed,1
+by,1
+babu,1
+hardayal,1
+nag,1
+and,1
+gave,1
+replies,1
+to,2
+questions,1
+put,1
+him,1

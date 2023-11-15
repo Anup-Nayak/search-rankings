@@ -1,0 +1,14 @@
+78,260,9
+that,2
+gandhiji,1
+will,1
+not,1
+hesitate,1
+to,1
+demand,1
+all,1
+the,1
+cases,1
+pending,1
+in,2
+court,1

@@ -1,0 +1,13 @@
+72,379,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+shri,1
+jawaharlal,1
+nehru,1
+president,1
+a,1
+i,1
+c,2

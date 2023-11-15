@@ -1,0 +1,7 @@
+86,142,1
+268,1
+letter,1
+to,1
+chimanlal,1
+n,1
+shah,1

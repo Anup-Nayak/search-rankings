@@ -1,0 +1,8 @@
+70,12,6
+on,1
+the,1
+train,1
+palanpur,1
+october,1
+28,1
+1936,1

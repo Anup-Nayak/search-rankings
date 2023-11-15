@@ -1,0 +1,7 @@
+51,77,34
+declared,1
+unlawful,1
+this,1
+continuing,1
+repression,1
+robs,1

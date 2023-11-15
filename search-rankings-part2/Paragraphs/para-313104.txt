@@ -1,0 +1,14 @@
+82,270,6
+1,1
+the,1
+title,1
+in,1
+fact,1
+was,1
+open,2
+letter,2
+vide,1
+before,1
+19,1
+12,1
+1894,1

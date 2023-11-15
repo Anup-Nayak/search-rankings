@@ -1,0 +1,9 @@
+82,260,10
+i,1
+read,1
+your,1
+letter,1
+and,1
+immediately,1
+destroyed,1
+it,1

@@ -1,0 +1,8 @@
+49,203,2
+204,1
+khadi,1
+and,1
+boycott,1
+of,1
+foreign,1
+cloth,1

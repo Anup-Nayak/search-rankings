@@ -1,0 +1,14 @@
+21,96,27
+resorting,1
+to,1
+untruth,1
+and,1
+camouflage,1
+so,1
+long,1
+therefore,1
+as,1
+the,1
+government,1
+did,1
+not,1

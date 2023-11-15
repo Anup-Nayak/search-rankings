@@ -1,0 +1,16 @@
+24,465,10
+to,3
+work,1
+was,1
+fraught,1
+with,1
+danger,1
+self,1
+reliance,1
+and,1
+the,2
+only,1
+way,1
+strike,1
+at,1
+root,1

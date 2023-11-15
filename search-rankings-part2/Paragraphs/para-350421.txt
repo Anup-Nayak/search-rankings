@@ -1,0 +1,7 @@
+90,436,15
+here,1
+is,1
+no,1
+lack,1
+nor,1
+care,1

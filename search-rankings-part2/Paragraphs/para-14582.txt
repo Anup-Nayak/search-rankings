@@ -1,0 +1,10 @@
+5,433,3
+3,1
+vide,1
+interview,1
+to,1
+south,1
+africa,1
+25,1
+10,1
+1906,1

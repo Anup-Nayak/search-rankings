@@ -1,0 +1,9 @@
+49,32,11
+1,1
+vide,1
+letter,1
+to,1
+reginald,1
+reynolds,1
+4,2
+1930,1

@@ -1,0 +1,7 @@
+29,4,1
+4,1
+teachers,1
+and,1
+training,1
+in,1
+spinning,1

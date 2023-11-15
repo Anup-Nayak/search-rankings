@@ -1,0 +1,8 @@
+84,52,12
+companion,1
+you,1
+can,1
+come,1
+after,1
+ear,1
+treatment,1

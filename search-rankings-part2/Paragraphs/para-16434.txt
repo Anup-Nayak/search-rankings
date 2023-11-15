@@ -1,0 +1,12 @@
+6,117,8
+the,2
+secretary,1
+empire,1
+typewriting,1
+company,1
+77,1
+queen,1
+victoria,1
+street,1
+e,1
+c,1

@@ -1,0 +1,8 @@
+13,370,15
+ing,1
+assault,1
+strike,1
+likely,1
+spread,1
+other,1
+collieries,1

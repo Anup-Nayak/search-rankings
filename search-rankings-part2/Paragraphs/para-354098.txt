@@ -1,0 +1,17 @@
+91,394,9
+blessings,1
+from,2
+m,1
+k,1
+gandhi,1
+shri,1
+chimanlal,1
+sheth,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+pyarelal,2
+papers,1
+courtesy,1

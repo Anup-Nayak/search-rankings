@@ -1,0 +1,9 @@
+39,193,5
+188,1
+speech,1
+at,1
+amateur,1
+dramatic,1
+association,1
+mysore,1
+1,1

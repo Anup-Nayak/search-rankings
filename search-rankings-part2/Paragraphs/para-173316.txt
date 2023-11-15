@@ -1,0 +1,6 @@
+49,435,2
+tuesday,1
+morning,1
+august,1
+12,1
+1930,1

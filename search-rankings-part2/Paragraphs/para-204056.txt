@@ -1,0 +1,6 @@
+57,117,10
+195,1
+draft,1
+resolution,1
+on,1
+untouchability,1

@@ -1,0 +1,15 @@
+31,246,11
+the,1
+services,1
+of,1
+a,2
+barber,1
+or,1
+washerman,1
+how,1
+are,1
+we,1
+to,1
+remedy,1
+these,1
+disabilities,1

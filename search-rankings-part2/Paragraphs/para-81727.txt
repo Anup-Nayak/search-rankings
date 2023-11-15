@@ -1,0 +1,16 @@
+24,66,7
+they,1
+should,1
+depend,1
+on,1
+the,1
+cloth,1
+that,1
+might,1
+be,1
+prepared,1
+within,1
+their,1
+own,1
+district,1
+and,1

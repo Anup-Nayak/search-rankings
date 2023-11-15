@@ -1,0 +1,10 @@
+3,181,8
+not,1
+allowed,1
+at,2
+all,1
+many,1
+indians,1
+coast,1
+there,1
+fore,1

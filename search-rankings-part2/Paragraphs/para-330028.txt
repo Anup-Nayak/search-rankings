@@ -1,0 +1,16 @@
+86,128,5
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+pyarelal,2
+papers,1
+courtesy,2
+also,1
+c,1
+w,1
+10725,1
+gomati,1
+mashruwala,1

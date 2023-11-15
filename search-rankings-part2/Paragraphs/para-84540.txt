@@ -1,0 +1,10 @@
+25,56,6
+26,1
+speech,1
+on,1
+civil,1
+disobedience,1
+a,1
+i,1
+c,2
+delhi,1

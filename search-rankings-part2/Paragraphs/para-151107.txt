@@ -1,0 +1,9 @@
+43,465,2
+amrita,1
+bazar,1
+patrika,1
+29,2
+12,2
+1928,2
+and,1
+forward,1

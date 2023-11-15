@@ -1,0 +1,16 @@
+2,108,30
+might,1
+have,1
+taken,1
+refuge,1
+in,1
+the,1
+police,1
+station,1
+but,1
+he,3
+did,1
+not,1
+said,1
+was,1
+quite,1

@@ -1,0 +1,5 @@
+36,124,5
+133,1
+reward,1
+of,1
+earnestness,1

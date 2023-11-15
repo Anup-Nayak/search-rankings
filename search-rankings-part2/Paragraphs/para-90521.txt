@@ -1,0 +1,5 @@
+27,23,8
+physically,1
+impossible,1
+wound,1
+unhealed,1

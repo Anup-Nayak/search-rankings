@@ -1,0 +1,9 @@
+92,81,4
+your,1
+wire,1
+you,1
+must,1
+not,1
+overstrain,1
+yourself,1
+but,1

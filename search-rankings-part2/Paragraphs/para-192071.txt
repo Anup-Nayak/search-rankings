@@ -1,0 +1,11 @@
+54,145,2
+92,1
+speech,1
+at,1
+conference,1
+of,1
+delegates,1
+to,1
+r,1
+t,1
+c,1

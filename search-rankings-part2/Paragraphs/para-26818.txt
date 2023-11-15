@@ -1,0 +1,7 @@
+9,76,5
+47,1
+speech,1
+at,1
+closer,1
+union,1
+society,1

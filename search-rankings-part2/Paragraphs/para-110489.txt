@@ -1,0 +1,14 @@
+32,445,11
+the,4
+lion,2
+devour,1
+his,1
+child,1
+should,1
+father,1
+appeal,1
+to,1
+soul,1
+of,1
+and,1
+thus,1

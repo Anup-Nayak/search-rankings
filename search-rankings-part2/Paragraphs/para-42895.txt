@@ -1,0 +1,8 @@
+13,143,8
+unnecessary,1
+and,1
+does,1
+not,1
+occur,1
+transvaal,1
+law,1

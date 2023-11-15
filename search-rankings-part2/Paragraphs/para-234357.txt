@@ -1,0 +1,16 @@
+64,112,11
+gandhiji,1
+had,1
+no,1
+objection,1
+to,1
+such,1
+an,1
+idea,1
+of,1
+non,1
+violent,1
+class,1
+struggle,1
+and,1
+he,1

@@ -1,0 +1,10 @@
+78,188,6
+the,1
+time,1
+in,2
+spinning,1
+rather,1
+than,1
+writing,1
+to,1
+me,1

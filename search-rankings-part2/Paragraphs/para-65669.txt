@@ -1,0 +1,9 @@
+18,452,7
+2,1
+the,3
+abolition,1
+of,1
+rowlatt,1
+act,2
+and,1
+press,1

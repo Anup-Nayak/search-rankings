@@ -1,0 +1,9 @@
+52,280,5
+from,1
+a,1
+photostat,1
+of,1
+gujarati,1
+g,1
+n,1
+3292,1

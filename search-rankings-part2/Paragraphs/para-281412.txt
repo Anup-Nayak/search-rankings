@@ -1,0 +1,7 @@
+75,194,2
+243,1
+note,1
+to,1
+jaipur,1
+satyagraha,1
+council,1

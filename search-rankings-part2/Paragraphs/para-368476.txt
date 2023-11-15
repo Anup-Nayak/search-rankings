@@ -1,0 +1,5 @@
+95,254,8
+238,1
+letter,1
+to,1
+parasuram,1

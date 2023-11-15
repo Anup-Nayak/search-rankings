@@ -1,0 +1,8 @@
+15,292,8
+m,1
+k,1
+gandhi,1
+my,1
+dear,1
+child,1
+pp,1

@@ -1,0 +1,11 @@
+42,200,12
+bapu,1
+shriyut,1
+behramji,1
+khambhatta,1
+lifes,1
+nature,1
+cure,1
+health,1
+house,1
+england,1

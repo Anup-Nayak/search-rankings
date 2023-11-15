@@ -1,0 +1,9 @@
+53,118,6
+ability,1
+no,1
+coercion,1
+would,1
+be,1
+used,1
+against,1
+them,1

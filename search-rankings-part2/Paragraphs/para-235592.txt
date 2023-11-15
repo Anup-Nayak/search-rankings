@@ -1,0 +1,8 @@
+64,243,2
+1,1
+vide,1
+a,1
+band,1
+of,1
+vegetarian,1
+missionaries,1

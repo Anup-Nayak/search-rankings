@@ -1,0 +1,7 @@
+82,107,9
+very,1
+word,1
+untouchability,1
+from,1
+our,1
+vocabulary,1

@@ -1,0 +1,15 @@
+70,15,13
+we,2
+know,1
+will,1
+not,1
+they,1
+rejoined,1
+with,1
+even,1
+greater,1
+emphasis,1
+but,1
+supposing,1
+you,1
+do,1

@@ -1,0 +1,7 @@
+21,120,7
+madras,1
+hope,1
+pir,1
+sahib,1
+taking,1
+food,1

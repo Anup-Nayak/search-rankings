@@ -1,0 +1,8 @@
+2,336,6
+12,1
+11,1
+2,1
+a/c,1
+attached,1
+sundry,1
+disbursements,1

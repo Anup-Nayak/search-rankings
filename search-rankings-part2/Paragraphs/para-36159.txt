@@ -1,0 +1,11 @@
+11,287,13
+but,1
+whether,1
+they,1
+do,1
+or,1
+not,1
+my,1
+advice,1
+fellow,1
+passive,1

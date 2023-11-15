@@ -1,0 +1,16 @@
+25,103,6
+a,1
+friend,1
+sends,1
+me,1
+the,2
+following,1
+from,1
+george,1
+macdonalds,1
+prince,1
+and,1
+curdie,1
+on,1
+hand,1
+spinning,1

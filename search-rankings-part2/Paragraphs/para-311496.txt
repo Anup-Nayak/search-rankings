@@ -1,0 +1,4 @@
+82,136,8
+the,1
+national,1
+week,1

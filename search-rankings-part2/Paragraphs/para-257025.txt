@@ -1,0 +1,8 @@
+69,175,11
+215,1
+letter,1
+to,1
+a,1
+harijan,1
+worker,1
+23,1

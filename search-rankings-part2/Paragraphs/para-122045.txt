@@ -1,0 +1,9 @@
+36,90,1
+you,2
+my,1
+assurance,1
+that,1
+i,1
+shall,1
+not,1
+misunderstand,1

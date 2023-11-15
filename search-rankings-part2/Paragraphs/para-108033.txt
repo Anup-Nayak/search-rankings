@@ -1,0 +1,14 @@
+32,14,3
+a,1
+vakil,1
+from,1
+layallpur,1
+sends,1
+the,2
+following,1
+letter,1
+addressed,1
+to,1
+editor,1
+young,1
+india,1

@@ -1,0 +1,13 @@
+44,306,3
+1,1
+vide,1
+speech,1
+at,1
+farewell,1
+to,1
+l,1
+w,1
+ritch,1
+march,1
+9,1
+1905,1

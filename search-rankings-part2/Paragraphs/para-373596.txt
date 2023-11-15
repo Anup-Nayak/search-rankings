@@ -1,0 +1,13 @@
+96,440,25
+he,1
+was,1
+not,1
+saying,1
+this,1
+against,1
+pakistan,1
+for,1
+the,2
+rest,1
+of,1
+commonwealth,1

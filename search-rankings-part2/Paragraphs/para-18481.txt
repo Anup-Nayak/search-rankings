@@ -1,0 +1,4 @@
+6,362,2
+jusab,1
+haji,1
+vali,1

@@ -1,0 +1,15 @@
+7,332,2
+i,2
+did,1
+not,1
+say,2
+it,2
+was,1
+then,1
+is,1
+as,1
+you,1
+have,1
+condemned,1
+him,1
+unheard,1

@@ -1,0 +1,11 @@
+80,167,4
+bapu,1
+shri,2
+mirabehn,1
+harakhchand,1
+motichandni,1
+vadi,1
+chorwad,1
+via,1
+junagadh,1
+kathiawar,1

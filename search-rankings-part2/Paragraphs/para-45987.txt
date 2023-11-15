@@ -1,0 +1,7 @@
+14,11,9
+critical,1
+juncture,1
+by,1
+mere,1
+considerations,1
+etiquette,1

@@ -1,0 +1,12 @@
+9,12,14
+the,2
+magistrate,1
+and,2
+public,1
+prosecutor,1
+both,1
+interposed,1
+objected,1
+to,1
+its,1
+production,1

@@ -1,0 +1,12 @@
+46,391,13
+relief,1
+committee,1
+to,2
+try,1
+and,2
+send,1
+a,1
+deputation,1
+bombay,1
+other,1
+provinces,1

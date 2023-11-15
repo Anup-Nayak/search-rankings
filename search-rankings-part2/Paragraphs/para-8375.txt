@@ -1,0 +1,12 @@
+3,401,10
+traders,1
+even,1
+if,1
+they,1
+can,1
+go,1
+there,1
+have,1
+to,1
+build,1
+at,1

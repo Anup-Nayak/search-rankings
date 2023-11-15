@@ -1,0 +1,5 @@
+16,396,2
+from,1
+gujarati,1
+kheda,1
+satyagraha,1

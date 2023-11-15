@@ -1,0 +1,8 @@
+13,430,26
+protest,1
+against,1
+such,1
+ill,1
+treatment,1
+many,1
+hunger,1

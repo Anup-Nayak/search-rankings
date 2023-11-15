@@ -1,0 +1,16 @@
+12,318,5
+west,2
+went,1
+to,2
+town,1
+letters,1
+lane,1
+mahomed,2
+hasam,1
+mitha,1
+chhaganlal,1
+dangare,1
+aba,1
+captain,1
+stuartvelshi,1
+returned,1

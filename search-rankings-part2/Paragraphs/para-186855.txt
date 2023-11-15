@@ -1,0 +1,7 @@
+53,37,1
+36,1
+cable,1
+to,1
+the,1
+news,1
+chronicle,1

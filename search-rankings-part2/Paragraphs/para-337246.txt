@@ -1,0 +1,7 @@
+87,383,5
+country,1
+wrote,1
+you,1
+yesterday,1
+1,1
+love,1

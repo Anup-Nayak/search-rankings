@@ -1,0 +1,5 @@
+82,388,19
+dictator,1
+under,1
+non,1
+violence,1

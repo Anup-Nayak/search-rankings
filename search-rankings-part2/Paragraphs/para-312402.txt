@@ -1,0 +1,11 @@
+82,211,12
+of,2
+an,1
+unfamiliar,1
+urdu,1
+tongue,1
+full,1
+arabic,1
+and,1
+persian,1
+words,1

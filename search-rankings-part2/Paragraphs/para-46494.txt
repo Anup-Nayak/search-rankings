@@ -1,0 +1,7 @@
+14,72,4
+with,1
+leading,1
+article,1
+reports,1
+governor,1
+generals,1

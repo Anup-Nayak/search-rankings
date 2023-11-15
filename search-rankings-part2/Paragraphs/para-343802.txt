@@ -1,0 +1,7 @@
+89,141,2
+bapu,1
+shri,1
+mirabehn,1
+kisan,1
+ashram,1
+muldaspur,1

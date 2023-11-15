@@ -1,0 +1,12 @@
+44,508,8
+t2,1
+guj,1
+has,1
+the,2
+real,1
+work,1
+of,1
+subjects,1
+committee,1
+was,1
+done,1

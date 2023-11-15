@@ -1,0 +1,12 @@
+64,310,10
+m,1
+k,1
+gandhi,1
+sjt,1
+n,1
+p,1
+nadig,1
+w,1
+t,1
+sanitorium,1
+miraj,1

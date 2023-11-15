@@ -1,0 +1,6 @@
+71,146,1
+164,1
+letter,1
+to,1
+hasanali,1
+shamji,1

@@ -1,0 +1,4 @@
+74,48,6
+all,1
+reached,1
+well,1

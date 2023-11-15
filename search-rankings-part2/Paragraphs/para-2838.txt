@@ -1,0 +1,13 @@
+2,78,19
+pennant,1
+hoisted,1
+in,1
+reply,1
+to,1
+each,1
+cleaning,1
+and,1
+disinfecting,1
+repeated,1
+as,1
+usual,1

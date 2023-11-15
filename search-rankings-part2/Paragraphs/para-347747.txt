@@ -1,0 +1,8 @@
+90,130,2
+178,1
+telegram,1
+to,1
+nawab,1
+of,1
+bhopal,1
+1,1

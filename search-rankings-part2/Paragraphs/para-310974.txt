@@ -1,0 +1,13 @@
+82,95,2
+20,1
+there,1
+are,1
+some,1
+overzealous,1
+champions,1
+of,1
+hindu,1
+muslim,1
+unity,1
+in,1
+the,1

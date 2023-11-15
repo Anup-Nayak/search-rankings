@@ -1,0 +1,11 @@
+17,459,8
+i,3
+shall,1
+do,1
+what,1
+can,1
+wherever,1
+am,1
+ever,1
+yours,1
+affectionately,1

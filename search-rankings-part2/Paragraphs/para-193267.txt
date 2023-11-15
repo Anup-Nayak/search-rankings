@@ -1,0 +1,13 @@
+54,314,13
+to,1
+a,1
+pressman,1
+who,1
+doubted,1
+the,2
+wisdom,1
+of,1
+congress,1
+in,1
+declaring,1
+truce,1

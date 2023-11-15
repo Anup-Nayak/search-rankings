@@ -1,0 +1,6 @@
+44,492,18
+t5,1
+guj,1
+adds,1
+and,1
+difficulty,1

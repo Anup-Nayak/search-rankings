@@ -1,0 +1,6 @@
+44,481,14
+t4,1
+guj,1
+has,1
+public,1
+leaders,1

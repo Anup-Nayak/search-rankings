@@ -1,0 +1,11 @@
+70,157,10
+a,1
+so,1
+mother,1
+earth,1
+is,2
+our,1
+beer,1
+not,1
+that,1
+splendid,1

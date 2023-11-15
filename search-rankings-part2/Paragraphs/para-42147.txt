@@ -1,0 +1,5 @@
+13,45,9
+3,1
+the,1
+dwelling,1
+house,1

@@ -1,0 +1,12 @@
+62,27,7
+1,1
+vide,2
+letter,1
+to,1
+h,1
+k,1
+hales,1
+2,1
+the,1
+preceding,1
+item,1

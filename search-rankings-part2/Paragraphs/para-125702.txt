@@ -1,0 +1,6 @@
+36,505,7
+the,1
+authority,1
+for,1
+this,1
+statement,1

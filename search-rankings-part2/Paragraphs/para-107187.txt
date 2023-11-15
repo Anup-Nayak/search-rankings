@@ -1,0 +1,12 @@
+31,366,4
+3,1
+average,1
+capacity,1
+of,1
+each,1
+wheel100,1
+yds,1
+per,1
+hour,1
+the,1
+highest,1

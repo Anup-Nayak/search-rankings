@@ -1,0 +1,5 @@
+54,236,4
+mr,1
+gandhi,1
+not,1
+hindu,1

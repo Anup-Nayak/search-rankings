@@ -1,0 +1,13 @@
+33,347,4
+245,1
+speech,1
+on,2
+resolution,1
+south,1
+african,1
+indians,1
+kanpur,1
+congress,1
+december,1
+26,1
+1925,1

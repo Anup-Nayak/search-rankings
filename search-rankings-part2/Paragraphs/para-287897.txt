@@ -1,0 +1,11 @@
+76,436,18
+in,2
+spite,1
+of,2
+the,3
+repeated,1
+declarations,1
+congress,1
+regard,1
+to,1
+war,1

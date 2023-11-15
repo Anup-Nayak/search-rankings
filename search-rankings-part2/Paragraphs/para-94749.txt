@@ -1,0 +1,4 @@
+28,89,2
+luxury,1
+not,1
+power,1

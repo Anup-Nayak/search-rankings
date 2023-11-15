@@ -1,0 +1,17 @@
+82,387,10
+enforce,1
+rules,1
+of,1
+sanitation,1
+but,1
+we,1
+can,1
+do,1
+nothing,1
+with,1
+it,1
+because,1
+the,1
+public,1
+is,1
+not,1

@@ -1,0 +1,13 @@
+64,416,5
+from,1
+a,1
+copy,1
+of,1
+the,1
+hindi,1
+g,2
+w,1
+10220,1
+courtesy,1
+d,1
+birla,1

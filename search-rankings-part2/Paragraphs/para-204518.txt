@@ -1,0 +1,13 @@
+57,156,4
+mohandas,1
+gandhi,1
+shri,1
+mohanlal,1
+sharma,1
+hindu,1
+sabha,1
+karyalaya,1
+pushkar,1
+near,1
+ajmer,1
+rajputana,1

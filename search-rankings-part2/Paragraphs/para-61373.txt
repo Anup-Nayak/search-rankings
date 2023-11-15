@@ -1,0 +1,11 @@
+17,303,5
+299,1
+letter,1
+to,1
+the,1
+press,1
+of,1
+south,1
+african,1
+situation,1
+1,1

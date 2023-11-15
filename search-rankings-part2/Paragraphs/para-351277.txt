@@ -1,0 +1,16 @@
+91,83,19
+q,1
+to,1
+a,1
+sixth,1
+you,1
+do,1
+not,1
+spin,1
+yourself,1
+from,1
+where,1
+then,1
+comes,1
+this,1
+yarn,1

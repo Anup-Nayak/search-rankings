@@ -1,0 +1,10 @@
+18,249,5
+to,2
+private,1
+secretary,1
+his,1
+honour,1
+the,1
+lieutenant,1
+governor,1
+lahore,1

@@ -1,0 +1,9 @@
+13,432,23
+charges,1
+stop,1
+it,1
+is,1
+patent,1
+present,1
+commission,1
+designed,1

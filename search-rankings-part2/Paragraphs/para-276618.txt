@@ -1,0 +1,6 @@
+74,104,3
+a,1
+pilgrimage,1
+for,1
+peace,1
+pp,1

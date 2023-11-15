@@ -1,0 +1,12 @@
+15,380,8
+1,1
+dewan,1
+bahadur,1
+keshavlal,1
+harshadray,1
+dhurva,1
+a,1
+gujarati,1
+scholar,1
+and,1
+writer,1

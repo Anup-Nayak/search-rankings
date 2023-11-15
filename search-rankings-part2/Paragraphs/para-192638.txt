@@ -1,0 +1,16 @@
+54,237,12
+one,1
+other,1
+thing,1
+when,1
+the,2
+mahatma,1
+takes,1
+chair,1
+in,1
+india,1
+if,1
+he,1
+will,1
+let,1
+me,1

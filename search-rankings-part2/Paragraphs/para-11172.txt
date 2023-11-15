@@ -1,0 +1,8 @@
+4,375,9
+337,1
+letter,1
+to,1
+tayob,1
+haji,1
+khan,1
+mahomed,1

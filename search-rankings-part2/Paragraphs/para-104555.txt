@@ -1,0 +1,16 @@
+30,455,1
+in,1
+delhi,1
+and,1
+bombay,1
+it,1
+was,1
+not,1
+possible,1
+for,1
+any,1
+of,1
+them,1
+to,1
+accompany,1
+me,1

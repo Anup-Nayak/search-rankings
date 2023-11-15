@@ -1,0 +1,13 @@
+54,73,11
+graphic,1
+descrption,1
+of,1
+the,2
+agrarian,1
+situation,1
+in,1
+united,1
+provinces,1
+and,1
+he,1
+was,1

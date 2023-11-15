@@ -1,0 +1,15 @@
+82,414,18
+g,1
+one,1
+of,1
+the,1
+answers,1
+might,1
+be,1
+birth,2
+control,1
+but,1
+i,1
+am,1
+opposed,1
+to,1

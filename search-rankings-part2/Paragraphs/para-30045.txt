@@ -1,0 +1,4 @@
+10,17,2
+a,1
+scandalous,1
+injustice,1

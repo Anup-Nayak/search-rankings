@@ -1,0 +1,4 @@
+74,135,1
+resigning,1
+from,1
+gujarati,1

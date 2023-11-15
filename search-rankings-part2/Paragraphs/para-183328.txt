@@ -1,0 +1,5 @@
+52,132,11
+c/o,1
+postmaster,1
+srinagar,1
+kashmir,1

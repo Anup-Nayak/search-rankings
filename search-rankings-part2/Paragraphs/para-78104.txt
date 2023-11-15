@@ -1,0 +1,13 @@
+22,457,10
+i,2
+fear,1
+shall,1
+be,1
+unable,1
+to,1
+dispel,1
+the,1
+clouds,1
+that,1
+are,1
+gathering,1

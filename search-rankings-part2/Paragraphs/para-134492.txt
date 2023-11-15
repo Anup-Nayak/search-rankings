@@ -1,0 +1,7 @@
+39,215,5
+pandit,1
+motilal,1
+nehru,1
+anand,1
+bhawan,1
+allahabad,1

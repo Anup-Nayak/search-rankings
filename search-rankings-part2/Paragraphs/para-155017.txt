@@ -1,0 +1,6 @@
+45,17,2
+karachi,1
+wednesday,1
+february,1
+6,1
+1929,1

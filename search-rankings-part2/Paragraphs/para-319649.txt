@@ -1,0 +1,7 @@
+84,43,2
+which,1
+bids,1
+fair,1
+to,1
+be,1
+protracted,1

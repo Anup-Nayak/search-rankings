@@ -1,0 +1,7 @@
+81,72,3
+bapu,1
+maine,1
+kya,2
+dekha,1
+samjha,1
+pp,1

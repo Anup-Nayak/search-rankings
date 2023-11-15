@@ -1,0 +1,6 @@
+85,226,4
+360,1
+letter,1
+to,1
+shriman,1
+narayan,1

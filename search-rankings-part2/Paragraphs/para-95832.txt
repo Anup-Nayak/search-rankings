@@ -1,0 +1,7 @@
+28,272,4
+1,1
+this,1
+postcard,1
+is,1
+not,1
+available,1

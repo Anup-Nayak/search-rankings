@@ -1,0 +1,10 @@
+44,505,3
+t1,1
+for,1
+the,2
+following,1
+guj,1
+has,1
+this,1
+kind,1
+of,1

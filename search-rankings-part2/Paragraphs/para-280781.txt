@@ -1,0 +1,17 @@
+75,117,4
+some,1
+sympathizers,1
+and,2
+friends,1
+of,1
+these,1
+punished,1
+students,1
+wanted,1
+to,1
+abstain,1
+from,1
+attending,1
+classes,1
+strike,1
+work,1

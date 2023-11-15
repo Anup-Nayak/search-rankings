@@ -1,0 +1,8 @@
+44,20,1
+27,1
+pran,1
+jaayi,2
+aru,1
+vachan,1
+na,1
+1,1

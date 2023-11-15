@@ -1,0 +1,7 @@
+30,38,1
+24,1
+speech,1
+at,1
+public,1
+meeting,1
+godhra,1

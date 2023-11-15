@@ -1,0 +1,6 @@
+40,339,13
+223,1
+telegram,1
+to,1
+jalrust,1
+bombay,1

@@ -1,0 +1,12 @@
+62,350,9
+1,1
+vide,2
+interview,1
+to,1
+madras,1
+mail,1
+2,1
+appendix,1
+bapus,1
+tour,1
+programmf,1

@@ -1,0 +1,16 @@
+51,195,5
+adopt,1
+the,1
+line,1
+of,1
+saying,1
+that,1
+he,1
+could,1
+select,1
+say,1
+three,1
+cases,1
+which,1
+would,1
+inevitably,1

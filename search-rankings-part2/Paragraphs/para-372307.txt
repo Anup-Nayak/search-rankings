@@ -1,0 +1,14 @@
+96,290,13
+drawn,1
+from,1
+all,2
+provinces,1
+belonging,1
+to,1
+religions,1
+and,1
+by,1
+his,1
+glorious,1
+example,1
+he,1

@@ -1,0 +1,3 @@
+30,63,2
+the,1
+politicals,1

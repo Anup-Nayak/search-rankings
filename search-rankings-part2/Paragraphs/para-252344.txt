@@ -1,0 +1,8 @@
+68,123,2
+148,1
+some,1
+ways,1
+of,1
+serving,1
+the,1
+cow,1

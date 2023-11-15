@@ -1,0 +1,10 @@
+57,32,2
+not,1
+be,1
+p,1
+ostponed,1
+utterly,1
+incapable,1
+send,1
+helpful,1
+instructions,1

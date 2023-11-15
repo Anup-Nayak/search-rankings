@@ -1,0 +1,7 @@
+97,344,6
+2,1
+one,1
+sixteenth,1
+of,1
+a,1
+seer,1

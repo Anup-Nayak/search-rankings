@@ -1,0 +1,12 @@
+15,282,2
+mr,1
+gandhi,1
+read,1
+the,3
+resolution,2
+in,1
+hindi,1
+and,1
+explained,1
+object,1
+of,1

@@ -1,0 +1,10 @@
+85,430,2
+blessings,1
+from,1
+bapu,1
+pandit,1
+satavlekar,1
+swadhyaya,1
+mandal,1
+aundh,1
+dist,1

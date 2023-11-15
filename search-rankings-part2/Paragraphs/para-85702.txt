@@ -1,0 +1,15 @@
+25,245,5
+our,1
+khalsa,1
+4,1
+friends,1
+are,1
+still,1
+busy,1
+holding,1
+public,1
+meetings,1
+at,1
+amritsar,1
+but,1
+no,1

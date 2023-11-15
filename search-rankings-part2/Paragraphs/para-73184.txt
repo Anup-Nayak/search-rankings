@@ -1,0 +1,16 @@
+21,96,5
+the,2
+1st,1
+of,1
+august,1
+mr,1
+gandhi,1
+said,1
+time,1
+for,1
+speeches,1
+on,1
+non,1
+co,1
+operation,1
+was,1

@@ -1,0 +1,9 @@
+69,356,13
+1,1
+a,1
+kind,1
+of,1
+frame,1
+for,1
+winding,1
+yarn,1

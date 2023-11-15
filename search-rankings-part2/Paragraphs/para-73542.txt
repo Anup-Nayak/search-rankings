@@ -1,0 +1,6 @@
+21,155,12
+1,1
+at,1
+juma,1
+mosque,1
+triplicane,1

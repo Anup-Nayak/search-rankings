@@ -1,0 +1,15 @@
+87,67,9
+1,1
+the,4
+gujarati,1
+saying,1
+is,1
+one,2
+remembers,1
+advice,1
+of,1
+master,1
+only,1
+till,1
+reaches,1
+gate,1

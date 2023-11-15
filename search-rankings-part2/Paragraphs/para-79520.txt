@@ -1,0 +1,14 @@
+23,196,8
+address,1
+been,1
+given,1
+in,2
+marathi,1
+or,1
+hindi,1
+the,2
+time,1
+had,1
+now,1
+come,1
+when,1

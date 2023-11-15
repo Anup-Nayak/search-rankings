@@ -1,0 +1,8 @@
+18,224,2
+mohandas,1
+gandhi,1
+bhai,1
+chhotalal,1
+tejpal,1
+artist,1
+rajkot,1

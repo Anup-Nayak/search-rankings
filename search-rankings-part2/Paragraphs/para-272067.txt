@@ -1,0 +1,14 @@
+73,82,2
+bapu,1
+ps,1
+you,1
+can,1
+show,2
+this,1
+to,2
+anyone,1
+do,1
+it,1
+mahadev,1
+and,1
+others,1

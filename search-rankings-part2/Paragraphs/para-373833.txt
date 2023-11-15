@@ -1,0 +1,8 @@
+97,30,8
+let,1
+me,1
+magnify,1
+my,1
+cross,1
+o,1
+god,1

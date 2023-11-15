@@ -1,0 +1,14 @@
+49,232,4
+q,1
+1,1
+you,1
+say,1
+that,1
+the,2
+present,1
+campaign,1
+is,1
+intended,1
+only,1
+to,1
+create,1

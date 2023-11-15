@@ -1,0 +1,11 @@
+23,24,32
+charkhas,1
+to,1
+be,1
+introduced,1
+into,1
+every,1
+household,1
+in,1
+this,1
+country,1

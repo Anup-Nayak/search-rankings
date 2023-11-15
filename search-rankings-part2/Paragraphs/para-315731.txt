@@ -1,0 +1,10 @@
+82,415,21
+workingmen,1
+in,1
+the,2
+cities,1
+would,1
+leave,1
+their,1
+factories,1
+railroads,1

@@ -1,0 +1,11 @@
+33,353,4
+the,3
+headman,1
+and,1
+sowkar,1
+are,1
+another,1
+pest,1
+they,1
+exploit,1
+poor,1

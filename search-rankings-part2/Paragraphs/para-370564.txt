@@ -1,0 +1,11 @@
+96,101,16
+think,1
+the,3
+efficiency,2
+of,2
+rationing,1
+here,1
+was,1
+a,1
+credit,1
+to,1

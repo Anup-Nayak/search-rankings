@@ -1,0 +1,10 @@
+37,389,8
+yours,1
+sincerely,1
+hakim,1
+saheb,1
+ajmal,1
+khan,1
+sharif,1
+manzil,1
+delhi,1

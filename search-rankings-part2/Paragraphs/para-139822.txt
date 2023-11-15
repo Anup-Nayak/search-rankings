@@ -1,0 +1,6 @@
+41,58,9
+71,1
+letter,1
+to,1
+cherukandy,1
+kuttan,1

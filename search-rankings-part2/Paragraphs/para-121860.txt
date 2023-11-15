@@ -1,0 +1,14 @@
+36,66,10
+1,1
+rs,1
+6,1
+in,2
+the,3
+original,1
+error,1
+was,1
+corrected,1
+following,1
+issue,1
+of,1
+navajivan,1

@@ -1,0 +1,17 @@
+20,215,10
+1,1
+mia,1
+mahomed,2
+haji,1
+jan,1
+chhotani,1
+2,1
+for,1
+going,1
+to,1
+england,1
+in,1
+connection,1
+with,1
+khilafat,1
+movement,1

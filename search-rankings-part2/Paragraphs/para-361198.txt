@@ -1,0 +1,5 @@
+93,235,2
+kazirbazar,1
+january,1
+4,1
+1947,1

@@ -1,0 +1,6 @@
+50,180,2
+tuesday,1
+morning,1
+october,1
+28,1
+1930,1

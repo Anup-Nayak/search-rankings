@@ -1,0 +1,12 @@
+90,33,12
+1,1
+this,1
+is,1
+in,1
+gujarati,1
+2,1
+wife,1
+of,1
+ratilal,1
+p,1
+mehta,1

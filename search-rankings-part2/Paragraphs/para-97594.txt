@@ -1,0 +1,9 @@
+29,16,4
+1,1
+asudomal,1
+tekchand,1
+gidwani,1
+of,1
+the,1
+gujarati,1
+vidyapith,1

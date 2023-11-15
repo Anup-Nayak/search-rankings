@@ -1,0 +1,11 @@
+86,30,4
+blessings,1
+from,1
+bapu,1
+dr,1
+chimandas,1
+isardas,1
+10,1
+amil,1
+colony,1
+hyderabadsind,1

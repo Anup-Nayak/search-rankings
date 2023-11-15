@@ -1,0 +1,17 @@
+12,350,18
+arrived,1
+in,4
+mozambique,1
+address,1
+the,2
+city,1
+morning,1
+went,1
+round,1
+a,1
+rikshaw,1
+steamer,1
+left,1
+after,1
+three,1
+hours,1

@@ -1,0 +1,11 @@
+21,48,9
+martial,2
+law,2
+then,1
+under,1
+trial,1
+before,1
+the,1
+commissions,1
+will,1
+be,1

@@ -1,0 +1,4 @@
+79,174,6
+khadi,1
+and,1
+purity,1

@@ -1,0 +1,8 @@
+77,35,4
+advise,1
+patience,1
+send,1
+details,1
+what,1
+goes,1
+on,1

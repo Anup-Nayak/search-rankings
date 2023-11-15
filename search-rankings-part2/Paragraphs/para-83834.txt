@@ -1,0 +1,10 @@
+24,432,2
+ashram,1
+wednesday,1
+on,1
+or,1
+after,1
+october,1
+19,1
+1921,1
+1,1

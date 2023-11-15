@@ -1,0 +1,11 @@
+82,405,11
+to,1
+death,1
+in,2
+european,1
+countries,1
+private,1
+philanthropy,1
+and,1
+governments,1
+have,1

@@ -1,0 +1,6 @@
+75,300,10
+3,1
+sons,1
+of,1
+vrajlal,1
+gandhi,1

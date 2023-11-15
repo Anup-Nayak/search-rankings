@@ -1,0 +1,6 @@
+48,76,3
+78,1
+immorality,1
+in,1
+holy,1
+places,1

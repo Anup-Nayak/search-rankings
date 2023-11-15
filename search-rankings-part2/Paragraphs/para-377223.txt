@@ -1,0 +1,9 @@
+98,38,7
+atmosphere,1
+it,1
+is,1
+a,1
+narrow,1
+and,1
+subjective,1
+approach,1

@@ -1,0 +1,11 @@
+39,239,3
+ottama,1
+bhikkhu,1
+maha,1
+bodhi,1
+society,1
+4,1
+a,1
+college,1
+square,1
+calcutta,1

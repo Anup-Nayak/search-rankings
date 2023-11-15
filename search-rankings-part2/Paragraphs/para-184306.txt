@@ -1,0 +1,6 @@
+52,232,7
+319,1
+letter,1
+to,1
+cowasji,1
+jehangir,1

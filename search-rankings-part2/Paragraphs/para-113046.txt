@@ -1,0 +1,17 @@
+33,320,1
+consent,1
+to,2
+have,2
+the,2
+wedding,2
+performed,1
+at,1
+sabarmati,1
+it,1
+is,1
+no,2
+botheration,1
+trouble,1
+for,1
+me,1
+there,1

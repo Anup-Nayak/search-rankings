@@ -1,0 +1,15 @@
+72,17,10
+it,1
+is,1
+a,1
+good,1
+thing,1
+that,1
+you,1
+are,1
+giving,1
+training,1
+to,1
+the,1
+teachers,1
+in,1

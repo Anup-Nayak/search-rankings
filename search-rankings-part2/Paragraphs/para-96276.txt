@@ -1,0 +1,15 @@
+28,346,5
+letter,2
+to,1
+you,1
+my,1
+privilege,1
+will,1
+be,1
+due,1
+at,1
+the,2
+end,1
+of,1
+next,1
+month,1

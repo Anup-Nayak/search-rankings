@@ -1,0 +1,9 @@
+54,125,8
+67,1
+statement,1
+at,1
+the,1
+federal,1
+structure,1
+committee,1
+1,1

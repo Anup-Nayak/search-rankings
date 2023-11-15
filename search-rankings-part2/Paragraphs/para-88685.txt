@@ -1,0 +1,8 @@
+26,215,6
+1,1
+not,1
+reproduced,2
+here,2
+2,1
+only,1
+excerpts,1

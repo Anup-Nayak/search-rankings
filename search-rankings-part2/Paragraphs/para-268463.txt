@@ -1,0 +1,11 @@
+72,160,2
+i,1
+shall,1
+esteem,1
+your,1
+kindly,1
+asking,1
+for,1
+reply,1
+to,1
+be,1

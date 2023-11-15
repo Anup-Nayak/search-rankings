@@ -1,0 +1,10 @@
+3,87,9
+the,2
+position,1
+in,1
+transvaal,1
+up,1
+to,1
+6th,1
+june,1
+1903,1

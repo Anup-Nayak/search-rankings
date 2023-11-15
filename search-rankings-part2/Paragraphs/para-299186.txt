@@ -1,0 +1,7 @@
+79,403,11
+received,1
+now,1
+long,1
+telegram,1
+impossible,1
+my,1

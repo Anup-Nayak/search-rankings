@@ -1,0 +1,11 @@
+51,437,4
+will,1
+be,1
+prepared,1
+to,2
+recognize,1
+the,3
+principle,1
+of,2
+responsibility,1
+executive,1

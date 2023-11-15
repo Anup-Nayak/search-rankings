@@ -1,0 +1,15 @@
+38,40,8
+1,1
+pausa,2
+sud,2
+6,1
+seems,1
+to,1
+be,1
+a,2
+slip,1
+for,1
+7,1
+which,1
+was,1
+monday,1

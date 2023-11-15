@@ -1,0 +1,5 @@
+84,86,13
+shri,1
+maneklal,1
+amritlal,1
+gandhi,1

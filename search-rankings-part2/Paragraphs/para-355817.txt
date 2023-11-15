@@ -1,0 +1,14 @@
+92,131,9
+the,3
+president,1
+of,2
+united,1
+states,1
+has,1
+ordered,1
+a,1
+drastic,1
+cut,1
+in,1
+quota,1
+wheat,1

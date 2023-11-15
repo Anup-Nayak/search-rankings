@@ -1,0 +1,7 @@
+86,66,6
+129,1
+letter,1
+to,1
+dr,1
+subodh,1
+mitra,1

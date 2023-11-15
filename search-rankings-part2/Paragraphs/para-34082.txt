@@ -1,0 +1,8 @@
+11,60,1
+for,1
+refusing,1
+to,1
+carry,1
+sanitary,1
+pails,1
+threatened,1

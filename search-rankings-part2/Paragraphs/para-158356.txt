@@ -1,0 +1,16 @@
+46,9,12
+save,1
+them,1
+also,1
+from,1
+this,1
+sin,1
+we,1
+are,1
+deceiving,1
+you,2
+and,1
+honouring,1
+it,1
+is,1
+a,1

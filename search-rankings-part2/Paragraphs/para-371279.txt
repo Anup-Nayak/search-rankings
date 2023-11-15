@@ -1,0 +1,13 @@
+96,186,1
+267,1
+buried,2
+alive,2
+a,1
+correspondent,1
+from,1
+hyderabad,1
+deccan,1
+writes,1
+gandhi,1
+is,1
+being,1

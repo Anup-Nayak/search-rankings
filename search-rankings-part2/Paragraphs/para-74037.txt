@@ -1,0 +1,12 @@
+21,260,4
+mr,1
+gandhi,1
+interviewed,1
+on,1
+questions,1
+of,1
+indians,1
+abroad,1
+made,1
+a,1
+definite,1

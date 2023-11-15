@@ -1,0 +1,7 @@
+13,141,10
+minister,1
+not,1
+sufficient,1
+as,1
+it,1
+contemplates,1

@@ -1,0 +1,9 @@
+14,8,16
+drawal,1
+outside,1
+help,1
+there,1
+is,1
+hope,1
+stop,1
+sending,1

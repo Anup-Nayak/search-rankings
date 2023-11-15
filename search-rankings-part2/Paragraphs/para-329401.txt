@@ -1,0 +1,8 @@
+86,71,5
+state,1
+vegetables,1
+any,1
+case,1
+advise,1
+half,1
+ounce,1

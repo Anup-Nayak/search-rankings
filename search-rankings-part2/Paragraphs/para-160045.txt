@@ -1,0 +1,13 @@
+46,202,5
+one,1
+enjoys,1
+immortality,1
+it,1
+is,2
+the,1
+supreme,1
+brahman,1
+which,2
+has,1
+no,1
+beginning,1

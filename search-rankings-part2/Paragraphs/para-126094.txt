@@ -1,0 +1,8 @@
+37,40,2
+the,1
+true,1
+spirit,1
+a,1
+correspondent,1
+writes,1
+1,1

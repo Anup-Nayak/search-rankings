@@ -1,0 +1,6 @@
+33,358,12
+kanpur,1
+monday,1
+december,1
+28,1
+1925,1

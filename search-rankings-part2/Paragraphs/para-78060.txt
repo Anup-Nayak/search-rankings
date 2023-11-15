@@ -1,0 +1,15 @@
+22,448,6
+wired,1
+karachi,1
+if,1
+non,1
+co,1
+operators,1
+try,1
+nationalize,1
+education,1
+they,1
+need,1
+not,1
+be,1
+stopped,1

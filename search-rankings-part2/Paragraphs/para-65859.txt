@@ -1,0 +1,7 @@
+19,8,13
+although,1
+time,1
+selected,1
+unintentional,1
+labourers,1
+will,1

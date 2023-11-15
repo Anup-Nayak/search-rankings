@@ -1,0 +1,12 @@
+88,5,4
+yours,1
+m,1
+k,1
+gandhi,1
+smt,1
+d,1
+parimala,1
+2681,1
+v,2
+minalla,1
+mysore,1

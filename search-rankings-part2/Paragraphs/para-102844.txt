@@ -1,0 +1,16 @@
+30,209,7
+a,1
+yes,1
+sir,1
+he,1
+was,2
+also,1
+there,1
+when,1
+the,1
+deputation,1
+talking,1
+to,1
+me,1
+about,1
+this,1

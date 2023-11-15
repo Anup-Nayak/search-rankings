@@ -1,0 +1,8 @@
+64,158,4
+200,1
+speech,1
+at,1
+parsis,1
+meeting,1
+karachi,1
+2,1

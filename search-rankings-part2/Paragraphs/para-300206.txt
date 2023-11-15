@@ -1,0 +1,17 @@
+80,30,8
+as,1
+we,1
+are,1
+trying,1
+to,1
+do,2
+ours,1
+outside,1
+keep,1
+yourself,1
+well,1
+and,1
+complete,1
+your,1
+hindi,1
+learning,1

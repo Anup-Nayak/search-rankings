@@ -1,0 +1,14 @@
+44,475,19
+t6,1
+for,1
+vegetarian,1
+society,2
+guj,1
+has,1
+a,1
+dedicated,1
+to,1
+the,1
+promotion,1
+of,1
+vegetarianism,1

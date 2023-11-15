@@ -1,0 +1,11 @@
+1,186,4
+2,1
+an,1
+english,1
+rendering,1
+in,1
+verse,1
+of,1
+the,1
+bhagavad,1
+gita,1

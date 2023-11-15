@@ -1,0 +1,6 @@
+36,319,1
+359,1
+letter,1
+to,1
+shaukat,1
+ali,1

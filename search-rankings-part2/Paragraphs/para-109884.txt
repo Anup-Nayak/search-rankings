@@ -1,0 +1,5 @@
+32,346,1
+220,1
+hookworm,1
+and,1
+charkha,1

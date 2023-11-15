@@ -1,0 +1,11 @@
+77,96,9
+freedom,1
+all,1
+other,1
+issues,1
+are,1
+subordinate,1
+the,1
+question,1
+of,1
+minorities,1

@@ -1,0 +1,15 @@
+76,371,13
+1,2
+husband,1
+of,1
+rami,1
+harilal,1
+gandhis,1
+daughter,1
+2,1
+jugatram,1
+vaidya,1
+vide,1
+the,1
+preceding,1
+item,1

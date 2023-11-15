@@ -1,0 +1,6 @@
+70,16,1
+fasting,1
+on,1
+milk,1
+and,1
+fruit,1

@@ -1,0 +1,7 @@
+64,128,5
+165,1
+speech,1
+at,1
+public,1
+meeting,1
+ajmer,1

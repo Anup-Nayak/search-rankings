@@ -1,0 +1,6 @@
+81,20,9
+36,1
+telegram,1
+to,1
+jamnalal,1
+bajaj,1

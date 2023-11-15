@@ -1,0 +1,13 @@
+17,214,6
+2,1
+the,1
+traditional,1
+indian,1
+social,1
+system,1
+based,1
+on,1
+birth,1
+and,1
+hereditary,1
+occupation,1

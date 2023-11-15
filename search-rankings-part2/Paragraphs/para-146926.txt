@@ -1,0 +1,17 @@
+42,465,7
+the,2
+fact,1
+that,1
+present,1
+struggle,1
+in,1
+bardoli,1
+is,2
+a,1
+purely,1
+economic,1
+one,1
+it,1
+no,1
+part,1
+of,1

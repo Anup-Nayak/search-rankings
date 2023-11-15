@@ -1,0 +1,4 @@
+33,316,2
+potency,1
+of,1
+charkha,1

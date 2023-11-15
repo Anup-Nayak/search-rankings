@@ -1,0 +1,12 @@
+60,193,3
+should,1
+learn,1
+to,1
+be,1
+a,1
+teacher,1
+from,1
+gujarati,1
+bapuni,1
+prasadi,1
+p,1

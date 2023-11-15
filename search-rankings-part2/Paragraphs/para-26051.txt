@@ -1,0 +1,13 @@
+8,480,7
+coloured,2
+person,2
+shall,1
+mean,1
+any,1
+african,1
+or,3
+asiatic,1
+native,1
+american,1
+coolie,1
+chinaman,1

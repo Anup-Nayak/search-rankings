@@ -1,0 +1,12 @@
+78,197,8
+1,1
+the,2
+source,1
+has,1
+truth,1
+2,1
+this,1
+appeared,1
+under,1
+title,1
+notes,1

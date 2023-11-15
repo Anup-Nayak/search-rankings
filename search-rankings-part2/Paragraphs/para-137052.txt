@@ -1,0 +1,7 @@
+40,92,1
+52,1
+letter,1
+to,1
+vijay,1
+singh,1
+pathik,1

@@ -1,0 +1,6 @@
+1,274,3
+to,1
+the,2
+editor,1
+natal,1
+mercury,1

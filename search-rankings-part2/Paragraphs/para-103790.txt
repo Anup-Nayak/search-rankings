@@ -1,0 +1,4 @@
+30,322,10
+inform,1
+vallabhbhai,1
+ashram,1

@@ -1,0 +1,13 @@
+12,221,2
+tolstoy,1
+farm,1
+lawley,1
+station,1
+transvaal,1
+ashadh,1
+shukla,1
+14,1
+july,1
+27,1
+1912,1
+2,1

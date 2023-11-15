@@ -1,0 +1,16 @@
+6,359,5
+4,1
+permits,1
+should,1
+also,1
+be,1
+issued,1
+to,1
+boys,1
+and,1
+girls,1
+who,1
+have,1
+come,1
+of,1
+age,1

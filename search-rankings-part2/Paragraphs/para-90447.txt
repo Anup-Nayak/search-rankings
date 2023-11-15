@@ -1,0 +1,12 @@
+27,15,7
+mahatma,1
+gandhi,1
+has,1
+written,1
+to,2
+mr,1
+mahomed,1
+yakub,1
+requesting,1
+him,1
+desist,1

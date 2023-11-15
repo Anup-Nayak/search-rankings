@@ -1,0 +1,7 @@
+92,0,3
+2,2
+what,1
+a,1
+child,1
+can,1
+give,1

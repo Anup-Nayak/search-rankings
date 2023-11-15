@@ -1,0 +1,6 @@
+89,396,3
+h,2
+the,1
+aga,1
+khan,1
+kapurthala,1

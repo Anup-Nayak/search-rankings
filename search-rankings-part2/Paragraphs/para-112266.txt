@@ -1,0 +1,16 @@
+33,230,5
+the,2
+secretary,1
+has,1
+handed,1
+me,1
+following,1
+list,1
+of,1
+yarn,1
+subscriptions,1
+received,1
+to,1
+date,1
+from,1
+members,1

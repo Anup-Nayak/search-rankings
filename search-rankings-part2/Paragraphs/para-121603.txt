@@ -1,0 +1,11 @@
+36,31,6
+vandemataram,1
+from,1
+mohandas,1
+shri,1
+paramanand,1
+kunverji,1
+137,1
+sharif,1
+bazar,1
+bombay,1

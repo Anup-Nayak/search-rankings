@@ -1,0 +1,8 @@
+22,287,4
+the,2
+fourth,1
+question,1
+is,1
+important,1
+gentleman,1
+writes,1

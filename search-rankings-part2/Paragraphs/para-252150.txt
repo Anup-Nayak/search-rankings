@@ -1,0 +1,7 @@
+68,101,4
+122,1
+letter,1
+to,1
+bhagwanji,1
+a,1
+mehta,1

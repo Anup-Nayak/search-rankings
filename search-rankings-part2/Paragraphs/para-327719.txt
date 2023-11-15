@@ -1,0 +1,13 @@
+85,375,11
+1,1
+the,1
+six,1
+enemies,1
+viz,1
+desire,1
+anger,1
+greed,1
+attachment,1
+pride,1
+and,1
+envy,1

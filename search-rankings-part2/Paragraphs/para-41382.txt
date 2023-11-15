@@ -1,0 +1,6 @@
+12,406,3
+288,1
+what,1
+a,1
+fine,1
+suggestion,1

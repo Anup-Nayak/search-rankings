@@ -1,0 +1,6 @@
+36,224,7
+255,1
+letter,1
+to,1
+avantikabai,1
+gokhale,1

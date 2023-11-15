@@ -1,0 +1,14 @@
+93,102,4
+1,1
+this,2
+sentence,2
+is,2
+reproduced,2
+from,2
+hindustan,2
+standard,2
+8,1
+12,2
+1946,2
+2,1
+9,1

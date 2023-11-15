@@ -1,0 +1,7 @@
+57,147,6
+256,1
+letter,1
+to,1
+lakshmi,1
+d,1
+dafda,1

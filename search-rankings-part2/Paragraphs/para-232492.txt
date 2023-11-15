@@ -1,0 +1,17 @@
+63,416,8
+2,1
+if,1
+all,1
+religions,1
+are,2
+one,1
+in,1
+your,1
+consideration,1
+the,1
+christians,1
+not,1
+entitled,1
+to,1
+combat,1
+untouchability,1

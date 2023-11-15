@@ -1,0 +1,15 @@
+15,478,8
+witness,1
+man,1
+ploughed,1
+up,1
+the,3
+whole,1
+land,1
+crop,1
+was,1
+of,1
+wry,1
+poor,1
+quality,1
+and,1

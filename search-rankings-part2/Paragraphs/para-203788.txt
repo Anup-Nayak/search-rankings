@@ -1,0 +1,6 @@
+57,100,11
+central,1
+prison,1
+belgaum,1
+from,1
+gujarati,1

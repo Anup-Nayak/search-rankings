@@ -1,0 +1,6 @@
+39,8,1
+10,1
+speech,1
+at,1
+chikballapur,1
+1,1

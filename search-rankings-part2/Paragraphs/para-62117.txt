@@ -1,0 +1,5 @@
+17,395,2
+destroy,1
+all,1
+foreign,1
+clothing,1

@@ -1,0 +1,7 @@
+54,277,6
+q,1
+does,1
+psychological,1
+influence,1
+promote,1
+healing,1

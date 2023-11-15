@@ -1,0 +1,16 @@
+70,27,3
+1,1
+the,2
+two,1
+paragraphs,1
+that,1
+follow,1
+have,1
+been,1
+taken,1
+from,1
+english,1
+version,1
+published,1
+in,1
+harijan,1

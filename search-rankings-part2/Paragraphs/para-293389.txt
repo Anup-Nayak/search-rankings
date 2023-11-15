@@ -1,0 +1,8 @@
+78,186,14
+harmony,1
+hope,1
+meeting,1
+will,1
+succeed,1
+in,1
+devising,1

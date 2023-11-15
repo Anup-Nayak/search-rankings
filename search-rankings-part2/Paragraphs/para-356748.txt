@@ -1,0 +1,12 @@
+92,233,14
+a,3
+you,1
+can,1
+not,1
+sacrifice,1
+principle,1
+to,1
+gain,1
+doubtful,1
+advan,1
+tage,1

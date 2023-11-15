@@ -1,0 +1,7 @@
+43,216,6
+canadian,1
+baptist,1
+mission,1
+vuyyuru,1
+kistna,1
+district,1

@@ -1,0 +1,13 @@
+73,22,12
+the,1
+gandhi,1
+seva,1
+sangh,1
+he,1
+proposed,1
+to,1
+concentrate,1
+all,1
+his,2
+attention,1
+during,1

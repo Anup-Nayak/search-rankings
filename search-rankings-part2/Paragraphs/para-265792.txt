@@ -1,0 +1,10 @@
+71,303,11
+bulsar,1
+june,1
+1,1
+1937,1
+anand,1
+hingorani,1
+shikapuri,1
+colony,1
+karachi,1

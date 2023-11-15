@@ -1,0 +1,17 @@
+26,334,4
+2,1
+that,1
+mass,1
+civil,1
+disobedience,1
+should,2
+not,1
+be,2
+taken,1
+up,1
+and,1
+non,1
+violence,1
+strictly,1
+adhered,1
+to,1

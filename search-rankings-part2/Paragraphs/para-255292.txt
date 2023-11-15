@@ -1,0 +1,12 @@
+68,442,9
+3,1
+village,1
+life,1
+means,1
+simplicity,1
+and,1
+freedom,1
+from,1
+contamination,1
+of,1
+urban,1

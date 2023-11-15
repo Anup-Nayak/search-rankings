@@ -1,0 +1,17 @@
+85,230,4
+blessings,1
+from,2
+bapu,1
+ps,1
+show,1
+this,1
+to,3
+bapa,1
+if,2
+you,2
+can,1
+dont,1
+hesitate,1
+write,1
+me,2
+differ,1

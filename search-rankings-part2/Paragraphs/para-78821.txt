@@ -1,0 +1,7 @@
+23,69,1
+28,1
+speech,1
+at,1
+meeting,1
+in,1
+surat,1

@@ -1,0 +1,10 @@
+52,50,3
+gulzari,1
+lal,2
+nanda,1
+textile,1
+labour,2
+association,1
+office,1
+darwaza,1
+ahmedabad,1

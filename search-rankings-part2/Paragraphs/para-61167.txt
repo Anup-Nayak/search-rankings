@@ -1,0 +1,10 @@
+17,281,4
+ashram,1
+sabarmati,1
+tuesday,1
+maha,1
+sud,1
+11,2
+february,1
+1919,1
+1,1

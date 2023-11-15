@@ -1,0 +1,9 @@
+42,191,5
+a,1
+gentleman,1
+writes,1
+from,1
+bardoli,1
+satyagraha,1
+camp,1
+1,1

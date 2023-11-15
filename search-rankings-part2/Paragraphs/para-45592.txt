@@ -1,0 +1,10 @@
+13,452,22
+public,1
+opinion,1
+in,1
+south,1
+africa,1
+would,1
+be,1
+very,1
+serious,1

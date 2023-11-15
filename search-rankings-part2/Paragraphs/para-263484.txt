@@ -1,0 +1,7 @@
+71,12,5
+the,2
+religions,1
+of,1
+world,1
+p,1
+80,1

@@ -1,0 +1,13 @@
+78,283,9
+kulkarnis,1
+do,1
+not,2
+accept,1
+land,1
+revenue,1
+if,1
+the,1
+agriculturist,1
+does,1
+buy,1
+these,1

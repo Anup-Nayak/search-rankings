@@ -1,0 +1,7 @@
+47,85,5
+wire,1
+result,1
+gangabehns,1
+fast,1
+her,1
+health,1

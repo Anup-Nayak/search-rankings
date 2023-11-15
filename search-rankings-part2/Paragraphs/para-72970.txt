@@ -1,0 +1,14 @@
+21,67,3
+had,2
+done,1
+his,2
+duty,1
+but,1
+deputy,1
+was,1
+of,1
+opinion,1
+that,1
+gandhi,1
+gone,1
+mad,1

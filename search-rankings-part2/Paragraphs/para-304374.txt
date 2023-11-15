@@ -1,0 +1,14 @@
+80,426,8
+1,1
+muhammad,1
+ahmad,1
+said,1
+khan,1
+nawab,1
+of,2
+chhatari,1
+member,1
+the,1
+national,1
+defence,1
+council,1

@@ -1,0 +1,10 @@
+15,362,5
+mohandas,1
+gandhi,1
+bhaishri,1
+harilal,1
+maneklal,1
+desai,1
+tapini,1
+khadki,1
+kapadwanj,1

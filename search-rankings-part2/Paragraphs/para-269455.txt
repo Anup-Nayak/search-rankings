@@ -1,0 +1,7 @@
+72,281,3
+a,1
+college,1
+student,1
+of,1
+bangalore,1
+writes,1

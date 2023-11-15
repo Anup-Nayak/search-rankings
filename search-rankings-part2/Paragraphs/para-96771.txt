@@ -1,0 +1,4 @@
+28,422,3
+earning,1
+through,1
+weaving,1

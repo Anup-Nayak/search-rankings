@@ -1,0 +1,17 @@
+27,311,1
+i,1
+am,1
+sending,1
+with,1
+this,1
+letter,1
+an,1
+article,1
+for,1
+hindi,2
+navajivan,2
+please,1
+send,1
+regularly,1
+to,1
+me,1

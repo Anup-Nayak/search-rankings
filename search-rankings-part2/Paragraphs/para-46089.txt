@@ -1,0 +1,10 @@
+14,20,6
+they,1
+had,1
+a,1
+very,1
+rough,1
+passage,1
+we,1
+are,1
+now,1

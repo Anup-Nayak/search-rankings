@@ -1,0 +1,7 @@
+3,236,1
+152,1
+from,1
+slave,1
+to,1
+college,1
+president,1

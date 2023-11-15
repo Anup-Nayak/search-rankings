@@ -1,0 +1,7 @@
+78,139,6
+140,1
+letter,1
+to,1
+devchand,1
+u,1
+parekh,1

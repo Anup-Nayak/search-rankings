@@ -1,0 +1,7 @@
+11,178,4
+196,1
+unhappy,1
+indentured,1
+labourers,1
+of,1
+mauritius,1

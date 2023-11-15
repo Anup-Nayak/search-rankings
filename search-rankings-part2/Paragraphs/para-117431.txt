@@ -1,0 +1,4 @@
+35,10,7
+shri,1
+ramrish,1
+thakur,1

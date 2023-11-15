@@ -1,0 +1,8 @@
+14,157,24
+triple,1
+domicile,1
+never,1
+hitherto,1
+questioned,1
+and,1
+what,1

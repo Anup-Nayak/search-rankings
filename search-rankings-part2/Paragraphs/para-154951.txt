@@ -1,0 +1,12 @@
+45,7,8
+mahatmaji,1
+in,1
+accepting,1
+the,2
+purse,1
+thanked,1
+citizens,1
+of,1
+karachi,1
+for,1
+having,1

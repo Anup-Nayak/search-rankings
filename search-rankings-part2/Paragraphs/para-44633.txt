@@ -1,0 +1,9 @@
+13,376,7
+was,1
+and,1
+is,1
+not,1
+now,1
+the,2
+intention,1
+strike,1

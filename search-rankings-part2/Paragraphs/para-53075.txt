@@ -1,0 +1,7 @@
+15,336,9
+not,1
+for,1
+publication,1
+care,1
+district,1
+magistrate,1

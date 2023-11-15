@@ -1,0 +1,8 @@
+64,48,4
+72,1
+speech,1
+to,1
+harijan,1
+workers,1
+bhadrak,1
+2,1

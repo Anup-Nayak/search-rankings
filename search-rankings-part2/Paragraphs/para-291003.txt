@@ -1,0 +1,16 @@
+77,395,15
+power,1
+after,1
+remaining,1
+out,1
+of,1
+the,2
+sangh,1
+why,1
+should,1
+we,1
+not,1
+prove,1
+for,1
+world,1
+that,1

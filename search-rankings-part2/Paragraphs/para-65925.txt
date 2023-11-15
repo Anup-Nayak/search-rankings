@@ -1,0 +1,6 @@
+19,12,14
+evidence,1
+before,1
+disturbances,1
+committee,1
+suggest,1

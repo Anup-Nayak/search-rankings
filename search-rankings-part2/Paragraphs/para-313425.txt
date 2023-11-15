@@ -1,0 +1,14 @@
+82,298,34
+said,1
+that,1
+many,1
+people,1
+do,1
+yield,1
+to,1
+their,2
+threats,1
+as,1
+otherwise,1
+not,1
+only,1

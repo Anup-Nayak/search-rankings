@@ -1,0 +1,11 @@
+52,112,2
+women,1
+who,1
+have,1
+the,1
+following,1
+qualifications,1
+can,1
+join,1
+it,1
+2,1

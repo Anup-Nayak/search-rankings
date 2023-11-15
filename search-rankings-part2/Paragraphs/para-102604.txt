@@ -1,0 +1,10 @@
+30,196,18
+q,1
+have,1
+you,1
+read,1
+the,1
+whole,1
+of,1
+this,1
+pamphlet,1

@@ -1,0 +1,6 @@
+90,5,3
+1vide,1
+also,1
+conflict,1
+of,1
+ideas,1

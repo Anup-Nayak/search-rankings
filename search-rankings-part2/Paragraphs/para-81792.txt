@@ -1,0 +1,7 @@
+24,79,6
+certainly,1
+can,1
+print,1
+fort,1
+speech,1
+navajivan,1

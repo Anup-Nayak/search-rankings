@@ -1,0 +1,16 @@
+47,151,14
+went,1
+to,1
+his,1
+mother,1
+killed,1
+her,2
+cut,1
+the,1
+heart,1
+from,1
+body,1
+and,1
+holding,1
+it,1
+in,1

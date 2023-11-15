@@ -1,0 +1,13 @@
+24,145,6
+1,1
+grandson,1
+of,1
+lord,1
+krishna,1
+2,1
+vishnu,1
+the,2
+preserver,1
+3,1
+siva,1
+destroyer,1

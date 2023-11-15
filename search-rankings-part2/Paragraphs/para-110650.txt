@@ -1,0 +1,12 @@
+32,460,18
+legislative,1
+effect,1
+to,1
+the,2
+minority,1
+report,1
+embodying,1
+as,1
+it,1
+does,1
+practical,1

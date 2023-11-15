@@ -1,0 +1,12 @@
+93,332,10
+1,1
+it,1
+being,1
+gandhijis,1
+silence,1
+day,1
+the,1
+speech,1
+was,1
+read,1
+out,1

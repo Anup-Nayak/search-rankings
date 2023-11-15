@@ -1,0 +1,11 @@
+98,39,4
+question,1
+that,1
+being,1
+the,2
+congressmens,1
+psychology,1
+what,1
+is,1
+use,1
+of,1

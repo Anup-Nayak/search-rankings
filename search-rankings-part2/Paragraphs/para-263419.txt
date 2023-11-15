@@ -1,0 +1,16 @@
+71,3,5
+c,1
+what,1
+about,1
+a,1
+man,1
+who,1
+says,1
+he,1
+is,1
+commanded,1
+by,1
+god,1
+to,1
+do,1
+violence,1

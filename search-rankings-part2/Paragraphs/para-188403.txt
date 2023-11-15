@@ -1,0 +1,9 @@
+53,210,11
+or,1
+if,1
+they,2
+do,2
+so,1
+under,1
+circumstances,1
+which,1

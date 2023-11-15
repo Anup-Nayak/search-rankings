@@ -1,0 +1,16 @@
+36,508,9
+should,1
+i,2
+kill,1
+it,1
+supposing,1
+that,2
+is,1
+the,1
+only,1
+way,1
+in,1
+which,1
+can,1
+save,1
+myself,1

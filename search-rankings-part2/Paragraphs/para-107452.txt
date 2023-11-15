@@ -1,0 +1,16 @@
+31,411,6
+position,1
+in,1
+the,2
+end,1
+poet,1
+asked,1
+him,1
+to,1
+explain,1
+at,1
+length,1
+his,1
+charkha,1
+and,1
+khaddar,1

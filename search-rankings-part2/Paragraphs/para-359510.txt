@@ -1,0 +1,7 @@
+93,46,6
+1,1
+abha,1
+gandhi,2
+wife,1
+of,1
+kanu,1

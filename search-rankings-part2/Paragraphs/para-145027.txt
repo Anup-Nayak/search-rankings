@@ -1,0 +1,6 @@
+42,248,4
+284,1
+the,2
+alps,1
+or,1
+himalayas,1

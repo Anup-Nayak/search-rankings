@@ -1,0 +1,10 @@
+17,302,5
+sabarmati,1
+ashram,1
+maha,1
+vad,1
+10,1
+february,1
+25,1
+1919,1
+2,1

@@ -1,0 +1,12 @@
+46,122,2
+1,1
+dr,1
+hariprasad,1
+vrajrai,1
+desai,1
+physican,1
+and,1
+congress,1
+worker,1
+of,1
+ahmedabad,1

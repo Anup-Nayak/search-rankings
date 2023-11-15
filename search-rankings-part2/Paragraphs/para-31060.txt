@@ -1,0 +1,5 @@
+10,161,5
+ethics,1
+of,1
+passive,1
+resistance,1

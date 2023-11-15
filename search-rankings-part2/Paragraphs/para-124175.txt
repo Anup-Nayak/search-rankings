@@ -1,0 +1,8 @@
+36,332,2
+a,1
+resident,1
+of,1
+bardoli,1
+taluka,1
+writes,1
+1,1

@@ -1,0 +1,8 @@
+49,221,10
+1,1
+addressees,2
+father,1
+2,1
+dev,1
+kunvar,1
+mother,1

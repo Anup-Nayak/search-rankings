@@ -1,0 +1,11 @@
+81,235,9
+bapu,1
+shri,1
+balkrishna,1
+vadilal,1
+sarabhai,1
+arogya,1
+bhavan,1
+panchgani,1
+district,1
+satara,1

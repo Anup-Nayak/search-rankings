@@ -1,0 +1,17 @@
+54,171,6
+to,1
+withdraw,1
+the,1
+army,1
+it,1
+is,1
+a,2
+responsibility,1
+that,1
+i,1
+think,1
+no,1
+statesman,1
+who,1
+has,1
+real,1

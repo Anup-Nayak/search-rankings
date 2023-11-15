@@ -1,0 +1,4 @@
+57,36,12
+jamshed,1
+mehta,1
+karachi,1

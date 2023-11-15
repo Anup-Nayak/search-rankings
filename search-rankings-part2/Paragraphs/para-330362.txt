@@ -1,0 +1,8 @@
+86,160,9
+a,1
+it,1
+has,1
+political,1
+significance,1
+but,1
+indirectly,1

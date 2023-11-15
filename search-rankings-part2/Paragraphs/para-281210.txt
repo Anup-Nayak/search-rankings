@@ -1,0 +1,8 @@
+75,168,5
+taken,1
+to,1
+rid,1
+congress,1
+of,1
+internal,1
+corruption,1

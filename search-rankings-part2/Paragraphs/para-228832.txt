@@ -1,0 +1,10 @@
+62,403,12
+1,1
+the,1
+addressee,1
+had,1
+been,1
+operated,1
+upon,1
+for,1
+hernia,1

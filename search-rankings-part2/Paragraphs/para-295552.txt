@@ -1,0 +1,10 @@
+78,409,4
+2,1
+the,2
+gujarati,1
+version,1
+has,1
+waziris,1
+and,1
+other,1
+tribes,1

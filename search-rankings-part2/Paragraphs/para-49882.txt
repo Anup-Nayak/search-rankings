@@ -1,0 +1,14 @@
+14,489,12
+9,1
+the,2
+practice,1
+at,1
+present,1
+existing,1
+in,1
+cape,1
+town,1
+office,1
+of,1
+this,1
+department,1

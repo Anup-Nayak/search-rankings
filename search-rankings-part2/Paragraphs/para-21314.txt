@@ -1,0 +1,16 @@
+7,212,2
+there,1
+is,1
+as,2
+great,1
+a,2
+difference,1
+between,2
+this,1
+and,2
+the,1
+transvaal,1
+law,1
+horse,1
+an,1
+elephant,1

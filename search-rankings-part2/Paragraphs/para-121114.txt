@@ -1,0 +1,5 @@
+35,442,5
+thus,1
+writes,1
+mr,1
+spender,1

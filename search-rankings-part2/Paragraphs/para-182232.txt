@@ -1,0 +1,12 @@
+52,13,6
+muslim,1
+conference,1
+referring,1
+to,1
+the,1
+minority,1
+problem,1
+in,2
+egypt,1
+says,1
+my,1

@@ -1,0 +1,15 @@
+19,142,3
+when,1
+in,1
+lahore,1
+i,1
+have,1
+gone,1
+out,1
+each,1
+morning,1
+to,1
+watch,1
+the,1
+sun,1
+rise,1

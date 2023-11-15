@@ -1,0 +1,6 @@
+67,187,3
+294,1
+faeces,1
+as,1
+cattle,1
+food,1

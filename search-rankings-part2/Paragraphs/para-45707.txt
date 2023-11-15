@@ -1,0 +1,9 @@
+13,463,5
+duplicates,1
+of,2
+lost,1
+permits,1
+carry,1
+a,1
+fee,1
+2,1

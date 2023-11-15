@@ -1,0 +1,14 @@
+82,384,19
+democracies,1
+while,1
+the,2
+smaller,1
+states,1
+would,1
+have,1
+to,1
+be,1
+absorbed,1
+into,1
+larger,1
+ones,1

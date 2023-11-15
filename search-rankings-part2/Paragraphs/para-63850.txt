@@ -1,0 +1,13 @@
+18,145,4
+7,1
+places,1
+and,1
+firms,1
+manu,1
+facturing,1
+handloom,1
+1,1
+mr,1
+tikekar,1
+of,1
+sholapur,1

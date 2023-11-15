@@ -1,0 +1,12 @@
+84,375,3
+gandhi,1
+jinnah,1
+talks,1
+pp,1
+38,1
+9,2
+and,1
+the,1
+hindu,1
+13,1
+1944,1

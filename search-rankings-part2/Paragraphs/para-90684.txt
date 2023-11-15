@@ -1,0 +1,6 @@
+27,47,2
+47,1
+farewell,1
+speech,1
+poona,1
+1,1

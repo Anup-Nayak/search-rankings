@@ -1,0 +1,10 @@
+65,330,6
+1,1
+hope,1
+every,1
+delhi,1
+vote,1
+will,1
+be,1
+cast,1
+in,1

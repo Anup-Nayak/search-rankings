@@ -1,0 +1,15 @@
+23,302,28
+he,1
+had,1
+been,1
+asked,1
+at,1
+the,1
+previous,1
+days,1
+meeting,1
+whether,1
+they,1
+should,1
+not,1
+wear,1

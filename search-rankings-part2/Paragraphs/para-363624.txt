@@ -1,0 +1,7 @@
+94,61,13
+can,1
+we,1
+women,1
+do,1
+about,1
+it,1

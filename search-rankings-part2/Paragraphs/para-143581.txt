@@ -1,0 +1,11 @@
+42,64,12
+do,1
+keep,1
+writing,1
+to,1
+me,2
+without,1
+expecting,1
+a,1
+letter,1
+from,1

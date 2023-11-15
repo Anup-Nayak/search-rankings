@@ -1,0 +1,7 @@
+12,65,3
+50,1
+the,1
+fool,1
+and,1
+his,1
+brothers,1

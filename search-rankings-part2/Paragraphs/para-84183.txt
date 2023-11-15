@@ -1,0 +1,17 @@
+24,473,9
+assault,1
+a,1
+policeman,1
+he,1
+did,1
+not,1
+use,1
+any,1
+criminal,1
+force,1
+i,1
+asked,1
+him,1
+the,1
+question,1
+his,1

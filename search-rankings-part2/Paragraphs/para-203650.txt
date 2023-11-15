@@ -1,0 +1,8 @@
+57,86,5
+you,2
+can,1
+all,1
+see,1
+me,1
+when,1
+wish,1

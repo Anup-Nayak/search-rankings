@@ -1,0 +1,10 @@
+6,287,1
+263,1
+when,1
+women,1
+are,1
+manly,1
+will,1
+men,1
+be,1
+effeminate,1

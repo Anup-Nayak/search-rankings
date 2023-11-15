@@ -1,0 +1,10 @@
+47,433,10
+1,1
+an,1
+american,1
+on,1
+a,1
+visit,1
+to,1
+india,1
+159,1

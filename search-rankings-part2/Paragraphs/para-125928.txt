@@ -1,0 +1,10 @@
+37,23,4
+yours,1
+sincerely,1
+miss,1
+gertrude,1
+grogan,1
+barnard,1
+college,1
+new,1
+york,1

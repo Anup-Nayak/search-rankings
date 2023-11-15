@@ -1,0 +1,13 @@
+66,210,9
+1,1
+the,4
+occasion,1
+was,1
+28th,1
+anniversary,1
+of,2
+founding,1
+temple,1
+2,1
+sanctification,1
+ritual,1

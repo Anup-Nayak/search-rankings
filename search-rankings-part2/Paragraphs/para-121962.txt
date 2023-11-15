@@ -1,0 +1,6 @@
+36,80,2
+82,1
+letter,1
+to,1
+banarasidas,1
+chaturvedi,1

@@ -1,0 +1,15 @@
+44,20,7
+1,1
+ones,2
+life,1
+one,1
+may,1
+give,1
+up,1
+but,1
+not,1
+pledge,1
+2,1
+from,1
+the,1
+postmark,1

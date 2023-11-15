@@ -1,0 +1,6 @@
+66,8,11
+3,1
+at,1
+karachi,1
+and,1
+lahore,1

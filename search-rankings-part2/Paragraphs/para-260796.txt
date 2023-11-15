@@ -1,0 +1,10 @@
+70,106,7
+shri,1
+babuji,1
+gaurishanker,1
+vyas,1
+hatkeshwar,1
+chowk,1
+rajkot,1
+city,1
+kathiawad,1

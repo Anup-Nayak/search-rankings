@@ -1,0 +1,7 @@
+62,258,5
+284,1
+speech,1
+at,1
+leonard,1
+theological,1
+college,1

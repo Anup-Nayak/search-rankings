@@ -1,0 +1,7 @@
+66,210,5
+309,1
+speech,1
+at,1
+lakshminarayan,1
+devasthan,1
+1,1

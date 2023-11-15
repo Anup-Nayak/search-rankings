@@ -1,0 +1,5 @@
+40,424,3
+284,1
+speech,1
+at,1
+panadura,1

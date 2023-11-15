@@ -1,0 +1,6 @@
+7,25,2
+19,1
+famine,1
+in,1
+south,1
+africa,1

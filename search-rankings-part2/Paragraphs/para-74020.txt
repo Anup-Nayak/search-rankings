@@ -1,0 +1,14 @@
+21,254,4
+this,1
+is,1
+the,3
+full,1
+text,1
+of,2
+mr,1
+gandhis,1
+speech,1
+in,1
+reply,1
+to,1
+criticisms,1

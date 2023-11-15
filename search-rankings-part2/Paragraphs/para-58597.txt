@@ -1,0 +1,8 @@
+16,502,17
+d,1
+extract,1
+from,1
+note,1
+by,1
+w,1
+maude,1

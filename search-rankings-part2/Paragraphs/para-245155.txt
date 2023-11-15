@@ -1,0 +1,12 @@
+66,317,15
+1,1
+this,1
+and,1
+the,2
+following,1
+item,1
+were,1
+written,1
+on,1
+same,1
+postcard,1

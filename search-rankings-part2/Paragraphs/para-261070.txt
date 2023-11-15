@@ -1,0 +1,10 @@
+70,138,4
+q,1
+there,1
+is,1
+this,1
+mood,1
+abroad,1
+in,1
+the,1
+world,1

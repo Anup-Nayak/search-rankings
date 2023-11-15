@@ -1,0 +1,10 @@
+14,469,13
+give,1
+evidence,1
+before,1
+commission,1
+because,1
+it,1
+had,1
+not,1
+been,1

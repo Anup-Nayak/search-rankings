@@ -1,0 +1,5 @@
+25,96,1
+they,1
+find,1
+people,1
+suffering,1

@@ -1,0 +1,10 @@
+11,298,8
+not,2
+asked,1
+before,1
+and,1
+they,1
+do,1
+now,1
+ask,1
+for,1

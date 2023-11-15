@@ -1,0 +1,9 @@
+17,74,28
+in,1
+regard,1
+to,1
+the,2
+military,1
+services,1
+unless,1
+present,1

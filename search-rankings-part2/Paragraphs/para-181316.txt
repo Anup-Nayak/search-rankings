@@ -1,0 +1,10 @@
+51,410,9
+from,1
+the,1
+gujarati,1
+original,1
+ramdas,1
+gandhi,1
+papers,1
+courtesy,1
+nehru,1

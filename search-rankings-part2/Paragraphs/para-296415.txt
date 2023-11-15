@@ -1,0 +1,4 @@
+79,62,4
+punjab,1
+satyagraha,1
+camp,1

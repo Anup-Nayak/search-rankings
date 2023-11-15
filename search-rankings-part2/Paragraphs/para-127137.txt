@@ -1,0 +1,11 @@
+37,213,5
+the,3
+cause,1
+of,2
+disease,1
+is,2
+not,1
+in,1
+stomach,1
+it,1
+indulgence,1

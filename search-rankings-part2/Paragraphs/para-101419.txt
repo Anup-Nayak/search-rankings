@@ -1,0 +1,8 @@
+30,0,5
+2,1
+speech,1
+on,1
+condolence,1
+resolution,1
+belgaum,1
+congress,1

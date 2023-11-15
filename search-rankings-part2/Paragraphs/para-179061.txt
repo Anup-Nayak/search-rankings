@@ -1,0 +1,8 @@
+51,128,17
+not,1
+only,1
+unable,1
+to,1
+bear,1
+further,1
+taxation,1

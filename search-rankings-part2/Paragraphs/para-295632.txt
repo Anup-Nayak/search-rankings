@@ -1,0 +1,10 @@
+78,421,15
+from,1
+a,1
+photostat,1
+of,1
+the,1
+hindu,1
+c,1
+w,1
+10256,1

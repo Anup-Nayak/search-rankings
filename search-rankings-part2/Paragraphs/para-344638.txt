@@ -1,0 +1,8 @@
+89,232,6
+327,1
+talk,1
+to,1
+sufferers,1
+of,1
+august,1
+disturbances,1

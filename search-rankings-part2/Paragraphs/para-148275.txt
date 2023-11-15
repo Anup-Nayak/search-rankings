@@ -1,0 +1,10 @@
+43,140,2
+in,1
+life,1
+replied,1
+the,1
+sage,1
+there,1
+is,1
+no,1
+rest,1

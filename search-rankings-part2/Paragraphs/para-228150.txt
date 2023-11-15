@@ -1,0 +1,17 @@
+62,304,6
+2,1
+gandhiji,1
+opened,1
+an,1
+exhibition,1
+organized,1
+by,1
+the,2
+madras,1
+mahajan,1
+sabha,1
+in,1
+morning,1
+3,1
+jamal,1
+mahomed,1

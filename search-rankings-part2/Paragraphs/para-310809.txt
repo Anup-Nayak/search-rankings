@@ -1,0 +1,12 @@
+82,83,10
+narrow,1
+minded,1
+no,1
+decent,1
+civilized,1
+honest,1
+and,1
+sincere,1
+human,1
+being,1
+who,1

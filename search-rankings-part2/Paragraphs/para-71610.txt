@@ -1,0 +1,14 @@
+20,333,6
+1,1
+wait,1
+and,1
+see,1
+what,1
+the,2
+actual,1
+terms,1
+of,1
+treaty,1
+with,1
+turkey,1
+are,1

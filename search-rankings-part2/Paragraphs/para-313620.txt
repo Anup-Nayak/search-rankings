@@ -1,0 +1,14 @@
+82,310,18
+feared,1
+is,1
+much,1
+more,2
+serious,1
+than,1
+mere,1
+high,1
+prices,1
+viz,1
+or,1
+less,1
+total,1

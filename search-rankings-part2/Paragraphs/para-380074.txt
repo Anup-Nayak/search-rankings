@@ -1,0 +1,4 @@
+98,383,5
+wednesday,1
+pausa,1
+sud,1

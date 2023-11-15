@@ -1,0 +1,14 @@
+9,25,6
+mr,1
+gandhi,1
+said,1
+he,1
+would,1
+raise,1
+no,1
+objection,1
+and,1
+the,1
+case,1
+was,1
+remanded,1

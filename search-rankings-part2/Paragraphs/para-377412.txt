@@ -1,0 +1,10 @@
+98,64,15
+rama=,1
+ideal,5
+son,1
+=,4
+brother,2
+husband,1
+ruler,1
+bharat,1
+lakshman,1

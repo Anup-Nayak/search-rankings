@@ -1,0 +1,10 @@
+21,106,6
+n,1
+a,1
+i,1
+foreign,1
+political,1
+file,1
+no,1
+100,1
+1921,1

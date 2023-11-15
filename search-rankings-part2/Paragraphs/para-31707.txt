@@ -1,0 +1,9 @@
+10,261,1
+english,1
+people,1
+are,1
+at,1
+present,1
+afflicted,1
+by,1
+it,1

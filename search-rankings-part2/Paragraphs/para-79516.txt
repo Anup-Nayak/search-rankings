@@ -1,0 +1,13 @@
+23,196,4
+mahatma,1
+gandhi,1
+first,1
+pleaded,1
+his,1
+inability,1
+to,1
+make,1
+a,1
+speech,1
+while,1
+standing,1

@@ -1,0 +1,7 @@
+73,402,7
+rajkumari,1
+amrit,1
+kaur,1
+guest,1
+house,1
+trivandrum,1

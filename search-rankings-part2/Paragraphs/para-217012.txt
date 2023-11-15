@@ -1,0 +1,13 @@
+59,509,12
+bapu,1
+sure,1
+this,1
+is,2
+bound,1
+to,1
+follow,1
+it,2
+and,1
+also,1
+very,1
+easy,1

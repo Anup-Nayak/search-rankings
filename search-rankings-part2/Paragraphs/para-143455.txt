@@ -1,0 +1,11 @@
+42,50,1
+71,1
+letter,1
+to,1
+samuel,1
+r,1
+perry,1
+after,1
+may,1
+26,1
+1928,1

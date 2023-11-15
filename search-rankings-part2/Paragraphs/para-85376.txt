@@ -1,0 +1,9 @@
+25,197,8
+your,1
+wife,1
+and,2
+sister,1
+swaraj,1
+is,1
+certain,1
+near,1

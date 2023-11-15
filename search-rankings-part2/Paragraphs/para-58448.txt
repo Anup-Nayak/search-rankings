@@ -1,0 +1,16 @@
+16,493,4
+1,1
+provincial,1
+legislative,1
+councils,1
+shall,1
+consist,1
+of,2
+four,1
+fifths,1
+elected,1
+and,1
+one,1
+fifth,1
+nominated,1
+members,1

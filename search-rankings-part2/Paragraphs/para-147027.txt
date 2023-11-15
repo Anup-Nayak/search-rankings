@@ -1,0 +1,11 @@
+42,471,2
+you,2
+are,1
+authorized,1
+to,1
+publish,1
+this,1
+letter,1
+if,1
+so,1
+desire,1

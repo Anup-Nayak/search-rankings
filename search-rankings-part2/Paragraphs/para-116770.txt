@@ -1,0 +1,13 @@
+34,445,5
+the,2
+kongu,1
+velala,1
+conference,1
+held,1
+at,1
+pollachi,1
+south,1
+india,1
+passed,1
+following,1
+resolution,1

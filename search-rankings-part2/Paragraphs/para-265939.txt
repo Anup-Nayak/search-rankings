@@ -1,0 +1,7 @@
+71,318,7
+371,1
+cochin,2
+untouchability,1
+a,1
+correspondent,1
+writes,1

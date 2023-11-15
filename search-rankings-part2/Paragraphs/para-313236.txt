@@ -1,0 +1,6 @@
+82,284,2
+g,1
+p,1
+hutheesing,1
+but,1
+bapu,1

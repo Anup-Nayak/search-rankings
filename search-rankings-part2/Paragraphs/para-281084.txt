@@ -1,0 +1,7 @@
+75,153,19
+statesman,1
+is,2
+necessary,1
+curtailment,1
+of,1
+powers,1

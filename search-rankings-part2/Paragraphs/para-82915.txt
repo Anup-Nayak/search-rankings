@@ -1,0 +1,7 @@
+24,263,3
+where,1
+will,1
+people,1
+park,1
+their,1
+shoes,1

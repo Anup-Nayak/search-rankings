@@ -1,0 +1,14 @@
+27,465,8
+time,1
+let,2
+there,1
+be,2
+no,1
+misunderstanding,1
+or,1
+mental,1
+reservation,1
+all,1
+the,1
+cards,1
+laid,1

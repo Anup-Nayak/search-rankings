@@ -1,0 +1,13 @@
+51,332,6
+and,1
+you,1
+do,2
+not,2
+want,2
+any,4
+more,4
+viceroys,2
+lord,2
+irwins,2
+no,1
+i,1

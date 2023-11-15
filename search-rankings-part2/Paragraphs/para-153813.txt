@@ -1,0 +1,9 @@
+44,470,18
+t3,1
+guj,1
+has,1
+the,2
+other,1
+details,1
+of,1
+story,1

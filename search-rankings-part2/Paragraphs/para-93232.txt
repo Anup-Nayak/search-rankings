@@ -1,0 +1,11 @@
+27,383,2
+i,1
+state,1
+one,2
+by,1
+the,1
+conditions,1
+for,1
+being,1
+so,1
+prepared,1

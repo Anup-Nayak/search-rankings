@@ -1,0 +1,5 @@
+24,185,23
+inward,2
+peace,1
+and,1
+might,1

@@ -1,0 +1,10 @@
+83,390,2
+1,1
+vide,1
+letter,1
+to,1
+horace,1
+alexander,1
+22,1
+4,1
+1942,1

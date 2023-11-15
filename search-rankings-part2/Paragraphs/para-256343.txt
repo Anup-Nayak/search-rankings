@@ -1,0 +1,11 @@
+69,100,9
+gandhiji,1
+need,1
+you,1
+narrate,1
+them,2
+to,1
+me,1
+dont,1
+i,1
+know,1

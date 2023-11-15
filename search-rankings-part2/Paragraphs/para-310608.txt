@@ -1,0 +1,8 @@
+82,67,4
+your,1
+decision,1
+tides,1
+over,1
+my,1
+present,1
+difficulty,1

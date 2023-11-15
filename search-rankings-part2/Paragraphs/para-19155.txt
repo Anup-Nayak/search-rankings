@@ -1,0 +1,17 @@
+6,453,3
+3,1
+the,1
+malay,1
+location,1
+will,2
+be,2
+lost,1
+to,3
+us,1
+and,1
+its,1
+present,1
+residents,1
+required,1
+go,1
+klipspruit,1

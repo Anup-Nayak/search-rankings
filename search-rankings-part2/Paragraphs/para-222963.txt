@@ -1,0 +1,11 @@
+61,196,7
+1,1
+of,2
+eating,1
+uncooked,1
+food,1
+in,1
+the,1
+summer,1
+months,1
+1929,1

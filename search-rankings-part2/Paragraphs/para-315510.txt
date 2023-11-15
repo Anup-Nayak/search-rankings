@@ -1,0 +1,16 @@
+82,409,18
+l,1
+f,1
+i,1
+think,1
+we,1
+all,1
+seek,1
+immortality,1
+only,1
+some,1
+believe,1
+they,1
+live,1
+in,1
+their,1

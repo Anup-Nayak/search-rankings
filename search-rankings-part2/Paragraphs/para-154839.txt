@@ -1,0 +1,10 @@
+44,508,10
+t4,1
+guj,1
+adds,1
+nor,1
+do,1
+i,1
+have,1
+it,1
+now,1

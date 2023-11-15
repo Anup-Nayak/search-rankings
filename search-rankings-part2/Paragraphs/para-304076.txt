@@ -1,0 +1,7 @@
+80,401,8
+c,1
+w,1
+10319,1
+courtesy,1
+visvabharati,1
+santiniketan,1

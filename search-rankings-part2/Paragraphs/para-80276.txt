@@ -1,0 +1,6 @@
+23,327,1
+151,1
+self,1
+sacrifice,1
+in,1
+gujarat,1

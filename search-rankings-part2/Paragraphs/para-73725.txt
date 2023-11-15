@@ -1,0 +1,8 @@
+21,198,4
+116,1
+religious,1
+authority,1
+for,1
+non,1
+co,1
+operation,1

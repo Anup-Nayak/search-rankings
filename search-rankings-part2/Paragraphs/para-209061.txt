@@ -1,0 +1,12 @@
+58,186,6
+1,1
+on,1
+december,1
+3,1
+1932,2
+vide,1
+diary,1
+entry,1
+under,1
+this,1
+date,1

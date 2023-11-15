@@ -1,0 +1,12 @@
+19,255,8
+the,1
+laws,2
+that,2
+you,1
+determined,1
+to,1
+be,1
+disobeyed,1
+were,2
+obeyed,1
+by,1

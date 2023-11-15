@@ -1,0 +1,17 @@
+22,56,1
+17,1
+covets,1
+nothing,1
+18,1
+is,1
+free,1
+from,3
+guile,1
+19,1
+the,1
+urge,1
+of,1
+desire,1
+and,1
+20,1
+anger,1

@@ -1,0 +1,12 @@
+62,53,16
+1,1
+the,1
+source,1
+has,1
+dudhi,1
+in,1
+devanagari,1
+script,1
+2,1
+bhagavad,1
+gita,1

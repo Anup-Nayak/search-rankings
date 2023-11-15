@@ -1,0 +1,8 @@
+52,45,4
+agreement,1
+have,1
+asked,1
+you,1
+nature,1
+harassment,1
+concrete,1

@@ -1,0 +1,15 @@
+14,171,4
+from,1
+the,1
+gujarati,1
+original,1
+in,1
+gandhijis,1
+hand,1
+c,1
+w,1
+106,1
+courtesy,1
+sushila,1
+behn,1
+gandhi,1

@@ -1,0 +1,14 @@
+77,412,27
+endeavour,1
+the,2
+ideals,1
+we,2
+have,1
+set,1
+before,1
+us,1
+objects,1
+to,1
+secure,1
+which,1
+are,1

@@ -1,0 +1,9 @@
+67,284,9
+a,1
+every,1
+village,1
+has,1
+to,1
+be,1
+studied,1
+individually,1

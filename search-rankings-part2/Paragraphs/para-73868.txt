@@ -1,0 +1,6 @@
+21,230,3
+137,1
+gujarat,1
+makes,1
+its,1
+choice,1

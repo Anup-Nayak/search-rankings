@@ -1,0 +1,12 @@
+57,105,19
+starvation,1
+i,1
+know,1
+that,1
+it,1
+will,1
+set,1
+last,1
+seal,1
+on,1
+my,1

@@ -1,0 +1,6 @@
+72,290,2
+a,1
+gentleman,1
+writes,1
+from,1
+bombay,1

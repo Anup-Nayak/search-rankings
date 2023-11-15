@@ -1,0 +1,7 @@
+40,366,3
+255,1
+speech,1
+at,1
+nalanda,1
+vidyalaya,1
+colombo,1

@@ -1,0 +1,8 @@
+53,9,10
+10,1
+telegram,1
+to,1
+ramjasmal,1
+joharmal,1
+and,1
+others,1

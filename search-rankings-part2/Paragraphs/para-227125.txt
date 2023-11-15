@@ -1,0 +1,11 @@
+62,177,2
+bapu,1
+princess,1
+efy,1
+aristarchi,1
+hotel,1
+schotzky,1
+freiburg,1
+1,1
+b,1
+germany,1

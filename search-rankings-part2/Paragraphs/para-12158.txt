@@ -1,0 +1,7 @@
+5,45,5
+40,1
+agreement,1
+between,1
+hindus,1
+and,1
+muslims,1

@@ -1,0 +1,17 @@
+92,308,12
+1,1
+the,2
+letter,1
+is,1
+written,1
+on,1
+a,1
+paper,1
+bearing,1
+stamp,1
+of,1
+this,1
+date,1
+october,1
+10,1
+1946,1

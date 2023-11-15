@@ -1,0 +1,12 @@
+28,395,5
+m,1
+k,2
+gandhi,1
+shrimati,1
+v,1
+vilasini,1
+hills,1
+palace,1
+trippoonitara,1
+cochin,1
+state,1

@@ -1,0 +1,8 @@
+57,398,24
+bondsman,1
+to,2
+make,1
+generous,1
+gesture,1
+is,1
+equal,1

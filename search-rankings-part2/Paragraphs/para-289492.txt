@@ -1,0 +1,7 @@
+77,188,5
+prisoners,1
+release,1
+if,1
+no,1
+vital,1
+objection,1

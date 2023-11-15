@@ -1,0 +1,6 @@
+38,138,1
+117,1
+speech,1
+at,1
+ahmednagar,1
+1,1

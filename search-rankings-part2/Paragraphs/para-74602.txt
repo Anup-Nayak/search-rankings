@@ -1,0 +1,14 @@
+21,359,8
+morning,1
+replying,1
+to,2
+a,2
+question,1
+by,1
+representative,1
+as,1
+why,1
+he,1
+did,1
+not,1
+put,1

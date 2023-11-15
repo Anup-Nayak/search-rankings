@@ -1,0 +1,7 @@
+84,366,9
+498,1
+letter,1
+to,1
+bishop,1
+of,1
+rangoon,1

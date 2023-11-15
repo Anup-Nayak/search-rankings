@@ -1,0 +1,16 @@
+76,278,14
+the,2
+case,1
+of,1
+khadi,1
+it,1
+is,1
+not,1
+so,1
+spinner,1
+and,1
+her,1
+spindle,1
+are,1
+different,1
+entities,1

@@ -1,0 +1,10 @@
+25,98,9
+haji,1
+siddik,1
+khatri,1
+hilal,1
+manzil,1
+85,1
+abdul,1
+rehman,1
+street,1

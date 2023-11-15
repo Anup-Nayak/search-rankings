@@ -1,0 +1,14 @@
+98,127,7
+rubbish,1
+just,1
+as,1
+we,1
+need,2
+well,2
+cooked,1
+food,1
+so,1
+does,1
+the,1
+soil,1
+prepared,1

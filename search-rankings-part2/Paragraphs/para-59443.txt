@@ -1,0 +1,10 @@
+17,74,4
+prev,1
+enting,1
+them,1
+from,1
+doing,1
+their,2
+duty,1
+to,1
+country,1

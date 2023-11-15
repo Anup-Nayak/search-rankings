@@ -1,0 +1,3 @@
+9,168,2
+moving,1
+letter,1

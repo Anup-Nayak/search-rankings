@@ -1,0 +1,9 @@
+19,8,4
+eight,1
+lacs,1
+rupees,1
+ordered,1
+to,1
+be,1
+collected,1
+from,1

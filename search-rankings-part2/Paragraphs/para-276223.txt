@@ -1,0 +1,6 @@
+74,56,4
+92,1
+corruption,1
+in,1
+the,1
+congress,1

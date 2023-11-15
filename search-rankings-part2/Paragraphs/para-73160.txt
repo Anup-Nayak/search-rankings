@@ -1,0 +1,7 @@
+21,94,1
+65,1
+more,1
+about,1
+the,1
+bulletted,1
+muhajarin,1

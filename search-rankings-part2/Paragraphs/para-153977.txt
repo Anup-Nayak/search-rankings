@@ -1,0 +1,6 @@
+44,476,10
+t1,1
+guj,1
+has,1
+such,1
+friendships,1

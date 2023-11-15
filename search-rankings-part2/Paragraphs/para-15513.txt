@@ -1,0 +1,16 @@
+6,33,6
+chinese,1
+but,1
+for,1
+our,1
+own,1
+fellow,1
+subjects,1
+and,1
+we,1
+ask,1
+that,1
+justice,1
+if,1
+not,1
+generosity,1

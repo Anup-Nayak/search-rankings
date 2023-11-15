@@ -1,0 +1,13 @@
+76,165,4
+master,1
+for,1
+buddha,1
+alone,1
+among,1
+the,2
+teachers,1
+of,1
+world,1
+said,1
+dont,1
+believe,1

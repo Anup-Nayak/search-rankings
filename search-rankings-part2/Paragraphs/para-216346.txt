@@ -1,0 +1,11 @@
+59,442,7
+1,1
+the,3
+superscription,1
+and,1
+first,1
+sentence,1
+are,1
+in,2
+hindi,1
+source,1

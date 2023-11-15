@@ -1,0 +1,7 @@
+25,25,4
+11,1
+understanding,1
+as,1
+distinct,1
+from,1
+literacy,1

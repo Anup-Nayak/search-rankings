@@ -1,0 +1,7 @@
+43,21,5
+17,1
+ahmedabad,1
+and,2
+its,1
+deaf,1
+dumb,1

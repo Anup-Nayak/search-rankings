@@ -1,0 +1,12 @@
+71,72,5
+congress,1
+workers,1
+of,2
+our,1
+village,1
+on,1
+the,3
+eve,1
+general,1
+elections,1
+to,1

@@ -1,0 +1,17 @@
+52,384,5
+i,3
+certainly,1
+intend,1
+to,1
+write,2
+something,1
+about,1
+the,1
+digambar,1
+jain,1
+sadhus,1
+1,1
+am,1
+thinking,1
+what,1
+can,1

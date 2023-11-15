@@ -1,0 +1,5 @@
+90,74,9
+101,1
+convenience,1
+v,1
+necessity,1

@@ -1,0 +1,9 @@
+9,322,9
+starvation,1
+improper,1
+diet,1
+filthy,1
+surroundings,1
+utter,1
+insanitation,1
+no,1

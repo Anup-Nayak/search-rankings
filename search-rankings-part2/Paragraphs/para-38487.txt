@@ -1,0 +1,15 @@
+12,35,3
+from,1
+the,1
+typewritten,1
+draft,2
+s,2
+n,2
+5587,1
+also,1
+photostat,1
+of,1
+in,1
+gandhijis,1
+hand,1
+5558,1

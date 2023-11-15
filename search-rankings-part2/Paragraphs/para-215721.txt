@@ -1,0 +1,11 @@
+59,375,9
+persons,1
+who,1
+always,2
+hate,1
+those,1
+untouchables,1
+they,1
+are,1
+keeping,1
+aloof,1

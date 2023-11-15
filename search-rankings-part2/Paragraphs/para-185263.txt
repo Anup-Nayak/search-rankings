@@ -1,0 +1,9 @@
+52,340,11
+gallwey,1
+remove,1
+corpse,1
+deceased,1
+soldier,1
+and,1
+i,1
+sent,1

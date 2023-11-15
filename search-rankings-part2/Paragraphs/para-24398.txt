@@ -1,0 +1,11 @@
+8,219,6
+q,1
+what,1
+is,1
+the,3
+history,1
+of,2
+settlement,1
+indians,1
+in,1
+transvaal,1

@@ -1,0 +1,9 @@
+82,17,14
+11,1
+marwari,1
+education,1
+society,1
+1910navabharat,1
+vidyalaya,1
+and,1
+college,1

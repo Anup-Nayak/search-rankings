@@ -1,0 +1,7 @@
+72,420,8
+material,1
+discomfort,1
+must,1
+not,1
+overwhelm,1
+you,1

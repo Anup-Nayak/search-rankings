@@ -1,0 +1,6 @@
+70,257,3
+a,2
+students,1
+difficulty,1
+student,1
+asks,1

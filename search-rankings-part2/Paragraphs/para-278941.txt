@@ -1,0 +1,14 @@
+74,376,11
+this,1
+is,1
+rich,2
+mans,1
+toy,1
+let,1
+the,3
+poor,1
+not,1
+imitate,1
+bad,1
+habits,1
+of,1

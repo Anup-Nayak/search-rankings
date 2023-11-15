@@ -1,0 +1,13 @@
+24,292,6
+1,1
+lieut,1
+governor,1
+of,1
+punjab,1
+1913,1
+19,1
+responsible,1
+for,1
+jallianwala,1
+bagh,1
+tragedy,1

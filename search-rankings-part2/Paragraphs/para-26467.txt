@@ -1,0 +1,16 @@
+9,31,11
+the,2
+witness,1
+replied,1
+that,3
+he,2
+had,2
+not,1
+stated,1
+accused,1
+told,1
+him,1
+mr,1
+gandhi,1
+his,1
+licence,1

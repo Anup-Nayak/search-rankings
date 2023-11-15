@@ -1,0 +1,15 @@
+30,430,4
+1,1
+commissioner,1
+of,1
+police,1
+trivandrum,2
+2,1
+the,1
+interview,1
+took,1
+place,1
+on,1
+march,1
+10,1
+at,1

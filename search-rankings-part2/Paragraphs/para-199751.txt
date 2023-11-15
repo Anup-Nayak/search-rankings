@@ -1,0 +1,5 @@
+56,77,5
+1,1
+bhagavad,1
+gita,1
+xii,1

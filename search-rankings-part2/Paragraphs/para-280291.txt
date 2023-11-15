@@ -1,0 +1,13 @@
+75,64,1
+anybody,1
+who,1
+is,1
+this,1
+lady,1
+at,1
+the,2
+back,1
+of,1
+anti,1
+hindi,1
+propaganda,1

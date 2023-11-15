@@ -1,0 +1,14 @@
+23,321,3
+much,1
+money,1
+was,1
+collected,1
+a,3
+parsi,2
+girl,1
+gave,1
+her,1
+gold,1
+bangle,1
+and,1
+gentleman,1

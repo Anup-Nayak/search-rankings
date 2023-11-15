@@ -1,0 +1,11 @@
+74,412,2
+k,1
+i,1
+am,1
+told,1
+you,1
+recite,1
+the,1
+bhagavad,1
+gita,1
+daily,1

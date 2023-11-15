@@ -1,0 +1,13 @@
+76,243,23
+moreover,1
+there,1
+is,1
+a,1
+danger,1
+of,2
+famine,1
+overtaking,1
+some,1
+parts,1
+the,1
+country,1

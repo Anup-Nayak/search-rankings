@@ -1,0 +1,7 @@
+13,370,18
+effect,1
+movement,1
+spreading,1
+polak,1
+in,1
+newcastle,1

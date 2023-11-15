@@ -1,0 +1,17 @@
+72,18,8
+shri,1
+t,1
+s,1
+shripal,1
+organizer,1
+and,1
+lecturer,1
+south,1
+indian,1
+humanitarian,1
+league,1
+132,1
+mint,1
+road,1
+madras,1
+1,1

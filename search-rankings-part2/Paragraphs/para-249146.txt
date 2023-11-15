@@ -1,0 +1,7 @@
+67,238,4
+374,1
+letter,1
+to,1
+saiyed,1
+kasim,1
+ali,1

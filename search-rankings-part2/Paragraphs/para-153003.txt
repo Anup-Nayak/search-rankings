@@ -1,0 +1,17 @@
+44,260,2
+1,1
+for,1
+the,2
+text,1
+of,1
+resolution,1
+and,1
+gandhijis,1
+speech,2
+vide,1
+at,1
+calcutta,1
+congress,1
+december,1
+27,1
+1901,1

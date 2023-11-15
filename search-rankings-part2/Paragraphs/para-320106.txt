@@ -1,0 +1,6 @@
+84,82,10
+107,1
+letter,1
+to,1
+harihar,1
+vyas,1

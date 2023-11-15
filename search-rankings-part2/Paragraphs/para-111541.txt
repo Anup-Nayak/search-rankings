@@ -1,0 +1,10 @@
+33,115,6
+1,1
+the,2
+hindu,1
+sabha,2
+and,1
+vaidya,1
+2,1
+bringing,1
+together,1

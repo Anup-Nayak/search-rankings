@@ -1,0 +1,4 @@
+30,11,2
+1,1
+cosmic,1
+illusion,1

@@ -1,0 +1,7 @@
+34,353,7
+92,1
+letter,1
+to,1
+alice,1
+mckay,1
+kelly,1

@@ -1,0 +1,10 @@
+29,137,10
+lucknow,1
+i,1
+know,1
+you,1
+will,1
+do,1
+your,1
+utmost,1
+avoid,1

@@ -1,0 +1,13 @@
+89,228,6
+1,1
+this,1
+was,1
+delivered,1
+by,1
+hand,1
+on,1
+january,1
+12,1
+2,1
+addressees,1
+sister,1

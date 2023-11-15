@@ -1,0 +1,14 @@
+1,398,3
+1,1
+vide,1
+london,1
+diary,1
+12,1
+11,1
+1888,1
+2,1
+the,1
+enclosure,1
+is,1
+not,1
+available,1

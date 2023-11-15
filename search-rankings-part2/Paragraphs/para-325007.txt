@@ -1,0 +1,7 @@
+85,125,5
+169,1
+letter,1
+to,1
+lakshman,1
+prasad,1
+tiwari,1

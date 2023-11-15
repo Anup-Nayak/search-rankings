@@ -1,0 +1,3 @@
+23,303,14
+distance,1
+writing,1

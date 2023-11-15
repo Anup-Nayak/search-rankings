@@ -1,0 +1,4 @@
+21,103,4
+famine,1
+in,1
+orissa,1

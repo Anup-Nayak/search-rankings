@@ -1,0 +1,8 @@
+58,253,8
+2,1
+is,1
+untouchability,1
+curable,1
+in,1
+this,1
+life,1

@@ -1,0 +1,8 @@
+13,426,24
+durban,1
+to,1
+pretoria,1
+seeking,1
+rearrest,1
+anticipate,1
+taxing,1

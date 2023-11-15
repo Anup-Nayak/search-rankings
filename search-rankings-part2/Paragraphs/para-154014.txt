@@ -1,0 +1,10 @@
+44,477,17
+t3,1
+guj,1
+has,1
+let,1
+others,1
+give,1
+more,1
+after,1
+me,1

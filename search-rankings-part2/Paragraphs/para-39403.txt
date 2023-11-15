@@ -1,0 +1,13 @@
+12,170,2
+tolstoy,1
+farm,1
+lawley,1
+station,1
+transvaal,1
+phagan,1
+vad,1
+8,1
+march,1
+11,1
+1912,1
+1,1

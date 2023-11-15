@@ -1,0 +1,10 @@
+79,15,12
+1,1
+wife,1
+of,1
+maganlal,1
+mehta,2
+dr,1
+pranjivan,1
+s,1
+son,1

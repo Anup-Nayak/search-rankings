@@ -1,0 +1,7 @@
+84,4,4
+aga,1
+khan,1
+palace,1
+february,1
+1,1
+1944,1

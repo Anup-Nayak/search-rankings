@@ -1,0 +1,8 @@
+48,246,6
+244,1
+letter,1
+to,1
+satis,1
+chandra,1
+das,1
+gupta,1

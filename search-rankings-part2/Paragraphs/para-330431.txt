@@ -1,0 +1,14 @@
+86,167,8
+1,1
+vide,2
+the,1
+preceding,1
+item,1
+2,1
+letter,1
+to,1
+chimanlal,1
+n,1
+shah,1
+4,2
+1945,1

@@ -1,0 +1,10 @@
+64,182,13
+from,1
+gujarati,1
+c,1
+w,1
+2704,1
+courtesy,1
+dahyabhai,1
+m,1
+patel,1

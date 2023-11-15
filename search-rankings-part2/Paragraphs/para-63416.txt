@@ -1,0 +1,7 @@
+18,88,3
+77,1
+letter,1
+to,1
+a,1
+young,1
+journalist,1

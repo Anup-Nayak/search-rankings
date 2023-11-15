@@ -1,0 +1,4 @@
+7,190,6
+some,1
+timid,1
+indians,1

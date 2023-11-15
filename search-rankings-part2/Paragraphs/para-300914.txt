@@ -1,0 +1,6 @@
+80,99,10
+government,1
+statement,1
+palpably,1
+misleading,1
+indeed,1

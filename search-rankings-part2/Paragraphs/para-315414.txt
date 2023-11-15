@@ -1,0 +1,4 @@
+82,406,29
+dictators,1
+of,1
+congress,1

@@ -1,0 +1,12 @@
+52,226,2
+swaraj,1
+ashram,1
+bardoli,1
+june,1
+1,1
+1931,1
+sen,1
+gupta,1
+elgin,1
+road,1
+calcutta,1

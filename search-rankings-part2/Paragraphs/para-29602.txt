@@ -1,0 +1,5 @@
+9,475,2
+transvaal,1
+asiatic,1
+registration,1
+certificate,1

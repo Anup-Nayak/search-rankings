@@ -1,0 +1,10 @@
+68,307,1
+378,1
+my,1
+idea,1
+of,1
+living,1
+in,1
+a,1
+village,1
+1,1

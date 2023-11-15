@@ -1,0 +1,11 @@
+23,250,2
+116,1
+spinning,1
+v,1
+hand,1
+weaving,1
+to,1
+the,1
+editor,1
+young,1
+india,1

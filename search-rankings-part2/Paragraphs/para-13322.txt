@@ -1,0 +1,8 @@
+5,237,3
+232,1
+statement,1
+presented,1
+to,1
+constitution,1
+committee,1
+1,1

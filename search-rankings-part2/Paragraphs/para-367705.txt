@@ -1,0 +1,10 @@
+95,129,3
+if,1
+all,1
+the,3
+threethe,1
+zamindars,1
+ryots,1
+and,1
+government,1
+in,1

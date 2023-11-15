@@ -1,0 +1,15 @@
+82,385,21
+that,1
+it,1
+should,1
+not,1
+be,1
+published,1
+was,2
+because,1
+he,1
+afraid,1
+of,2
+the,1
+pressure,1
+public,1

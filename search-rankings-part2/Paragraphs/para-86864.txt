@@ -1,0 +1,12 @@
+25,400,4
+q,1
+why,1
+do,1
+your,1
+co,1
+workers,1
+wear,1
+boots,1
+and,1
+european,1
+clothes,1

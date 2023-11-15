@@ -1,0 +1,15 @@
+23,25,2
+stuck,1
+to,2
+their,2
+courts,1
+or,1
+the,2
+students,1
+schools,1
+and,1
+colleges,1
+but,1
+it,1
+was,1
+of,1

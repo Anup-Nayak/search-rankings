@@ -1,0 +1,5 @@
+73,77,3
+health,1
+all,1
+right,1
+writing,1

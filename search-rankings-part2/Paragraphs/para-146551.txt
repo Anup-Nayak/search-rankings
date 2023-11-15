@@ -1,0 +1,5 @@
+42,421,3
+co,1
+operative,1
+khadi,1
+purchase,1

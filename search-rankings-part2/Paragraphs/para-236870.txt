@@ -1,0 +1,17 @@
+64,392,17
+1,1
+this,1
+and,1
+the,2
+following,1
+answer,1
+by,1
+gandhiji,1
+are,1
+reproduced,1
+from,1
+manuscript,1
+of,1
+mahadev,1
+desais,1
+diary,1

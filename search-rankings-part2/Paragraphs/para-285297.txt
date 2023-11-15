@@ -1,0 +1,9 @@
+76,162,2
+abbottabad,1
+july,1
+25,1
+1939,1
+dr,1
+gopichand,1
+bhargava,1
+lahore,1

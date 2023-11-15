@@ -1,0 +1,13 @@
+94,51,2
+neighbour,1
+in,1
+this,1
+sense,1
+swadeshi,1
+was,1
+never,1
+exclusive,1
+it,1
+recognized,1
+the,1
+scientific,1

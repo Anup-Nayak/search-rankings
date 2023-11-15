@@ -1,0 +1,6 @@
+12,250,3
+210,1
+the,1
+phoenix,1
+trust,1
+deed,1

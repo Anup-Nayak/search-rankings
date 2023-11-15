@@ -1,0 +1,9 @@
+11,282,22
+free,1
+state,1
+boundary,1
+and,1
+if,1
+wives,1
+minors,1
+could,1

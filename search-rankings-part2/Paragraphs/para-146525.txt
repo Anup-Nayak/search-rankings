@@ -1,0 +1,12 @@
+42,419,1
+sends,1
+me,1
+a,1
+letter,1
+from,1
+which,1
+i,1
+extract,1
+the,1
+following,1
+information,1

@@ -1,0 +1,15 @@
+19,407,1
+251,1
+letter,1
+to,2
+esther,1
+faering,1
+on,1
+the,1
+train,1
+benares,1
+sunday,1
+february,1
+15,1
+1920,1
+1,1

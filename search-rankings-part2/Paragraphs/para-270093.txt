@@ -1,0 +1,5 @@
+72,351,9
+1,1
+ruler,1
+of,1
+mahmudabad,1

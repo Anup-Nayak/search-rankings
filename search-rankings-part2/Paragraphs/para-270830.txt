@@ -1,0 +1,16 @@
+72,427,9
+1,1
+the,3
+addressee,1
+had,1
+informed,1
+gandhiji,1
+of,1
+hunger,1
+strike,1
+by,1
+political,1
+prisoners,1
+in,1
+punjab,1
+jail,1

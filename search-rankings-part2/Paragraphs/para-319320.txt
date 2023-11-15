@@ -1,0 +1,6 @@
+83,473,6
+officer,1
+i/c,1
+aga,1
+khans,1
+palace,1

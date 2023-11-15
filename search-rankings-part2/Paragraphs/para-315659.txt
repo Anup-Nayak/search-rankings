@@ -1,0 +1,14 @@
+82,413,21
+receive,1
+more,1
+attention,1
+in,1
+london,1
+the,1
+british,1
+do,1
+not,1
+understand,1
+today,1
+what,1
+is,1

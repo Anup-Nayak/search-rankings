@@ -1,0 +1,8 @@
+52,208,8
+settlement,1
+makes,1
+my,1
+immediate,1
+leaving,1
+india,1
+difficult,1

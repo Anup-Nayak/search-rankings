@@ -1,0 +1,16 @@
+68,385,12
+1,1
+the,2
+addressee,1
+writes,1
+dr,1
+ambedkar,1
+did,1
+come,1
+but,1
+saw,1
+bapu,1
+in,1
+segaon,1
+under,1
+trees,1

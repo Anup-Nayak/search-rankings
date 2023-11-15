@@ -1,0 +1,17 @@
+80,449,10
+bhai,1
+munshi,1
+i,1
+got,1
+your,1
+letter,1
+it,2
+is,1
+quite,1
+clear,1
+will,1
+now,1
+be,1
+easy,1
+to,2
+write,1

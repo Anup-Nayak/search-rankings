@@ -1,0 +1,6 @@
+92,98,6
+untouchability,1
+and,1
+the,1
+flush,1
+system,1

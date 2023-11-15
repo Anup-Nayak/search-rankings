@@ -1,0 +1,15 @@
+77,415,13
+pledge,1
+and,2
+that,1
+when,1
+we,3
+spoke,1
+of,1
+dominion,1
+status,1
+meant,1
+what,1
+said,1
+did,1
+not,1

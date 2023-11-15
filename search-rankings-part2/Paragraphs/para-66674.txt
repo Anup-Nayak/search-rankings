@@ -1,0 +1,7 @@
+19,118,2
+1,1
+the,1
+telegram,1
+is,1
+not,1
+available,1

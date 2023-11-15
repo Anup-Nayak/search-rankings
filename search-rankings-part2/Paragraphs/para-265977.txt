@@ -1,0 +1,14 @@
+71,321,15
+charged,1
+they,2
+were,1
+told,1
+that,1
+unless,1
+wore,1
+the,1
+cross,1
+at,1
+all,1
+times,1
+and,1

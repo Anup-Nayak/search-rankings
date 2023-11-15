@@ -1,0 +1,15 @@
+78,260,16
+employed,1
+as,1
+a,2
+weapon,1
+to,1
+bring,1
+financial,1
+failure,1
+upon,1
+the,1
+government,1
+is,1
+it,1
+remedy,1

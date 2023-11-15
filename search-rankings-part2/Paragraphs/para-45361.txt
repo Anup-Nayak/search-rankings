@@ -1,0 +1,10 @@
+13,438,15
+church,1
+councils,1
+moving,1
+same,1
+direction,1
+we,1
+shall,1
+endeavour,1
+utmost,1

@@ -1,0 +1,12 @@
+59,84,15
+1,1
+a,1
+fried,1
+and,1
+heavily,1
+spiced,1
+delicacy,1
+made,1
+of,1
+gram,1
+flour,1

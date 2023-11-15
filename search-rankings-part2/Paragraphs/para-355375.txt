@@ -1,0 +1,7 @@
+92,81,11
+despondency,1
+not,1
+permissible,1
+hope,1
+mother,1
+better,1

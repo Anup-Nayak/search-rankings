@@ -1,0 +1,5 @@
+68,34,3
+my,1
+dear,1
+jawaharlal,1
+1,1

@@ -1,0 +1,5 @@
+29,283,2
+mohandas,1
+gandhi,1
+from,1
+hindi,1

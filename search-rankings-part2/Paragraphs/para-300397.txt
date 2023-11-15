@@ -1,0 +1,6 @@
+80,50,4
+delighted,1
+signed,1
+photo,1
+hope,1
+well,1

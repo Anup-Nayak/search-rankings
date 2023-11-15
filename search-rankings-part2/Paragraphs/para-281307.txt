@@ -1,0 +1,5 @@
+75,181,9
+gandhiji,1
+aur,1
+rajasthan,1
+p,1

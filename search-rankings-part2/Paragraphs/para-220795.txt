@@ -1,0 +1,6 @@
+60,469,2
+557,1
+harijan,1
+schools,1
+in,1
+kathiawar,1

@@ -1,0 +1,6 @@
+45,132,2
+133,1
+need,1
+for,1
+immediate,1
+relief,1

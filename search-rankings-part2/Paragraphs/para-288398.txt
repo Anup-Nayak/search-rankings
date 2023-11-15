@@ -1,0 +1,10 @@
+77,51,14
+depends,1
+upon,1
+its,1
+relentless,1
+pursuit,1
+of,1
+the,1
+goal,1
+which,1

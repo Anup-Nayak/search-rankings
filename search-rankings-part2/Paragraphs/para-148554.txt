@@ -1,0 +1,5 @@
+43,170,3
+freedom,1
+to,1
+the,1
+free,1

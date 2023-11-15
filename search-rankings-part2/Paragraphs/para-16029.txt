@@ -1,0 +1,7 @@
+6,80,6
+74,1
+letter,1
+to,2
+private,1
+secretary,1
+morley,1

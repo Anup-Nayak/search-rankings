@@ -1,0 +1,9 @@
+49,77,8
+1,1
+about,1
+5,1
+000,1
+villagers,1
+attended,1
+the,1
+meeting,1

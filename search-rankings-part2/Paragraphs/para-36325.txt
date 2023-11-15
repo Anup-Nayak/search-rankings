@@ -1,0 +1,6 @@
+11,298,27
+ment,1
+and,1
+close,1
+painful,1
+struggle,1

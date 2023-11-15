@@ -1,0 +1,7 @@
+72,397,7
+511,1
+statement,1
+on,1
+bengal,1
+governments,1
+communique,1

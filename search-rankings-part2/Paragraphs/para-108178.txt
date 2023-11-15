@@ -1,0 +1,14 @@
+32,38,6
+1,1
+the,2
+reference,1
+presumably,1
+is,1
+to,1
+article,1
+are,1
+we,1
+ready,1
+18,1
+6,1
+1925,1

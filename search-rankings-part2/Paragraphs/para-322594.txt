@@ -1,0 +1,7 @@
+84,352,1
+476,1
+letter,1
+to,1
+abdul,1
+majid,1
+khan,1

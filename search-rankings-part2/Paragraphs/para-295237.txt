@@ -1,0 +1,16 @@
+78,363,4
+q,1
+i,1
+do,1
+a,1
+lot,1
+of,1
+writing,1
+and,1
+speaking,1
+especially,1
+among,1
+women,1
+have,1
+you,1
+any,1

@@ -1,0 +1,12 @@
+53,484,2
+the,1
+artist,1
+you,2
+dont,1
+suppose,1
+well,1
+go,1
+till,1
+send,1
+us,1
+away,1

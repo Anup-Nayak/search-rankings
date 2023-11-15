@@ -1,0 +1,7 @@
+92,81,5
+be,1
+completely,1
+well,1
+for,1
+task,1
+ahead,1

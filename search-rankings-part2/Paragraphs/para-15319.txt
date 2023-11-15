@@ -1,0 +1,10 @@
+6,12,4
+1,1
+for,1
+the,1
+form,1
+of,1
+this,1
+certificate,1
+vide,1
+appendix,1

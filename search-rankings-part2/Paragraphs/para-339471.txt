@@ -1,0 +1,4 @@
+88,122,10
+dear,1
+miss,1
+petersen,1

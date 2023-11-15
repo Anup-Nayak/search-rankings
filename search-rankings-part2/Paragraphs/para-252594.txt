@@ -1,0 +1,14 @@
+68,147,12
+1,1
+from,1
+the,3
+postmark,1
+on,1
+original,1
+postcard,1
+preserved,1
+in,1
+national,1
+archives,1
+of,1
+india,1

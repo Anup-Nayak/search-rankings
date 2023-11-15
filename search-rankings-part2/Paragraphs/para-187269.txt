@@ -1,0 +1,6 @@
+53,79,1
+88,1
+letter,1
+to,1
+mahavir,1
+giri,1

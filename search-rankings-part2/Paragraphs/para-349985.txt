@@ -1,0 +1,13 @@
+90,397,9
+blessings,1
+from,1
+bapu,1
+dr,1
+margarete,1
+spiegel,1
+park,1
+hotel,1
+nagin,1
+bagh,1
+srinagar,1
+kashmir,1

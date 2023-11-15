@@ -1,0 +1,12 @@
+36,114,10
+3,1
+the,2
+untouchables,1
+themselves,1
+are,1
+not,1
+free,1
+from,1
+sin,1
+of,1
+untouchability,1

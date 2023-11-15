@@ -1,0 +1,12 @@
+90,34,11
+the,2
+present,1
+harijan,1
+contains,1
+16,1
+columns,1
+only,1
+old,1
+often,1
+used,1
+to,1

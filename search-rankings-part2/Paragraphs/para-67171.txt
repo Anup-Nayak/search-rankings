@@ -1,0 +1,14 @@
+19,194,3
+the,2
+inciter,1
+to,2
+crime,1
+as,2
+well,1
+violence,1
+it,1
+is,1
+our,1
+firm,1
+conviction,1
+that,1

@@ -1,0 +1,5 @@
+46,261,4
+206,1
+widows,1
+and,1
+widowers,1

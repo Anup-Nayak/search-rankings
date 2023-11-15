@@ -1,0 +1,12 @@
+63,317,4
+bapu,1
+ps,1
+why,1
+do,1
+you,1
+not,1
+write,1
+in,1
+gujarati,1
+any,1
+more,1

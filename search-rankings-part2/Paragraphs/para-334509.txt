@@ -1,0 +1,4 @@
+87,123,3
+saturday,1
+fouro,1
+clock,1

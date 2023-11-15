@@ -1,0 +1,17 @@
+38,317,12
+1,1
+from,1
+the,2
+reference,1
+to,1
+statistics,1
+about,1
+cows,1
+and,1
+buffaloes,1
+printed,1
+in,1
+navajivan,1
+8,1
+5,1
+1927,1

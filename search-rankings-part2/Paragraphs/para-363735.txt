@@ -1,0 +1,9 @@
+94,70,8
+g,1
+all,1
+this,1
+should,1
+never,1
+have,1
+taken,1
+place,1

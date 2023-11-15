@@ -1,0 +1,9 @@
+13,451,26
+in,2
+deference,1
+to,1
+public,1
+opinion,1
+cape,1
+province,1
+that,1

@@ -1,0 +1,4 @@
+22,442,4
+remedies,1
+for,1
+plague,1

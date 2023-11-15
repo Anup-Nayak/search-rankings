@@ -1,0 +1,14 @@
+82,404,21
+l,1
+f,1
+doesnt,1
+the,2
+fact,1
+that,1
+congress,1
+gets,1
+its,1
+money,1
+from,1
+moneyed,1
+interests,1

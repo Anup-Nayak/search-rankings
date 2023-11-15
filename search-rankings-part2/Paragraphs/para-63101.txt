@@ -1,0 +1,11 @@
+18,44,6
+i,2
+solemnly,1
+declare,1
+that,1
+henceforth,1
+in,1
+hindustan,1
+shall,1
+not,1
+wear,1

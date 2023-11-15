@@ -1,0 +1,16 @@
+3,39,4
+dear,1
+sir,1
+i,2
+have,1
+to,1
+thank,1
+you,1
+for,1
+your,1
+letter,1
+now,1
+enclose,1
+a,1
+statement,1
+1,1

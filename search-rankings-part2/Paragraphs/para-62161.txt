@@ -1,0 +1,8 @@
+17,402,15
+danger,1
+always,1
+from,2
+departure,1
+truth,1
+and,1
+non,1

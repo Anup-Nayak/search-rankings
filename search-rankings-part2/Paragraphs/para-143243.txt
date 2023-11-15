@@ -1,0 +1,16 @@
+42,21,3
+i,2
+have,1
+carefully,1
+preserved,1
+your,1
+article,1
+on,1
+god,1
+hope,1
+to,1
+write,1
+about,1
+it,1
+some,1
+day,1

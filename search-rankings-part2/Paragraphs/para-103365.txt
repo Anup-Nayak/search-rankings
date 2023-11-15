@@ -1,0 +1,13 @@
+30,267,4
+the,1
+muslims,1
+are,1
+a,2
+minority,1
+in,1
+india,1
+how,1
+often,1
+is,1
+such,1
+statement,1

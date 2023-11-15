@@ -1,0 +1,7 @@
+6,317,4
+increase,1
+in,1
+south,1
+africa,1
+committees,1
+expenditure,1

@@ -1,0 +1,14 @@
+31,325,1
+q,1
+do,1
+you,1
+think,1
+any,1
+political,1
+education,1
+is,1
+necessary,1
+for,1
+educating,1
+the,1
+masses,1

@@ -1,0 +1,6 @@
+65,109,4
+132,1
+letter,1
+to,1
+amba,1
+gandhi,1

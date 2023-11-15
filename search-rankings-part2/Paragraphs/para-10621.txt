@@ -1,0 +1,14 @@
+4,308,3
+johannesburg,1
+june,1
+7,1
+1905,1
+to,1
+khushal,1
+jivan,1
+gandhi,1
+sardhar,1
+via,1
+rajkot,1
+kathiawad,1
+india,1

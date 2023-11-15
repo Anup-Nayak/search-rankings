@@ -1,0 +1,7 @@
+82,30,3
+35,1
+letter,1
+to,1
+munshi,1
+ahmed,1
+1,1

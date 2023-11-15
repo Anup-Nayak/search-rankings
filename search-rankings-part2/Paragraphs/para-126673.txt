@@ -1,0 +1,16 @@
+37,132,2
+1,1
+the,3
+tenth,1
+day,1
+of,1
+asvina,1
+month,1
+in,1
+hindu,1
+calendar,1
+roughly,1
+corres,1
+ponding,1
+to,1
+october,1

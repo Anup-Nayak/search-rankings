@@ -1,0 +1,10 @@
+93,381,4
+m,1
+k,1
+gandhi,1
+prasadpur,1
+february,1
+8,1
+1947,1
+from,1
+hindi,1

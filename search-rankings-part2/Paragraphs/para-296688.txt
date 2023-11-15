@@ -1,0 +1,13 @@
+79,99,14
+1,1
+for,1
+jawaharlal,2
+nehru,2
+s,1
+reply,1
+vide,1
+letter,1
+to,1
+10,1
+8,1
+1940,1

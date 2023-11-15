@@ -1,0 +1,10 @@
+93,73,12
+1,1
+minister,1
+for,1
+development,1
+and,1
+transport,1
+government,1
+of,1
+bihar,1

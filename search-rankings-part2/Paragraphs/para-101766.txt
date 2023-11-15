@@ -1,0 +1,6 @@
+30,58,6
+khadi,1
+and,1
+the,1
+spinning,1
+wheel,1

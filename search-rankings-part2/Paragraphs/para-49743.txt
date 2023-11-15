@@ -1,0 +1,9 @@
+14,473,9
+the,2
+commission,1
+minister,1
+has,1
+not,1
+deemed,1
+it,1
+necessary,1

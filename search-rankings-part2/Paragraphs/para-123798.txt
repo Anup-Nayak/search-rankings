@@ -1,0 +1,16 @@
+36,288,4
+326,1
+letter,1
+to,1
+bechar,1
+bhanji,1
+the,1
+ashram,1
+sabarmati,1
+thursday,1
+bhadra,1
+sud,1
+2,1
+september,1
+9,1
+1926,1

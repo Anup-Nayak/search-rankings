@@ -1,0 +1,4 @@
+32,87,6
+66,1
+difficult,1
+situations,1

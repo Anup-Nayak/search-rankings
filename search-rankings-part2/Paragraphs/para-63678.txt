@@ -1,0 +1,7 @@
+18,128,10
+nothing,1
+but,1
+civil,1
+disobedience,1
+with,1
+truth,1

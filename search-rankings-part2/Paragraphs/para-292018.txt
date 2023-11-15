@@ -1,0 +1,5 @@
+78,40,13
+bhandar,1
+and,1
+purchase,1
+khadi,1

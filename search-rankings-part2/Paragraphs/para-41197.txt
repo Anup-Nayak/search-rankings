@@ -1,0 +1,15 @@
+12,378,4
+no,1
+pupils,1
+under,2
+standard,1
+ii,1
+may,1
+be,1
+admitted,1
+to,1
+an,1
+indian,1
+school,1
+european,1
+teachers,1

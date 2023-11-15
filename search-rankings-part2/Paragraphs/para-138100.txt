@@ -1,0 +1,8 @@
+40,290,9
+publication,1
+agreed,1
+statement,1
+purport,1
+interview,1
+is,1
+permitted,1

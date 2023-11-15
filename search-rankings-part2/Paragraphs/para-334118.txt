@@ -1,0 +1,12 @@
+87,83,1
+to,1
+jajuji,1
+the,2
+problem,1
+will,1
+be,1
+resolved,1
+some,1
+way,1
+or,1
+other,1

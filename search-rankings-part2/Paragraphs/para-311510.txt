@@ -1,0 +1,12 @@
+82,137,10
+wash,1
+the,1
+clothes,1
+belonging,1
+to,1
+persons,1
+other,1
+than,1
+brahmins,1
+and,1
+nairs,1

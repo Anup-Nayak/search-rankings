@@ -1,0 +1,14 @@
+40,184,15
+1vide,1
+the,3
+succeeding,1
+item,1
+2,1
+this,1
+letter,1
+was,1
+written,1
+on,1
+back,1
+of,1
+above,1

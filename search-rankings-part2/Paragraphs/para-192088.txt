@@ -1,0 +1,12 @@
+54,146,6
+1,1
+the,2
+statement,1
+was,1
+orginally,1
+published,1
+in,1
+hindu,1
+of,1
+this,1
+date,1

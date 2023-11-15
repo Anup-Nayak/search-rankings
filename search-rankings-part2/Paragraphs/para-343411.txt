@@ -1,0 +1,5 @@
+89,95,3
+146,1
+letter,1
+to,1
+jatindas,1

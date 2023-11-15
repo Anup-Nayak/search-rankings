@@ -1,0 +1,12 @@
+57,121,6
+touch,1
+all,1
+faiths,1
+bring,1
+them,1
+and,1
+us,1
+together,1
+in,1
+a,1
+living,1

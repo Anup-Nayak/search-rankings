@@ -1,0 +1,14 @@
+39,20,6
+1,1
+the,3
+source,1
+is,1
+illegible,1
+here,1
+2,1
+from,1
+succeeding,1
+item,2
+3,1
+vide,1
+preceding,1

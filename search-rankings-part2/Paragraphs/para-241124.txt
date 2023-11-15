@@ -1,0 +1,15 @@
+65,384,12
+1,1
+the,2
+joint,1
+parliamentary,1
+committee,1
+report,1
+was,1
+released,1
+to,1
+press,1
+on,1
+november,1
+22,1
+1934,1

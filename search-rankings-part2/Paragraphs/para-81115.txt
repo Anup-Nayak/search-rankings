@@ -1,0 +1,15 @@
+23,467,6
+co,1
+operators,1
+in,1
+india,1
+do,1
+not,1
+regard,1
+women,1
+as,1
+objects,1
+of,1
+enjoyment,1
+is,1
+that,1

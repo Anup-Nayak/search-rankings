@@ -1,0 +1,8 @@
+19,8,19
+has,1
+refused,1
+consider,1
+respectfully,1
+request,1
+his,1
+excellency,1

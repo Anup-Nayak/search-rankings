@@ -1,0 +1,7 @@
+83,178,8
+196,1
+interview,1
+to,1
+the,1
+associated,1
+press,1

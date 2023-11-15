@@ -1,0 +1,14 @@
+23,24,31
+introduce,1
+into,1
+the,2
+country,1
+twenty,1
+lakhs,1
+of,2
+charkhas,1
+before,1
+end,1
+june,1
+he,1
+wished,1

@@ -1,0 +1,6 @@
+63,460,2
+g,1
+are,1
+they,1
+really,1
+opposite,1

@@ -1,0 +1,6 @@
+39,248,3
+n,1
+v,1
+thadani,1
+hyderabad,1
+sind,1

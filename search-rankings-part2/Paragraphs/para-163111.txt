@@ -1,0 +1,6 @@
+47,88,1
+97,1
+letter,1
+to,1
+d,1
+venkateswarlu,1

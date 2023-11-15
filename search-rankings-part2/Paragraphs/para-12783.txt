@@ -1,0 +1,12 @@
+5,148,8
+1vide,1
+letter,2
+to,2
+dada,1
+osman,1
+5,2
+8,2
+1905,2
+&,1
+miss,1
+bissicks,1

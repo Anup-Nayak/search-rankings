@@ -1,0 +1,8 @@
+22,481,2
+261,1
+speech,1
+on,1
+congress,1
+sabhas,1
+resolution,1
+bezwada,1

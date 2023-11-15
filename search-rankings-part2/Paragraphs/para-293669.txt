@@ -1,0 +1,14 @@
+78,212,3
+it,1
+is,1
+all,2
+too,1
+true,1
+that,1
+the,2
+books,1
+on,1
+prescribed,1
+list,1
+are,1
+nearly,1

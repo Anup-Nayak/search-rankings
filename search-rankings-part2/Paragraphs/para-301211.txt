@@ -1,0 +1,5 @@
+80,127,5
+countenance,1
+am,1
+remaining,1
+silent,1

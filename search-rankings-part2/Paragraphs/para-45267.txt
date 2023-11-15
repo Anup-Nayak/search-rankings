@@ -1,0 +1,9 @@
+13,433,8
+indian,1
+government,1
+great,1
+efforts,1
+being,1
+made,1
+by,1
+local,1

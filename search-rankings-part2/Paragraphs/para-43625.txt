@@ -1,0 +1,8 @@
+13,225,2
+from,1
+gujarati,1
+indian,1
+opinion,1
+26,1
+7,1
+1913,1

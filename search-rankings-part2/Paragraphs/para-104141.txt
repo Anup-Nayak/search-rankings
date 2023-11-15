@@ -1,0 +1,17 @@
+30,371,6
+n,1
+they,1
+must,1
+be,2
+so,1
+for,1
+otherwise,1
+god,1
+would,1
+not,1
+have,1
+condemned,1
+them,1
+to,1
+born,1
+untouchables,1

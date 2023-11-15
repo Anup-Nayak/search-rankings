@@ -1,0 +1,6 @@
+78,87,2
+85,1
+a,1
+chief,1
+judge,1
+descends,1

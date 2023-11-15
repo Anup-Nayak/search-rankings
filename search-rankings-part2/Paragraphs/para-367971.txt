@@ -1,0 +1,7 @@
+95,174,3
+165,1
+talk,1
+with,1
+abdul,1
+ghaffar,1
+khan,1

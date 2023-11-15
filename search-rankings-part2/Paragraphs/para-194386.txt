@@ -1,0 +1,10 @@
+54,422,13
+1,1
+addressees,2
+son,1
+2,1
+daughters,1
+43sushila,1
+gandhis,1
+younger,1
+sister,1

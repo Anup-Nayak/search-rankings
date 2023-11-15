@@ -1,0 +1,12 @@
+13,252,11
+there,2
+is,1
+a,1
+leather,1
+bag,1
+of,1
+ours,1
+the,1
+one,1
+which,1
+kallenbach,1

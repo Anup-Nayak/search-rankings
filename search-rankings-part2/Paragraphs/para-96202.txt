@@ -1,0 +1,12 @@
+28,334,3
+bapu,1
+ps,1
+do,1
+not,1
+give,1
+up,1
+your,1
+peace,1
+patience,1
+and,1
+humility,1

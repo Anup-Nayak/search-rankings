@@ -1,0 +1,6 @@
+10,157,4
+103,1
+letter,1
+to,1
+gujarati,1
+punch,1

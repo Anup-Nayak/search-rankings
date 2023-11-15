@@ -1,0 +1,5 @@
+10,310,20
+duties,1
+of,1
+man,1
+mazzini,1

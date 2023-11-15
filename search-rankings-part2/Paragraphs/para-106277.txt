@@ -1,0 +1,15 @@
+31,245,6
+time,1
+and,1
+in,2
+the,4
+course,1
+of,1
+his,1
+speech,1
+referred,1
+to,1
+part,1
+played,1
+by,1
+youth,1

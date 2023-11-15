@@ -1,0 +1,11 @@
+23,78,17
+of,1
+the,1
+country,1
+are,1
+to,1
+have,1
+equal,1
+independence,1
+and,1
+protection,1

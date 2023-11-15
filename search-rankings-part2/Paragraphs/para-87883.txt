@@ -1,0 +1,11 @@
+26,77,1
+some,1
+vague,1
+way,1
+all,1
+are,1
+sounding,1
+words,1
+undefined,1
+and,1
+indefinite,1

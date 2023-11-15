@@ -1,0 +1,10 @@
+67,373,10
+nausea,1
+and,1
+vomiting,1
+in,1
+view,1
+of,1
+this,1
+serious,1
+news,1

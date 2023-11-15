@@ -1,0 +1,7 @@
+8,47,4
+33,1
+speech,1
+at,1
+chinese,1
+association,1
+1,1

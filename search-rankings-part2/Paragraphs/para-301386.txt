@@ -1,0 +1,6 @@
+80,142,6
+sevagram,1
+wardha,1
+march,1
+30,1
+1941,1

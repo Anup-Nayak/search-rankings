@@ -1,0 +1,7 @@
+59,291,9
+1,1
+localities,1
+inhabited,1
+by,1
+the,1
+poor,1

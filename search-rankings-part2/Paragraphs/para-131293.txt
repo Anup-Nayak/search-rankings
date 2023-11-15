@@ -1,0 +1,12 @@
+38,270,8
+there,1
+is,1
+the,2
+illusion,1
+of,3
+silver,1
+in,2
+mother,1
+pearl,1
+and,1
+moisture,1

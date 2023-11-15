@@ -1,0 +1,17 @@
+64,327,2
+you,2
+should,1
+share,1
+this,1
+with,1
+mira,1
+and,2
+muriel,1
+without,1
+fail,1
+of,1
+course,1
+polak,1
+any,1
+other,1
+like,1

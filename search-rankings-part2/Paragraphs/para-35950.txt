@@ -1,0 +1,9 @@
+11,269,6
+exempt,1
+educated,1
+indians,1
+from,1
+operation,1
+registration,1
+act,1
+and,1

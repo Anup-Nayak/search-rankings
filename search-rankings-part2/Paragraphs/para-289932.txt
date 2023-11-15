@@ -1,0 +1,6 @@
+77,248,4
+290,1
+sardar,1
+prithvi,1
+singh,1
+2,1

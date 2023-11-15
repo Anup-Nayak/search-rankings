@@ -1,0 +1,14 @@
+75,117,9
+the,2
+picketing,1
+is,1
+still,1
+going,1
+on,1
+strikers,1
+are,1
+about,1
+35,1
+to,1
+45,1
+in,1

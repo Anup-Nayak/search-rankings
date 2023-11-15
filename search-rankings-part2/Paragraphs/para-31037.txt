@@ -1,0 +1,7 @@
+10,157,6
+to,1
+the,1
+editor,1
+gujarati,1
+punch,1
+bombay,1

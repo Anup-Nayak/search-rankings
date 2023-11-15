@@ -1,0 +1,8 @@
+13,148,15
+verbal,1
+statement,1
+amendment,1
+as,1
+it,1
+stands,1
+entire,1

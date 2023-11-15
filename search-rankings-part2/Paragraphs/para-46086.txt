@@ -1,0 +1,7 @@
+14,20,3
+the,2
+rev,2
+c,1
+f,1
+andrews,1
+and,1

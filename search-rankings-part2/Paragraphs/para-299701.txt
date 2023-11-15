@@ -1,0 +1,6 @@
+79,455,6
+quick,1
+passage,1
+to,1
+the,1
+west,1

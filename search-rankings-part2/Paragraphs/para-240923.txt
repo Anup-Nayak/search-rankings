@@ -1,0 +1,16 @@
+65,368,6
+j,1
+l,1
+goheen,1
+esq,1
+sangli,2
+industrial,1
+and,1
+agricultural,1
+school,1
+american,1
+presbyterian,1
+mission,1
+m,2
+s,1
+rly,1

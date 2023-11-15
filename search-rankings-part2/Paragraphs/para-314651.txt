@@ -1,0 +1,11 @@
+82,384,15
+independent,1
+states,1
+having,1
+no,1
+reliance,1
+upon,1
+the,2
+paramountcy,1
+of,1
+british,1

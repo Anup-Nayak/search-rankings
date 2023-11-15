@@ -1,0 +1,6 @@
+86,197,6
+360,1
+letter,1
+to,1
+saraswati,1
+gandhi,1

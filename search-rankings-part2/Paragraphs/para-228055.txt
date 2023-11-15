@@ -1,0 +1,10 @@
+62,294,9
+replying,1
+to,1
+the,2
+addresses,1
+and,2
+acknowledging,1
+purses,1
+other,1
+presents,1

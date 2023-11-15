@@ -1,0 +1,6 @@
+39,24,3
+sabarmati,1
+india,1
+june,1
+8,1
+1927,1

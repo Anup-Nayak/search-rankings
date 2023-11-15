@@ -1,0 +1,7 @@
+54,112,11
+that,1
+the,1
+congress,1
+had,1
+solved,1
+it,1

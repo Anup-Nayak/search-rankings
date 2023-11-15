@@ -1,0 +1,8 @@
+5,90,14
+yours,1
+faithfully,1
+m,1
+k,1
+gandhi,1
+1,1
+enclosure,1

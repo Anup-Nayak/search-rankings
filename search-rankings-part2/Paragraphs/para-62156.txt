@@ -1,0 +1,6 @@
+17,402,10
+stones,1
+smashed,1
+windowpanes,1
+towards,1
+evening,1

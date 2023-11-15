@@ -1,0 +1,11 @@
+36,17,4
+from,1
+a,2
+photostat,1
+of,2
+copy,1
+the,1
+gujarati,1
+s,1
+n,1
+12196,1

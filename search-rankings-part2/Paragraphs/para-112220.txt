@@ -1,0 +1,15 @@
+33,223,8
+i,1
+hope,1
+you,2
+are,1
+quite,1
+well,2
+god,1
+keep,1
+on,1
+the,1
+voyage,1
+with,1
+deepest,1
+love,1

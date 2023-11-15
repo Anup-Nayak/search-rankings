@@ -1,0 +1,10 @@
+79,194,6
+q,1
+should,1
+congress,1
+members,1
+be,1
+enrolled,1
+in,1
+indian,1
+states,1

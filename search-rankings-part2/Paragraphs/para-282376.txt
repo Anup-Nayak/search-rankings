@@ -1,0 +1,13 @@
+75,302,21
+q,1
+what,1
+is,1
+the,2
+present,1
+machinery,1
+to,2
+give,1
+advice,1
+ministries,1
+do,1
+they,1

@@ -1,0 +1,6 @@
+42,50,3
+yours,1
+sincerely,1
+samuel,1
+r,1
+perry,1

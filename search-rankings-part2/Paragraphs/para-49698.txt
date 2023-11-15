@@ -1,0 +1,4 @@
+14,470,26
+lord,1
+hardinges,1
+speech1,1

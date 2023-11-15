@@ -1,0 +1,7 @@
+75,284,4
+repression,1
+no,1
+parishad,1
+in,1
+this,1
+condition,1

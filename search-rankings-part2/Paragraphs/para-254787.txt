@@ -1,0 +1,10 @@
+68,388,3
+vandemataram,1
+from,1
+bapu,1
+ps,1
+reply,1
+to,1
+the,1
+wardha,1
+address,1

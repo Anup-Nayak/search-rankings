@@ -1,0 +1,17 @@
+62,460,24
+group,1
+or,1
+individual,1
+and,1
+lose,1
+support,1
+but,1
+i,1
+am,1
+not,1
+a,1
+politician,1
+by,1
+choice,1
+forces,1
+stronger,1

@@ -1,0 +1,6 @@
+49,423,7
+476,1
+letter,1
+to,1
+maitri,1
+giri,1

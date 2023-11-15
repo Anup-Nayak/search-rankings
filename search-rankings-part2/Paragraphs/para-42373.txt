@@ -1,0 +1,9 @@
+13,70,7
+does,1
+not,1
+cover,1
+question,1
+existing,1
+rights,1
+south,1
+africa,1

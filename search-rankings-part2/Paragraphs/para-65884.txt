@@ -1,0 +1,15 @@
+19,9,12
+she,1
+was,2
+travelling,1
+in,2
+trains,1
+though,1
+he,2
+found,1
+her,2
+73rd,1
+year,1
+glad,1
+to,1
+see,1

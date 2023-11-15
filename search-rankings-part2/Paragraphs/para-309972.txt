@@ -1,0 +1,6 @@
+82,14,8
+generalissimo,1
+chiang,1
+kai,1
+shek,1
+delhi,1

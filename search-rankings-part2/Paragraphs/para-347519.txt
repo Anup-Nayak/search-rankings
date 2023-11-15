@@ -1,0 +1,6 @@
+90,105,4
+141,1
+letter,1
+to,1
+anantram,1
+puri,1

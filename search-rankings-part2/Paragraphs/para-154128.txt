@@ -1,0 +1,5 @@
+44,481,3
+t7,1
+guj,1
+has,1
+renunciation,1

@@ -1,0 +1,16 @@
+6,187,18
+1,2
+this,1
+was,1
+sent,1
+to,1
+other,1
+papers,1
+also,1
+and,1
+published,1
+in,1
+south,1
+africa,1
+12,1
+1906,1

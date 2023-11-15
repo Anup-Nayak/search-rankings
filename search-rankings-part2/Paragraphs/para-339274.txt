@@ -1,0 +1,7 @@
+88,106,10
+sunday,1
+seventh,1
+2,1
+four,1
+evening,1
+gandhi,1

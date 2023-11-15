@@ -1,0 +1,7 @@
+25,36,5
+power,1
+posted,1
+trust,1
+requires,1
+modification,1
+authorize,1

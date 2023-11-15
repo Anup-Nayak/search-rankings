@@ -1,0 +1,7 @@
+58,270,1
+379,1
+letter,1
+to,1
+horace,1
+g,1
+alexander,1

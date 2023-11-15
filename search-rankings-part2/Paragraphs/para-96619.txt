@@ -1,0 +1,4 @@
+28,390,2
+favouritism,1
+or,1
+justice,1

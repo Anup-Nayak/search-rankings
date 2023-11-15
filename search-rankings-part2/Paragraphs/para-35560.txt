@@ -1,0 +1,6 @@
+11,236,9
+free,2
+liability,1
+transvaal,1
+registration,1
+act,1

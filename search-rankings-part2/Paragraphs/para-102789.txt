@@ -1,0 +1,9 @@
+30,206,16
+q,1
+what,1
+happened,1
+over,1
+the,1
+pamphlet,1
+after,1
+that,1

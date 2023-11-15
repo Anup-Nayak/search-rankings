@@ -1,0 +1,13 @@
+75,193,3
+i,3
+have,1
+nothing,1
+new,1
+would,1
+repeat,1
+what,1
+said,1
+in,1
+my,1
+telegram,1
+2,1

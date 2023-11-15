@@ -1,0 +1,16 @@
+77,394,10
+things,1
+that,1
+he,2
+has,2
+been,1
+saying,1
+for,1
+the,1
+last,1
+ten,1
+or,1
+fifteen,1
+years,1
+said,1
+nothing,1

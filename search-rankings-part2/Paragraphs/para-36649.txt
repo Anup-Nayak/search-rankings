@@ -1,0 +1,8 @@
+11,319,13
+freestaters,1
+1,1
+now,1
+considering,1
+final,1
+decision,1
+probably,1

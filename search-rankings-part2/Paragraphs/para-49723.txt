@@ -1,0 +1,10 @@
+14,472,16
+from,1
+them,1
+stop,1
+i,1
+trust,1
+that,1
+gandhi,1
+will,1
+communicate,1

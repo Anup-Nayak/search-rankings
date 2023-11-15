@@ -1,0 +1,13 @@
+65,97,1
+feels,1
+an,1
+urge,1
+from,1
+within,1
+external,1
+means,1
+produce,1
+only,1
+a,1
+temporary,1
+effect,1

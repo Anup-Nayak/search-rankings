@@ -1,0 +1,10 @@
+30,7,3
+9,1
+speech,1
+on,2
+resolution,1
+office,1
+bearers,1
+1,1
+belgaum,1
+congress,1

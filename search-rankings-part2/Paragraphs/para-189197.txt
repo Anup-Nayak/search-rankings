@@ -1,0 +1,12 @@
+53,286,4
+must,2
+mean,2
+all,1
+cattle,1
+wealth,2
+and,1
+brahmin,1
+the,1
+of,1
+true,1
+knowledge,1

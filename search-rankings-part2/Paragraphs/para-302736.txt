@@ -1,0 +1,6 @@
+80,279,1
+478,1
+letter,1
+to,1
+annada,1
+babu,1

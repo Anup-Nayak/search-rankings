@@ -1,0 +1,7 @@
+15,82,4
+hadala,1
+sunday,1
+december,1
+12,1
+1915,1
+1,1

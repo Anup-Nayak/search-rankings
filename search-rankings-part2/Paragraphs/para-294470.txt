@@ -1,0 +1,15 @@
+78,284,5
+3,1
+the,2
+insanitary,1
+drain,2
+behind,1
+sweepers,1
+quarters,1
+requires,1
+to,1
+be,1
+made,1
+into,1
+a,1
+pucca,1

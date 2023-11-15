@@ -1,0 +1,8 @@
+62,269,12
+2,1
+a,1
+gujarati,1
+daily,1
+published,1
+from,1
+bombay,1

@@ -1,0 +1,12 @@
+23,23,15
+national,1
+congress,1
+for,1
+that,1
+purpose,1
+they,1
+wanted,1
+mohammedans,1
+and,2
+hindus,1
+men,1

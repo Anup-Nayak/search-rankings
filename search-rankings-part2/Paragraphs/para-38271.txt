@@ -1,0 +1,7 @@
+12,0,1
+1,1
+to,1
+the,1
+colonial,1
+born,1
+indian,1

@@ -1,0 +1,6 @@
+74,379,1
+502,1
+enlightened,1
+anarchya,1
+political,1
+ideal,1

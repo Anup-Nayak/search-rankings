@@ -1,0 +1,9 @@
+50,321,2
+sunday,1
+on,1
+or,1
+after,1
+december,1
+14,1
+1930,1
+1,1

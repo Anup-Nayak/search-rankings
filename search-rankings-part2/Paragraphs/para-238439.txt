@@ -1,0 +1,9 @@
+65,106,17
+1,1
+found,1
+among,1
+the,1
+letters,1
+to,1
+gopinath,1
+bardoloi,1

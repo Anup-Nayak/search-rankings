@@ -1,0 +1,4 @@
+28,475,11
+282,1
+pertinent,1
+questions,1

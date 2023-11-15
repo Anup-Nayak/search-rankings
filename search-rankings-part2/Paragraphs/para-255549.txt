@@ -1,0 +1,3 @@
+69,17,9
+blessings,1
+from,1

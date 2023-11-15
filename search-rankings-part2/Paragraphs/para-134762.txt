@@ -1,0 +1,13 @@
+39,251,5
+suraj,1
+prasad,1
+mathur,1
+teacher,1
+sir,1
+harcourt,1
+butler,1
+high,1
+school,1
+helen,1
+lodge,1
+simla,1

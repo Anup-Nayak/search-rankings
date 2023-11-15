@@ -1,0 +1,12 @@
+57,377,7
+1,1
+secretary,1
+of,1
+the,1
+andhra,1
+university,1
+college,1
+telugu,1
+association,1
+vizaga,1
+patnam,1

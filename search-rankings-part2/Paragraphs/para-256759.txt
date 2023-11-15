@@ -1,0 +1,10 @@
+69,150,9
+the,2
+boys,1
+knowing,1
+urdu,1
+alphabet,1
+should,1
+not,1
+forget,1
+it,1

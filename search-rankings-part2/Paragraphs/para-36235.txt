@@ -1,0 +1,9 @@
+11,292,18
+small,1
+relief,1
+required,1
+for,1
+closing,1
+struggle,1
+will,1
+be,1

@@ -1,0 +1,8 @@
+30,285,4
+150,1
+speech,1
+at,1
+public,1
+meeting,1
+wadhwan,1
+camp,1

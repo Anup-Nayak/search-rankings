@@ -1,0 +1,13 @@
+78,185,14
+exhibition,1
+by,1
+name,1
+and,2
+it,1
+directed,1
+them,1
+to,1
+remove,1
+the,1
+flag,2
+staff,1

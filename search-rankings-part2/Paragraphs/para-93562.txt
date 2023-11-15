@@ -1,0 +1,16 @@
+27,409,11
+but,1
+i,1
+and,1
+many,1
+others,1
+in,1
+this,1
+line,1
+fail,1
+to,1
+understand,1
+why,1
+the,2
+price,1
+of,1

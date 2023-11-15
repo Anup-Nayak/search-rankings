@@ -1,0 +1,8 @@
+32,96,6
+midnapur,1
+ashadh,1
+vad,1
+1,2
+july,1
+7,1
+1925,1

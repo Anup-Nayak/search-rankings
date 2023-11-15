@@ -1,0 +1,7 @@
+18,37,3
+strongly,1
+advise,1
+charlie,1
+not,1
+proceed,1
+lahore,1

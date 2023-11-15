@@ -1,0 +1,17 @@
+26,462,5
+visited,1
+the,2
+gaol,1
+near,1
+this,1
+city,1
+where,1
+he,1
+is,1
+confined,1
+and,1
+talked,1
+with,1
+man,1
+who,1
+more,1

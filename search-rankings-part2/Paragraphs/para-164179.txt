@@ -1,0 +1,14 @@
+47,210,14
+already,1
+sent,1
+enable,1
+me,1
+get,1
+their,1
+statement,1
+if,1
+any,1
+hope,1
+you,1
+are,1
+well,1

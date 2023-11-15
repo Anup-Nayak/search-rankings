@@ -1,0 +1,10 @@
+65,45,3
+david,1
+b,1
+hart,1
+esq,1
+pipestone,1
+minnesota,1
+u,1
+s,1
+a,1

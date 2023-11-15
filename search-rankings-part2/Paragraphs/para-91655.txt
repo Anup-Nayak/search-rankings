@@ -1,0 +1,13 @@
+27,154,2
+1,1
+this,1
+was,1
+translation,1
+of,1
+hindi,1
+swaraj,2
+vide,1
+hind,1
+22,1
+11,1
+1909,1

@@ -1,0 +1,15 @@
+73,48,6
+jamnalal,1
+neither,1
+we,1
+nor,1
+bapu,1
+the,2
+nation,1
+that,1
+is,1
+working,1
+committee,1
+will,1
+do,1
+it,1

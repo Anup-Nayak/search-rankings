@@ -1,0 +1,17 @@
+3,198,13
+the,5
+result,1
+of,1
+building,1
+rooms,1
+round,1
+courtyard,2
+is,1
+that,1
+every,1
+room,1
+opens,1
+directly,1
+into,2
+air,1
+yes,1

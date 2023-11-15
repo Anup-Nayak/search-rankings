@@ -1,0 +1,6 @@
+40,340,3
+c,1
+rajagopalachari,1
+gandhi,1
+ashram,1
+tiruchengodu,1

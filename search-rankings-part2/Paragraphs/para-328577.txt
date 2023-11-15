@@ -1,0 +1,6 @@
+85,466,2
+letter,1
+from,1
+durlab,1
+singh,1
+1,1

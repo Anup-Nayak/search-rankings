@@ -1,0 +1,14 @@
+10,311,30
+sometimes,1
+stopped,1
+that,2
+we,1
+are,1
+constrained,1
+to,1
+bend,1
+the,2
+knee,1
+before,1
+of,1
+east,1

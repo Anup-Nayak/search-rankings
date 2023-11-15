@@ -1,0 +1,14 @@
+23,301,8
+from,1
+their,1
+friendship,1
+and,2
+that,1
+the,1
+hindus,1
+muslims,1
+alone,1
+were,1
+to,1
+be,1
+friends,1

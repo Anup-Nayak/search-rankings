@@ -1,0 +1,6 @@
+18,166,5
+144,1
+swadeshi,1
+sabha,1
+rules,1
+1,1

@@ -1,0 +1,16 @@
+65,84,14
+1,1
+vide,2
+the,1
+preceding,1
+item,1
+2,1
+also,1
+letter,1
+to,1
+matilda,1
+b,1
+kallon,1
+19,1
+9,1
+1934,1

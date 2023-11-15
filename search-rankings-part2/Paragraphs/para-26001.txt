@@ -1,0 +1,6 @@
+8,476,2
+who,1
+have,1
+taken,1
+out,1
+licences,1

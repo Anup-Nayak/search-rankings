@@ -1,0 +1,15 @@
+82,394,26
+british,1
+came,1
+and,1
+had,1
+more,1
+power,1
+then,1
+than,1
+now,1
+the,2
+second,1
+flaw,1
+is,1
+recognition,1

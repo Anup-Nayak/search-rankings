@@ -1,0 +1,5 @@
+7,125,3
+98,1
+parsi,1
+ladys,1
+courage,1

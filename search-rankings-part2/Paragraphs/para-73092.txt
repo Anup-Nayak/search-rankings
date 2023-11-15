@@ -1,0 +1,7 @@
+21,84,7
+57,1
+speech,1
+at,1
+sind,1
+national,1
+college,1

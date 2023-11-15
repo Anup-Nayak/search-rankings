@@ -1,0 +1,15 @@
+82,397,14
+am,2
+not,1
+in,1
+the,2
+congress,2
+i,1
+neither,1
+a,1
+member,1
+nor,1
+an,1
+officer,1
+of,1
+party,1

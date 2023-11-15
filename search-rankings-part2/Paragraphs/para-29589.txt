@@ -1,0 +1,17 @@
+9,473,11
+a,2
+for,3
+the,2
+purpose,2
+of,3
+or,2
+in,1
+connection,1
+with,1
+an,1
+application,1
+registration,2
+obtaining,1
+certificate,1
+commits,1
+any,1

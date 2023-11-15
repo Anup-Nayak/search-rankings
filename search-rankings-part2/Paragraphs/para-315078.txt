@@ -1,0 +1,17 @@
+82,396,29
+qualities,1
+of,1
+a,2
+great,1
+statesman,1
+it,1
+is,1
+very,1
+discouraging,1
+to,1
+us,1
+that,1
+the,1
+man,1
+who,1
+was,1

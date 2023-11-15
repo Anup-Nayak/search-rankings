@@ -1,0 +1,17 @@
+89,282,6
+to,3
+whom,3
+shall,1
+we,3
+then,1
+pray,1
+god,1
+you,1
+do,2
+not,2
+know,2
+always,1
+the,1
+person,1
+are,1
+praying,1

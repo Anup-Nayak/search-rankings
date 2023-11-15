@@ -1,0 +1,5 @@
+8,16,2
+13,1
+ram,1
+sundar,1
+pundit,1

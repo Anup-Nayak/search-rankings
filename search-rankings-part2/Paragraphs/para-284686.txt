@@ -1,0 +1,7 @@
+76,98,1
+123,1
+letter,1
+to,1
+sikandar,1
+hyat,1
+khan,1

@@ -1,0 +1,12 @@
+46,179,6
+4,1
+never,1
+does,1
+man,1
+enjoy,1
+freedom,1
+from,1
+action,2
+by,1
+not,1
+undertaking,1

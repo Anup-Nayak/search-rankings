@@ -1,0 +1,6 @@
+4,152,2
+124,1
+some,1
+more,1
+potchefstroom,1
+inaccuracies,1

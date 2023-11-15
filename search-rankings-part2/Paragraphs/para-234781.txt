@@ -1,0 +1,10 @@
+64,156,6
+but,1
+then,1
+you,1
+have,1
+been,1
+participating,1
+in,1
+political,1
+discussions,1

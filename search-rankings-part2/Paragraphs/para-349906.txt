@@ -1,0 +1,11 @@
+90,389,11
+1,1
+the,2
+letter,1
+is,1
+in,1
+devangari,1
+script,1
+2vide,1
+slighting,1
+swaraj,1

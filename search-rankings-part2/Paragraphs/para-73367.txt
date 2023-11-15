@@ -1,0 +1,9 @@
+21,119,6
+brave,1
+followers,1
+all,1
+cheerfully,1
+go,1
+jail,1
+scrupulously,1
+avoiding,1

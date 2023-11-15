@@ -1,0 +1,13 @@
+32,442,10
+i,1
+was,1
+taken,1
+too,1
+to,1
+a,2
+village,1
+called,1
+golunda,1
+co,1
+operative,1
+centre,1

@@ -1,0 +1,6 @@
+32,67,5
+52,1
+letter,1
+to,1
+jamnalal,1
+bajaj,1

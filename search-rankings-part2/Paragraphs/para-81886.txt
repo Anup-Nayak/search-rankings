@@ -1,0 +1,13 @@
+24,99,6
+he,2
+said,1
+that,2
+believed,1
+they,1
+had,1
+all,2
+read,1
+the,2
+resolutions,1
+of,1
+india,1

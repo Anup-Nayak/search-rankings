@@ -1,0 +1,9 @@
+52,255,2
+a,1
+student,1
+who,1
+sends,1
+his,1
+name,1
+writes,1
+1,1

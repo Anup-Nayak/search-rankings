@@ -1,0 +1,7 @@
+82,412,19
+from,1
+the,1
+imperial,1
+bank,1
+of,1
+england,1

@@ -1,0 +1,7 @@
+25,98,5
+43,1
+letter,1
+to,1
+haji,1
+siddik,1
+khatri,1

@@ -1,0 +1,16 @@
+74,367,10
+q,1
+but,1
+that,2
+is,1
+one,1
+of,1
+the,2
+things,1
+planning,1
+commission,1
+has,1
+set,1
+itself,1
+to,1
+do,1

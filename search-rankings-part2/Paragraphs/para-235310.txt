@@ -1,0 +1,10 @@
+64,215,3
+shanti,1
+i,1
+wish,1
+you,1
+will,1
+get,1
+properly,1
+settled,1
+down,1

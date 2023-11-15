@@ -1,0 +1,15 @@
+16,34,3
+a,1
+in,1
+no,1
+case,1
+was,1
+the,1
+rent,2
+to,1
+be,1
+greater,1
+than,1
+fair,1
+and,1
+equitable,1

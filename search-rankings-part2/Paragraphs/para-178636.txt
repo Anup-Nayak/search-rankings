@@ -1,0 +1,5 @@
+51,92,1
+127,1
+letter,1
+to,1
+shakaribehn,1

@@ -1,0 +1,16 @@
+30,303,5
+i,1
+publish,1
+the,3
+following,1
+telegraphic,1
+correspondence,1
+between,1
+private,1
+secretary,1
+to,1
+h,1
+e,1
+viceroy,1
+and,1
+myself,1

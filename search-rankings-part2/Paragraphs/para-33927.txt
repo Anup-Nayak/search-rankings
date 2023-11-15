@@ -1,0 +1,8 @@
+11,42,1
+and,1
+black,1
+flags,1
+were,1
+unfurled,1
+over,1
+offices,1

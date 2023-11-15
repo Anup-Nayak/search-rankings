@@ -1,0 +1,7 @@
+38,261,1
+260,1
+letter,1
+to,1
+s,1
+d,1
+satavalekar,1

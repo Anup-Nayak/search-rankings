@@ -1,0 +1,16 @@
+23,476,15
+machine,1
+made,1
+cloth,1
+was,1
+not,1
+desirable,1
+from,1
+the,1
+national,1
+point,1
+of,1
+view,1
+that,1
+man,1
+or,1

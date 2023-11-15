@@ -1,0 +1,9 @@
+47,106,5
+foreign,1
+yarn,1
+and,1
+cloth,1
+imported,1
+rs,1
+66,1
+crores,1

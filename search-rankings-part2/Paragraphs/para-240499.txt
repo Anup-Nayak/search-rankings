@@ -1,0 +1,13 @@
+65,333,5
+yours,1
+sincerely,1
+shri,2
+bhau,1
+p,1
+patil,1
+chhatrapati,1
+shahu,1
+boarding,1
+house,1
+satara,1
+city,1

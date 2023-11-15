@@ -1,0 +1,5 @@
+92,10,1
+14,1
+his,1
+greatest,1
+characteristic,1

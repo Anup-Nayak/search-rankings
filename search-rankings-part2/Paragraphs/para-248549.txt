@@ -1,0 +1,10 @@
+67,175,11
+pledge,1
+honour,1
+not,1
+talk,1
+anything,1
+but,1
+domestic,1
+affairs,1
+health,1

@@ -1,0 +1,9 @@
+34,177,4
+sheth,1
+daud,1
+mahomed,1
+and,1
+others,1
+enter,1
+the,1
+struggle,1

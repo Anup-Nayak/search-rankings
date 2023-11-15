@@ -1,0 +1,8 @@
+34,468,1
+225,1
+some,1
+questions,1
+on,1
+religious,1
+issues,1
+1,1

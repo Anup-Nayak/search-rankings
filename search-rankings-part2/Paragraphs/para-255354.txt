@@ -1,0 +1,5 @@
+68,445,2
+for,1
+hindustani,1
+only,1
+1,1

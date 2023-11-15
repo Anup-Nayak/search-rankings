@@ -1,0 +1,12 @@
+94,61,18
+therefore,1
+he,1
+advised,1
+women,1
+to,2
+resort,1
+civil,1
+rebellion,1
+against,1
+all,1
+undesirable,1

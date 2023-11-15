@@ -1,0 +1,17 @@
+53,201,9
+a,1
+yes,1
+that,1
+is,1
+possible,1
+the,2
+women,1
+should,1
+be,1
+ready,1
+for,1
+this,1
+risk,1
+when,1
+joining,1
+ashram,1

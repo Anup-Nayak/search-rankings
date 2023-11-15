@@ -1,0 +1,10 @@
+30,198,24
+q,1
+did,1
+you,1
+talk,1
+to,1
+anyone,1
+from,1
+the,1
+crowd,1

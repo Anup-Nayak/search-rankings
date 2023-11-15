@@ -1,0 +1,6 @@
+21,520,6
+religious,1
+teacher,1
+vinayak,1
+narahar,1
+bhave,1

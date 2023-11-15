@@ -1,0 +1,13 @@
+50,218,13
+1,1
+the,1
+letter,1
+was,1
+evidently,1
+begun,1
+earlier,1
+and,1
+completed,1
+on,1
+this,1
+date,1

@@ -1,0 +1,6 @@
+89,37,6
+67,1
+letter,1
+to,1
+khwaja,1
+nazimuddin,1

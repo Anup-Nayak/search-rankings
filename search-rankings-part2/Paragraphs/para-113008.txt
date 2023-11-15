@@ -1,0 +1,6 @@
+33,317,2
+wardha,1
+thursday,1
+december,1
+17,1
+1925,1

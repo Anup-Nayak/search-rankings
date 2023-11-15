@@ -1,0 +1,12 @@
+19,146,3
+after,1
+referring,1
+to,1
+the,2
+unfortunate,1
+incident,1
+1,1
+mr,1
+gandhi,1
+explained,1
+why,1

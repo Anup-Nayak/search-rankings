@@ -1,0 +1,13 @@
+42,448,13
+1,1
+this,1
+was,1
+an,1
+enclosure,1
+to,1
+the,2
+following,1
+item,2
+2,1
+vide,1
+preceding,1

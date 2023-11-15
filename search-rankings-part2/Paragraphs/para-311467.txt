@@ -1,0 +1,17 @@
+82,133,27
+evacuee,1
+are,1
+we,1
+to,1
+put,1
+up,1
+with,1
+it,1
+silently,1
+or,1
+should,1
+the,1
+soldier,1
+be,1
+forcibly,1
+dealt,1

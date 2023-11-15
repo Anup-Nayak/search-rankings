@@ -1,0 +1,12 @@
+51,418,2
+a,1
+correspondent,1
+sends,1
+the,2
+following,1
+ingenious,1
+suggestion,1
+for,1
+solving,1
+communal,1
+puzzle,1

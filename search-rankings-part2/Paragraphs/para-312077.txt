@@ -1,0 +1,6 @@
+82,181,8
+221,1
+letter,1
+to,1
+purushottamdas,1
+tandon,1

@@ -1,0 +1,11 @@
+44,500,2
+chapter,1
+i,1
+pp,1
+296,1
+7,1
+t1,1
+guj,1
+adds,1
+the,1
+head,1

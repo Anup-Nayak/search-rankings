@@ -1,0 +1,15 @@
+40,42,2
+a,1
+volunteer,1
+you,3
+will,1
+bless,2
+the,1
+movement,1
+have,1
+had,1
+my,1
+blessings,1
+i,1
+shall,1
+again,1

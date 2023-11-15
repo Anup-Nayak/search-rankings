@@ -1,0 +1,12 @@
+33,9,3
+9,1
+i,1
+accept,1
+the,2
+argument,1
+that,1
+observing,1
+brahmacharya,1
+is,1
+only,1
+right,1

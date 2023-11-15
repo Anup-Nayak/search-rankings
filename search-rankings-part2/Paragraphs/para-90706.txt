@@ -1,0 +1,9 @@
+27,49,5
+dependence,2
+contributes,1
+to,1
+its,1
+political,1
+gandhi,1
+declared,1
+without,1

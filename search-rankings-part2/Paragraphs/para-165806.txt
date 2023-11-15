@@ -1,0 +1,6 @@
+47,392,14
+1,1
+a,1
+nationalist,1
+hindi,1
+daily,1

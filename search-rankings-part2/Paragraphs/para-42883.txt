@@ -1,0 +1,8 @@
+13,142,16
+if,1
+questions,1
+included,1
+provisional,1
+settlement,1
+left,1
+unsolved,1

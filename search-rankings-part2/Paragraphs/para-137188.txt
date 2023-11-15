@@ -1,0 +1,10 @@
+40,123,5
+66,1
+speech,1
+in,1
+reply,1
+to,1
+municipal,1
+address,1
+trichinopoly,1
+1,1

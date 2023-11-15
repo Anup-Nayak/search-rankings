@@ -1,0 +1,13 @@
+82,313,7
+course,1
+would,1
+be,1
+to,1
+withdraw,1
+from,1
+india,1
+but,1
+inevitably,1
+the,1
+withdrawal,1
+will,1

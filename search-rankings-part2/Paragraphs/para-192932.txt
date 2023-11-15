@@ -1,0 +1,12 @@
+54,272,2
+q,1
+is,1
+non,2
+co,1
+operation,1
+in,2
+military,2
+matters,2
+balanced,1
+by,1
+service,1

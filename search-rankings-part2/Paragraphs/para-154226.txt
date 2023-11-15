@@ -1,0 +1,5 @@
+44,484,12
+t13,1
+guj,1
+adds,1
+specially,1

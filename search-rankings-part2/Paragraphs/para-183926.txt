@@ -1,0 +1,14 @@
+52,189,12
+that,1
+has,1
+caused,1
+missionary,1
+doctors,1
+to,2
+specialize,1
+in,1
+hospitals,1
+of,1
+healing,1
+the,1
+neglect,1

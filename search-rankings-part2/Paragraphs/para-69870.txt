@@ -1,0 +1,11 @@
+20,52,3
+1,1
+an,1
+englishwoman,1
+who,1
+worked,1
+in,1
+the,1
+local,1
+mission,1
+school,1

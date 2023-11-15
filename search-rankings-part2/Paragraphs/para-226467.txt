@@ -1,0 +1,15 @@
+62,89,3
+1,1
+an,1
+extract,1
+from,1
+the,1
+letter,2
+appears,1
+in,1
+to,1
+mathurdas,1
+trikumji,1
+2,1
+not,1
+available,1

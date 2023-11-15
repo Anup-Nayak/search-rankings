@@ -1,0 +1,17 @@
+5,290,2
+1,1
+the,2
+gujarati,1
+idiom,1
+literally,1
+means,1
+draw,1
+sheet,1
+and,1
+stretch,1
+or,1
+huddle,1
+according,1
+to,1
+its,1
+size,1

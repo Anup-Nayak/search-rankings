@@ -1,0 +1,7 @@
+18,144,1
+132,1
+questions,1
+on,1
+cotton,1
+industry,1
+1,1

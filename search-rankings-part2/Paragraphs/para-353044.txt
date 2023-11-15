@@ -1,0 +1,12 @@
+91,287,2
+to,2
+speak,1
+the,1
+truth,1
+you,1
+have,1
+weigh,1
+your,1
+words,1
+again,2
+and,1

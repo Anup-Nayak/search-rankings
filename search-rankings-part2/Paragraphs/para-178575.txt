@@ -1,0 +1,7 @@
+51,86,20
+1,1
+as,1
+the,1
+loud,1
+speakers,1
+failed,1

@@ -1,0 +1,9 @@
+17,325,8
+so,1
+far,1
+as,1
+able,1
+gauge,1
+public,1
+opinion,1
+during,1

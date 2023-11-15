@@ -1,0 +1,8 @@
+92,71,4
+have,1
+just,1
+seen,1
+your,1
+official,1
+contradiction,1
+about,1

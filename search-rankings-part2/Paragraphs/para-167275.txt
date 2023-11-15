@@ -1,0 +1,5 @@
+48,121,2
+134,1
+women,1
+and,1
+ornaments,1

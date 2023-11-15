@@ -1,0 +1,13 @@
+30,206,12
+q,1
+but,1
+did,1
+it,2
+hear,1
+about,1
+for,1
+the,2
+first,1
+time,1
+in,1
+mosque,1

@@ -1,0 +1,8 @@
+40,461,7
+302,1
+letter,1
+to,1
+mirabehn,1
+november,1
+28,1
+1927,1

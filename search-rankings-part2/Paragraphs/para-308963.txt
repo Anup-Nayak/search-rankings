@@ -1,0 +1,10 @@
+81,392,11
+from,1
+a,1
+photostat,1
+c,1
+w,1
+10953,1
+courtesy,1
+indumati,1
+tendulkar,1

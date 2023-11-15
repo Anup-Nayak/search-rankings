@@ -1,0 +1,13 @@
+83,393,10
+but,1
+if,1
+there,1
+is,1
+no,1
+withdrawal,1
+then,1
+disturbances,1
+are,1
+bound,1
+to,1
+happen,1

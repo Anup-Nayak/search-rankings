@@ -1,0 +1,9 @@
+81,476,6
+his,1
+instructions,1
+should,2
+he,2
+punish,1
+them,1
+get,1
+angry,1

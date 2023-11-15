@@ -1,0 +1,11 @@
+83,400,18
+whom,1
+he,2
+had,3
+rendered,1
+unable,1
+to,2
+reply,1
+continue,1
+unchecked,1
+once,1

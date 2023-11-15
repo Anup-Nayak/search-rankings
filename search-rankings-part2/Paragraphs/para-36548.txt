@@ -1,0 +1,12 @@
+11,312,1
+s,1
+no,1
+i,1
+am,1
+not,1
+can,1
+you,1
+show,1
+it,1
+to,1
+me,1

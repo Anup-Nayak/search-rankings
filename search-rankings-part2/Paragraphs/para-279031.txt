@@ -1,0 +1,10 @@
+74,387,8
+g,1
+it,1
+is,1
+quite,1
+a,1
+good,1
+and,1
+sound,1
+idea,1

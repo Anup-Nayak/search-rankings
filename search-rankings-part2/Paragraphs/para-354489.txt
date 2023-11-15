@@ -1,0 +1,16 @@
+91,438,19
+that,1
+must,1
+be,1
+straightened,1
+out,1
+he,1
+then,1
+went,1
+in,1
+some,1
+detail,1
+into,1
+the,2
+question,1
+of,1

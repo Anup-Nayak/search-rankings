@@ -1,0 +1,8 @@
+29,280,3
+maulana,1
+abdul,1
+bari,1
+sahib,1
+firangi,1
+mahal,1
+lucknow,1

@@ -1,0 +1,10 @@
+54,164,5
+1,1
+the,2
+subject,1
+being,1
+considered,1
+by,1
+committee,1
+was,1
+defence,1

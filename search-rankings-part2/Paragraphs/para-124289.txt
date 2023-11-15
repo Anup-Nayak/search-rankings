@@ -1,0 +1,6 @@
+36,345,4
+only,1
+a,1
+few,1
+years,1
+ago,1

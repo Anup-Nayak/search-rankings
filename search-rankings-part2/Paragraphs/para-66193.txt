@@ -1,0 +1,11 @@
+19,52,2
+we,3
+are,2
+not,1
+guilty,1
+have,1
+suffered,1
+from,1
+two,1
+famines,1
+hardly,1

@@ -1,0 +1,14 @@
+46,312,3
+civilized,1
+country,1
+it,2
+is,1
+our,1
+duty,1
+to,1
+wash,1
+clean,1
+of,2
+the,1
+stains,1
+anciet,1

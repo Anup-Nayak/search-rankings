@@ -1,0 +1,9 @@
+14,0,16
+time,1
+appointment,1
+stop,1
+at,1
+interview,1
+if,1
+granted,1
+other,1

@@ -1,0 +1,7 @@
+24,360,10
+jamnalal,1
+bajaj,1
+ahmed,1
+haji,1
+sidick,1
+khatri,1

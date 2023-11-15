@@ -1,0 +1,10 @@
+22,280,4
+dont,1
+ask,1
+for,1
+external,1
+unity,1
+go,1
+on,1
+acting,1
+rightly,1

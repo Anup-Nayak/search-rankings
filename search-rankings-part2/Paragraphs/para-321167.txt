@@ -1,0 +1,14 @@
+84,194,12
+i,1
+am,1
+not,1
+an,1
+invalid,1
+that,1
+you,1
+imagine,1
+me,1
+to,1
+be,1
+and,1
+mentally,1

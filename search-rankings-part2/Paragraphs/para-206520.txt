@@ -1,0 +1,5 @@
+57,371,14
+about,1
+overcoming,1
+every,1
+difficulty,1

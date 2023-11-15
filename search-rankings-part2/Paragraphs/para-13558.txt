@@ -1,0 +1,7 @@
+5,276,2
+262,1
+indian,1
+stretcher,1
+bearer,1
+corps,1
+1,1

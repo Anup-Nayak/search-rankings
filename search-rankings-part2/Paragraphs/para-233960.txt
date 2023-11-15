@@ -1,0 +1,15 @@
+64,67,6
+untouchability,1
+had,1
+its,1
+origin,1
+not,1
+in,2
+religion,1
+but,1
+mere,1
+pride,1
+of,1
+race,1
+and,1
+the,1

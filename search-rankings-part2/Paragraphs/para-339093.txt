@@ -1,0 +1,5 @@
+88,92,13
+202,1
+letter,1
+to,1
+hoshiari,1

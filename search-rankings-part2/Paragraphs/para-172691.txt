@@ -1,0 +1,12 @@
+49,364,11
+bapu,1
+chi,1
+narandas,1
+gandhi,1
+sabarmati,1
+ashram,1
+b,2
+&,1
+c,1
+i,1
+rly,1

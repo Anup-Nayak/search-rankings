@@ -1,0 +1,4 @@
+9,23,6
+twelve,1
+more,1
+indians,1

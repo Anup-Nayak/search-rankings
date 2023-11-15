@@ -1,0 +1,4 @@
+12,354,2
+arrived,1
+at,1
+phoenix,1

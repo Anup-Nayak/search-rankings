@@ -1,0 +1,8 @@
+3,305,3
+203,1
+the,1
+east,1
+rand,1
+expressand,1
+its,1
+facts,1

@@ -1,0 +1,7 @@
+96,273,8
+satis,1
+babu,1
+gandhi,1
+camp,1
+ramganj,1
+noakhali,1

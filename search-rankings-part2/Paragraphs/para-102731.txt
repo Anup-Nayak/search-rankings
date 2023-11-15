@@ -1,0 +1,6 @@
+30,203,7
+q,1
+your,1
+name,1
+maulvi,1
+saheb,1

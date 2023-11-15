@@ -1,0 +1,10 @@
+62,77,4
+95,1
+letter,1
+to,1
+jawaharlal,1
+nehru,1
+wardha,1
+october,1
+26,1
+1933,1

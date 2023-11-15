@@ -1,0 +1,11 @@
+82,393,21
+5,1
+to,1
+prepare,1
+a,1
+glossary,1
+of,1
+technical,1
+terms,1
+in,1
+hindustani,1

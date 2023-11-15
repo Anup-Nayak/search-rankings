@@ -1,0 +1,8 @@
+27,20,10
+distressed,1
+over,1
+news,1
+more,1
+because,1
+helpless,1
+and,1

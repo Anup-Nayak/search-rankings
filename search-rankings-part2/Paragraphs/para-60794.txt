@@ -1,0 +1,9 @@
+17,238,18
+effect,1
+is,1
+sure,1
+to,1
+tell,1
+heavily,1
+upon,1
+india,1

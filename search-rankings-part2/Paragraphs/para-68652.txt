@@ -1,0 +1,8 @@
+19,374,4
+1,1
+here,1
+the,2
+original,1
+has,1
+english,1
+word,1

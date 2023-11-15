@@ -1,0 +1,6 @@
+30,81,3
+42,1
+to,1
+salesmen,1
+of,1
+sawraj,1

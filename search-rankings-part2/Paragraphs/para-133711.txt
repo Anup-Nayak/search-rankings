@@ -1,0 +1,9 @@
+39,94,6
+from,1
+gujarati,1
+c,1
+w,1
+7392,1
+courtesy,1
+valjibhai,1
+desai,1

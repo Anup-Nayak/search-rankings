@@ -1,0 +1,8 @@
+50,336,8
+1,1
+taittiriyopanishad,1
+ii,1
+shantipath,1
+2,1
+brihadaranyakopanishad,1
+iii,1

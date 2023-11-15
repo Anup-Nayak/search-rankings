@@ -1,0 +1,6 @@
+85,350,4
+588,1
+letter,1
+to,1
+bharatan,1
+kumarappa,1

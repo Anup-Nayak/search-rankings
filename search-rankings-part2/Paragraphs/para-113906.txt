@@ -1,0 +1,9 @@
+33,422,13
+mahomedans,1
+decided,1
+cow,1
+sacrifice,1
+situation,1
+serious,1
+pray,1
+intervention,1

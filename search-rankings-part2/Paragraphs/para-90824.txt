@@ -1,0 +1,6 @@
+27,66,2
+yours,1
+sincerely,1
+pandit,1
+jawaharlal,1
+nehru,1

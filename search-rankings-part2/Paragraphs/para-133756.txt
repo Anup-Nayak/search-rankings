@@ -1,0 +1,12 @@
+39,100,5
+m,1
+k,2
+gandhi,1
+sjt,1
+g,1
+devadhar,1
+servants,1
+of,1
+india,1
+sociey,1
+poona,1

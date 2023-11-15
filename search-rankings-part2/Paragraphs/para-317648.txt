@@ -1,0 +1,6 @@
+83,216,4
+detention,1
+camp,1
+august,1
+27,1
+1942,1

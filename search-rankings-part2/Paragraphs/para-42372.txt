@@ -1,0 +1,8 @@
+13,70,6
+equality,1
+in,1
+point,1
+immigration,1
+stop,1
+your,1
+reply,1

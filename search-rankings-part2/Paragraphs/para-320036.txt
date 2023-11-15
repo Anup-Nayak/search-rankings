@@ -1,0 +1,6 @@
+84,77,1
+95,1
+letter,1
+to,1
+samyukta,1
+gandhi,1

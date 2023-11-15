@@ -1,0 +1,10 @@
+65,135,13
+1,1
+wife,1
+of,2
+chhaganlal,1
+mehta,2
+eldest,1
+son,1
+dr,1
+pranjivan,1

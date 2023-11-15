@@ -1,0 +1,6 @@
+37,402,2
+140,1
+letter,1
+to,1
+hari,1
+ichchha,1

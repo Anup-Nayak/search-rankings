@@ -1,0 +1,9 @@
+77,50,30
+realize,1
+that,1
+india,1
+is,1
+not,1
+begging,1
+for,1
+independence,1

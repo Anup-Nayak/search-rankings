@@ -1,0 +1,17 @@
+27,120,5
+1,1
+this,1
+was,1
+written,1
+on,1
+the,2
+reverse,1
+of,1
+telegram,1
+received,1
+from,1
+kitchlew,1
+dated,1
+march,1
+26,1
+1924,1

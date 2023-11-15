@@ -1,0 +1,7 @@
+48,126,3
+a,1
+gentleman,1
+from,1
+palitana,1
+writes,1
+1,1

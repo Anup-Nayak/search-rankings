@@ -1,0 +1,5 @@
+9,125,2
+status,1
+of,1
+educated,1
+indians,1

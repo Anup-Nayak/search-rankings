@@ -1,0 +1,11 @@
+72,196,14
+if,1
+it,1
+is,1
+please,1
+tell,1
+them,1
+my,1
+endeavour,1
+being,1
+frustrated,1

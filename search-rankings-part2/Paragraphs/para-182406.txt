@@ -1,0 +1,11 @@
+52,32,4
+hear,1
+possession,1
+not,1
+yet,1
+given,1
+owners,1
+of,1
+land,1
+you,1
+kindly,1

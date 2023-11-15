@@ -1,0 +1,13 @@
+18,114,1
+101,1
+examination,1
+on,1
+commission,1
+in,1
+connection,1
+with,1
+dr,1
+kitchlews,1
+trial,1
+at,1
+lahore,1

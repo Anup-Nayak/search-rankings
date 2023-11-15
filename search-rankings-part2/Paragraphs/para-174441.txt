@@ -1,0 +1,6 @@
+50,83,6
+125,1
+letter,1
+to,1
+manibehn,1
+parikh,1

@@ -1,0 +1,6 @@
+46,0,1
+1,1
+what,1
+comprises,1
+foreign,1
+goods,1

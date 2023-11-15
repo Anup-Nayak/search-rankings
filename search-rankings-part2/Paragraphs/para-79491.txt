@@ -1,0 +1,5 @@
+23,191,2
+87,1
+the,1
+frontier,1
+friend,1

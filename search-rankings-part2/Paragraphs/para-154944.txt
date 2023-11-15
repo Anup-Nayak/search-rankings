@@ -1,0 +1,17 @@
+45,6,6
+1,1
+udyoga,1
+mandir,1
+2,1
+harilal,1
+gandhis,1
+son,1
+who,1
+died,1
+of,1
+typhoid,1
+fever,1
+on,1
+february,1
+8,1
+1929,1

@@ -1,0 +1,13 @@
+16,34,4
+b,1
+the,2
+existing,1
+rent,1
+and,2
+period,1
+for,1
+which,1
+it,1
+had,1
+remained,1
+unenhanced,1

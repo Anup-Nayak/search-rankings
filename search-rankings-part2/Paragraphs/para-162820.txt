@@ -1,0 +1,7 @@
+47,53,3
+57,1
+self,1
+interest,1
+v,1
+supreme,1
+good,1

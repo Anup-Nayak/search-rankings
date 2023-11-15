@@ -1,0 +1,8 @@
+40,65,2
+32,1
+speech,1
+at,1
+st,1
+thomas,1
+mount,1
+madras,1

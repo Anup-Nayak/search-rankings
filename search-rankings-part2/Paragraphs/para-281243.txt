@@ -1,0 +1,6 @@
+75,171,9
+egyptian,1
+delegation,1
+rest,1
+house,1
+jabalpur,1

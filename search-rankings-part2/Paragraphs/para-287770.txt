@@ -1,0 +1,13 @@
+76,427,15
+country,1
+these,1
+two,1
+resolutions,1
+should,1
+be,1
+immediately,1
+held,1
+in,1
+abeyance,1
+and,1
+ultimately,1

@@ -1,0 +1,17 @@
+80,434,1
+p,1
+s,1
+if,1
+you,1
+did,1
+not,1
+leave,1
+gujarat,1
+now,1
+to,1
+go,1
+anywhere,1
+i,1
+would,1
+be,1
+happy,1

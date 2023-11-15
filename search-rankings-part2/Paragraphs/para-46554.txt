@@ -1,0 +1,9 @@
+14,76,1
+events,1
+have,1
+turned,1
+out,1
+so,1
+but,1
+man,1
+proposes,1

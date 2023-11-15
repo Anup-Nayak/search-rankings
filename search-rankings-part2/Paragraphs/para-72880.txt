@@ -1,0 +1,13 @@
+21,52,14
+the,1
+machinery,1
+of,1
+government,1
+would,1
+not,1
+go,1
+on,1
+for,1
+a,1
+single,1
+day,1

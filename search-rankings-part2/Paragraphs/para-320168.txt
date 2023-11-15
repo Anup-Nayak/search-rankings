@@ -1,0 +1,14 @@
+84,86,16
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+891,1
+courtesy,1
+maneklal,1
+amritlal,1
+gandhi,1

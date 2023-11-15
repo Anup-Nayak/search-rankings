@@ -1,0 +1,15 @@
+90,389,9
+yours,1
+m,1
+k,1
+gandhi,1
+lala,1
+durgashankar,1
+vakil,1
+bar,1
+association,1
+jeevan,1
+basera,1
+jaora,1
+madhaya,1
+bharat,1

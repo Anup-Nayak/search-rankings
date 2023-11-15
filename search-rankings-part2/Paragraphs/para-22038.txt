@@ -1,0 +1,4 @@
+7,320,2
+warning,1
+to,1
+barbers,1

@@ -1,0 +1,16 @@
+97,255,14
+1,1
+with,1
+two,1
+visitors,1
+who,1
+were,1
+in,2
+favour,1
+of,1
+using,1
+modern,1
+electrical,1
+appliances,1
+nature,1
+cure,1

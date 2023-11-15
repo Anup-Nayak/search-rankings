@@ -1,0 +1,14 @@
+62,354,13
+progressed,1
+very,1
+much,1
+he,1
+had,1
+to,2
+speak,1
+in,1
+english,1
+facilitate,1
+translation,1
+it,1
+would,1

@@ -1,0 +1,8 @@
+40,80,3
+5,1
+what,1
+is,1
+lifes,1
+highest,1
+ideal,1
+satyagraha,1

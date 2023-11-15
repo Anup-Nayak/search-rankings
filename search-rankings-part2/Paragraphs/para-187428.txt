@@ -1,0 +1,8 @@
+53,101,5
+a,1
+nothing,1
+directly,1
+it,1
+was,1
+all,1
+general,1

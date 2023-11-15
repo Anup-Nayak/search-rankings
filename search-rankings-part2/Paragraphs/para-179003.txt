@@ -1,0 +1,8 @@
+51,125,11
+emulate,1
+his,1
+noble,1
+sacrifices,1
+and,1
+thus,1
+hasten,1

@@ -1,0 +1,6 @@
+44,49,7
+jagiellonska,1
+7m,1
+2,1
+wilno,1
+poland,1

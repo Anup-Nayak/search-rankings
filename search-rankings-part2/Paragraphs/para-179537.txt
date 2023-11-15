@@ -1,0 +1,8 @@
+51,171,10
+inspector,1
+generals,1
+letter,1
+saying,1
+he,1
+was,1
+permitted,1

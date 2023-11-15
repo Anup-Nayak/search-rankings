@@ -1,0 +1,8 @@
+13,150,13
+does,1
+the,1
+impossible,1
+condition,1
+of,1
+registration,1
+is,1

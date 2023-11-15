@@ -1,0 +1,8 @@
+64,187,4
+236,1
+speech,1
+to,1
+punjab,1
+nationalist,1
+workers,1
+lahore,1

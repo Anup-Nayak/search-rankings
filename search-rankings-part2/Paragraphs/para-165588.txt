@@ -1,0 +1,9 @@
+47,369,11
+be,1
+pressed,1
+if,1
+still,1
+agitated,1
+meet,1
+me,1
+wher,1

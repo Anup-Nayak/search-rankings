@@ -1,0 +1,9 @@
+95,312,2
+mr,1
+richard,1
+gregg,1
+writes,1
+from,1
+u,1
+s,1
+a,1

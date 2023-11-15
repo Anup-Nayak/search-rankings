@@ -1,0 +1,9 @@
+13,377,6
+live,1
+on,1
+mine,1
+rations,1
+when,1
+we,1
+dont,1
+work,1

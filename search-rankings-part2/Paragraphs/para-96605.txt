@@ -1,0 +1,7 @@
+28,387,14
+english,1
+people,1
+from,1
+its,1
+evil,1
+results,1

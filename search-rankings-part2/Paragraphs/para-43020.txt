@@ -1,0 +1,8 @@
+13,149,5
+i,1
+hesitated,1
+worry,1
+you,1
+unless,1
+absolutely,1
+ob,1

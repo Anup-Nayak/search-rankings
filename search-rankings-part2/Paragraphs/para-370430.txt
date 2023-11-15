@@ -1,0 +1,4 @@
+96,86,5
+barring,1
+personal,1
+references,1

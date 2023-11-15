@@ -1,0 +1,7 @@
+37,71,2
+l,1
+r,1
+pangarkar,1
+esq,1
+nasik,1
+city,1

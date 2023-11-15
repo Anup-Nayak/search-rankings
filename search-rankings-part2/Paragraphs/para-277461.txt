@@ -1,0 +1,9 @@
+74,209,1
+283,1
+message,1
+on,1
+death,1
+of,1
+kemal,1
+ataturk,1
+1,1

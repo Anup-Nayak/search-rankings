@@ -1,0 +1,8 @@
+9,98,1
+hindus,1
+and,1
+muslims,1
+into,1
+an,1
+extremist,1
+party,1

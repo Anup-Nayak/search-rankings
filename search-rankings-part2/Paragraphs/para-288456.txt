@@ -1,0 +1,16 @@
+77,57,2
+1,1
+vide,2
+appendix,1
+congress,1
+working,1
+committee,1
+resolution,1
+after,1
+18,1
+7,1
+1939,2
+2,1
+notes,1
+16,1
+10,1

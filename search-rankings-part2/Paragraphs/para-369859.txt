@@ -1,0 +1,17 @@
+96,20,12
+1,1
+engagement,1
+of,1
+princess,1
+elizabeth,1
+and,2
+lieut,1
+philip,1
+mountbatten,1
+2,1
+the,1
+addressee,1
+his,1
+wife,1
+shanti,1
+ghosh,1

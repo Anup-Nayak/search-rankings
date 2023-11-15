@@ -1,0 +1,7 @@
+19,169,3
+lahore,1
+wednesday,1
+december,1
+10,1
+1919,1
+1,1

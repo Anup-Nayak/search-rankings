@@ -1,0 +1,6 @@
+67,93,4
+146,1
+letter,1
+to,1
+madalasa,1
+bajaj,1

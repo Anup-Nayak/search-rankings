@@ -1,0 +1,4 @@
+67,270,9
+dear,1
+dr,1
+ambedkar,1

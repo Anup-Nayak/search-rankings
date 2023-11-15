@@ -1,0 +1,17 @@
+82,60,6
+i,1
+will,1
+await,1
+your,1
+reply,1
+concerning,1
+urdu,1
+it,2
+would,1
+be,2
+an,1
+excellent,1
+thing,1
+if,1
+could,1
+done,1

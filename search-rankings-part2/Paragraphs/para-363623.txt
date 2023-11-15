@@ -1,0 +1,15 @@
+94,61,12
+there,1
+but,1
+then,1
+if,1
+the,2
+men,1
+are,1
+unwilling,1
+to,1
+effect,1
+necessary,1
+social,1
+changes,1
+what,1

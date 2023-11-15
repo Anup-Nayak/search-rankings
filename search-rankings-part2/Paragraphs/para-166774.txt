@@ -1,0 +1,6 @@
+48,54,2
+49,1
+the,1
+story,1
+of,1
+bardoli,1

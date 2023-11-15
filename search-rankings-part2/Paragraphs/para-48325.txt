@@ -1,0 +1,8 @@
+14,326,2
+ever,1
+yours,1
+old,1
+friend,1
+late,1
+upper,1
+house,1

@@ -1,0 +1,8 @@
+68,29,6
+vishwanath,1
+khadi,1
+pratishthan,1
+15,1
+college,1
+square,1
+calcutta,1

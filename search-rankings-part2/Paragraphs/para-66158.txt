@@ -1,0 +1,6 @@
+19,45,5
+please,1
+wire,1
+condition,1
+gandhi,1
+ahmedabad,1

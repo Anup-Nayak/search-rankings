@@ -1,0 +1,6 @@
+88,306,13
+bapumaine,1
+kya,2
+dekha,1
+samaja,1
+p,1

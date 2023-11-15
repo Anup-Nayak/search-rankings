@@ -1,0 +1,7 @@
+60,163,4
+what,1
+will,1
+mere,1
+temple,1
+entry,1
+avail,1

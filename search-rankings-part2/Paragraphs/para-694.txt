@@ -1,0 +1,5 @@
+1,140,3
+36,1
+vegetarianism,1
+and,1
+children,1

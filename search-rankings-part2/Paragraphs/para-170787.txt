@@ -1,0 +1,16 @@
+49,142,13
+issued,1
+a,1
+circular,1
+letter,1
+to,1
+his,1
+lawyer,1
+friends,1
+telling,1
+them,1
+that,1
+he,1
+would,1
+be,1
+able,1

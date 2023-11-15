@@ -1,0 +1,16 @@
+15,104,2
+nanalal,1
+kavi,1
+1,1
+and,1
+others,1
+visited,1
+had,1
+an,1
+acute,1
+attack,1
+of,2
+superficial,1
+inflammation,1
+the,1
+lungs,1

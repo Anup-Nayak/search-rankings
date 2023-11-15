@@ -1,0 +1,10 @@
+28,65,5
+bapu,1
+chi,1
+manlbehn,1
+patel,1
+khamasa,1
+chowki,1
+ahmedabad,1
+from,1
+gujarati,1

@@ -1,0 +1,16 @@
+88,322,8
+chhaganlal,1
+manilal,1
+complains,1
+that,1
+you,3
+keep,1
+on,1
+working,1
+even,1
+though,1
+are,2
+weak,1
+why,1
+doing,1
+this,1

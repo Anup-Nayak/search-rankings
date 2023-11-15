@@ -1,0 +1,3 @@
+8,90,5
+free,1
+hospitality,1

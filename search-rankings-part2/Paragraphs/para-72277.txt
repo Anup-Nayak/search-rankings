@@ -1,0 +1,12 @@
+20,442,16
+mahatma,1
+gandhi,1
+maulana,1
+hasrat,1
+mohani,1
+dr,1
+kitchlew,1
+maulvi,1
+zafar,1
+ali,1
+khan,1

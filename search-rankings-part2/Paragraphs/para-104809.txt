@@ -1,0 +1,9 @@
+31,31,9
+removal,1
+order,1
+barricades,1
+and,1
+pickets,1
+leaving,1
+today,1
+for,1

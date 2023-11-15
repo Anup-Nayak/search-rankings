@@ -1,0 +1,14 @@
+82,243,6
+all,1
+india,1
+states,1
+peoples,1
+day,1
+would,1
+not,1
+be,1
+permitted,1
+this,1
+was,1
+followed,1
+by,1

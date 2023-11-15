@@ -1,0 +1,13 @@
+43,21,7
+1,1
+vide,1
+speech,1
+at,1
+deaf,1
+and,1
+dumb,1
+school,1
+ahmedabad,1
+7,1
+9,1
+1928,1

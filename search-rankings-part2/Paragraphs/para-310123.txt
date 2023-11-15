@@ -1,0 +1,13 @@
+82,22,32
+it,1
+is,1
+intended,1
+to,2
+employ,1
+a,1
+superior,1
+staff,1
+adequately,1
+paid,1
+ensure,1
+good,1

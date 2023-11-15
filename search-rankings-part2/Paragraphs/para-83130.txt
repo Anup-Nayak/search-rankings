@@ -1,0 +1,7 @@
+24,302,1
+152,1
+message,1
+on,1
+loin,1
+cloth,1
+madura,1

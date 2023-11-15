@@ -1,0 +1,8 @@
+14,10,25
+fair,1
+play,1
+discharge,1
+leaders,1
+interpreted,1
+not,1
+act,1

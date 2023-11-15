@@ -1,0 +1,5 @@
+35,100,3
+a,1
+teachers,1
+questions,1
+2,1

@@ -1,0 +1,6 @@
+43,35,8
+hindu,1
+muslim,1
+fight,1
+in,1
+godhra,1

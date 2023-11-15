@@ -1,0 +1,10 @@
+8,429,2
+chamney,1
+certainly,1
+not,2
+why,1
+he,1
+is,1
+a,1
+prohibited,1
+immigrant,1

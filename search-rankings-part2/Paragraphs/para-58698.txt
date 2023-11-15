@@ -1,0 +1,9 @@
+16,508,6
+b,1
+l,1
+f,1
+morsheads,1
+letter,1
+to,1
+h,1
+coupland,1

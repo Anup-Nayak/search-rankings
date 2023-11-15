@@ -1,0 +1,7 @@
+28,91,6
+benga1,1
+provincial,1
+congress,1
+swadeshi,1
+boardrs,1
+500/,1

@@ -1,0 +1,16 @@
+4,437,9
+from,1
+the,1
+typewritten,1
+english,1
+and,1
+handwritten,1
+gujarati,1
+office,1
+copy,1
+signed,1
+by,1
+gandhiji,1
+s,1
+n,1
+4377,1

@@ -1,0 +1,12 @@
+54,67,13
+mr,1
+gandhi,1
+declared,1
+himself,1
+completely,1
+puzzled,1
+how,1
+the,2
+daily,1
+herald,1
+got,1

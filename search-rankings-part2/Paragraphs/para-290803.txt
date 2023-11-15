@@ -1,0 +1,6 @@
+77,358,2
+1,1
+control,1
+of,1
+the,1
+palate,1

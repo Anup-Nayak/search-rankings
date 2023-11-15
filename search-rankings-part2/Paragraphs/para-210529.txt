@@ -1,0 +1,17 @@
+58,331,15
+1,1
+from,1
+diary,2
+1932,2
+vide,1
+2,1
+this,1
+and,1
+the,2
+following,1
+letter,1
+are,1
+placed,1
+in,2
+as,1
+source,1

@@ -1,0 +1,7 @@
+96,106,7
+160,1
+letter,1
+to,1
+ram,1
+manohar,1
+lohia,1

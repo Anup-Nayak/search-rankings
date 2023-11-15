@@ -1,0 +1,6 @@
+72,39,6
+55,1
+letter,1
+to,1
+gurdial,1
+mullick,1

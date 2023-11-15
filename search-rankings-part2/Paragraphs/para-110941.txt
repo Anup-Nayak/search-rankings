@@ -1,0 +1,6 @@
+33,17,7
+18,1
+letter,1
+to,1
+gopabandhu,1
+das,1

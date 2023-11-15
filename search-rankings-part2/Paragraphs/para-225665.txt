@@ -1,0 +1,10 @@
+61,486,4
+path,1
+too,1
+smooth,1
+towards,1
+communal,1
+reconciliation,1
+but,1
+that,1
+the,1

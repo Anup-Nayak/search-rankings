@@ -1,0 +1,6 @@
+30,316,4
+181,1
+telegram,1
+to,1
+abdul,1
+majid,1

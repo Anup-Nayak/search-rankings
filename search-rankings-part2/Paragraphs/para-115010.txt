@@ -1,0 +1,9 @@
+34,169,4
+1,2
+this,1
+came,1
+into,1
+force,1
+on,1
+january,1
+1908,1

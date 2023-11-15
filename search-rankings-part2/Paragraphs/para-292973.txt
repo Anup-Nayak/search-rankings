@@ -1,0 +1,9 @@
+78,149,15
+began,1
+life,1
+by,1
+seeking,1
+to,1
+assert,1
+my,1
+rights,1

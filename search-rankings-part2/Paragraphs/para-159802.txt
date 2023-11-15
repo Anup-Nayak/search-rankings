@@ -1,0 +1,9 @@
+46,184,11
+then,1
+is,1
+the,1
+room,1
+for,2
+arrogating,1
+responsibility,1
+action,1

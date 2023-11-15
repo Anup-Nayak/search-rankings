@@ -1,0 +1,16 @@
+81,511,11
+may,1
+be,1
+rendered,1
+as,2
+far,1
+possible,1
+self,1
+sufficient,1
+in,1
+regard,1
+to,1
+the,1
+necessaries,1
+of,1
+life,1

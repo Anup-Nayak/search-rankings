@@ -1,0 +1,3 @@
+24,420,3
+losing,1
+interest,1

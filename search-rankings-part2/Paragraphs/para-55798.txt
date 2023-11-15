@@ -1,0 +1,11 @@
+16,149,6
+1,1
+this,1
+was,1
+sent,1
+before,1
+the,1
+gujarati,1
+new,1
+years,1
+day,1

@@ -1,0 +1,7 @@
+78,357,6
+can,2
+leave,1
+thursday,1
+reaching,1
+saturday,1
+but,1

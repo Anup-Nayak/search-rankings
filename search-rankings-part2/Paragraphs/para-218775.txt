@@ -1,0 +1,13 @@
+60,221,10
+fortnight,1
+25,1
+village,1
+wells,1
+are,1
+being,1
+used,1
+by,1
+all,1
+castes,1
+without,1
+discrimination,1

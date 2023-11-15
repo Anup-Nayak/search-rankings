@@ -1,0 +1,12 @@
+61,487,11
+implied,1
+in,2
+the,2
+yeravda,1
+pact,1
+though,1
+it,1
+is,1
+true,1
+that,1
+exceptional,1

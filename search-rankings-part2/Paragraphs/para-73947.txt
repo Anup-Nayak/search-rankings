@@ -1,0 +1,15 @@
+21,239,10
+found,1
+within,1
+the,3
+next,1
+few,1
+months,1
+that,1
+opinion,1
+expressed,1
+by,1
+it,1
+now,1
+was,1
+not,1

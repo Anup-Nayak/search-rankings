@@ -1,0 +1,12 @@
+78,86,3
+not,1
+a,2
+compromise,1
+based,1
+on,1
+give,1
+and,1
+take,1
+more,1
+appropriate,1
+machinery,1

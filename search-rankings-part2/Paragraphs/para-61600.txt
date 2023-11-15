@@ -1,0 +1,7 @@
+17,331,10
+selects,1
+step,1
+taken,1
+deliberation,1
+notice,1
+viceroy,1

@@ -1,0 +1,7 @@
+75,231,11
+newspaper,1
+correspondents,1
+asking,1
+all,1
+kinds,1
+ques,1

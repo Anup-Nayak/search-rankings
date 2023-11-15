@@ -1,0 +1,5 @@
+9,472,2
+removal,1
+from,1
+the,1
+colony,1

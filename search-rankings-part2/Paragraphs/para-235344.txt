@@ -1,0 +1,6 @@
+64,218,4
+270,1
+letter,1
+to,1
+chhaganlal,1
+joshi,1

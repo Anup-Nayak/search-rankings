@@ -1,0 +1,12 @@
+82,182,5
+i,2
+wrote,1
+to,1
+you,3
+yesterday,1
+will,1
+know,1
+do,1
+the,1
+best,1
+can,1

@@ -1,0 +1,6 @@
+70,168,4
+193,1
+letter,1
+to,1
+s,1
+ambujammal,1

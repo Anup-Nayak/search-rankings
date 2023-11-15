@@ -1,0 +1,5 @@
+73,139,12
+seth,1
+jamnalal,1
+bajaj,1
+jaipur,1

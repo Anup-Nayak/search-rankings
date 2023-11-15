@@ -1,0 +1,17 @@
+59,33,4
+hurt,1
+life,1
+itself,1
+by,1
+observing,1
+truth,1
+and,1
+so,1
+on,1
+they,1
+alleviate,1
+suffering,1
+which,1
+amounts,1
+to,1
+serving,1

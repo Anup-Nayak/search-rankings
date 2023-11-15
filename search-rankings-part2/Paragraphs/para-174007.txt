@@ -1,0 +1,6 @@
+50,36,1
+50,1
+letter,1
+to,1
+sumangal,1
+prakash,1

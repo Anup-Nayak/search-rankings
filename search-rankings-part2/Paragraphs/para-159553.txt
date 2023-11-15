@@ -1,0 +1,15 @@
+46,156,25
+cotton,1
+as,2
+6,1
+to,2
+8,1
+spinning,1
+20,1
+tolas,1
+costs,1
+2,1
+arranging,1
+yarn,1
+make,1
+cloth,1

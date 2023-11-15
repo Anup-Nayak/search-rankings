@@ -1,0 +1,17 @@
+82,52,6
+1,1
+at,1
+this,1
+point,1
+a,1
+number,1
+of,1
+proposals,1
+were,1
+put,1
+forward,1
+which,1
+gandhiji,1
+did,1
+not,1
+like,1

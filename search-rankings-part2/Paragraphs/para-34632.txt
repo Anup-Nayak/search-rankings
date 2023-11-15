@@ -1,0 +1,7 @@
+11,129,10
+vise,1
+moving,1
+court,1
+allow,1
+registered,1
+indians,1

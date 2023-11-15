@@ -1,0 +1,10 @@
+90,423,10
+acute,1
+in,1
+recent,1
+years,1
+and,1
+now,1
+have,1
+to,1
+be,1

@@ -1,0 +1,9 @@
+24,433,28
+glutting,1
+his,1
+idle,1
+sense,1
+lives,1
+a,1
+lost,1
+life,1

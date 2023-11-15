@@ -1,0 +1,7 @@
+79,205,1
+208,1
+all,1
+india,1
+congress,1
+committee,1
+resolution,1

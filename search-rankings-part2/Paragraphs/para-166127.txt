@@ -1,0 +1,7 @@
+47,434,3
+camp,1
+rai,1
+bareli,1
+november,1
+14,1
+1929,1

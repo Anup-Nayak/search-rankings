@@ -1,0 +1,9 @@
+95,363,13
+351,1
+letter,1
+to,1
+marjorie,1
+sykes,1
+june,1
+30,1
+1947,1

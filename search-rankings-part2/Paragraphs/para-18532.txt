@@ -1,0 +1,12 @@
+6,367,13
+1,1
+a,1
+similar,1
+cable,1
+was,1
+sent,1
+to,2
+reuter,1
+for,1
+release,1
+newspapers,1

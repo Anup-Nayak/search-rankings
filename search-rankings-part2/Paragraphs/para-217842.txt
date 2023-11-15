@@ -1,0 +1,9 @@
+60,100,8
+you,1
+must,1
+have,1
+now,1
+known,1
+parachure,1
+shastris,1
+decision,1

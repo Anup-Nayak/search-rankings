@@ -1,0 +1,7 @@
+58,438,11
+2,1
+mixed,1
+dinner,1
+parties,1
+with,1
+harijans,1

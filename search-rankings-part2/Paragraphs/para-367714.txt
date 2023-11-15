@@ -1,0 +1,12 @@
+95,129,14
+1,1
+gandhiji,1
+discussed,1
+the,1
+scheme,1
+of,1
+rehabilitation,1
+formulated,1
+by,1
+abdul,1
+qayum,1

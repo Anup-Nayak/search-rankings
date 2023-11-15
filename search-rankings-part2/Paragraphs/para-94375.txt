@@ -1,0 +1,11 @@
+28,25,5
+1,1
+khadi,1
+samachar,1
+patrika,1
+edited,1
+by,1
+maganlal,1
+gandhi,1
+sabarmati,1
+ashram,1

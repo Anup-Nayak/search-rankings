@@ -1,0 +1,11 @@
+40,343,2
+bombay,1
+november,1
+7,1
+1927,1
+professor,1
+malkani,1
+national,1
+college,1
+hyderabad,1
+sind,1

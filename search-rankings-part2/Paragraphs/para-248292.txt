@@ -1,0 +1,5 @@
+67,151,5
+239,1
+letter,1
+to,1
+alamgheir,1

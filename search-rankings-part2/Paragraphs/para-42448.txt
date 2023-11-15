@@ -1,0 +1,13 @@
+13,80,6
+1,1
+emmeline,1
+pankhurst,1
+1858,1
+1928,1
+leader,1
+of,1
+the,1
+suffragette,1
+movement,1
+in,1
+england,1

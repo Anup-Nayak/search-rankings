@@ -1,0 +1,16 @@
+23,200,3
+1,1
+tilak,1
+s,1
+famous,1
+dictum,1
+was,1
+swaraj,1
+is,1
+my,1
+birthright,1
+and,1
+i,1
+shall,1
+have,1
+it,1

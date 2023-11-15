@@ -1,0 +1,7 @@
+94,218,9
+young,1
+man,1
+go,1
+to,1
+the,1
+punjab,1

@@ -1,0 +1,8 @@
+26,360,2
+srimati,1
+urmila,1
+devi,1
+nari,1
+karma,1
+mandir,1
+calcutta,1

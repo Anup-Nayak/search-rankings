@@ -1,0 +1,8 @@
+75,280,8
+increasing,1
+hope,1
+it,1
+will,1
+be,1
+under,1
+control,1

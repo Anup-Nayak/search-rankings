@@ -1,0 +1,11 @@
+3,64,2
+1vide,1
+open,1
+letter,2
+before,1
+19,2
+12,2
+1894,2
+&,1
+to,1
+europeans,1

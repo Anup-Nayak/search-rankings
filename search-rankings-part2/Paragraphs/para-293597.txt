@@ -1,0 +1,13 @@
+78,205,8
+round,1
+his,2
+head,1
+mr,1
+gandhi,1
+carefully,1
+explained,1
+viewpoint,1
+he,1
+spoke,1
+with,1
+great,1

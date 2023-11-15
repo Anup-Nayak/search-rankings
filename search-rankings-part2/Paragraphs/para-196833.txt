@@ -1,0 +1,8 @@
+55,222,4
+distressed,1
+learn,1
+mother,1
+sustained,1
+injury,1
+at,1
+public,1

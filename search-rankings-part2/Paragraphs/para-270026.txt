@@ -1,0 +1,7 @@
+72,344,5
+2,1
+this,1
+appeared,1
+under,1
+my,1
+notes,1

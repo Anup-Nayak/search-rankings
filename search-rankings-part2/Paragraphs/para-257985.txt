@@ -1,0 +1,9 @@
+69,269,4
+q,1
+then,1
+they,1
+will,1
+beg,1
+rather,1
+than,1
+starve,1

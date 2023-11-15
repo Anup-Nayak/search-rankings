@@ -1,0 +1,9 @@
+65,147,6
+192,1
+letter,1
+to,1
+vallabhbhai,1
+patel,1
+october,1
+7,1
+1934,1

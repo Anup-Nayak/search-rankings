@@ -1,0 +1,14 @@
+33,243,8
+1,1
+this,1
+is,1
+from,2
+the,2
+bombay,1
+chronicle,1
+what,1
+follows,1
+has,1
+been,1
+taken,1
+hindu,1

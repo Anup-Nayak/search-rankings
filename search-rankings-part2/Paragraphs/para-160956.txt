@@ -1,0 +1,9 @@
+46,311,19
+1,1
+only,1
+excerpts,1
+from,1
+it,1
+are,1
+reproduced,1
+here,1

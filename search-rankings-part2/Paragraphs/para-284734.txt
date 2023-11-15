@@ -1,0 +1,5 @@
+76,102,8
+the,1
+guidance,1
+of,1
+god,1

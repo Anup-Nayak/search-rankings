@@ -1,0 +1,13 @@
+81,510,31
+volunteer,1
+organization,1
+is,1
+meant,1
+for,1
+rendering,1
+service,1
+to,1
+the,1
+people,1
+both,1
+normally,1

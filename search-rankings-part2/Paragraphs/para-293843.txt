@@ -1,0 +1,9 @@
+78,226,6
+1,2
+vide,1
+appendix,1
+satyagraha,1
+pledge,1
+before,1
+6,1
+1940,1

@@ -1,0 +1,13 @@
+33,163,2
+8,1
+hindus,1
+never,1
+object,1
+to,1
+muslim,1
+music,1
+during,1
+moharrum,1
+or,1
+at,1
+any,1

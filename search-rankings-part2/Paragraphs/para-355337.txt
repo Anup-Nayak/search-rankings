@@ -1,0 +1,6 @@
+92,77,4
+115,1
+letter,1
+to,1
+lakshminarayan,1
+gadodia,1

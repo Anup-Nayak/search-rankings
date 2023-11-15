@@ -1,0 +1,9 @@
+9,198,3
+volksrust,2
+gaol,1
+october,1
+11,1
+1908,1
+the,1
+resident,1
+magistrate,1

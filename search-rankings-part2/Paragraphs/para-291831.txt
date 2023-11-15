@@ -1,0 +1,12 @@
+78,27,5
+33,1
+letter,1
+to,1
+c,1
+f,1
+andrews,1
+sevagram,1
+wardh,1
+march,1
+7,1
+1940,1

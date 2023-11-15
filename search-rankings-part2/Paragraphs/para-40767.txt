@@ -1,0 +1,7 @@
+12,337,12
+schlesin,1
+and,1
+geevers,1
+came,1
+&,1
+left,1

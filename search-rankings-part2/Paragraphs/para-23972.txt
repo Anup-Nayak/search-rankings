@@ -1,0 +1,5 @@
+8,138,2
+ten,1
+finger,1
+impression,1
+s,1

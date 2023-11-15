@@ -1,0 +1,10 @@
+49,162,21
+possesses,1
+if,1
+it,2
+can,1
+see,1
+itself,1
+will,1
+grow,1
+hot,1

@@ -1,0 +1,8 @@
+8,36,6
+difference,1
+between,1
+impressions,1
+of,1
+fingers,1
+and,1
+thumbs,1

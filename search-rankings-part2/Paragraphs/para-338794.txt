@@ -1,0 +1,7 @@
+88,68,1
+147,1
+letter,1
+to,1
+prithvi,1
+singh,1
+azad,1

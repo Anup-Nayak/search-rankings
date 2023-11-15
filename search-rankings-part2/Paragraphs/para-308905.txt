@@ -1,0 +1,13 @@
+81,386,4
+1,1
+gandhiji,1
+gave,1
+this,1
+statement,1
+in,1
+response,1
+to,1
+a,1
+request,1
+from,1
+abroad,1

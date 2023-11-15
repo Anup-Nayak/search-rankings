@@ -1,0 +1,4 @@
+29,250,1
+207,1
+spinning,1
+franchise,1

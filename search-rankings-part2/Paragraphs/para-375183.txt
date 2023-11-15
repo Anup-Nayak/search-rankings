@@ -1,0 +1,6 @@
+97,232,10
+i,1
+consider,1
+myself,1
+a,1
+chinese,1

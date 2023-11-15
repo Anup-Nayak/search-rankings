@@ -1,0 +1,13 @@
+6,44,10
+sir,1
+henry,1
+cotton,1
+it,1
+is,1
+only,1
+required,1
+in,1
+the,1
+case,1
+of,1
+criminals,1

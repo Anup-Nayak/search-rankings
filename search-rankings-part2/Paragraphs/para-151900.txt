@@ -1,0 +1,7 @@
+44,32,1
+49,1
+why,1
+not,1
+k,1
+s,1
+association,1

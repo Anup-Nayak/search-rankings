@@ -1,0 +1,6 @@
+92,190,2
+271,1
+poor,1
+or,1
+small,1
+countries,1

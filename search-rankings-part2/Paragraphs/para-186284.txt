@@ -1,0 +1,16 @@
+52,453,3
+i,1
+fishermen,1
+along,1
+the,2
+east,1
+and,1
+west,1
+coast,1
+already,1
+enjoy,1
+concession,1
+of,1
+duty,1
+free,1
+salt,1

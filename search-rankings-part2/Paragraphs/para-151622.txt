@@ -1,0 +1,7 @@
+44,6,4
+no,1
+anxiety,1
+hot,1
+water,1
+bottle,1
+abdomen,1

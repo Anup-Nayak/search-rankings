@@ -1,0 +1,10 @@
+93,389,5
+helpless,1
+sure,1
+they,1
+will,1
+give,1
+necessary,1
+help,1
+till,1
+new,1

@@ -1,0 +1,7 @@
+43,339,4
+431,1
+letter,1
+to,1
+aksel,1
+g,1
+knudsen,1

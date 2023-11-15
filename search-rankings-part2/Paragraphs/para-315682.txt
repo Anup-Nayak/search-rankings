@@ -1,0 +1,8 @@
+82,414,7
+g,1
+but,1
+you,1
+do,1
+not,1
+understand,1
+vegetables,1

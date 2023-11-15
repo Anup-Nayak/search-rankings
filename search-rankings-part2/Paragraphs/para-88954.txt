@@ -1,0 +1,7 @@
+26,269,2
+satyagraha,1
+ashram,1
+sabarmati,1
+march,1
+4,1
+1922,1

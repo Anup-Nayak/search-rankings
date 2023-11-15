@@ -1,0 +1,6 @@
+86,64,12
+can,1
+reconsider,1
+if,1
+you,1
+wish,1

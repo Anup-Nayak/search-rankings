@@ -1,0 +1,6 @@
+13,168,3
+114,1
+statement,1
+on,1
+immigration,1
+bill,1

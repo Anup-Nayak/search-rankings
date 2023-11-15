@@ -1,0 +1,7 @@
+16,338,3
+227,1
+prayer,1
+discourse,1
+in,1
+ashram,1
+2,1

@@ -1,0 +1,14 @@
+12,341,4
+went,1
+to,1
+town,1
+&,1
+returned,1
+in,1
+the,1
+evening,1
+from,1
+john,1
+0,1
+5,1
+3,1

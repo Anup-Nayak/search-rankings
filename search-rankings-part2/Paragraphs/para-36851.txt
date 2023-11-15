@@ -1,0 +1,11 @@
+11,342,10
+take,1
+present,1
+bill,2
+as,1
+dead,1
+uncertain,1
+when,1
+trans,1
+vaal,1
+coming,1

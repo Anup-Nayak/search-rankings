@@ -1,0 +1,8 @@
+66,140,2
+shri,1
+surendranath,1
+mahey,1
+10,1
+temple,1
+road,1
+lahore,1

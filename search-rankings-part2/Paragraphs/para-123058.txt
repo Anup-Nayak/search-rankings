@@ -1,0 +1,7 @@
+36,203,7
+228,1
+letter,1
+to,1
+sir,1
+ganga,1
+ram,1

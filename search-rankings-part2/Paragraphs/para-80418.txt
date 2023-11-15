@@ -1,0 +1,9 @@
+23,354,7
+3,1
+legislation,1
+the,5
+same,2
+for,2
+poor,1
+and,1
+rich,1

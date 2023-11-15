@@ -1,0 +1,14 @@
+52,176,1
+the,2
+proposal,1
+if,1
+purchase,1
+price,1
+is,1
+anywhere,1
+between,1
+five,1
+and,1
+six,1
+thousand,1
+rupees,1

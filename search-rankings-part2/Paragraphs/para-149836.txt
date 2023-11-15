@@ -1,0 +1,11 @@
+43,323,3
+the,1
+secretary,1
+khalsa,1
+diwan,1
+society,1
+sikh,1
+temple,1
+vancouver,1
+b,1
+c,1

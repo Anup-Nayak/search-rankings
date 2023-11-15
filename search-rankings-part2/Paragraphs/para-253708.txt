@@ -1,0 +1,15 @@
+68,262,2
+what,1
+the,1
+president,1
+has,1
+said,1
+1,1
+is,2
+enough,1
+there,1
+no,1
+need,1
+to,1
+say,1
+more,1

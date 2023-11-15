@@ -1,0 +1,11 @@
+35,370,8
+yours,1
+sincerely,1
+the,2
+assistant,1
+editor,1
+people,1
+12,1
+court,1
+road,1
+lahore,1

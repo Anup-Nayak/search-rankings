@@ -1,0 +1,14 @@
+68,77,4
+q,1
+is,1
+there,1
+no,1
+danger,1
+of,1
+death,1
+to,1
+the,2
+person,1
+who,1
+sucks,1
+poison,1

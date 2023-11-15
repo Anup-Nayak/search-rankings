@@ -1,0 +1,12 @@
+64,232,12
+surest,1
+way,1
+of,3
+serving,1
+god,2
+and,1
+the,4
+service,2
+was,1
+poor,1
+use,1

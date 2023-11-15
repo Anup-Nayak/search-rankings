@@ -1,0 +1,10 @@
+35,237,4
+1,1
+provider,1
+of,3
+foodconsort,1
+sivaworshipped,1
+as,1
+the,1
+giver,1
+plenty,1

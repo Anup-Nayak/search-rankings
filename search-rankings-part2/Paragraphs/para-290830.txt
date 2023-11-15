@@ -1,0 +1,6 @@
+77,366,1
+politics,1
+or,1
+else,1
+quit,1
+it,1

@@ -1,0 +1,9 @@
+11,68,6
+1,1
+vide,1
+the,1
+returned,1
+deportees,1
+21,1
+5,1
+1910,1

@@ -1,0 +1,13 @@
+24,470,10
+1,1
+this,1
+was,1
+written,1
+on,1
+the,2
+tilak,1
+day,1
+as,1
+indicated,1
+in,1
+letter,1

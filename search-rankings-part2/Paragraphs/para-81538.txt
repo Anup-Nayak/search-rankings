@@ -1,0 +1,7 @@
+24,35,2
+20,1
+speech,1
+on,1
+swadeshi,1
+bombay,1
+1,1

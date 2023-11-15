@@ -1,0 +1,10 @@
+72,223,2
+m,1
+dhanji,1
+shaw,1
+oculist,1
+edyour,1
+p,1
+o,1
+mandya,1
+mysore,1

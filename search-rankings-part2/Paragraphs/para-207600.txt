@@ -1,0 +1,9 @@
+58,31,11
+from,1
+gujarati,1
+c,1
+w,1
+9468,1
+courtesy,1
+radhabehn,1
+choudhri,1

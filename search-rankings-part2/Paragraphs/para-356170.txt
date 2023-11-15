@@ -1,0 +1,7 @@
+92,171,6
+244,1
+letter,1
+to,1
+om,1
+prakash,1
+mittal,1

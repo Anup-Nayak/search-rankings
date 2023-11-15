@@ -1,0 +1,8 @@
+74,68,10
+112,1
+foreword,1
+to,1
+prayers,1
+praises,1
+and,1
+psalms,1

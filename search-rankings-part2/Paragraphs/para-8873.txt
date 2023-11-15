@@ -1,0 +1,4 @@
+4,8,2
+6,1
+indentured,1
+indians,1

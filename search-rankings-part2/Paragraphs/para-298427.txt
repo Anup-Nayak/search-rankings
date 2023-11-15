@@ -1,0 +1,8 @@
+79,332,14
+issued,1
+press,1
+statement,1
+2,1
+which,1
+if,1
+not,1

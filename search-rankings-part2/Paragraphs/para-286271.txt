@@ -1,0 +1,11 @@
+76,267,4
+the,2
+patiala,1
+state,1
+praja,1
+mandal,1
+launched,1
+satyagraha,1
+against,1
+hidayat,1
+of,1

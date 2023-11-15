@@ -1,0 +1,5 @@
+48,6,2
+5,1
+illustrated,1
+khadi,1
+catalogue,1

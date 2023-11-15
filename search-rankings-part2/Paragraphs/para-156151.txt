@@ -1,0 +1,9 @@
+45,175,10
+from,1
+gujarati,1
+c,1
+w,1
+2785,1
+courtesy,1
+ramnarayan,1
+pathak,1

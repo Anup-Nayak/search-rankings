@@ -1,0 +1,8 @@
+82,120,8
+i,1
+will,1
+write,1
+about,1
+the,1
+policy,1
+regarding,1

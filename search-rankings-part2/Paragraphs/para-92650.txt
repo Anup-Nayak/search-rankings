@@ -1,0 +1,9 @@
+27,297,6
+question,1
+for,1
+satyagrahis,1
+is,1
+not,1
+what,1
+appears,1
+effective,1

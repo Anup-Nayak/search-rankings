@@ -1,0 +1,6 @@
+9,194,4
+114,1
+some,1
+problems,1
+of,1
+natal,1

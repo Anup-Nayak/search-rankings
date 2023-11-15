@@ -1,0 +1,15 @@
+75,85,8
+ba,1
+i,1
+have,1
+your,1
+letter,1
+and,1
+manis,1
+you,1
+must,1
+go,1
+through,1
+all,1
+the,1
+tests,1

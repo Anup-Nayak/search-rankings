@@ -1,0 +1,8 @@
+86,96,3
+1,1
+the,2
+following,1
+paragraph,1
+is,1
+from,1
+hindu,1

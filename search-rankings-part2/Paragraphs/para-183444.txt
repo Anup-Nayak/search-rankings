@@ -1,0 +1,15 @@
+52,142,11
+mother,1
+night,1
+and,1
+day,1
+she,2
+used,1
+to,1
+cook,1
+for,1
+us,1
+workers,1
+nursed,1
+the,1
+sick,1

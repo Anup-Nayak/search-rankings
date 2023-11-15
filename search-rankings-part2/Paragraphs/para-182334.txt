@@ -1,0 +1,12 @@
+52,23,4
+yours,1
+sincerely,1
+upton,1
+close,1
+esq,1
+new,1
+york,1
+city,1
+u,1
+s,1
+a,1

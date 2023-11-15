@@ -1,0 +1,15 @@
+80,35,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+friend,1
+carl,1
+heath,1
+white,1
+wings,1
+manor,1
+way,1
+guildford,1
+surrey,1

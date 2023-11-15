@@ -1,0 +1,14 @@
+54,112,2
+answering,1
+questions,1
+mr,1
+gandhi,1
+said,1
+he,1
+was,1
+not,1
+afraid,1
+of,1
+the,1
+afridis,1
+since,1

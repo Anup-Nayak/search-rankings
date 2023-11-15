@@ -1,0 +1,15 @@
+27,402,17
+please,1
+you,2
+are,1
+having,1
+plenty,1
+of,1
+worrya,1
+little,1
+good,1
+news,1
+may,1
+act,1
+as,1
+a,1

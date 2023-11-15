@@ -1,0 +1,7 @@
+30,432,2
+257,1
+speech,1
+at,1
+union,1
+college,1
+alwaye,1

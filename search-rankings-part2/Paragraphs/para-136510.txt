@@ -1,0 +1,16 @@
+39,497,6
+of,3
+10,1
+000,1
+lbs,1
+milk,1
+she,2
+is,1
+naturally,1
+the,2
+pet,1
+dairy,1
+was,1
+born,1
+here,1
+i,1

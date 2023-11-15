@@ -1,0 +1,12 @@
+10,506,13
+the,2
+statement,1
+in,2
+mr,2
+gandhis,1
+telegram,1
+to,1
+polak,1
+times,1
+summary,1
+of,1

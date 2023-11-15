@@ -1,0 +1,5 @@
+18,393,2
+educated,1
+and,1
+clever,1
+men,1

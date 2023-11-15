@@ -1,0 +1,7 @@
+92,19,8
+31,1
+letter,1
+to,1
+begum,1
+latif,1
+syed,1

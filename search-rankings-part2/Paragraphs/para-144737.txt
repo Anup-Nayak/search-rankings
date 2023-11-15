@@ -1,0 +1,7 @@
+42,218,2
+a,1
+reader,1
+writes,1
+to,1
+say,1
+1,1

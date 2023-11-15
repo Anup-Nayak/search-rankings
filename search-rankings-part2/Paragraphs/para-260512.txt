@@ -1,0 +1,11 @@
+70,78,7
+j,1
+m,1
+what,1
+affords,1
+you,1
+the,1
+greatest,1
+hope,1
+and,1
+satisfaction,1

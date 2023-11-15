@@ -1,0 +1,5 @@
+20,58,6
+1,1
+dagger,1
+like,1
+weapons,1

@@ -1,0 +1,9 @@
+48,241,2
+238,1
+speech,1
+at,1
+prayer,1
+meeting,1
+sabarmati,1
+ashram,1
+1,1

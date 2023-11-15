@@ -1,0 +1,6 @@
+58,113,13
+the,2
+campaign,1
+by,1
+same,1
+methods,1

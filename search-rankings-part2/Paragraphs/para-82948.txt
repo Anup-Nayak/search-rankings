@@ -1,0 +1,9 @@
+24,267,6
+m,1
+k,1
+gandhi,1
+the,2
+manager,1
+eastern,1
+bank,1
+bombay,1

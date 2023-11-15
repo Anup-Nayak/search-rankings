@@ -1,0 +1,8 @@
+44,485,24
+t1,1
+guj,1
+adds,1
+on,1
+my,1
+own,1
+responsibility,1

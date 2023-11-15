@@ -1,0 +1,14 @@
+82,190,11
+if,1
+this,1
+statement,1
+is,1
+true,1
+the,1
+matter,1
+calls,1
+for,1
+immediate,1
+attention,1
+and,1
+redress,1

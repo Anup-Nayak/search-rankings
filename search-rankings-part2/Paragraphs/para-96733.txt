@@ -1,0 +1,8 @@
+28,415,3
+231,1
+speech,1
+at,1
+national,1
+education,1
+conference,1
+1,1

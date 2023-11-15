@@ -1,0 +1,9 @@
+80,461,8
+1,1
+the,1
+addressee,1
+and,1
+her,1
+husband,1
+shriman,1
+narayan,1

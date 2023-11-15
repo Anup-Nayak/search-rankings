@@ -1,0 +1,7 @@
+78,52,8
+1,1
+vide,1
+the,1
+who,1
+preceding,1
+items,1

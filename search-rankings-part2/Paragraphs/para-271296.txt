@@ -1,0 +1,6 @@
+72,483,2
+the,1
+question,1
+of,1
+languages,1
+1,1

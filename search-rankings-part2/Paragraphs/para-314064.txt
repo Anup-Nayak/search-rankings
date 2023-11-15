@@ -1,0 +1,14 @@
+82,344,8
+nation,1
+wide,1
+resistance,1
+to,1
+the,3
+invader,1
+even,1
+at,1
+cost,1
+of,1
+co,1
+operating,1
+with,1

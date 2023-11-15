@@ -1,0 +1,12 @@
+15,278,7
+as,1
+regards,1
+another,1
+question,1
+whether,1
+factories,1
+should,1
+not,1
+be,1
+replaced,1
+by,1

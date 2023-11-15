@@ -1,0 +1,9 @@
+42,152,3
+here,1
+is,1
+the,1
+naked,1
+paw,1
+says,1
+his,1
+excellency,1

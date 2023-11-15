@@ -1,0 +1,12 @@
+78,353,10
+show,1
+the,4
+beauty,1
+and,1
+grandeur,1
+of,1
+truth,1
+contained,1
+in,1
+above,1
+verse,1

@@ -1,0 +1,7 @@
+36,456,4
+528,1
+precarious,1
+condition,1
+in,1
+south,1
+africa,1

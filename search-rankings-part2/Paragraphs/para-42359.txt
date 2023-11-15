@@ -1,0 +1,9 @@
+13,69,28
+concerned,1
+stop,1
+effect,1
+searle,1
+judgment,1
+can,1
+be,1
+wholly,1

@@ -1,0 +1,7 @@
+11,63,3
+70,1
+mr,1
+thambi,1
+naidoos,1
+re,1
+arrest,1

@@ -1,0 +1,11 @@
+20,482,2
+7,1
+the,2
+use,2
+of,2
+bombing,1
+aeroplanes,1
+at,1
+gujranwalawith,1
+regard,1
+to,1

@@ -1,0 +1,8 @@
+15,443,3
+work,1
+to,2
+be,1
+attended,1
+by,1
+teachers,1
+apart,1

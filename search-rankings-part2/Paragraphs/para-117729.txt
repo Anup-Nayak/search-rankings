@@ -1,0 +1,16 @@
+35,41,15
+dear,1
+friend,1
+i,1
+hope,1
+you,1
+received,1
+my,1
+previous,1
+letter,1
+2,1
+in,1
+reply,1
+to,1
+your,1
+enquiry,1

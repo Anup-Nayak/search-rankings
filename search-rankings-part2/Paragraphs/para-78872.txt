@@ -1,0 +1,17 @@
+23,77,11
+was,1
+to,1
+be,1
+measured,1
+by,1
+its,1
+success,1
+in,1
+achieving,1
+these,1
+things,1
+and,1
+if,1
+they,1
+are,1
+achieved,1

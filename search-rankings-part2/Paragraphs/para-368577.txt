@@ -1,0 +1,15 @@
+95,273,5
+1,1
+the,2
+gujarati,1
+original,1
+appeared,1
+in,1
+harijanabandhu,1
+which,1
+was,1
+published,1
+simul,1
+taneously,1
+with,1
+source,1

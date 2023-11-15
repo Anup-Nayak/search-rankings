@@ -1,0 +1,7 @@
+6,328,4
+304,1
+malaria,1
+and,1
+duty,1
+of,1
+indians,1

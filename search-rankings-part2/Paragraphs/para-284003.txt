@@ -1,0 +1,4 @@
+76,13,6
+make,1
+generous,1
+response,1

@@ -1,0 +1,7 @@
+92,108,4
+155,1
+letter,1
+to,1
+s,1
+v,1
+venkateswaran,1

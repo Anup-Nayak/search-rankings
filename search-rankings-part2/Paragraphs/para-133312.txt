@@ -1,0 +1,7 @@
+39,37,9
+46,1
+letter,1
+to,1
+s,1
+t,1
+sheppard,1

@@ -1,0 +1,6 @@
+36,76,2
+1,1
+fried,1
+preparations,1
+2,1
+ibid,1

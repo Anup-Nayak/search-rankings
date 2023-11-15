@@ -1,0 +1,12 @@
+1,252,7
+no,2
+other,2
+purpose,1
+and,1
+condition,1
+they,1
+came,1
+to,2
+serve,1
+do,1
+otherwise,1

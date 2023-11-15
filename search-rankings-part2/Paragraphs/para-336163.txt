@@ -1,0 +1,12 @@
+87,273,1
+chawl,1
+second,1
+floor,1
+room,1
+no,1
+12,1
+i,1
+hope,1
+you,1
+are,1
+well,1

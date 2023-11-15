@@ -1,0 +1,5 @@
+19,66,3
+wattal,1
+private,1
+secretary,1
+bikaner,1

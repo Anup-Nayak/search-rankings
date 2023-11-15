@@ -1,0 +1,7 @@
+90,436,16
+no,1
+selfishness,1
+in,1
+shape,1
+or,1
+form,1

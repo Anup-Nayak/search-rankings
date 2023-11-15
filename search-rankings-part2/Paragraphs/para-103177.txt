@@ -1,0 +1,7 @@
+30,233,3
+119,1
+letter,1
+to,1
+maneklal,1
+amritlal,1
+gandhi,1

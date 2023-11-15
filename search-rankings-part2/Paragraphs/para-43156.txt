@@ -1,0 +1,10 @@
+13,161,5
+to,1
+the,2
+minister,1
+of,2
+interior,1
+and,1
+several,1
+members,1
+parliament,1

@@ -1,0 +1,13 @@
+17,5,9
+i,3
+always,1
+feel,1
+that,1
+am,1
+committing,1
+a,1
+sin,1
+when,1
+write,1
+to,1
+you,1

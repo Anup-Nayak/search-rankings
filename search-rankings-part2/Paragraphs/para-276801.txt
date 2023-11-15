@@ -1,0 +1,6 @@
+74,123,7
+183,1
+hindustani,1
+hindi,1
+and,1
+urdu,1

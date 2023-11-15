@@ -1,0 +1,8 @@
+14,10,32
+surrender,1
+self,1
+respect,1
+mass,1
+meeting,1
+twenty,1
+first,1

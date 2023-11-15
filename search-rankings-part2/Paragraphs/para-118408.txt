@@ -1,0 +1,13 @@
+35,122,6
+fred,1
+campbell,1
+esq,1
+7701,1
+main,1
+st,1
+kansas,1
+city,1
+mo,1
+u,1
+s,1
+a,1

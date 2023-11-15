@@ -1,0 +1,17 @@
+52,467,32
+all,1
+this,1
+harvest,1
+it,2
+is,1
+pretty,1
+certain,1
+that,1
+they,1
+would,1
+pay,1
+nothing,1
+for,1
+kharif,1
+was,1
+quite,1

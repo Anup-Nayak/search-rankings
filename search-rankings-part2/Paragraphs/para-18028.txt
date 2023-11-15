@@ -1,0 +1,12 @@
+6,306,10
+it,1
+may,1
+be,1
+added,1
+that,1
+a,1
+strongly,1
+worded,1
+circular,1
+letter2,1
+has,1

@@ -1,0 +1,16 @@
+27,153,15
+bear,1
+the,2
+burden,1
+of,2
+worldly,1
+cares,1
+any,1
+more,1
+it,1
+shall,1
+not,1
+be,1
+out,1
+place,1
+to,1

@@ -1,0 +1,7 @@
+76,3,4
+sevamoorti,1
+shri,1
+virchand,1
+panachand,1
+shah,1
+p,1

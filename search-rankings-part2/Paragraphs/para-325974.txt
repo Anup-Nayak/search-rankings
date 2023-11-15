@@ -1,0 +1,6 @@
+85,208,2
+1,1
+anjuman,1
+taraqui,1
+e,1
+urdu,1

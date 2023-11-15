@@ -1,0 +1,8 @@
+47,106,6
+total,1
+cloth,1
+consumed,1
+per,1
+head,1
+13,1
+yards,1

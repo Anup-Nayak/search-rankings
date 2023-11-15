@@ -1,0 +1,8 @@
+41,300,5
+q,1
+what,1
+do,1
+you,1
+mean,1
+by,1
+freedom,1

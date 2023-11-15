@@ -1,0 +1,10 @@
+21,507,5
+long,1
+as,1
+the,2
+khilafat,1
+question2,1
+not,1
+settled,1
+punjab,1
+wrongs,1

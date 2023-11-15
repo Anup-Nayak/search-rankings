@@ -1,0 +1,10 @@
+88,159,9
+yours,1
+m,1
+k,1
+gandhi,1
+badshah,1
+khan,1
+charsadda,1
+frontier,1
+province,1

@@ -1,0 +1,10 @@
+58,313,2
+harijans,1
+which,1
+must,1
+be,2
+assumed,1
+to,1
+in,1
+favour,1
+of,1

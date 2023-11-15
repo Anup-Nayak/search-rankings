@@ -1,0 +1,8 @@
+36,10,5
+the,1
+ashram,1
+sabarmati,1
+thursday,1
+july,1
+8,1
+1926,1

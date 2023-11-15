@@ -1,0 +1,6 @@
+26,370,5
+166,1
+interview,1
+to,1
+manchester,1
+guardian,1

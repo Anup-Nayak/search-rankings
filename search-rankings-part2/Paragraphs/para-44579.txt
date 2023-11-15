@@ -1,0 +1,7 @@
+13,370,4
+nearly,2
+hundred,1
+in,1
+gaol,1
+two,1
+thousand,1

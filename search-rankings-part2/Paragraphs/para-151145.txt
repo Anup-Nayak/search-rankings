@@ -1,0 +1,12 @@
+43,470,9
+yours,1
+sincerely,1
+prof,1
+sayyid,1
+abdul,1
+latif,1
+osmania,1
+university,1
+college,1
+hyderabad,1
+deccan,1

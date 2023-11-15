@@ -1,0 +1,12 @@
+2,16,3
+the,2
+pretoria,1
+archives,1
+and,1
+colonial,1
+office,1
+records,1
+south,1
+africa,1
+general,1
+1897,1

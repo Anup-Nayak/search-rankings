@@ -1,0 +1,7 @@
+85,217,3
+346,1
+letter,1
+to,1
+lloyds,1
+bank,1
+ltd,1

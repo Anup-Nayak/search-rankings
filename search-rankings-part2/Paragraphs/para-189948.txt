@@ -1,0 +1,6 @@
+53,383,9
+mr,1
+gandhi,1
+yes,1
+i,1
+know,1

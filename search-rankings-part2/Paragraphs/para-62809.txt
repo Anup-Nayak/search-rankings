@@ -1,0 +1,10 @@
+18,5,11
+satyagraha,1
+is,2
+impossible,1
+so,1
+long,1
+as,1
+there,1
+ill,1
+will,1

@@ -1,0 +1,12 @@
+13,376,15
+are,1
+averse,1
+to,1
+the,2
+repeal,1
+of,1
+tax,1
+if,1
+government,1
+will,1
+see,1

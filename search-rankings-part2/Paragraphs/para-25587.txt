@@ -1,0 +1,5 @@
+8,428,10
+not,2
+unchallenged,2
+he,1
+was,1

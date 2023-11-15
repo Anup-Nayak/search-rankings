@@ -1,0 +1,6 @@
+39,216,11
+4,1
+philosophers,1
+stone,1
+5,1
+om,1

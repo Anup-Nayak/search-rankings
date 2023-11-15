@@ -1,0 +1,7 @@
+45,138,1
+143,1
+speech,1
+at,1
+flag,1
+hoisting,1
+ceremony,1

@@ -1,0 +1,13 @@
+24,465,19
+wear,1
+foreign,1
+clothes,1
+on,1
+the,2
+ground,1
+of,1
+exhausting,1
+existing,1
+stock,1
+would,1
+they,1

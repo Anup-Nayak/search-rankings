@@ -1,0 +1,16 @@
+35,27,12
+bhai,1
+murabbi,1
+mama,1
+i,1
+have,1
+your,1
+letter,1
+you,2
+can,2
+come,1
+over,1
+if,1
+do,1
+so,1
+without,1

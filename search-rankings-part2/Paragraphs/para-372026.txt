@@ -1,0 +1,8 @@
+96,258,7
+360,1
+speech,1
+at,1
+women,1
+s,1
+meeting,1
+1,1

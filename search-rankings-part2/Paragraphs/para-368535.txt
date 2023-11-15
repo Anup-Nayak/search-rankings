@@ -1,0 +1,14 @@
+95,264,2
+1,1
+sultan,1
+of,4
+kashmir,1
+contemporary,1
+rana,2
+kumbha,1
+chittor,1
+the,1
+great,1
+grand,1
+father,1
+pratap,1

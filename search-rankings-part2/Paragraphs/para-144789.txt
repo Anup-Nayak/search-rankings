@@ -1,0 +1,8 @@
+42,224,3
+bapu,1
+ps,1
+i,1
+have,1
+not,1
+revised,1
+this,1

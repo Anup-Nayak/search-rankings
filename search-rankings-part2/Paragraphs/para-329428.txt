@@ -1,0 +1,17 @@
+86,73,10
+1,1
+lavanyalata,1
+and,1
+the,1
+addressee,1
+had,1
+met,1
+with,1
+an,1
+accident,1
+while,1
+travelling,1
+by,1
+a,1
+cycle,1
+rickshaw,1

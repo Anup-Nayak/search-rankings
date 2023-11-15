@@ -1,0 +1,15 @@
+98,428,10
+1,1
+in,1
+reply,1
+to,1
+a,2
+letter,1
+from,1
+muslim,1
+organization,1
+about,1
+islam,1
+and,1
+cow,1
+protection,1

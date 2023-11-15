@@ -1,0 +1,12 @@
+42,465,17
+about,2
+a,1
+consensus,1
+of,1
+opinion,1
+among,1
+all,1
+circles,1
+including,1
+the,2
+liberals,1

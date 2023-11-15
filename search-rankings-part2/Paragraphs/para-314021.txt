@@ -1,0 +1,10 @@
+82,342,12
+withdrawal,1
+of,1
+the,1
+british,1
+power,1
+from,1
+india,1
+both,1
+america,1

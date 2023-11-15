@@ -1,0 +1,14 @@
+62,273,6
+did,1
+outward,1
+form,1
+avail,1
+to,1
+a,2
+man,1
+who,1
+was,1
+drunkard,1
+rake,1
+and,1
+gambler,1

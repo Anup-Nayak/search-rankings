@@ -1,0 +1,9 @@
+14,52,8
+opposed,1
+to,1
+passive,1
+resistance,1
+at,1
+the,1
+very,1
+beginning,1

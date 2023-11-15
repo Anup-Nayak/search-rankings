@@ -1,0 +1,17 @@
+17,136,1
+to,2
+you,2
+he,1
+has,1
+already,1
+done,1
+so,1
+me,1
+but,1
+had,1
+better,1
+hear,1
+it,1
+direct,1
+from,1
+him,1

@@ -1,0 +1,17 @@
+23,230,7
+1,1
+hayat,1
+saheb,1
+seconded,1
+the,2
+resolution,2
+and,2
+faizullah,1
+khan,1
+supported,1
+it,1
+was,1
+put,1
+to,1
+vote,1
+passed,1

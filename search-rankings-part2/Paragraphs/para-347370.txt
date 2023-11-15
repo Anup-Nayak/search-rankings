@@ -1,0 +1,10 @@
+90,88,3
+for,1
+opening,1
+a,1
+temple,1
+to,1
+harijans,1
+please,1
+go,1
+if,1

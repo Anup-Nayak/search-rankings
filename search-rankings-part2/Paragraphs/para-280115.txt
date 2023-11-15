@@ -1,0 +1,7 @@
+75,50,4
+52,1
+telegram,1
+to,1
+chandrabhal,1
+johri,1
+1,1

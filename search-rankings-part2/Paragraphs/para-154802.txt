@@ -1,0 +1,7 @@
+44,506,8
+t9,1
+&,1
+t10,1
+guj,1
+has,1
+unfertilized,1

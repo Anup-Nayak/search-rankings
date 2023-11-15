@@ -1,0 +1,13 @@
+31,228,11
+money,1
+from,1
+you,1
+without,1
+your,1
+co,1
+operation,1
+it,1
+is,1
+impossible,1
+to,1
+govern,1

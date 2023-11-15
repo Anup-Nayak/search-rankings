@@ -1,0 +1,13 @@
+49,290,14
+3,1
+an,1
+amnesty,1
+for,1
+prisoners,1
+convicted,1
+of,1
+political,1
+offences,1
+to,1
+coincide,1
+with,1

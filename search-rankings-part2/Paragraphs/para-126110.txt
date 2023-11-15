@@ -1,0 +1,17 @@
+37,43,2
+what,1
+is,2
+khaddar,1
+a,3
+friend,1
+enquires,1
+whether,1
+the,2
+following,1
+definition,2
+of,1
+congressman,1
+given,1
+in,1
+leader,1
+correct,1

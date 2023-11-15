@@ -1,0 +1,7 @@
+19,76,6
+1,1
+vidyagouri,1
+nilkanth,1
+a,1
+social,1
+worker,1

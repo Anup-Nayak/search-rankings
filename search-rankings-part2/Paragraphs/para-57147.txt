@@ -1,0 +1,13 @@
+16,328,6
+1,1
+the,4
+leaflet,1
+was,1
+issued,1
+on,1
+day,1
+following,1
+ending,1
+of,1
+lock,1
+out,1

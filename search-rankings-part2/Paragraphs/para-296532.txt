@@ -1,0 +1,6 @@
+79,79,2
+86,1
+is,1
+non,1
+violence,1
+impossible,1

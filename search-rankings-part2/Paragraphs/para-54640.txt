@@ -1,0 +1,11 @@
+15,500,3
+m,1
+k,1
+gandhi,1
+i,1
+have,1
+omitted,1
+decimals,1
+in,1
+my,1
+figures,1

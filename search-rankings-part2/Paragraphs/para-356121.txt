@@ -1,0 +1,6 @@
+92,165,6
+236,1
+letter,1
+to,1
+hargovind,1
+gupta,1

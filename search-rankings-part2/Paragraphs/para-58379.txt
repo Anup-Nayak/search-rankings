@@ -1,0 +1,15 @@
+16,488,8
+effective,1
+voice,1
+in,1
+the,1
+decision,1
+of,2
+a,1
+question,1
+which,1
+is,1
+such,1
+supreme,1
+moment,1
+to,1

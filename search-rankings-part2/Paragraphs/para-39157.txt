@@ -1,0 +1,14 @@
+12,139,5
+from,1
+a,1
+photostat,2
+of,1
+the,1
+typewritten,1
+office,1
+copy,1
+s,2
+n,2
+5604,1
+also,1
+5619,1

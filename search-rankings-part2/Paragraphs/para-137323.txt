@@ -1,0 +1,6 @@
+40,144,3
+85,1
+letter,1
+to,1
+pragji,1
+desai,1

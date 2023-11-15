@@ -1,0 +1,7 @@
+89,128,3
+193,1
+letter,1
+to,1
+pushpa,1
+k,1
+desai,1

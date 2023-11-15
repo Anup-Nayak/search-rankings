@@ -1,0 +1,11 @@
+49,425,8
+read,1
+the,1
+discourse,1
+on,1
+truth,1
+and,2
+non,1
+violence,1
+over,2
+again,1

@@ -1,0 +1,12 @@
+92,421,14
+2,1
+the,2
+cable,1
+was,1
+reported,1
+under,1
+date,1
+line,1
+october,1
+28,1
+1946,1

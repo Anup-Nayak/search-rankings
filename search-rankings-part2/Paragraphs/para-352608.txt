@@ -1,0 +1,6 @@
+91,233,11
+293,1
+letter,1
+to,1
+thanmal,1
+soucheti,1

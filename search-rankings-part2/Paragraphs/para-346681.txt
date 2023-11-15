@@ -1,0 +1,14 @@
+90,8,10
+poona,1
+february,1
+27,1
+1946,1
+damodar,1
+mulchand,1
+mehta,1
+pramukh,1
+shrichital,1
+sarvajanik,1
+seva,1
+mandal,1
+bilkha,1

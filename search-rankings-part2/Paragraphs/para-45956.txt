@@ -1,0 +1,8 @@
+14,10,19
+zulu,1
+warders,1
+not,1
+supply,1
+blankets,1
+sandals,1
+socks,1

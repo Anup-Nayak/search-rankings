@@ -1,0 +1,8 @@
+21,366,4
+213,1
+talk,1
+with,1
+khalsa,1
+college,1
+students,1
+amritsar1,1

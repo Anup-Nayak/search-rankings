@@ -1,0 +1,5 @@
+50,173,10
+we,1
+pray,1
+for,1
+recovery,1

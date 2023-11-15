@@ -1,0 +1,7 @@
+58,269,1
+377,1
+letter,1
+to,1
+manindra,1
+nath,1
+mitter,1

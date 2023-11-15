@@ -1,0 +1,7 @@
+29,70,15
+52,1
+telegram,1
+to,1
+motilal,1
+nehru,1
+2,1

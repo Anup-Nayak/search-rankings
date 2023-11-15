@@ -1,0 +1,13 @@
+23,78,14
+brothers,1
+he,1
+said,1
+they,1
+have,1
+already,1
+won,1
+and,1
+established,1
+swaraj,1
+for,1
+themselves,1

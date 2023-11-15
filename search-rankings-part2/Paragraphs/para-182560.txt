@@ -1,0 +1,8 @@
+52,46,3
+bapu,1
+ps,1
+immediately,1
+after,1
+the,1
+morning,1
+prayer,1

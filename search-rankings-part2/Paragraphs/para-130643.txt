@@ -1,0 +1,6 @@
+38,197,7
+180,1
+read,1
+reflect,1
+and,1
+weep,1

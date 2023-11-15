@@ -1,0 +1,11 @@
+75,115,2
+the,3
+council,1
+of,1
+karnatak,1
+provincial,1
+congress,1
+committee,1
+passed,1
+following,1
+resolution,1

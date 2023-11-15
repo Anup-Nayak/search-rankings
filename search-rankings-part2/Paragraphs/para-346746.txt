@@ -1,0 +1,11 @@
+90,13,16
+catches,1
+my,1
+eye,1
+what,1
+you,1
+write,1
+about,1
+gomati2,1
+is,1
+quite,1

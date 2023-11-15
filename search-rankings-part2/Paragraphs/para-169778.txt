@@ -1,0 +1,6 @@
+48,527,5
+seizures,1
+detention,1
+search,1
+and,1
+arrest,1

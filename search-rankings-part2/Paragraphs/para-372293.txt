@@ -1,0 +1,14 @@
+96,289,10
+1,1
+son,1
+of,1
+amrita,1
+lal,1
+chattarjee,1
+2,1
+held,1
+in,1
+the,1
+university,1
+science,1
+college,1

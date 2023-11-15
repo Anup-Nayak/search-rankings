@@ -1,0 +1,11 @@
+82,64,4
+how,2
+we,1
+can,1
+serve,1
+with,2
+our,1
+intellect,1
+but,1
+the,1
+body,1

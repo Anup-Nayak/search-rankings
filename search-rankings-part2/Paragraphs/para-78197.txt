@@ -1,0 +1,5 @@
+22,471,2
+who,1
+cut,1
+the,1
+thumbs,1

@@ -1,0 +1,11 @@
+20,479,4
+4,1
+the,2
+justification,1
+for,1
+declaration,1
+and,1
+continuance,1
+of,1
+martial,1
+law,1

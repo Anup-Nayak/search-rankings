@@ -1,0 +1,9 @@
+14,152,8
+government,1
+is,1
+that,1
+these,1
+forced,1
+collections,1
+of,1
+tax,1

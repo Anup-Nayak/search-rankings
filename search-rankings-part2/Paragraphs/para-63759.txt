@@ -1,0 +1,9 @@
+18,134,4
+ladies,1
+decide,1
+perform,1
+ceremony,1
+sunday,1
+1,1
+am,1
+going,1

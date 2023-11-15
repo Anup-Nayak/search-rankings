@@ -1,0 +1,17 @@
+32,37,14
+1,1
+principal,1
+st,1
+stephens,1
+college,1
+delhi,1
+he,1
+was,1
+seriously,1
+ill,1
+and,1
+passed,1
+away,1
+on,1
+june,1
+30,1

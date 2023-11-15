@@ -1,0 +1,5 @@
+46,254,4
+201,1
+foreign,1
+cloth,1
+boycott,1

@@ -1,0 +1,6 @@
+86,273,7
+474,1
+letter,1
+to,1
+yashodhara,1
+dasappa,1

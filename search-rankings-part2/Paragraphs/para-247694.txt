@@ -1,0 +1,6 @@
+67,92,4
+145,1
+letter,1
+to,1
+khushalchand,1
+gandhi,1

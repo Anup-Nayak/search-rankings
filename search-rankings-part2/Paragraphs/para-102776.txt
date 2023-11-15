@@ -1,0 +1,17 @@
+30,206,3
+a,1
+i,2
+came,1
+to,1
+know,1
+of,1
+it,1
+on,1
+friday,1
+the,2
+29th,1
+august,1
+when,1
+was,1
+in,1
+mosque,1

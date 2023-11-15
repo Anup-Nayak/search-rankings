@@ -1,0 +1,7 @@
+57,232,6
+423,1
+letter,1
+to,1
+zohra,1
+banu,1
+ansari,1

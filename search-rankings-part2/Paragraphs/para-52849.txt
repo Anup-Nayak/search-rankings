@@ -1,0 +1,8 @@
+15,312,5
+240,1
+speech,1
+at,1
+surat,1
+on,1
+indenture,1
+2,1

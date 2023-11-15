@@ -1,0 +1,13 @@
+77,96,10
+is,1
+purely,1
+a,1
+domestic,1
+one,1
+for,1
+the,2
+majority,1
+and,1
+minorities,1
+to,1
+settle,1

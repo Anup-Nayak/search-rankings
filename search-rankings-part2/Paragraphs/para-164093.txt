@@ -1,0 +1,10 @@
+47,200,12
+second,1
+delhi,1
+third,1
+bulandshahr,1
+fourth,1
+fifth,1
+aligarh,1
+sixth,1
+mathura,1

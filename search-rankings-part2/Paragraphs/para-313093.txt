@@ -1,0 +1,14 @@
+82,269,3
+q,1
+you,3
+are,1
+going,1
+strong,1
+should,1
+know,1
+that,1
+if,1
+the,1
+people,1
+follow,1
+it,1

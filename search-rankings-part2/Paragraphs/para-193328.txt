@@ -1,0 +1,9 @@
+54,329,4
+find,1
+frontier,1
+and,1
+u,1
+p,1
+ordinances,1
+shootings,1
+in,1

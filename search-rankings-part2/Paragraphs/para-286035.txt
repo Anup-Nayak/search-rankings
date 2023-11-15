@@ -1,0 +1,6 @@
+76,240,9
+314,1
+letter,1
+to,1
+iswar,1
+saran,1

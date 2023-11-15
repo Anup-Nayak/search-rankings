@@ -1,0 +1,14 @@
+11,192,2
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+miss,1
+olive,1
+doke,1
+sutherland,1
+avenue,1
+hospital,1
+hill,1
+johannesburg,1

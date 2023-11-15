@@ -1,0 +1,11 @@
+44,493,14
+t1,1
+guj,1
+does,1
+not,1
+have,1
+the,1
+rest,1
+of,1
+this,1
+sentence,1

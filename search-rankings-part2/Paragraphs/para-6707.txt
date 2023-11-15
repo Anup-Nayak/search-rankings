@@ -1,0 +1,6 @@
+3,84,3
+56,1
+minute,1
+by,1
+the,1
+mayor,1

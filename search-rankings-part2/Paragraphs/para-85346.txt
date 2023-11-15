@@ -1,0 +1,4 @@
+25,193,2
+sacred,1
+within,1
+limits,1

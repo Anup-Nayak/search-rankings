@@ -1,0 +1,6 @@
+96,310,6
+428,1
+letter,1
+to,1
+harjivan,1
+kotak,1

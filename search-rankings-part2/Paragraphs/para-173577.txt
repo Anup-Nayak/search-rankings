@@ -1,0 +1,6 @@
+49,461,31
+cultural,1
+educational,1
+and,1
+linguistic,1
+freedom,1

@@ -1,0 +1,7 @@
+41,37,7
+1,1
+yogic,1
+postures,1
+2,1
+breathing,1
+exercises,1

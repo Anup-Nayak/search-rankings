@@ -1,0 +1,9 @@
+32,333,1
+214,1
+interview,1
+to,1
+indian,1
+psycho,1
+analytical,1
+society,1
+1,1

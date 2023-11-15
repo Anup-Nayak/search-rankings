@@ -1,0 +1,10 @@
+85,410,7
+3,2
+for,1
+you,1
+and,1
+sarojini,1
+she,1
+too,1
+is,1
+unhappy,1

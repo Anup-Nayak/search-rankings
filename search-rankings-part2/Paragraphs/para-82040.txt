@@ -1,0 +1,6 @@
+24,124,2
+non,1
+co,1
+operation,1
+in,1
+andhra,1

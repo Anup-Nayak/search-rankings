@@ -1,0 +1,13 @@
+17,256,8
+2,1
+coming,1
+from,1
+one,1
+with,1
+a,2
+disturbed,1
+mind,1
+even,1
+boon,1
+is,1
+frightening,1

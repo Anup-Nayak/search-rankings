@@ -1,0 +1,13 @@
+2,156,3
+b,1
+any,1
+person,1
+being,1
+a,2
+pauper,1
+or,1
+likely,1
+to,1
+become,1
+public,1
+charge,1

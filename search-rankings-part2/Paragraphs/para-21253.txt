@@ -1,0 +1,8 @@
+7,204,15
+struggle,1
+not,1
+unrestricted,1
+influx,1
+but,1
+self,1
+respect,1

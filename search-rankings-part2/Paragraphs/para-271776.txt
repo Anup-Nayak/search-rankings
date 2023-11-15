@@ -1,0 +1,8 @@
+73,33,4
+2,1
+kishorelal,1
+mashruwala,1
+president,1
+gandhi,1
+seva,1
+sangh,1

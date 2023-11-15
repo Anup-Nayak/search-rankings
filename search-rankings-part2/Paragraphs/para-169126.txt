@@ -1,0 +1,16 @@
+48,401,4
+q,1
+were,1
+you,1
+not,1
+responsible,1
+for,1
+allowing,1
+the,1
+viceregal,1
+negotiations,1
+to,2
+come,1
+an,1
+abrupt,1
+end,1

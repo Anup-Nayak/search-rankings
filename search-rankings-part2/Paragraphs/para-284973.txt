@@ -1,0 +1,10 @@
+76,128,13
+favour,1
+temple,1
+entry,1
+by,1
+harijans,1
+2,1
+ask,1
+you,1
+not,1

@@ -1,0 +1,7 @@
+22,29,8
+23,1
+speech,1
+at,1
+public,1
+meeting,1
+allahabad,1

@@ -1,0 +1,15 @@
+10,416,4
+mr,1
+gandhi,1
+is,1
+it,1
+not,1
+subject,1
+to,1
+the,2
+public,1
+health,1
+by,1
+laws,1
+of,1
+municipality,1

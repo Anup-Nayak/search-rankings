@@ -1,0 +1,9 @@
+17,74,27
+to,1
+secure,1
+full,1
+and,1
+free,1
+response,1
+from,1
+people,1

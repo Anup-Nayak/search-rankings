@@ -1,0 +1,13 @@
+68,442,20
+8,1
+the,3
+spinners,2
+are,1
+not,1
+only,1
+people,1
+benefited,1
+along,1
+with,1
+a,1
+large,1

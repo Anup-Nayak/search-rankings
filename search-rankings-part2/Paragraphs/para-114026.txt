@@ -1,0 +1,6 @@
+33,437,3
+maganlal,1
+khushalchand,1
+gandhi,1
+from,1
+gujarati,1

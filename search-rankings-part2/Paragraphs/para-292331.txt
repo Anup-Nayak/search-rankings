@@ -1,0 +1,9 @@
+78,79,2
+1,1
+the,1
+following,1
+three,1
+sentences,1
+are,1
+form,1
+harijan,1

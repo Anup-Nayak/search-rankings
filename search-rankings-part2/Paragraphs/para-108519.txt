@@ -1,0 +1,11 @@
+32,101,2
+an,1
+esteemed,1
+american,1
+friend,1
+who,1
+has,1
+been,1
+practising,1
+spinning,1
+writes,1

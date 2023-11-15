@@ -1,0 +1,5 @@
+92,63,4
+96,1
+hindustani,1
+prachar,1
+examinations,1

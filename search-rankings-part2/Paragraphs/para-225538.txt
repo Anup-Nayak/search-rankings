@@ -1,0 +1,10 @@
+61,475,16
+c,1
+r,1
+all,1
+right,1
+can,1
+friends,1
+advise,1
+on,1
+this,1

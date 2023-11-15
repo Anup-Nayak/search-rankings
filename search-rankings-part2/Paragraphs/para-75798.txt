@@ -1,0 +1,5 @@
+22,36,2
+wednesday,1
+november,1
+1920,1
+1,1

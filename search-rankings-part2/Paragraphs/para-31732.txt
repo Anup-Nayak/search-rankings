@@ -1,0 +1,10 @@
+10,264,6
+editor,1
+you,2
+may,1
+see,2
+peace,1
+if,1
+like,1
+i,1
+none,1

@@ -1,0 +1,6 @@
+13,279,4
+struggle,1
+imperative,1
+notwithstanding,1
+every,1
+effort,1

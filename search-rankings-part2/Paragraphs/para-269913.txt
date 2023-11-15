@@ -1,0 +1,17 @@
+72,331,6
+kaka,1
+do,1
+talk,1
+to,1
+jamnalalji,1
+it,1
+will,2
+certainly,1
+be,1
+good,1
+if,1
+he,4
+goes,1
+go,3
+can,2
+when,1

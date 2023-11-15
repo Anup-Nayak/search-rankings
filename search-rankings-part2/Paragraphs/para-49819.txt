@@ -1,0 +1,6 @@
+14,484,2
+on,1
+the,2
+causes,1
+of,1
+strike,1

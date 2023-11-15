@@ -1,0 +1,7 @@
+23,186,8
+should,1
+endeavour,1
+diligently,1
+to,1
+eradicate,1
+them,1

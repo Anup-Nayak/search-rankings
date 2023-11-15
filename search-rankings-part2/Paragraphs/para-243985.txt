@@ -1,0 +1,6 @@
+66,207,7
+302,1
+letter,1
+to,1
+motasingh,1
+patara,1

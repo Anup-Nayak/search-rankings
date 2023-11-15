@@ -1,0 +1,13 @@
+49,290,7
+settlement,1
+is,2
+possible,1
+and,1
+that,1
+mr,1
+gandhi,1
+prepared,1
+to,2
+recommend,1
+congress,1
+the,1

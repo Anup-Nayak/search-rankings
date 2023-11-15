@@ -1,0 +1,12 @@
+82,308,9
+a,1
+protest,1
+against,1
+the,2
+government,1
+action,1
+b,1
+alleviation,1
+of,1
+peoples,1
+sufferings,1

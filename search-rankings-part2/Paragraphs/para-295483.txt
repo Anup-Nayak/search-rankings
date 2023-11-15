@@ -1,0 +1,13 @@
+78,397,8
+that,1
+warfare,1
+cannot,1
+lead,1
+to,1
+peace,1
+and,2
+freedom,1
+the,2
+choice,1
+before,1
+world,1

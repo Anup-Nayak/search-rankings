@@ -1,0 +1,12 @@
+50,161,9
+blessings,1
+from,1
+bapu,1
+ps,1
+do,2
+you,2
+pray,1
+understand,1
+the,1
+gita,1
+correctly,1

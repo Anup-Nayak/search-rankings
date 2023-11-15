@@ -1,0 +1,16 @@
+96,436,23
+case,1
+of,1
+the,1
+states,1
+you,3
+threaten,1
+would,1
+woo,1
+a,2
+girl,1
+wanted,1
+to,1
+marry,1
+with,1
+stick,1

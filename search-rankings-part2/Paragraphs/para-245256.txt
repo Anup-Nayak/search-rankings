@@ -1,0 +1,4 @@
+66,328,2
+a,1
+workers,1
+pilgrimage,1

@@ -1,0 +1,14 @@
+78,55,7
+mahatma,1
+gandhi,1
+paid,1
+a,3
+tribute,1
+to,1
+mr,1
+shankerlal,1
+banker,1
+of,1
+i,1
+s,1
+who,1

@@ -1,0 +1,9 @@
+19,15,7
+and,1
+rauf,1
+are,1
+to,1
+revise,1
+judgments,1
+summary,1
+trials,1

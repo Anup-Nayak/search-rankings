@@ -1,0 +1,8 @@
+89,353,10
+and,2
+he,1
+drew,1
+nearer,1
+to,1
+gandhiji,1
+whispered,1

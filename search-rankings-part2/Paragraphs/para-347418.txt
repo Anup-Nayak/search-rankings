@@ -1,0 +1,8 @@
+90,95,1
+126,1
+can,1
+we,1
+afford,1
+the,1
+decimal,1
+system,1

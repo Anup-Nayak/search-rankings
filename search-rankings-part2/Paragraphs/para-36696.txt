@@ -1,0 +1,7 @@
+11,324,4
+secretary,1
+asked,1
+for,1
+alternative,1
+proposals,1
+writing,1

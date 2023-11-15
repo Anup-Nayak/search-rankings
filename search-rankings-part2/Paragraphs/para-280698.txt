@@ -1,0 +1,8 @@
+75,106,1
+138,1
+talk,1
+with,1
+an,1
+ashram,1
+inmate,1
+1,1

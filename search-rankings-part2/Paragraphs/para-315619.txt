@@ -1,0 +1,16 @@
+82,412,18
+thousand,1
+dollars,1
+what,1
+will,1
+the,2
+villages,1
+do,1
+with,1
+dollar,1
+that,1
+has,1
+come,1
+back,1
+to,1
+them,1

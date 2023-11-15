@@ -1,0 +1,11 @@
+90,40,7
+1,1
+from,2
+the,4
+gujarati,2
+2,1
+rest,1
+of,1
+question,1
+is,1
+translated,1

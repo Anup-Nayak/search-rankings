@@ -1,0 +1,12 @@
+23,24,10
+parsi,1
+community,2
+could,2
+give,1
+it,1
+and,1
+the,1
+rich,1
+mercantile,1
+of,1
+bombay,1

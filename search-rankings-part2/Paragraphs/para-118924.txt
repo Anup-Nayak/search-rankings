@@ -1,0 +1,5 @@
+35,179,2
+once,1
+bitten,1
+twice,1
+shy,1

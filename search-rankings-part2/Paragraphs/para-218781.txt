@@ -1,0 +1,14 @@
+60,221,16
+survey,1
+you,1
+know,1
+that,1
+we,1
+britishers,1
+prefer,1
+hard,1
+facts,1
+to,1
+many,1
+wordsor,1
+at,1

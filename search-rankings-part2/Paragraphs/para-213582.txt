@@ -1,0 +1,8 @@
+59,140,10
+b,1
+n,1
+sasmal,1
+bar,1
+at,1
+law,1
+midnapore,1

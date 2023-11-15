@@ -1,0 +1,4 @@
+91,115,5
+146,1
+hindustani,1
+criticized,1

@@ -1,0 +1,6 @@
+60,229,4
+274,1
+anti,1
+untouchability,1
+in,1
+bihar,1

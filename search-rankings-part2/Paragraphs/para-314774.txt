@@ -1,0 +1,15 @@
+82,387,29
+power,1
+nor,1
+can,3
+that,1
+be,1
+its,1
+goal,1
+but,1
+non,1
+violence,1
+do,1
+more,1
+it,1
+effectively,1

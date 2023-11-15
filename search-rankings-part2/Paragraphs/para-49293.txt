@@ -1,0 +1,6 @@
+14,438,3
+373,1
+talk,1
+with,1
+bangalore,1
+citizens,1

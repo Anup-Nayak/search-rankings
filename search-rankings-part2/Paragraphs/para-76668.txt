@@ -1,0 +1,7 @@
+22,196,2
+public,1
+waste,1
+the,1
+same,1
+writers,1
+say,1

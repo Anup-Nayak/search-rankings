@@ -1,0 +1,8 @@
+65,296,1
+334,1
+letter,1
+to,1
+amali,1
+said,1
+abdul,1
+hadi,1

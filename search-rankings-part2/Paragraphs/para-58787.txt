@@ -1,0 +1,14 @@
+16,515,3
+5,1
+as,1
+to,3
+abwab,1
+mr,1
+gandhi,1
+has,1
+no,1
+objection,1
+the,1
+proposal,1
+make,1
+it,1

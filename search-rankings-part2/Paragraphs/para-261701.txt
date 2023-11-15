@@ -1,0 +1,13 @@
+70,205,9
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+ronald,1
+duncan,1
+esq,1
+6,1
+pall,1
+mall,1
+london,1

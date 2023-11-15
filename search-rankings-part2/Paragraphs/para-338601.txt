@@ -1,0 +1,8 @@
+88,49,14
+1,1
+there,1
+is,1
+god,1
+in,1
+every,1
+pebble,1

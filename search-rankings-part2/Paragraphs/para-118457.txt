@@ -1,0 +1,7 @@
+35,126,7
+172,1
+letter,1
+to,1
+n,1
+s,1
+varadachari,1

@@ -1,0 +1,8 @@
+15,113,12
+september,1
+6,1
+monday,1
+anna,1
+&,1
+mama,1
+returned,1

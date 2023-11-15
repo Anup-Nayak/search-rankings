@@ -1,0 +1,5 @@
+19,195,3
+148,1
+resolution,1
+for,1
+congress,1

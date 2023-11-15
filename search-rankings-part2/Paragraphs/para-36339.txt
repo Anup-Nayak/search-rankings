@@ -1,0 +1,8 @@
+11,299,7
+unacceptable,1
+for,1
+passive,1
+resisters,1
+suggest,1
+your,1
+ad,1

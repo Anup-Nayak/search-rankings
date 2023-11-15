@@ -1,0 +1,17 @@
+74,6,20
+way,1
+i,2
+see,1
+it,1
+how,1
+can,1
+keep,1
+you,2
+even,1
+agree,1
+that,1
+mother,1
+should,1
+be,1
+kept,1
+happy,1

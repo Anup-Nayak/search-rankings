@@ -1,0 +1,11 @@
+83,149,2
+bapu,1
+miss,1
+gladys,1
+owen,1
+new,1
+manzil,1
+lalbagh,1
+lucknow,1
+u,1
+p,1

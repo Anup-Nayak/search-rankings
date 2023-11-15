@@ -1,0 +1,11 @@
+32,17,8
+jawaharlal,1
+staying,1
+there,1
+gandhi,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+10644,1

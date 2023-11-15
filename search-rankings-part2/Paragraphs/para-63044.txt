@@ -1,0 +1,8 @@
+18,38,15
+lege,1
+for,1
+us,1
+give,1
+evidence,1
+against,1
+prisoners,1

@@ -1,0 +1,10 @@
+24,471,18
+nation,1
+government,2
+and,1
+people,1
+is,2
+widening,1
+day,2
+by,1
+only,1

@@ -1,0 +1,4 @@
+29,85,5
+burma,1
+berar,1
+kerala,1

@@ -1,0 +1,16 @@
+46,157,30
+all,1
+words,1
+or,1
+phrases,1
+we,1
+the,1
+villagers,1
+in,1
+general,1
+do,1
+not,1
+understand,1
+none,1
+try,1
+to,1

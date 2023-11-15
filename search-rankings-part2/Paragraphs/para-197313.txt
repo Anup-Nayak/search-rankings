@@ -1,0 +1,16 @@
+55,286,14
+mohan,1
+your,1
+handwriting,1
+is,2
+good,2
+you,1
+should,1
+become,1
+a,1
+man,1
+too,1
+uncle,1
+mahadev,1
+very,1
+well,1

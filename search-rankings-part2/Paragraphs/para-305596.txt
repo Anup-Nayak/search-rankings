@@ -1,0 +1,6 @@
+81,44,16
+4,1
+fulchand,1
+kasturchand,1
+shahs,1
+widow,1

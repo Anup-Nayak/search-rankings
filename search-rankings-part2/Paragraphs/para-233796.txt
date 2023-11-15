@@ -1,0 +1,6 @@
+64,48,7
+2,1
+extracted,1
+from,1
+weekly,1
+letter,1

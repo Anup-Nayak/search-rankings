@@ -1,0 +1,7 @@
+70,15,4
+everyone,1
+is,1
+good,1
+not,1
+including,1
+you,1

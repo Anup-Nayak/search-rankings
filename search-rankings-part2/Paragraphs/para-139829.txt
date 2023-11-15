@@ -1,0 +1,6 @@
+41,59,4
+72,1
+letter,1
+to,1
+k,1
+kelappan,1

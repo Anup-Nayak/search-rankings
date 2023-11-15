@@ -1,0 +1,10 @@
+65,390,8
+yours,1
+bapu,1
+shri,1
+kodna,1
+venkatappayya,1
+guntur,1
+m,2
+s,1
+rly,1

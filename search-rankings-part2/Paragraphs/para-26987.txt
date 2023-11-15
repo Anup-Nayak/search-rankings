@@ -1,0 +1,5 @@
+9,100,3
+how,1
+to,1
+wage,1
+campaign,1

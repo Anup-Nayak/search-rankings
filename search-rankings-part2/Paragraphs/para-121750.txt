@@ -1,0 +1,12 @@
+36,51,5
+51,1
+letter,1
+to,1
+moolchand,1
+agrawal,1
+ashram,1
+sabarmati,1
+thursday,1
+july,1
+15,1
+1926,1

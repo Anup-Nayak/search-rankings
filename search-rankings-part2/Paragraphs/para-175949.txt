@@ -1,0 +1,6 @@
+50,248,5
+monday,1
+morning,1
+november,1
+17,1
+1930,1

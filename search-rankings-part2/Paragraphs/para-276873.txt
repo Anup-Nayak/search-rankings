@@ -1,0 +1,13 @@
+74,134,6
+1,1
+travancore,1
+state,1
+congress,2
+2,1
+balkrishna,1
+sharma,1
+a,1
+leading,1
+worker,1
+of,1
+kanpur,1

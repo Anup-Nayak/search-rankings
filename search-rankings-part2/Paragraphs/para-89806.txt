@@ -1,0 +1,11 @@
+26,410,1
+supply,2
+of,2
+oranges,1
+and,2
+chapatis,1
+the,1
+additional,1
+milk,1
+to,1
+me,1

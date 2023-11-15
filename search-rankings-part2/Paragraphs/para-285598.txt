@@ -1,0 +1,7 @@
+76,195,8
+248,1
+letter,1
+to,1
+potti,1
+sriramulu,1
+chetty,1

@@ -1,0 +1,10 @@
+6,85,4
+yours,1
+sincerely,1
+enclosure,1
+mrs,1
+freeth,1
+48,1
+finchley,1
+road,1
+n,1

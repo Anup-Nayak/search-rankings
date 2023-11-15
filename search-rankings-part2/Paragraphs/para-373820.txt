@@ -1,0 +1,4 @@
+97,29,1
+27,1
+outrageous,1
+analogy,1

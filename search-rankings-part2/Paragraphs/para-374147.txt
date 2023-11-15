@@ -1,0 +1,14 @@
+97,82,4
+1,1
+one,1
+of,2
+the,2
+twelve,1
+disciples,1
+jesus,1
+christ,1
+who,1
+betrayed,1
+him,1
+to,1
+priests,1

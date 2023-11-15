@@ -1,0 +1,8 @@
+63,378,2
+418,1
+speech,1
+at,1
+prayer,1
+meeting,1
+rangiya,1
+1,1

@@ -1,0 +1,13 @@
+40,233,4
+1,1
+this,1
+and,1
+the,2
+subsequent,1
+quotations,1
+are,1
+presumably,1
+intended,1
+to,1
+encourage,1
+addressee,1

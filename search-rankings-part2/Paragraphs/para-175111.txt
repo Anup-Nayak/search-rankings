@@ -1,0 +1,7 @@
+50,156,9
+press,1
+reports,1
+health,1
+disturbing,1
+please,1
+wire,1

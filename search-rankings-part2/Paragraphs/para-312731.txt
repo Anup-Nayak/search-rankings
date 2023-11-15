@@ -1,0 +1,7 @@
+82,241,3
+bapu,1
+from,1
+hindi,1
+bapuki,1
+chhayamen,1
+pp,1

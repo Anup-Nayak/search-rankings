@@ -1,0 +1,6 @@
+30,98,8
+quota,1
+for,1
+c,2
+collector,1
+date,1

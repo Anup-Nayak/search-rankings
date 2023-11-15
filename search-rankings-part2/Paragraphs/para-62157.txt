@@ -1,0 +1,7 @@
+17,402,11
+komtolla,1
+mob,1
+rescued,1
+oriya,1
+accused,1
+from,1

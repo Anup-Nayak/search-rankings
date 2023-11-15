@@ -1,0 +1,6 @@
+79,182,13
+1,1
+vide,1
+biswa,1
+miscarriage,1
+again,1

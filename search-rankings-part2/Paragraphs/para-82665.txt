@@ -1,0 +1,14 @@
+24,220,6
+badge,1
+of,2
+slavery,1
+mental,1
+and,2
+physical,1
+than,1
+foreign,1
+cloth,1
+we,1
+should,1
+get,1
+rid,1

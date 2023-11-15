@@ -1,0 +1,15 @@
+52,339,18
+gandhiji,1
+said,1
+it,1
+was,2
+perfectly,1
+true,1
+that,1
+abdul,1
+ghaffar,1
+khan,1
+pressing,1
+him,1
+to,1
+visit,1

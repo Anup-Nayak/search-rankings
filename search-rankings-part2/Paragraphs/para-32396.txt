@@ -1,0 +1,8 @@
+10,357,10
+transvaal,1
+hazura,1
+singh,2
+lal,1
+and,2
+bahadur,1
+vaja,1

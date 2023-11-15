@@ -1,0 +1,7 @@
+46,75,4
+68,1
+ideal,1
+primary,1
+school,1
+for,1
+children,1

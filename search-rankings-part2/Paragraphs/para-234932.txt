@@ -1,0 +1,13 @@
+64,174,13
+in,1
+the,2
+end,1
+gandhiji,1
+appealed,1
+to,2
+women,1
+part,1
+with,1
+their,1
+ornaments,1
+and,1

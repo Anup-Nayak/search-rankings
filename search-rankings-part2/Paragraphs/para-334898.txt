@@ -1,0 +1,13 @@
+87,154,2
+q,1
+why,1
+do,1
+you,1
+think,1
+the,2
+maulana,1
+was,1
+omitted,1
+in,1
+first,1
+instance,1

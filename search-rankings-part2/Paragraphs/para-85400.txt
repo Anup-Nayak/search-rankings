@@ -1,0 +1,13 @@
+25,200,3
+1,1
+sitting,1
+at,1
+one,1
+spot,1
+for,1
+the,1
+purpose,1
+of,1
+exerting,1
+moral,1
+pressure,1

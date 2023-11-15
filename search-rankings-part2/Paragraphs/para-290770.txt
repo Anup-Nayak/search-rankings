@@ -1,0 +1,14 @@
+77,349,6
+1,1
+gandhiji,1
+declared,1
+the,2
+exhibition,1
+open,1
+soon,1
+after,1
+his,1
+arrival,1
+in,2
+malikanda,1
+morning,1

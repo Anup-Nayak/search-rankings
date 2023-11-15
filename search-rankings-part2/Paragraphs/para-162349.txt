@@ -1,0 +1,12 @@
+46,461,31
+five,1
+members,1
+shall,1
+form,1
+the,2
+quorum,1
+for,1
+a,1
+meeting,1
+of,1
+committee,1

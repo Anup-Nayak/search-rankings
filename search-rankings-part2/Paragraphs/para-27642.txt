@@ -1,0 +1,9 @@
+9,191,9
+application,1
+outside,1
+colony,1
+under,1
+latter,1
+all,1
+possessed,1
+peace,1

@@ -1,0 +1,10 @@
+79,280,5
+not,1
+brave,1
+enough,1
+to,1
+take,1
+risks,1
+in,1
+doing,1
+the,1

@@ -1,0 +1,12 @@
+61,488,13
+hindrance,1
+amounts,1
+to,2
+a,1
+refusal,1
+accept,1
+for,1
+himself,1
+the,1
+normal,1
+concomitants,1

@@ -1,0 +1,11 @@
+6,323,7
+do,1
+not,1
+print,1
+hamidia,1
+weekly,1
+report,1
+this,1
+time,1
+sent,1
+yesterday,1

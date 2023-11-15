@@ -1,0 +1,12 @@
+82,370,8
+bapu,1
+ps,1
+i,2
+think,1
+have,1
+told,1
+you,1
+about,1
+sushila,1
+having,1
+passed,1

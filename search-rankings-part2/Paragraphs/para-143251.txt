@@ -1,0 +1,6 @@
+42,22,2
+35,1
+the,1
+yajna,1
+in,1
+bardoli,1

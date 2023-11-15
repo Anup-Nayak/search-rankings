@@ -1,0 +1,14 @@
+6,145,6
+government,1
+now,1
+has,1
+to,2
+consider,1
+is,1
+whether,1
+maintain,1
+a,1
+system,1
+of,1
+alien,1
+white,1

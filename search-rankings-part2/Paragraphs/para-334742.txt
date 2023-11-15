@@ -1,0 +1,7 @@
+87,144,20
+caste,1
+hindus,1
+and,1
+muslims,1
+is,1
+unalterable,1

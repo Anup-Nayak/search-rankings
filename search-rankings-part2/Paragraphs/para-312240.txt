@@ -1,0 +1,15 @@
+82,197,9
+bapu,1
+rani,1
+vidyavati,1
+t,1
+r,1
+n,1
+sanyal,1
+building,1
+11,1
+block,1
+jogendra,1
+pathak,1
+road,1
+lucknow,1

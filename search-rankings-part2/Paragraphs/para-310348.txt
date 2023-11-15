@@ -1,0 +1,5 @@
+82,39,4
+50,1
+criminal,1
+assaults,1
+1,1

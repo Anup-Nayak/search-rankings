@@ -1,0 +1,6 @@
+23,304,1
+137,1
+statement,1
+to,1
+press,1
+representative,1

@@ -1,0 +1,16 @@
+30,373,15
+n,1
+there,2
+may,1
+be,2
+no,1
+authority,2
+in,2
+the,3
+smriti,2
+but,1
+would,1
+sufficient,1
+found,1
+commentary,1
+on,1

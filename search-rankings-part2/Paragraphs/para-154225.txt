@@ -1,0 +1,5 @@
+44,484,11
+t12,1
+guj,1
+has,1
+relatives,1

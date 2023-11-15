@@ -1,0 +1,12 @@
+64,112,5
+examining,1
+the,2
+programme,2
+he,1
+found,1
+that,1
+certain,1
+items,1
+of,1
+could,1
+be,1

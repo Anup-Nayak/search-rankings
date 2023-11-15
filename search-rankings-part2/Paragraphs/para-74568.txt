@@ -1,0 +1,15 @@
+21,354,21
+hindu,1
+he,1
+could,1
+appeal,1
+to,1
+the,2
+hindus,1
+more,1
+frankly,1
+they,1
+must,1
+love,1
+and,1
+trust,1

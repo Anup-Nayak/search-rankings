@@ -1,0 +1,15 @@
+27,465,3
+mr,1
+c,1
+f,1
+andrews,1
+interviewed,1
+on,1
+the,1
+same,1
+subject,1
+stated,1
+that,1
+he,1
+had,1
+been,1

@@ -1,0 +1,7 @@
+24,192,2
+1,1
+spirit,1
+of,1
+reverence,1
+2,1
+weavers,1

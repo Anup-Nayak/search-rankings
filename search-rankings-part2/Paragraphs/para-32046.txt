@@ -1,0 +1,4 @@
+10,312,5
+missionary,1
+in,1
+mysore,1

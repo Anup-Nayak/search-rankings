@@ -1,0 +1,10 @@
+16,19,2
+speeches,1
+and,1
+writings,1
+of,1
+mahatma,1
+gandhi,1
+natesan,1
+3rd,1
+ed,1

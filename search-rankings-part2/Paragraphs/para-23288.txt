@@ -1,0 +1,17 @@
+8,41,3
+it,1
+was,1
+taken,1
+at,2
+a,1
+meeting,1
+burghersdorp,1
+in,1
+the,1
+independent,1
+school,1
+if,1
+i,1
+am,1
+not,1
+mistaken,1

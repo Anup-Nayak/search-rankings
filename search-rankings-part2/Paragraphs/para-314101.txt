@@ -1,0 +1,14 @@
+82,347,7
+move,1
+in,2
+the,1
+right,1
+direction,1
+but,1
+my,1
+humble,1
+opinion,1
+our,1
+leaders,1
+have,1
+not,1

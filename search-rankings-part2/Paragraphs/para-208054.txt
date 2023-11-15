@@ -1,0 +1,16 @@
+58,83,8
+1,1
+in,1
+the,2
+source,1
+sentence,1
+which,1
+followed,1
+has,1
+been,1
+scored,1
+out,1
+2,1
+an,1
+ashram,1
+inmate,1

@@ -1,0 +1,8 @@
+96,241,0
+242,1
+the,1
+collected,1
+works,1
+of,1
+mahtama,1
+gandhi,1

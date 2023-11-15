@@ -1,0 +1,11 @@
+33,421,4
+a,1
+friend,1
+who,1
+was,1
+at,1
+the,2
+bedside,1
+of,2
+maharaja,1
+nattore,1

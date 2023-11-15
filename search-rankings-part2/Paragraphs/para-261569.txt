@@ -1,0 +1,8 @@
+70,192,1
+223,1
+how,1
+to,1
+stop,1
+obscene,1
+advertisements,1
+1,1

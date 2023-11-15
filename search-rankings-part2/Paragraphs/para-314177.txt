@@ -1,0 +1,8 @@
+82,355,4
+411,1
+khadi,1
+production,1
+and,1
+education,1
+in,1
+karadi,1

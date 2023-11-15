@@ -1,0 +1,14 @@
+37,235,5
+as,1
+the,2
+beads,1
+are,1
+held,2
+together,1
+by,2
+string,1
+so,1
+this,1
+universe,1
+is,1
+me,1

@@ -1,0 +1,8 @@
+77,415,25
+aim,1
+to,1
+help,1
+indians,1
+in,1
+their,1
+task,1

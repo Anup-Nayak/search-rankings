@@ -1,0 +1,14 @@
+21,49,5
+it,1
+is,1
+therefore,1
+imperativethat,1
+all,1
+cases,1
+now,1
+ready,1
+for,1
+trial,1
+in,1
+the,1
+summary,1

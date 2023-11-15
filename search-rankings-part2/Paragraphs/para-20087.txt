@@ -1,0 +1,4 @@
+7,41,10
+effect,1
+of,1
+rules,1

@@ -1,0 +1,14 @@
+21,475,34
+government,2
+was,2
+a,1
+callous,1
+and,1
+whether,1
+it,1
+not,1
+right,1
+on,1
+their,1
+part,1
+to,1

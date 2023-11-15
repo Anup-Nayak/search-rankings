@@ -1,0 +1,12 @@
+14,100,1
+bed,1
+ridden,1
+mrs,1
+gool,1
+and,1
+her,1
+children,1
+are,1
+a,1
+great,1
+help,1

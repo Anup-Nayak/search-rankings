@@ -1,0 +1,6 @@
+74,256,2
+segaon,1
+wardha,1
+november,1
+28,1
+1938,1

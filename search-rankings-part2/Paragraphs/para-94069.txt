@@ -1,0 +1,12 @@
+27,465,25
+south,1
+africa,1
+it,1
+contained,1
+the,2
+following,1
+significant,1
+passage,1
+promise,1
+made,1
+by,1

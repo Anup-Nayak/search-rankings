@@ -1,0 +1,10 @@
+35,30,6
+from,1
+a,1
+microfilm,1
+of,1
+the,1
+gujatati,1
+s,1
+n,1
+10872,1

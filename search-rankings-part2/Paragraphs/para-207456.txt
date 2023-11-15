@@ -1,0 +1,11 @@
+58,19,12
+no,1
+cause,1
+anxiety,1
+will,1
+try,1
+send,1
+daily,1
+report,1
+from,1
+gujarati,1

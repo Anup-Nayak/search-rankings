@@ -1,0 +1,11 @@
+53,511,4
+no,1
+avoidable,1
+hardship,1
+is,1
+being,1
+caused,1
+to,1
+the,1
+tenantry,1
+govern,1

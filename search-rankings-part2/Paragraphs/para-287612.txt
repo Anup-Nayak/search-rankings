@@ -1,0 +1,14 @@
+76,417,16
+10,1
+percent,1
+property,1
+tax,1
+which,1
+is,2
+required,1
+for,1
+financing,1
+prohibition,1
+it,1
+urged,1
+on,1

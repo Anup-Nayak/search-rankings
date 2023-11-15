@@ -1,0 +1,10 @@
+34,362,5
+ashram,1
+sabarmati,1
+saturday,1
+phagan,1
+vad,1
+7,1
+march,1
+6,1
+1926,1

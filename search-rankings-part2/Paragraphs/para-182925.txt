@@ -1,0 +1,16 @@
+52,89,4
+yours,1
+mohandas,1
+gandhi,1
+shri,1
+gangasharan,1
+singh,1
+congress,1
+committee,1
+amahra,1
+p,1
+o,1
+nihatta,1
+dist,1
+patna,1
+bihar,1

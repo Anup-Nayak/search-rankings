@@ -1,0 +1,8 @@
+27,243,4
+go,1
+not,1
+necessarily,1
+court,1
+arrest,1
+but,1
+regu,1

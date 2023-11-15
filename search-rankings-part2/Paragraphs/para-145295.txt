@@ -1,0 +1,8 @@
+42,279,10
+have,1
+wired,1
+motilalji,1
+he,1
+should,1
+wear,1
+crown,1

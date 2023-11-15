@@ -1,0 +1,5 @@
+15,40,9
+yours,1
+sincerely,1
+old,1
+friend,1

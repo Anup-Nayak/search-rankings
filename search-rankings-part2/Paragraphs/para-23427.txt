@@ -1,0 +1,12 @@
+8,56,19
+burmah,1
+chitral,1
+black,1
+hill,1
+tirah,1
+expedition,1
+1897,1
+and,1
+the,1
+transvaal,1
+war,1

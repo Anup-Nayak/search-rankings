@@ -1,0 +1,8 @@
+85,152,3
+jawaharlal,1
+is,2
+a,1
+jewel,1
+among,1
+men,1
+happy,1

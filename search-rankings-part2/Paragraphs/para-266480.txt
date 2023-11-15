@@ -1,0 +1,13 @@
+71,371,15
+gandhi,1
+called,1
+in,1
+the,2
+correspondent,1
+handed,1
+back,1
+viceroy,1
+s,1
+statement,1
+which,1
+was,1

@@ -1,0 +1,14 @@
+11,368,4
+political,1
+association,1
+mr,1
+gandhi,1
+briefly,1
+returned,1
+thanks,1
+and,1
+in,1
+turn,1
+proposed,1
+a,1
+vote,1

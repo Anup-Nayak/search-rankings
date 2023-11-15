@@ -1,0 +1,8 @@
+13,146,16
+sion,1
+and,1
+arrive,1
+at,1
+settlement,1
+will,1
+be,1

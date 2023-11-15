@@ -1,0 +1,6 @@
+41,122,6
+1,1
+satyagraha,1
+in,1
+south,1
+africa,1

@@ -1,0 +1,16 @@
+15,478,15
+had,3
+assaulted,1
+his,1
+men,1
+badly,1
+it,1
+was,1
+true,1
+he,2
+threatened,1
+to,1
+fine,1
+them,1
+but,1
+not,1

@@ -1,0 +1,13 @@
+91,105,10
+blessings,1
+from,1
+m,1
+k,1
+gandhi,1
+jivadaya,1
+mandal,1
+148,1
+saraf,1
+bazar,1
+bombay,1
+2,1

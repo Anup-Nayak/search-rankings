@@ -1,0 +1,8 @@
+1,323,2
+sd,1
+abdul,1
+karim,1
+hajee,1
+adam,1
+and,1
+others,1

@@ -1,0 +1,6 @@
+64,111,5
+146,1
+letter,1
+to,1
+haribhau,1
+upadhyaya,1

@@ -1,0 +1,12 @@
+81,60,10
+kripalanijis,1
+part,1
+has,1
+created,1
+not,1
+a,1
+little,1
+confusion,1
+and,1
+misunderstanding,1
+among,1

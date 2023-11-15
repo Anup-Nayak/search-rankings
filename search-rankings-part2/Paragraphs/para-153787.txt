@@ -1,0 +1,7 @@
+44,469,10
+t1,1
+the,1
+gujarati,1
+original,1
+has,1
+could,1

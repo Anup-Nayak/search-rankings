@@ -1,0 +1,6 @@
+39,313,1
+303,1
+discussion,1
+with,1
+missionaries,1
+1,1

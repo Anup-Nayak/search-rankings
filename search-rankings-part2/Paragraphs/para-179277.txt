@@ -1,0 +1,13 @@
+51,149,7
+before,1
+government,1
+took,1
+reciprocal,1
+action,1
+they,1
+should,1
+be,1
+satisfied,1
+that,1
+the,1
+working,1

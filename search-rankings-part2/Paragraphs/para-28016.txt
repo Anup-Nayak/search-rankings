@@ -1,0 +1,4 @@
+9,239,5
+148,1
+vancouver,1
+indians,1

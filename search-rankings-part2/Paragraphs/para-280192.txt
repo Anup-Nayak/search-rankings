@@ -1,0 +1,5 @@
+75,56,3
+ghanshyamdas,1
+birla,1
+lucky,1
+calcutta,1

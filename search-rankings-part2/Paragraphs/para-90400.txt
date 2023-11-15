@@ -1,0 +1,6 @@
+27,9,3
+8,1
+message,1
+to,1
+gujarat,1
+vidyapith,1

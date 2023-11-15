@@ -1,0 +1,9 @@
+33,177,3
+everywhere,1
+there,2
+are,1
+differences,1
+of,1
+opinion,1
+but,1
+should,1

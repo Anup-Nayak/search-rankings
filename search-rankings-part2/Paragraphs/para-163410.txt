@@ -1,0 +1,9 @@
+47,121,2
+from,1
+gujarati,1
+shikshan,1
+ane,1
+sahitya,1
+22,1
+9,1
+1929,1

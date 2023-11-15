@@ -1,0 +1,9 @@
+17,317,3
+302,1
+letter,1
+to,1
+the,1
+press,1
+on,1
+satyagraha,1
+pledge,1

@@ -1,0 +1,8 @@
+92,61,2
+93,1
+advice,1
+to,1
+an,1
+ashram,1
+inmate,1
+1,1

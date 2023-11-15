@@ -1,0 +1,6 @@
+3,126,12
+favourable,1
+reply,1
+letter,1
+22nd,1
+instant,1

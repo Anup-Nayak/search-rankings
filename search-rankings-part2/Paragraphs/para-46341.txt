@@ -1,0 +1,10 @@
+14,52,3
+the,1
+congress,1
+meeting,1
+2,1
+numbered,1
+little,1
+over,1
+a,1
+hundred,1

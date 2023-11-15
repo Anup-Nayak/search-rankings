@@ -1,0 +1,8 @@
+58,92,4
+130,1
+letter,1
+to,1
+a,1
+sindhi,1
+doctor,1
+2,1

@@ -1,0 +1,6 @@
+36,108,9
+2,1
+graduates,1
+of,1
+gujarat,1
+vidyapith,1

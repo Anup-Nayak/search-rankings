@@ -1,0 +1,15 @@
+24,422,8
+from,1
+experience,1
+that,1
+startled,1
+me,2
+i,2
+asked,1
+kindly,1
+tell,1
+what,1
+you,1
+mean,1
+feel,1
+disturbed,1

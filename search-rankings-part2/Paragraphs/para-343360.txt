@@ -1,0 +1,14 @@
+89,90,4
+inherent,1
+strength,1
+and,1
+the,1
+secret,1
+of,2
+combination,1
+it,1
+would,1
+rule,1
+capital,1
+instead,1
+being,1

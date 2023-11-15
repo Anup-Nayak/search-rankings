@@ -1,0 +1,15 @@
+57,314,8
+if,1
+jugatrams,1
+treatment,1
+is,1
+going,1
+on,1
+she,1
+need,1
+not,1
+follow,1
+this,1
+prescription,1
+just,1
+now,1

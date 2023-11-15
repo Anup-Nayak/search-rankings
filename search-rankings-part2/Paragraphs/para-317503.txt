@@ -1,0 +1,7 @@
+83,185,7
+treasure,1
+your,1
+blessings,1
+they,1
+will,1
+encourage,1

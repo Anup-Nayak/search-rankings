@@ -1,0 +1,11 @@
+92,71,12
+wish,1
+parsi,1
+rustomji,1
+hall,1
+and,1
+library,1
+silver,1
+jubilee,1
+function,1
+every,1

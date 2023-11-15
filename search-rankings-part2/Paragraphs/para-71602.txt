@@ -1,0 +1,13 @@
+20,332,4
+the,2
+chowdharis,1
+4,1
+had,1
+not,1
+much,1
+time,1
+left,1
+to,2
+them,1
+test,1
+truth,1

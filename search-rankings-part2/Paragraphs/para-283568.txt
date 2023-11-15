@@ -1,0 +1,5 @@
+75,447,10
+rajkot,1
+darbari,1
+gazette,1
+extraordinary,1

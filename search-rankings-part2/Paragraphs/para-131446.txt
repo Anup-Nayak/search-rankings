@@ -1,0 +1,16 @@
+38,288,6
+yes,1
+and,1
+gwalior,1
+did,1
+not,1
+draw,1
+anything,1
+from,1
+the,1
+state,1
+treasury,1
+that,1
+is,1
+to,1
+say,1

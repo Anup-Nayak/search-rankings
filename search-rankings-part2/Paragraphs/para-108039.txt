@@ -1,0 +1,12 @@
+32,15,4
+become,1
+a,1
+shareholder,1
+in,1
+the,1
+company,1
+wants,1
+to,1
+verify,1
+these,1
+facts,1

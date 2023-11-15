@@ -1,0 +1,4 @@
+82,369,16
+hindi,1
+avahattha,1
+kavyabhasha,1

@@ -1,0 +1,7 @@
+98,227,9
+242,1
+talk,1
+with,1
+a,1
+muslim,1
+friend,1

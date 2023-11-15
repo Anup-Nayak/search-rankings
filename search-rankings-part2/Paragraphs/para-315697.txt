@@ -1,0 +1,9 @@
+82,414,22
+g,1
+then,1
+perhaps,1
+we,1
+need,1
+some,1
+good,1
+epidemics,1

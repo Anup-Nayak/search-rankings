@@ -1,0 +1,8 @@
+38,112,1
+23rd,1
+pandharpur,1
+dist,2
+kolaba,1
+sholapur,1
+3rd,1
+bombay,1

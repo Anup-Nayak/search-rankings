@@ -1,0 +1,15 @@
+35,73,9
+rs,1
+21,1
+2,1
+i,1
+shall,1
+ask,1
+the,1
+manager,1
+to,1
+send,1
+your,1
+society,1
+a,1
+copy,1

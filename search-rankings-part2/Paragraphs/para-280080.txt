@@ -1,0 +1,17 @@
+75,45,5
+1,2
+lord,2
+lothian,1
+was,1
+at,1
+segaon,1
+from,1
+january,1
+18,1
+to,1
+20,2
+1938,2
+vide,1
+discussion,1
+with,1
+lothain,1

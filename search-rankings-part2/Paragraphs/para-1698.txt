@@ -1,0 +1,14 @@
+1,335,5
+durban,1
+may,1
+18,1
+1896,1
+c,1
+bird,1
+esq,1
+principal,1
+under,1
+secretary,1
+colonial,1
+office,1
+pietermaritzburg,1

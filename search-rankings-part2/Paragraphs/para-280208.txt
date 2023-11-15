@@ -1,0 +1,16 @@
+75,56,20
+1,3
+vide,1
+also,1
+letters,1
+to,3
+the,1
+addressee,1
+letter,2
+n,2
+r,2
+malkani,2
+20,1
+1939,2
+and,1
+22,1

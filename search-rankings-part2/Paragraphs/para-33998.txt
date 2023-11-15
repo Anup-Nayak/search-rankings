@@ -1,0 +1,6 @@
+11,50,6
+receiving,1
+small,1
+deputation,1
+regarding,1
+painful,1

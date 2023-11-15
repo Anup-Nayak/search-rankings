@@ -1,0 +1,5 @@
+76,408,6
+517,1
+letter,1
+to,1
+tatachar,1

@@ -1,0 +1,9 @@
+29,80,6
+my,1
+poor,1
+sick,1
+brain,1
+is,1
+crazed,1
+with,1
+pain,1

@@ -1,0 +1,4 @@
+16,9,3
+what,1
+is,1
+satyagraha,1

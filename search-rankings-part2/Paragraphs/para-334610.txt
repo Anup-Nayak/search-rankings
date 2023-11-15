@@ -1,0 +1,8 @@
+87,132,13
+and,1
+work,1
+for,1
+independence,1
+hence,1
+the,1
+exist,1

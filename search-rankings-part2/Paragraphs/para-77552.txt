@@ -1,0 +1,7 @@
+22,360,10
+there,1
+thursday,1
+impossible,1
+for,1
+self,1
+leave,1

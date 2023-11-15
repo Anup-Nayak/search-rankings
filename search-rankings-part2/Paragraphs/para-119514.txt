@@ -1,0 +1,13 @@
+35,256,2
+r,1
+n,1
+rajamanickam,1
+chettiyar,1
+bharatha,1
+khaddar,1
+prachar,1
+sala,1
+tiyagadurgan,1
+s,1
+a,1
+dist,1

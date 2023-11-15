@@ -1,0 +1,6 @@
+72,470,1
+622,1
+resolution,1
+on,1
+ministerial,1
+resignations,1

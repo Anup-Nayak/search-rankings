@@ -1,0 +1,7 @@
+94,171,3
+179,1
+letter,1
+to,1
+shiv,1
+balak,1
+bisen,1

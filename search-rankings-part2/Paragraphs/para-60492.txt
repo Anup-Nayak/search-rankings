@@ -1,0 +1,8 @@
+17,205,2
+ahmedabad,1
+shravan,1
+krishna,1
+7,1
+august,1
+28,1
+1918,1

@@ -1,0 +1,4 @@
+24,410,6
+echo,1
+from,1
+gauhati,1

@@ -1,0 +1,6 @@
+86,121,14
+can,1
+come,1
+earlier,1
+the,1
+better,1

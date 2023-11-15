@@ -1,0 +1,5 @@
+84,345,2
+charkha,1
+sanghka,1
+navasamskaran,1
+pp,1

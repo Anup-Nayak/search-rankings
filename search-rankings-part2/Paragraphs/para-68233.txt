@@ -1,0 +1,11 @@
+19,319,3
+from,1
+the,1
+handwritten,1
+draft,1
+in,1
+pencil,1
+s,1
+n,1
+7034,1
+a,1

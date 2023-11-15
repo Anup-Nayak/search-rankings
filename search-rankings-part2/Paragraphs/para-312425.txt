@@ -1,0 +1,17 @@
+82,213,5
+q,1
+7,1
+will,1
+it,1
+not,1
+be,1
+a,2
+terrible,1
+burden,1
+and,1
+futile,1
+endeavour,1
+for,1
+people,1
+of,1
+the,1

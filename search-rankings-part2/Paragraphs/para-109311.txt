@@ -1,0 +1,16 @@
+32,255,1
+progress,1
+he,1
+applauds,1
+virtue,1
+but,1
+immediately,1
+says,1
+that,1
+it,2
+is,1
+not,1
+given,1
+to,2
+man,1
+attain,1

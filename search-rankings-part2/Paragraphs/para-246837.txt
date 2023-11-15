@@ -1,0 +1,8 @@
+67,5,6
+gandhiji,1
+how,1
+much,1
+did,1
+you,1
+spin,1
+yesterday,1

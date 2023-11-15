@@ -1,0 +1,6 @@
+83,123,4
+133,1
+letter,1
+to,1
+nazir,1
+ahmad,1

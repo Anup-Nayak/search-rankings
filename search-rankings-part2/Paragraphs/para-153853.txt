@@ -1,0 +1,11 @@
+44,472,7
+t6,1
+guj,1
+has,1
+it,1
+is,1
+impossible,1
+to,1
+measure,1
+its,1
+power,1

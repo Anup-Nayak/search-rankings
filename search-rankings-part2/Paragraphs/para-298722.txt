@@ -1,0 +1,6 @@
+79,362,4
+know,1
+your,2
+love,1
+understand,1
+anxiety,1

@@ -1,0 +1,10 @@
+43,208,11
+1,1
+a,1
+community,1
+in,2
+gujarat,1
+traditionally,1
+engaged,1
+oil,1
+pressing,1

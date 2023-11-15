@@ -1,0 +1,11 @@
+34,284,4
+yours,1
+sincerely,1
+bishop,1
+fisher,1
+150,1
+fifth,1
+avenue,1
+new,1
+york,1
+city,1

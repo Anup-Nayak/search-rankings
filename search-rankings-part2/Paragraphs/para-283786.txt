@@ -1,0 +1,15 @@
+75,465,11
+get,1
+a,2
+majority,1
+at,1
+tripuri,1
+there,1
+is,1
+in,1
+existence,1
+powerful,1
+opposition,1
+if,1
+matters,1
+are,1

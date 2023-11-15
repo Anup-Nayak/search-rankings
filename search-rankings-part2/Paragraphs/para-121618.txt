@@ -1,0 +1,15 @@
+36,32,12
+2,1
+it,1
+is,1
+likely,1
+that,1
+the,2
+letter,1
+was,1
+addressed,1
+to,1
+manager,1
+of,1
+balaramapuram,1
+ashram,1

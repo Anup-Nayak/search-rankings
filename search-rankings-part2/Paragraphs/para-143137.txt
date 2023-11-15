@@ -1,0 +1,6 @@
+42,7,1
+11,1
+letter,1
+to,1
+brijrishna,1
+chandiwala,1

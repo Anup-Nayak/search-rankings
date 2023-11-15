@@ -1,0 +1,12 @@
+46,57,10
+continual,1
+travelling,1
+across,1
+many,1
+thousand,1
+miles,1
+of,1
+country,1
+from,1
+chicago,1
+to,1

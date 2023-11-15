@@ -1,0 +1,17 @@
+84,20,6
+sir,1
+in,2
+reply,1
+to,2
+a,1
+question,1
+the,3
+assembly,1
+honble,1
+home,1
+member,1
+is,1
+reported,1
+have,1
+said,1
+2,1

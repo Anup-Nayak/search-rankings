@@ -1,0 +1,7 @@
+32,241,3
+159,1
+speech,1
+at,1
+meeting,1
+of,1
+christians1,1

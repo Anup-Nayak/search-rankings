@@ -1,0 +1,10 @@
+79,98,8
+from,1
+gujarati,1
+c,1
+w,1
+1605,1
+courtesy,1
+manjulabehn,1
+m,1
+mehta,1

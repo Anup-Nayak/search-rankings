@@ -1,0 +1,9 @@
+20,440,10
+15,1
+freedom,1
+of,1
+navigation,1
+and,1
+transit,1
+is,1
+secured,1

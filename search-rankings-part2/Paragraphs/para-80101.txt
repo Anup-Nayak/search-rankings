@@ -1,0 +1,15 @@
+23,302,16
+had,1
+been,1
+asked,1
+there,1
+he,2
+said,1
+would,1
+explain,1
+several,1
+points,1
+more,1
+fully,1
+this,1
+time,1

@@ -1,0 +1,8 @@
+5,349,1
+composed,1
+of,2
+men,1
+known,1
+standing,1
+and,1
+ability,1

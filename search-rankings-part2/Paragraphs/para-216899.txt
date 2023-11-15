@@ -1,0 +1,15 @@
+59,501,10
+bapu,1
+whatever,1
+the,2
+non,1
+hindus,1
+might,1
+do,1
+is,1
+not,1
+likely,1
+to,1
+touch,1
+core,1
+of,1

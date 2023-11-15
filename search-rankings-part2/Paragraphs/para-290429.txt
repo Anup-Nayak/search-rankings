@@ -1,0 +1,16 @@
+77,304,5
+mahatma,1
+gandhi,1
+addressed,1
+the,3
+people,1
+briefly,1
+thanking,1
+them,2
+for,1
+reception,1
+and,1
+asking,1
+to,1
+strengthen,1
+congress,1

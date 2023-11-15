@@ -1,0 +1,5 @@
+24,88,2
+53,1
+untouchability,1
+and,1
+nationalism,1

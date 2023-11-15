@@ -1,0 +1,9 @@
+65,140,10
+1,1
+addressees,1
+daughter,1
+2,1
+dated,1
+october,1
+5,1
+1934,1

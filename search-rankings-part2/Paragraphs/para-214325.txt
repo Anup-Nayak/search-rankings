@@ -1,0 +1,8 @@
+59,220,7
+321,1
+letter,1
+to,1
+subedar,1
+ghatge,1
+and,1
+others,1

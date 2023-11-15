@@ -1,0 +1,14 @@
+33,471,10
+1,1
+this,1
+appears,1
+to,1
+be,2
+a,1
+slip,1
+the,1
+total,1
+should,1
+27,1
+09,1
+000,1

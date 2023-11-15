@@ -1,0 +1,13 @@
+65,147,10
+1,1
+the,3
+one,1
+proposing,1
+to,2
+reduce,1
+strength,1
+of,1
+a,1
+i,1
+c,2
+1000,1

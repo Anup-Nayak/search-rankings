@@ -1,0 +1,7 @@
+15,229,4
+175,1
+speech,1
+against,1
+press,1
+act,1
+1,1

@@ -1,0 +1,10 @@
+26,66,2
+kazi,1
+bashiruddin,1
+ahmed,1
+secretary,1
+district,1
+khilafat,1
+committee,1
+writes,1
+1,1

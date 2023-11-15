@@ -1,0 +1,8 @@
+11,306,21
+smuts,1
+not,1
+now,1
+reverse,1
+policy,1
+foreshadowed,1
+in,1

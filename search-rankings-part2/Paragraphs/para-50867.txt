@@ -1,0 +1,10 @@
+15,84,5
+93,1
+speech,1
+at,1
+bagasra,1
+on,1
+viramgam,1
+customs,1
+cordon,1
+1,1

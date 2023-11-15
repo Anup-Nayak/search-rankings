@@ -1,0 +1,10 @@
+72,159,17
+could,1
+get,1
+assurance,1
+that,1
+those,1
+who,1
+believed,1
+in,1
+terrorist,1

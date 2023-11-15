@@ -1,0 +1,7 @@
+10,341,8
+1,3
+vide,1
+mr,1
+shelats,1
+discharge,1
+1910,1

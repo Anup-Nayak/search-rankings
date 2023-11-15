@@ -1,0 +1,14 @@
+24,1,22
+movement,1
+for,2
+he,1
+had,1
+been,1
+speaking,1
+constantly,1
+on,1
+the,2
+same,1
+theme,1
+last,1
+so,1

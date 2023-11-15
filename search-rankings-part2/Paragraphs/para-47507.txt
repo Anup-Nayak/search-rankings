@@ -1,0 +1,7 @@
+14,195,1
+178,1
+speech,1
+at,1
+durban,1
+meeting,1
+1,1

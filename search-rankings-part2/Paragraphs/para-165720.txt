@@ -1,0 +1,8 @@
+47,387,9
+mother2,1
+my,1
+behalf,1
+she,1
+and,2
+you,1
+others,1

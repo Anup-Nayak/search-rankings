@@ -1,0 +1,7 @@
+31,232,3
+some,1
+of,2
+the,2
+causes,1
+slack,1
+work,1

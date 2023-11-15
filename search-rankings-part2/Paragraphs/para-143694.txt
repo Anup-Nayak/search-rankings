@@ -1,0 +1,10 @@
+42,78,3
+the,1
+secretary,1
+all,1
+india,1
+spinners,1
+association,1
+writes,1
+as,1
+follows,1

@@ -1,0 +1,15 @@
+91,285,8
+we,1
+are,1
+no,1
+better,1
+than,1
+any,1
+otherthis,1
+thought,1
+is,1
+full,1
+of,1
+truth,1
+and,1
+humility,1

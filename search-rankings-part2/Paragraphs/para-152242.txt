@@ -1,0 +1,5 @@
+44,72,2
+village,1
+workers,1
+training,1
+class,1

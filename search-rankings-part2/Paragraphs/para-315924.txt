@@ -1,0 +1,12 @@
+82,421,3
+l,1
+f,1
+do,1
+you,2
+expect,1
+drastic,1
+action,1
+when,1
+launch,1
+the,1
+movement,1

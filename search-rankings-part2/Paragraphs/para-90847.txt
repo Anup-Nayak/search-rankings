@@ -1,0 +1,7 @@
+27,68,14
+ed,1
+campaign,1
+against,1
+them,1
+europeans,1
+should,1

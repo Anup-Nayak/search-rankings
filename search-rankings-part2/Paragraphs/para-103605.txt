@@ -1,0 +1,7 @@
+30,300,3
+reaching,1
+delhi,1
+friday,1
+are,1
+you,1
+coming,1

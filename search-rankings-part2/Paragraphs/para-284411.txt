@@ -1,0 +1,12 @@
+76,62,5
+1,1
+jawaharlal,1
+nehru,1
+vide,1
+a,1
+i,1
+c,2
+resolutions,1
+23,1
+6,1
+1939,1

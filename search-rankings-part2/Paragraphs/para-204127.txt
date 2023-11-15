@@ -1,0 +1,11 @@
+57,126,6
+favours,1
+opening,1
+all,1
+temples,1
+will,1
+you,1
+not,1
+exert,1
+your,1
+great,1

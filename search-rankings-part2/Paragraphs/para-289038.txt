@@ -1,0 +1,8 @@
+77,127,8
+156,1
+fragment,1
+of,2
+letter,1
+to,1
+people,1
+mysore,1

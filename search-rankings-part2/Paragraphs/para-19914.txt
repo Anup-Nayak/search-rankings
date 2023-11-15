@@ -1,0 +1,14 @@
+7,17,6
+1,1
+a,1
+barrister,1
+2,1
+this,1
+has,1
+been,1
+reproduced,1
+from,1
+the,1
+original,1
+in,1
+english,1

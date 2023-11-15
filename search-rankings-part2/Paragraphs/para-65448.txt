@@ -1,0 +1,6 @@
+18,410,8
+1,1
+the,1
+source,1
+is,1
+damaged,1

@@ -1,0 +1,10 @@
+63,488,5
+this,1
+pilgrimage,1
+can,1
+bear,1
+full,1
+fruit,1
+only,1
+by,1
+continu,1

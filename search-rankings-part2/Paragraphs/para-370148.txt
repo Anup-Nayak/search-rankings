@@ -1,0 +1,16 @@
+96,54,10
+1president,1
+all,1
+india,1
+kisan,1
+sabha,1
+and,1
+andhra,1
+provincial,1
+congress,2
+committee,1
+member,1
+parliamentary,1
+at,1
+the,1
+centre,1

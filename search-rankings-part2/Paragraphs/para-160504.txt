@@ -1,0 +1,10 @@
+46,259,5
+not,1
+content,1
+with,1
+the,2
+infliction,1
+of,1
+this,1
+departmental,1
+punishment,1

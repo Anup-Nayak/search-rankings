@@ -1,0 +1,13 @@
+42,474,9
+the,2
+conditions,1
+of,1
+this,1
+permit,1
+have,1
+been,1
+interpreted/read,1
+over,1
+by,1
+me,1
+to,1

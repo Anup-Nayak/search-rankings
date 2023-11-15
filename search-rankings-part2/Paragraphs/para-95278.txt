@@ -1,0 +1,17 @@
+28,172,5
+1,1
+1880,1
+1959,1
+physician,1
+and,1
+public,1
+worker,1
+president,1
+of,3
+the,2
+indian,2
+national,2
+congress,2
+1948,1
+author,1
+history,1

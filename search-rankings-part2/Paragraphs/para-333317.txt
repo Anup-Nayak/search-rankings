@@ -1,0 +1,9 @@
+87,6,9
+m,1
+k,1
+gandhi,1
+shyamlal,1
+kasturba,1
+trust,1
+office,1
+bombay,1

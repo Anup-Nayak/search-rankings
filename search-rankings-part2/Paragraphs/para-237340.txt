@@ -1,0 +1,7 @@
+64,448,1
+524,1
+letter,1
+to,1
+g,1
+v,1
+mavalankar,1

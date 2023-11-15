@@ -1,0 +1,15 @@
+94,51,16
+expense,1
+of,1
+the,2
+many,1
+result,1
+was,1
+that,1
+its,1
+industrialization,1
+had,1
+become,1
+a,1
+menace,1
+to,1

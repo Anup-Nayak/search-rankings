@@ -1,0 +1,8 @@
+13,140,26
+upon,1
+accept,1
+surrender,1
+of,1
+other,1
+peoples,1
+rights,1

@@ -1,0 +1,7 @@
+42,293,6
+333,1
+boycott,1
+or,1
+non,1
+co,1
+operation,1

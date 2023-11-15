@@ -1,0 +1,8 @@
+58,145,6
+afraid,1
+to,1
+join,1
+the,1
+anti,1
+untouchability,1
+movement,1

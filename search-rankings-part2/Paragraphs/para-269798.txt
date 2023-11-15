@@ -1,0 +1,9 @@
+72,319,16
+2,1
+vide,1
+some,1
+criticism,1
+answered,1
+16,1
+10,1
+1937,1

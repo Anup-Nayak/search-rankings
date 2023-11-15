@@ -1,0 +1,8 @@
+13,389,6
+female,1
+prisoners,1
+by,1
+removing,1
+blouse,1
+and,1
+holding,1

@@ -1,0 +1,6 @@
+87,329,2
+gram,1
+udyog,1
+patrika,1
+vol,1
+i,1

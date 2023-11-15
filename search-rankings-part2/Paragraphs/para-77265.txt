@@ -1,0 +1,7 @@
+22,310,2
+160,1
+who,1
+is,1
+a,1
+sanatani,1
+hindu,1

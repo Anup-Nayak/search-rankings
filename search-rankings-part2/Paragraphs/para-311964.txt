@@ -1,0 +1,16 @@
+82,173,13
+creed,1
+would,1
+not,1
+be,1
+conducive,1
+to,1
+its,1
+breakdown,1
+at,1
+the,1
+critical,1
+time,1
+you,2
+said,1
+did,1

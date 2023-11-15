@@ -1,0 +1,10 @@
+22,339,4
+174,1
+speech,1
+at,1
+opening,1
+of,1
+tibbi,1
+college,1
+1,1
+delhi,1

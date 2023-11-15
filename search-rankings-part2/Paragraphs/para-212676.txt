@@ -1,0 +1,8 @@
+59,44,12
+press,1
+correspondents,1
+not,1
+to,1
+publish,1
+anything,1
+without,1

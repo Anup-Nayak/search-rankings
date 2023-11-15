@@ -1,0 +1,10 @@
+5,116,2
+108,1
+a,1
+fresh,1
+move,1
+to,1
+separate,1
+vryheid,1
+from,1
+natal,1

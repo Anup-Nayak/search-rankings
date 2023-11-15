@@ -1,0 +1,8 @@
+62,68,1
+78,1
+letter,1
+to,1
+ganga,1
+t,1
+hingorani,1
+1,1

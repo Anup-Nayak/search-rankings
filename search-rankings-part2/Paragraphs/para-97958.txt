@@ -1,0 +1,16 @@
+29,70,7
+nehru,1
+that,1
+he,1
+gandhi,1
+was,1
+not,1
+going,1
+to,1
+fight,1
+but,1
+had,1
+laid,1
+down,1
+his,1
+arms,1

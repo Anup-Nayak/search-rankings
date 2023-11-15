@@ -1,0 +1,7 @@
+91,101,3
+127,1
+urdu,1
+the,1
+language,1
+of,1
+both,1

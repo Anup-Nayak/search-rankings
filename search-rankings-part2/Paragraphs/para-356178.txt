@@ -1,0 +1,6 @@
+92,172,4
+245,1
+letter,1
+to,1
+randhir,1
+singh,1

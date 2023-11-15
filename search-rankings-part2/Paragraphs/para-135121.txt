@@ -1,0 +1,16 @@
+39,300,6
+1,1
+n,1
+reply,1
+to,1
+her,1
+letter,1
+dated,1
+july,1
+26,1
+2,1
+ranchhodlal,1
+amritlal,1
+thaker,2
+and,1
+bhogilal,1

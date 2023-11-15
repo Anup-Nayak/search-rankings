@@ -1,0 +1,5 @@
+28,4,2
+2,1
+boycott,1
+foreign,1
+cloth,1

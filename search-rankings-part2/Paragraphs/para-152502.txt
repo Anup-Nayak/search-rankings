@@ -1,0 +1,10 @@
+44,116,3
+for,1
+a,1
+kindly,1
+greeting,1
+bow,1
+thou,1
+down,1
+with,1
+zeal,1

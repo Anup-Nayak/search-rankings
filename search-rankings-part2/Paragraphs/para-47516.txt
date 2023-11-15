@@ -1,0 +1,7 @@
+14,195,10
+ending,1
+eight,1
+years,1
+continuous,1
+struggle,1
+passive,1

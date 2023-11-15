@@ -1,0 +1,6 @@
+14,348,6
+285,1
+letter,1
+to,1
+major,1
+hancock,1

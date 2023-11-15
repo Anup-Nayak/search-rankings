@@ -1,0 +1,15 @@
+51,196,16
+record,1
+the,1
+common,1
+law,1
+right,1
+as,1
+it,1
+stood,1
+of,1
+peaceful,1
+picketing,1
+that,1
+government,1
+did,1

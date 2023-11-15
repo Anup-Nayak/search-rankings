@@ -1,0 +1,17 @@
+54,192,1
+combine,1
+if,2
+an,1
+opinion,1
+had,1
+to,1
+be,1
+expressed,1
+i,2
+wonder,1
+have,1
+made,1
+my,1
+position,1
+quite,1
+clear,1

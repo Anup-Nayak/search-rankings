@@ -1,0 +1,6 @@
+30,170,1
+90,1
+telegram,1
+to,1
+gokaldas,1
+thaker,1

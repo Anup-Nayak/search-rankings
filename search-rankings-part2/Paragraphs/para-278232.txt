@@ -1,0 +1,6 @@
+74,294,3
+396,1
+reply,1
+to,1
+german,1
+critics,1

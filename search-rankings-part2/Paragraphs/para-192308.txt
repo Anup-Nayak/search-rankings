@@ -1,0 +1,11 @@
+54,186,10
+w,1
+tudor,1
+owen,1
+esq,1
+broadhurst,1
+little,1
+common,1
+bexhill,1
+on,1
+sea,1

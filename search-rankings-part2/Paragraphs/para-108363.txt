@@ -1,0 +1,15 @@
+32,74,8
+water,1
+it,1
+is,1
+better,1
+to,2
+try,1
+remove,1
+the,2
+sense,1
+of,1
+superiority,1
+and,1
+inferiority,1
+from,1

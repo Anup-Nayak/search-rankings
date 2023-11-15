@@ -1,0 +1,6 @@
+33,289,11
+185,1
+telegram,1
+to,1
+shankerlal,1
+banker,1

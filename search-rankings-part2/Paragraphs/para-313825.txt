@@ -1,0 +1,11 @@
+82,324,15
+the,2
+neighbourhood,1
+when,1
+they,1
+also,1
+ran,1
+to,1
+place,1
+of,1
+occurrence,1

@@ -1,0 +1,7 @@
+71,48,3
+in,1
+hundred,1
+thousand,1
+yards,1
+1911,1
+14,1

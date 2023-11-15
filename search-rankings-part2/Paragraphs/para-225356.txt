@@ -1,0 +1,9 @@
+61,455,4
+566,1
+letter,1
+to,1
+sultana,1
+waheed,1
+and,1
+hameed,1
+qureshi,1

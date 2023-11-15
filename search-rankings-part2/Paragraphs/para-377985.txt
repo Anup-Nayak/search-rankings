@@ -1,0 +1,9 @@
+98,135,4
+bapu,1
+begum,1
+rashid,1
+17,1
+yashwant,1
+nivas,1
+road,1
+indore,1

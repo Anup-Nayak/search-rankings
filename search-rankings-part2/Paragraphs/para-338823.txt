@@ -1,0 +1,12 @@
+88,70,6
+yours,1
+sincerely,1
+m,1
+k,1
+gandhi,1
+shri,1
+pamu,1
+ramamoorthy,1
+chedilapore,1
+ramaraopeta,1
+cocanada,1

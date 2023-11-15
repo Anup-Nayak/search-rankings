@@ -1,0 +1,10 @@
+53,208,6
+say,1
+that,1
+there,1
+is,1
+no,1
+way,1
+left,1
+open,1
+to,1

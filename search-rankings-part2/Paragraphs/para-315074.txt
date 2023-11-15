@@ -1,0 +1,15 @@
+82,396,25
+to,1
+be,1
+ruled,2
+after,1
+the,3
+war,2
+by,1
+sort,1
+of,1
+people,1
+who,1
+them,1
+before,1
+and,1

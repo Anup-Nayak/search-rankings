@@ -1,0 +1,8 @@
+87,247,9
+g,1
+who,1
+says,1
+it,1
+has,1
+broken,1
+down,1

@@ -1,0 +1,16 @@
+63,141,6
+q,1
+can,1
+you,1
+not,1
+make,1
+it,1
+a,1
+rule,1
+that,1
+half,1
+the,1
+members,1
+should,1
+be,1
+harijans,1

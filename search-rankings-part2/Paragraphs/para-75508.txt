@@ -1,0 +1,13 @@
+21,512,1
+given,1
+up,1
+for,1
+the,2
+present,1
+its,1
+intention,1
+of,1
+arresting,1
+ali,1
+brothers,1
+1,1

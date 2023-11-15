@@ -1,0 +1,8 @@
+29,161,3
+in,1
+what,1
+we,1
+share,1
+with,1
+anothers,1
+need,1

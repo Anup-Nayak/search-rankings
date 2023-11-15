@@ -1,0 +1,7 @@
+86,76,10
+148,1
+interview,1
+to,1
+the,1
+bombay,1
+chronicle,1

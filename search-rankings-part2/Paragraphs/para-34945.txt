@@ -1,0 +1,14 @@
+11,164,4
+mr,1
+polak,1
+has,1
+addressed,1
+a,1
+letter,1
+to,1
+the,1
+press,1
+which,1
+is,1
+worth,1
+reading,1

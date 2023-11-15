@@ -1,0 +1,9 @@
+72,427,6
+hope,2
+against,1
+prisoners,1
+will,1
+give,1
+up,1
+hunger,1
+strike,1

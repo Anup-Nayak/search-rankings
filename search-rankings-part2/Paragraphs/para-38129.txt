@@ -1,0 +1,6 @@
+11,496,5
+smuts,1
+speech,1
+in,1
+union,1
+parliament,1

@@ -1,0 +1,16 @@
+23,78,10
+district,1
+or,1
+province,1
+obtains,1
+swaraj,1
+the,2
+whole,1
+of,2
+rest,1
+india,1
+also,1
+would,1
+do,1
+it,1
+to,1

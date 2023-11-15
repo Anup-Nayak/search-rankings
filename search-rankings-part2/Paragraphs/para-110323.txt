@@ -1,0 +1,7 @@
+32,420,2
+266,1
+speech,1
+at,1
+public,1
+meeting,1
+hazaribagh,1

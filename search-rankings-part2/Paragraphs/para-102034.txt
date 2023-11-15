@@ -1,0 +1,16 @@
+30,110,4
+1,1
+literally,1
+a,2
+colour,1
+the,2
+four,1
+castes,1
+among,1
+hindus,1
+2,1
+silent,1
+constructive,1
+worker,1
+of,1
+gujarat,1

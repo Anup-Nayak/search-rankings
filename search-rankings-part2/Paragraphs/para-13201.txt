@@ -1,0 +1,6 @@
+5,219,1
+211,1
+potchefstroom,1
+and,1
+klerksdorp,1
+1,1

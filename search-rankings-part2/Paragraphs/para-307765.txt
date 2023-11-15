@@ -1,0 +1,7 @@
+81,261,6
+pajputs,1
+simej,1
+admitted,1
+hospital,1
+take,1
+necessary,1

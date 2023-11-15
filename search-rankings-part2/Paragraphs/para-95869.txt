@@ -1,0 +1,6 @@
+28,277,6
+half,1
+a,1
+dozen,1
+and,1
+six,1

@@ -1,0 +1,5 @@
+82,139,12
+1,1
+ghulam,1
+rasul,1
+qureshi,1

@@ -1,0 +1,17 @@
+37,222,4
+yoga,1
+is,2
+not,1
+for,4
+him,4
+who,4
+eats,1
+too,3
+much,3
+nor,2
+fasts,1
+neither,1
+sleeps,1
+to,1
+yet,1
+wakeful,1

@@ -1,0 +1,6 @@
+43,231,9
+289,1
+letter,1
+to,1
+jal,1
+khambhatta,1

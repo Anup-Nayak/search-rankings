@@ -1,0 +1,14 @@
+46,184,4
+13,1
+the,3
+order,1
+of,1
+four,1
+varnas,1
+was,1
+created,1
+by,1
+me,1
+according,1
+to,1
+different,1

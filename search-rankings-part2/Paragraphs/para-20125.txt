@@ -1,0 +1,17 @@
+7,48,6
+1,2
+here,1
+followed,1
+in,1
+the,1
+original,1
+a,1
+translation,1
+of,1
+letter,1
+to,1
+rand,1
+daily,1
+mail,1
+7,1
+1907,1

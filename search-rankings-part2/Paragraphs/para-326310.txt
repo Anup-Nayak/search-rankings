@@ -1,0 +1,8 @@
+85,243,6
+386,1
+letter,1
+to,1
+hamid,1
+and,1
+wahid,1
+qureshi,1

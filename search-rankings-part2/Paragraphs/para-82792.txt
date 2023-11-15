@@ -1,0 +1,16 @@
+24,235,8
+so,1
+long,1
+as,1
+there,1
+are,1
+large,1
+masses,1
+of,1
+people,1
+who,1
+do,1
+not,1
+come,1
+under,1
+your,1

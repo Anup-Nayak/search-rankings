@@ -1,0 +1,13 @@
+31,484,12
+season,1
+we,1
+need,1
+better,2
+education,1
+more,1
+food,1
+houses,1
+and,1
+a,1
+larger,1
+coming,1

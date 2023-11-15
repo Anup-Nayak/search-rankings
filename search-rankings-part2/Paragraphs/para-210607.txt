@@ -1,0 +1,17 @@
+58,338,16
+1,1
+wife,1
+of,1
+ratilal,1
+dr,2
+pranjivan,2
+mehtas,2
+son,1
+2,1
+nanalal,1
+k,1
+jasani,1
+business,1
+manager,1
+and,1
+partner,1

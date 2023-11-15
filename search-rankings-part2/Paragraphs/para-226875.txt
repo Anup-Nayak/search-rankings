@@ -1,0 +1,14 @@
+62,142,8
+classes,2
+it,1
+ought,1
+to,2
+cause,1
+no,1
+surprise,1
+higher,1
+when,1
+they,1
+discover,1
+that,1
+there,1

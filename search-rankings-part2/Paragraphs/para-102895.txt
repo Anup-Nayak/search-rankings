@@ -1,0 +1,8 @@
+30,211,16
+a,1
+not,1
+of,1
+very,1
+far,1
+off,1
+places,1

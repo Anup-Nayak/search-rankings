@@ -1,0 +1,7 @@
+24,10,2
+the,2
+correspondence,1
+published,1
+in,1
+independent,1
+between,1

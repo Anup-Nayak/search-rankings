@@ -1,0 +1,6 @@
+84,70,6
+81,1
+letter,1
+to,1
+rameshwari,1
+nehru,1

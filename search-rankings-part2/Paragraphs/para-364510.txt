@@ -1,0 +1,7 @@
+94,167,6
+177,1
+talk,1
+with,1
+women,1
+refugees,1
+3,1

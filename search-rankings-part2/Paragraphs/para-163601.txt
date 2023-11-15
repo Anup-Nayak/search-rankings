@@ -1,0 +1,14 @@
+47,140,3
+people,1
+find,1
+that,1
+the,2
+fault,1
+lies,1
+with,2
+them,1
+and,1
+not,1
+untouchables,1
+they,1
+will,1

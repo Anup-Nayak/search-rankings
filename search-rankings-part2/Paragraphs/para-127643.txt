@@ -1,0 +1,16 @@
+37,275,5
+savyasachin,1
+means,1
+one,1
+who,1
+can,1
+use,1
+a,1
+bow,1
+with,2
+the,1
+left,1
+hand,2
+that,1
+is,1
+either,1

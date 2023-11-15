@@ -1,0 +1,16 @@
+90,287,7
+tolstoy,1
+had,1
+said,1
+that,1
+if,1
+man,1
+dismissed,1
+god,1
+from,1
+his,1
+heart,1
+even,1
+for,1
+a,1
+single,1

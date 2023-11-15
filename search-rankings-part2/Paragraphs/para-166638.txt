@@ -1,0 +1,16 @@
+48,31,3
+congress,1
+committees,1
+beware,1
+the,3
+secretary,1
+f,1
+c,1
+b,1
+committee,1
+has,1
+circulated,1
+following,1
+to,1
+press,1
+2,1

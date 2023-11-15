@@ -1,0 +1,11 @@
+77,419,14
+non,2
+co,2
+operation,2
+and,2
+alone,1
+will,1
+stop,1
+this,1
+swift,1
+steady,1

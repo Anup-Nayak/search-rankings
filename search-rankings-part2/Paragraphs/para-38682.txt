@@ -1,0 +1,5 @@
+12,68,4
+53,1
+the,1
+immigration,1
+case,1

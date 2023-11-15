@@ -1,0 +1,14 @@
+30,213,1
+q,1
+up,1
+to,1
+what,1
+time,1
+did,1
+looting,1
+and,1
+burning,1
+go,1
+on,2
+the,1
+9th,1

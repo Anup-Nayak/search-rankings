@@ -1,0 +1,6 @@
+47,351,4
+397,1
+has,1
+navajivan,1
+become,1
+dull,1

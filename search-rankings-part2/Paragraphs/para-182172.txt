@@ -1,0 +1,13 @@
+52,4,8
+from,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+9291,1
+courtesy,1
+jamnadas,1
+gandhi,1

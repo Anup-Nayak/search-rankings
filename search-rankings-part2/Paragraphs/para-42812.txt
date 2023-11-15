@@ -1,0 +1,7 @@
+13,139,13
+brated,1
+south,1
+africa,1
+stop,1
+transvaal,1
+marriage,1

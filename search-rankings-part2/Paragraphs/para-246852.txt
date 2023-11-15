@@ -1,0 +1,9 @@
+67,6,2
+the,2
+principal,1
+of,1
+sanatana,1
+dharma,1
+college,1
+lahore,1
+writes,1

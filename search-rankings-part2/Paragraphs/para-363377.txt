@@ -1,0 +1,5 @@
+94,40,10
+48,1
+letter,1
+to,1
+amtussalaam,1

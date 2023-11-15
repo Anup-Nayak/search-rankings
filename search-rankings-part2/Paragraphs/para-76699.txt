@@ -1,0 +1,7 @@
+22,202,3
+109,1
+how,1
+to,1
+finance,1
+the,1
+movement,1

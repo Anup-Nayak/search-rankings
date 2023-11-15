@@ -1,0 +1,14 @@
+42,127,1
+it,3
+is,1
+not,2
+just,1
+we,1
+should,1
+be,1
+cowed,1
+down,1
+by,1
+or,1
+worry,1
+over,1

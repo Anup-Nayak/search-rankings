@@ -1,0 +1,9 @@
+52,144,2
+camp,1
+nainital,1
+as,1
+at,1
+sabarmati,1
+may,1
+21,1
+1931,1

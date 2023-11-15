@@ -1,0 +1,12 @@
+80,120,6
+from,1
+the,1
+gujarati,1
+original,1
+kusumbehn,1
+desai,1
+papers,1
+courtesy,1
+gandhi,1
+smarak,1
+sangrahalaya,1

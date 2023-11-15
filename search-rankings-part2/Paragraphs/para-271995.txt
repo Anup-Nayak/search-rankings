@@ -1,0 +1,13 @@
+73,75,8
+the,3
+raja,1
+saheb,1
+1,1
+requested,1
+gandhiji,1
+to,1
+enlighten,1
+him,1
+on,1
+policy,1
+of,1

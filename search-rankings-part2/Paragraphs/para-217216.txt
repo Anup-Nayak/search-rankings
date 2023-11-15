@@ -1,0 +1,7 @@
+60,6,1
+13,1
+letter,1
+to,1
+s,1
+v,1
+sonavane,1

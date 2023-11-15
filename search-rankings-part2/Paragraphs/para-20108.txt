@@ -1,0 +1,4 @@
+7,46,4
+snakes,1
+in,1
+grass,1

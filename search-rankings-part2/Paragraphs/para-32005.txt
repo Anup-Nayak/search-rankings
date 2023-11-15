@@ -1,0 +1,5 @@
+10,310,17
+life,1
+without,1
+principle,1
+thoreau,1

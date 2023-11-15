@@ -1,0 +1,14 @@
+82,156,12
+for,1
+a,1
+long,1
+time,2
+at,1
+the,1
+of,1
+his,2
+arrest,1
+adds,1
+poignancy,1
+to,1
+case,1

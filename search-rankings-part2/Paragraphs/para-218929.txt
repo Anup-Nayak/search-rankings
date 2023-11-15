@@ -1,0 +1,9 @@
+60,241,4
+is,1
+non,1
+co,1
+operation,1
+not,1
+applicable,1
+to,1
+harijans,1

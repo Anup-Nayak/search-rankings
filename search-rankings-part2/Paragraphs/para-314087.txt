@@ -1,0 +1,15 @@
+82,346,6
+q,1
+is,2
+it,1
+a,1
+fact,1
+that,1
+your,1
+present,1
+attitude,1
+towards,1
+england,1
+and,1
+japan,1
+influenced,1

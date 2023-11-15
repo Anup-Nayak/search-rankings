@@ -1,0 +1,14 @@
+82,258,11
+sections,1
+as,2
+far,1
+population,1
+goes,1
+e,1
+g,1
+mussalmans,1
+christians,1
+and,1
+parsis,1
+in,1
+one,1

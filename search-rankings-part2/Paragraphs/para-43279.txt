@@ -1,0 +1,14 @@
+13,176,5
+d,1
+the,3
+existing,1
+marriage,1
+position,1
+is,1
+considerably,2
+modified,1
+though,1
+amendment,1
+has,1
+eased,1
+tension,1

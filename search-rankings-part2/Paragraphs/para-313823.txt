@@ -1,0 +1,13 @@
+82,324,13
+number,1
+of,1
+villagers,1
+40,1
+to,2
+50,1
+assembled,1
+there,1
+rescue,1
+them,1
+thereupon,1
+the,1

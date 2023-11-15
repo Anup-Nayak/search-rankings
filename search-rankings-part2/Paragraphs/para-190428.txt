@@ -1,0 +1,12 @@
+53,449,3
+1,1
+the,2
+motion,1
+was,2
+put,1
+to,1
+vote,1
+by,1
+chairman,1
+and,1
+carried,1

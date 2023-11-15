@@ -1,0 +1,9 @@
+53,120,12
+when,1
+i,1
+saw,1
+no,1
+escape,1
+from,1
+unbearable,1
+situation,1

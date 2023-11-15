@@ -1,0 +1,9 @@
+60,328,5
+comfort,1
+may,1
+not,1
+be,1
+demanded,1
+by,1
+hunger,1
+strike,1

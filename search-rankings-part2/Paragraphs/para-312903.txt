@@ -1,0 +1,6 @@
+82,254,3
+a,1
+correspondent,1
+writes,1
+as,1
+follows,1

@@ -1,0 +1,6 @@
+21,294,4
+jawaharlal,1
+nehru,1
+c,1
+rajagopalachari,1
+2,1

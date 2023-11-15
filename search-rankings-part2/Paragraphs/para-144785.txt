@@ -1,0 +1,15 @@
+42,223,13
+1,1
+n,1
+c,1
+kelkar,1
+2,1
+kanya,1
+gurukula,1
+vide,1
+letter,1
+to,1
+vasumati,1
+pandit,1
+7,2
+1928,1

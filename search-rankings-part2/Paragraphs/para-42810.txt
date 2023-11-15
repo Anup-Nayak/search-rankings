@@ -1,0 +1,8 @@
+13,139,11
+pointment,1
+marriage,1
+officers,1
+can,1
+only,1
+meet,1
+cases,1

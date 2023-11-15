@@ -1,0 +1,7 @@
+82,372,16
+from,1
+the,2
+frying,1
+pan,1
+into,1
+fire,1

@@ -1,0 +1,6 @@
+5,77,2
+70,1
+johannesburg,1
+trams,1
+and,1
+indians,1

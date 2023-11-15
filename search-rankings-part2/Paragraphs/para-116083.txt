@@ -1,0 +1,6 @@
+34,362,10
+105,1
+with,1
+bare,1
+religious,1
+rites,1

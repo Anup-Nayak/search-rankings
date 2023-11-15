@@ -1,0 +1,5 @@
+20,391,4
+152,1
+the,1
+mohammedan,1
+decision,1

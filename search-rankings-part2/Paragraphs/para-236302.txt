@@ -1,0 +1,8 @@
+64,331,8
+hope,1
+ringworm,1
+cured,1
+under,1
+surgical,1
+advice,1
+undergo,1

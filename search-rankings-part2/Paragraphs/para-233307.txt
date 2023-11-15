@@ -1,0 +1,6 @@
+64,0,7
+2,1
+interview,1
+to,1
+the,1
+hindu,1

@@ -1,0 +1,7 @@
+63,60,5
+patna,1
+released,1
+sabarmati,1
+men,1
+rajendraprasad,1
+wants,1

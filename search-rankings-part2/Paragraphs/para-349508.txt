@@ -1,0 +1,9 @@
+90,346,3
+m,1
+k,1
+gandhi,1
+to,1
+major,1
+short,1
+simla,1
+w,1

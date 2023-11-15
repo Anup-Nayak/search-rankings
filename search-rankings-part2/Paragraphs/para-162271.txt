@@ -1,0 +1,11 @@
+46,459,9
+cow,2
+protection,2
+shall,1
+mean,1
+the,2
+of,1
+and,1
+her,1
+progeny,1
+from,1

@@ -1,0 +1,7 @@
+38,152,12
+tour,1
+programme,1
+26,1
+belgaum,1
+5,1
+bombay,1

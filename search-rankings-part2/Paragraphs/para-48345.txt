@@ -1,0 +1,10 @@
+14,327,13
+the,3
+voyage,1
+has,1
+been,1
+uneventful,1
+pain,1
+in,1
+ribs,1
+continues,1

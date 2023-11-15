@@ -1,0 +1,16 @@
+82,398,31
+l,1
+f,1
+or,1
+with,1
+britain,1
+america,1
+and,1
+the,1
+others,1
+why,1
+have,1
+you,1
+never,1
+said,1
+this,1

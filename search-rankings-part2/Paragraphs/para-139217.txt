@@ -1,0 +1,12 @@
+40,485,2
+q,1
+when,1
+authors,1
+of,1
+shastras,1
+created,1
+new,1
+smritis,1
+why,1
+not,1
+you,1

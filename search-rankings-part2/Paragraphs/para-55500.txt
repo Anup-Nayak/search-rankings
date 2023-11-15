@@ -1,0 +1,13 @@
+16,99,4
+opened,1
+her,2
+eyes,1
+she,1
+found,1
+herself,1
+faced,1
+with,1
+the,1
+problem,1
+of,1
+education,1

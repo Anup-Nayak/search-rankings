@@ -1,0 +1,7 @@
+39,242,1
+229,1
+speech,1
+to,1
+labourers,1
+bangalore,1
+1,1

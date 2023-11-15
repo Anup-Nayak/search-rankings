@@ -1,0 +1,8 @@
+43,472,6
+597,1
+letter,1
+to,1
+lady,1
+r,1
+l,1
+ramanathan,1

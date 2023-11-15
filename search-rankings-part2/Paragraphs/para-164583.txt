@@ -1,0 +1,14 @@
+47,257,6
+1,1
+vide,1
+note,1
+on,1
+dispute,1
+between,1
+mill,1
+owners,1
+and,1
+workers,1
+7,1
+9,1
+1929,1

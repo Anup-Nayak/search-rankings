@@ -1,0 +1,14 @@
+51,153,5
+g,1
+all,2
+right,1
+we,1
+are,1
+prepared,1
+to,1
+place,1
+our,1
+cards,1
+on,1
+the,1
+table,1

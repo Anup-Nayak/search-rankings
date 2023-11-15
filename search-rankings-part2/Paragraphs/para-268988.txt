@@ -1,0 +1,17 @@
+72,220,4
+6,1
+bapu,1
+will,2
+look,1
+at,1
+your,1
+brass,1
+bucket,1
+and,1
+if,1
+it,2
+is,1
+suitable,1
+he,1
+use,1
+himself,1

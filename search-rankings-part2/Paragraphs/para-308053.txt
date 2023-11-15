@@ -1,0 +1,9 @@
+81,288,5
+hunger,1
+strike,1
+by,1
+you,1
+and,1
+others,1
+public,1
+opinion,1

@@ -1,0 +1,7 @@
+92,203,5
+milk,1
+and,1
+fruit,1
+2,1
+wire,1
+result,1

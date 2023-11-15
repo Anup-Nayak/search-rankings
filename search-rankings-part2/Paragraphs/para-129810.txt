@@ -1,0 +1,6 @@
+38,87,2
+67,1
+speech,1
+at,1
+madhubani,1
+1,1

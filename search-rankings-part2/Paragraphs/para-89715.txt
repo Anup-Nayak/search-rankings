@@ -1,0 +1,10 @@
+26,392,4
+1,1
+sight,1
+of,1
+person,1
+object,1
+or,1
+place,1
+considered,1
+holy,1

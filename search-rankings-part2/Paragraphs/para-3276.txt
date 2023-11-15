@@ -1,0 +1,15 @@
+2,109,21
+pamphlet,1
+written,1
+by,1
+mr,1
+gandhi,1
+however,1
+is,1
+read,1
+in,1
+its,1
+entirety,1
+the,1
+context,1
+reveals,1

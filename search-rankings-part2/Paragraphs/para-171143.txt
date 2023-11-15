@@ -1,0 +1,5 @@
+49,188,1
+195,1
+speech,1
+at,1
+chharwada,1

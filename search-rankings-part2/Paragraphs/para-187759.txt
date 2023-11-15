@@ -1,0 +1,15 @@
+53,136,8
+1,1
+the,2
+names,1
+have,1
+been,1
+omitted,1
+2,1
+ibid,3
+3,1
+4,1
+5,1
+vide,1
+preceding,1
+item,1

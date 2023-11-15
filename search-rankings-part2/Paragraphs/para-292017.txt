@@ -1,0 +1,13 @@
+78,40,12
+who,1
+may,1
+from,1
+time,2
+to,1
+draw,1
+hundis,1
+of,1
+appropriate,1
+denominations,1
+on,1
+the,1

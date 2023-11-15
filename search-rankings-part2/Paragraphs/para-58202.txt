@@ -1,0 +1,5 @@
+16,473,10
+commutation,1
+by,1
+money,1
+paymentstawan,1

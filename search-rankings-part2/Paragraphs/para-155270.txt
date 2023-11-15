@@ -1,0 +1,10 @@
+45,53,5
+yours,1
+sincerely,1
+agnes,1
+bulstrode,2
+house,1
+street,1
+london,1
+w,1
+1,1

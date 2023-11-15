@@ -1,0 +1,12 @@
+31,228,14
+meaning,1
+of,1
+non,2
+violent,1
+co,1
+operation,1
+fear,1
+none,1
+but,1
+your,1
+conscience,1

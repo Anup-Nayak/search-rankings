@@ -1,0 +1,7 @@
+13,147,8
+single,1
+instance,1
+undesirable,1
+indian,1
+women,1
+having,1

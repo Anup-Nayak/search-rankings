@@ -1,0 +1,6 @@
+60,3,6
+8,1
+letter,1
+to,1
+ushakanta,1
+mukhopadhya,1

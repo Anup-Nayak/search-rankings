@@ -1,0 +1,17 @@
+89,176,3
+bhai,1
+subodhlal,1
+sarkar,1
+i,2
+got,1
+your,1
+postcard,1
+why,1
+in,1
+english,1
+shall,1
+not,1
+be,1
+going,1
+to,1
+dhanbad,1

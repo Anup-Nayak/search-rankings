@@ -1,0 +1,7 @@
+75,348,3
+1,1
+marathi,1
+weekly,1
+published,1
+from,1
+bombay,1

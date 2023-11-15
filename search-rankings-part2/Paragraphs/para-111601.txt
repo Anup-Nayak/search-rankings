@@ -1,0 +1,11 @@
+33,124,12
+purify,1
+not,1
+the,2
+untouchables,2
+but,1
+themselves,1
+he,1
+also,1
+appealed,1
+to,2

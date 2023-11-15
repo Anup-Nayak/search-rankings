@@ -1,0 +1,11 @@
+64,67,13
+bility,1
+sacrifice,2
+was,2
+essential,1
+but,1
+service,1
+impossible,1
+without,1
+and,1
+no,1

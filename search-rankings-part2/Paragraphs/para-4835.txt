@@ -1,0 +1,8 @@
+2,317,1
+104,1
+the,1
+indians,1
+in,1
+south,1
+africa,1
+1,1

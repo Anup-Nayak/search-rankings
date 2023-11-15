@@ -1,0 +1,13 @@
+21,488,13
+publication,1
+a,2
+poem,1
+composed,1
+by,1
+brave,1
+irish,1
+girl,1
+eulogizing,1
+him,1
+mcswiney,1
+but,1

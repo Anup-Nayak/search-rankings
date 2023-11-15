@@ -1,0 +1,15 @@
+53,422,5
+q,1
+do,1
+you,1
+think,2
+there,2
+has,2
+been,2
+progress,2
+or,2
+retrogression,2
+a,1
+i,1
+dont,1
+any,1

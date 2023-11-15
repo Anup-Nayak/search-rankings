@@ -1,0 +1,4 @@
+90,6,10
+damodar,1
+mulchand,1
+bilkha,1

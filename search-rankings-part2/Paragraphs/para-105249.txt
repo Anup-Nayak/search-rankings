@@ -1,0 +1,11 @@
+31,98,4
+birth,2
+control,2
+conference,1
+wishes,1
+to,1
+point,1
+out,1
+that,1
+by,1
+hygienic,1

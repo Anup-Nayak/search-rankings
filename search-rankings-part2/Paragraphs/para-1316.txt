@@ -1,0 +1,14 @@
+1,252,5
+contract,1
+at,1
+fair,1
+wages,1
+to,2
+assist,1
+the,1
+colonists,1
+should,1
+be,1
+allowed,1
+break,1
+their,1

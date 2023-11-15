@@ -1,0 +1,12 @@
+35,422,15
+2,1
+the,3
+date,1
+has,1
+been,1
+inferred,1
+from,1
+contents,1
+vide,1
+preceding,1
+item,1

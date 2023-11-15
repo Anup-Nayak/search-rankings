@@ -1,0 +1,9 @@
+79,313,12
+from,1
+centre,1
+or,1
+mere,1
+local,1
+action,1
+i,1
+cannot,1

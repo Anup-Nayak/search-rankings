@@ -1,0 +1,7 @@
+3,488,2
+321,1
+the,2
+licensing,1
+case,1
+in,1
+transvaal,1

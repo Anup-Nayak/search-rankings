@@ -1,0 +1,10 @@
+17,42,5
+bapu,1
+ps,1
+if,1
+we,2
+go,1
+take,1
+others,1
+as,1
+well,1

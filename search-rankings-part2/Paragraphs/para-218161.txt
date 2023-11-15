@@ -1,0 +1,8 @@
+60,138,1
+172,1
+letter,1
+to,1
+dr,1
+harry,1
+j,1
+ehrlich,1

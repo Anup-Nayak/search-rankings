@@ -1,0 +1,9 @@
+71,243,7
+1,1
+the,1
+original,1
+is,1
+damaged,1
+at,1
+several,1
+places,1

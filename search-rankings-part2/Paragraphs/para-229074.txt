@@ -1,0 +1,9 @@
+62,445,1
+471,1
+message,1
+to,1
+the,1
+people,1
+of,1
+malabar,1
+1,1

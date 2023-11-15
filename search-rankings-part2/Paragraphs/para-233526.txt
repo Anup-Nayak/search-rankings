@@ -1,0 +1,13 @@
+64,20,5
+i,1
+hope,1
+you,2
+are,1
+keeping,1
+well,1
+must,1
+have,1
+received,1
+my,1
+letter,1
+1,1

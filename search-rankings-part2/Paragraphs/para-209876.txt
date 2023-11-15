@@ -1,0 +1,7 @@
+58,272,12
+384,1
+letter,1
+to,1
+g,1
+v,1
+narasimhachar,1

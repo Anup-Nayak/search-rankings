@@ -1,0 +1,8 @@
+14,70,12
+no,1
+greater,1
+service,1
+today,1
+than,1
+such,1
+interpretation,1

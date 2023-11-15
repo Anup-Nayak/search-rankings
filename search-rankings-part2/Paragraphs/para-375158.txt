@@ -1,0 +1,12 @@
+97,228,4
+1,1
+on,1
+april,1
+2,2
+1947,2
+vide,1
+speech,1
+at,1
+prayer,1
+meeting,1
+4,1

@@ -1,0 +1,6 @@
+58,439,14
+a,1
+temple,1
+of,1
+the,1
+sanatanists,1

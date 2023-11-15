@@ -1,0 +1,4 @@
+16,480,6
+kerosene,1
+oil,1
+monopoly,1

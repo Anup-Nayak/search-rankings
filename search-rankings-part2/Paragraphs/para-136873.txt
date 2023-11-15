@@ -1,0 +1,16 @@
+40,58,12
+1,1
+sandals,1
+made,1
+out,1
+of,2
+the,1
+hide,1
+dead,1
+cattle,1
+were,1
+presented,1
+to,1
+gandhiji,1
+and,1
+kasturba,1

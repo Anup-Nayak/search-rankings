@@ -1,0 +1,6 @@
+15,96,8
+wrote,1
+a,1
+good,1
+many,1
+letters,1

@@ -1,0 +1,8 @@
+64,424,5
+bapu,1
+kumari,1
+nirupama,1
+sudama,1
+kutir,1
+udipi,1
+karnatak,1

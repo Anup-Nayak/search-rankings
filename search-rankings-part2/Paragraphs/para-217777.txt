@@ -1,0 +1,6 @@
+60,88,4
+do,1
+you,1
+believe,1
+in,1
+temples,1

@@ -1,0 +1,13 @@
+93,262,8
+nirmal,1
+kumar,1
+bose,1
+the,1
+officer,1
+in,1
+charge,1
+marwari,1
+relief,1
+society,1
+ramganj,1
+camp,1

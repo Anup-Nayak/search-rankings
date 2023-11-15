@@ -1,0 +1,5 @@
+81,207,6
+380,1
+letter,1
+to,1
+chakrayya,1

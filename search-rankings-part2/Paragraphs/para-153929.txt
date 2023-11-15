@@ -1,0 +1,5 @@
+44,474,20
+t10,1
+guj,1
+has,1
+disappointed,1

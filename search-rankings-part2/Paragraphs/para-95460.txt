@@ -1,0 +1,5 @@
+28,205,2
+116,1
+the,1
+akali,1
+struggle,1

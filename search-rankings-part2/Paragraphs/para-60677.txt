@@ -1,0 +1,8 @@
+17,225,5
+about,1
+special,1
+fitness,1
+of,1
+gujarat,1
+writing,1
+fully,1

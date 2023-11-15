@@ -1,0 +1,13 @@
+86,39,9
+blessings,1
+from,1
+bapu,1
+smt,1
+amtul,1
+salaam,1
+bibi,1
+kasturba,1
+seva,1
+mandir,1
+borkamata,1
+bengal,1

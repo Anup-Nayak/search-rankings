@@ -1,0 +1,6 @@
+64,54,13
+79,1
+letter,1
+to,1
+tara,1
+jaswani,1

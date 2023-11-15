@@ -1,0 +1,6 @@
+8,141,2
+ten,1
+fingers,1
+versus,1
+two,1
+thumbs,1

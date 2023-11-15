@@ -1,0 +1,8 @@
+13,40,3
+28,1
+general,1
+knowledge,1
+about,1
+health,1
+xiv,1
+1,1

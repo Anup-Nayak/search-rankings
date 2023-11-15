@@ -1,0 +1,8 @@
+16,160,2
+motihari,1
+kartak,1
+sud,1
+8,1
+november,1
+22,1
+1917,1

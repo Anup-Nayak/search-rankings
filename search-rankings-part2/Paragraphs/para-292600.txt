@@ -1,0 +1,10 @@
+78,109,5
+1,1
+as,1
+expounded,1
+in,1
+his,1
+presidential,1
+address,1
+at,1
+lahore,1

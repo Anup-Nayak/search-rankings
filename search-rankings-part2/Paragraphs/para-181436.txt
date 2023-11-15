@@ -1,0 +1,12 @@
+51,429,2
+you,1
+refer,1
+to,1
+the,2
+congress,1
+as,1
+an,1
+intermediary,1
+between,1
+government,1
+and,1

@@ -1,0 +1,13 @@
+31,278,17
+self,1
+help,1
+spirituality,1
+without,1
+economic,1
+foundation,1
+as,1
+he,1
+believed,1
+was,1
+a,1
+broken,1

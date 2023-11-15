@@ -1,0 +1,9 @@
+67,223,2
+blessings,1
+from,1
+bapu,1
+taradevi,1
+barua,1
+kothi,1
+sandila,1
+dist,1

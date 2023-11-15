@@ -1,0 +1,10 @@
+76,389,12
+danger,1
+this,1
+question,1
+therefore,1
+vitally,1
+concerns,1
+all,1
+of,1
+us,1

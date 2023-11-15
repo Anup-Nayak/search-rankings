@@ -1,0 +1,8 @@
+96,344,4
+god,1
+willing,1
+leaving,1
+for,1
+delhi,1
+way,1
+punjab,1

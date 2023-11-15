@@ -1,0 +1,12 @@
+65,461,7
+m,1
+c,1
+are,1
+not,1
+your,2
+own,1
+experiences,1
+sources,1
+of,1
+conception,1
+too,1

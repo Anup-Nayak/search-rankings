@@ -1,0 +1,10 @@
+23,484,9
+raging,1
+sea,1
+in,1
+storm,1
+they,1
+both,1
+are,1
+against,1
+life,1

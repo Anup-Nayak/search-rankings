@@ -1,0 +1,6 @@
+73,427,3
+587,1
+letter,1
+to,1
+sumitra,1
+gandhi,1

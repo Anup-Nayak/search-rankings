@@ -1,0 +1,4 @@
+69,139,8
+praying,1
+successful,1
+operation,1

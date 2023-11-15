@@ -1,0 +1,6 @@
+92,25,9
+40,1
+letter,1
+to,1
+gangabehn,1
+bhatt,1

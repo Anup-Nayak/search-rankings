@@ -1,0 +1,6 @@
+74,222,8
+299,1
+the,1
+congress,1
+and,1
+khadi,1

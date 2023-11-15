@@ -1,0 +1,6 @@
+45,190,3
+bapu,1
+mrs,1
+francisca,1
+standenath,1
+graz,1

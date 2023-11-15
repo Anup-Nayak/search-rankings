@@ -1,0 +1,6 @@
+12,481,2
+position,1
+of,1
+european,1
+c,1
+ommunity,1

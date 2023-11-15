@@ -1,0 +1,11 @@
+1,447,2
+from,1
+a,1
+printed,1
+copy,1
+of,1
+the,2
+speech,1
+circulated,1
+at,1
+meeting,1

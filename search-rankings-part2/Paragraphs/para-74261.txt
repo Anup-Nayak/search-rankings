@@ -1,0 +1,11 @@
+21,295,1
+172,1
+letter,1
+to,1
+every,1
+voter,1
+on,1
+duty,1
+of,1
+voters,1
+1,1

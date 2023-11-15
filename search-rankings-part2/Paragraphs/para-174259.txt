@@ -1,0 +1,11 @@
+50,65,8
+1,1
+vide,1
+letter,1
+to,1
+jail,1
+superintendent,1
+yeravada,1
+12,1
+2,1
+1923,1

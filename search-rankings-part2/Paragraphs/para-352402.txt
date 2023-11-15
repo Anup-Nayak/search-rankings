@@ -1,0 +1,7 @@
+91,210,7
+cliff,1
+can,1
+any,1
+englishman,1
+then,1
+understand,1

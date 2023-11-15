@@ -1,0 +1,8 @@
+57,105,26
+through,1
+without,1
+mind,1
+or,1
+body,1
+wavering,1
+advancement,1

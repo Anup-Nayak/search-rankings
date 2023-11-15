@@ -1,0 +1,16 @@
+7,425,3
+virtually,1
+no,1
+relaxation,1
+has,1
+taken,1
+place,1
+in,1
+the,2
+old,1
+restrictions,1
+against,1
+holding,1
+of,1
+fixed,1
+property,1

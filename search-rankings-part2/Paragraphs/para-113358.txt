@@ -1,0 +1,14 @@
+33,359,9
+q,1
+will,1
+you,2
+tell,1
+me,1
+if,1
+are,1
+satisfied,1
+with,1
+the,2
+resolution,1
+passed,1
+by,1

@@ -1,0 +1,5 @@
+70,401,6
+418,1
+ahmedabad,1
+mill,1
+industry,1

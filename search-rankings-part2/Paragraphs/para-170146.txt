@@ -1,0 +1,5 @@
+49,60,3
+53,1
+the,1
+immoral,1
+foundation,1

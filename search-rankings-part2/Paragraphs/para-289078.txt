@@ -1,0 +1,4 @@
+77,132,2
+communal,1
+decision,1
+again,1

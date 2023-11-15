@@ -1,0 +1,5 @@
+10,506,12
+which,1
+is,1
+strongly,1
+held,1

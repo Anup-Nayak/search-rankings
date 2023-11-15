@@ -1,0 +1,10 @@
+44,505,4
+t2,1
+guj,1
+adds,1
+for,1
+a,1
+small,1
+amount,1
+of,1
+revenue,1

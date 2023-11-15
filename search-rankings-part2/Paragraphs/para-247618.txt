@@ -1,0 +1,13 @@
+67,81,10
+1,1
+in,2
+a,1
+case,1
+involving,1
+an,1
+insurance,1
+claim,1
+2,1
+as,1
+the,1
+source,1

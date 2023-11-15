@@ -1,0 +1,8 @@
+64,350,10
+hope,1
+you,1
+have,1
+wired,1
+president,1
+am,1
+forwarding,1

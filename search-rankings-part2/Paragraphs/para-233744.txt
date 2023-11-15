@@ -1,0 +1,9 @@
+64,44,4
+over,1
+the,3
+inevitable,1
+you,1
+have,1
+lost,1
+mainstay,1
+of,1

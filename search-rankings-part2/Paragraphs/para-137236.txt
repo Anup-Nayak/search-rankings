@@ -1,0 +1,8 @@
+40,128,3
+jamnalal,1
+seth,1
+care,1
+ramnarayan,1
+mangaldas,1
+rd,1
+poona,1

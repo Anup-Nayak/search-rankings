@@ -1,0 +1,14 @@
+5,369,1
+sentiments,1
+before,1
+the,4
+zionist,1
+meeting,1
+and,1
+spoke,1
+of,2
+trusteeship,1
+on,1
+eve,1
+boer,1
+war,1

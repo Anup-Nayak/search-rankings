@@ -1,0 +1,12 @@
+49,432,11
+bapu,1
+ps,1
+anyone,1
+who,1
+wishes,1
+to,2
+write,1
+me,1
+may,1
+do,1
+so,1

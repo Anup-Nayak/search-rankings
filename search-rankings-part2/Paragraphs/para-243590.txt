@@ -1,0 +1,12 @@
+66,173,5
+shri,1
+s,3
+tiruvengadasami,1
+teacher,1
+h,1
+school,1
+bazar,1
+street,1
+mannargudi,1
+tanjore,1
+dt,1

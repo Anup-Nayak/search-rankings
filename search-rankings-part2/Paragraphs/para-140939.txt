@@ -1,0 +1,17 @@
+41,217,3
+2,1
+gandhiji,1
+was,1
+sentenced,1
+to,1
+six,1
+years,1
+imprisonment,1
+on,1
+march,1
+18,1
+1922,1
+vide,1
+the,1
+great,1
+trial,1

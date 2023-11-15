@@ -1,0 +1,9 @@
+73,137,6
+health,1
+good,1
+weather,1
+perfect,1
+leaving,1
+for,1
+bombay,1
+tenth,1

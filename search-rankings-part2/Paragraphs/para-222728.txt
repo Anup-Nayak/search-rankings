@@ -1,0 +1,11 @@
+61,171,3
+this,1
+is,1
+as,2
+far,1
+i,1
+have,1
+thought,1
+the,1
+thing,1
+out,1

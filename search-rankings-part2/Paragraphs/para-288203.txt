@@ -1,0 +1,9 @@
+77,34,5
+is,1
+for,1
+declaration,1
+that,1
+britains,1
+war,1
+aims,1
+necessarily,1

@@ -1,0 +1,7 @@
+11,257,5
+general,1
+smuts,1
+has,1
+freely,1
+received,1
+communicated,1

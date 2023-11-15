@@ -1,0 +1,14 @@
+41,329,6
+there,2
+never,2
+was,1
+will,1
+be,1
+a,2
+man,2
+who,2
+is,2
+always,2
+praised,1
+or,1
+blamed,1

@@ -1,0 +1,13 @@
+46,25,10
+1,1
+gandhiji,1
+uses,1
+the,2
+english,2
+phrase,1
+2,1
+source,1
+has,1
+these,1
+lines,1
+in,1

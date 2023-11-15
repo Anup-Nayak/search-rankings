@@ -1,0 +1,10 @@
+75,101,6
+a,1
+correspondent,1
+sends,1
+the,2
+following,1
+cutting,1
+from,1
+bombay,1
+chronicle,1

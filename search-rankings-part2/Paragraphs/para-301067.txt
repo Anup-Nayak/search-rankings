@@ -1,0 +1,17 @@
+80,111,16
+1,1
+issued,1
+by,2
+a,1
+i,1
+c,2
+as,1
+instructions,1
+given,1
+mahatma,1
+gandhi,1
+for,1
+the,1
+guidance,1
+of,1
+satyagrahis,1

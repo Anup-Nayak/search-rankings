@@ -1,0 +1,7 @@
+25,81,6
+37,1
+speech,1
+at,1
+public,1
+meeting,1
+lahore,1

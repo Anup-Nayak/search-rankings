@@ -1,0 +1,5 @@
+3,112,3
+67,1
+physician,1
+heal,1
+thyself,1

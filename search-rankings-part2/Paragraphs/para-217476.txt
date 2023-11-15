@@ -1,0 +1,11 @@
+60,46,4
+1,1
+indira,1
+gandhi,1
+2,1
+chandralekha,1
+and,1
+nayantara,1
+vijayalakshmi,1
+pandits,1
+daughters,1

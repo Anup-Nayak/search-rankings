@@ -1,0 +1,7 @@
+77,271,2
+uncertified,1
+khadi,1
+and,1
+a,2
+i,1
+s,1

@@ -1,0 +1,10 @@
+52,323,20
+atmosphere,1
+in,1
+their,1
+homes,1
+could,1
+easily,1
+give,1
+up,1
+drink,1

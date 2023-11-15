@@ -1,0 +1,12 @@
+84,436,17
+w,2
+then,1
+you,1
+do,1
+not,1
+visualize,1
+independence,1
+in,1
+the,1
+near,1
+future,1

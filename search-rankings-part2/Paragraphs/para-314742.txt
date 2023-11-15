@@ -1,0 +1,14 @@
+82,386,30
+marxist,1
+friends,1
+say,1
+that,1
+a,2
+true,1
+social,1
+revolution,1
+can,1
+come,1
+only,1
+through,1
+proletarian,1

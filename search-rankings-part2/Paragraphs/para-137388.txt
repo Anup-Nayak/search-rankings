@@ -1,0 +1,14 @@
+40,154,12
+1,1
+this,3
+conversation,1
+was,1
+reported,1
+under,2
+date,2
+line,2
+2,1
+copied,1
+in,1
+the,1
+source,1

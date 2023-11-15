@@ -1,0 +1,6 @@
+91,439,2
+strong,1
+feelings,1
+in,1
+the,1
+matter,1

@@ -1,0 +1,12 @@
+6,107,12
+i,1
+return,1
+mr,1
+polaks,1
+letters,1
+addressed,1
+to,1
+you,1
+for,1
+your,1
+file,1

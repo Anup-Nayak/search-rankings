@@ -1,0 +1,12 @@
+9,449,6
+3,1
+1845,1
+1920,1
+anglo,1
+indian,1
+administrator,1
+4,1
+the,1
+original,1
+has,1
+to,1

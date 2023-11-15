@@ -1,0 +1,16 @@
+92,150,1
+ps,1
+both,1
+the,2
+cheques,1
+will,1
+be,1
+utilized,1
+only,1
+for,1
+work,1
+that,1
+was,1
+dear,1
+to,1
+mahadev,1

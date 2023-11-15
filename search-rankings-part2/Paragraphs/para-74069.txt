@@ -1,0 +1,14 @@
+21,262,10
+1,1
+this,1
+was,1
+in,1
+reply,1
+to,1
+the,1
+addressees,1
+letter,1
+of,1
+september,1
+9,1
+1920,1

@@ -1,0 +1,10 @@
+78,15,1
+18,1
+letter,1
+to,1
+abdul,1
+majid,1
+khan,1
+february,1
+1940,1
+1,1

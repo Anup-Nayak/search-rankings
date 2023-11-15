@@ -1,0 +1,16 @@
+64,132,6
+lot,1
+for,1
+the,2
+uplift,1
+of,1
+harijans,1
+but,1
+he,1
+hoped,1
+that,1
+karachi,1
+municipality,1
+will,1
+still,1
+do,1

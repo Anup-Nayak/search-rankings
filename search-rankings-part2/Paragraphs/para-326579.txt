@@ -1,0 +1,7 @@
+85,270,8
+blessings,1
+from,1
+bapu,1
+tarabehn,1
+mashruwala,1
+akola,1

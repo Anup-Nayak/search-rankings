@@ -1,0 +1,9 @@
+83,392,16
+partiesincluding,1
+the,1
+congresswill,1
+automatically,1
+dissolve,1
+they,1
+may,1
+function,1

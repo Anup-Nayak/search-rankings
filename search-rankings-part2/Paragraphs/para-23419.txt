@@ -1,0 +1,13 @@
+8,56,10
+nawab,1
+khan,1
+2,1
+an,1
+ex,1
+soldier,1
+of,1
+the,1
+indian,1
+army,1
+was,1
+charged,1

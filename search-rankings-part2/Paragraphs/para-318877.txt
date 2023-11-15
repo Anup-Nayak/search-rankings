@@ -1,0 +1,8 @@
+83,420,4
+extracts,1
+from,1
+sardar,1
+vallabhbhai,1
+patels,1
+public,1
+speeches,1

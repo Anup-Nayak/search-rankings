@@ -1,0 +1,11 @@
+93,63,10
+1,1
+this,1
+paragraph,1
+is,1
+reproduced,1
+from,1
+mahatma,1
+gandhithe,1
+last,1
+phase,1

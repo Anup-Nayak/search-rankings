@@ -1,0 +1,7 @@
+7,117,6
+other,1
+towns,1
+expressed,1
+abhorrence,1
+all,1
+thought,1

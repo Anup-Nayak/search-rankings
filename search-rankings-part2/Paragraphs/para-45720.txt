@@ -1,0 +1,7 @@
+13,464,5
+certificate,1
+of,1
+identity,1
+fee,1
+one,1
+pound,1

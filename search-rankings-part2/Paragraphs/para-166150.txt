@@ -1,0 +1,7 @@
+47,436,4
+consider,1
+it,1
+impossible,1
+interrupt,1
+programme,1
+disappoint,1

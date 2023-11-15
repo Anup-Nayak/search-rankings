@@ -1,0 +1,7 @@
+36,370,4
+423,1
+letter,1
+to,1
+wai,1
+goraksha,1
+mandal,1

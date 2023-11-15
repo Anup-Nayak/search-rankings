@@ -1,0 +1,9 @@
+58,119,3
+doing,1
+well,1
+had,1
+only,1
+fruit,1
+yesterday,1
+milk,1
+today,1

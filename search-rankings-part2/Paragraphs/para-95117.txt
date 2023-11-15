@@ -1,0 +1,14 @@
+28,148,17
+puthur,1
+sub,1
+inspector,1
+of,1
+police,1
+came,1
+to,1
+narayanavaram,1
+and,1
+found,1
+the,1
+true,1
+state,1

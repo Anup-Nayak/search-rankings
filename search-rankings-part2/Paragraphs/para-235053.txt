@@ -1,0 +1,14 @@
+64,186,9
+gandhiji,1
+has,1
+advised,1
+the,3
+fullest,1
+voluntary,1
+obedience,1
+of,2
+law,1
+in,1
+pursuance,1
+congress,1
+decision,1

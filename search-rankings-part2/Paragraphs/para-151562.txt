@@ -1,0 +1,6 @@
+43,523,8
+extracts,1
+from,1
+shaukat,1
+alis,1
+letter,1

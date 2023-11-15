@@ -1,0 +1,9 @@
+83,450,7
+resolution,1
+passed,1
+by,1
+all,1
+india,1
+congress,1
+committee,1
+1,1

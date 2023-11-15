@@ -1,0 +1,7 @@
+83,64,4
+78,1
+letter,1
+to,1
+syed,1
+jamil,1
+wasti,1

@@ -1,0 +1,6 @@
+50,450,11
+yeravda,1
+mandir,1
+silence,1
+day,1
+1930,1

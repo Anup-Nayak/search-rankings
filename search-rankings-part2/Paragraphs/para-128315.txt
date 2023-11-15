@@ -1,0 +1,5 @@
+37,362,2
+stray,1
+dogs,2
+v,1
+village,1

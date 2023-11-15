@@ -1,0 +1,12 @@
+93,160,4
+2,1
+they,1
+should,1
+help,1
+one,1
+another,1
+and,1
+share,1
+news,1
+without,1
+reserve,1

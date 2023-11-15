@@ -1,0 +1,10 @@
+82,300,7
+special,2
+district,2
+magistrate,1
+and,1
+a,1
+superintendent,1
+of,1
+police,1
+have,1

@@ -1,0 +1,7 @@
+32,466,7
+pupil,1
+if,1
+you,1
+will,1
+accept,1
+me,1

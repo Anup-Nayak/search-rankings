@@ -1,0 +1,6 @@
+46,90,8
+and,1
+sunday,1
+in,1
+the,1
+week,1

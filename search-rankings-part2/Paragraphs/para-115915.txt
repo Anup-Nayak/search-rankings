@@ -1,0 +1,6 @@
+34,342,4
+80,1
+letter,1
+to,1
+mohammed,1
+shafee,1

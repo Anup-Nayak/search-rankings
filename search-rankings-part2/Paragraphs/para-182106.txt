@@ -1,0 +1,14 @@
+51,475,10
+an,1
+ideological,1
+nor,1
+a,1
+sentimental,1
+act,1
+it,1
+is,1
+the,2
+consideration,1
+of,2
+peculiar,1
+needs,1

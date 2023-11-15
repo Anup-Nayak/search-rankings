@@ -1,0 +1,13 @@
+38,437,8
+machines,1
+do,1
+not,1
+solve,1
+the,1
+poverty,1
+problem,1
+they,1
+simply,1
+make,1
+men,1
+struggle,1

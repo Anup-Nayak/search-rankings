@@ -1,0 +1,10 @@
+23,24,36
+1,1
+a,1
+hindu,1
+mercantile,1
+community,1
+from,1
+marwar,1
+in,1
+rajasthan,1

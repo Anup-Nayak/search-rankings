@@ -1,0 +1,5 @@
+7,96,8
+government,1
+s,1
+other,1
+weapons,1

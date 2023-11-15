@@ -1,0 +1,11 @@
+82,414,17
+ten,1
+years,1
+how,1
+are,1
+you,1
+going,1
+to,1
+deal,1
+with,1
+that,1

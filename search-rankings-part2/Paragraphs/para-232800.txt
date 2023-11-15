@@ -1,0 +1,16 @@
+63,454,4
+d,1
+s,1
+they,2
+will,1
+not,1
+like,1
+to,2
+disown,1
+you,1
+and,1
+yet,1
+want,1
+suspend,1
+this,1
+civil,1

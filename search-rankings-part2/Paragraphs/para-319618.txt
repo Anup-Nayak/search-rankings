@@ -1,0 +1,6 @@
+84,40,5
+31,1
+note,1
+to,1
+mathuradas,1
+trikumji,1

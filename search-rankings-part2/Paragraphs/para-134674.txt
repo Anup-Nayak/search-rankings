@@ -1,0 +1,17 @@
+39,238,5
+vijaypal,1
+singh,1
+b,2
+a,2
+ll,1
+m,1
+l,1
+c,1
+prem,1
+bhawan,1
+meerut,1
+from,1
+photostat,1
+s,1
+n,1
+14184,1

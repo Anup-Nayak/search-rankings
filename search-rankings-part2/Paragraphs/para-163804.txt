@@ -1,0 +1,12 @@
+47,168,6
+in,1
+an,1
+interview,1
+given,1
+exclusively,1
+to,1
+the,2
+representative,1
+of,2
+free,1
+press,1

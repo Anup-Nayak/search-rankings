@@ -1,0 +1,14 @@
+28,148,20
+murder,1
+by,1
+the,1
+assassins,1
+he,1
+is,1
+at,1
+present,1
+in,1
+his,1
+brothers,1
+house,1
+no,1

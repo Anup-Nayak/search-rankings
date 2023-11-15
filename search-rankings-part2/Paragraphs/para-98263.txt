@@ -1,0 +1,12 @@
+29,112,6
+1,1
+english,1
+and,1
+urdu,1
+journals,1
+edited,1
+by,1
+mahomed,1
+ali,1
+2,1
+ibid,1

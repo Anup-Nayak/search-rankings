@@ -1,0 +1,10 @@
+31,33,2
+he,1
+wished,1
+the,4
+physicians,2
+of,3
+modern,1
+day,1
+took,1
+role,1

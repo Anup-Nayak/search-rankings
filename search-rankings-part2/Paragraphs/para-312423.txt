@@ -1,0 +1,12 @@
+82,213,3
+learn,1
+can,1
+choose,1
+the,2
+one,1
+he,1
+prefers,1
+why,1
+insistence,1
+on,1
+both,1

@@ -1,0 +1,11 @@
+98,228,5
+1,2
+a,1
+translation,1
+of,1
+this,1
+appeared,1
+in,1
+harijan,1
+18,1
+1948,1

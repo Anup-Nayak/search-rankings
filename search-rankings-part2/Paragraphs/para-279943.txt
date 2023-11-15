@@ -1,0 +1,17 @@
+75,29,2
+shrimati,1
+asha,1
+devi,1
+asked,1
+gandhiji,1
+to,2
+explain,1
+them,1
+how,1
+the,2
+mind,1
+could,1
+be,1
+trained,1
+through,1
+hands,1

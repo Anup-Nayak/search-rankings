@@ -1,0 +1,6 @@
+94,183,6
+196,1
+letter,1
+to,1
+tarabehn,1
+jasani,1

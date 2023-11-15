@@ -1,0 +1,4 @@
+47,146,3
+161,1
+simplifying,1
+marriage,1

@@ -1,0 +1,4 @@
+74,74,3
+mira,1
+maganwadi,1
+wardha,1

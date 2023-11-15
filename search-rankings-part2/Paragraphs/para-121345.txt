@@ -1,0 +1,6 @@
+35,470,5
+it,1
+is,1
+therefore,1
+hereby,1
+resolved,1

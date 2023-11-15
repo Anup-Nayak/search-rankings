@@ -1,0 +1,10 @@
+25,400,6
+q,1
+why,1
+do,1
+you,1
+interfere,1
+in,1
+matters,1
+of,1
+religion,1

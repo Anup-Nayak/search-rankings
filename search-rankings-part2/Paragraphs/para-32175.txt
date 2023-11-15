@@ -1,0 +1,12 @@
+10,332,4
+union,1
+castle,2
+line,1
+r,1
+m,1
+s,1
+kildonan,1
+wednesday,1
+november,1
+27,1
+1909,1

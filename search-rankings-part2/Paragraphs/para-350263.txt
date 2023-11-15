@@ -1,0 +1,9 @@
+90,423,27
+anywhere,1
+in,2
+natal,1
+it,1
+is,1
+essentially,1
+not,1
+unfair,1

@@ -1,0 +1,6 @@
+40,405,3
+mr,1
+chairman,1
+ladies,1
+and,1
+gentlemen,1

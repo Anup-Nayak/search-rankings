@@ -1,0 +1,12 @@
+20,7,3
+scum,1
+of,2
+the,2
+bazaars,1
+towns,1
+and,2
+to,2
+incite,1
+them,1
+crime,1
+disorder,1

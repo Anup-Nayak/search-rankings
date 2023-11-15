@@ -1,0 +1,12 @@
+72,220,1
+entirely,1
+independent,1
+book,1
+would,1
+be,1
+the,2
+only,1
+way,1
+of,1
+touching,1
+matter,1

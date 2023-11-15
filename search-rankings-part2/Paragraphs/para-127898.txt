@@ -1,0 +1,16 @@
+37,302,2
+the,5
+light,2
+in,3
+sun,1
+which,2
+illumines,1
+whole,1
+universe,1
+and,2
+is,2
+moon,1
+firethat,1
+know,1
+thou,1
+mine,1

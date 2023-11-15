@@ -1,0 +1,11 @@
+82,396,6
+in,2
+other,1
+words,1
+you,1
+found,1
+nothing,1
+good,1
+the,1
+cripps,1
+proposals,1

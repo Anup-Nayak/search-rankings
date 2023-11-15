@@ -1,0 +1,15 @@
+23,233,3
+the,2
+following,1
+explanation,1
+has,1
+been,1
+issued,1
+under,1
+signatures,1
+of,1
+maulana,2
+shaukat,1
+ali,2
+and,1
+mahomed,1

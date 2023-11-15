@@ -1,0 +1,10 @@
+64,440,6
+an,1
+andhra,1
+graduate,1
+who,1
+has,1
+married,1
+a,1
+devadasi,1
+writes,1

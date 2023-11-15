@@ -1,0 +1,11 @@
+30,194,16
+q,1
+will,1
+you,1
+please,1
+briefly,1
+explain,1
+yourself,1
+on,1
+this,1
+point,1

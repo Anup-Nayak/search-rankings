@@ -1,0 +1,10 @@
+25,464,6
+1,1
+in,2
+the,1
+congress,1
+session,1
+held,1
+september,1
+2,1
+ibid,1

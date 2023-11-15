@@ -1,0 +1,8 @@
+20,0,1
+1,2
+congress,1
+report,1
+on,1
+the,1
+punjab,1
+disorders,1

@@ -1,0 +1,8 @@
+14,398,4
+339,1
+speech,1
+at,1
+st,1
+stephens,1
+college,1
+1,1

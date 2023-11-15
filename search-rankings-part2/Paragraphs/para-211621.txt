@@ -1,0 +1,16 @@
+58,443,1
+64,1
+is,3
+it,2
+not,2
+a,1
+fact,1
+that,1
+the,3
+heart,1
+and,1
+body,1
+seat,1
+of,1
+love,1
+so,1

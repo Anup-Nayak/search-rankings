@@ -1,0 +1,9 @@
+19,485,3
+my,2
+dear,1
+child,1
+here,1
+is,1
+selection,1
+for,1
+today,1

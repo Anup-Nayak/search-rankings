@@ -1,0 +1,5 @@
+7,6,6
+criminal,1
+proceedings,1
+against,1
+waiter,1

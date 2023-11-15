@@ -1,0 +1,15 @@
+94,51,1
+mentioned,1
+was,1
+that,1
+the,1
+neighbour,1
+thus,1
+served,1
+had,1
+in,1
+his,2
+turn,1
+to,1
+serve,1
+own,1

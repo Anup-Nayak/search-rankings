@@ -1,0 +1,6 @@
+24,162,10
+1,1
+daughter,1
+of,1
+abbas,1
+tyabji,1

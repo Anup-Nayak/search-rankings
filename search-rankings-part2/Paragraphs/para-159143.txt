@@ -1,0 +1,14 @@
+46,107,17
+demanded,1
+justice,1
+for,1
+india,1
+the,1
+england,1
+that,1
+abolished,1
+its,1
+slave,1
+trade,1
+in,1
+1807,1

@@ -1,0 +1,7 @@
+30,209,14
+and,1
+others,1
+also,1
+explained,1
+the,1
+matter,1

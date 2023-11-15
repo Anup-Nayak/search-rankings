@@ -1,0 +1,6 @@
+77,160,3
+an,1
+american,1
+missionary,1
+writes,1
+1,1

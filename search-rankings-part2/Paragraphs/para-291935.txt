@@ -1,0 +1,13 @@
+78,34,9
+people,1
+with,1
+some,1
+prejudices,1
+against,1
+the,1
+physical,1
+coercion,1
+of,1
+those,1
+who,1
+do,1

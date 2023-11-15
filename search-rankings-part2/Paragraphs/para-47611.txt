@@ -1,0 +1,13 @@
+14,207,7
+4,1
+a,1
+widow,1
+or,1
+divorced,1
+woman,1
+cannot,1
+remarry,1
+until,1
+after,1
+ten,1
+months,1

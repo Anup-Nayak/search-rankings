@@ -1,0 +1,8 @@
+70,425,2
+an,1
+advocate,1
+from,1
+tamil,1
+nad,1
+writes,1
+1,1

@@ -1,0 +1,14 @@
+82,388,18
+personally,1
+i,2
+agree,1
+concluded,1
+that,1
+such,1
+a,2
+person,1
+alone,1
+is,1
+fit,1
+to,1
+be,1

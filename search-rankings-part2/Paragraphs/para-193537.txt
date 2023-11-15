@@ -1,0 +1,7 @@
+54,347,20
+campaign,1
+authorized,1
+by,1
+congress,1
+but,1
+whilst,1

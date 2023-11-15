@@ -1,0 +1,10 @@
+32,120,3
+1,1
+wife,1
+of,1
+satyavan,1
+whom,1
+she,1
+retrieved,1
+from,1
+death,1

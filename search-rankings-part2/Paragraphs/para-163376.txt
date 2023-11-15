@@ -1,0 +1,16 @@
+47,115,8
+bapu,1
+ps,1
+tell,1
+bal,1
+that,1
+i,2
+have,1
+had,1
+no,1
+time,1
+to,2
+write,2
+him,1
+shall,1
+now,1

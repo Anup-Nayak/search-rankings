@@ -1,0 +1,8 @@
+26,312,6
+1,1
+hat,1
+weekly,1
+market,1
+in,1
+rural,1
+areas,1

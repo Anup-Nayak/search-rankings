@@ -1,0 +1,5 @@
+68,395,11
+486,1
+for,1
+women,1
+reformers,1

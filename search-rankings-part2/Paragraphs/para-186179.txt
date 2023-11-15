@@ -1,0 +1,10 @@
+52,441,10
+2,1
+vide,1
+an,1
+old,1
+political,1
+prisoner,1
+9,1
+7,1
+1931,1

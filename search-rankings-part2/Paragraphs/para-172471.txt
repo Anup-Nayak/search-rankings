@@ -1,0 +1,15 @@
+49,340,2
+my,1
+love,1
+to,2
+all,1
+those,1
+whom,2
+i,2
+do,1
+not,1
+write,1
+but,1
+of,1
+constantly,1
+think,1

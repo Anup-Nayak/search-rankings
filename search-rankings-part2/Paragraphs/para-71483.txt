@@ -1,0 +1,5 @@
+20,313,6
+1the,1
+sanskrit,1
+original,1
+reads,1

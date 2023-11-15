@@ -1,0 +1,12 @@
+82,5,2
+suppose,1
+germany,1
+wins,1
+with,1
+india,1
+not,1
+having,1
+entered,1
+the,1
+war,1
+would,1

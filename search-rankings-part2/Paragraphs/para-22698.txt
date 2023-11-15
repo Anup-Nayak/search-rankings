@@ -1,0 +1,11 @@
+7,412,1
+one,2
+hundred,1
+pounds,1
+for,1
+his,1
+leaving,1
+the,1
+colony,1
+within,1
+month,1

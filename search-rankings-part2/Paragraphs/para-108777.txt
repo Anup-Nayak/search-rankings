@@ -1,0 +1,6 @@
+32,151,7
+2,1
+correspondents,1
+pseudonym,1
+literally,1
+servant,1

@@ -1,0 +1,15 @@
+89,239,9
+1,1
+the,3
+letter,1
+is,2
+in,2
+devanagari,1
+script,1
+2,1
+a,1
+word,1
+here,1
+not,1
+clear,1
+source,1

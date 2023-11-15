@@ -1,0 +1,7 @@
+35,150,7
+205,1
+letter,1
+to,1
+dr,1
+manekbai,1
+bahaduraji,1

@@ -1,0 +1,14 @@
+32,192,8
+from,1
+a,2
+copy,1
+c,2
+w,1
+11334,1
+courtesy,1
+dr,1
+n,1
+rama,1
+murthy,1
+and,1
+reddi,1

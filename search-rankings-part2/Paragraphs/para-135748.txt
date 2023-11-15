@@ -1,0 +1,16 @@
+39,383,3
+1,1
+which,1
+is,1
+supposed,1
+to,1
+separate,1
+and,2
+drink,1
+the,1
+milk,2
+from,1
+a,1
+mixture,1
+of,1
+water,1

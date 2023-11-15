@@ -1,0 +1,10 @@
+57,130,29
+assumed,1
+that,1
+kelappans,1
+fast,1
+has,1
+no,1
+connection,1
+with,1
+mine,1

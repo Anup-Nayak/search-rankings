@@ -1,0 +1,7 @@
+8,296,2
+158,1
+voluntary,1
+registration,1
+in,1
+the,1
+transvaal,1

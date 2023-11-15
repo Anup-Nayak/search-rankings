@@ -1,0 +1,11 @@
+78,8,2
+the,1
+bombay,1
+chronicle,1
+26,2
+2,2
+1940,2
+and,1
+amrita,1
+bazar,1
+patrika,1

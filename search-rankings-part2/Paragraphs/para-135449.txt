@@ -1,0 +1,10 @@
+39,343,4
+338,1
+message,1
+on,1
+silver,1
+jubilee,1
+august,1
+5,1
+1927,1
+1,1

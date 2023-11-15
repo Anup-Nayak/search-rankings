@@ -1,0 +1,4 @@
+35,386,6
+gandhiashram,1
+puduppalayam,1
+tiruchengodu,1

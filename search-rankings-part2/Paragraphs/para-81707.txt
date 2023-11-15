@@ -1,0 +1,15 @@
+24,65,6
+advance,1
+even,1
+if,1
+the,1
+government,1
+sent,1
+them,2
+to,1
+jail,1
+or,1
+shot,1
+down,1
+they,1
+should,1

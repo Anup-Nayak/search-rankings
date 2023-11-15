@@ -1,0 +1,9 @@
+18,308,3
+239,1
+letter,1
+to,2
+p,1
+s,1
+lt,1
+governor,1
+punjab,1

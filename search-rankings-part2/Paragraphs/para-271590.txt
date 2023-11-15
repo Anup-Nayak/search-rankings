@@ -1,0 +1,6 @@
+73,11,6
+gladys,1
+owen,1
+vinona,1
+bungalow,1
+sholapur,1

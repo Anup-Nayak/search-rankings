@@ -1,0 +1,17 @@
+12,355,19
+1,1
+a,1
+word,1
+illegible,1
+here,1
+2,1
+the,1
+addresses,1
+that,1
+follow,1
+are,1
+in,1
+english,1
+unless,1
+otherwise,1
+indicated,1

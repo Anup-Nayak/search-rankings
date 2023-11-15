@@ -1,0 +1,12 @@
+82,384,11
+democratic,1
+government,1
+in,1
+order,1
+that,1
+they,1
+might,1
+more,1
+easily,1
+associate,1
+themselves,1

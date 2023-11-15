@@ -1,0 +1,6 @@
+86,140,6
+265,1
+letter,1
+to,1
+parnam,1
+jewanam,1

@@ -1,0 +1,13 @@
+33,20,2
+he,2
+had,1
+often,1
+used,1
+strong,1
+language,1
+about,1
+western,1
+civilization,1
+stood,1
+by,1
+all,1

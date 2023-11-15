@@ -1,0 +1,17 @@
+28,335,8
+q,1
+how,1
+can,1
+the,1
+few,1
+boys,1
+that,1
+really,1
+want,1
+national,2
+education,1
+read,1
+where,1
+no,1
+school,1
+exists,1

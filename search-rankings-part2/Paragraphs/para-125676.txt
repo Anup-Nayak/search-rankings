@@ -1,0 +1,15 @@
+36,503,2
+9,1
+q,1
+who,1
+composed,1
+the,1
+vedas,1
+are,1
+they,1
+anadi,2
+2,1
+if,1
+so,1
+what,1
+does,1

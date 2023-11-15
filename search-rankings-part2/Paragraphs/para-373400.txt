@@ -1,0 +1,17 @@
+96,434,10
+1,1
+this,1
+is,1
+a,2
+reply,1
+to,1
+letter,1
+dated,1
+september,1
+26,1
+1947,1
+from,1
+ranganath,1
+pradhan,1
+narsingpur,1
+durbar,1

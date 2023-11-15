@@ -1,0 +1,17 @@
+79,28,7
+1,1
+to,1
+atmakatha,1
+gujarati,1
+version,1
+in,1
+devanagari,1
+script,1
+of,1
+an,1
+autobiography,1
+2,1
+vide,1
+the,1
+preceding,1
+item,1

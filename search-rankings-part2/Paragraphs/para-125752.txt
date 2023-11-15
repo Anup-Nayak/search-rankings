@@ -1,0 +1,6 @@
+36,508,22
+1,1
+modes,1
+of,1
+cosmic,1
+energy,1

@@ -1,0 +1,7 @@
+51,27,13
+after,1
+morning,1
+prayers,1
+january,1
+15,1
+1931,1

@@ -1,0 +1,16 @@
+93,411,32
+1vide,1
+extract,1
+from,1
+diary,1
+2,1
+12,2
+1946,1
+and,1
+interview,1
+to,1
+a,1
+muslim,1
+visitor,1
+1,1
+1947,1

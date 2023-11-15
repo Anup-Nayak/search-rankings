@@ -1,0 +1,12 @@
+75,170,7
+1,1
+this,1
+is,1
+extracted,1
+from,1
+the,1
+rajkot,1
+fast,1
+vi,1
+by,1
+pyarelal,1

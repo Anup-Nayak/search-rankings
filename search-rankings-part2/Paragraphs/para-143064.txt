@@ -1,0 +1,12 @@
+41,493,19
+from,1
+my,1
+personal,1
+knowledge,1
+of,1
+malan,1
+schmidt,1
+venn,1
+and,1
+pring,1
+i,1

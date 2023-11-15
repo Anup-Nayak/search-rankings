@@ -1,0 +1,9 @@
+82,45,7
+the,2
+bombay,1
+chronicle,1
+20,2
+2,2
+1942,2
+and,1
+hindu,1

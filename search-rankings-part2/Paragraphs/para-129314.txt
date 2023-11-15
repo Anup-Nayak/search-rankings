@@ -1,0 +1,13 @@
+38,24,3
+khadi,1
+wear,1
+resolution,1
+passed,1
+by,1
+the,2
+congress,1
+at,1
+gauhati,1
+following,1
+interview,1
+was,1

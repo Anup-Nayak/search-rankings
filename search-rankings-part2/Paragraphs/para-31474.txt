@@ -1,0 +1,12 @@
+10,224,4
+m,1
+k,1
+gandhi,1
+h,1
+just,1
+esq,1
+colonial,1
+office,1
+downing,1
+street,1
+london,1

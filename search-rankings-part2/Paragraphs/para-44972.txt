@@ -1,0 +1,16 @@
+13,408,2
+the,2
+court,1
+then,1
+adjourned,1
+for,2
+a,1
+quarter,1
+of,1
+an,1
+hour,1
+magistrate,1
+to,1
+consider,1
+his,1
+decision,1

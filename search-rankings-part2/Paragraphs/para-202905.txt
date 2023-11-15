@@ -1,0 +1,17 @@
+57,11,10
+1,1
+american,1
+methodist,1
+author,1
+of,2
+that,1
+strange,1
+little,1
+brown,1
+man,1
+gandhi,1
+2,1
+daughter,1
+narayan,1
+moreshwar,1
+khare,1

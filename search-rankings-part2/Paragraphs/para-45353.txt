@@ -1,0 +1,8 @@
+13,438,7
+have,1
+not,1
+departed,1
+hairbreadth,1
+from,1
+moderate,1
+lang,1

@@ -1,0 +1,7 @@
+72,123,4
+169,1
+letter,1
+to,1
+dr,1
+fritz,1
+michaelis,1

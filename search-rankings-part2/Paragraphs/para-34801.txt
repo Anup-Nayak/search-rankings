@@ -1,0 +1,7 @@
+11,148,3
+166,1
+conditions,1
+of,1
+cape,1
+indians,1
+unsatisfactory,1

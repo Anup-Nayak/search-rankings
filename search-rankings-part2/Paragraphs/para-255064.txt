@@ -1,0 +1,5 @@
+68,418,4
+512,1
+hindi,1
+or,1
+hindustani,1

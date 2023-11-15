@@ -1,0 +1,5 @@
+82,63,9
+collective,1
+effort,1
+non,1
+violent,1

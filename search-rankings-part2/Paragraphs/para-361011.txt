@@ -1,0 +1,15 @@
+93,215,14
+bhai,1
+bulsaria,1
+i,3
+got,1
+your,1
+postcard,1
+of,1
+the,2
+20th,1
+hope,1
+you,1
+have,1
+wire,1
+sent,1

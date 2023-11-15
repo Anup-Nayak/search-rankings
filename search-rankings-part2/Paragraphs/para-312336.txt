@@ -1,0 +1,6 @@
+82,206,3
+prema,1
+i,1
+got,1
+your,1
+letter,1

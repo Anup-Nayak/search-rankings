@@ -1,0 +1,12 @@
+27,101,8
+now,1
+that,1
+they,1
+in,1
+the,2
+legislative,1
+assembly,1
+have,1
+voted,1
+down,1
+govern,1

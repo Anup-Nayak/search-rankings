@@ -1,0 +1,10 @@
+87,114,17
+for,3
+victory,1
+that,1
+party,1
+which,1
+works,1
+sincerely,1
+and,1
+wholly,1

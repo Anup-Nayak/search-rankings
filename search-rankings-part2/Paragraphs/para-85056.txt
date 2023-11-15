@@ -1,0 +1,5 @@
+25,147,2
+1,1
+traditional,1
+parsis,1
+cap,1

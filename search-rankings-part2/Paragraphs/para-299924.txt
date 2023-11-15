@@ -1,0 +1,11 @@
+80,0,10
+from,1
+a,1
+copy,1
+c,1
+w,1
+10275,1
+courtesy,1
+k,1
+suryaprakasa,1
+rao,1

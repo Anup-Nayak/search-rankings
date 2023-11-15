@@ -1,0 +1,15 @@
+21,348,8
+after,1
+a,1
+prayer,1
+sung,1
+by,1
+some,1
+of,2
+the,2
+ladies,1
+mrs,1
+petit,1
+gave,1
+them,1
+message,1

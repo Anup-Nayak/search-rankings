@@ -1,0 +1,6 @@
+27,117,10
+122,1
+letter,1
+to,1
+ragini,1
+devi,1

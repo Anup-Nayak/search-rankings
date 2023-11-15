@@ -1,0 +1,8 @@
+68,59,3
+73,1
+sixty,1
+three,1
+years,1
+ago,1
+and,1
+today,1

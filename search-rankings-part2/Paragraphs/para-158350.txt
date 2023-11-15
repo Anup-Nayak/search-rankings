@@ -1,0 +1,16 @@
+46,9,6
+about,1
+5,1
+p,1
+m,1
+there,1
+were,1
+present,1
+three,1
+to,1
+four,1
+hundred,1
+ladies,1
+in,1
+the,1
+meeting,1

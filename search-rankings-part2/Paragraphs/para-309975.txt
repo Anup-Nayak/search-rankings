@@ -1,0 +1,8 @@
+82,14,11
+where,1
+my,1
+wife,1
+and,1
+the,1
+little,1
+settlement,1

@@ -1,0 +1,8 @@
+46,136,1
+128,1
+speech,1
+to,1
+christian,1
+community,1
+almora,1
+1,1

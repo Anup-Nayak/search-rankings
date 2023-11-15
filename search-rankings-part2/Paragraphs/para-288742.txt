@@ -1,0 +1,12 @@
+77,96,12
+can,2
+evolve,1
+a,2
+proper,1
+and,1
+lasting,1
+solution,1
+any,1
+other,1
+only,1
+be,1

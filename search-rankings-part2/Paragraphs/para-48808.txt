@@ -1,0 +1,9 @@
+14,378,15
+1,1
+patel,1
+2,1
+this,1
+telegram,1
+is,1
+not,1
+available,1

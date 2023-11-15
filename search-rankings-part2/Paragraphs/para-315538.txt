@@ -1,0 +1,12 @@
+82,410,10
+if,1
+i,3
+were,1
+asked,1
+what,1
+would,2
+prefer,1
+say,1
+federation,1
+and,1
+not,1

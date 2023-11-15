@@ -1,0 +1,10 @@
+64,297,6
+bapu,1
+shri,1
+mary,1
+barr,1
+khedi,1
+near,1
+betul,1
+c,1
+p,1

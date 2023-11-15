@@ -1,0 +1,5 @@
+52,142,6
+185,1
+a,1
+womans,1
+sacrifice,1

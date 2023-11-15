@@ -1,0 +1,3 @@
+71,62,7
+destroy,1
+untouchability,1

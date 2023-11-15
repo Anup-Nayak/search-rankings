@@ -1,0 +1,7 @@
+60,465,4
+inter,2
+dining,1
+and,1
+caste,1
+marriages,1
+2,1

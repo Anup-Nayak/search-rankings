@@ -1,0 +1,9 @@
+19,362,8
+deputation,1
+has,2
+sacred,1
+mission,1
+it,1
+to,1
+appeal,1
+not,1

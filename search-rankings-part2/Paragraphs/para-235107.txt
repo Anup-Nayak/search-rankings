@@ -1,0 +1,6 @@
+64,191,12
+he,1
+was,1
+already,1
+considering,1
+it,1

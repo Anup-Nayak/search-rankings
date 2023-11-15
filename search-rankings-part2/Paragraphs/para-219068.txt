@@ -1,0 +1,15 @@
+60,257,10
+1,1
+wife,1
+of,2
+dr,2
+sheikh,1
+mohammad,1
+alam,1
+lahore,1
+2,1
+this,1
+was,1
+from,1
+behramji,1
+khambhatta,1

@@ -1,0 +1,9 @@
+26,115,2
+maulana,1
+mahomed,1
+ali,1
+protests,1
+and,1
+demands,1
+like,1
+treatment,1

@@ -1,0 +1,12 @@
+73,460,23
+of,2
+the,3
+cabinet,1
+and,1
+instructions,1
+parliamentary,1
+sub,1
+committee,1
+he,1
+ought,1
+not,1

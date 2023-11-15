@@ -1,0 +1,9 @@
+54,348,22
+co,1
+operation,1
+must,1
+be,1
+mutual,1
+but,1
+your,1
+telegram,1

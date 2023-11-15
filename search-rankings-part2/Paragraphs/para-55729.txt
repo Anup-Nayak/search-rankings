@@ -1,0 +1,7 @@
+16,136,3
+51,1
+a,1
+stain,1
+on,1
+indias,1
+forehead,1

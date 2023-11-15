@@ -1,0 +1,10 @@
+32,3,7
+1,1
+this,1
+was,1
+distributed,1
+in,1
+the,1
+form,1
+of,1
+leaflet,1

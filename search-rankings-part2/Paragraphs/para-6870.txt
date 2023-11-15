@@ -1,0 +1,10 @@
+3,116,10
+the,1
+legislative,1
+assembly,1
+of,1
+natal,1
+in,1
+parliament,1
+assembled,1
+pietermaritzburg,1

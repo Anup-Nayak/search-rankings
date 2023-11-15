@@ -1,0 +1,10 @@
+22,256,2
+young,1
+india,1
+2,2
+1921,2
+amrita,1
+bazar,1
+patrika,1
+25,1
+1,1

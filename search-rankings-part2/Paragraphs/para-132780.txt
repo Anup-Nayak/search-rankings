@@ -1,0 +1,6 @@
+38,464,8
+i,1
+am,1
+making,1
+fair,1
+progress,1

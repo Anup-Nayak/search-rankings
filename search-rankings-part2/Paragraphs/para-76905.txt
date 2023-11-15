@@ -1,0 +1,16 @@
+22,242,7
+1,2
+the,1
+message,1
+was,1
+published,1
+in,2
+sandesh,1
+23,1
+1921,1
+2,1
+a,1
+village,1
+near,1
+ahmedabad,1
+gujarat,1

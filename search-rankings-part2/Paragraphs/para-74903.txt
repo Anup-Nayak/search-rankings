@@ -1,0 +1,7 @@
+21,416,8
+lahore,1
+wednesday,1
+about,1
+october,1
+1920,1
+2,1

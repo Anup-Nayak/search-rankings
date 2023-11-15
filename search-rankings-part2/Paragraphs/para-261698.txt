@@ -1,0 +1,6 @@
+70,205,6
+242,1
+letter,1
+to,1
+ronald,1
+duncan,1

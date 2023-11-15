@@ -1,0 +1,12 @@
+51,299,2
+1,1
+use,1
+thy,2
+own,1
+property,1
+so,1
+as,1
+not,1
+to,1
+injure,1
+neighbours,1

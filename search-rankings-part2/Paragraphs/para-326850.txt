@@ -1,0 +1,8 @@
+85,296,12
+wire,1
+received,1
+hope,1
+father,1
+better,1
+report,1
+progress,1

@@ -1,0 +1,9 @@
+14,7,19
+that,1
+there,1
+would,1
+be,1
+no,1
+difficulty,1
+about,1
+discharge,1

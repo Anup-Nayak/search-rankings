@@ -1,0 +1,12 @@
+61,488,21
+prepared,1
+provided,1
+mr,1
+gandhi,1
+is,1
+willing,1
+to,1
+abandon,1
+all,1
+civil,1
+disobedience,1

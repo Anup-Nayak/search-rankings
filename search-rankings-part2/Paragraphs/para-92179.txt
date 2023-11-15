@@ -1,0 +1,13 @@
+27,215,1
+when,1
+you,2
+think,1
+that,1
+can,1
+leave,1
+safely,1
+the,2
+bedside,1
+of,1
+big,1
+patient,1

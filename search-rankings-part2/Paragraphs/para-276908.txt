@@ -1,0 +1,8 @@
+74,139,7
+198,1
+speech,1
+at,1
+public,1
+meeting,1
+kohat,1
+2,1

@@ -1,0 +1,9 @@
+17,325,11
+public,1
+good,1
+they,1
+may,1
+seem,1
+to,1
+remain,1
+in,1

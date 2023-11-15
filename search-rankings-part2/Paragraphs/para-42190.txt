@@ -1,0 +1,10 @@
+13,47,10
+does,1
+not,1
+protect,1
+wives,1
+and,1
+minor,1
+children,1
+of,1
+educated,1

@@ -1,0 +1,6 @@
+12,187,4
+151,1
+letter,1
+to,1
+sporting,1
+star,1

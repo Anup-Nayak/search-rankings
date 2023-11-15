@@ -1,0 +1,14 @@
+21,239,30
+god,1
+mammon,1
+he,1
+believed,1
+in,2
+the,3
+ancient,1
+and,2
+pacific,1
+ideals,1
+of,1
+east,1
+not,1

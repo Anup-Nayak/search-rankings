@@ -1,0 +1,16 @@
+69,92,1
+if,1
+you,1
+get,1
+hold,1
+of,2
+peacocks,1
+i,2
+do,1
+not,1
+mind,1
+but,1
+know,1
+nothing,1
+their,1
+habits,1

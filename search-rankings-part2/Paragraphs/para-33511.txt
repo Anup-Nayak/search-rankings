@@ -1,0 +1,3 @@
+10,500,9
+yasnaya,1
+polyana,1

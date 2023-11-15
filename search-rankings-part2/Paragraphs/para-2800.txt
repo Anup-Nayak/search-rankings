@@ -1,0 +1,12 @@
+2,75,17
+that,2
+the,2
+indians,1
+were,1
+merchants,1
+and,1
+this,1
+satisfied,1
+mob,1
+incident,1
+in,1

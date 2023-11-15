@@ -1,0 +1,9 @@
+21,51,1
+34,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+amritsar,1
+1,1

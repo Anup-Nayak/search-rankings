@@ -1,0 +1,7 @@
+60,212,7
+bapuna,1
+patro,1
+4,1
+maniben,1
+patelne,1
+p,1

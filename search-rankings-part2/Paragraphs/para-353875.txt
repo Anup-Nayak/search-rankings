@@ -1,0 +1,17 @@
+91,371,8
+q,1
+but,1
+that,1
+may,1
+take,1
+a,1
+long,1
+time,1
+and,1
+unless,1
+it,1
+is,1
+done,1
+by,1
+people,1
+outside,1

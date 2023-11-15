@@ -1,0 +1,5 @@
+25,490,5
+refusal,1
+to,1
+pay,1
+taxes,1

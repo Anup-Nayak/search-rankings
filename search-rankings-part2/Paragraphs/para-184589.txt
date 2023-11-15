@@ -1,0 +1,13 @@
+52,263,9
+opinion,1
+expressed,1
+that,1
+honesty,1
+of,1
+purpose,1
+and,1
+sincerity,1
+in,1
+action,1
+on,1
+both,1

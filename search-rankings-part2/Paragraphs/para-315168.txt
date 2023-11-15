@@ -1,0 +1,13 @@
+82,399,14
+after,1
+the,2
+war,2
+i,1
+want,1
+independence,1
+now,1
+that,1
+will,1
+help,1
+england,1
+win,1

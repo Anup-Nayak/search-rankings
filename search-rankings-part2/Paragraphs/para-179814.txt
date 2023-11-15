@@ -1,0 +1,16 @@
+51,195,25
+the,2
+law,1
+if,1
+this,1
+could,1
+be,1
+done,1
+by,1
+regular,1
+order,1
+with,1
+object,1
+of,1
+extending,1
+privileges,1

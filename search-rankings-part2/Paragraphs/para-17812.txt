@@ -1,0 +1,4 @@
+6,278,3
+turkey,1
+and,1
+germany,1

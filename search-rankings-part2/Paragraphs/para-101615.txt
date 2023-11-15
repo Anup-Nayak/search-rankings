@@ -1,0 +1,7 @@
+30,35,9
+1,1
+the,1
+giver,1
+of,1
+plentiful,1
+food,1

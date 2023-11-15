@@ -1,0 +1,15 @@
+64,68,9
+and,1
+there,1
+was,1
+a,1
+risk,1
+of,2
+duplication,1
+effort,1
+in,2
+these,1
+matters,1
+again,1
+education,1
+the,1

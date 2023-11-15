@@ -1,0 +1,16 @@
+89,15,11
+1,1
+kalinath,1
+roy,1
+editor,1
+in,1
+charge,1
+of,1
+the,1
+tribune,1
+who,1
+died,1
+on,1
+9th,1
+december,1
+1945,1

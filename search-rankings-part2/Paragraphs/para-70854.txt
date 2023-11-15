@@ -1,0 +1,6 @@
+20,208,5
+26,1
+letter,1
+to,1
+devdas,1
+gandhi,1

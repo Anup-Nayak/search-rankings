@@ -1,0 +1,15 @@
+53,157,6
+from,1
+a,1
+photostat,1
+c,1
+w,2
+10962,1
+courtesy,1
+roger,1
+holmes,1
+and,1
+mrs,1
+frances,1
+l,1
+brown,1

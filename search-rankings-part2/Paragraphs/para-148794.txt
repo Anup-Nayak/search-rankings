@@ -1,0 +1,7 @@
+43,205,6
+248,1
+letter,1
+to,1
+karim,1
+goolam,1
+ali,1

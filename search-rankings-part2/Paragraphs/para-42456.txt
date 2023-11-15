@@ -1,0 +1,14 @@
+13,81,7
+the,1
+term,1
+attire,1
+should,1
+here,1
+be,1
+understood,1
+to,1
+include,1
+also,1
+shoes,1
+ornaments,1
+etc,1

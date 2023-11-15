@@ -1,0 +1,12 @@
+62,375,8
+1,1
+rigveda,1
+x,1
+purushasukta,1
+2,1
+vide,1
+for,1
+instance,1
+bhagavad,1
+gita,1
+iv,1

@@ -1,0 +1,10 @@
+89,394,4
+yours,1
+m,2
+k,1
+gandhi,1
+shri,1
+r,1
+jayakar,1
+from,1
+hindi,1

@@ -1,0 +1,7 @@
+75,257,6
+chief,1
+justice,1
+award,1
+having,1
+gone,1
+against,1

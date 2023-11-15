@@ -1,0 +1,6 @@
+49,70,3
+65,1
+letter,1
+to,1
+premabehn,1
+kantak,1

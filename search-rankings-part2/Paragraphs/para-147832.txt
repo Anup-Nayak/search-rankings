@@ -1,0 +1,7 @@
+43,90,5
+mohandas,1
+shri,1
+c,1
+tejpal,1
+artist,1
+rajkot,1

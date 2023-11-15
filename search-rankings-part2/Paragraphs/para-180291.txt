@@ -1,0 +1,7 @@
+51,253,22
+leaving,1
+for,1
+delhi,1
+by,1
+frontier,1
+mail,1

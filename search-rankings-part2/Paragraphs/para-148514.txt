@@ -1,0 +1,7 @@
+43,167,3
+r,1
+krishnier,1
+82/24,1
+miranda,1
+building,1
+dadar,1

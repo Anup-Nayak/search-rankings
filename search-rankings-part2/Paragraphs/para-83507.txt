@@ -1,0 +1,11 @@
+24,369,3
+was,1
+the,2
+burning,1
+of,1
+note,1
+a,2
+virtuous,1
+or,1
+sinful,1
+act,1

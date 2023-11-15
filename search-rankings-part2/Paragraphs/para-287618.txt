@@ -1,0 +1,15 @@
+76,417,22
+number,1
+of,1
+hotels,1
+and,2
+restaurants,1
+will,1
+be,1
+badly,1
+hit,1
+may,1
+have,1
+to,1
+close,1
+down,1

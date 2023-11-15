@@ -1,0 +1,7 @@
+48,510,3
+bapuna,1
+patronarandas,1
+gandhine,1
+part,1
+i,1
+p,1

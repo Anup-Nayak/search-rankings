@@ -1,0 +1,7 @@
+48,172,1
+160,1
+letter,1
+to,1
+bijon,1
+kumar,1
+sinha,1

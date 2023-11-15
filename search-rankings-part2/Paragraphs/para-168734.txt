@@ -1,0 +1,9 @@
+48,335,5
+vandemataram,1
+from,1
+mohandas,1
+bhaishri,1
+nautamlal,1
+bhagwanji,1
+jetpur,1
+kathiawar,1

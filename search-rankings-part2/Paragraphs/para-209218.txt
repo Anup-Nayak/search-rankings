@@ -1,0 +1,6 @@
+58,205,3
+these,1
+i,1
+must,1
+find,1
+out,1

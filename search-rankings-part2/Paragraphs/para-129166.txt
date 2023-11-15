@@ -1,0 +1,8 @@
+38,0,6
+2,2
+speech,1
+at,1
+chittaranjan,1
+seva,1
+sadan,1
+calcutta,1

@@ -1,0 +1,15 @@
+78,205,7
+seated,1
+on,1
+a,2
+mat,1
+in,1
+his,1
+small,1
+barely,1
+furnished,1
+room,1
+with,1
+wet,1
+cloth,1
+wrapped,1

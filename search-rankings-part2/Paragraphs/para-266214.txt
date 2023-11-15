@@ -1,0 +1,6 @@
+71,346,4
+during,1
+last,1
+week,1
+weather,1
+cooling,1

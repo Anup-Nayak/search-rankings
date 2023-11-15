@@ -1,0 +1,5 @@
+95,11,6
+yours,1
+gandhi,1
+from,1
+hindi,1

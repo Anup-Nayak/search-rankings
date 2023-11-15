@@ -1,0 +1,11 @@
+81,120,8
+blessings,1
+from,1
+bapu,1
+ps,1
+ask,1
+gajanan,1
+about,1
+the,1
+palm,1
+gur,1

@@ -1,0 +1,10 @@
+52,254,10
+yours,1
+mohandas,1
+gandhi,1
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+hindi,1

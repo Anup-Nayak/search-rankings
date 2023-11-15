@@ -1,0 +1,11 @@
+72,215,11
+1,1
+a,1
+word,1
+is,1
+illegible,1
+here,1
+2,1
+an,1
+american,1
+journalist,1

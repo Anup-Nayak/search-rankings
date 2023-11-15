@@ -1,0 +1,6 @@
+93,68,6
+bapu,1
+shrimati,1
+renuka,1
+ray,1
+chandpur,1

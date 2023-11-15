@@ -1,0 +1,16 @@
+6,40,2
+now,1
+my,1
+lord,1
+that,1
+is,1
+a,1
+pledge,1
+which,1
+was,1
+given,1
+by,1
+the,2
+head,1
+of,1
+opposition,1

@@ -1,0 +1,16 @@
+56,92,3
+dear,1
+siddhimati,1
+received,1
+your,2
+letter,1
+learn,1
+hindi,2
+well,2
+what,1
+was,1
+weight,1
+before,1
+can,1
+you,1
+follow,1

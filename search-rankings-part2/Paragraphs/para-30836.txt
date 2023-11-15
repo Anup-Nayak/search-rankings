@@ -1,0 +1,6 @@
+10,123,4
+1,1
+son,1
+of,1
+dawad,1
+mahomed,1

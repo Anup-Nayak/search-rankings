@@ -1,0 +1,9 @@
+91,137,4
+1,1
+one,1
+who,1
+partakes,1
+of,1
+bhang,1
+an,1
+intoxicant,1

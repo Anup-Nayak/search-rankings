@@ -1,0 +1,8 @@
+11,59,10
+suffering,1
+from,1
+influenza,1
+shelat,1
+sentenced,1
+spare,1
+diet,1

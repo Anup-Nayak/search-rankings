@@ -1,0 +1,6 @@
+13,293,2
+durban,1
+wednesday,1
+september,1
+17,1
+1913,1

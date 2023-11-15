@@ -1,0 +1,7 @@
+55,114,3
+109,1
+letter,1
+to,1
+durga,1
+m,1
+desai,1

@@ -1,0 +1,12 @@
+54,52,8
+mr,1
+jinnah,1
+it,2
+assumes,1
+that,1
+must,1
+be,1
+referred,1
+to,1
+a,1
+committee,1

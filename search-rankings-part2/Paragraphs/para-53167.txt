@@ -1,0 +1,12 @@
+15,345,10
+from,1
+a,1
+photostat,1
+of,1
+the,1
+telegram,1
+as,1
+delivered,1
+s,1
+n,1
+9819,1

@@ -1,0 +1,12 @@
+82,299,24
+move,1
+out,1
+in,2
+tapas,1
+and,1
+so,1
+they,1
+are,1
+working,1
+taluka,1
+headquarters,1

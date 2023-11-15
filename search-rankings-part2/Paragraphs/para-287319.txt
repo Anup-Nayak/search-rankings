@@ -1,0 +1,4 @@
+76,386,5
+yarn,1
+thus,1
+deposited,1

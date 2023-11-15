@@ -1,0 +1,12 @@
+74,326,5
+a,1
+muslim,1
+friend,1
+who,1
+calls,1
+himself,1
+an,1
+old,1
+congress,1
+worker,1
+says,1

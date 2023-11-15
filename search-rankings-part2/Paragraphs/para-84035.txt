@@ -1,0 +1,10 @@
+24,464,6
+2,1
+under,1
+the,2
+auspices,1
+of,1
+ahmedabad,1
+rashtriya,1
+stree,1
+mandal,1

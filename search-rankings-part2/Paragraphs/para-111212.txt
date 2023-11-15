@@ -1,0 +1,6 @@
+33,61,7
+1,1
+cobblers,1
+or,1
+shoe,1
+makers,1

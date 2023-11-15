@@ -1,0 +1,6 @@
+70,173,1
+197,1
+letter,1
+to,1
+mirza,1
+ismail,1

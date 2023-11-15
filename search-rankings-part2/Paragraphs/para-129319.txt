@@ -1,0 +1,7 @@
+38,25,2
+19,1
+speech,1
+at,1
+womens,1
+meeting,1
+comilla,1

@@ -1,0 +1,16 @@
+31,205,4
+1,1
+a,1
+type,1
+of,1
+residential,1
+educational,1
+institution,1
+generally,1
+run,1
+by,1
+arya,1
+samajists,1
+2,1
+the,1
+head,1

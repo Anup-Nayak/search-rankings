@@ -1,0 +1,11 @@
+39,186,2
+1,1
+manchersha,1
+awari,1
+2,1
+answer,1
+to,1
+question,1
+6,1
+is,1
+missing,1

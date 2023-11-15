@@ -1,0 +1,14 @@
+24,26,4
+q,1
+does,1
+not,1
+the,2
+burning,1
+of,3
+cloth,1
+involve,1
+a,1
+breach,1
+pledge,1
+non,1
+violence,1

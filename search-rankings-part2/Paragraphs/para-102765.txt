@@ -1,0 +1,9 @@
+30,205,10
+q,1
+when,1
+did,1
+you,1
+go,1
+to,1
+the,1
+bazaar,1

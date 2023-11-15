@@ -1,0 +1,14 @@
+30,310,4
+the,3
+bible,1
+can,2
+be,1
+read,1
+in,2
+566,1
+languages,1
+how,1
+many,1
+upanishads,1
+and,1
+gita,1

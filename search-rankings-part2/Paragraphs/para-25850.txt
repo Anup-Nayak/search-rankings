@@ -1,0 +1,7 @@
+8,463,2
+johannesburg,1
+july,1
+20,1
+1908,1
+africalia,1
+london,1

@@ -1,0 +1,7 @@
+58,332,8
+yeravda,1
+mandir,1
+silence,1
+day,1
+1932,1
+1,1

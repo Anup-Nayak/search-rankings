@@ -1,0 +1,17 @@
+19,18,4
+29th,1
+before,1
+3,1
+p,1
+m,1
+an,1
+amount,1
+equal,1
+to,1
+one,1
+week,1
+s,1
+wages,1
+of,1
+the,1
+manual,1

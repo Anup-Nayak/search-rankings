@@ -1,0 +1,9 @@
+24,210,13
+a,1
+six,1
+are,1
+girls,1
+and,1
+the,1
+rest,1
+boys,1

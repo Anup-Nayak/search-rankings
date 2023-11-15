@@ -1,0 +1,11 @@
+28,397,2
+m,1
+k,1
+gandhi,1
+asaf,1
+ali,1
+esq,1
+kucha,1
+i,1
+chelan,1
+delhi,1

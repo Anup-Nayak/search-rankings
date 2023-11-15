@@ -1,0 +1,7 @@
+63,242,4
+257,1
+a,1
+wail,1
+from,1
+mela,1
+arasur,1

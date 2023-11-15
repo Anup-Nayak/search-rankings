@@ -1,0 +1,9 @@
+37,176,4
+1,1
+iv,1
+12,1
+2,1
+formula,1
+with,1
+magical,1
+efficacy,1

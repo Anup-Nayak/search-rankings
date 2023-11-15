@@ -1,0 +1,13 @@
+78,81,7
+petty,1
+traders,1
+and,3
+chettiars,1
+have,1
+captured,1
+the,1
+entire,1
+import,1
+export,1
+trade,1
+many,1

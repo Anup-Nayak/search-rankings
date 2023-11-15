@@ -1,0 +1,6 @@
+21,120,1
+85,1
+telegram,1
+to,1
+abdul,1
+jabbar,1

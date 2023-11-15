@@ -1,0 +1,13 @@
+32,414,4
+is,1
+not,1
+the,2
+basic,1
+need,1
+everywhere,1
+for,1
+clarification,1
+and,1
+development,1
+of,1
+this,1

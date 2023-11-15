@@ -1,0 +1,8 @@
+14,21,4
+digested,1
+asked,1
+him,1
+place,1
+himself,1
+your,1
+disposal,1

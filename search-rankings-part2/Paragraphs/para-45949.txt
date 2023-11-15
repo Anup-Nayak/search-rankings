@@ -1,0 +1,8 @@
+14,10,12
+nominations,1
+which,1
+were,1
+all,1
+ignored,1
+stop,1
+peoples,1

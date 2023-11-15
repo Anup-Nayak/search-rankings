@@ -1,0 +1,4 @@
+40,202,4
+1,1
+observing,1
+purdah,1

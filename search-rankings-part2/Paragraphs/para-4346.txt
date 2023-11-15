@@ -1,0 +1,8 @@
+2,238,3
+name,2
+of,3
+person,1
+applicant,1
+nature,1
+license,1
+premises,1

@@ -1,0 +1,15 @@
+45,360,6
+mohandas,1
+gandhi,1
+bhai,1
+bholanath,1
+singh,1
+rashtriya,1
+vidyalaya,1
+p,1
+o,1
+haveli,1
+khadagpur,1
+dist,1
+monghyr,1
+bihar,1

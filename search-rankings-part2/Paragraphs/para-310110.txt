@@ -1,0 +1,11 @@
+82,22,19
+to,1
+students,1
+should,2
+be,2
+a,1
+speciality,1
+education,1
+imparted,1
+through,1
+the,1

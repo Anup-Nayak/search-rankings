@@ -1,0 +1,8 @@
+51,178,4
+swadeshi,1
+is,1
+deceptive,1
+word,1
+unable,1
+judge,1
+without,1

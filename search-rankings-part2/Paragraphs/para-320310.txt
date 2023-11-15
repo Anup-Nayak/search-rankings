@@ -1,0 +1,10 @@
+84,101,6
+hope,1
+you,1
+will,1
+insist,1
+on,1
+finishing,1
+at,1
+least,1
+a,1

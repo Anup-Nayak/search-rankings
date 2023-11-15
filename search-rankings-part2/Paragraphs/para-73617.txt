@@ -1,0 +1,5 @@
+21,172,1
+103,1
+speech,1
+at,1
+trichinopoly,1

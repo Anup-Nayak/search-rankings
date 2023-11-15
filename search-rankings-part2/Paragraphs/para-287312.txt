@@ -1,0 +1,16 @@
+76,385,12
+due,1
+to,2
+proper,1
+training,1
+spinners,1
+the,1
+quality,1
+of,2
+yarn,1
+produced,1
+is,1
+a,1
+very,1
+high,1
+standard,1

@@ -1,0 +1,8 @@
+23,150,2
+even,1
+god,1
+cannot,1
+make,1
+gift,1
+of,1
+swaraj,1

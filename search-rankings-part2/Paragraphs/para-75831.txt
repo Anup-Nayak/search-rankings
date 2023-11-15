@@ -1,0 +1,6 @@
+22,40,6
+1,1
+a,2
+foreigner,1
+2,1
+compatriot,1

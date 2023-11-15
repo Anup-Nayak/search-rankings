@@ -1,0 +1,10 @@
+64,189,8
+2,1
+of,3
+unveiling,1
+the,2
+portrait,1
+gulabdevi,1
+and,1
+opening,1
+hospital,1

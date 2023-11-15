@@ -1,0 +1,8 @@
+14,21,7
+him,1
+phoenix,1
+have,1
+agreed,1
+subject,1
+your,1
+sanction,1

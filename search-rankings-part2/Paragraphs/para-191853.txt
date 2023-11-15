@@ -1,0 +1,12 @@
+54,116,5
+1,1
+a,1
+few,1
+words,1
+here,2
+are,2
+not,2
+clear,2
+2,1
+some,1
+portions,1

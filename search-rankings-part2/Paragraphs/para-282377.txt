@@ -1,0 +1,8 @@
+75,302,22
+ask,1
+for,1
+your,1
+or,1
+sardar,1
+patels,1
+advice,1

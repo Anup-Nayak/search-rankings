@@ -1,0 +1,9 @@
+14,159,9
+1,1
+the,2
+reference,1
+is,1
+to,1
+indians,1
+relief,1
+bill,1

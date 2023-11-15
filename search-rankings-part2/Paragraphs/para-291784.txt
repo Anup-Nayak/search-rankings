@@ -1,0 +1,8 @@
+78,21,4
+1,1
+a,2
+mystic,1
+formula,1
+prescribed,1
+by,1
+guru,1

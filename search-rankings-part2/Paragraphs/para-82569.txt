@@ -1,0 +1,15 @@
+24,210,11
+q,1
+how,1
+many,1
+children,1
+in,1
+all,1
+do,1
+you,1
+have,1
+a,1
+about,1
+ten,1
+at,1
+present,1

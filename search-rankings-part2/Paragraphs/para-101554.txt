@@ -1,0 +1,15 @@
+30,26,2
+after,1
+the,1
+mahatma,1
+left,1
+mr,1
+kelkar,1
+gave,1
+a,1
+summary,1
+of,1
+his,1
+speech,1
+in,1
+marathi,1

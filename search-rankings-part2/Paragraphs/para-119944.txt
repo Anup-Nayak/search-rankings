@@ -1,0 +1,8 @@
+35,301,12
+the,1
+collected,1
+wortks,1
+of,1
+mahatma,1
+gandhi,1
+302,1

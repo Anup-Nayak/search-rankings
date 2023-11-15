@@ -1,0 +1,17 @@
+49,466,20
+i,1
+do,1
+not,1
+see,1
+how,1
+it,1
+fits,1
+in,1
+with,2
+our,2
+position,1
+or,2
+pledges,1
+the,1
+realities,1
+of,1

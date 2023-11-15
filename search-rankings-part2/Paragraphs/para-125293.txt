@@ -1,0 +1,12 @@
+36,459,4
+vote,1
+for,1
+men,1
+belonging,1
+to,2
+their,2
+own,2
+province,1
+or,1
+castes,1
+and,1

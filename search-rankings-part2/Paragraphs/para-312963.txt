@@ -1,0 +1,15 @@
+82,258,12
+and,2
+hindus,1
+sikhs,1
+depressed,1
+classes,1
+in,1
+the,2
+other,1
+let,1
+first,1
+section,1
+rule,1
+for,1
+a,1

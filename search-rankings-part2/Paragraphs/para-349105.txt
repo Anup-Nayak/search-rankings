@@ -1,0 +1,4 @@
+90,298,5
+1,1
+absentee,1
+landlordism,1

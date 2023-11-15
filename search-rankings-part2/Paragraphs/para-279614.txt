@@ -1,0 +1,8 @@
+74,451,13
+suffering,1
+want,1
+medical,1
+assistance,1
+please,1
+give,1
+relief,1

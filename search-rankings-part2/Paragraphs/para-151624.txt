@@ -1,0 +1,7 @@
+44,6,6
+from,1
+half,1
+ounce,1
+unboiled,1
+rice,1
+daily,1

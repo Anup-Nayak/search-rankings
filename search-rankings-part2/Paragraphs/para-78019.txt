@@ -1,0 +1,6 @@
+22,441,2
+a,1
+friend,1
+of,1
+the,1
+oppressed,1

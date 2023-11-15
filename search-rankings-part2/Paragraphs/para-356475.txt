@@ -1,0 +1,5 @@
+92,205,2
+should,1
+foreigners,1
+be,1
+welcome,1

@@ -1,0 +1,13 @@
+45,21,10
+justify,1
+yourself,1
+referring,1
+to,1
+the,1
+usual,1
+arguments,1
+put,1
+forward,1
+in,1
+defence,1
+of,1

@@ -1,0 +1,8 @@
+29,80,3
+i,1
+have,1
+lost,2
+him,2
+and,1
+for,1
+evermore,1

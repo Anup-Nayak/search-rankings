@@ -1,0 +1,10 @@
+41,417,12
+1,1
+he,1
+was,1
+connected,1
+with,1
+the,1
+peace,1
+association,1
+jerusalem,1

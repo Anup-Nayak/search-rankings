@@ -1,0 +1,15 @@
+2,108,23
+leader,1
+andgive,1
+me,1
+leave,1
+to,1
+sayright,1
+nobly,1
+did,1
+he,1
+do,1
+it,1
+i,1
+accompanied,1
+him,1

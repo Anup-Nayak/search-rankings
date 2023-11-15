@@ -1,0 +1,7 @@
+51,127,14
+jawaharlal,1
+nehru,1
+myself,1
+and,1
+other,1
+coworkers,1

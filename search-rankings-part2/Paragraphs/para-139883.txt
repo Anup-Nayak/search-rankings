@@ -1,0 +1,8 @@
+41,66,3
+82,1
+resolution,1
+on,1
+indians,1
+in,1
+south,1
+africa,1

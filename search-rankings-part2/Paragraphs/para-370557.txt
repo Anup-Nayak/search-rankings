@@ -1,0 +1,12 @@
+96,101,9
+last,1
+evening,1
+i,1
+strolled,1
+all,1
+over,1
+marble,1
+arch,1
+hyde,1
+park,1
+kensington,1

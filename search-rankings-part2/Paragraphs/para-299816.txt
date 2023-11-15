@@ -1,0 +1,9 @@
+79,467,4
+resolution,1
+passed,1
+at,2
+congress,1
+working,1
+committee,1
+meeting,1
+wardha1,1

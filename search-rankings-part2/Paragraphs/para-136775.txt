@@ -1,0 +1,12 @@
+40,39,8
+satyamurti,1
+that,1
+is,1
+for,1
+you,1
+the,2
+secretary,1
+of,1
+district,1
+congress,1
+committee,1

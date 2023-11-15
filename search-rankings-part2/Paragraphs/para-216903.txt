@@ -1,0 +1,16 @@
+59,501,14
+hindus,2
+all,1
+the,2
+untouchables,1
+say,1
+that,1
+they,1
+are,1
+quite,1
+a,1
+few,1
+do,1
+not,1
+even,1
+feel,1

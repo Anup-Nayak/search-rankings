@@ -1,0 +1,9 @@
+57,106,4
+has,1
+sent,1
+me,1
+through,1
+her,1
+known,1
+and,1
+unknown,1

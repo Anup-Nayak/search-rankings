@@ -1,0 +1,16 @@
+66,69,2
+g,1
+what,1
+about,1
+the,2
+english,1
+and,1
+dutch,1
+among,1
+whom,1
+contraceptives,1
+are,2
+popular,1
+they,1
+against,1
+war,1

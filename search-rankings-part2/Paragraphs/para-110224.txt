@@ -1,0 +1,6 @@
+32,405,10
+the,1
+indian,1
+hercules,1
+and,1
+brahmins,1

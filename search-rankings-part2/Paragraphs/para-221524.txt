@@ -1,0 +1,12 @@
+61,48,8
+have,1
+nothing,1
+but,1
+only,1
+thanks,1
+to,2
+god,1
+for,1
+giving,1
+you,1
+me,1

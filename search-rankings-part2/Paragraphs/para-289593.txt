@@ -1,0 +1,6 @@
+77,197,12
+1,1
+wife,1
+of,1
+narandas,1
+gandhi,1

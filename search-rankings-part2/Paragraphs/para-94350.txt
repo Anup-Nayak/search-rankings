@@ -1,0 +1,10 @@
+28,19,12
+4,1
+people,1
+belonging,1
+to,1
+the,1
+depressed,1
+class,1
+in,1
+maharashtra,1

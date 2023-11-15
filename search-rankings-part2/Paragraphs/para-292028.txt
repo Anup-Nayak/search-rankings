@@ -1,0 +1,7 @@
+78,41,3
+49,1
+discussion,1
+with,1
+a,1
+missionary,1
+1,1

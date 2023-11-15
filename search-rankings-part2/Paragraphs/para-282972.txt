@@ -1,0 +1,16 @@
+75,388,2
+g,1
+do,1
+you,1
+say,1
+that,2
+it,1
+is,1
+the,2
+measures,1
+adopted,1
+by,1
+government,1
+re,1
+established,1
+peace,1

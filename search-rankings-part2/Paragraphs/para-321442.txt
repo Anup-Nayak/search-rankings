@@ -1,0 +1,10 @@
+84,223,19
+supersede,1
+it,1
+clause,1
+relating,1
+to,1
+sanction,1
+has,1
+caused,1
+offence,1

@@ -1,0 +1,10 @@
+82,317,2
+give,1
+me,1
+news,1
+from,1
+there,1
+something,1
+must,1
+happen,1
+soon,1

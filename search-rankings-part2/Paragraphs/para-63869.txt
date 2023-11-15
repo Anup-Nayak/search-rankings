@@ -1,0 +1,12 @@
+18,146,14
+20,1
+cost,1
+of,1
+machinery,1
+and,2
+building,1
+required,1
+for,1
+spinning,1
+weaving,1
+mills,1

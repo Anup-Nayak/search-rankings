@@ -1,0 +1,7 @@
+53,461,1
+506,1
+speech,1
+at,1
+minorities,1
+committee,1
+meeting,1

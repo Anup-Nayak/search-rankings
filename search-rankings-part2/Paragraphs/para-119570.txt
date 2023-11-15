@@ -1,0 +1,10 @@
+35,261,12
+g,1
+m,1
+nalavade,1
+sangram,1
+office,1
+shaniwar,1
+peth,1
+poona,1
+city,1

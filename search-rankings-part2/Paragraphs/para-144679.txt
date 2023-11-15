@@ -1,0 +1,9 @@
+42,213,9
+m,2
+aslam,1
+khan,1
+sufi,1
+manzil,1
+pindi,1
+bahauddin,1
+punjab,1

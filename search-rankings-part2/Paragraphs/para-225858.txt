@@ -1,0 +1,10 @@
+62,14,8
+1,1
+vide,1
+letter,1
+to,1
+amritlal,1
+v,1
+thakkar,1
+10,2
+1933,1

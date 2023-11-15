@@ -1,0 +1,6 @@
+80,294,4
+509,1
+letter,1
+to,1
+lakshmi,1
+satyamurti,1

@@ -1,0 +1,17 @@
+36,299,9
+1,1
+the,2
+original,1
+in,2
+gujarati,1
+appeared,1
+navajivan,1
+12,1
+9,1
+1926,1
+english,1
+translation,1
+is,1
+by,1
+mahadev,1
+desai,1

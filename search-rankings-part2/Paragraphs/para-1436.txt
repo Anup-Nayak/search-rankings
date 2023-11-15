@@ -1,0 +1,6 @@
+1,276,2
+to,1
+the,2
+editor,1
+natal,1
+advertiser,1

@@ -1,0 +1,8 @@
+51,436,3
+prime,1
+ministers,1
+declaration,1
+at,1
+r,1
+t,1
+c,1

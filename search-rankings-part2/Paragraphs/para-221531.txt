@@ -1,0 +1,9 @@
+61,48,16
+hope,1
+n,1
+reached,1
+parashuram,1
+should,1
+leave,1
+next,1
+train,1

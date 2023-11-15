@@ -1,0 +1,6 @@
+77,97,9
+122,1
+letter,1
+to,1
+janakidevi,1
+bajaj,1

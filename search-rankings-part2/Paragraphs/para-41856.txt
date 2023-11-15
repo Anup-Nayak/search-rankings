@@ -1,0 +1,6 @@
+12,478,2
+a,1
+heart,1
+rending,1
+s,1
+ituation,1

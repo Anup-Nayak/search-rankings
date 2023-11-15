@@ -1,0 +1,6 @@
+82,416,23
+time,1
+and,1
+even,1
+their,1
+lives,1

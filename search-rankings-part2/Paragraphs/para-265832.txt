@@ -1,0 +1,13 @@
+71,307,12
+1,1
+grandmother,1
+paternal,1
+aunt,1
+and,1
+wife,1
+of,1
+the,1
+addressee,1
+2,1
+ibid,2
+3,1

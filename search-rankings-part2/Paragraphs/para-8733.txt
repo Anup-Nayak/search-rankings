@@ -1,0 +1,7 @@
+3,480,2
+316,1
+a,1
+lesson,1
+from,1
+the,1
+plague,1

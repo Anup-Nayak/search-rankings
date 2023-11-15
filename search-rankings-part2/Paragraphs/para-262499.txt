@@ -1,0 +1,17 @@
+70,322,11
+1,1
+the,2
+interview,1
+took,1
+place,1
+at,2
+bishop,1
+moores,1
+house,1
+kottayam,1
+object,1
+was,1
+to,1
+clear,1
+up,1
+misunderstandings,1

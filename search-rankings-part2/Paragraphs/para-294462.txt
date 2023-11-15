@@ -1,0 +1,16 @@
+78,283,15
+1,1
+15,1
+days,1
+leave,2
+with,1
+full,1
+pay,1
+in,1
+a,1
+year,1
+and,1
+maternity,1
+to,1
+female,1
+sweepers,1

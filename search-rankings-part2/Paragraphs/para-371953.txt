@@ -1,0 +1,14 @@
+96,251,22
+the,2
+roman,1
+pilate,1
+won,2
+gandhiji,1
+did,1
+not,1
+agree,1
+jesus,1
+had,1
+as,1
+worlds,1
+history,1

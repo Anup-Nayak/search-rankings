@@ -1,0 +1,5 @@
+27,19,11
+silence,1
+pact,1
+till,1
+meeting,1

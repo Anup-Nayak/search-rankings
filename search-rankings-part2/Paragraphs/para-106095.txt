@@ -1,0 +1,12 @@
+31,223,12
+forced,1
+on,1
+him,1
+finding,1
+the,1
+brahmin,1
+wayworn,1
+hungry,1
+and,2
+thirsty,1
+almost,1

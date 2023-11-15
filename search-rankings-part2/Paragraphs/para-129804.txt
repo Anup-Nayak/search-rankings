@@ -1,0 +1,13 @@
+38,85,14
+weekly,1
+the,2
+writer,1
+is,1
+frank,1
+and,2
+obviously,1
+in,1
+earnest,1
+reflects,1
+prevalent,1
+mood,1

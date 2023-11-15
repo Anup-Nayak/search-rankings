@@ -1,0 +1,10 @@
+76,422,11
+enjoyment,1
+of,2
+civic,1
+rights,1
+in,1
+respect,1
+wells,1
+hotels,1
+etc,1

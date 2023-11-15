@@ -1,0 +1,16 @@
+30,315,12
+dear,1
+haribhau,1
+6,1
+i,3
+have,1
+read,1
+your,1
+article,1
+about,1
+birth,1
+control,1
+am,1
+afraid,1
+if,1
+write,1

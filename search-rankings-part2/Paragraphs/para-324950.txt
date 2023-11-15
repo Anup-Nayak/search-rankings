@@ -1,0 +1,11 @@
+85,120,2
+blessings,1
+from,1
+bapu,1
+ps,1
+you,1
+will,1
+get,1
+rs,1
+3,1
+500,1

@@ -1,0 +1,4 @@
+43,72,6
+78,1
+mistaken,1
+humanity,1

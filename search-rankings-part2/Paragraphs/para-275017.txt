@@ -1,0 +1,6 @@
+73,404,13
+1,1
+editor,1
+swatantra,1
+sangu,1
+madras,1

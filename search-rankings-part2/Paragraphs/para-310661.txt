@@ -1,0 +1,7 @@
+82,70,11
+1,1
+meaning,1
+advice,1
+to,1
+a,1
+mother,1

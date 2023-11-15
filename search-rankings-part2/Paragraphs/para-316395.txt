@@ -1,0 +1,17 @@
+83,50,4
+4,1
+that,2
+you,1
+said,1
+to,1
+certain,1
+sikhs,1
+they,1
+should,1
+either,1
+follow,1
+guru,1
+govind,1
+singh,1
+or,1
+yourself,1

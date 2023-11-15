@@ -1,0 +1,7 @@
+38,153,4
+on,1
+tour,1
+gulbarga,1
+february,1
+22,1
+1927,1

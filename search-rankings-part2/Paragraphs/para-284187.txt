@@ -1,0 +1,9 @@
+76,35,5
+from,1
+gujarati,1
+c,1
+w,1
+9828,1
+courtesy,1
+kapilrai,1
+parekh,1

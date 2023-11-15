@@ -1,0 +1,6 @@
+8,175,2
+i,1
+did,1
+not,1
+show,1
+patience,1

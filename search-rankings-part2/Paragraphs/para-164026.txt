@@ -1,0 +1,7 @@
+47,194,5
+216,1
+answer,1
+to,1
+the,1
+englishman,1
+1,1

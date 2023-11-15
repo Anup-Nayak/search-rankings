@@ -1,0 +1,8 @@
+78,49,9
+imposition,1
+situation,1
+now,1
+baffling,1
+was,1
+not,1
+so,1

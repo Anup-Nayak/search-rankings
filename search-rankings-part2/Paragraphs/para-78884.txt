@@ -1,0 +1,12 @@
+23,78,7
+object,1
+of,1
+winning,1
+swaraj,1
+for,2
+itself,1
+without,1
+waiting,1
+other,2
+provinces,1
+and,1

@@ -1,0 +1,11 @@
+78,309,6
+from,1
+a,1
+photostat,1
+c,1
+w,1
+4521,1
+courtesy,1
+richard,1
+b,1
+gregg,1

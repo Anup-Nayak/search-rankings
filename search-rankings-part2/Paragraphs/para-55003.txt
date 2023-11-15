@@ -1,0 +1,8 @@
+16,18,3
+from,1
+facsimile,1
+published,1
+in,1
+mahatma,1
+vol,1
+i,1

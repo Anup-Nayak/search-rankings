@@ -1,0 +1,10 @@
+11,304,24
+laws,1
+and,1
+which,1
+is,1
+to,2
+be,1
+passed,1
+largely,1
+satisfy,1

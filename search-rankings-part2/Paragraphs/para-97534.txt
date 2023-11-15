@@ -1,0 +1,5 @@
+29,8,7
+foreign,1
+v,1
+swadeshi,1
+sugar,1

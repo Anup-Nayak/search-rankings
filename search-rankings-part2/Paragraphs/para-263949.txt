@@ -1,0 +1,15 @@
+71,62,5
+q,1
+if,1
+we,1
+are,2
+to,1
+do,1
+tanning,1
+and,1
+scavenging,1
+which,1
+the,1
+occupations,1
+of,1
+our,1

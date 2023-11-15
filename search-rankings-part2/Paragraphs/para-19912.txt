@@ -1,0 +1,4 @@
+7,17,4
+attack,1
+on,1
+hawkers,1

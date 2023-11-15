@@ -1,0 +1,11 @@
+59,419,3
+m,1
+k,1
+gandhi,1
+kunwar,1
+diwakar,1
+singh,1
+3,1
+canning,1
+road,1
+allahabad,1

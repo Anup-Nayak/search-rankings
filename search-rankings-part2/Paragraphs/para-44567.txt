@@ -1,0 +1,10 @@
+13,368,10
+that,1
+mr,1
+fischer,1
+was,1
+not,1
+to,1
+be,1
+taken,1
+seriously,1

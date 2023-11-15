@@ -1,0 +1,6 @@
+68,348,8
+hindi,1
+sangrahalaya,1
+sankshipta,1
+parichaya,1
+p,1

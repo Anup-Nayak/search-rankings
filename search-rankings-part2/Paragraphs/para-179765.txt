@@ -1,0 +1,15 @@
+51,194,12
+points,1
+he,1
+was,1
+unable,1
+to,2
+agree,1
+with,1
+the,1
+government,1
+attitude,1
+we,1
+soon,1
+came,1
+a,1

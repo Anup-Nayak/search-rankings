@@ -1,0 +1,13 @@
+90,235,2
+1,1
+this,1
+sentence,1
+is,1
+from,1
+the,1
+hidustan,1
+times,1
+2,1
+ram,1
+manohar,1
+lohia,1

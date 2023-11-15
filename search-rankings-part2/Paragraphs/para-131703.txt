@@ -1,0 +1,5 @@
+38,323,4
+khaddar,1
+and,1
+prem,1
+mahavidyalaya,1

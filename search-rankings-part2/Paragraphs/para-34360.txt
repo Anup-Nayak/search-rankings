@@ -1,0 +1,7 @@
+11,93,10
+grants,1
+by,1
+refusing,1
+registration,1
+on,1
+majority,1

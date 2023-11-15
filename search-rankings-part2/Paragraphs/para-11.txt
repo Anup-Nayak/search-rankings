@@ -1,0 +1,6 @@
+1,1,2
+london,1
+friday,1
+november,1
+9,1
+1888,1

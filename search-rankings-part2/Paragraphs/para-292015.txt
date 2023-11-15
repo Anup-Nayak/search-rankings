@@ -1,0 +1,14 @@
+78,40,10
+a,4
+i,1
+s,1
+khadi,1
+bhandar,1
+such,1
+bank,2
+would,1
+differ,1
+from,1
+money,1
+in,1
+that,1

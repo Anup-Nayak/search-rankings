@@ -1,0 +1,8 @@
+13,46,5
+contrary,1
+to,1
+a,1
+provisional,1
+settlement,1
+several,1
+existing,1

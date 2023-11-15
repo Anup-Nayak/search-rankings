@@ -1,0 +1,8 @@
+13,430,5
+insulting,1
+they,1
+decline,1
+take,1
+complaints,1
+native,1
+warders,1

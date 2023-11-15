@@ -1,0 +1,5 @@
+10,310,9
+the,1
+first,1
+step,1
+tolstoy,1

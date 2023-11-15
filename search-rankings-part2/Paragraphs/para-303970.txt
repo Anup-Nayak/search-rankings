@@ -1,0 +1,7 @@
+80,392,1
+680,1
+letter,1
+to,1
+sheikh,1
+mohammed,1
+abdullah,1

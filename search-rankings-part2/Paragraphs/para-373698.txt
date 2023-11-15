@@ -1,0 +1,11 @@
+97,10,4
+from,1
+a,1
+gujarati,1
+original,1
+c,1
+w,1
+10731,1
+courtesy,1
+gomatibehn,1
+mashruwala,1

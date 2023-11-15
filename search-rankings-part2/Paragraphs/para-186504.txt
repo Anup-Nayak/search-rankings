@@ -1,0 +1,4 @@
+52,471,13
+government,1
+house,1
+mahabaleshwar,1

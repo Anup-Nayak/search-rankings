@@ -1,0 +1,8 @@
+76,350,12
+weaving,1
+rs,2
+1,2
+718,1
+establishment,1
+charges,1
+375,1

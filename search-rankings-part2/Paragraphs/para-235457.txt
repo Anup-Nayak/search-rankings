@@ -1,0 +1,8 @@
+64,227,24
+his,1
+tour,1
+in,1
+the,1
+provinces,1
+was,1
+concluded,1

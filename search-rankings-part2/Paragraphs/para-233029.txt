@@ -1,0 +1,17 @@
+63,484,8
+in,1
+a,1
+letter,1
+dated,1
+2nd,1
+inst,1
+the,1
+maharaja,1
+bahadur,1
+of,1
+gidhour,1
+writes,1
+to,1
+me,1
+as,1
+follows,1

@@ -1,0 +1,10 @@
+78,274,7
+from,1
+a,1
+phoststat,1
+of,1
+the,1
+hindi,1
+g,1
+n,1
+3012,1

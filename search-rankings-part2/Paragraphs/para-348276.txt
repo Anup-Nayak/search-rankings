@@ -1,0 +1,11 @@
+90,198,8
+but,1
+the,1
+situation,1
+has,1
+changed,1
+today,1
+we,1
+have,1
+gone,1
+wrong,1

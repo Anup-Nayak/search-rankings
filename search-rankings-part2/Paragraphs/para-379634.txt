@@ -1,0 +1,14 @@
+98,344,2
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+8852,1
+courtesy,1
+maganbhai,1
+s,1
+patel,1

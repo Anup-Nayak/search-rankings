@@ -1,0 +1,6 @@
+72,128,4
+178,1
+against,1
+ahimsa,1
+and,1
+truth,1

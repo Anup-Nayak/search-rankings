@@ -1,0 +1,15 @@
+35,239,1
+ween,1
+rs,3
+21,1
+2,1
+and,1
+3,2
+payment,1
+is,1
+at,1
+the,2
+rate,1
+of,1
+only,1
+if,1

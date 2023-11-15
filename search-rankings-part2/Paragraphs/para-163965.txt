@@ -1,0 +1,7 @@
+47,187,6
+207,1
+letter,1
+to,1
+frederick,1
+b,1
+fisher,1

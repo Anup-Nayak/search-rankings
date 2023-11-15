@@ -1,0 +1,14 @@
+3,17,9
+the,4
+humble,1
+petition,1
+of,2
+undersigned,1
+representing,1
+british,1
+indian,1
+community,1
+residing,1
+in,1
+colony,1
+natal,1

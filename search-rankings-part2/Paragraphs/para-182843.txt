@@ -1,0 +1,4 @@
+52,79,2
+mohandas,1
+from,1
+hindi,1

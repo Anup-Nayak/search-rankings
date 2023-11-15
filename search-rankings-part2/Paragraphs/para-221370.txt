@@ -1,0 +1,8 @@
+61,28,7
+6,1
+have,1
+no,1
+brahmin,1
+priests,1
+at,1
+all,1

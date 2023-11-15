@@ -1,0 +1,6 @@
+45,2,4
+3,1
+letter,1
+to,1
+purushottam,1
+gandhi,1

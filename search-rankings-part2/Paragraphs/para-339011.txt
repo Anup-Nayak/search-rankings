@@ -1,0 +1,5 @@
+88,85,16
+my,1
+dear,1
+big,1
+brother,1

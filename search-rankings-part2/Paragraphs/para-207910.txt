@@ -1,0 +1,10 @@
+58,67,15
+opinion,1
+regarding,1
+the,2
+authority,1
+of,1
+shastras,1
+on,1
+this,1
+question,1

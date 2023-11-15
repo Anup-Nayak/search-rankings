@@ -1,0 +1,8 @@
+26,43,1
+19,1
+speech,1
+at,1
+bardoli,1
+taluka,1
+conference,1
+1,1

@@ -1,0 +1,14 @@
+52,461,3
+i,2
+asked,1
+him,1
+what,1
+his,1
+friends,1
+thought,1
+about,1
+this,1
+matter,1
+and,1
+understood,1
+that,1

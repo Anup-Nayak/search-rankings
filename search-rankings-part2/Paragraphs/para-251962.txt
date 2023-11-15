@@ -1,0 +1,7 @@
+68,82,1
+for,1
+nothing,1
+love,1
+to,1
+you,1
+all,1

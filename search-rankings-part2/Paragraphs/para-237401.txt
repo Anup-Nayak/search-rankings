@@ -1,0 +1,5 @@
+64,453,2
+resolution,1
+on,1
+swadeshi,1
+1,1

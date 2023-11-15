@@ -1,0 +1,7 @@
+24,432,8
+work,1
+is,1
+more,1
+excellent,1
+than,1
+idleness,1

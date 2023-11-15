@@ -1,0 +1,6 @@
+66,255,3
+368,1
+unpolished,1
+rice,2
+v,1
+polished,1

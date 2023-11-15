@@ -1,0 +1,10 @@
+95,83,6
+bapu,1
+miss,1
+gladys,1
+owen,1
+nur,1
+manzil,1
+lal,1
+bagh,1
+lucknow,1

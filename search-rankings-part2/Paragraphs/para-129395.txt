@@ -1,0 +1,12 @@
+38,32,1
+tapasya,1
+self,1
+denying,1
+effort,1
+right,1
+knowledge,1
+of,2
+the,2
+essential,1
+features,1
+true,1

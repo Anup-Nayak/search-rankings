@@ -1,0 +1,11 @@
+6,19,9
+yours,1
+faithfully,1
+2,1
+enclosures,1
+sir,1
+william,1
+wedderburn,1
+bart,1
+meredith,1
+gloucester,1

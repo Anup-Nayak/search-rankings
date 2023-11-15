@@ -1,0 +1,9 @@
+6,67,13
+2,1
+editor,1
+of,1
+lahore,1
+observer,1
+and,1
+urdu,2
+3,1

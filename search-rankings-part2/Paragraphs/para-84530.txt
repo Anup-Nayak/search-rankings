@@ -1,0 +1,12 @@
+25,55,8
+1,1
+read,1
+in,1
+bellows,1
+journal,1
+of,1
+political,1
+mission,1
+to,1
+afghanistan,1
+that,1

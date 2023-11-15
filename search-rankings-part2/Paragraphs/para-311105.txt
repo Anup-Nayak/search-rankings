@@ -1,0 +1,17 @@
+82,103,22
+beginning,1
+of,1
+the,1
+last,1
+war,2
+in,1
+which,1
+he,1
+lost,1
+his,1
+life,1
+if,1
+you,1
+can,1
+stop,1
+with,1

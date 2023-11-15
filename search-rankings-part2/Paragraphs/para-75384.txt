@@ -1,0 +1,13 @@
+21,499,26
+position,2
+i,2
+being,1
+a,1
+christian,1
+was,1
+in,1
+the,2
+first,2
+and,2
+took,1
+course,1

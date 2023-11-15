@@ -1,0 +1,6 @@
+42,467,12
+a,1
+release,1
+all,1
+satyagrahi,1
+prisoners,1

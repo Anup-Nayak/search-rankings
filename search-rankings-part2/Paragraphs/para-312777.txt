@@ -1,0 +1,14 @@
+82,244,5
+quieter,1
+meeting,1
+in,1
+my,1
+life,1
+the,1
+position,1
+we,1
+took,1
+therefore,1
+viz,1
+that,1
+there,1

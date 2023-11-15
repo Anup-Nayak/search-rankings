@@ -1,0 +1,7 @@
+15,197,4
+146,1
+speech,1
+at,2
+reception,1
+badin,1
+sind,1

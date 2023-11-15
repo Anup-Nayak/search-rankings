@@ -1,0 +1,8 @@
+15,319,3
+245,1
+speech,1
+at,2
+anti,1
+indenture,1
+meeting,1
+karachi,1

@@ -1,0 +1,10 @@
+37,31,9
+the,1
+lamp,1
+cannot,1
+conceal,1
+its,1
+own,1
+light,1
+within,1
+itself,1

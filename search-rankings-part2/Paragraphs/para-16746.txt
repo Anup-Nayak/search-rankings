@@ -1,0 +1,13 @@
+6,145,5
+an,1
+alien,1
+from,1
+southern,1
+europe,1
+or,1
+russia,1
+the,2
+question,1
+however,1
+that,1
+british,1

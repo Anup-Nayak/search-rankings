@@ -1,0 +1,4 @@
+92,71,17
+dignity,1
+success,1
+certain,1

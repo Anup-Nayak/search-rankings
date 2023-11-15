@@ -1,0 +1,10 @@
+89,105,7
+sadhu,1
+charandas,1
+head,1
+master,1
+board,1
+high,1
+school,1
+surada,1
+ganjam,1

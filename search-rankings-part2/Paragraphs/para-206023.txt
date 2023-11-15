@@ -1,0 +1,11 @@
+57,310,13
+it,1
+is,1
+painful,1
+surprise,1
+to,1
+me,1
+that,1
+my,1
+letter,1
+of,1

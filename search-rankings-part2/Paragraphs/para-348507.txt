@@ -1,0 +1,14 @@
+90,222,14
+c,1
+but,1
+surely,1
+if,1
+bad,1
+law,1
+was,1
+perpetrated,1
+in,1
+the,1
+past,1
+you,1
+would,1

@@ -1,0 +1,13 @@
+24,116,8
+1,1
+a,1
+gujarati,1
+educationist,1
+2,1
+one,1
+of,1
+the,1
+communities,1
+regarded,1
+as,1
+untouchables,1

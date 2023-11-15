@@ -1,0 +1,9 @@
+72,212,7
+relief,1
+please,1
+end,1
+national,1
+anxiety,1
+by,1
+suspending,1
+strike,1

@@ -1,0 +1,8 @@
+76,293,4
+1,1
+that,1
+is,1
+those,1
+who,1
+have,1
+migrated,1

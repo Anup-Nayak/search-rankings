@@ -1,0 +1,16 @@
+72,20,4
+i,2
+hope,1
+your,1
+sister,1
+is,1
+now,1
+free,1
+from,1
+fever,1
+am,1
+in,1
+no,1
+hurry,1
+about,1
+ministers,1

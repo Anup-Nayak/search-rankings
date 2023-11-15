@@ -1,0 +1,10 @@
+19,464,15
+both,1
+for,1
+themselves,1
+and,1
+those,1
+who,1
+call,1
+them,1
+friend,1

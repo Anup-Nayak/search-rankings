@@ -1,0 +1,6 @@
+86,29,6
+57,1
+letter,1
+to,1
+baba,1
+moghe,1

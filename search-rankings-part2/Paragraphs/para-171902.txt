@@ -1,0 +1,13 @@
+49,287,6
+bapu,1
+chi,1
+manibehn,2
+patel,1
+nadiad,1
+from,1
+gujarati,1
+bapuna,1
+patro,1
+4,1
+patelne,1
+p,1

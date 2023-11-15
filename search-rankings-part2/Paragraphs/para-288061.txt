@@ -1,0 +1,6 @@
+77,15,10
+23,1
+letter,1
+to,1
+jaisukhlal,1
+gandhi,1

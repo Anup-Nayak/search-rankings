@@ -1,0 +1,8 @@
+78,149,11
+begin,1
+with,1
+a,1
+charter,1
+of,2
+duties,1
+man,1

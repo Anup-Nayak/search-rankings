@@ -1,0 +1,17 @@
+6,536,1
+2,1
+uses,1
+or,4
+attempts,1
+to,2
+use,2
+incites,1
+any,3
+person,2
+aids,1
+abets,1
+in,1
+using,1
+permit,1
+so,1
+obtained,1

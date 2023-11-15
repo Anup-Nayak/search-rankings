@@ -1,0 +1,16 @@
+49,464,6
+express,1
+en,1
+route,1
+for,1
+borivli,1
+whence,1
+he,1
+was,1
+to,2
+be,1
+taken,1
+by,1
+motor,1
+the,1
+yeravda,1

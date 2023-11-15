@@ -1,0 +1,13 @@
+82,398,35
+axis,1
+win,2
+i,1
+think,1
+we,2
+have,1
+a,2
+chance,1
+for,1
+better,1
+world,1
+if,1

@@ -1,0 +1,8 @@
+5,319,7
+1,2
+vide,1
+colonial,1
+indians,1
+note,1
+9,1
+1906,1

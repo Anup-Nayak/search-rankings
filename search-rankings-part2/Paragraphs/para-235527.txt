@@ -1,0 +1,13 @@
+64,234,10
+purposes,1
+of,1
+franchise,1
+was,3
+not,1
+deleted,1
+when,1
+it,2
+found,1
+that,1
+impracticable,1
+to,1

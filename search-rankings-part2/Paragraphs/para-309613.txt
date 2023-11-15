@@ -1,0 +1,4 @@
+81,490,2
+hindu,1
+muslim,1
+puzzle,1

@@ -1,0 +1,13 @@
+45,227,5
+i,1
+have,1
+really,1
+less,1
+courage,1
+to,1
+speak,1
+about,1
+the,1
+terrible,1
+curse,1
+of,1

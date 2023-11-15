@@ -1,0 +1,12 @@
+46,157,26
+drink,1
+evil,1
+on,1
+a,1
+large,1
+scale,1
+exists,1
+among,1
+labourers,1
+and,1
+agriculturists,1

@@ -1,0 +1,16 @@
+34,372,15
+mans,1
+creation,1
+can,1
+be,1
+beautiful,1
+in,1
+so,1
+far,1
+as,1
+he,1
+has,1
+given,1
+himself,1
+to,1
+his,1

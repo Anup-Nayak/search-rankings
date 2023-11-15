@@ -1,0 +1,8 @@
+85,138,10
+197,1
+draft,1
+resolution,1
+for,1
+hindustani,1
+prachar,1
+sabha,1

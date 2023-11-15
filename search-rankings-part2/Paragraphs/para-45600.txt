@@ -1,0 +1,8 @@
+13,452,30
+of,1
+tax,1
+matter,1
+is,1
+still,1
+under,1
+consideration,1

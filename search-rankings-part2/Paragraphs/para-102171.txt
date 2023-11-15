@@ -1,0 +1,6 @@
+30,138,4
+70,1
+letter,1
+to,1
+revashanker,1
+zaveri,1

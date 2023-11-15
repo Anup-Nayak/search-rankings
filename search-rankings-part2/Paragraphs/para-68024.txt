@@ -1,0 +1,4 @@
+19,292,13
+was,1
+not,1
+justified,1

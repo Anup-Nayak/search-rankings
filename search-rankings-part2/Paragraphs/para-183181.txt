@@ -1,0 +1,15 @@
+52,118,10
+q,1
+and,1
+the,2
+hindu,1
+muslim,1
+question,1
+what,1
+do,1
+you,1
+think,1
+of,1
+steps,1
+taken,1
+at,1

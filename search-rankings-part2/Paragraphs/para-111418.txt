@@ -1,0 +1,5 @@
+33,98,3
+57,1
+about,1
+educated,1
+classes,1

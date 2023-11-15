@@ -1,0 +1,8 @@
+39,498,14
+character,1
+ansaris,1
+statement,1
+and,1
+appealing,1
+him,1
+follow,1

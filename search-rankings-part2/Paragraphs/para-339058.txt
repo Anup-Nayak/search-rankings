@@ -1,0 +1,8 @@
+88,90,4
+bapu,1
+prof,1
+duncan,1
+greenlees,1
+bhimlipatam,1
+vizag,1
+district,1

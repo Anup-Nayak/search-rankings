@@ -1,0 +1,4 @@
+18,463,6
+1,1
+evil,1
+resistance,1

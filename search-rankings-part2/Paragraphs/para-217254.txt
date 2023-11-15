@@ -1,0 +1,4 @@
+60,10,6
+what,1
+they,1
+teach,1

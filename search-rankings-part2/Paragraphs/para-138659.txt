@@ -1,0 +1,10 @@
+40,366,8
+256,1
+speech,1
+in,1
+reply,1
+to,1
+buddhists,1
+address,1
+3,1
+colombo,1

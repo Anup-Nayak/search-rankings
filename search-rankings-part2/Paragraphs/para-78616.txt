@@ -1,0 +1,14 @@
+23,25,5
+offence,1
+against,1
+their,1
+country,1
+to,1
+wear,1
+foreign,1
+made,2
+clothes,1
+and,1
+discard,1
+those,1
+in,1

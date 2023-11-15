@@ -1,0 +1,10 @@
+30,340,10
+blessings,1
+from,1
+mohandas,1
+bhaishri,1
+amritlal,1
+khetsi,1
+near,1
+kanyashala,1
+dhrangadhra,1

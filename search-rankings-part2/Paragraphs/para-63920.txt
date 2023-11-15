@@ -1,0 +1,4 @@
+18,155,5
+translated,1
+from,1
+gujarati,1

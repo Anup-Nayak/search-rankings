@@ -1,0 +1,7 @@
+57,246,12
+parties,1
+concerned,1
+will,1
+be,1
+acceptable,1
+therefore,1

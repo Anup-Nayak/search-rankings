@@ -1,0 +1,6 @@
+15,107,10
+june,1
+23,1
+wednesday,1
+nothing,1
+new,1

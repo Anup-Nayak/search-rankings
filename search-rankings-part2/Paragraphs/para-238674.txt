@@ -1,0 +1,7 @@
+65,128,1
+160,1
+letter,1
+to,1
+cyril,1
+j,1
+modak,1

@@ -1,0 +1,5 @@
+63,483,5
+536,1
+speech,1
+at,1
+shivalichak,1

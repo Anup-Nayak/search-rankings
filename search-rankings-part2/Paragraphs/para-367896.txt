@@ -1,0 +1,13 @@
+95,159,4
+the,1
+answer,1
+depended,1
+gandhiji,1
+replied,1
+on,1
+which,1
+side,1
+india,1
+threw,1
+her,1
+weight,1

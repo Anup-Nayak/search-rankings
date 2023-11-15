@@ -1,0 +1,11 @@
+19,193,3
+there,1
+are,1
+again,1
+i,1
+am,1
+quoting,1
+from,1
+the,1
+declaration,1
+unfortunately,1

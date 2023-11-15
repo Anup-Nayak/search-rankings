@@ -1,0 +1,10 @@
+66,268,3
+a,1
+i,1
+would,1
+not,1
+mind,1
+working,1
+eight,1
+hours,1
+myself,1

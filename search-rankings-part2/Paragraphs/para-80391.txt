@@ -1,0 +1,5 @@
+23,348,2
+158,1
+the,1
+turkish,1
+question,1

@@ -1,0 +1,12 @@
+37,283,5
+who,2
+is,1
+same,1
+to,1
+foe,1
+and,2
+friend,1
+regards,1
+alike,1
+respect,1
+disrespect,1

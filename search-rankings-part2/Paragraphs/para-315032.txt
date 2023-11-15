@@ -1,0 +1,16 @@
+82,395,19
+let,1
+me,1
+take,2
+churchill,1
+l,1
+f,1
+no,1
+you,1
+neednt,1
+hesitate,1
+to,1
+roosevelt,1
+as,1
+an,1
+example,1

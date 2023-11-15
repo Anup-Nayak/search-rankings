@@ -1,0 +1,14 @@
+6,145,7
+shopkeepers,1
+as,1
+against,1
+british,1
+subjects,1
+that,1
+is,1
+really,1
+the,1
+whole,1
+point,1
+whether,1
+we,1

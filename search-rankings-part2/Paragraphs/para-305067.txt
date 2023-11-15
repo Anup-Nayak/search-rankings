@@ -1,0 +1,7 @@
+80,487,20
+b,1
+the,1
+muslims,1
+are,1
+frankly,1
+aggressive,1

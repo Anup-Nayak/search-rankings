@@ -1,0 +1,10 @@
+85,167,7
+255,1
+letter,1
+to,1
+general,1
+secretary,1
+kurnool,1
+district,1
+congress,1
+committee,1

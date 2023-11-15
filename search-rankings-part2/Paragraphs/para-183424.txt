@@ -1,0 +1,5 @@
+52,141,4
+to,1
+the,1
+editor,1
+samachar,1

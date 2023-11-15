@@ -1,0 +1,6 @@
+59,396,1
+548,1
+resist,1
+untruth,1
+with,1
+truth,1

@@ -1,0 +1,10 @@
+14,425,7
+360,1
+speech,1
+at,1
+lakshmi,1
+memorial,1
+arya,1
+pathshala,1
+madras,1
+1,1

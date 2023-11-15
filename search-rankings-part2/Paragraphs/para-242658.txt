@@ -1,0 +1,10 @@
+66,77,3
+but,1
+if,1
+it,1
+was,1
+a,1
+pure,1
+case,1
+of,1
+conscience,1

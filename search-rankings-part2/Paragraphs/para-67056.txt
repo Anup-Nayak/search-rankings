@@ -1,0 +1,4 @@
+19,180,4
+1,1
+vaishnava,1
+temples,1

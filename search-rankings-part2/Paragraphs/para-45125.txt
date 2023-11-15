@@ -1,0 +1,9 @@
+13,426,25
+in,1
+thousands,1
+en,1
+route,1
+stop,1
+meeting,1
+warned,1
+expect,1

@@ -1,0 +1,3 @@
+82,150,5
+bewildering,1
+conflict,1

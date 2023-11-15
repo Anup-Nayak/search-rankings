@@ -1,0 +1,14 @@
+19,190,10
+unfortunate,1
+in,1
+that,2
+he,2
+could,1
+not,1
+address,1
+the,1
+conference,1
+at,1
+stage,1
+but,1
+appealed,1

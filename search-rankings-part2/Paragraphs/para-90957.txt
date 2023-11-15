@@ -1,0 +1,16 @@
+27,79,6
+from,1
+a,1
+photostat,1
+of,1
+the,1
+typewritten,1
+office,1
+copy,1
+s,1
+n,1
+8525,1
+also,1
+c,1
+w,1
+5118,1

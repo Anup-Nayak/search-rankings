@@ -1,0 +1,13 @@
+96,291,6
+where,1
+every,1
+boer,1
+was,2
+a,1
+first,1
+class,1
+soldier,1
+when,1
+soldiering,1
+necessary,1
+otherwise,1

@@ -1,0 +1,6 @@
+27,72,4
+71,1
+letter,1
+to,1
+mangal,1
+singh,1

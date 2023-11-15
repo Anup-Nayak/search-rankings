@@ -1,0 +1,7 @@
+96,105,1
+157,1
+letter,1
+to,1
+nripendra,1
+nath,1
+bose,1

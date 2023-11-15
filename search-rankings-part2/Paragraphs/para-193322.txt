@@ -1,0 +1,14 @@
+54,328,4
+q,1
+if,1
+you,2
+were,1
+in,1
+power,1
+would,1
+allow,1
+another,1
+organization,1
+to,1
+run,1
+a,1

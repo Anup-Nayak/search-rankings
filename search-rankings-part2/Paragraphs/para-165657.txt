@@ -1,0 +1,14 @@
+47,379,8
+1,1
+vide,2
+all,1
+parties,1
+leaders,1
+joint,1
+statement,2
+2,2
+11,1
+1929,2
+viceroys,1
+31,1
+10,1

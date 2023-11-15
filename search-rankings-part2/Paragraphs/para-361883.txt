@@ -1,0 +1,12 @@
+93,305,10
+1,1
+one,1
+word,1
+here,1
+is,1
+illegible,1
+2,1
+extracted,1
+from,1
+srirampur,1
+diary,1

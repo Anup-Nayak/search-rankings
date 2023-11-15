@@ -1,0 +1,14 @@
+82,171,8
+parsi,1
+baronet,1
+the,4
+tatas,1
+wadias,1
+birlas,1
+shri,1
+bajaj,1
+and,1
+like,1
+is,1
+that,1
+so,1

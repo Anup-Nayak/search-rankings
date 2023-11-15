@@ -1,0 +1,16 @@
+45,63,1
+i,1
+have,2
+been,1
+doing,1
+quite,1
+well,1
+without,1
+goats,1
+milk,1
+and,1
+may,1
+no,1
+difficulty,1
+at,1
+all,1

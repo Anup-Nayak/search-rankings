@@ -1,0 +1,4 @@
+3,42,8
+the,1
+indian,1
+case,1

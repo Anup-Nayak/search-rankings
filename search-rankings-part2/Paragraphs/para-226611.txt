@@ -1,0 +1,13 @@
+62,110,1
+good,2
+and,2
+evil,2
+are,1
+our,1
+own,1
+imperfect,1
+language,1
+god,1
+is,1
+above,1
+both,1

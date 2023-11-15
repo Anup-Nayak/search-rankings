@@ -1,0 +1,7 @@
+64,248,6
+sardar,1
+vallabhbhai,1
+patel,1
+vol,1
+ii,1
+p,1

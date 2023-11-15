@@ -1,0 +1,8 @@
+6,192,7
+187,1
+ritchs,1
+speech,1
+at,1
+east,1
+india,1
+association3,1

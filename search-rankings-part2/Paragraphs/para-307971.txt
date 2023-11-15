@@ -1,0 +1,7 @@
+81,279,1
+496,1
+letter,1
+to,1
+abdul,1
+ghaffar,1
+khan,1

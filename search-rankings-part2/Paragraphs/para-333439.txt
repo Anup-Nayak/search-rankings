@@ -1,0 +1,10 @@
+87,17,3
+bapu,1
+kundar,1
+diwan,1
+m,1
+s,1
+mandal,1
+dattapur,1
+nalwadi,1
+wardha,1

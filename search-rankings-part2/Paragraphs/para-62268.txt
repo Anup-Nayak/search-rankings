@@ -1,0 +1,5 @@
+17,410,8
+3,1
+opposite,1
+of,1
+satyagraha,1

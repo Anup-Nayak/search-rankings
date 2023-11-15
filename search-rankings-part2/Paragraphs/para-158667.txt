@@ -1,0 +1,14 @@
+46,46,1
+there,1
+are,2
+65,1
+looms,1
+in,1
+this,1
+village,1
+twenty,1
+six,1
+of,1
+these,1
+ordinary,1
+pit,1

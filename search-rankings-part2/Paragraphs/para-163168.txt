@@ -1,0 +1,6 @@
+47,92,10
+105,1
+letter,1
+to,1
+evelyn,1
+gedge,1

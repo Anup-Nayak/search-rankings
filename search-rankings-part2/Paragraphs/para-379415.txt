@@ -1,0 +1,9 @@
+98,317,6
+you,1
+mean,1
+to,1
+say,1
+that,1
+power,1
+always,1
+corrupts,1

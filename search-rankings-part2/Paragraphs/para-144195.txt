@@ -1,0 +1,7 @@
+42,157,7
+176,1
+letter,1
+to,1
+ramlal,1
+balaram,1
+bajpai,1

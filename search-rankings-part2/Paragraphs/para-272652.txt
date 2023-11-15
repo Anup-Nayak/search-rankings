@@ -1,0 +1,5 @@
+73,147,3
+160,1
+speech,1
+at,1
+charsadda4,1

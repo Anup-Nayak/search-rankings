@@ -1,0 +1,6 @@
+46,242,6
+188,1
+letter,1
+to,1
+c,1
+satyanarayan,1

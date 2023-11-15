@@ -1,0 +1,13 @@
+96,430,7
+do,2
+only,1
+what,1
+appeals,1
+to,2
+you,1
+nothing,2
+is,1
+certain,1
+about,1
+me,2
+please,1

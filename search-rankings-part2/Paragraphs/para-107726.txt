@@ -1,0 +1,8 @@
+31,459,2
+287,1
+ayurvedic,1
+system,1
+kaviraj,1
+gananath,1
+sen,1
+writes,1

@@ -1,0 +1,12 @@
+87,402,4
+blessings,1
+from,1
+bapu,1
+mrs,1
+satyamurthi,1
+camp,1
+haripad,1
+matom,1
+kottayam,1
+s,1
+i,1

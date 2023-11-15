@@ -1,0 +1,11 @@
+14,452,9
+the,1
+ashram,1
+consists,1
+of,1
+three,1
+classes,1
+controllers,1
+novitiates,1
+and,1
+students,1

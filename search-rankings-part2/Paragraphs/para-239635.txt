@@ -1,0 +1,4 @@
+65,242,1
+allowed,1
+indirect,1
+election,1

@@ -1,0 +1,5 @@
+70,318,3
+342,1
+speech,1
+at,1
+etamanoor,1

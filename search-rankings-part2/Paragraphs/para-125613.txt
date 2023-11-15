@@ -1,0 +1,7 @@
+36,496,5
+dr,1
+saifuddin,1
+kitchlew,1
+syed,1
+abdullah,1
+brelvi,1

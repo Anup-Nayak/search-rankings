@@ -1,0 +1,7 @@
+78,88,4
+86,1
+every,1
+congress,1
+committee,2
+a,1
+satyagraha,1

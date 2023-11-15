@@ -1,0 +1,5 @@
+92,51,1
+77,1
+english,1
+into,1
+hindustani,1

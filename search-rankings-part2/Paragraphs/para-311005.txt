@@ -1,0 +1,13 @@
+82,96,11
+it,1
+will,1
+lead,1
+to,1
+the,2
+disappearance,1
+of,1
+minority,1
+religions,1
+isnt,1
+league,1
+agitating,1

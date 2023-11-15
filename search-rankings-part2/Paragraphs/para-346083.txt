@@ -1,0 +1,5 @@
+89,398,9
+blessings,1
+from,2
+bapu,1
+gujarati,1

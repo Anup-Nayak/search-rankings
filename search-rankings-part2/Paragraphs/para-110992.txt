@@ -1,0 +1,16 @@
+33,20,27
+grim,1
+poverty,1
+in,1
+the,2
+land,1
+and,1
+thus,1
+they,1
+were,1
+brought,1
+face,2
+to,1
+with,1
+only,1
+feasible,1

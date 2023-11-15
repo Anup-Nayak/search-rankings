@@ -1,0 +1,17 @@
+13,454,9
+b,1
+any,2
+person,1
+who,1
+is,1
+unable,1
+by,1
+reason,1
+of,1
+deficient,1
+education,1
+to,1
+read,1
+and,1
+write,1
+european,1

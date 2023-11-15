@@ -1,0 +1,10 @@
+13,448,21
+there,1
+is,1
+no,1
+settled,1
+asiatic,1
+community,1
+in,1
+free,1
+state,1

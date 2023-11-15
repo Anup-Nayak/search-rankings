@@ -1,0 +1,11 @@
+50,310,4
+bapu,1
+ps,1
+i,1
+am,2
+well,1
+but,1
+not,1
+taking,1
+fresh,1
+fruit,1

@@ -1,0 +1,17 @@
+94,115,5
+people,1
+might,1
+naturally,1
+be,2
+interested,1
+to,1
+learn,1
+why,1
+had,1
+gone,1
+there,1
+for,1
+him,1
+it,1
+was,1
+a,1

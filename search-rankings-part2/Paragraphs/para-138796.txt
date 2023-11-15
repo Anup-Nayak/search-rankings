@@ -1,0 +1,6 @@
+40,402,3
+271,1
+about,1
+the,1
+charkha,1
+sangh,1

@@ -1,0 +1,6 @@
+34,418,6
+161,1
+letter,1
+to,1
+punja,1
+shravan,1

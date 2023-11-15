@@ -1,0 +1,6 @@
+72,392,6
+1,1
+vijayalakshmi,1
+pandit,1
+addressees,1
+sister,1

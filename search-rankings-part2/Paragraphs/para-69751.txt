@@ -1,0 +1,8 @@
+20,31,10
+khan,2
+zulfikar,1
+ali,1
+surgeon,1
+general,1
+w,1
+r,1

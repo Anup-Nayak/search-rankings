@@ -1,0 +1,9 @@
+59,284,14
+1,2
+vide,1
+letter,1
+to,1
+duncan,1
+greenless,1
+2,1
+1933,1

@@ -1,0 +1,6 @@
+86,117,4
+217,1
+telegram,1
+to,1
+viyogi,1
+hari,1

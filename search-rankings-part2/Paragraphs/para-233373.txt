@@ -1,0 +1,9 @@
+64,6,9
+bapu,1
+ps,1
+enclosed,1
+1,1
+for,1
+lalji,1
+living,1
+there,1

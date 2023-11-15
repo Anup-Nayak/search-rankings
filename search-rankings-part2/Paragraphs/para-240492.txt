@@ -1,0 +1,13 @@
+65,332,13
+shri,1
+n,1
+s,1
+bengali,1
+b,1
+sc,1
+l,1
+t,1
+karandikars,1
+bungalow,1
+dhantoli,1
+nagpur,1

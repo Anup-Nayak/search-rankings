@@ -1,0 +1,8 @@
+64,172,3
+216,1
+speech,1
+at,1
+women,1
+students,1
+meeting,1
+lahore,1

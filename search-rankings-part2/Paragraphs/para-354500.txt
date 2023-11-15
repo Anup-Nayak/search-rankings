@@ -1,0 +1,16 @@
+91,438,30
+knew,1
+all,1
+about,1
+the,3
+statement,1
+he,1
+said,1
+it,1
+did,1
+not,1
+alter,1
+facts,1
+and,1
+that,1
+europeans,1

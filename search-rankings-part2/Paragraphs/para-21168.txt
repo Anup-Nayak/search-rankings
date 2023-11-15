@@ -1,0 +1,11 @@
+7,193,4
+2,1
+vide,1
+letter,1
+to,1
+johannesburg,1
+municipality,1
+before,1
+1,1
+9,1
+1907,1

@@ -1,0 +1,16 @@
+19,95,6
+1,2
+the,2
+year,1
+has,1
+been,1
+inferred,1
+from,1
+contents,1
+gandhiji,1
+left,1
+delhi,1
+for,1
+lahore,1
+on,1
+november,1

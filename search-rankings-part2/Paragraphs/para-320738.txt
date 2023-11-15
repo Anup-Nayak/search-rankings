@@ -1,0 +1,17 @@
+84,147,7
+1,1
+in,1
+the,3
+source,1
+interview,1
+appeared,1
+as,1
+second,1
+statement,1
+and,1
+followed,1
+gandhijis,1
+version,1
+vide,1
+preceding,1
+item,1

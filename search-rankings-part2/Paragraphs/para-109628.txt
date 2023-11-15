@@ -1,0 +1,13 @@
+32,310,11
+wearing,1
+they,1
+are,2
+going,1
+to,1
+raise,1
+an,1
+opposition,1
+against,1
+and,1
+sure,1
+though,1

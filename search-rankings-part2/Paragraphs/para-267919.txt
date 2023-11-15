@@ -1,0 +1,7 @@
+72,101,5
+amtul,1
+salaam,1
+harijan,1
+sevak,1
+sangh,1
+trivandrum,1

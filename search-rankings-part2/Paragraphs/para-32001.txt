@@ -1,0 +1,7 @@
+10,310,13
+civilization,1
+its,1
+cause,1
+and,1
+cure,1
+carpenter,1

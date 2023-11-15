@@ -1,0 +1,10 @@
+36,123,3
+the,3
+celebrated,1
+verses,1
+of,2
+poet,1
+echo,1
+these,1
+remarks,1
+philosopher,1

@@ -1,0 +1,15 @@
+59,85,12
+1,1
+the,1
+addressee,1
+was,1
+doing,1
+social,1
+work,1
+among,1
+harijans,1
+at,1
+vadaj,1
+near,1
+sabarmati,1
+ashram,1

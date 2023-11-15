@@ -1,0 +1,11 @@
+40,197,12
+1,1
+from,1
+the,3
+reference,1
+to,1
+addressees,1
+colds,1
+vide,1
+preceding,1
+item,1

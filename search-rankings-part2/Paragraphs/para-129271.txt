@@ -1,0 +1,5 @@
+38,17,1
+khadi,1
+board,1
+of,1
+studies,1

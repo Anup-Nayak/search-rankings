@@ -1,0 +1,6 @@
+20,441,4
+god,1
+save,1
+the,1
+king,1
+emperor,1

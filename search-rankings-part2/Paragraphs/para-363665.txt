@@ -1,0 +1,9 @@
+94,64,6
+i,1
+do,1
+not,1
+want,1
+to,1
+lose,1
+you,1
+personally,1

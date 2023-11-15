@@ -1,0 +1,11 @@
+18,152,1
+136,1
+speech,1
+at,1
+foundation,1
+laying,1
+of,1
+vanita,1
+vishram,1
+ahmedabad,1
+1,1

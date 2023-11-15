@@ -1,0 +1,13 @@
+85,175,2
+blessings,1
+from,1
+m,1
+k,1
+gandhi,1
+brahmakumar,1
+bhatt,1
+national,1
+students,1
+union,1
+raipur,1
+ahmedabad,1

@@ -1,0 +1,11 @@
+7,418,4
+date,1
+of,1
+issue,1
+name,1
+in,1
+full,1
+race,1
+caste,1
+or,1
+sect,1

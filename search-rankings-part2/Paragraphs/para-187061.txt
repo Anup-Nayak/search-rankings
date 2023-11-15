@@ -1,0 +1,11 @@
+53,55,12
+communities,1
+in,1
+the,3
+various,1
+provinces,1
+shall,1
+be,2
+concern,1
+and,1
+within,1

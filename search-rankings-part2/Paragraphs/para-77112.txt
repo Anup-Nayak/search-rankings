@@ -1,0 +1,7 @@
+22,283,6
+none,1
+is,1
+born,1
+before,1
+his,1
+time,1

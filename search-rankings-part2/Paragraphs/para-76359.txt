@@ -1,0 +1,11 @@
+22,143,4
+81,1
+speech,1
+on,1
+creed,1
+resolution,1
+at,1
+plenary,1
+session,1
+of,1
+congress,1

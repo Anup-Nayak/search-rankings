@@ -1,0 +1,13 @@
+38,395,14
+1,1
+year,1
+is,1
+fixed,1
+from,2
+the,3
+reference,1
+to,1
+scare,1
+robbers,1
+at,1
+ashram,1

@@ -1,0 +1,13 @@
+82,414,34
+g,1
+in,1
+the,2
+villages,1
+peasants,1
+will,2
+stop,1
+paying,1
+taxes,1
+they,1
+make,1
+salt,1

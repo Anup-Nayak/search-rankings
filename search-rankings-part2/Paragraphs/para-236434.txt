@@ -1,0 +1,10 @@
+64,348,1
+i,2
+will,1
+write,1
+to,1
+bhulabhai,1
+regarding,1
+the,1
+a,1
+c,2

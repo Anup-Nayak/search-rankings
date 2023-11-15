@@ -1,0 +1,7 @@
+83,393,30
+q,1
+american,1
+opinion,1
+may,1
+be,1
+antagonized,1

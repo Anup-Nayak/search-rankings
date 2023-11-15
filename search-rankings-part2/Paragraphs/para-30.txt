@@ -1,0 +1,9 @@
+1,6,2
+1,1
+political,1
+agent,1
+of,1
+kathiawar,1
+stationed,1
+at,1
+rajkot,1

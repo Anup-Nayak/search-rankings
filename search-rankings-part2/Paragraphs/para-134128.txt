@@ -1,0 +1,9 @@
+39,154,6
+160,1
+speech,1
+at,1
+opening,1
+of,1
+khadi,1
+exhibition,1
+bangalore,1

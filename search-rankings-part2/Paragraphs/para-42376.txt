@@ -1,0 +1,10 @@
+13,70,10
+minister,1
+nothing,1
+further,1
+from,1
+my,1
+desire,1
+than,1
+to,1
+use,1

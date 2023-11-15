@@ -1,0 +1,15 @@
+78,156,3
+were,1
+ignored,1
+he,2
+did,1
+not,1
+want,1
+such,2
+a,2
+settlement,1
+or,1
+swaraj,1
+had,1
+respect,1
+for,1

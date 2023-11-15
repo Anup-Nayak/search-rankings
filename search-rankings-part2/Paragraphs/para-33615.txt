@@ -1,0 +1,8 @@
+10,508,2
+parsee,1
+rustomjees,1
+letter,1
+to,1
+the,1
+johannesburg,1
+press,1

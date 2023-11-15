@@ -1,0 +1,10 @@
+55,76,4
+56,1
+letter,1
+to,1
+mangala,1
+s,1
+patel,1
+february,1
+25,1
+1932,1

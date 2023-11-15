@@ -1,0 +1,11 @@
+87,102,3
+1,1
+the,2
+article,1
+appeared,1
+under,1
+date,1
+line,1
+panchgani,1
+june,1
+12,1

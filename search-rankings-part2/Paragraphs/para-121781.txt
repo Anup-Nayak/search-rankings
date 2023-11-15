@@ -1,0 +1,6 @@
+36,55,3
+56,1
+letter,1
+to,1
+mohanlal,1
+pandya,1

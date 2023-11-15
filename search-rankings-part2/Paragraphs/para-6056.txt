@@ -1,0 +1,7 @@
+2,477,4
+247,1
+letter,1
+to,1
+nazar,1
+and,1
+khan,1

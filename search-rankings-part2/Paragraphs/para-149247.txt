@@ -1,0 +1,11 @@
+43,253,9
+1,1
+bhagavad,1
+gita,1
+ii,1
+27,1
+quoted,1
+in,2
+sanskrit,1
+the,1
+source,1

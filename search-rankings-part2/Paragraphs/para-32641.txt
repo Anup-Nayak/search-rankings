@@ -1,0 +1,9 @@
+10,391,7
+1,1
+the,1
+photostat,1
+is,1
+not,1
+quite,1
+clear,1
+here,1

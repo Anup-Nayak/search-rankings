@@ -1,0 +1,9 @@
+79,455,4
+open,1
+letter,1
+2,1
+to,2
+herr,1
+hitler,1
+being,1
+sent,1

@@ -1,0 +1,14 @@
+65,246,3
+article,1
+iv,1
+a,1
+the,3
+following,1
+shall,1
+be,1
+provinces,1
+with,1
+headquarters,1
+mentioned,1
+against,1
+them,1

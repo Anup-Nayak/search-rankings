@@ -1,0 +1,7 @@
+17,347,9
+work,1
+and,1
+public,1
+meetings,1
+praying,1
+withdrawal,1

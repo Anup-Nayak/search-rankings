@@ -1,0 +1,6 @@
+6,243,5
+self,1
+government,1
+in,1
+the,1
+transvaal,1

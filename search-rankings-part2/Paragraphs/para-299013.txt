@@ -1,0 +1,5 @@
+79,388,8
+palampur,1
+kangra,1
+district,1
+punjab,1

@@ -1,0 +1,14 @@
+23,24,11
+very,1
+easily,1
+collect,2
+that,2
+single,1
+crore,1
+of,1
+rupees,1
+was,1
+it,1
+then,1
+impossible,1
+to,1

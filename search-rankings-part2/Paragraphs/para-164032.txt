@@ -1,0 +1,6 @@
+47,195,2
+camp,1
+gorakhpore,1
+october,1
+4,1
+1929,1

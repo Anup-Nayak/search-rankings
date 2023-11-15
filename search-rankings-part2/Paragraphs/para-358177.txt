@@ -1,0 +1,7 @@
+92,381,9
+1,1
+of,2
+the,1
+associated,1
+press,1
+america,1

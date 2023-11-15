@@ -1,0 +1,8 @@
+53,30,7
+the,1
+secretary,1
+local,1
+congress,1
+committee,1
+writes,1
+2,1

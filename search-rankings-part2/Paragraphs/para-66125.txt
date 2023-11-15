@@ -1,0 +1,7 @@
+19,41,4
+35,1
+telegram,1
+to,2
+p,1
+s,1
+viceroy,1

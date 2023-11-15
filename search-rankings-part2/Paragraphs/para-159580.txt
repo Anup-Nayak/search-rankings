@@ -1,0 +1,14 @@
+46,157,24
+sufficient,1
+pasture,1
+land,1
+and,1
+it,1
+is,1
+one,1
+of,1
+the,2
+chief,1
+reasons,1
+why,1
+agriculturist,1

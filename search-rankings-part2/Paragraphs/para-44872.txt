@@ -1,0 +1,8 @@
+13,398,9
+point,1
+view,1
+humanity,1
+moment,1
+chosen,1
+most,1
+unfortunate,1

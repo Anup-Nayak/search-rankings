@@ -1,0 +1,15 @@
+20,104,3
+if,1
+this,1
+was,1
+the,3
+fate,1
+of,1
+men,1
+who,1
+were,1
+too,1
+poor,1
+to,1
+engage,1
+counsel,1

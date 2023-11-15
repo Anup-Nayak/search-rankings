@@ -1,0 +1,7 @@
+55,213,7
+250,1
+letter,1
+to,1
+mangala,1
+s,1
+patel,1

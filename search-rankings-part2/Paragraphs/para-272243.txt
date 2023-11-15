@@ -1,0 +1,6 @@
+73,100,6
+99,1
+letter,1
+to,1
+ratilal,1
+mehta,1

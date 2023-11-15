@@ -1,0 +1,17 @@
+91,94,10
+1,1
+bovine,1
+animals,1
+in,2
+wild,1
+state,1
+which,1
+move,1
+herds,1
+and,1
+are,1
+a,1
+constant,1
+menace,1
+to,1
+crops,1

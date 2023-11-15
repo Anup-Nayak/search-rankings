@@ -1,0 +1,8 @@
+79,95,7
+q,1
+then,1
+how,1
+long,1
+shall,1
+we,1
+wait,1

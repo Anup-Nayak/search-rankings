@@ -1,0 +1,7 @@
+14,45,15
+prisoners,1
+being,1
+released,1
+opportunity,1
+for,1
+settlement,1

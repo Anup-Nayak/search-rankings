@@ -1,0 +1,5 @@
+46,435,2
+another,1
+temple,1
+thrown,1
+open,1

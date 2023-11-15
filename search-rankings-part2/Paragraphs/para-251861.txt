@@ -1,0 +1,7 @@
+68,69,3
+86,1
+simple,1
+cure,1
+for,1
+scorpion,1
+stings,1

@@ -1,0 +1,15 @@
+32,448,7
+from,1
+5,1
+to,1
+6,1
+we,1
+have,1
+sweeping,1
+drawing,1
+water,1
+and,1
+cleaning,1
+vessels,1
+by,1
+seven,1

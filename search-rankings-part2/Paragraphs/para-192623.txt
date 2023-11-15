@@ -1,0 +1,12 @@
+54,236,5
+chairman,1
+mr,1
+gandhi,1
+understands,1
+the,1
+lapses,1
+of,1
+an,1
+untrained,1
+human,1
+tongue,1

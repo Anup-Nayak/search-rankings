@@ -1,0 +1,11 @@
+94,113,7
+a,2
+this,1
+has,1
+been,1
+cruel,1
+and,1
+terrible,1
+tragedy,1
+such,1
+holocausts,1

@@ -1,0 +1,9 @@
+64,189,3
+239,1
+speech,1
+at,1
+gulabdevi,1
+tuberculosis,1
+hospital,1
+lahore,1
+1,1

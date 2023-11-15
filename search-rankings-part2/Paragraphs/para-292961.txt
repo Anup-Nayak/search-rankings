@@ -1,0 +1,8 @@
+78,149,3
+received,1
+your,2
+cable,1
+2,1
+have,1
+carefully,1
+read,1

@@ -1,0 +1,12 @@
+49,155,13
+mohandas,1
+sjt,1
+purushottam,1
+trikamdas,1
+29,1
+d,1
+dongonsi,1
+road,1
+malabar,1
+hill,1
+bombay,1

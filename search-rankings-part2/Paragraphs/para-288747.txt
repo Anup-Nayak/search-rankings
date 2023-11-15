@@ -1,0 +1,12 @@
+77,96,17
+mention,1
+the,2
+millions,1
+of,2
+people,1
+states,1
+have,1
+they,1
+no,1
+voice,1
+in,1

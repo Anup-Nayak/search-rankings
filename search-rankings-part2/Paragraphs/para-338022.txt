@@ -1,0 +1,10 @@
+88,4,12
+1,1
+the,2
+word,1
+is,2
+illegible,1
+2,1
+address,1
+in,1
+hindi,1

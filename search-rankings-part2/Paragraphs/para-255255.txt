@@ -1,0 +1,6 @@
+68,438,9
+wire,1
+particulars,1
+tarabehns,1
+1,1
+death,1

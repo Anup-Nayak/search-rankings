@@ -1,0 +1,14 @@
+82,393,13
+1,1
+to,2
+prepare,1
+a,2
+dictionary,1
+of,1
+hindustani,1
+which,1
+all,1
+can,1
+rely,1
+upon,1
+evolve,1

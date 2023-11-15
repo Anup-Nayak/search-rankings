@@ -1,0 +1,13 @@
+64,439,4
+you,2
+may,1
+have,1
+gathered,1
+from,1
+my,1
+last,1
+conversation,1
+with,1
+that,1
+i,1
+was,1

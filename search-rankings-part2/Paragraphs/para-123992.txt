@@ -1,0 +1,11 @@
+36,310,3
+the,3
+secretary,1
+of,2
+charkha,1
+committee,1
+shahabad,1
+district,1
+board,1
+writes,1
+1,1

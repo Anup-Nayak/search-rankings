@@ -1,0 +1,16 @@
+72,383,10
+2,1
+gandhiji,1
+issued,1
+this,1
+on,1
+his,1
+return,1
+from,1
+barrackpore,1
+after,1
+meeting,1
+the,1
+governor,1
+of,1
+bengal,1

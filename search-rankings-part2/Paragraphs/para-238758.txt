@@ -1,0 +1,7 @@
+65,136,10
+174,1
+letter,1
+to,1
+k,1
+krishnamoorthy,1
+iyer,1

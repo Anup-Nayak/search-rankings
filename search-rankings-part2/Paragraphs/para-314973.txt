@@ -1,0 +1,12 @@
+82,393,27
+reading,1
+rooms,1
+training,1
+schools,1
+nightschools,1
+and,1
+other,1
+institutions,1
+of,1
+a,1
+similar,1

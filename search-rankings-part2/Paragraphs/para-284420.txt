@@ -1,0 +1,5 @@
+76,64,2
+81,1
+south,1
+africa,1
+resolution,1

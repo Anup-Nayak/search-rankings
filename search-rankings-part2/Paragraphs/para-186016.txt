@@ -1,0 +1,12 @@
+52,425,12
+but,1
+gandhiji,1
+was,1
+himself,1
+not,1
+sure,1
+whether,1
+the,2
+present,1
+settlement,1
+with,1

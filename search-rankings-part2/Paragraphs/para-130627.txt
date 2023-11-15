@@ -1,0 +1,8 @@
+38,195,9
+5,1
+ditto,1
+of,1
+ceylon,1
+and,1
+the,1
+ceylonese,1

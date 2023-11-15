@@ -1,0 +1,7 @@
+17,356,2
+335,1
+speech,1
+on,1
+satyagraha,1
+movement,1
+tuticorin,1

@@ -1,0 +1,12 @@
+81,49,4
+shri,1
+vallabhram,1
+vaidya,1
+birla,1
+house,1
+p,1
+o,1
+uttarkashi,1
+distt,1
+tehri,1
+garhwal,1

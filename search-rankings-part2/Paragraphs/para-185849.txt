@@ -1,0 +1,10 @@
+52,408,7
+m,1
+k,1
+gandhi,1
+syt,1
+n,1
+d,1
+kowali,1
+dadar,1
+bombay,1

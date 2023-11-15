@@ -1,0 +1,5 @@
+45,289,3
+kuchh,2
+apni,1
+deshki,1
+p,1

@@ -1,0 +1,16 @@
+12,145,16
+under,1
+this,1
+section,1
+the,2
+government,1
+can,1
+permit,1
+entry,1
+of,1
+persons,1
+whose,1
+services,1
+it,1
+considers,1
+essential,1

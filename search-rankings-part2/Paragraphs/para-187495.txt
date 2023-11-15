@@ -1,0 +1,7 @@
+53,107,21
+acquisition,1
+by,1
+the,1
+state,1
+50,1
+000,1

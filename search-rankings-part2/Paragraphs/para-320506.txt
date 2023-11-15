@@ -1,0 +1,7 @@
+84,120,3
+169,1
+letter,1
+to,1
+bhagirathi,1
+devi,1
+upadhyaya,1

@@ -1,0 +1,6 @@
+66,431,13
+yours,1
+mohandas,1
+gandhi,1
+from,1
+gujarati,1

@@ -1,0 +1,15 @@
+55,30,1
+do,1
+not,1
+worry,1
+over,2
+that,1
+it,1
+is,1
+useless,1
+to,1
+sorrow,1
+what,1
+god,1
+ordains,1
+1,1

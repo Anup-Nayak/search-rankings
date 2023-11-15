@@ -1,0 +1,7 @@
+64,406,1
+478,1
+village,1
+tanning,1
+and,1
+its,1
+possibilities,1

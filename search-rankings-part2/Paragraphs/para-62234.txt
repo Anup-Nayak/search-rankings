@@ -1,0 +1,9 @@
+17,407,4
+1,1
+mythical,1
+cow,1
+yielding,1
+whatever,1
+is,1
+wished,1
+for,1

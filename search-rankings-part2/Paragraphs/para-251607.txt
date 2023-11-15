@@ -1,0 +1,5 @@
+68,41,5
+how,1
+to,1
+preserve,1
+gur,1

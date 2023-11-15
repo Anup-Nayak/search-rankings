@@ -1,0 +1,6 @@
+6,413,4
+attack,1
+on,1
+new,1
+clare,1
+washermen,1

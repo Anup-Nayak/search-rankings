@@ -1,0 +1,13 @@
+85,220,5
+2,1
+a,2
+to,1
+adopt,1
+congress,1
+membership,2
+as,1
+basic,1
+for,1
+the,1
+kisan,1
+organization,1

@@ -1,0 +1,8 @@
+43,315,3
+association,1
+bhandars,1
+should,1
+exhibit,1
+if,1
+they,1
+can,1

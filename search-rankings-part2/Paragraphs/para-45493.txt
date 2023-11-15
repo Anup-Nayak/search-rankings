@@ -1,0 +1,10 @@
+13,448,6
+on,2
+the,2
+second,1
+reading,1
+of,1
+bill,1
+that,1
+restrictions,1
+inter,1

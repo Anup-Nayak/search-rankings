@@ -1,0 +1,7 @@
+53,328,4
+wide,1
+broadcast,1
+through,1
+associated,1
+press,1
+national,1

@@ -1,0 +1,8 @@
+78,154,1
+157,1
+discussion,1
+at,1
+congress,1
+working,1
+committee,1
+meeting,1

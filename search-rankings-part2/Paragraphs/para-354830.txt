@@ -1,0 +1,10 @@
+92,19,11
+yours,1
+m,1
+k,1
+gandhi,1
+begum,1
+latif,1
+syed,1
+hyderabad,1
+deccan,1

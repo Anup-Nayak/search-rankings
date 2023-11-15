@@ -1,0 +1,17 @@
+37,31,12
+man,1
+has,1
+built,1
+up,1
+his,1
+life,1
+on,1
+three,1
+great,1
+planes,1
+the,3
+material,1
+religi,1
+ous,1
+and,1
+spiritual,1

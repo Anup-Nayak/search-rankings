@@ -1,0 +1,16 @@
+41,300,9
+q,1
+and,2
+why,1
+a,1
+because,1
+they,1
+have,1
+sapped,1
+the,2
+economic,1
+mental,1
+moral,1
+growth,1
+of,1
+people,1

@@ -1,0 +1,16 @@
+66,406,3
+i,2
+am,2
+wide,1
+awake,1
+even,1
+when,1
+asleep,1
+my,1
+sleep,1
+is,2
+not,1
+a,2
+forgetting,1
+it,1
+renovating,1

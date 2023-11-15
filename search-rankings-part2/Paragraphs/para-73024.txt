@@ -1,0 +1,11 @@
+21,77,2
+an,1
+unfortunate,1
+affair,1
+in,1
+connection,1
+with,1
+the,2
+muhajarin,1
+occurred,1
+on,1

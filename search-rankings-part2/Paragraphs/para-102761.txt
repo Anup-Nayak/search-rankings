@@ -1,0 +1,6 @@
+30,205,6
+q,1
+when,1
+did,1
+it,1
+happen,1

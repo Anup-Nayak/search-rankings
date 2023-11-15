@@ -1,0 +1,5 @@
+68,34,5
+bapu,1
+pandit,1
+jawaharlal,1
+nehru,1

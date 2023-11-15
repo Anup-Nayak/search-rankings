@@ -1,0 +1,12 @@
+77,96,14
+question,2
+in,1
+indias,1
+face,1
+is,1
+to,2
+confuse,1
+issues,1
+raise,1
+the,1
+of,1

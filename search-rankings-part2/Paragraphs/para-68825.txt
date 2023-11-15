@@ -1,0 +1,12 @@
+19,399,5
+1,1
+the,2
+sanskrit,1
+couplet,1
+of,1
+which,1
+this,1
+is,1
+second,1
+line,1
+runs,1

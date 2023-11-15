@@ -1,0 +1,3 @@
+18,239,11
+resistance,1
+inevitable,1

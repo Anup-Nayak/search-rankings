@@ -1,0 +1,12 @@
+62,453,25
+10,1
+0,3
+a,1
+m,3
+to,1
+2,2
+p,2
+rest,1
+departure,1
+for,1
+saoner,1

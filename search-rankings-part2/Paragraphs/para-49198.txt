@@ -1,0 +1,7 @@
+14,426,1
+an,1
+address,1
+of,1
+welcome,1
+in,1
+gujarati,1

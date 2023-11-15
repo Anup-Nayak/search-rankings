@@ -1,0 +1,6 @@
+63,65,6
+70,1
+letter,1
+to,1
+jankidevi,1
+bajaj,1

@@ -1,0 +1,5 @@
+45,315,3
+mirabai,1
+khadi,1
+depot,1
+madhubani,1

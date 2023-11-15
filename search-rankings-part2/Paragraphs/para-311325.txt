@@ -1,0 +1,15 @@
+82,122,10
+is,1
+only,2
+a,2
+drop,1
+in,1
+the,1
+ocean,1
+we,2
+shall,1
+have,1
+atoned,1
+when,1
+give,1
+them,1

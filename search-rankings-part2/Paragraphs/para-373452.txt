@@ -1,0 +1,13 @@
+96,436,17
+granted,1
+full,1
+membership,1
+of,1
+the,2
+dominion,1
+on,1
+adhering,1
+only,1
+to,1
+three,1
+central,1

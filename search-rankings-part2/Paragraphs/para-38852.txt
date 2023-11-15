@@ -1,0 +1,5 @@
+12,96,3
+bande,1
+mataram,1
+from,1
+mohandas,1

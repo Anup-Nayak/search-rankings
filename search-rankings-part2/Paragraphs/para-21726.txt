@@ -1,0 +1,10 @@
+7,272,2
+hajee,2
+habib,2
+mr,1
+has,1
+arrived,1
+at,1
+pretoria,1
+from,1
+durban,1

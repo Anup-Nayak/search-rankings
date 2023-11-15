@@ -1,0 +1,7 @@
+13,431,14
+indians,1
+but,1
+only,1
+imperial,1
+indian,1
+governments,1

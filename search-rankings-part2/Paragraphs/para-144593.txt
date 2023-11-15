@@ -1,0 +1,15 @@
+42,205,5
+nawab,1
+masood,1
+jung,1
+bahadur,1
+director,1
+of,1
+public,1
+instruction,1
+h,2
+e,1
+nizams,1
+government,1
+hyderabad,1
+deccan,1

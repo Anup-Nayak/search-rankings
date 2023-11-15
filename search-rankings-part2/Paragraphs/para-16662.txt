@@ -1,0 +1,11 @@
+6,136,7
+the,2
+manager,1
+remington,1
+typewriter,1
+co,1
+100,1
+gracechurch,1
+street,1
+e,1
+c,1

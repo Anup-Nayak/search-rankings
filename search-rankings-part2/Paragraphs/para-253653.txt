@@ -1,0 +1,17 @@
+68,253,6
+j,1
+what,1
+would,1
+be,1
+the,2
+correct,1
+policy,1
+with,1
+regard,1
+to,1
+education,1
+of,1
+children,1
+and,1
+medical,1
+treatment,1

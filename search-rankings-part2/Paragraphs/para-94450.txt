@@ -1,0 +1,7 @@
+28,39,7
+ahmedabad,1
+from,1
+gujarati,1
+bapuna,1
+patromaniben,1
+patelne,1

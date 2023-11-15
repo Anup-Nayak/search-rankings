@@ -1,0 +1,10 @@
+75,231,10
+new,1
+delhi,1
+april,1
+4,1
+1939,1
+rashtrapati,1
+subhas,1
+bose,1
+jealgora,1

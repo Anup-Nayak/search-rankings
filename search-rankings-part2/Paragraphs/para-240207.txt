@@ -1,0 +1,8 @@
+65,303,4
+1,1
+manually,1
+operated,1
+grinding,1
+stone,1
+2,1
+jaggery,1

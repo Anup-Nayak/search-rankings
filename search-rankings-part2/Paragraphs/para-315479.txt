@@ -1,0 +1,13 @@
+82,408,22
+domestic,1
+war,1
+industries,1
+i,1
+compared,1
+that,1
+with,1
+the,1
+private,1
+financing,1
+of,1
+foreign,1

@@ -1,0 +1,15 @@
+16,465,19
+21,1
+900,1
+acres,1
+in,2
+1916,1
+the,2
+cultivation,1
+of,1
+indigo,1
+carried,1
+on,1
+by,1
+factories,1
+lands,1

@@ -1,0 +1,5 @@
+23,27,2
+men,1
+money,1
+and,1
+munitions,1

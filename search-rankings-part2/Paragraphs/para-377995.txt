@@ -1,0 +1,15 @@
+98,135,15
+1,1
+widow,1
+of,2
+abdul,1
+rashid,1
+khan,1
+brother,1
+amtussalaam,1
+2,1
+the,1
+superscription,1
+is,1
+in,1
+hindi,1

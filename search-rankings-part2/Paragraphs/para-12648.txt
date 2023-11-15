@@ -1,0 +1,11 @@
+5,124,4
+1,1
+vide,1
+from,1
+slave,1
+to,1
+college,1
+president,1
+10,1
+9,1
+1903,1

@@ -1,0 +1,13 @@
+93,391,4
+from,1
+a,1
+copy,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+10545,1
+courtesy,1
+vinoba,1
+bhave,1

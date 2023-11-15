@@ -1,0 +1,8 @@
+75,124,3
+hartal,1
+should,1
+be,1
+abandoned,1
+when,1
+viceroy,1
+enters,1

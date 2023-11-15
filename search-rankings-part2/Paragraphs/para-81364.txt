@@ -1,0 +1,15 @@
+24,1,11
+they,1
+would,2
+see,1
+many,1
+women,1
+wearing,1
+khadi,1
+saris,1
+he,1
+again,1
+tell,1
+them,1
+that,1
+there,1

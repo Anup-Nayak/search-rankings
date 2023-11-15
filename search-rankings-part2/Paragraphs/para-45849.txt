@@ -1,0 +1,8 @@
+14,5,16
+gration,1
+bill,1
+by,1
+either,1
+approving,1
+union,1
+government,1

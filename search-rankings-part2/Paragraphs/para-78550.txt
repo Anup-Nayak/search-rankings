@@ -1,0 +1,3 @@
+23,22,2
+foreign,1
+apparel,1

@@ -1,0 +1,10 @@
+48,130,2
+140,1
+speech,1
+at,1
+all,1
+india,1
+suppressed,1
+classes,1
+conference,1
+lahore,1

@@ -1,0 +1,7 @@
+38,48,2
+a,1
+c,2
+harvey,1
+government,1
+intermediate,1
+college,1

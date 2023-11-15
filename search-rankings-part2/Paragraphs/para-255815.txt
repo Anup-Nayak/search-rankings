@@ -1,0 +1,7 @@
+69,46,6
+1,1
+illegible,1
+2,1
+addressee,1
+s,1
+daughter,1

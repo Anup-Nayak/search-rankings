@@ -1,0 +1,14 @@
+73,144,2
+1,1
+this,2
+sentence,1
+is,1
+from,2
+the,3
+hindustan,2
+times,2
+2,1
+and,1
+following,1
+paragraph,1
+are,1

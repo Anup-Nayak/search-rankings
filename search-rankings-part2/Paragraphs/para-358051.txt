@@ -1,0 +1,17 @@
+92,370,1
+monday,1
+august,1
+19,1
+1946,1
+everything,1
+is,1
+right,1
+and,1
+proper,1
+in,1
+its,1
+place,2
+improper,1
+when,1
+out,1
+of,1

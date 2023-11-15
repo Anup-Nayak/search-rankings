@@ -1,0 +1,9 @@
+71,120,4
+strictest,1
+terms,1
+non,1
+violence,1
+see,1
+no,1
+cause,1
+withdraw,1

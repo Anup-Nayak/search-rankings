@@ -1,0 +1,8 @@
+8,468,6
+hard,1
+labour,1
+trading,1
+without,1
+licenses,1
+these,1
+tendered,1

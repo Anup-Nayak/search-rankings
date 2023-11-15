@@ -1,0 +1,9 @@
+17,41,7
+1,1
+the,1
+letter,1
+regarding,1
+khandli,1
+is,1
+not,1
+traceable,1

@@ -1,0 +1,8 @@
+47,85,10
+relieve,1
+earliest,1
+do,1
+you,1
+now,1
+receive,1
+letters,1

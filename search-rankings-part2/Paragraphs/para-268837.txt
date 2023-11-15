@@ -1,0 +1,11 @@
+72,203,11
+bapu,1
+rani,1
+vidyavati,1
+barua,1
+kothi,1
+sandila,1
+district,1
+hardoi,1
+u,1
+p,1

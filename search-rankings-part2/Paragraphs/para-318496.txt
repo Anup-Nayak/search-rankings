@@ -1,0 +1,15 @@
+83,383,12
+not,1
+but,1
+be,1
+in,2
+sympathy,1
+with,1
+china,1
+which,1
+is,1
+my,1
+next,1
+door,1
+neighbour,1
+distress,1

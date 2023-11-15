@@ -1,0 +1,17 @@
+26,148,3
+a,2
+friend,1
+writes,1
+with,1
+reference,1
+to,2
+the,2
+boycott,1
+of,2
+reception,1
+prince,1
+wales,1
+at,1
+some,1
+place,1
+1,1

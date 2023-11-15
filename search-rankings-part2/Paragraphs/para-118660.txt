@@ -1,0 +1,13 @@
+35,149,10
+1,1
+hand,2
+spinning,1
+and,2
+weavingan,1
+essay,1
+by,1
+s,2
+v,1
+puntambekar,1
+n,1
+varadachari,1

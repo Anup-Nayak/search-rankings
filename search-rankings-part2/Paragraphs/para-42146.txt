@@ -1,0 +1,10 @@
+13,45,8
+2,1
+the,1
+earth,1
+in,1
+connection,1
+with,1
+preservation,1
+of,1
+contagia,1

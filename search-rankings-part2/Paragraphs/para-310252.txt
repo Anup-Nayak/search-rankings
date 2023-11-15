@@ -1,0 +1,8 @@
+82,32,13
+enclosed,1
+is,1
+a,1
+letter,1
+to,1
+swami,1
+bhagwandas,1

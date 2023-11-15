@@ -1,0 +1,7 @@
+49,176,11
+m,1
+k,1
+gandhi,1
+kazi,1
+nizamuddin,1
+ahmed,1

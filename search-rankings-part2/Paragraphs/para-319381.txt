@@ -1,0 +1,7 @@
+84,5,2
+blessings,1
+to,1
+you,1
+from,1
+us,1
+both,1

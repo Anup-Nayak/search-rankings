@@ -1,0 +1,6 @@
+31,33,18
+1,1
+an,1
+ayurvedic,1
+medicinal,1
+preparation,1

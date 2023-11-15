@@ -1,0 +1,15 @@
+25,342,28
+karachi,2
+prisoners,1
+also,1
+to,1
+be,1
+released,1
+because,1
+it,1
+was,1
+from,1
+the,2
+time,1
+of,1
+trial,1

@@ -1,0 +1,9 @@
+75,153,10
+power,1
+give,1
+public,1
+assurance,1
+of,1
+constitution,1
+in,1
+terms,1

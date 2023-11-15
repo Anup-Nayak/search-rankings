@@ -1,0 +1,13 @@
+56,65,1
+i,1
+am,1
+well,1
+the,1
+milk,1
+bread,1
+and,1
+fruit,1
+are,1
+progressing,1
+more,1
+later,1

@@ -1,0 +1,8 @@
+90,363,16
+1,1
+the,2
+letter,1
+is,1
+in,1
+devanagari,1
+script,1

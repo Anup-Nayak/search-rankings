@@ -1,0 +1,16 @@
+76,165,3
+critical,1
+faculty,1
+for,1
+me,1
+there,1
+is,1
+nothing,1
+higher,1
+than,1
+what,1
+buddha,1
+taught,1
+and,1
+no,1
+great,1

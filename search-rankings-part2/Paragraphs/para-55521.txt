@@ -1,0 +1,6 @@
+16,99,25
+government,1
+servants,1
+lawyers,1
+and,1
+doctors,1

@@ -1,0 +1,12 @@
+76,436,6
+the,2
+declaration,1
+of,2
+war,1
+in,1
+europe,1
+has,1
+created,1
+an,1
+international,1
+situation,1

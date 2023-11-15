@@ -1,0 +1,13 @@
+32,325,4
+should,1
+they,1
+be,1
+not,2
+put,1
+into,1
+practice,1
+does,1
+saving,1
+rs,1
+50,1
+000,1

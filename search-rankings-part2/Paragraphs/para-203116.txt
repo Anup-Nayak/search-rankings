@@ -1,0 +1,9 @@
+57,37,2
+enough,1
+for,1
+settlement,1
+which,1
+you,1
+and,1
+other,1
+friends,1

@@ -1,0 +1,13 @@
+42,465,18
+justice,1
+of,1
+the,2
+peoples,1
+demands,1
+and,1
+minimum,1
+that,1
+was,1
+due,1
+to,1
+them,1

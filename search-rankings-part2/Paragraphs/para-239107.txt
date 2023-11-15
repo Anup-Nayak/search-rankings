@@ -1,0 +1,9 @@
+65,170,10
+i,1
+hope,1
+everything,1
+is,1
+fixed,1
+up,1
+for,1
+anand,1

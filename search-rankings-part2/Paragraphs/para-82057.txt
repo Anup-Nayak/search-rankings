@@ -1,0 +1,11 @@
+24,126,5
+besides,1
+the,2
+question,1
+of,2
+expense,1
+there,1
+is,1
+other,1
+aspect,1
+comfort,1

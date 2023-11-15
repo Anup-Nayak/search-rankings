@@ -1,0 +1,12 @@
+31,287,5
+physical,1
+force,1
+when,1
+necessary,1
+or,1
+will,1
+they,1
+offer,1
+satyagraha,1
+against,1
+their,1

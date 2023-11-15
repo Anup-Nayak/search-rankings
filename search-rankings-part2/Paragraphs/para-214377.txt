@@ -1,0 +1,6 @@
+59,226,3
+328,1
+dr,1
+ambedkar,1
+and,1
+caste,1

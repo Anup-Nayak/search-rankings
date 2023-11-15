@@ -1,0 +1,9 @@
+44,16,6
+20,1
+letter,1
+to,1
+francisca,1
+and,1
+frederic,1
+standenath,1
+1,1

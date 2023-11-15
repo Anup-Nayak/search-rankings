@@ -1,0 +1,14 @@
+84,182,4
+i,2
+have,1
+the,1
+lawyers,1
+opinion,1
+5,1
+am,1
+not,1
+making,1
+public,1
+use,1
+of,1
+it,1

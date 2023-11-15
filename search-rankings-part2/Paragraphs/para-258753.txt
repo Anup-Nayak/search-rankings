@@ -1,0 +1,6 @@
+69,347,2
+wardha,1
+hospital,1
+september,1
+10,1
+1936,1

@@ -1,0 +1,9 @@
+64,402,4
+bapu,1
+about,1
+the,1
+remaining,1
+letters,1
+some,1
+other,1
+time,1

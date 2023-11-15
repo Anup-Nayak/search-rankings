@@ -1,0 +1,16 @@
+87,395,10
+1,1
+daughter,1
+of,1
+maganlal,1
+gandhi,1
+who,1
+was,1
+married,1
+to,1
+dipak,1
+dutt,1
+chowdhary,1
+2,1
+addressees,1
+mother,1

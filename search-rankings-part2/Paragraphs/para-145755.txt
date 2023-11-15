@@ -1,0 +1,6 @@
+42,330,2
+bardoli,1
+sunday,1
+august,1
+5,1
+1928,1

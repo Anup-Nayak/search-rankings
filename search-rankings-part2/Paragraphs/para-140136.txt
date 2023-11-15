@@ -1,0 +1,8 @@
+41,100,3
+bapu,1
+sjt,1
+satis,1
+babu,1
+khadi,1
+pratishthan,1
+calcutta,1

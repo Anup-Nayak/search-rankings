@@ -1,0 +1,10 @@
+21,95,10
+in,1
+firm,1
+withdrawal,1
+of,1
+co,1
+operation,1
+and,1
+obedience,1
+to,1

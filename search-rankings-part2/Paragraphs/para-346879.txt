@@ -1,0 +1,16 @@
+90,29,2
+1,1
+this,1
+sentence,1
+is,1
+translated,1
+from,1
+the,2
+gujarati,1
+version,1
+2,1
+source,1
+has,1
+i,1
+a,1
+misprint,1

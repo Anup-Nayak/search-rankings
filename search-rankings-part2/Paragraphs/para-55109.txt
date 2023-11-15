@@ -1,0 +1,11 @@
+16,32,7
+1,1
+for,2
+government,1
+to,1
+decide,1
+itself,1
+and,1
+legislate,1
+accordingly,1
+or,1

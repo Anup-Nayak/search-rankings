@@ -1,0 +1,9 @@
+48,94,3
+1,1
+this,1
+appeared,1
+in,1
+shikshan,1
+ane,1
+sahitya,1
+supplement,1

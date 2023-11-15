@@ -1,0 +1,13 @@
+19,416,5
+mohandas,1
+shri,1
+behram,1
+naoroji,2
+khambhatta,2
+ibrahim,1
+no,1
+8,1
+napier,1
+road,1
+camp,1
+poona,1

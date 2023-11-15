@@ -1,0 +1,10 @@
+86,255,10
+1,1
+vide,1
+also,1
+the,1
+preceding,1
+item,1
+2,1
+addressees,1
+husband,1

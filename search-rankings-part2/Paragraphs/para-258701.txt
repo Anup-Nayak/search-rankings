@@ -1,0 +1,5 @@
+69,341,7
+1,1
+kamala,1
+nehru,1
+memorial,1

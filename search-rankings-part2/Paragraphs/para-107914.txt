@@ -1,0 +1,10 @@
+32,0,2
+regarding,1
+delhi,1
+trouble,1
+1,1
+want,1
+say,1
+nothing,1
+on,1
+merits,1

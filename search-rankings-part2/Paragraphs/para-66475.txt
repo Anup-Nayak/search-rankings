@@ -1,0 +1,15 @@
+19,90,4
+need,1
+for,2
+action,1
+and,2
+truth,1
+not,1
+speeches,1
+his,1
+only,1
+message,1
+to,1
+the,1
+people,1
+was,1

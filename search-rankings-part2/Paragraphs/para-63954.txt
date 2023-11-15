@@ -1,0 +1,8 @@
+18,162,8
+have,1
+just,1
+read,1
+of,1
+two,1
+death,1
+sentences,1

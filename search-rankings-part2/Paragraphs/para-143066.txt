@@ -1,0 +1,10 @@
+41,493,21
+will,1
+not,1
+knowingly,1
+go,1
+back,1
+on,1
+previous,1
+promise,1
+regarding,1

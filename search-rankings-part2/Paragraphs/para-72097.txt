@@ -1,0 +1,15 @@
+20,412,7
+p,1
+c,2
+g,4
+m,3
+s,1
+i,2
+f,1
+viceroy,1
+and,1
+governor,1
+general,1
+of,1
+india,1
+simla,1

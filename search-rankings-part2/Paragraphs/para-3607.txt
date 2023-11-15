@@ -1,0 +1,11 @@
+2,150,13
+competition,2
+not,1
+only,1
+for,2
+those,1
+engaged,1
+in,1
+the,1
+but,1
+also,1

@@ -1,0 +1,7 @@
+31,170,1
+98,1
+speech,1
+at,1
+gurukul,1
+supa,1
+1,1

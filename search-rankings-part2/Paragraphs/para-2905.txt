@@ -1,0 +1,13 @@
+2,81,8
+on,1
+the,2
+following,1
+day,1
+decks,1
+passengers,1
+and,2
+crews,1
+quarters,1
+were,1
+washed,1
+disinfected,1

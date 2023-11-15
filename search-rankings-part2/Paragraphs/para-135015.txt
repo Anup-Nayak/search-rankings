@@ -1,0 +1,11 @@
+39,284,4
+272,1
+speech,1
+at,1
+civic,1
+and,1
+social,1
+progress,1
+association,1
+bangalore,1
+1,1

@@ -1,0 +1,11 @@
+27,364,18
+congress,1
+organizations,1
+as,1
+they,1
+cannot,1
+be,2
+supported,1
+unless,1
+our,1
+workers,1

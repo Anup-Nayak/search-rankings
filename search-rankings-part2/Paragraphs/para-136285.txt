@@ -1,0 +1,6 @@
+39,464,5
+1,1
+initiation,1
+vow,1
+of,1
+asceticism,1

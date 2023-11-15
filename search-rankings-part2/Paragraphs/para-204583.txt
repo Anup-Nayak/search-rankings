@@ -1,0 +1,10 @@
+57,160,10
+from,1
+a,1
+photostat,1
+c,1
+w,1
+11017,1
+courtesy,1
+nandini,1
+bala,1

@@ -1,0 +1,17 @@
+66,12,7
+2,1
+joint,1
+parliamentary,1
+committee,1
+which,1
+examined,1
+the,1
+white,1
+paper,1
+and,1
+endorsed,1
+its,1
+proposals,1
+with,1
+some,1
+modifications,1

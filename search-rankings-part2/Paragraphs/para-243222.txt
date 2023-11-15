@@ -1,0 +1,7 @@
+66,139,7
+184,1
+letter,1
+to,1
+the,1
+editor,1
+nispruha,1

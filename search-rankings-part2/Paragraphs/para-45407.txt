@@ -1,0 +1,8 @@
+13,440,8
+jecting,1
+demand,1
+addition,1
+commission,1
+it,1
+leaves,1
+open,1

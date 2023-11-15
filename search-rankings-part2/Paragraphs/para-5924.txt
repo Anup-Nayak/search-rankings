@@ -1,0 +1,9 @@
+2,457,10
+from,1
+the,2
+photostat,1
+of,1
+original,1
+g,1
+n,1
+3719,1

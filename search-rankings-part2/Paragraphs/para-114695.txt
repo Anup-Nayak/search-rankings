@@ -1,0 +1,12 @@
+34,80,4
+the,1
+year,1
+1906,1
+was,2
+well,1
+under,1
+way,1
+when,1
+this,1
+re,1
+registration,1

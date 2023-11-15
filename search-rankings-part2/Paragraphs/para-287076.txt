@@ -1,0 +1,8 @@
+76,360,1
+456,1
+letter,1
+to,1
+s,1
+satyamurti,1
+and,1
+lakshmi,1

@@ -1,0 +1,14 @@
+38,195,4
+a,1
+correspondent,1
+whose,1
+studious,1
+habits,1
+are,1
+evidenced,1
+by,1
+his,1
+letter,1
+itself,1
+writes,1
+thus,1

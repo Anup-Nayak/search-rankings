@@ -1,0 +1,9 @@
+23,294,9
+133,1
+speech,1
+on,1
+non,1
+co,1
+operation,1
+bombay,1
+2,1

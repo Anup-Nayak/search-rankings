@@ -1,0 +1,6 @@
+27,15,5
+15,1
+letter,1
+to,1
+mahomed,1
+yakub,1

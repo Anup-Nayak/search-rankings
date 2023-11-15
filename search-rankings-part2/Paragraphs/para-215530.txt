@@ -1,0 +1,12 @@
+59,357,7
+1,1
+sister,1
+of,1
+albert,1
+west,1
+gandhijis,1
+co,1
+worker,1
+in,1
+south,1
+africa,1

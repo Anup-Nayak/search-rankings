@@ -1,0 +1,13 @@
+2,150,14
+consumers,1
+the,2
+effect,1
+of,3
+a,1
+bill,1
+this,1
+sort,1
+would,1
+simply,1
+enhance,1
+profits,1

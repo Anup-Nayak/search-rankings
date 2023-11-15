@@ -1,0 +1,7 @@
+48,235,17
+than,1
+in,1
+united,1
+states,1
+and,1
+germany,1

@@ -1,0 +1,6 @@
+44,485,11
+t5,1
+guj,1
+adds,1
+stockings,1
+and,1

@@ -1,0 +1,5 @@
+97,34,5
+adarsh,1
+hind,1
+mahila,1
+p,1

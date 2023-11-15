@@ -1,0 +1,9 @@
+35,354,9
+bapu,1
+smt,1
+gangabehn,1
+majmudar,1
+nagarwada,1
+richey,1
+road,1
+ahmedabad,1

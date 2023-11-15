@@ -1,0 +1,13 @@
+83,100,13
+1,1
+this,2
+sentence,1
+is,1
+from,2
+the,2
+hindu,2
+2,1
+paragraph,1
+has,1
+been,1
+taken,1

@@ -1,0 +1,14 @@
+66,440,12
+b,1
+i,1
+know,1
+but,1
+are,1
+not,1
+meditation,1
+and,1
+worship,1
+too,1
+a,1
+sacred,1
+duty,1

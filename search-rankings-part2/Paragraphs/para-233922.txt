@@ -1,0 +1,3 @@
+64,62,10
+sujna,1
+bhaishri,1

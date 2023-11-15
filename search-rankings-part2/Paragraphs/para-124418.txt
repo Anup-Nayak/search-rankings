@@ -1,0 +1,4 @@
+36,358,2
+pivot,1
+of,1
+education,1

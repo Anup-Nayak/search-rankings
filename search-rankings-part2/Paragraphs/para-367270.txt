@@ -1,0 +1,15 @@
+95,75,9
+roy,1
+it,2
+is,2
+not,2
+for,1
+yourself,1
+that,1
+you,1
+have,1
+to,2
+take,1
+rest,1
+your,1
+duty,1

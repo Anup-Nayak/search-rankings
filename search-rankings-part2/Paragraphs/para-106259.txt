@@ -1,0 +1,16 @@
+31,243,10
+they,2
+remained,1
+idle,1
+for,1
+about,1
+6,1
+months,1
+in,1
+the,1
+year,1
+this,1
+was,1
+not,1
+because,1
+were,1

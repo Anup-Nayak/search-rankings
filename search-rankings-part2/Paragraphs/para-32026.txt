@@ -1,0 +1,11 @@
+10,311,17
+social,1
+and,1
+domestic,1
+institutions,1
+of,1
+the,2
+most,1
+ramified,1
+description,1
+beneficent,1

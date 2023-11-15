@@ -1,0 +1,11 @@
+32,0,14
+unthinkable,1
+but,1
+god,1
+is,1
+great,1
+missing,1
+first,1
+train,1
+keep,1
+essential,1

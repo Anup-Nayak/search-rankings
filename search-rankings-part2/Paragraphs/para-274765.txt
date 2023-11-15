@@ -1,0 +1,15 @@
+73,382,10
+bapu,1
+ps,1
+pyarelal,1
+is,2
+not,1
+quite,1
+well,1
+today,1
+however,1
+there,1
+no,1
+cause,1
+for,1
+worry,1

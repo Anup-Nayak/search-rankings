@@ -1,0 +1,16 @@
+54,125,4
+q,1
+could,1
+you,1
+please,1
+tell,1
+us,1
+how,1
+an,1
+englishman,1
+going,1
+to,1
+india,1
+can,1
+co,1
+operate,1

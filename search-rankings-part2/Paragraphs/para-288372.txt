@@ -1,0 +1,8 @@
+77,50,24
+had,1
+set,1
+before,1
+itself,1
+a,1
+higher,1
+mission,1

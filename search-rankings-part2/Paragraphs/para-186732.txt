@@ -1,0 +1,7 @@
+53,22,2
+from,1
+gujarati,1
+navajivan,1
+5,1
+7,1
+1931,1

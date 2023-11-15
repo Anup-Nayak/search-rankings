@@ -1,0 +1,16 @@
+14,156,7
+1,1
+a,1
+note,1
+by,1
+the,4
+addressee,1
+at,1
+top,1
+of,1
+letter,1
+reads,1
+written,1
+during,1
+fortnight,1
+fast,1

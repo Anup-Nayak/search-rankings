@@ -1,0 +1,12 @@
+64,16,9
+m,1
+but,1
+any,1
+conference,1
+which,1
+has,1
+representatives,1
+of,1
+landlords,1
+and,1
+capitalists,1

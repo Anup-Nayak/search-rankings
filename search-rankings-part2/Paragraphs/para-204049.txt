@@ -1,0 +1,11 @@
+57,117,3
+your,1
+advice,1
+as,1
+doctors,1
+is,2
+perfect,1
+its,1
+human,1
+value,1
+next,1

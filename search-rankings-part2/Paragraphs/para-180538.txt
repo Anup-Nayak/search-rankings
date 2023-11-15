@@ -1,0 +1,14 @@
+51,287,13
+land,1
+revenue,1
+and,1
+military,1
+expenditure,1
+by,1
+50,1
+per,1
+cent,1
+the,1
+discharge,1
+of,1
+political,1

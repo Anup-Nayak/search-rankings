@@ -1,0 +1,12 @@
+84,31,2
+yours,1
+etc,1
+m,1
+k,1
+gandhi,1
+khan,1
+bahadur,1
+kateli,1
+superintendent,1
+detention,1
+camp,1

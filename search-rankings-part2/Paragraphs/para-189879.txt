@@ -1,0 +1,7 @@
+53,371,2
+424,1
+speech,1
+at,1
+federal,1
+structure,1
+committee,1

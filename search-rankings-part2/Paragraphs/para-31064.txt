@@ -1,0 +1,13 @@
+10,162,1
+there,1
+were,1
+speeches,1
+by,1
+mrs,2
+tedman,1
+and,1
+polak,1
+mr,1
+ritch,1
+also,1
+spoke,1

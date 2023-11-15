@@ -1,0 +1,14 @@
+54,194,16
+when,1
+a,1
+movement,1
+is,2
+called,1
+off,1
+it,2
+not,1
+always,1
+more,1
+difficult,1
+to,1
+renew,1

@@ -1,0 +1,11 @@
+70,52,2
+robber,1
+ps,1
+andrews,1
+coming,1
+here,1
+soon,1
+isnt,1
+this,1
+good,1
+paper,1

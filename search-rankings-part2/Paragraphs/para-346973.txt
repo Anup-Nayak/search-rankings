@@ -1,0 +1,12 @@
+90,39,3
+q,1
+how,1
+can,1
+a,1
+person,1
+in,1
+the,1
+military,1
+do,1
+constructive,1
+work,1

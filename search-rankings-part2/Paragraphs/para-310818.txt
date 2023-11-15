@@ -1,0 +1,5 @@
+82,83,19
+welfare,1
+and,1
+well,1
+being,1

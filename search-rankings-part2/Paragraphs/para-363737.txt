@@ -1,0 +1,16 @@
+94,70,10
+g,1
+that,1
+is,1
+the,2
+truth,1
+advantage,1
+lies,1
+in,1
+admission,1
+then,1
+alone,1
+can,1
+remedy,1
+be,1
+applied,1

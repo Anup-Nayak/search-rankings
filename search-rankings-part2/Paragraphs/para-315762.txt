@@ -1,0 +1,15 @@
+82,416,17
+mean,1
+that,1
+you,1
+cannot,1
+become,1
+influential,1
+by,1
+telling,1
+the,1
+truth,2
+but,1
+in,1
+itself,1
+has,1

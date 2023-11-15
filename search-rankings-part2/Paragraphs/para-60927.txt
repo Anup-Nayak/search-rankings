@@ -1,0 +1,8 @@
+17,250,7
+242,1
+letter,1
+to,1
+collector,1
+of,1
+champaran,1
+2,1

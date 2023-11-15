@@ -1,0 +1,5 @@
+74,201,2
+abbottabad,1
+november,1
+8,1
+1938,1

@@ -1,0 +1,10 @@
+45,134,9
+from,1
+a,1
+blockprint,1
+of,1
+the,1
+original,1
+c,1
+w,1
+9237,1

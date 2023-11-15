@@ -1,0 +1,16 @@
+21,52,8
+and,1
+law,1
+courts,1
+how,1
+he,1
+was,1
+often,1
+asked,1
+would,1
+they,1
+be,1
+to,1
+maintain,1
+themselves,1
+if,1

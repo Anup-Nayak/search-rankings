@@ -1,0 +1,14 @@
+95,296,1
+person,1
+belongs,1
+to,1
+an,1
+organization,1
+he,1
+should,1
+abide,1
+by,1
+its,1
+rules,1
+from,1
+hindi,1

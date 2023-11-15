@@ -1,0 +1,10 @@
+74,322,10
+advise,1
+you,1
+emphatically,1
+not,1
+to,1
+resist,1
+present,1
+ban,1
+on,1

@@ -1,0 +1,14 @@
+20,95,8
+a,1
+that,1
+was,1
+the,2
+information,1
+laid,1
+before,1
+me,1
+not,1
+by,2
+police,1
+but,1
+somebody,1

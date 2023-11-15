@@ -1,0 +1,11 @@
+82,408,5
+and,1
+japan,1
+how,1
+can,1
+we,2
+when,1
+havent,1
+got,1
+it,1
+ourselves,1

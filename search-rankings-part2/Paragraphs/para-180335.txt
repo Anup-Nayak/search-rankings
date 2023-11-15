@@ -1,0 +1,11 @@
+51,259,17
+industries,1
+without,1
+discrimination,1
+the,1
+congress,1
+had,1
+to,1
+overcome,1
+other,1
+difficulties,1

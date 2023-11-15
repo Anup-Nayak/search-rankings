@@ -1,0 +1,7 @@
+79,356,6
+366,1
+letter,1
+to,1
+abdulla,1
+haroon,1
+rasheed,1

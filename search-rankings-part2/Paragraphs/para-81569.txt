@@ -1,0 +1,16 @@
+24,37,19
+the,1
+swadeshi,1
+vow,1
+not,1
+only,1
+now,1
+but,1
+for,1
+ever,2
+and,1
+he,1
+exhorted,1
+them,1
+never,1
+to,1

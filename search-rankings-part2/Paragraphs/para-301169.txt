@@ -1,0 +1,6 @@
+80,123,1
+215,1
+letter,1
+to,1
+rukmini,1
+bazaj,1

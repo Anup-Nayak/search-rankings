@@ -1,0 +1,5 @@
+13,122,1
+83,1
+the,1
+womens,1
+resolution,1

@@ -1,0 +1,7 @@
+13,144,3
+senator,2
+schreiner,1
+marshall,1
+campbell,1
+cape,1
+town,1

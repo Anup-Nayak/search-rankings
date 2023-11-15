@@ -1,0 +1,9 @@
+64,108,2
+1,1
+duty,1
+at,1
+the,1
+time,1
+of,1
+an,1
+emergency,1

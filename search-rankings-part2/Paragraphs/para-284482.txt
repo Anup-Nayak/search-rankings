@@ -1,0 +1,16 @@
+76,72,5
+janab,1
+saiyid,1
+asghar,1
+hasan,1
+saheb,1
+retired,1
+sessions,1
+judge,1
+tanzimal,1
+m,1
+victoria,1
+street,1
+lucknow,1
+u,1
+p,1

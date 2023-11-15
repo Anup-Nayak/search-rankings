@@ -1,0 +1,10 @@
+23,358,5
+2,1
+this,1
+sentence,1
+is,1
+supplied,1
+from,1
+the,1
+gujarati,1
+original,1

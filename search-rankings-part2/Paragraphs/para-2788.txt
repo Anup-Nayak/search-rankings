@@ -1,0 +1,14 @@
+2,75,5
+the,2
+colony,1
+loses,1
+its,1
+self,1
+respect,2
+and,1
+of,1
+others,1
+in,1
+resorting,1
+to,1
+such,1

@@ -1,0 +1,7 @@
+37,44,2
+the,1
+ashram,1
+thursday,1
+november,1
+18,1
+1926,1

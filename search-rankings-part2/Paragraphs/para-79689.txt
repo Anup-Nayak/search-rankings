@@ -1,0 +1,10 @@
+23,226,4
+1,1
+at,1
+the,2
+gujarat,1
+political,1
+conference,1
+vide,1
+preceding,1
+item,1

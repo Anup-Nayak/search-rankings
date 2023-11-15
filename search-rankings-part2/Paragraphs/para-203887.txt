@@ -1,0 +1,9 @@
+57,106,19
+enmity,1
+towards,1
+any,2
+person,1
+or,2
+nation,1
+life,1
+human,1

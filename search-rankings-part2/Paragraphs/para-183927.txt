@@ -1,0 +1,11 @@
+52,189,13
+of,1
+preventive,1
+medicine,1
+and,1
+health,1
+work,2
+all,1
+humanitarian,1
+must,1
+necessarily,1

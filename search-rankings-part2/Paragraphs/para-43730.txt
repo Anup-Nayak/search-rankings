@@ -1,0 +1,10 @@
+13,239,2
+1,1
+corrupt,1
+form,1
+of,1
+yogi,1
+used,1
+commonly,1
+for,1
+ascetic,1

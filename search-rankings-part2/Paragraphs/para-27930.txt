@@ -1,0 +1,6 @@
+9,223,4
+141,1
+natal,1
+bound,1
+indian,1
+passengers,1

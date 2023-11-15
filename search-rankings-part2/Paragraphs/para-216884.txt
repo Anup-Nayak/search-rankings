@@ -1,0 +1,14 @@
+59,500,11
+b,1
+use,1
+of,1
+public,1
+wells,1
+roads,1
+parks,1
+sarais,1
+dharmashalas,1
+burning,1
+ghats,1
+etc,1
+and,1

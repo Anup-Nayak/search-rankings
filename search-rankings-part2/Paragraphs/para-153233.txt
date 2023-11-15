@@ -1,0 +1,10 @@
+44,323,4
+3,1
+attacked,1
+with,1
+assagai,1
+a,1
+missile,1
+used,1
+by,1
+tribesmen,1

@@ -1,0 +1,13 @@
+64,265,8
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+hindi,1
+bapuki,1
+chhayamen,1
+mere,1
+jivanke,1
+solah,1
+varsha,1

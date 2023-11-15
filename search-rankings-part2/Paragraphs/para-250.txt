@@ -1,0 +1,5 @@
+1,63,3
+30,1
+work,1
+for,1
+vegetarianism,1

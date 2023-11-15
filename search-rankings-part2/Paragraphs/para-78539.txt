@@ -1,0 +1,11 @@
+23,20,7
+it,1
+provides,1
+both,1
+training,1
+in,2
+a,1
+craft,1
+and,1
+education,1
+letters,1

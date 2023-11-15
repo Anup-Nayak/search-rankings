@@ -1,0 +1,4 @@
+82,70,10
+vijaya,1
+m,1
+pancholi,1

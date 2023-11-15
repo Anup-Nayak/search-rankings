@@ -1,0 +1,13 @@
+78,40,9
+money,1
+may,1
+be,1
+deposited,1
+at,2
+a,2
+time,1
+or,1
+suitable,1
+intervals,1
+with,1
+certified,1

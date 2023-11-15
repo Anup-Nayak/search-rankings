@@ -1,0 +1,13 @@
+72,17,16
+it,1
+has,2
+started,1
+raining,1
+her,1
+e,1
+in,1
+right,1
+earnest,1
+the,1
+sky,1
+not,1

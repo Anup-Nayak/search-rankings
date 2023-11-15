@@ -1,0 +1,17 @@
+51,465,10
+there,1
+will,1
+be,2
+attempts,1
+to,1
+exploit,1
+any,1
+pretext,1
+for,1
+non,1
+payment,1
+i,1
+think,1
+it,1
+would,1
+a,1

@@ -1,0 +1,15 @@
+23,186,11
+he,1
+who,1
+does,1
+these,1
+himself,1
+or,1
+causes,1
+them,1
+to,1
+be,1
+done,1
+by,1
+others,1
+secretly,1

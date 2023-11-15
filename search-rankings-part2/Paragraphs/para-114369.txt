@@ -1,0 +1,13 @@
+33,470,4
+group,1
+ii,1
+baishyashahas,1
+subarnabanikas,1
+goldsmiths,1
+sutradharas,1
+carpenters,1
+jogis,1
+weavers,1
+sundis,1
+wine,1
+sellers,1

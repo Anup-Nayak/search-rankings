@@ -1,0 +1,5 @@
+46,449,2
+anti,1
+untouchability,1
+campaign,1
+1,1

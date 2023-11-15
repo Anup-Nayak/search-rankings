@@ -1,0 +1,11 @@
+75,360,4
+do,1
+you,1
+believe,1
+that,1
+the,2
+philosophy,1
+of,1
+aryasamaj,1
+encourages,1
+violence,1

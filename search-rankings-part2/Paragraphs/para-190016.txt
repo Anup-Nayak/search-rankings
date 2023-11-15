@@ -1,0 +1,11 @@
+53,392,3
+blessings,1
+from,2
+bapu,1
+gujarati,1
+c,1
+w,1
+903,1
+courtsey,1
+narandas,1
+gandhi,1

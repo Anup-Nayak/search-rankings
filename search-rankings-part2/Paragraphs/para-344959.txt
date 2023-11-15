@@ -1,0 +1,17 @@
+89,273,2
+m,1
+k,1
+gandhi,1
+on,1
+the,1
+train,1
+to,1
+madras,1
+january,1
+20,1
+1946,2
+from,1
+hindi,1
+khadi,1
+jagat,1
+february,1

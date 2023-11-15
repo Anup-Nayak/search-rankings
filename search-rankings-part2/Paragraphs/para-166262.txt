@@ -1,0 +1,14 @@
+47,448,2
+1,1
+these,1
+are,1
+various,1
+types,1
+of,2
+medicinal,1
+preparations,1
+oxides,1
+metals,1
+acids,1
+and,1
+intoxicants,1

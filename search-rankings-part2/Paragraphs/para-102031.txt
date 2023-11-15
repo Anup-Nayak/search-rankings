@@ -1,0 +1,7 @@
+30,110,1
+58,1
+speech,1
+at,1
+kshatriya,1
+conference,1
+sojitra,1

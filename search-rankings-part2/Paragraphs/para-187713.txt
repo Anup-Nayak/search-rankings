@@ -1,0 +1,7 @@
+53,132,6
+135,1
+letter,1
+to,1
+fulchand,1
+k,1
+shah,1

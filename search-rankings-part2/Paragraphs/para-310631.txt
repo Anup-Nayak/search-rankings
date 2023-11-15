@@ -1,0 +1,16 @@
+82,68,14
+a,1
+working,1
+knowledge,1
+of,1
+them,1
+he,1
+has,1
+noted,1
+the,1
+other,1
+news,1
+you,2
+give,1
+re,1
+what,1

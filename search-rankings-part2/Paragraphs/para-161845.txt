@@ -1,0 +1,14 @@
+46,410,12
+raja,1
+wires,1
+and,1
+insists,1
+you,1
+should,1
+preside,1
+prepare,1
+go,1
+come,1
+here,1
+before,1
+leaving,1

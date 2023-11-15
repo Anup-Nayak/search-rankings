@@ -1,0 +1,10 @@
+73,98,7
+q,1
+the,3
+zemindars,1
+and,1
+mahajans,1
+are,1
+instruments,1
+of,1
+bureaucracy,1

@@ -1,0 +1,12 @@
+63,82,9
+1,2
+a,1
+gujarati,1
+version,1
+of,1
+this,1
+appeared,1
+in,1
+harijanbandhu,1
+28,1
+1934,1

@@ -1,0 +1,4 @@
+65,361,3
+maneklal,1
+and,1
+radha,1

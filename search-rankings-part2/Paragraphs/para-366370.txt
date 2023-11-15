@@ -1,0 +1,11 @@
+94,395,8
+1,1
+the,2
+superscription,1
+is,1
+in,1
+devanagari,1
+script,1
+2,1
+regarding,1
+sevagram,1

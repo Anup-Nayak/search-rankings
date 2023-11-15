@@ -1,0 +1,6 @@
+25,65,4
+1,1
+custodian,1
+of,1
+a,1
+temple,1

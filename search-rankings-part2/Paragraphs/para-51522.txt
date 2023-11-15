@@ -1,0 +1,7 @@
+15,130,4
+110,1
+speech,1
+at,1
+surat,1
+reception,1
+1,1

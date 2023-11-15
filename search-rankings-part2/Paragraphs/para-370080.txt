@@ -1,0 +1,9 @@
+96,49,5
+gandhiji,1
+it,1
+will,1
+remain,1
+so,1
+for,1
+some,1
+time,1

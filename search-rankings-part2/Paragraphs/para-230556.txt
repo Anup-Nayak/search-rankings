@@ -1,0 +1,14 @@
+63,173,5
+1eldest,1
+son,1
+of,3
+dr,2
+pranjivan,2
+mehta,2
+2,1
+wife,1
+ratilal,1
+3,1
+daughters,1
+4,1
+ibid,1

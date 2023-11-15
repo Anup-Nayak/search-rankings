@@ -1,0 +1,9 @@
+13,144,20
+rights,1
+return,1
+on,1
+proof,1
+of,1
+three,1
+years,1
+resi,1

@@ -1,0 +1,7 @@
+90,379,7
+chadwick,1
+simla,1
+west,1
+may,1
+11,1
+1946,1

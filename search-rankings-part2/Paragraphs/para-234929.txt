@@ -1,0 +1,14 @@
+64,174,10
+charity,1
+and,2
+pity,1
+was,1
+the,1
+foundation,1
+of,1
+all,1
+religions,1
+that,1
+abhiman,1
+pride,1
+made,1

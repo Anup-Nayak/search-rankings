@@ -1,0 +1,8 @@
+13,145,14
+meet,1
+case,1
+stop,1
+marriages,1
+recognized,1
+as,1
+lawful,1

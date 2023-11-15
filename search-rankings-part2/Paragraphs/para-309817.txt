@@ -1,0 +1,12 @@
+81,511,6
+to,1
+face,1
+similar,1
+problems,1
+and,2
+village,1
+cottage,1
+industries,1
+afford,1
+a,1
+solution,1

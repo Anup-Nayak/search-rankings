@@ -1,0 +1,6 @@
+23,304,8
+138,1
+letter,1
+to,1
+kunvarji,1
+anandji,1

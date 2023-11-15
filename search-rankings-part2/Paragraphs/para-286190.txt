@@ -1,0 +1,9 @@
+76,256,5
+bapu,1
+shri,1
+popatlal,1
+chudgar,1
+barrister,1
+rajkot,1
+city,1
+kathiawar,1

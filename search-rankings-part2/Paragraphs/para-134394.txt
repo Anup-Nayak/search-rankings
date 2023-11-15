@@ -1,0 +1,14 @@
+39,200,11
+1,1
+from,1
+the,3
+reference,1
+in,1
+last,1
+paragraph,1
+to,1
+hindi,1
+conference,1
+vide,1
+preceding,1
+item,1

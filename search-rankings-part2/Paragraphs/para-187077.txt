@@ -1,0 +1,5 @@
+53,57,1
+61,1
+foreign,1
+cloth,1
+pledge,1

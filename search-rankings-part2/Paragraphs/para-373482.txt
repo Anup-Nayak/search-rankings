@@ -1,0 +1,14 @@
+96,437,13
+consequent,1
+on,1
+pandit,2
+kaks,1
+visit,1
+to,2
+both,1
+mr,1
+gandhi,1
+and,1
+nehru,1
+ask,1
+neither,1

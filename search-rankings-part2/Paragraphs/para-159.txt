@@ -1,0 +1,8 @@
+1,41,4
+1,1
+the,2
+other,1
+great,1
+epic,1
+is,1
+mahabharata,1

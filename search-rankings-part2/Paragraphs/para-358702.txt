@@ -1,0 +1,11 @@
+92,426,14
+1,1
+the,2
+extract,1
+from,1
+correspondents,1
+letter,1
+is,1
+not,1
+reproduced,1
+here,1

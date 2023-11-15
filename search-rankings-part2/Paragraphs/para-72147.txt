@@ -1,0 +1,6 @@
+20,422,2
+172,1
+letter,1
+to,1
+esther,1
+faering,1

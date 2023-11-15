@@ -1,0 +1,9 @@
+53,510,22
+using,1
+influence,1
+to,3
+get,1
+landlords,1
+allow,1
+ejected,1
+tenants,1

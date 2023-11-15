@@ -1,0 +1,7 @@
+5,161,2
+152,1
+the,2
+land,1
+act,1
+in,1
+transvaal,1

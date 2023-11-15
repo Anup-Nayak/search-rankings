@@ -1,0 +1,9 @@
+10,419,5
+249,1
+speech,1
+at,1
+banquet,1
+to,1
+rev,1
+j,2
+doke,1

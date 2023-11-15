@@ -1,0 +1,5 @@
+66,419,6
+a,1
+result,1
+of,1
+untouchability,1

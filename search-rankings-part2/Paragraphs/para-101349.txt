@@ -1,0 +1,4 @@
+29,504,2
+repression,1
+a,1
+symptom,1

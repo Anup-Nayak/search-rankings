@@ -1,0 +1,7 @@
+88,248,5
+prakash,1
+dufferin,1
+hospital,1
+bettiah,1
+dist,1
+champaran,1

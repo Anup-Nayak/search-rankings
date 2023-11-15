@@ -1,0 +1,15 @@
+82,36,4
+surely,1
+retorted,1
+the,1
+madame,1
+he,2
+did,1
+not,1
+marry,1
+an,1
+interpreter,1
+married,1
+a,1
+woman,1
+1,1

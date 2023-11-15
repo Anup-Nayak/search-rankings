@@ -1,0 +1,16 @@
+31,173,4
+parsi,1
+friends,1
+gandhiji,1
+delivered,1
+himself,1
+of,1
+his,1
+whole,1
+soul,1
+before,1
+them,1
+i,1
+dare,1
+say,1
+it,1

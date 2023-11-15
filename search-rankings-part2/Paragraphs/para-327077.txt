@@ -1,0 +1,7 @@
+85,319,2
+528,1
+letter,1
+to,1
+vithal,1
+v,1
+dastane,1

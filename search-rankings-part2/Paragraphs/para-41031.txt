@@ -1,0 +1,7 @@
+12,354,10
+krishna,1
+1,1
+appeared,1
+to,1
+be,1
+well,1

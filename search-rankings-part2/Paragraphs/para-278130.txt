@@ -1,0 +1,17 @@
+74,284,7
+blessings,1
+from,1
+bapu,1
+shri,1
+vaikunthbhai,1
+lallubhai,2
+mehta,1
+sir,1
+samaldass,1
+bungalow,1
+andheri,1
+b,2
+&,1
+c,1
+i,1
+rly,1

@@ -1,0 +1,4 @@
+9,475,4
+race,1
+age,1
+height,1

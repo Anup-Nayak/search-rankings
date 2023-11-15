@@ -1,0 +1,5 @@
+84,200,10
+shri,1
+bala,1
+saheb,1
+kher,1

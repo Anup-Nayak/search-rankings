@@ -1,0 +1,11 @@
+80,46,10
+amtul,1
+salaam,1
+care,1
+madam,1
+wadia,1
+arya,1
+sangh,1
+malabar,1
+hill,1
+bombay,1

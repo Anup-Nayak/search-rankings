@@ -1,0 +1,15 @@
+46,109,4
+enquire,1
+into,1
+and,3
+report,1
+upon,1
+the,3
+complaints,1
+of,2
+people,1
+bardoli,1
+taluk,2
+valod,1
+mahal,1
+chorasi,1

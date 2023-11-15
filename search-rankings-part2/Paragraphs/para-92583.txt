@@ -1,0 +1,15 @@
+27,287,2
+mr,2
+pennington,2
+on,1
+the,2
+war,1
+path,1
+sent,1
+following,1
+letter,1
+to,1
+my,1
+predecessor,1
+from,1
+france,1

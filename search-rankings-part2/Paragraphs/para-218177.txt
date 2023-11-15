@@ -1,0 +1,12 @@
+60,139,6
+1,1
+a,1
+german,1
+boy,1
+living,1
+with,1
+the,1
+menons,1
+at,1
+selly,1
+oak,1

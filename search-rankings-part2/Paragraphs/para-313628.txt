@@ -1,0 +1,13 @@
+82,310,26
+maunds,1
+the,3
+actual,1
+price,2
+paid,1
+by,1
+buyers,1
+is,2
+rs,1
+270,1
+this,1
+stateof,1

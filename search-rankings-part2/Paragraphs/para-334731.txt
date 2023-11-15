@@ -1,0 +1,8 @@
+87,144,9
+of,1
+parity,1
+between,1
+caste,1
+hindus,1
+and,1
+muslims,1

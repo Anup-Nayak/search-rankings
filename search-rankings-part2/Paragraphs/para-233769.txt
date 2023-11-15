@@ -1,0 +1,10 @@
+64,46,7
+68,1
+letter,1
+to,1
+keshavji,1
+raochand,1
+and,1
+kanji,1
+mulji,1
+sikka,1

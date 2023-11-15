@@ -1,0 +1,9 @@
+45,428,8
+kanti,1
+can,2
+go,1
+rajkot,1
+if,1
+goshala,1
+spare,1
+him,1

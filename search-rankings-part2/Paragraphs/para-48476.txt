@@ -1,0 +1,11 @@
+14,344,1
+279,1
+speech,1
+at,1
+rajkot,1
+in,1
+reply,1
+to,1
+citizens,1
+address,1
+1,1

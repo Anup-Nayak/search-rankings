@@ -1,0 +1,16 @@
+6,145,13
+the,2
+blacks,1
+are,1
+increasing,1
+at,1
+an,1
+enormously,1
+greater,1
+rate,1
+than,1
+whites,1
+it,1
+is,1
+true,1
+that,1

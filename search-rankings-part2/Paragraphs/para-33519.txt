@@ -1,0 +1,14 @@
+10,500,17
+from,1
+a,1
+photostat,1
+of,1
+the,1
+handwritten,1
+original,1
+signed,1
+by,1
+tolstoy,1
+s,1
+n,1
+5152b,1

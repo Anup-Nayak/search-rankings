@@ -1,0 +1,12 @@
+57,130,10
+were,1
+bound,1
+to,2
+consult,1
+me,1
+you,1
+failed,1
+do,1
+so,1
+no,1
+matter,1

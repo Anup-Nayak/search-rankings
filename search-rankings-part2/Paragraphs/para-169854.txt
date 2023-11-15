@@ -1,0 +1,5 @@
+49,10,1
+9,1
+speech,1
+in,1
+vijalpore,1

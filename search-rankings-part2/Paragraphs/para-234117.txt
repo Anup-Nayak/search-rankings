@@ -1,0 +1,10 @@
+64,81,6
+from,1
+hindi,1
+c,1
+w,1
+9716,1
+courtesy,1
+dr,1
+rajendra,1
+prasad,1

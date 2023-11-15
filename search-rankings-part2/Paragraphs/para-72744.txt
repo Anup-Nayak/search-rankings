@@ -1,0 +1,10 @@
+21,38,11
+indian,1
+home,2
+rule,2
+league,2
+the,2
+all,1
+india,1
+bombay,1
+national,1

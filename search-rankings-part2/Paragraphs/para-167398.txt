@@ -1,0 +1,10 @@
+48,145,4
+1,1
+gandhiji,1
+spoke,1
+first,1
+in,2
+hindi,1
+and,1
+then,1
+english,1

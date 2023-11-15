@@ -1,0 +1,9 @@
+36,114,9
+2,1
+the,3
+chandalas,1
+are,1
+outcastes,1
+of,1
+aryan,1
+society,1

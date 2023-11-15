@@ -1,0 +1,6 @@
+3,246,2
+159,1
+prejudice,1
+with,1
+a,1
+vengeance,1

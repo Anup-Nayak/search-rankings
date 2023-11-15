@@ -1,0 +1,8 @@
+35,189,5
+253,1
+the,1
+congress,1
+resolution,1
+on,1
+south,1
+africa,1

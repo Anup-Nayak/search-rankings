@@ -1,0 +1,10 @@
+41,458,5
+prior,1
+my,1
+departure,1
+personally,1
+i,1
+could,1
+ask,1
+for,1
+no,1

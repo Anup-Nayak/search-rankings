@@ -1,0 +1,8 @@
+87,145,24
+decision,1
+but,1
+in,1
+this,1
+you,1
+shall,1
+judge,1

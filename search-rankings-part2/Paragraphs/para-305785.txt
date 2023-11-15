@@ -1,0 +1,13 @@
+81,60,9
+that,1
+the,3
+forward,1
+bloc,1
+is,1
+not,1
+a,1
+part,1
+of,1
+congress,1
+organization,1
+statementon,1

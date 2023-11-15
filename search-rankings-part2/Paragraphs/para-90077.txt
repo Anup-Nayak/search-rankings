@@ -1,0 +1,11 @@
+26,440,10
+january,1
+7,1
+sunday,1
+finished,1
+reading,1
+my,1
+philosophy,1
+and,1
+religion,1
+yesterday,1

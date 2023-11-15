@@ -1,0 +1,7 @@
+47,272,1
+308,1
+letter,1
+to,1
+kateshwar,1
+prasad,1
+panday,1

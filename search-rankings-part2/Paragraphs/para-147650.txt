@@ -1,0 +1,14 @@
+43,66,8
+1,1
+of,1
+the,3
+north,1
+american,1
+review,1
+interview,1
+took,1
+place,1
+in,1
+ashram,1
+at,1
+ahmedabad,1

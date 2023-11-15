@@ -1,0 +1,14 @@
+82,390,22
+e,1
+while,1
+during,1
+the,2
+critical,1
+period,1
+which,1
+now,1
+faces,1
+india,1
+and,1
+until,1
+new,1

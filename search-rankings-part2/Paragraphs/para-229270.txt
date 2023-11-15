@@ -1,0 +1,13 @@
+62,458,19
+not,1
+permit,1
+the,2
+hindu,2
+communalists,1
+to,1
+play,1
+an,1
+important,1
+role,1
+in,1
+politics,1

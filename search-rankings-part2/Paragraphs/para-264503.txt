@@ -1,0 +1,7 @@
+71,132,30
+of,1
+being,1
+coerced,1
+under,1
+physical,1
+pressure,1

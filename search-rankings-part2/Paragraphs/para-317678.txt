@@ -1,0 +1,8 @@
+83,220,5
+i,1
+am,1
+yours,1
+etc,1
+m,1
+k,1
+gandhi,1

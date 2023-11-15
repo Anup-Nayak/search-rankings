@@ -1,0 +1,4 @@
+9,166,6
+isa,1
+hajee,1
+sumar,1

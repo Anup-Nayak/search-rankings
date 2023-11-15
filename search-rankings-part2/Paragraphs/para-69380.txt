@@ -1,0 +1,8 @@
+19,484,4
+i,1
+say,1
+to,1
+thee,1
+do,1
+thou,1
+repeat,1

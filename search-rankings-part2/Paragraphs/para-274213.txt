@@ -1,0 +1,5 @@
+73,331,10
+1,1
+vide,1
+higer,1
+education,1

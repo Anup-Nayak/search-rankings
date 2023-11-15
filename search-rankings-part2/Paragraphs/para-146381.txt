@@ -1,0 +1,15 @@
+42,403,7
+a,1
+correspondent,1
+impatient,1
+to,1
+stop,1
+the,1
+marriages,1
+of,1
+aged,1
+men,1
+with,1
+young,1
+girls,1
+writes,1

@@ -1,0 +1,13 @@
+27,213,3
+mrs,1
+naidus,1
+energy,1
+is,1
+wonderful,1
+she,1
+has,1
+slight,1
+fever,1
+and,1
+headache,1
+at,1

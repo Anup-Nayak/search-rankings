@@ -1,0 +1,17 @@
+17,316,5
+2,1
+the,4
+words,1
+published,1
+by,1
+sabha,1
+do,1
+not,1
+occur,1
+in,2
+gujarati,1
+version,1
+of,1
+instructions,1
+mahadevbhaini,1
+diary,1

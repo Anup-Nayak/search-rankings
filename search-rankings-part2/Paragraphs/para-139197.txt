@@ -1,0 +1,15 @@
+40,484,3
+a,1
+they,1
+can,1
+be,1
+and,1
+varna,1
+is,1
+preserved,1
+even,1
+by,1
+marrying,1
+into,1
+other,1
+varnas,1

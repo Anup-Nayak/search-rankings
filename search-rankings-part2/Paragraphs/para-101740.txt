@@ -1,0 +1,6 @@
+30,54,1
+the,1
+congress,1
+and,1
+indian,1
+states,1

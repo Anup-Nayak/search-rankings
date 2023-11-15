@@ -1,0 +1,13 @@
+91,83,11
+q,1
+to,2
+a,1
+second,1
+customer,1
+are,1
+you,1
+able,1
+spin,1
+all,1
+this,1
+yarn,1

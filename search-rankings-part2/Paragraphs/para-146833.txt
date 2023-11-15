@@ -1,0 +1,5 @@
+42,457,3
+526,1
+religious,1
+education,1
+1,1

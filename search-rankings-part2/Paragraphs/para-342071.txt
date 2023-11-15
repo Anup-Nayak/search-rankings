@@ -1,0 +1,6 @@
+88,374,6
+695,1
+letter,1
+to,1
+zohra,1
+chawda,1

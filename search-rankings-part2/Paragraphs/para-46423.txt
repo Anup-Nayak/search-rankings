@@ -1,0 +1,6 @@
+14,64,4
+a,1
+gentleman,1
+writes,1
+to,1
+us,1

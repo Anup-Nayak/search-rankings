@@ -1,0 +1,12 @@
+3,198,2
+dr,1
+johnston,1
+the,4
+specialist,1
+on,1
+condition,1
+of,1
+buildings,1
+in,1
+indian,1
+location,1

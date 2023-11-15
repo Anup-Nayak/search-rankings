@@ -1,0 +1,11 @@
+94,349,10
+1,1
+wife,1
+of,2
+ambalal,1
+sarabhai,1
+2,1
+the,1
+a,2
+i,1
+s,1

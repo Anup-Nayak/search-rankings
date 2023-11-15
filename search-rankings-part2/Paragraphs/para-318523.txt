@@ -1,0 +1,16 @@
+83,384,13
+same,1
+time,1
+gain,1
+in,2
+a,1
+free,1
+india,1
+an,1
+ally,1
+not,1
+the,2
+cause,1
+of,1
+empirebecause,1
+she,1

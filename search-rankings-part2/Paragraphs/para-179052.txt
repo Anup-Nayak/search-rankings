@@ -1,0 +1,7 @@
+51,128,8
+lover,1
+of,1
+peace,1
+efforts,1
+are,1
+therefore,1

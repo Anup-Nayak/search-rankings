@@ -1,0 +1,8 @@
+17,191,11
+2,1
+kasturba,1
+gandhi,1
+1869,1
+1942,1
+gandhijis,1
+wife,1

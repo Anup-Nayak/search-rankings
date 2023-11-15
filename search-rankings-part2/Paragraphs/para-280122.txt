@@ -1,0 +1,7 @@
+75,50,11
+r,1
+ajendra,1
+prasad,1
+sadaqat,1
+ashram,1
+patna,1

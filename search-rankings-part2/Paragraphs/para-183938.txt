@@ -1,0 +1,14 @@
+52,189,24
+hindu,1
+religion,1
+at,1
+its,1
+best,1
+while,1
+he,2
+was,2
+a,2
+devout,1
+jew,1
+never,1
+communalist,1

@@ -1,0 +1,13 @@
+31,104,2
+1,1
+king,1
+of,2
+ayodhya,1
+who,1
+suffered,1
+the,2
+severest,1
+ordeals,1
+for,1
+sake,1
+truth,1

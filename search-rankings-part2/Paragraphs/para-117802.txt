@@ -1,0 +1,7 @@
+35,48,4
+shri,1
+jamnalalji,1
+writes,1
+from,1
+hardwar,1
+1,1

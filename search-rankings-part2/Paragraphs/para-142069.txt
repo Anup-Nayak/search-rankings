@@ -1,0 +1,11 @@
+41,360,5
+1,1
+the,1
+extracts,1
+quoted,1
+are,1
+not,1
+reproduced,1
+here,1
+2,1
+ibid,1

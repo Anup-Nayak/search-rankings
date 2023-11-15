@@ -1,0 +1,15 @@
+71,371,16
+sent,1
+to,2
+him,2
+earlier,1
+by,1
+the,2
+correspondent,1
+and,1
+asked,1
+read,1
+it,1
+aloud,1
+for,1
+benefit,1

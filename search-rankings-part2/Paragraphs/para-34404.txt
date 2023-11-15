@@ -1,0 +1,5 @@
+11,100,1
+110,1
+an,1
+interesting,1
+group,1

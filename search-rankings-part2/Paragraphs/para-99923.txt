@@ -1,0 +1,8 @@
+29,298,7
+staying,1
+with,1
+you,2
+i,1
+expect,1
+to,1
+avoid,1

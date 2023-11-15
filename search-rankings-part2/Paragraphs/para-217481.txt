@@ -1,0 +1,7 @@
+60,47,4
+63,1
+letter,1
+to,1
+mian,1
+mohammad,1
+rafique,1

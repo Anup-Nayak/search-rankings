@@ -1,0 +1,13 @@
+12,217,4
+stand,1
+at,1
+georgetown,1
+location,1
+now,1
+i,1
+am,1
+instructed,1
+to,1
+obtain,1
+evidence,1
+in,1

@@ -1,0 +1,6 @@
+82,124,1
+141,1
+defending,1
+the,1
+indefensible,1
+1,1

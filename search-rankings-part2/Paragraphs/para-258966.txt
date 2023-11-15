@@ -1,0 +1,10 @@
+69,368,11
+1,1
+from,1
+the,2
+date,1
+of,1
+receipt,1
+recorded,1
+on,1
+letter,1

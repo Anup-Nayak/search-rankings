@@ -1,0 +1,6 @@
+60,405,4
+484,1
+letter,1
+to,1
+chavali,1
+satyanarayana,1

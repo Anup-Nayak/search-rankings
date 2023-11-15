@@ -1,0 +1,10 @@
+39,495,6
+m,1
+k,1
+gandhi,1
+sjt,1
+motilal,1
+roy,1
+pravartak,1
+sangh,1
+chandranagar,1

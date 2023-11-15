@@ -1,0 +1,10 @@
+94,422,7
+n,1
+k,1
+boses,1
+letter,1
+to,1
+kedar,1
+nath,1
+and,1
+others,1

@@ -1,0 +1,9 @@
+45,10,6
+12,1
+speech,1
+at,1
+depressed,1
+classes,1
+meeting,1
+karachi,1
+2,1

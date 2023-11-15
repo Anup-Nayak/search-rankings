@@ -1,0 +1,5 @@
+88,98,9
+khadi,1
+jagat,1
+october,1
+1945,1

@@ -1,0 +1,7 @@
+73,92,9
+1,1
+it,1
+being,1
+jallianwala,1
+bagh,1
+day,1

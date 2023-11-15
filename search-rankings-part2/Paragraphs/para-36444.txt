@@ -1,0 +1,9 @@
+11,305,1
+state,1
+europeans,1
+in,1
+particular,1
+stop,1
+i,1
+propose,1
+leaving,1

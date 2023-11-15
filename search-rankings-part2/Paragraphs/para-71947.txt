@@ -1,0 +1,7 @@
+20,387,1
+150,1
+speech,1
+on,1
+swadeshi,1
+nadiad,1
+1,1

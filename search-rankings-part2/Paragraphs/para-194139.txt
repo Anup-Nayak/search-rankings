@@ -1,0 +1,8 @@
+54,397,19
+1,1
+daughter,1
+and,1
+son,1
+of,1
+narahari,1
+parikh,1

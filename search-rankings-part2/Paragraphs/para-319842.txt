@@ -1,0 +1,15 @@
+84,60,1
+pyarelal,1
+to,1
+you,2
+that,1
+too,2
+depends,1
+upon,1
+your,1
+health,1
+i,1
+know,1
+are,1
+none,1
+well,1

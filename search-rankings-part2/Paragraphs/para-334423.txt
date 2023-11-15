@@ -1,0 +1,12 @@
+87,114,16
+east,1
+empty,1
+without,1
+central,1
+fact,1
+indias,1
+freedom,1
+i,1
+can,1
+hope,1
+only,1

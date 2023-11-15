@@ -1,0 +1,10 @@
+44,476,11
+t2,1
+for,1
+may,1
+even,2
+be,1
+guj,1
+has,1
+is,1
+considered,1

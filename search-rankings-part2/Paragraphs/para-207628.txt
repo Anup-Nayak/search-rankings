@@ -1,0 +1,13 @@
+58,35,5
+1,1
+father,1
+in,1
+law,1
+of,1
+ratilal,1
+mehta,1
+2,1
+dr,1
+pranjivan,1
+mehtas,1
+son,1

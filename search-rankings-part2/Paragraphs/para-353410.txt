@@ -1,0 +1,13 @@
+91,317,9
+a,1
+certainly,1
+it,2
+ought,1
+to,1
+no,1
+effort,1
+can,1
+be,1
+too,1
+great,1
+for,1

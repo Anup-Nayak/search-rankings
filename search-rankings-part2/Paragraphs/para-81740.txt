@@ -1,0 +1,15 @@
+24,67,6
+fashionable,1
+to,1
+drink,1
+more,1
+in,1
+dress,1
+they,2
+are,1
+no,1
+better,1
+have,1
+given,1
+up,1
+the,1

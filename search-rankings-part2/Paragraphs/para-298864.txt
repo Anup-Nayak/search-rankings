@@ -1,0 +1,12 @@
+79,375,2
+blessings,1
+from,1
+bapu,1
+sardar,1
+vallabhbhai,1
+patel,1
+dr,1
+kanugas,1
+bungalow,1
+ellis,1
+bridge,1

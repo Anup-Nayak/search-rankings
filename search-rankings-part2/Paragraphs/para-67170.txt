@@ -1,0 +1,13 @@
+19,194,2
+natural,1
+state,1
+is,2
+at,1
+least,1
+innocent,1
+of,2
+the,3
+worst,1
+vices,1
+east,1
+indian,1

@@ -1,0 +1,11 @@
+23,372,9
+delhi,1
+2,2
+ajmer,1
+and,2
+merwara,1
+1,4
+orissa,1
+assam,1
+4,2
+burma,1

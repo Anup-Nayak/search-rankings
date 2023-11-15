@@ -1,0 +1,6 @@
+46,157,14
+scavenging,1
+spinning,1
+weaving,1
+and,1
+shoemaking,1

@@ -1,0 +1,5 @@
+69,327,5
+tyrant,1
+robber,1
+bapu,1
+etc,1

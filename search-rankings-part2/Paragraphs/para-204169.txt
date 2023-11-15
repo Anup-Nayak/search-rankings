@@ -1,0 +1,11 @@
+57,129,10
+amount,1
+to,1
+coercion,1
+ask,1
+yourself,1
+whether,1
+there,1
+is,1
+any,1
+room,1

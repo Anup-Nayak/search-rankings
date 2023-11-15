@@ -1,0 +1,9 @@
+26,158,2
+blessings,1
+from,2
+bapu,1
+gujarati,1
+navajivan,1
+7,1
+10,1
+1923,1

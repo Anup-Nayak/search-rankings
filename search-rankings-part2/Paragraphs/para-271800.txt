@@ -1,0 +1,17 @@
+73,41,4
+president,1
+kripalaniji,1
+wants,1
+to,2
+say,1
+something,1
+about,1
+what,1
+was,1
+discussed,1
+yesterday,1
+i,1
+call,1
+upon,1
+him,1
+start,1

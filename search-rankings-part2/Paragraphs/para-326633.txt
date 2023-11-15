@@ -1,0 +1,17 @@
+85,275,10
+1,1
+romain,1
+rolland,1
+died,1
+on,1
+december,1
+30,1
+1944,1
+in,1
+vezelay,1
+france,1
+2,1
+vide,1
+the,1
+following,1
+item,1

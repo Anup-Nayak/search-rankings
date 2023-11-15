@@ -1,0 +1,8 @@
+74,177,10
+her,2
+my,2
+love,1
+tell,1
+finish,1
+bombay,1
+await,1

@@ -1,0 +1,6 @@
+42,198,16
+220,1
+letter,1
+to,1
+ramnarayan,1
+pathak,1

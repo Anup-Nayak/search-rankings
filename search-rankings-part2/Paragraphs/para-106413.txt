@@ -1,0 +1,13 @@
+31,261,17
+towns,1
+to,1
+the,3
+simplicity,1
+of,2
+village,1
+and,1
+this,1
+message,1
+spinning,1
+wheel,1
+was,1

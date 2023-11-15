@@ -1,0 +1,12 @@
+44,509,27
+t7,1
+guj,1
+has,1
+if,1
+these,1
+are,2
+the,1
+lines,1
+along,1
+which,1
+you,1

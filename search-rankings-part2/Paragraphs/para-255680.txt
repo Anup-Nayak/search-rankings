@@ -1,0 +1,13 @@
+69,33,6
+3,1
+dr,1
+m,1
+a,1
+ansari,1
+s,2
+brother,1
+son,1
+4,1
+illegible,1
+5,1
+ibid,1

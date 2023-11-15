@@ -1,0 +1,11 @@
+30,216,4
+q,1
+do,1
+you,1
+consider,1
+the,1
+last,1
+settlement,1
+a,1
+forced,1
+choice,1

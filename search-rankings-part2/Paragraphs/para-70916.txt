@@ -1,0 +1,9 @@
+20,215,7
+impossible,1
+leave,1
+without,1
+full,1
+discussion,1
+cancel,1
+passages,1
+2,1

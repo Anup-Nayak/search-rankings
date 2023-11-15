@@ -1,0 +1,15 @@
+39,420,9
+i,2
+expect,1
+that,1
+you,1
+received,1
+my,1
+letters,1
+1,1
+should,1
+like,1
+to,1
+have,1
+your,1
+reply,1

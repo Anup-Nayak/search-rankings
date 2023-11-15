@@ -1,0 +1,13 @@
+76,389,8
+present,1
+western,1
+civilization,1
+is,1
+based,1
+the,2
+right,1
+of,1
+strong,1
+to,1
+rule,1
+and,1

@@ -1,0 +1,10 @@
+44,480,32
+t3,1
+for,1
+could,2
+be,1
+god,2
+himself,1
+guj,1
+has,1
+become,1

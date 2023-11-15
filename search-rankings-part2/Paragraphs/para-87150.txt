@@ -1,0 +1,7 @@
+25,443,4
+1,1
+lands,1
+held,1
+under,1
+privileged,1
+tenure,1

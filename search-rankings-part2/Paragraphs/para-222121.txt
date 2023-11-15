@@ -1,0 +1,7 @@
+61,110,15
+131,1
+letter,1
+to,1
+d,1
+v,1
+parachure,1

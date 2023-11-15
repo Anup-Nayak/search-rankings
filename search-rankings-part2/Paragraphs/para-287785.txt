@@ -1,0 +1,12 @@
+76,428,8
+1,1
+vide,1
+congress,1
+working,1
+committee,1
+resolution,1
+11,1
+8,1
+1939,1
+2,1
+ibid,1

@@ -1,0 +1,11 @@
+94,226,3
+stop,1
+it,1
+here,1
+too,1
+and,1
+hold,1
+your,2
+prayers,1
+in,1
+room,1

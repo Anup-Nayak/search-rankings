@@ -1,0 +1,7 @@
+2,314,3
+102,1
+congress,1
+resolution,1
+on,1
+refugees,1
+1,1

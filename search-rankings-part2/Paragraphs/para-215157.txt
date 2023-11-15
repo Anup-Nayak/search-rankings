@@ -1,0 +1,8 @@
+59,317,2
+1,1
+physicians,1
+practising,1
+ayurvedic,1
+system,1
+of,1
+medicine,1

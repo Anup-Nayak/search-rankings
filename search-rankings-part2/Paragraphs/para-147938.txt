@@ -1,0 +1,9 @@
+43,100,5
+s,1
+subramaniam,1
+government,1
+english,1
+school,1
+segamat,1
+johore,1
+malaya,1

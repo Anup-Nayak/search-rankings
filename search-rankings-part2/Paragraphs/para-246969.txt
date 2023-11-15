@@ -1,0 +1,17 @@
+67,17,11
+blessings,1
+from,2
+bapu,1
+shri,1
+parikshitlal,1
+harijan,1
+ashram,1
+sabarmati,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+g,1
+n,1
+3955,1

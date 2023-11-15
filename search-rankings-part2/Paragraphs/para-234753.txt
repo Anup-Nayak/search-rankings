@@ -1,0 +1,7 @@
+64,154,3
+i,1
+hope,1
+you,1
+are,1
+doing,1
+well,1

@@ -1,0 +1,11 @@
+47,396,6
+1,1
+an,1
+expert,1
+carder,1
+and,1
+khadi,1
+worker,1
+at,1
+sabarmati,1
+ashram,1

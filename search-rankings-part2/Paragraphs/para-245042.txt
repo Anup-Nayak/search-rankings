@@ -1,0 +1,8 @@
+66,305,4
+bapu,1
+dr,1
+edmond,1
+privat,1
+bellavista,1
+locarno,1
+switzerland,1

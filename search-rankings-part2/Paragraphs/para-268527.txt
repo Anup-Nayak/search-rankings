@@ -1,0 +1,4 @@
+72,169,3
+a,1
+professor,1
+writes,1

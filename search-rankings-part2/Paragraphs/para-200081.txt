@@ -1,0 +1,7 @@
+56,121,3
+141,1
+letter,1
+to,1
+shamal,1
+r,1
+raval,1

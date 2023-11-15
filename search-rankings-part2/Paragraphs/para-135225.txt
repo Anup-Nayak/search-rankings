@@ -1,0 +1,12 @@
+39,313,5
+1,1
+from,2
+mahadev,2
+desais,2
+article,1
+talks,1
+with,1
+missionaries,1
+2,1
+weekly,1
+letter,1

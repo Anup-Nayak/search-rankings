@@ -1,0 +1,9 @@
+56,343,4
+1,1
+nitin,1
+who,1
+died,1
+of,1
+tuberculosis,1
+in,1
+germany,1

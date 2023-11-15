@@ -1,0 +1,12 @@
+15,359,6
+from,1
+a,1
+copy,1
+of,1
+gujarati,1
+c,1
+w,1
+11170,1
+courtesy,1
+chhaganlal,1
+gandhi,1

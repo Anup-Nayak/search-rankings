@@ -1,0 +1,12 @@
+80,295,15
+1,1
+vide,1
+also,1
+the,2
+preceding,1
+item,1
+2,1
+omission,1
+as,1
+in,1
+source,1

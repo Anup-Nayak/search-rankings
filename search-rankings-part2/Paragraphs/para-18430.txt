@@ -1,0 +1,6 @@
+6,355,4
+bribery,1
+is,1
+religion,1
+of,1
+indians,1

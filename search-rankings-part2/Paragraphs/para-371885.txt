@@ -1,0 +1,7 @@
+96,249,18
+349,1
+talk,1
+with,1
+stuart,1
+nelson,1
+1,1

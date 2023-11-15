@@ -1,0 +1,16 @@
+65,449,7
+the,1
+total,1
+value,1
+of,1
+books,1
+slates,1
+soaps,1
+clothes,1
+given,1
+came,1
+to,1
+rs,1
+206,1
+2,1
+6,1

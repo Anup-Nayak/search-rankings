@@ -1,0 +1,10 @@
+36,422,5
+mohandas,1
+gandhi,1
+shriyut,1
+chimanlal,1
+gulabchand,1
+vora,1
+shrimali,1
+mohalla,1
+ratlam,1

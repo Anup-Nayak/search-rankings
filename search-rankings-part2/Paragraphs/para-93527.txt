@@ -1,0 +1,12 @@
+27,407,11
+was,1
+arrested,1
+along,1
+with,2
+sjt,1
+george,1
+joseph,1
+and,1
+others,1
+in,1
+connection,1

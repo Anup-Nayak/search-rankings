@@ -1,0 +1,7 @@
+51,56,11
+1,1
+widow,1
+of,1
+dal,1
+bahadur,1
+giri,1

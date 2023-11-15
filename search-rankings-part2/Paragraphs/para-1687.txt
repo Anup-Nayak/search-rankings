@@ -1,0 +1,7 @@
+1,334,4
+natal,1
+franchise,1
+bill,1
+or,1
+ministerial,1
+alteration,1

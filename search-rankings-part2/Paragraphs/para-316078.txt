@@ -1,0 +1,11 @@
+83,13,4
+q,1
+would,1
+not,1
+dominion,1
+status,1
+declared,1
+today,1
+do,1
+equally,1
+well,1

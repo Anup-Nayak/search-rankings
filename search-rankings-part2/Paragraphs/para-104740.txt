@@ -1,0 +1,14 @@
+31,22,8
+found,1
+out,1
+the,2
+difference,1
+when,1
+they,1
+themselves,1
+took,1
+up,1
+spade,1
+and,2
+shovel,1
+bent,1

@@ -1,0 +1,15 @@
+21,65,2
+1,1
+medical,1
+practitioner,1
+and,1
+congress,1
+leader,1
+of,1
+the,1
+punjab,1
+deported,1
+on,1
+april,1
+10,1
+1919,1

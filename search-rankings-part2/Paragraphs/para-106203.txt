@@ -1,0 +1,16 @@
+31,235,7
+as,1
+a,1
+declared,1
+friend,1
+of,1
+the,1
+british,1
+mr,1
+gandhi,1
+regretted,1
+that,1
+he,1
+was,1
+unable,1
+to,1

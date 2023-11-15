@@ -1,0 +1,6 @@
+56,421,1
+ps,1
+i,1
+know,1
+about,1
+kaka,1

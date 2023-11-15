@@ -1,0 +1,15 @@
+32,460,13
+men,1
+detained,1
+under,1
+the,2
+bengal,1
+ordinance,1
+by,1
+this,1
+one,1
+declaration,1
+he,1
+cut,1
+away,1
+real,1

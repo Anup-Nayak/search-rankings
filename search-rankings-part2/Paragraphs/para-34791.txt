@@ -1,0 +1,13 @@
+11,147,15
+number,2
+of,1
+specially,1
+qualified,1
+indians,1
+per,1
+annum,1
+the,2
+suggested,1
+in,1
+past,1
+was,1

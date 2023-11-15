@@ -1,0 +1,11 @@
+96,118,7
+1,1
+the,1
+maharani,1
+had,1
+presented,1
+to,1
+gandhiji,1
+her,1
+gold,1
+bangles,1

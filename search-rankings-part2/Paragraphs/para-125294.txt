@@ -1,0 +1,8 @@
+36,459,5
+trades,1
+and,1
+not,1
+for,1
+their,1
+intrinsic,1
+worth,1

@@ -1,0 +1,6 @@
+71,121,7
+141,1
+intellectual,1
+development,1
+or,1
+dissipation,1

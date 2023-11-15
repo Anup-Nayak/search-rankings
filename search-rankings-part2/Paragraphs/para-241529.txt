@@ -1,0 +1,9 @@
+65,427,10
+1,1
+shri,1
+jairamdas,1
+doulatram,1
+market,1
+street,1
+hyderabad,1
+sind,1

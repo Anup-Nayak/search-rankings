@@ -1,0 +1,7 @@
+70,157,2
+q,1
+you,1
+would,1
+not,1
+industrialize,1
+india,1

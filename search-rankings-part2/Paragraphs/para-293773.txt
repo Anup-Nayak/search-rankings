@@ -1,0 +1,11 @@
+78,221,16
+j,1
+l,1
+4,1
+came,1
+in,1
+yesterday,1
+he,1
+left,1
+this,1
+morning,1

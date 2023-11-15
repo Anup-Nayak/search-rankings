@@ -1,0 +1,17 @@
+12,149,8
+this,1
+meeting,1
+protests,1
+against,1
+the,1
+proof,1
+of,3
+being,2
+a,2
+domiciled,2
+person,2
+or,2
+wife,1
+child,1
+an,1
+immigrant,1

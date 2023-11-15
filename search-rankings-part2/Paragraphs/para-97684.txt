@@ -1,0 +1,12 @@
+29,31,4
+mohandas,1
+gandhi,1
+sjt,1
+bhavani,1
+dayal,1
+p,1
+o,1
+jacobs,1
+natal,1
+south,1
+africa,1

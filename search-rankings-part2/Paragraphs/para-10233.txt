@@ -1,0 +1,9 @@
+4,257,3
+201,1
+longevity,1
+among,1
+the,2
+whites,1
+and,1
+coloured,1
+people,1

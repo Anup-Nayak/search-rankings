@@ -1,0 +1,12 @@
+15,339,2
+from,1
+a,1
+facsimile,1
+of,1
+the,1
+original,1
+given,1
+in,1
+mahatma,1
+vol,1
+i,1

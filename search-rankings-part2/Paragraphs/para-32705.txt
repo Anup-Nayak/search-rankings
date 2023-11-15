@@ -1,0 +1,4 @@
+10,401,6
+231,1
+educated,1
+indians,1

@@ -1,0 +1,15 @@
+62,193,2
+1,1
+someone,1
+in,1
+the,4
+gathering,1
+said,1
+that,1
+magistrate,1
+had,1
+not,1
+allowed,1
+burning,1
+of,1
+effigy,1

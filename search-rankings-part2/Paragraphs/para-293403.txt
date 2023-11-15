@@ -1,0 +1,13 @@
+78,187,10
+mama,1
+end,1
+your,2
+fast,2
+i,1
+shall,1
+not,1
+judge,1
+you,1
+may,1
+bear,1
+fruit,1

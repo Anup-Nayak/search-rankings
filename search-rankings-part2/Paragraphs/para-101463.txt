@@ -1,0 +1,9 @@
+30,5,3
+8,1
+resolutions,1
+moved,1
+from,1
+the,1
+chair,1
+belgaum,1
+congress,1

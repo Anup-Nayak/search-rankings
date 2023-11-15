@@ -1,0 +1,17 @@
+75,255,11
+daughter,1
+amtul,1
+salaam,1
+i,1
+have,1
+your,1
+letter,1
+fasting,1
+can,1
+do,1
+you,1
+no,1
+good,1
+it,1
+appears,1
+that,1

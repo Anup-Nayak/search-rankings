@@ -1,0 +1,10 @@
+88,161,2
+bapu,1
+miss,1
+a,1
+m,1
+petersen,1
+seva,1
+mandir,1
+porto,1
+novo,1

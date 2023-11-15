@@ -1,0 +1,6 @@
+36,65,2
+stocking,1
+of,1
+cotton,1
+in,1
+panchtalavada,1

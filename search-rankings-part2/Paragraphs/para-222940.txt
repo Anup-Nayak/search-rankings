@@ -1,0 +1,6 @@
+61,192,10
+253,1
+letter,1
+to,1
+margarete,1
+spiegel,1

@@ -1,0 +1,7 @@
+39,92,6
+101,1
+letter,1
+to,1
+victor,1
+mohan,1
+joshi,1

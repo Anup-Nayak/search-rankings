@@ -1,0 +1,5 @@
+61,73,12
+82,1
+a,1
+harijans,1
+questions,1

@@ -1,0 +1,7 @@
+71,222,2
+227,1
+the,1
+cochin,1
+temple,1
+entry,1
+ban,1

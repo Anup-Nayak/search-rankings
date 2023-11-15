@@ -1,0 +1,13 @@
+57,116,1
+should,1
+not,1
+die,1
+with,1
+me,1
+but,1
+live,1
+to,1
+carry,1
+on,1
+my,1
+work,1

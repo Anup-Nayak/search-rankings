@@ -1,0 +1,9 @@
+63,488,8
+abandoning,1
+bengal,1
+tour,2
+as,1
+walking,1
+in,1
+utkal,1
+is,1

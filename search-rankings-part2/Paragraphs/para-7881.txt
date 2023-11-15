@@ -1,0 +1,6 @@
+3,301,2
+199,1
+the,2
+bazaars,1
+in,1
+transvaal,1

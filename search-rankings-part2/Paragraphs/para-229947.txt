@@ -1,0 +1,8 @@
+63,83,1
+pay,1
+would,1
+be,1
+part,1
+of,1
+overhead,1
+charges,1

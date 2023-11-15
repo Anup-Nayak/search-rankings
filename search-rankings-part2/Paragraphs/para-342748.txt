@@ -1,0 +1,13 @@
+89,22,3
+blessings,1
+from,1
+bapu,1
+shri,1
+shitikanth,1
+jha,1
+khadi,1
+pratishthan,1
+gram,1
+seva,1
+kendra,1
+thakurdandi,1

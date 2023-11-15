@@ -1,0 +1,8 @@
+67,183,5
+gandhiji,1
+is,1
+not,1
+this,1
+wheel,1
+a,1
+machine,1

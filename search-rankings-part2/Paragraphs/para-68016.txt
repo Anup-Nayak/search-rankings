@@ -1,0 +1,16 @@
+19,292,5
+and,1
+a,1
+man,1
+standing,1
+at,1
+right,1
+angles,1
+may,1
+be,1
+wounded,1
+but,1
+the,1
+suggestion,1
+that,2
+was,1

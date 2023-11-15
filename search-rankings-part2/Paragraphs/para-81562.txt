@@ -1,0 +1,17 @@
+24,37,12
+foreign,1
+cloth,1
+by,1
+the,1
+30th,1
+of,1
+september,1
+it,1
+was,1
+their,2
+duty,1
+to,1
+see,1
+that,1
+they,1
+kept,1

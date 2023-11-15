@@ -1,0 +1,8 @@
+68,65,13
+letter,1
+swaraj,1
+bhawan,1
+wants,1
+definition,1
+decisive,1
+attitude,1

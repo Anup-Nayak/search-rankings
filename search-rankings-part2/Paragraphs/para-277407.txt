@@ -1,0 +1,7 @@
+74,203,2
+275,1
+talk,1
+to,1
+minorities,1
+deputation,1
+1,1

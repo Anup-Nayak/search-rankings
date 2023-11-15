@@ -1,0 +1,12 @@
+35,366,12
+from,1
+a,1
+microf,1
+ilm,1
+of,1
+the,1
+gujara,1
+ti,1
+s,1
+n,1
+10942,1

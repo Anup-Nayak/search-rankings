@@ -1,0 +1,7 @@
+75,167,11
+please,1
+welcome,1
+wafdist,1
+delegation,1
+on,1
+my,1

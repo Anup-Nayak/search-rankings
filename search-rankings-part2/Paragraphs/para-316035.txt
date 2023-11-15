@@ -1,0 +1,13 @@
+83,9,10
+q,1
+when,1
+you,2
+speak,1
+of,1
+the,1
+response,2
+mean,1
+to,1
+your,1
+new,1
+proposal,1

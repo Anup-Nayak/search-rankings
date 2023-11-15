@@ -1,0 +1,11 @@
+9,340,1
+necessary,1
+for,1
+a,1
+satyagrahi,1
+is,1
+pursuit,1
+of,1
+truth,2
+faith,1
+in,1

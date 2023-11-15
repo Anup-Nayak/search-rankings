@@ -1,0 +1,17 @@
+15,352,6
+i,1
+wish,1
+to,1
+serve,1
+my,1
+countrymen,1
+and,1
+the,2
+planters,1
+through,1
+government,1
+where,1
+their,1
+assistance,1
+is,1
+necessary,1

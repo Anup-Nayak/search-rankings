@@ -1,0 +1,8 @@
+73,46,1
+bapu,1
+kripalani,1
+has,1
+put,1
+it,1
+upside,1
+down,1

@@ -1,0 +1,5 @@
+13,112,4
+comparison,1
+with,1
+previous,1
+campaign,1

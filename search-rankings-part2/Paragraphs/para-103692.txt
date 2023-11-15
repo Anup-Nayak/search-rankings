@@ -1,0 +1,9 @@
+30,314,3
+ratilal,1
+champa,1
+marriage,1
+celebrated,1
+happy,1
+auspices,1
+with,1
+full,1

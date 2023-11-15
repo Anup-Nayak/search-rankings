@@ -1,0 +1,7 @@
+49,151,2
+karadi,1
+midnight,1
+monday,1
+april,1
+21,1
+1930,1

@@ -1,0 +1,10 @@
+2,128,6
+to,1
+w,1
+e,1
+peachey,1
+esq,1
+secretary,1
+for,1
+zululand,1
+pietermaritzburg,1

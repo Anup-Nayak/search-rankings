@@ -1,0 +1,16 @@
+78,448,3
+5,1
+00,1
+000,2
+40,1
+we,1
+ask,1
+andrewss,1
+friends,1
+and,1
+admirers,1
+all,1
+over,1
+the,1
+world,1
+to,1

@@ -1,0 +1,10 @@
+97,232,7
+from,1
+a,1
+copy,1
+of,1
+the,1
+hindi,1
+pyarelal,2
+pepers,1
+courtesy,1

@@ -1,0 +1,8 @@
+39,123,12
+1,1
+mo,1
+sama,1
+kaun,1
+kutila,1
+khala,1
+kami,1

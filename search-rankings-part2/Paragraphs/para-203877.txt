@@ -1,0 +1,11 @@
+57,106,9
+corner,1
+of,1
+this,1
+world,1
+it,1
+is,1
+really,1
+inteded,1
+to,1
+cover,1

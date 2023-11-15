@@ -1,0 +1,13 @@
+90,174,8
+s,1
+suppose,1
+no,1
+merchant,1
+comes,1
+forward,1
+is,1
+not,1
+a,1
+struggle,1
+possible,1
+then,1

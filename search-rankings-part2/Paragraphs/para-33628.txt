@@ -1,0 +1,16 @@
+10,510,8
+3,1
+in,1
+fact,1
+by,1
+rev,1
+j,2
+doke,1
+vide,1
+letter,1
+to,1
+lord,1
+ampthill,1
+10,1
+11,1
+1909,1

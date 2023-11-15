@@ -1,0 +1,13 @@
+51,196,33
+him,1
+on,2
+the,3
+other,1
+matters,1
+in,1
+note,1
+he,1
+produced,1
+difficulties,1
+subject,1
+of,1

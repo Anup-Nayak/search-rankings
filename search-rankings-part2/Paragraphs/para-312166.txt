@@ -1,0 +1,17 @@
+82,190,8
+my,1
+great,1
+horror,1
+and,2
+dismay,1
+i,1
+found,1
+that,1
+he,1
+is,1
+confined,1
+day,1
+night,1
+to,1
+a,1
+dark,1

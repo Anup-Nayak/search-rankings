@@ -1,0 +1,7 @@
+33,257,5
+148,1
+takli,1
+spinning,1
+in,1
+ahmedabad,1
+1,1

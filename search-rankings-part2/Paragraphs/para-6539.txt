@@ -1,0 +1,9 @@
+3,57,8
+his,1
+excellency,1
+the,2
+lieutenant,1
+governor,1
+of,1
+transvaal,1
+pretoria,1

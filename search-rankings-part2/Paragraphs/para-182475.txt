@@ -1,0 +1,4 @@
+52,37,16
+1,1
+gangabehn,1
+vaidya,1

@@ -1,0 +1,16 @@
+94,58,3
+let,1
+nirmal,1
+babu,1
+examine,1
+my,1
+replies,1
+for,1
+the,2
+style,1
+as,2
+well,1
+manner,1
+are,1
+they,1
+satisfactory,1

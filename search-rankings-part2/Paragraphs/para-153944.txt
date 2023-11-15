@@ -1,0 +1,4 @@
+44,475,4
+t8,1
+guj,1
+hascontract,1

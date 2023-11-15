@@ -1,0 +1,12 @@
+10,326,7
+2a,1
+contributor,1
+to,1
+the,2
+amrita,1
+bazar,1
+patrika,1
+calcutta,1
+and,1
+punjabee,1
+lahore,1

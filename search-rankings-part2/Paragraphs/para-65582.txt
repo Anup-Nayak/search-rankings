@@ -1,0 +1,5 @@
+18,437,4
+316,1
+the,1
+punjab,1
+committee,1

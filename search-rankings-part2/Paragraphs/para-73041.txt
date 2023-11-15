@@ -1,0 +1,15 @@
+21,79,4
+shaukat,1
+ali,1
+ahmed,1
+haji,1
+siddick,1
+khatri,1
+saifuddin,1
+kitchlew,1
+fazul,1
+ul,1
+hassan,1
+hasrat,1
+mohani,1
+2,1

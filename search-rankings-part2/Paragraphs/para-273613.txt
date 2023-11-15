@@ -1,0 +1,12 @@
+73,257,9
+1,1
+from,1
+the,1
+reference,1
+to,1
+hanna,1
+who,1
+arrived,1
+on,1
+june,1
+26,1

@@ -1,0 +1,8 @@
+11,303,23
+tion,1
+given,1
+by,2
+counsel,1
+and,1
+apparently,1
+accepted,1

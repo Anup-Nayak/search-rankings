@@ -1,0 +1,5 @@
+23,0,2
+indians,1
+in,1
+south,1
+africa,1

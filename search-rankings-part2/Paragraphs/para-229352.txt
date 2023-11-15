@@ -1,0 +1,6 @@
+63,4,4
+4,1
+speech,1
+at,1
+thuravur,1
+1,1

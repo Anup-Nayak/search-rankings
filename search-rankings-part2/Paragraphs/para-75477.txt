@@ -1,0 +1,7 @@
+21,507,12
+5,1
+has,1
+led,1
+to,1
+a,1
+controversy,1

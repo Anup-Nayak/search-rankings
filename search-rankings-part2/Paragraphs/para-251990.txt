@@ -1,0 +1,6 @@
+68,83,15
+1,1
+bread,1
+2,1
+crisp,1
+chapati,1

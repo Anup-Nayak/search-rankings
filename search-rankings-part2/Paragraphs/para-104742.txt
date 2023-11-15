@@ -1,0 +1,14 @@
+31,22,10
+spinning,1
+wheel,1
+in,2
+the,3
+villages,1
+and,1
+how,1
+villagers,1
+co,1
+operated,1
+with,1
+party,1
+all,1

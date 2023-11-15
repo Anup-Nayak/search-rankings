@@ -1,0 +1,7 @@
+92,23,4
+36,1
+do,1
+not,1
+forget,1
+harijans,1
+2,1

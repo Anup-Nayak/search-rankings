@@ -1,0 +1,8 @@
+94,46,3
+sudhir,1
+ghosh,1
+1,1
+aurangzeb,1
+road,1
+new,1
+delhi,1

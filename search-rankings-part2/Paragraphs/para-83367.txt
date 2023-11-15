@@ -1,0 +1,16 @@
+24,344,3
+1,1
+this,1
+was,2
+one,1
+of,1
+the,1
+articles,1
+for,1
+which,1
+gandhiji,1
+sentenced,1
+to,1
+six,1
+years,1
+imprisonment,1

@@ -1,0 +1,7 @@
+13,370,16
+european,1
+opinion,1
+increasingly,1
+favours,1
+repeal,1
+tax,1

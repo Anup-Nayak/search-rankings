@@ -1,0 +1,6 @@
+29,461,10
+396,1
+non,1
+co,1
+operating,1
+students,1

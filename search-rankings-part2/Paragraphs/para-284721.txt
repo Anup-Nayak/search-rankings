@@ -1,0 +1,15 @@
+76,101,8
+superhuman,1
+powers,1
+it,1
+is,1
+something,1
+to,1
+hear,1
+that,1
+you,1
+have,1
+difficulties,1
+and,1
+are,1
+human,1

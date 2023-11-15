@@ -1,0 +1,13 @@
+30,161,5
+1895,1
+lawyer,1
+journalist,1
+and,1
+politician,1
+then,1
+secretary,1
+tamil,1
+nad,1
+congress,1
+khaddar,1
+board,1

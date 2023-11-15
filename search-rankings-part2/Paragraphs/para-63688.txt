@@ -1,0 +1,8 @@
+18,128,20
+nel,1
+by,1
+civil,1
+disobedience,1
+which,1
+is,1
+nothing,1

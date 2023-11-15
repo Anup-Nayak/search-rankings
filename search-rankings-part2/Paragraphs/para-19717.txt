@@ -1,0 +1,16 @@
+6,530,5
+b,1
+if,1
+such,2
+person,1
+is,1
+the,2
+holder,1
+of,3
+a,1
+certificate,2
+registration,1
+to,1
+cancellation,1
+by,1
+registrar,1

@@ -1,0 +1,6 @@
+6,428,9
+1,1
+vide,1
+ladysmith,1
+struggle,1
+p,1

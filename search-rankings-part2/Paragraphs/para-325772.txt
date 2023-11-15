@@ -1,0 +1,15 @@
+85,192,2
+vandemataram,1
+from,1
+m,1
+k,1
+gandhi,1
+dr,1
+b,1
+p,1
+pathak,1
+ayurvedic,1
+college,1
+benares,1
+hindu,1
+university,1

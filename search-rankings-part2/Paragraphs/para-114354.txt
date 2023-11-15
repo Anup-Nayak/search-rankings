@@ -1,0 +1,12 @@
+33,469,13
+respect,1
+for,1
+independence,1
+of,1
+opinion,1
+even,1
+when,2
+unpopular,1
+so,1
+that,1
+although,1

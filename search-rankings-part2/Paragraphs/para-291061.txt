@@ -1,0 +1,11 @@
+77,406,4
+1,1
+illegible,1
+in,2
+the,3
+source,1
+2,1
+sentence,1
+is,1
+as,1
+original,1

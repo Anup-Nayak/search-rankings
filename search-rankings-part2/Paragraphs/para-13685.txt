@@ -1,0 +1,15 @@
+5,296,10
+1,1
+this,2
+is,1
+in,2
+gandhijis,1
+hand,1
+2,1
+was,1
+reproduced,1
+indian,1
+opinion,1
+11,1
+8,1
+1906,1

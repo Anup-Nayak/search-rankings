@@ -1,0 +1,10 @@
+7,41,12
+1,1
+particulars,1
+in,2
+this,1
+form,2
+are,1
+as,1
+f,1
+above,1

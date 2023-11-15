@@ -1,0 +1,7 @@
+13,434,5
+passive,1
+resistance,1
+and,1
+congratulated,1
+brave,1
+brothers,1

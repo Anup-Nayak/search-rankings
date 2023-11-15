@@ -1,0 +1,8 @@
+90,423,8
+message,1
+of,1
+friendship,1
+which,1
+is,1
+warmly,1
+reciprocated,1

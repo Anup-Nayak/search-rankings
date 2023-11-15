@@ -1,0 +1,11 @@
+76,214,10
+for,1
+our,2
+country,2
+any,1
+planning,1
+in,1
+that,1
+ignores,1
+the,1
+absorption,1

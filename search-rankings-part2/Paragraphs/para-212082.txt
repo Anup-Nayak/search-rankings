@@ -1,0 +1,15 @@
+58,485,15
+1,1
+the,1
+source,1
+has,1
+12,3
+10,1
+1932,2
+which,1
+seems,1
+to,1
+be,1
+a,1
+misprint,1
+for,1

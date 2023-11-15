@@ -1,0 +1,11 @@
+31,61,3
+bombay,1
+march,1
+26,1
+1925,1
+pandit,1
+m,2
+malaviya,1
+birla,1
+mill,1
+delhi,1

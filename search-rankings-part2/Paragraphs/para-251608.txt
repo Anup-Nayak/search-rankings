@@ -1,0 +1,12 @@
+68,41,6
+a,1
+correspondent,1
+sends,1
+the,1
+following,1
+useful,1
+recipe,1
+for,1
+preserving,1
+gur,1
+2,1

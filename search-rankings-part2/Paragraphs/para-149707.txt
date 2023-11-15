@@ -1,0 +1,6 @@
+43,312,12
+ashram,1
+wardha,1
+december,1
+2,1
+1928,1

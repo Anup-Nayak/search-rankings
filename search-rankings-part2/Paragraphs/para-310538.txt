@@ -1,0 +1,11 @@
+82,61,6
+i,1
+hope,1
+you,1
+find,1
+no,1
+difficulty,1
+in,1
+deciphering,1
+my,1
+handwriting,1

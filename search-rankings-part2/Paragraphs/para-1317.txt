@@ -1,0 +1,11 @@
+1,252,6
+contract,1
+and,2
+remain,1
+competitors,1
+against,1
+the,1
+colonists,1
+those,1
+whom,1
+for,1

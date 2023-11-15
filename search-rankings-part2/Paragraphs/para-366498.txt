@@ -1,0 +1,4 @@
+94,411,2
+gandhi,1
+camp,1
+patna,1

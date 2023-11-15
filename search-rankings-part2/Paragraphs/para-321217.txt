@@ -1,0 +1,10 @@
+84,199,5
+from,1
+a,1
+microfilm,1
+of,1
+the,1
+gujarati,1
+m,2
+u,1
+/xxiv,1

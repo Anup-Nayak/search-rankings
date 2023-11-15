@@ -1,0 +1,10 @@
+38,49,7
+1,1
+the,1
+meeting,1
+was,1
+held,1
+in,1
+a,1
+local,1
+hall,1

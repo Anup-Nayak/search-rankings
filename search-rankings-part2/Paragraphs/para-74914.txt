@@ -1,0 +1,6 @@
+21,417,8
+college,1
+precincts,1
+wire,1
+express,1
+nadiad,1

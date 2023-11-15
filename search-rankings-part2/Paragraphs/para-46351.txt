@@ -1,0 +1,10 @@
+14,52,13
+yesterday,1
+and,1
+was,1
+most,1
+cordial,1
+he,1
+offered,1
+all,1
+help,1

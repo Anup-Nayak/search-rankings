@@ -1,0 +1,6 @@
+38,239,6
+229,1
+national,1
+week,1
+and,1
+gujarat,1

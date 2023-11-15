@@ -1,0 +1,15 @@
+27,453,6
+pressure,1
+to,1
+quote,1
+an,1
+example,1
+in,1
+kaira,1
+1,1
+the,2
+government,1
+that,1
+opposed,1
+people,1
+was,1

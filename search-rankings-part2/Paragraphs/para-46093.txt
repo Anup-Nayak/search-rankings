@@ -1,0 +1,8 @@
+14,20,10
+if,1
+necessary,1
+are,1
+to,2
+be,1
+allowed,1
+nominate,1

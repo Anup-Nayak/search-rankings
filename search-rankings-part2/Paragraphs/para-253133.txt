@@ -1,0 +1,10 @@
+68,202,8
+shri,1
+fulchand,1
+kasturchand,1
+shah,1
+rashtriya,1
+shala,1
+wadhwan,1
+city,1
+kathiawar,1

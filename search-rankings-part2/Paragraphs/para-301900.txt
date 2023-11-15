@@ -1,0 +1,12 @@
+80,192,4
+blessings,1
+from,1
+bapu,1
+shri,1
+munnalalji,1
+charkha,1
+sangh,1
+khadi,1
+vastralaya,1
+mool,1
+distt,1

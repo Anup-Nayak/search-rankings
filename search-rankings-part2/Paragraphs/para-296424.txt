@@ -1,0 +1,7 @@
+79,64,3
+65,1
+indore,1
+state,1
+and,1
+harijans,1
+1,1

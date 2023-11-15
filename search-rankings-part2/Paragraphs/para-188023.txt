@@ -1,0 +1,9 @@
+53,168,2
+1,1
+the,2
+four,2
+castes,1
+and,1
+stages,1
+of,1
+life,1

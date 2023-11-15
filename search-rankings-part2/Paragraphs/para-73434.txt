@@ -1,0 +1,6 @@
+21,132,1
+91,1
+the,2
+doctrine,1
+of,1
+sword,1

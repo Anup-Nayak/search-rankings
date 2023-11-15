@@ -1,0 +1,8 @@
+84,440,7
+i,1
+am,1
+too,1
+feeble,1
+for,1
+active,1
+propaganda,1

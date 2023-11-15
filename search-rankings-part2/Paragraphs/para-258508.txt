@@ -1,0 +1,10 @@
+69,321,4
+wire,1
+exact,1
+condition,1
+body,1
+including,1
+thumb,1
+as,1
+medically,1
+certified,1

@@ -1,0 +1,6 @@
+54,64,4
+1,1
+perin,1
+captain,2
+and,1
+nargis,1

@@ -1,0 +1,6 @@
+36,106,5
+113,1
+letter,1
+to,1
+prabhashankar,1
+pattani,1

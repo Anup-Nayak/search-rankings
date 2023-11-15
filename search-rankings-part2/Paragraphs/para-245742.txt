@@ -1,0 +1,6 @@
+66,371,7
+550,1
+letter,1
+to,1
+viyogi,1
+hari,1

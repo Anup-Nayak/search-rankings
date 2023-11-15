@@ -1,0 +1,9 @@
+50,45,12
+1,1
+bheek,1
+marathi,1
+means,2
+alms,1
+beek,1
+gujarati,1
+fear,1

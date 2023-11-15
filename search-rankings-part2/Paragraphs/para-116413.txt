@@ -1,0 +1,6 @@
+34,402,7
+148,1
+letter,1
+to,1
+burra,1
+satyanarayana,1

@@ -1,0 +1,7 @@
+14,472,20
+1,1
+telegram,1
+from,1
+minister,1
+of,1
+interior,1

@@ -1,0 +1,5 @@
+82,85,5
+100,1
+letter,1
+to,1
+annapurna,1

@@ -1,0 +1,6 @@
+80,102,6
+180,1
+letter,1
+to,1
+abrahim,1
+rahimtoola,1

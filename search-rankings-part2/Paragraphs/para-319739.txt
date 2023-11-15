@@ -1,0 +1,8 @@
+84,52,4
+slowly,1
+progressing,1
+no,1
+cause,1
+anxiety,1
+expect,1
+you,1

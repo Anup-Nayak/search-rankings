@@ -1,0 +1,6 @@
+35,37,5
+60,1
+does,1
+india,1
+want,1
+prohibition,1

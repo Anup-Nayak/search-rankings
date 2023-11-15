@@ -1,0 +1,12 @@
+10,78,10
+we,1
+beg,1
+to,2
+invite,1
+your,1
+attention,1
+a,1
+statement,1
+prepared,1
+by,1
+us,1

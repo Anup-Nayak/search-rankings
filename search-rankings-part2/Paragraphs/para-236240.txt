@@ -1,0 +1,8 @@
+64,325,3
+hope,1
+you,1
+are,1
+doing,1
+needful,1
+regarding,1
+alleged,1

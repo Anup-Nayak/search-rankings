@@ -1,0 +1,10 @@
+44,484,32
+t2,1
+guj,1
+has,1
+as,1
+they,1
+left,1
+one,1
+after,1
+another,1

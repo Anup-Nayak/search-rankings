@@ -1,0 +1,12 @@
+82,180,5
+blessings,1
+from,1
+bapu,1
+seth,1
+govinddas,1
+raja,1
+gokuldas,1
+palace,1
+jabalpur,1
+c,1
+p,1

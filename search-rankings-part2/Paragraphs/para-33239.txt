@@ -1,0 +1,14 @@
+10,475,3
+3,1
+this,1
+sentence,1
+though,1
+generally,1
+attributed,1
+to,1
+the,2
+gita,1
+is,1
+from,1
+brahmabindu,1
+upanished,1

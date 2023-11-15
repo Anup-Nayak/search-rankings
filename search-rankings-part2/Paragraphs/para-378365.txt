@@ -1,0 +1,6 @@
+98,175,5
+current,1
+rates,2
+in,1
+november,1
+before,1

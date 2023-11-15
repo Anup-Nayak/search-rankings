@@ -1,0 +1,7 @@
+65,120,6
+blessings,1
+from,1
+bapu,1
+kamala,1
+nehru,1
+allahabad,1

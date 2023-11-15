@@ -1,0 +1,7 @@
+42,118,10
+women,1
+49,1
+sisters,1
+in,1
+the,1
+ashram,1

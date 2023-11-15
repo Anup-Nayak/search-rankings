@@ -1,0 +1,5 @@
+46,217,1
+163,1
+smallpox,1
+and,1
+cholera,1

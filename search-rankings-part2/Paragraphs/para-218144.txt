@@ -1,0 +1,17 @@
+60,135,4
+1,1
+the,2
+source,1
+has,1
+detachment,1
+evidently,1
+a,1
+slip,1
+2,1
+names,1
+have,1
+been,1
+omitted,1
+3,1
+ibid,2
+4,1

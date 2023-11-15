@@ -1,0 +1,9 @@
+17,320,6
+304,1
+letter,1
+to,1
+the,1
+press,1
+on,1
+national,1
+school,1

@@ -1,0 +1,15 @@
+96,439,21
+mr,1
+gandhi,1
+broke,1
+in,1
+with,1
+a,1
+wise,1
+observation,1
+he,1
+pointed,1
+out,1
+that,1
+the,1
+mere,1

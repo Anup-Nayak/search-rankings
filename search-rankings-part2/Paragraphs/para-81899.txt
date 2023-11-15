@@ -1,0 +1,17 @@
+24,99,19
+all,1
+their,1
+foreign,1
+clothes,1
+and,1
+to,1
+burn,1
+them,2
+if,1
+need,1
+be,1
+reminding,1
+at,1
+the,1
+same,1
+time,1

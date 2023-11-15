@@ -1,0 +1,10 @@
+51,334,14
+while,1
+andhra,1
+tamilnad,1
+karnatak,1
+and,1
+utkal,1
+went,1
+without,1
+any,1

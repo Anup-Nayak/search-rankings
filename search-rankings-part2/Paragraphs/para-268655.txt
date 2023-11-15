@@ -1,0 +1,8 @@
+72,184,10
+fruition,1
+with,1
+active,1
+cooperation,1
+of,1
+prisoner,1
+friends,1

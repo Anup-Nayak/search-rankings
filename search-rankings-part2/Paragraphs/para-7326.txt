@@ -1,0 +1,4 @@
+3,196,9
+health,1
+of,1
+indians,1

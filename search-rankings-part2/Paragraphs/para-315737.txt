@@ -1,0 +1,10 @@
+82,415,27
+untouchables,1
+sikhs,1
+workers,1
+peasants,1
+industrialists,1
+indian,1
+civil,1
+servants,1
+and,1

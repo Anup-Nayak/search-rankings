@@ -1,0 +1,10 @@
+18,177,6
+from,1
+gujarati,1
+gujarat,2
+mitra,1
+ane,1
+darpan,1
+13,1
+7,1
+1919,1

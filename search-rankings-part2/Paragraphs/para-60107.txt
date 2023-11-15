@@ -1,0 +1,6 @@
+17,160,5
+141,1
+letter,1
+t0,1
+kasturba,1
+gandhi,1

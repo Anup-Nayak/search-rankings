@@ -1,0 +1,10 @@
+7,152,5
+extracts,1
+from,1
+the,2
+bill,1
+dealt,1
+with,1
+in,1
+foregoing,1
+petition,1

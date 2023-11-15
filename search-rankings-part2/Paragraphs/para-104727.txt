@@ -1,0 +1,13 @@
+31,21,2
+mahatma,1
+gandhi,1
+asked,1
+the,2
+audience,1
+not,1
+to,1
+leave,1
+meeting,1
+until,1
+he,1
+reached,1

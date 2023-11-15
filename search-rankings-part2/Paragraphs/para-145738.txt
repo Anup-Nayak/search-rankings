@@ -1,0 +1,16 @@
+42,327,5
+1,1
+an,1
+impregnable,1
+phalanx,1
+of,1
+the,1
+kaurava,1
+army,1
+which,1
+abhimanyu,1
+alone,1
+was,1
+able,1
+to,1
+destroy,1

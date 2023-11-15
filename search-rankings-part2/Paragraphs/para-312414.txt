@@ -1,0 +1,12 @@
+82,212,9
+mother,1
+tongue,1
+and,1
+where,1
+would,1
+be,1
+the,1
+harm,1
+in,1
+so,1
+doing,1

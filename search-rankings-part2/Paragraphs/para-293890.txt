@@ -1,0 +1,15 @@
+78,229,19
+violent,1
+battle,1
+when,1
+she,1
+is,1
+not,2
+beset,1
+on,1
+all,1
+sides,1
+will,1
+it,1
+require,1
+greater,1

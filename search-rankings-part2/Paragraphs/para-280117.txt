@@ -1,0 +1,9 @@
+75,50,6
+jamnalalji,1
+is,2
+safe,1
+wherever,1
+he,1
+2,1
+trying,1
+issue,1

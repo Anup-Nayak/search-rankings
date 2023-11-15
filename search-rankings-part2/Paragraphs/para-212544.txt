@@ -1,0 +1,6 @@
+59,32,5
+46,1
+letter,1
+to,1
+bindu,1
+dastane,1

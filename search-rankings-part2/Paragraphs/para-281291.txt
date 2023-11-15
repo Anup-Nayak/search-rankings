@@ -1,0 +1,10 @@
+75,179,3
+6,1
+it,1
+is,1
+our,1
+duty,1
+to,1
+protect,1
+the,1
+afflicted,1

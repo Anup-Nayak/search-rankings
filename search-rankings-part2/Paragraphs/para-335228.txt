@@ -1,0 +1,8 @@
+87,185,2
+manor,1
+ville,1
+simla,1
+west,1
+june,1
+28,1
+1945,1

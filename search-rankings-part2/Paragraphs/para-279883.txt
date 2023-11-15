@@ -1,0 +1,6 @@
+75,23,9
+bloodpressure,1
+156/98,1
+last,1
+night,1
+jamnalalji,1

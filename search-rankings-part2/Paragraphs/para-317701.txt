@@ -1,0 +1,8 @@
+83,222,1
+fasting,1
+1,1
+without,1
+water,1
+near,1
+sevagram,1
+ashram,1

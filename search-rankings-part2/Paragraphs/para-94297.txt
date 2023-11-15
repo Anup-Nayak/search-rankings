@@ -1,0 +1,4 @@
+28,12,2
+parody,1
+of,1
+religion,1

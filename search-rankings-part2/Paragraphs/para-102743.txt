@@ -1,0 +1,14 @@
+30,203,19
+q,1
+do,1
+you,1
+take,1
+only,1
+these,1
+two,1
+incidents,1
+as,1
+the,1
+cause,1
+of,1
+disturbances,1

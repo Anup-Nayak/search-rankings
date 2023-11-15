@@ -1,0 +1,14 @@
+20,26,6
+2,1
+to,1
+examine,1
+and,1
+consider,1
+the,1
+difficulties,1
+that,1
+have,1
+arisen,1
+in,1
+dealing,1
+with,1

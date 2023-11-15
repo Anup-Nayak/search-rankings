@@ -1,0 +1,4 @@
+72,169,2
+230,1
+sufficiently,1
+acquainted,1

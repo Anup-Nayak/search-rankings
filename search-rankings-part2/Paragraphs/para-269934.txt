@@ -1,0 +1,8 @@
+72,333,4
+the,1
+writer,1
+at,1
+once,1
+proceeds,1
+to,1
+say,1

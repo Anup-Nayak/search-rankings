@@ -1,0 +1,5 @@
+60,299,4
+bhor,1
+state,1
+and,1
+untouchability,1

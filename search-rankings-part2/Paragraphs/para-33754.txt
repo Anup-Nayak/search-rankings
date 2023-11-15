@@ -1,0 +1,4 @@
+11,14,3
+18,1
+journalists,1
+duty,1

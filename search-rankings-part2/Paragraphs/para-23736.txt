@@ -1,0 +1,12 @@
+8,100,6
+in,2
+what,1
+part,1
+of,1
+the,2
+prison,1
+were,1
+you,1
+placed,1
+native,1
+section,1

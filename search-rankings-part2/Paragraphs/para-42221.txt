@@ -1,0 +1,9 @@
+13,50,4
+read,1
+bill,1
+unacceptable,1
+sent,1
+full,1
+telegrams,1
+2,1
+cape,1

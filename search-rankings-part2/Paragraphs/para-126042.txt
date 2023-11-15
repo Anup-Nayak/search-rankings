@@ -1,0 +1,6 @@
+37,32,12
+38,1
+spinning,1
+as,1
+deathbed,1
+consolation,1

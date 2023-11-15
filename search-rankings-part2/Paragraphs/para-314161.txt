@@ -1,0 +1,5 @@
+82,353,12
+memorial,1
+museum,1
+and,1
+library,1

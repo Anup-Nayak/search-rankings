@@ -1,0 +1,9 @@
+59,32,15
+1,1
+vermilion,1
+mark,1
+on,1
+the,1
+forehead,1
+of,1
+women,1

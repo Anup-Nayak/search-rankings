@@ -1,0 +1,10 @@
+81,405,1
+677,1
+speech,1
+at,1
+gujarat,1
+provincial,1
+congress,1
+committee,1
+meeting,1
+1,1

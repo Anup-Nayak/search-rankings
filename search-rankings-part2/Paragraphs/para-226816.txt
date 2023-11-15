@@ -1,0 +1,5 @@
+62,134,3
+156,1
+advice,1
+to,1
+harijans,1

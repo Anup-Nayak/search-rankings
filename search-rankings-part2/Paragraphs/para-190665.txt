@@ -1,0 +1,9 @@
+53,480,8
+the,3
+artist,1
+do,1
+you,1
+include,1
+civilians,1
+with,1
+troops,1

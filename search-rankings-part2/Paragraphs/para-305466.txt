@@ -1,0 +1,7 @@
+81,32,1
+58,1
+letter,1
+to,1
+natvarlal,1
+j,1
+vepari,1

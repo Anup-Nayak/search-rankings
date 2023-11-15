@@ -1,0 +1,5 @@
+49,379,4
+am,1
+praying,1
+for,1
+light,1

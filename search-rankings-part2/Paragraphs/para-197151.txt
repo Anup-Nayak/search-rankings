@@ -1,0 +1,7 @@
+55,268,2
+descriptive,1
+list,1
+of,1
+non,1
+political,1
+associates,1

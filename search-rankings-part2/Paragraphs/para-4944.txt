@@ -1,0 +1,6 @@
+2,336,4
+117,1
+statement,1
+of,1
+account,1
+2,1

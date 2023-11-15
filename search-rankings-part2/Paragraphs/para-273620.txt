@@ -1,0 +1,3 @@
+73,258,6
+leave,1
+bangalore,1

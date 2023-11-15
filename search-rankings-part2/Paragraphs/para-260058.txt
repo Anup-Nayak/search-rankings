@@ -1,0 +1,7 @@
+70,19,3
+31,1
+speech,1
+at,1
+labourers,1
+meeting,1
+ahmedabad,1

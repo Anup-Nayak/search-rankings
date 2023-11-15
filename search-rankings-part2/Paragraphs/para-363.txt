@@ -1,0 +1,17 @@
+1,94,10
+5,1
+d,1
+for,1
+the,1
+evening,1
+meal,1
+khichadi,1
+and,2
+chapati,1
+may,1
+be,1
+had,1
+rice,1
+lentils,1
+16,1
+2,1

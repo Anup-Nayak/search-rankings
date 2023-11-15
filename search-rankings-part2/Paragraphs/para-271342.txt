@@ -1,0 +1,16 @@
+72,487,6
+congress,1
+bulletin,1
+no,2
+6,1
+september,1
+1937,1
+file,1
+4/15/37,1
+home,1
+political,1
+courtesy,1
+national,1
+archives,1
+of,1
+india,1

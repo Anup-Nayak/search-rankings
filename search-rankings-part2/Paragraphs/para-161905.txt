@@ -1,0 +1,6 @@
+46,417,2
+396,1
+towards,1
+a,1
+proper,1
+wheel,1

@@ -1,0 +1,15 @@
+34,372,8
+fact,2
+that,2
+there,1
+is,2
+lack,1
+of,1
+strength,1
+in,1
+our,2
+arms,1
+the,1
+mind,1
+has,1
+not,1

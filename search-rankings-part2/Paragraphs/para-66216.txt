@@ -1,0 +1,9 @@
+19,54,2
+from,1
+a,1
+handwritten,1
+gujarati,1
+report,1
+s,1
+n,1
+6414,1

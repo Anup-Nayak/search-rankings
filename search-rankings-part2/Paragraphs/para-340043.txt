@@ -1,0 +1,9 @@
+88,168,17
+as,1
+possible,1
+main,1
+thing,1
+is,1
+to,1
+study,1
+condition,1

@@ -1,0 +1,11 @@
+94,142,10
+the,3
+following,1
+decisions,1
+taken,1
+at,1
+meeting,1
+of,1
+refugees,1
+were,1
+placed,1

@@ -1,0 +1,12 @@
+82,391,7
+policy,1
+and,1
+to,3
+advise,1
+the,3
+people,1
+in,2
+regard,1
+action,1
+be,1
+undertaken,1

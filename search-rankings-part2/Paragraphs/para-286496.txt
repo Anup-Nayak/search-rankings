@@ -1,0 +1,14 @@
+76,286,4
+1,1
+shankarrao,1
+deo,1
+2,1
+kama,1
+ane,1
+kamini,1
+a,1
+novel,1
+written,1
+by,1
+the,1
+addressee,1

@@ -1,0 +1,15 @@
+94,426,6
+finally,1
+he,2
+gave,1
+me,2
+the,2
+first,1
+brief,1
+summary,1
+of,1
+solution,1
+which,1
+wishes,1
+to,1
+adopt,1

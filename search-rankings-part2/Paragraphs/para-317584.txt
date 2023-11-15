@@ -1,0 +1,4 @@
+83,207,4
+karenge,1
+ya,1
+marenge,1

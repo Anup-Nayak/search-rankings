@@ -1,0 +1,10 @@
+21,83,6
+motilal,1
+nehru,1
+punjab,1
+will,1
+likely,1
+accept,1
+non,1
+co,1
+operation,1

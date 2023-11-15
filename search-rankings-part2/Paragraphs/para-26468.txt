@@ -1,0 +1,17 @@
+9,31,12
+mr,2
+shaw,1
+he,2
+did,1
+not,1
+say,1
+whether,1
+had,1
+let,1
+hired,1
+or,1
+lent,1
+his,1
+licence,1
+to,1
+gandhi,1

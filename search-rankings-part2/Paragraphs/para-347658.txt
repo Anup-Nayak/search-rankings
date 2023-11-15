@@ -1,0 +1,6 @@
+90,119,10
+privilege,1
+land,1
+tenure,1
+is,1
+segregation,1

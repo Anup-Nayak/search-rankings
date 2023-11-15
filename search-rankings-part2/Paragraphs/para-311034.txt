@@ -1,0 +1,5 @@
+82,99,6
+mahadev,1
+is,1
+all,1
+right,1

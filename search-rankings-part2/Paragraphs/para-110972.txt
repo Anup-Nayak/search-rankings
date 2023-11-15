@@ -1,0 +1,13 @@
+33,20,7
+engaged,1
+in,1
+industrial,1
+labour,1
+how,2
+to,2
+keep,1
+their,1
+towns,1
+clean,1
+provide,1
+those,1

@@ -1,0 +1,9 @@
+75,384,5
+bapu,1
+dr,1
+gopichand,1
+bhargava,1
+m,1
+l,1
+a,1
+lahore,1

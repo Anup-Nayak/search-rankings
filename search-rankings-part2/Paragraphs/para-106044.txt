@@ -1,0 +1,14 @@
+31,216,8
+not,1
+how,1
+are,1
+you,1
+meeting,1
+the,1
+expenses,1
+for,1
+your,2
+long,1
+tours,1
+and,2
+food,1

@@ -1,0 +1,6 @@
+82,150,2
+full,1
+faith,1
+in,1
+non,1
+violence,1

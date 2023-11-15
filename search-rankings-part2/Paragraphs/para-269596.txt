@@ -1,0 +1,10 @@
+72,299,10
+1,1
+&,1
+2,1
+kasturba,1
+gandhis,1
+brother,1
+and,1
+his,1
+wife,1

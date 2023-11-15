@@ -1,0 +1,13 @@
+63,66,6
+1,1
+wife,1
+of,1
+mahadev,3
+desai,3
+2,1
+narayan,1
+desais,2
+son,1
+3,1
+nirmala,1
+sister,1

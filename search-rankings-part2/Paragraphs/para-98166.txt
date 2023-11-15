@@ -1,0 +1,4 @@
+29,100,4
+pandit,1
+malaviyaji,1
+simla,1

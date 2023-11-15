@@ -1,0 +1,9 @@
+30,67,4
+39,1
+opening,1
+speech,1
+at,1
+kathiawar,1
+political,1
+conference,1
+bhavnagar,1

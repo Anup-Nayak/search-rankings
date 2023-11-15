@@ -1,0 +1,9 @@
+8,345,1
+not,1
+even,2
+affix,1
+our,1
+signatures,1
+under,1
+the,1
+law,1

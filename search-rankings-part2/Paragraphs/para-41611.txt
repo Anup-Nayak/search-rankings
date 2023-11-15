@@ -1,0 +1,9 @@
+12,446,6
+union,1
+ministers,1
+minutes,1
+on,1
+immigrants,1
+restriction,1
+bill,1
+1912,1

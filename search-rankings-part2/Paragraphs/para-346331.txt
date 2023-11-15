@@ -1,0 +1,8 @@
+89,433,2
+blessings,1
+from,1
+bapu,1
+pattom,1
+thanu,1
+pillai,1
+trivandrum,1

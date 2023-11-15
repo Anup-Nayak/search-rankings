@@ -1,0 +1,10 @@
+30,191,2
+1,1
+a,1
+poem,1
+dealing,1
+with,1
+the,1
+avatars,1
+of,1
+vishnu,1

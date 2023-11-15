@@ -1,0 +1,9 @@
+14,0,33
+permanent,1
+settlement,1
+are,1
+trying,1
+our,1
+side,1
+and,1
+you,1

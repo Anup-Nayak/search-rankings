@@ -1,0 +1,6 @@
+75,180,3
+anandkunj,1
+rajkot,1
+march,1
+13,1
+1939,1

@@ -1,0 +1,4 @@
+68,381,1
+health,1
+giving,1
+type,1

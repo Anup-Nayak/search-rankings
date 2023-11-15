@@ -1,0 +1,14 @@
+32,390,9
+1,1
+not,1
+reproduced,1
+here,1
+the,2
+writing,1
+dealt,1
+with,1
+progress,1
+of,1
+spinning,1
+and,1
+use,1

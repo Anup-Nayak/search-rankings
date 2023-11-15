@@ -1,0 +1,16 @@
+15,278,5
+higginbottom,1
+said,1
+that,1
+there,1
+was,1
+no,1
+economic,1
+problem,2
+which,1
+could,1
+be,1
+separated,1
+from,1
+the,1
+moral,1

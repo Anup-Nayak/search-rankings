@@ -1,0 +1,15 @@
+95,74,3
+at,1
+todays,1
+prayer,1
+meeting,1
+gandhiji,1
+dealt,1
+with,1
+the,1
+questions,1
+that,1
+were,1
+put,1
+before,1
+him,1

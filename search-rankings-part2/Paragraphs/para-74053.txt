@@ -1,0 +1,14 @@
+21,261,7
+committee,1
+and,1
+elsewhere,1
+he,1
+would,1
+state,1
+it,2
+again,1
+that,1
+was,1
+perfectly,1
+competent,1
+for,1

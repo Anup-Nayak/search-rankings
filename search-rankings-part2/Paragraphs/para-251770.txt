@@ -1,0 +1,7 @@
+68,60,8
+10,1
+koli,1
+farm,1
+labourer,1
+4,1
+rajput,1

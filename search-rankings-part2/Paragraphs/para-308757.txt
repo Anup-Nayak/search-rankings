@@ -1,0 +1,4 @@
+81,365,2
+13,1
+economic,1
+equality,1

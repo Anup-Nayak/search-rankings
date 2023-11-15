@@ -1,0 +1,10 @@
+74,48,5
+delhi,1
+september,1
+20,1
+1938,1
+rajkumari,1
+amrit,1
+kaur,1
+rashtriyashala,1
+rajkot,1

@@ -1,0 +1,5 @@
+29,198,6
+acquitted,1
+myself,1
+not,1
+badly,1

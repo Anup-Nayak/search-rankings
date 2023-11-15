@@ -1,0 +1,12 @@
+64,198,18
+addicted,1
+to,2
+them,2
+finally,1
+he,1
+implored,1
+not,1
+be,1
+impatientthough,1
+they,1
+had,1

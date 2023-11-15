@@ -1,0 +1,5 @@
+25,474,1
+they,1
+promised,1
+military,1
+aid,1

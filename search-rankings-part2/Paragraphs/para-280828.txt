@@ -1,0 +1,17 @@
+75,122,1
+should,2
+i,2
+think,2
+why,1
+even,1
+thought,1
+may,1
+be,1
+an,1
+obstacle,1
+in,1
+the,1
+way,1
+of,1
+his,1
+guidance,1

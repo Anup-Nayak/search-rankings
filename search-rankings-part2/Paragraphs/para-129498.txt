@@ -1,0 +1,13 @@
+38,45,10
+1,1
+the,2
+letter,1
+was,1
+in,1
+reply,1
+to,1
+addressees,1
+dated,1
+january,1
+10,1
+1927,1

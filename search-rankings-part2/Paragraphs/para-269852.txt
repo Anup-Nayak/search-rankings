@@ -1,0 +1,15 @@
+72,324,14
+2,1
+this,1
+is,2
+evidently,1
+a,1
+slip,1
+the,2
+reference,1
+here,1
+it,1
+appears,1
+to,1
+preceding,1
+item,1

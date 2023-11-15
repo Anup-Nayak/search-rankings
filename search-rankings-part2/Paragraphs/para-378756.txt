@@ -1,0 +1,16 @@
+98,221,6
+from,1
+a,1
+copy,1
+c,1
+w,1
+10590,1
+courtesy,1
+madeleine,1
+rolland,2
+also,1
+romain,1
+and,1
+gandhi,1
+correspondence,1
+p,1

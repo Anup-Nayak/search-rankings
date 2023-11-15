@@ -1,0 +1,6 @@
+84,32,7
+detention,1
+camp,1
+april,1
+1,1
+1944,1

@@ -1,0 +1,7 @@
+92,272,9
+393,1
+letter,1
+to,1
+dr,1
+foss,1
+westcott,1

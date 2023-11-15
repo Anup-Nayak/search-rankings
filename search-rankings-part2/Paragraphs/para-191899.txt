@@ -1,0 +1,16 @@
+54,125,2
+q,1
+why,1
+does,1
+not,1
+the,2
+unemployed,1
+rural,1
+population,1
+go,1
+to,1
+towns,1
+and,1
+join,1
+some,1
+industry,1

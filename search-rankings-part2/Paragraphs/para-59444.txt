@@ -1,0 +1,10 @@
+17,74,5
+and,1
+the,1
+empire,1
+at,1
+this,1
+critical,1
+juncture,1
+second,1
+resolution,1

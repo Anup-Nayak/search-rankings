@@ -1,0 +1,9 @@
+74,137,4
+kohat,1
+october,1
+22,1
+1938,1
+birla,1
+royal,1
+exchange,1
+calcutta,1

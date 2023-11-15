@@ -1,0 +1,15 @@
+35,84,12
+1,1
+a,1
+young,1
+princess,1
+who,1
+volunteered,1
+to,1
+marry,1
+the,1
+old,1
+and,1
+infirm,1
+rishi,1
+chyavan,1

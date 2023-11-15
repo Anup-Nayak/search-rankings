@@ -1,0 +1,7 @@
+19,484,6
+in,1
+lane,1
+highway,1
+or,1
+open,1
+street,1

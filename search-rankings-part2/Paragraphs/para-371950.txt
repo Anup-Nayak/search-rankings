@@ -1,0 +1,4 @@
+96,251,19
+knew,1
+no,1
+surrender,1

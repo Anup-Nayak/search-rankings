@@ -1,0 +1,7 @@
+75,312,4
+parishad,1
+people,1
+you,1
+should,1
+yield,1
+utmost,1

@@ -1,0 +1,10 @@
+64,1,14
+1,1
+vide,1
+resolution,1
+on,1
+council,1
+entry,1
+19,1
+5,1
+1934,1

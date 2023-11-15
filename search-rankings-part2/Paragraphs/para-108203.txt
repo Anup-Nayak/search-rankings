@@ -1,0 +1,11 @@
+32,45,3
+1,1
+to,1
+help,1
+the,2
+poor,1
+and,2
+nurse,1
+sick,1
+brothers,1
+sisters,1

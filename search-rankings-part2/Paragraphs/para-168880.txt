@@ -1,0 +1,8 @@
+48,357,7
+1,1
+bill,1
+of,1
+exchange,1
+or,1
+indigenous,1
+cheque,1

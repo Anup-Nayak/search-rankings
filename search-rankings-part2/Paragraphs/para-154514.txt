@@ -1,0 +1,8 @@
+44,493,22
+t1,1
+for,1
+two,1
+surviving,1
+guj,1
+has,1
+three,1

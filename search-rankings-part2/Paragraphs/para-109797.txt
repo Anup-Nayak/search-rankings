@@ -1,0 +1,14 @@
+32,333,5
+desired,1
+effect,1
+he,1
+thought,1
+that,1
+cow,1
+killing,1
+was,1
+not,1
+the,1
+most,1
+important,1
+factor,1

@@ -1,0 +1,8 @@
+92,175,13
+separate,1
+electorates,1
+impossible,1
+but,1
+reservation,1
+certain,1
+seats,1

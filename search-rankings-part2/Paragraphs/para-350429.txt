@@ -1,0 +1,7 @@
+90,436,23
+he,1
+realizes,1
+it,2
+who,1
+longs,1
+for,1

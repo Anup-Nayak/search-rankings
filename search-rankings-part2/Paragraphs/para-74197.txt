@@ -1,0 +1,11 @@
+21,281,2
+i,1
+promised,1
+in,1
+my,1
+article,1
+on,1
+democracy,1
+versus,1
+mobocracy,1
+1,1

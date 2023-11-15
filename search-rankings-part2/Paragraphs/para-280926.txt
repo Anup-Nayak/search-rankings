@@ -1,0 +1,10 @@
+75,133,6
+1,1
+this,1
+is,1
+extracted,1
+from,1
+the,1
+rajkot,1
+fast,1
+i,1

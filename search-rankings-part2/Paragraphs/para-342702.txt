@@ -1,0 +1,7 @@
+89,17,8
+35,1
+letter,1
+to,1
+lakshmi,1
+narayan,1
+gadodia,1

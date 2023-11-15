@@ -1,0 +1,15 @@
+51,165,2
+gandhiji,1
+delivered,1
+his,1
+speech,1
+in,1
+hindi,1
+and,1
+it,1
+was,1
+not,1
+wholly,1
+audible,1
+to,1
+large,1

@@ -1,0 +1,14 @@
+31,157,12
+make,1
+sacrifice,1
+for,1
+the,2
+country,1
+they,1
+would,1
+never,1
+hope,1
+to,1
+win,1
+in,1
+end,1

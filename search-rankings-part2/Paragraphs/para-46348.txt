@@ -1,0 +1,8 @@
+14,52,10
+meeting,1
+locally,1
+the,1
+general,1
+european,1
+feeling,1
+is,1

@@ -1,0 +1,13 @@
+13,46,20
+bill,1
+does,1
+not,1
+appear,1
+to,2
+protect,1
+rights,1
+of,1
+intermigra,1
+tion,1
+the,1
+cape,1

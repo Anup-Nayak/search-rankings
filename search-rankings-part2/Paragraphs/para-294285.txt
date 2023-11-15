@@ -1,0 +1,15 @@
+78,267,12
+1,1
+this,1
+was,1
+in,1
+reply,1
+to,1
+the,1
+addressee,1
+s,1
+letter,1
+dated,1
+may,1
+29,1
+1940,1

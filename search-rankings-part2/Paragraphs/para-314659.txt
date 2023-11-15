@@ -1,0 +1,14 @@
+82,384,23
+as,1
+regards,1
+the,2
+second,1
+point,1
+he,1
+started,1
+by,1
+asserting,1
+that,1
+document,1
+was,1
+an,1

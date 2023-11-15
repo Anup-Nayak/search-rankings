@@ -1,0 +1,7 @@
+62,361,11
+ps,1
+permanent,1
+address,1
+wardha,1
+c,1
+p,1

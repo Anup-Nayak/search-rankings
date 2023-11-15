@@ -1,0 +1,10 @@
+40,189,5
+have,1
+read,1
+it,1
+fully,1
+wire,1
+if,1
+hand,1
+completely,1
+healed,1

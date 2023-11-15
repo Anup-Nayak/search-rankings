@@ -1,0 +1,4 @@
+33,95,2
+useless,1
+and,1
+ugly,1

@@ -1,0 +1,12 @@
+4,293,3
+the,3
+queen,1
+trusts,1
+english,1
+are,1
+now,1
+kinder,1
+in,1
+their,1
+conduct,1
+to,1

@@ -1,0 +1,7 @@
+51,98,18
+congress,1
+cooperation,1
+impossible,1
+even,1
+if,1
+other,1

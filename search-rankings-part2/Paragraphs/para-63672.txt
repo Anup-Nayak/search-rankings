@@ -1,0 +1,9 @@
+18,128,4
+i,2
+feel,1
+ought,1
+to,1
+inform,1
+you,1
+that,1
+unless,1

@@ -1,0 +1,11 @@
+53,118,7
+last,1
+ten,1
+days,1
+monies,1
+have,1
+been,1
+forced,1
+from,1
+poor,1
+terror,1

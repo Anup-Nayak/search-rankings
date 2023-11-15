@@ -1,0 +1,6 @@
+68,111,5
+1,1
+maganlal,1
+gandhi,1
+s,1
+widow,1

@@ -1,0 +1,13 @@
+68,445,17
+6,1
+that,1
+the,2
+devnagari,1
+and,2
+arabic,1
+scripts,1
+shall,1
+both,1
+be,1
+considered,1
+current,1

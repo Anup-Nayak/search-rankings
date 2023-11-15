@@ -1,0 +1,12 @@
+30,74,2
+1,2
+vide,1
+speech,1
+on,1
+reforms,1
+resolution,1
+at,1
+amritsar,1
+congress,1
+january,1
+1920,1

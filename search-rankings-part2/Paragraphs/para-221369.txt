@@ -1,0 +1,11 @@
+61,28,6
+5,1
+are,1
+not,1
+served,1
+by,1
+good,1
+brahmins,1
+as,1
+family,1
+priests,1

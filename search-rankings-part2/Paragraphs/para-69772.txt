@@ -1,0 +1,10 @@
+20,32,1
+does,1
+not,1
+affect,1
+the,2
+opposition,1
+to,1
+act,1
+on,1
+principle,1

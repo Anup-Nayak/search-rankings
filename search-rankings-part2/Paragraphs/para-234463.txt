@@ -1,0 +1,8 @@
+64,126,3
+160,1
+speech,1
+on,1
+state,1
+goshala,1
+bhavnagar,1
+2,1

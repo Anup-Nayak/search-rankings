@@ -1,0 +1,7 @@
+19,35,5
+33,1
+to,1
+the,2
+subscribers,1
+and,1
+readers,1

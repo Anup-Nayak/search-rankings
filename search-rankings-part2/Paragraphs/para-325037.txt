@@ -1,0 +1,5 @@
+85,128,8
+telegraph,1
+nature,1
+unsatisfactory,1
+health,1

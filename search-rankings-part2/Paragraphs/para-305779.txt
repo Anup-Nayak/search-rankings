@@ -1,0 +1,13 @@
+81,60,3
+right,1
+of,4
+freedom,1
+speech,1
+is,1
+there,1
+any,1
+likelihood,1
+intensification,1
+the,1
+struggle,1
+in,1

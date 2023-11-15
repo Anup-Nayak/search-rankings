@@ -1,0 +1,14 @@
+23,25,4
+must,1
+wear,2
+khaddar,1
+and,1
+it,2
+was,2
+their,1
+duty,1
+to,1
+swadeshi,1
+clothes,1
+only,1
+an,1

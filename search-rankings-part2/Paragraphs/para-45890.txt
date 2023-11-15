@@ -1,0 +1,11 @@
+14,7,24
+widened,1
+so,1
+as,1
+to,1
+include,1
+an,1
+inquiry,1
+into,1
+all,1
+the,1

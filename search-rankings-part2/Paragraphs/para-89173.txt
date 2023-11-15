@@ -1,0 +1,6 @@
+26,314,2
+the,1
+value,1
+of,2
+word,1
+honour,1

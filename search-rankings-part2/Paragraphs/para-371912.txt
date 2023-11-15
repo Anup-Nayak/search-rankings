@@ -1,0 +1,6 @@
+96,250,14
+and,1
+not,1
+coerce,1
+their,1
+adversary,1

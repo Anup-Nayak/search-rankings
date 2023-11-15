@@ -1,0 +1,9 @@
+42,70,2
+bapu,1
+vallabhbhai,1
+patel,1
+swaraj,1
+ashram,1
+bardoli,1
+from,1
+gujarati,1

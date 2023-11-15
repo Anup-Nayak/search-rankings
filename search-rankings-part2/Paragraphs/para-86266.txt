@@ -1,0 +1,10 @@
+25,321,6
+madras,1
+and,2
+andhra,1
+are,1
+slowly,1
+but,1
+surely,1
+creeping,1
+up,1

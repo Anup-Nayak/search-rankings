@@ -1,0 +1,14 @@
+56,18,5
+form,1
+a,1
+photostat,1
+of,1
+the,1
+gujarati,1
+c,1
+w,1
+9435,1
+courtesy,1
+ravindra,1
+r,1
+patel,1

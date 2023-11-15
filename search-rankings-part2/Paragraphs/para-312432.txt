@@ -1,0 +1,13 @@
+82,213,12
+the,3
+period,1
+of,1
+mogul,1
+dynasty,1
+persian,1
+script,1
+came,1
+in,1
+but,1
+gujarati,1
+marathi,1

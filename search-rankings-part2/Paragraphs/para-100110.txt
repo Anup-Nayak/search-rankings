@@ -1,0 +1,7 @@
+29,321,6
+as,2
+firm,1
+non,1
+co,1
+operator,1
+ever,1

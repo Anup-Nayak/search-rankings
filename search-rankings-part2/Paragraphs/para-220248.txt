@@ -1,0 +1,12 @@
+60,404,4
+1,1
+held,1
+on,1
+september,1
+25,1
+1932,1
+for,1
+the,2
+text,1
+of,1
+resolution,1

@@ -1,0 +1,16 @@
+89,305,7
+song,2
+was,1
+in,1
+hindustani,1
+because,1
+he,1
+did,1
+not,1
+want,1
+to,1
+make,1
+the,2
+language,1
+of,1
+a,1

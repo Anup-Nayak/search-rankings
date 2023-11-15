@@ -1,0 +1,9 @@
+51,85,3
+your,1
+faithful,1
+friend,1
+enclosure,1
+translation,1
+of,1
+a,1
+letter,1

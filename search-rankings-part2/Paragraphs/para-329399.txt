@@ -1,0 +1,6 @@
+86,71,3
+ghanshyamdasji,1
+birla,1
+house,1
+new,1
+delhi,1

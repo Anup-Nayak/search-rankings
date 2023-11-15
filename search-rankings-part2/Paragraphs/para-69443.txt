@@ -1,0 +1,14 @@
+19,491,15
+serial,1
+no,1
+signature,2
+place,1
+of,2
+residence,1
+volunteer,1
+supplement,1
+to,1
+navajivan,1
+13,1
+11,1
+1919,1

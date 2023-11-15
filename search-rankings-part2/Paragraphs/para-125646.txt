@@ -1,0 +1,13 @@
+36,500,4
+substances,1
+are,2
+characterized,1
+by,1
+its,1
+absence,1
+these,1
+the,2
+eternal,1
+natures,1
+of,1
+two,1

@@ -1,0 +1,8 @@
+8,447,4
+johannesburg,1
+july,1
+16,1
+1908,1
+the,2
+editor,1
+star,1

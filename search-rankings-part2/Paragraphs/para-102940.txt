@@ -1,0 +1,14 @@
+30,213,18
+a,1
+my,1
+relations,1
+with,2
+all,1
+hindus,1
+have,1
+been,1
+friendly,1
+and,1
+sardar,1
+saheb,1
+also,1

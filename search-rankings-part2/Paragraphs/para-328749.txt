@@ -1,0 +1,7 @@
+86,12,4
+21,1
+foreword,1
+to,1
+ahar,1
+ane,1
+poshan,1

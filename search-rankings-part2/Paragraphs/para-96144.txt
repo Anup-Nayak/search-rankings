@@ -1,0 +1,4 @@
+28,327,3
+shri,1
+indulals,1
+letter,1

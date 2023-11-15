@@ -1,0 +1,7 @@
+14,70,13
+governor,1
+general,1
+expressed,1
+deep,1
+satisfaction,1
+hearing,1

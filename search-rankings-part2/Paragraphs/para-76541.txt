@@ -1,0 +1,13 @@
+22,176,10
+article,1
+xxviii,1
+the,2
+subjects,1
+committee,1
+shall,1
+also,1
+meet,1
+from,1
+time,2
+to,1
+as,1

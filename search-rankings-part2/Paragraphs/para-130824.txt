@@ -1,0 +1,12 @@
+38,219,13
+5,1
+is,1
+not,1
+intellectual,1
+and,1
+moral,1
+education,1
+necessary,1
+for,1
+acquiring,1
+such,1

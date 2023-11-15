@@ -1,0 +1,7 @@
+43,37,2
+property,1
+was,1
+matter,1
+public,1
+settlement,1
+of,1

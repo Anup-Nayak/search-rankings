@@ -1,0 +1,11 @@
+82,300,5
+the,2
+government,1
+have,1
+taken,1
+some,1
+measures,1
+to,1
+bring,1
+situation,1
+under,1

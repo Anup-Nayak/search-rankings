@@ -1,0 +1,17 @@
+30,372,10
+n,1
+surely,1
+untouchability,2
+is,3
+there,1
+every,1
+part,1
+of,1
+india,1
+we,1
+carry,1
+a,1
+little,1
+further,1
+that,1
+all,1

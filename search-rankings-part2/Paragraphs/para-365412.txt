@@ -1,0 +1,7 @@
+94,278,4
+274,1
+talk,1
+with,1
+women,1
+workers,1
+1,1

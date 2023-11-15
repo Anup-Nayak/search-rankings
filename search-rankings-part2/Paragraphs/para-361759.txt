@@ -1,0 +1,16 @@
+93,293,9
+1,1
+extracted,1
+from,2
+srirampur,1
+diary,1
+2,1
+the,1
+following,1
+three,1
+paragraphs,1
+are,1
+reproduced,1
+amrita,1
+bazar,1
+patrika,1

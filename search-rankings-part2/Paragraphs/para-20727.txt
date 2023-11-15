@@ -1,0 +1,7 @@
+7,135,4
+111,1
+act,1
+to,1
+prevent,1
+juvenile,1
+smoking,1

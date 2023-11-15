@@ -1,0 +1,10 @@
+44,479,17
+t2,1
+for,1
+was,2
+perhaps,1
+deserved,1
+guj,1
+has,1
+it,1
+correct,1

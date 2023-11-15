@@ -1,0 +1,7 @@
+91,210,1
+270,1
+talk,1
+with,1
+norman,1
+cliff,1
+1,1

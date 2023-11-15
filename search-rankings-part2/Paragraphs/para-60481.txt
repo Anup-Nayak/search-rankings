@@ -1,0 +1,4 @@
+17,203,7
+2,1
+spiritual,1
+discipline,1

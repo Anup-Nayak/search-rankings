@@ -1,0 +1,17 @@
+82,62,4
+merchant,1
+prince,1
+used,1
+to,1
+say,1
+it,1
+was,1
+not,1
+moreover,1
+however,1
+careful,1
+a,1
+rich,1
+man,1
+is,1
+he,1

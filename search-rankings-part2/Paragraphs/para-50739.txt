@@ -1,0 +1,7 @@
+15,70,6
+this,1
+finishes,1
+the,1
+budget,1
+of,1
+news,1

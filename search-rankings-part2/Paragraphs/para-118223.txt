@@ -1,0 +1,11 @@
+35,100,4
+1,1
+you,1
+can,1
+teach,1
+best,1
+by,1
+identifying,1
+yourself,1
+with,1
+your,1

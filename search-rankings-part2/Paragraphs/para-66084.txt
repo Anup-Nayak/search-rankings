@@ -1,0 +1,8 @@
+19,33,6
+30,1
+letter,1
+to,2
+p,1
+s,1
+governor,1
+bombay,1

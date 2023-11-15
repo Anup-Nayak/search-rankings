@@ -1,0 +1,12 @@
+82,392,15
+british,1
+government,1
+has,1
+prevented,1
+the,2
+organization,1
+of,1
+national,1
+defence,1
+by,1
+people,1

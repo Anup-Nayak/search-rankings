@@ -1,0 +1,17 @@
+12,336,5
+tulsi,1
+etc,1
+left,2
+in,2
+the,2
+morning,1
+kallenbach,1
+went,1
+to,1
+town,1
+&,2
+returned,1
+thambi,1
+naidoo,1
+came,1
+afternoon,1

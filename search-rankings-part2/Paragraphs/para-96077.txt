@@ -1,0 +1,11 @@
+28,317,1
+here,1
+are,1
+a,2
+few,1
+extracts,1
+from,2
+report,1
+the,1
+bijapur,1
+district,1

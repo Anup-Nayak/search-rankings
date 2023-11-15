@@ -1,0 +1,5 @@
+8,87,7
+sympathy,1
+from,1
+coloured,1
+persons,1

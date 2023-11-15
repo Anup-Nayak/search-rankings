@@ -1,0 +1,9 @@
+11,350,8
+talk,1
+passing,1
+general,1
+bill,1
+revived,1
+free,1
+staters,1
+may,1

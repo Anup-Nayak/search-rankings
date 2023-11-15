@@ -1,0 +1,5 @@
+12,35,6
+chhaganlal,1
+and,1
+chi,1
+maganlal,1

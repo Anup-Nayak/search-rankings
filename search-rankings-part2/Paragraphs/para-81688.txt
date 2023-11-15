@@ -1,0 +1,15 @@
+24,63,10
+q,1
+if,1
+the,1
+capital,1
+invested,1
+in,2
+a,1
+mill,1
+were,1
+indian,1
+but,1
+its,1
+management,1
+was,1

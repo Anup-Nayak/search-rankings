@@ -1,0 +1,8 @@
+87,62,5
+father,1
+not,1
+take,1
+her,1
+before,1
+my,1
+arrival,1

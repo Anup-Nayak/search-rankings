@@ -1,0 +1,13 @@
+46,46,8
+not,1
+conform,1
+to,2
+certain,1
+restrictions,1
+sought,1
+be,1
+imposed,1
+upon,1
+them,1
+by,1
+the,1

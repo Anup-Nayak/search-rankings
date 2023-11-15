@@ -1,0 +1,12 @@
+82,196,10
+1,1
+prabhashankar,1
+mehta,2
+father,1
+in,1
+law,1
+of,1
+ratilal,2
+2,1
+mehtas,1
+wife,1

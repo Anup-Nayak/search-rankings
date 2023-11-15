@@ -1,0 +1,13 @@
+92,176,7
+1,1
+the,1
+superscription,1
+and,1
+subscription,1
+are,1
+in,1
+hindi,1
+2,1
+b,1
+g,1
+kher,1

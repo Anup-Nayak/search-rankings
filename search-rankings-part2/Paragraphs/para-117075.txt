@@ -1,0 +1,12 @@
+34,479,7
+vandemataram,1
+from,1
+mohandas,1
+shri,1
+kantilal,1
+mohanlal,1
+dalal,1
+29,1
+ghanchini,1
+pole,1
+ahmedabad,1

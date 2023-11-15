@@ -1,0 +1,11 @@
+22,490,5
+1,1
+behramji,1
+malbari,1
+1854,1
+1912,1
+poet,1
+journalist,1
+and,1
+social,1
+reformer,1

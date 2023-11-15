@@ -1,0 +1,12 @@
+92,34,3
+sevagram,1
+august,1
+17,1
+1946,1
+kunjukrishna,1
+menon,1
+teacher,1
+malayalam,1
+school,1
+pattom,1
+trivandrum,1

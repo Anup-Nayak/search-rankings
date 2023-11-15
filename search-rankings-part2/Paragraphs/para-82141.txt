@@ -1,0 +1,11 @@
+24,139,6
+event,1
+1,1
+coming,1
+have,1
+gujarat,1
+days,1
+hartal,1
+labourers,1
+joining,1
+after,1

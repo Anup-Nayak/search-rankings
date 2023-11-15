@@ -1,0 +1,6 @@
+49,445,7
+499,1
+letter,1
+to,1
+kunvarji,1
+parekh,1

@@ -1,0 +1,6 @@
+5,136,1
+126,1
+smallpox,1
+in,1
+the,1
+cape,1

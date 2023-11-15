@@ -1,0 +1,12 @@
+7,137,14
+3,1
+here,1
+followed,1
+letter,1
+to,1
+rand,1
+daily,1
+mail,1
+12,1
+8,1
+1907,1

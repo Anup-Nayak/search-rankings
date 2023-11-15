@@ -1,0 +1,5 @@
+78,55,12
+were,1
+indeed,1
+very,1
+great,1

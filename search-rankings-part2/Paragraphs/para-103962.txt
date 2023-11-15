@@ -1,0 +1,9 @@
+30,341,4
+212,1
+interview,1
+to,1
+press,1
+on,1
+hindu,1
+muslim,1
+problem,1

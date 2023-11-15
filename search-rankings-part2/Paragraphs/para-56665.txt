@@ -1,0 +1,7 @@
+16,260,2
+satyagraha,1
+ashram,1
+sabarmati,1
+february,1
+16,1
+1918,1

@@ -1,0 +1,13 @@
+72,385,9
+1,1
+an,1
+article,1
+by,1
+a,1
+medical,1
+friend,1
+which,1
+is,1
+not,1
+reproduced,1
+here,1

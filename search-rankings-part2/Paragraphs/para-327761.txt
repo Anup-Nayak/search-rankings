@@ -1,0 +1,10 @@
+85,380,8
+from,1
+a,1
+photostat,1
+of,1
+the,1
+urdu,1
+pyarelal,2
+papers,1
+courtesy,1

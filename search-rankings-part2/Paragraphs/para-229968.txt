@@ -1,0 +1,13 @@
+63,85,5
+as,1
+attempts,1
+are,1
+being,1
+made,1
+during,1
+the,1
+tour,1
+to,2
+draw,1
+me,1
+a,1

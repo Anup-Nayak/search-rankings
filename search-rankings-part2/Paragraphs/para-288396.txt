@@ -1,0 +1,9 @@
+77,51,12
+that,1
+the,1
+congress,1
+will,2
+not,1
+rest,1
+and,1
+give,1

@@ -1,0 +1,6 @@
+26,213,1
+the,1
+ideal,1
+can,1
+be,1
+approximated,1

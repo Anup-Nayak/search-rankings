@@ -1,0 +1,9 @@
+86,60,5
+bapu,1
+miss,1
+a,1
+mascarene,1
+state,1
+congress,1
+office,1
+trivandrum,1

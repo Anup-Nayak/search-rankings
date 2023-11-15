@@ -1,0 +1,8 @@
+10,23,10
+applicable,1
+just,1
+satisfies,1
+oath,1
+hope,1
+rustomjee,1
+harilal,1

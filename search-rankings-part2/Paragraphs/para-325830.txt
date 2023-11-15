@@ -1,0 +1,7 @@
+85,196,9
+309,1
+letter,1
+to,1
+t,1
+r,1
+narsimhachar,1

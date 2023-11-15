@@ -1,0 +1,9 @@
+31,366,11
+9,1
+average,1
+monthly,1
+consumption,1
+of,1
+khadiworth,1
+300,1
+rupees,1

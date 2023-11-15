@@ -1,0 +1,9 @@
+29,479,1
+except,1
+for,1
+killing,1
+the,1
+orthodox,1
+non,1
+co,1
+operators,1

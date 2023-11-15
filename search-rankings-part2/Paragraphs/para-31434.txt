@@ -1,0 +1,6 @@
+10,219,2
+before,1
+november,1
+8,1
+1909,1
+suffragettes,1

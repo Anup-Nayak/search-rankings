@@ -1,0 +1,9 @@
+62,191,6
+that,1
+we,1
+have,1
+not,1
+the,1
+ability,1
+to,1
+do,1

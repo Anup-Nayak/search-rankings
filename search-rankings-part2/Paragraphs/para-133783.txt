@@ -1,0 +1,9 @@
+39,106,5
+difficult,1
+provide,1
+fasting,1
+treatment,1
+for,1
+you,1
+and,1
+medical,1

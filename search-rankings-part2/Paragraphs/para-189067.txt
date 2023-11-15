@@ -1,0 +1,6 @@
+53,271,5
+317,1
+burnt,1
+rope,1
+retains,1
+twist,1

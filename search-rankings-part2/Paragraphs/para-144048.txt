@@ -1,0 +1,14 @@
+42,134,10
+1,1
+an,1
+american,1
+traveller,1
+who,1
+studied,1
+eastern,1
+religions,1
+and,1
+wrote,1
+articles,1
+for,1
+magazines,1

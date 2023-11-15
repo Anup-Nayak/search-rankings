@@ -1,0 +1,8 @@
+47,291,10
+case,1
+cut,1
+was,1
+unwarranted,1
+because,1
+it,1
+reduced,1

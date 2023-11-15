@@ -1,0 +1,9 @@
+42,19,2
+yours,1
+sincerely,1
+from,1
+a,1
+photostat,1
+s,1
+n,1
+13226,1

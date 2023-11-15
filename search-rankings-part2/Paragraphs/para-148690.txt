@@ -1,0 +1,5 @@
+43,190,3
+1,1
+vide,1
+satyagraha,1
+ashram,1

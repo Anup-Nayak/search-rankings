@@ -1,0 +1,8 @@
+13,395,10
+and,1
+two,1
+hundred,1
+more,1
+have,1
+been,1
+arrested,1

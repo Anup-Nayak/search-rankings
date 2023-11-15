@@ -1,0 +1,17 @@
+90,229,2
+among,1
+us,1
+officers,1
+and,2
+men,1
+live,1
+together,2
+dine,1
+without,1
+any,1
+distinction,1
+there,1
+is,1
+no,2
+high,1
+low,1

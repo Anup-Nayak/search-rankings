@@ -1,0 +1,7 @@
+41,237,7
+bapu,1
+maine,1
+kya,2
+dekha,1
+samajha,1
+p,1

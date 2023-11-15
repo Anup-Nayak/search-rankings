@@ -1,0 +1,8 @@
+23,128,2
+1,1
+as,1
+against,1
+the,2
+cost,1
+in,1
+school,1

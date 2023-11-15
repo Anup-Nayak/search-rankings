@@ -1,0 +1,7 @@
+22,177,2
+contentious,1
+subjects,1
+and,1
+interests,1
+of,1
+minorities,1

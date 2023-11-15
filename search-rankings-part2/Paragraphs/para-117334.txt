@@ -1,0 +1,3 @@
+35,1,9
+krishna,1
+nellore,1

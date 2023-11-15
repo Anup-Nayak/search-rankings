@@ -1,0 +1,16 @@
+13,221,14
+1,1
+from,2
+the,2
+contents,1
+and,1
+ashadha,1
+vad,1
+6,1
+in,1
+dateline,1
+which,1
+was,1
+a,1
+thurs,1
+day,1

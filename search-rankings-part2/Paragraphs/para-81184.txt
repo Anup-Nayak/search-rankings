@@ -1,0 +1,11 @@
+23,476,14
+they,1
+should,1
+be,1
+very,1
+careful,1
+in,2
+wearing,1
+clothes,1
+manufactured,1
+mills,1

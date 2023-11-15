@@ -1,0 +1,7 @@
+17,379,3
+i,1
+do,1
+hope,1
+that,2
+presidency,1
+produced,1

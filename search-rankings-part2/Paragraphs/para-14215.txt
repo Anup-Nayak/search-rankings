@@ -1,0 +1,8 @@
+5,387,12
+1,1
+the,1
+coconut,1
+is,1
+an,1
+auspicious,1
+symbol,1

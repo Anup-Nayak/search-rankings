@@ -1,0 +1,7 @@
+95,60,1
+47,1
+advice,1
+to,1
+mill,1
+workers,1
+1,1

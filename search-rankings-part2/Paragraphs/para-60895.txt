@@ -1,0 +1,13 @@
+17,248,2
+in,1
+the,1
+hindustan,1
+a,2
+gujarati,1
+daily,1
+published,1
+at,1
+bombay,1
+writer,1
+has,1
+addressed,1

@@ -1,0 +1,12 @@
+95,13,9
+it,1
+appears,1
+that,1
+the,2
+rest,1
+of,1
+prayer,1
+is,2
+allowed,1
+but,1
+there,1

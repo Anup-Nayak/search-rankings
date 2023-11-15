@@ -1,0 +1,12 @@
+52,136,6
+3,1
+in,1
+order,1
+to,2
+influence,1
+voters,2
+can,1
+a,1
+candidate,1
+give,1
+feasts,1

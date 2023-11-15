@@ -1,0 +1,15 @@
+25,130,4
+mohandas,1
+gandhi,1
+sha,1
+girdharilal,1
+dayal,1
+2nd,1
+floor,1
+thakkar,1
+kanji,1
+keshavjino,1
+malo,1
+satrishi,1
+gali,1
+bombay,1

@@ -1,0 +1,5 @@
+92,282,7
+how,1
+to,1
+remove,1
+untouchability,1

@@ -1,0 +1,17 @@
+61,474,10
+g,1
+then,1
+supposing,2
+i,2
+fast,2
+only,1
+for,1
+a,1
+few,1
+days,1
+dont,1
+die,1
+at,1
+the,2
+end,1
+of,1

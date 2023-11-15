@@ -1,0 +1,7 @@
+13,139,7
+ministers,1
+statement,1
+indians,1
+demand,1
+legal,1
+re,1

@@ -1,0 +1,11 @@
+27,9,14
+1,1
+vide,1
+neither,1
+a,2
+saint,1
+nor,1
+politician,1
+12,1
+5,1
+1920,1

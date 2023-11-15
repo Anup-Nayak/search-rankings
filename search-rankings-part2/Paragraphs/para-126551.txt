@@ -1,0 +1,15 @@
+37,107,2
+1,1
+a,1
+15th,1
+century,1
+saint,1
+poet,1
+of,1
+gujarat,1
+2,1
+the,2
+individual,1
+self,2
+3,1
+universal,1

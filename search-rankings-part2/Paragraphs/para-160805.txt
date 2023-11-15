@@ -1,0 +1,10 @@
+46,294,4
+1,1
+vide,1
+bardoli,2
+report,1
+and,1
+settlement,1
+6,1
+8,1
+1928,1

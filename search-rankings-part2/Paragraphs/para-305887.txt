@@ -1,0 +1,9 @@
+81,70,5
+132,1
+letter,1
+to,1
+pyarelal,1
+sevagram,1
+september,1
+8,1
+1941,1

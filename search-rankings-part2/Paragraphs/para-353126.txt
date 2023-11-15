@@ -1,0 +1,15 @@
+91,290,17
+from,1
+a,2
+facsimile,1
+of,1
+the,2
+hindi,1
+bapuke,1
+ashirwad,1
+thought,1
+for,1
+day,1
+pp,1
+466,1
+601,1

@@ -1,0 +1,14 @@
+82,149,8
+organization,1
+should,1
+be,1
+based,1
+on,1
+strictly,1
+non,1
+violent,1
+basis,1
+in,1
+the,1
+pledge,1
+forms,1

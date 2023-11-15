@@ -1,0 +1,8 @@
+39,76,3
+the,1
+principal,1
+sangli,2
+industrial,1
+and,1
+agricultural,1
+school,1

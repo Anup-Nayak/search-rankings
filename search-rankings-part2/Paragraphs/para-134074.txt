@@ -1,0 +1,6 @@
+39,146,2
+1,1
+with,1
+attributes,2
+2,1
+without,1

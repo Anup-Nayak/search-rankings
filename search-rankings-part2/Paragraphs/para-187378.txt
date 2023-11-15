@@ -1,0 +1,8 @@
+53,94,2
+periodical,1
+held,1
+up,1
+by,1
+the,1
+postal,1
+authorities,1

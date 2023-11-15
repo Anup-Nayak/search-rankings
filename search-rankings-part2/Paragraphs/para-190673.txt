@@ -1,0 +1,13 @@
+53,481,4
+h,1
+n,1
+b,1
+a,2
+nation,2
+is,1
+not,1
+fully,1
+unless,1
+she,1
+has,1
+it,1

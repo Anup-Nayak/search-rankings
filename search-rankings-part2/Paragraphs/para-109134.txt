@@ -1,0 +1,13 @@
+32,218,2
+146,1
+agriculture,1
+v,1
+khaddar,1
+an,1
+m,1
+a,1
+b,1
+l,1
+writes,1
+thus,1
+1,1

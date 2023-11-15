@@ -1,0 +1,16 @@
+8,220,6
+q,1
+what,1
+is,1
+the,1
+system,1
+of,1
+permits,1
+and,1
+how,1
+long,1
+has,1
+it,1
+been,1
+in,1
+force,1

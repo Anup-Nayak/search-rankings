@@ -1,0 +1,11 @@
+74,436,7
+1,1
+only,1
+an,1
+extract,1
+from,1
+the,1
+letter,1
+is,1
+reproduced,1
+here,1

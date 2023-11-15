@@ -1,0 +1,5 @@
+94,375,4
+biharni,1
+komi,1
+agman,1
+pp,1

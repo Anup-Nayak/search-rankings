@@ -1,0 +1,5 @@
+23,166,1
+77,1
+speech,1
+at,1
+bhusaval,1

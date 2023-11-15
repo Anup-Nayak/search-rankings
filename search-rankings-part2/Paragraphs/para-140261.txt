@@ -1,0 +1,13 @@
+41,121,3
+from,1
+a,2
+photostat,1
+s,1
+n,1
+13040,1
+also,1
+bunch,1
+of,1
+old,1
+letters,1
+pp,1

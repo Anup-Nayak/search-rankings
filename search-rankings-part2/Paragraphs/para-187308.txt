@@ -1,0 +1,11 @@
+53,82,7
+a,1
+any,1
+more,1
+probing,1
+will,1
+touch,1
+the,2
+patient,1
+to,1
+quick,1

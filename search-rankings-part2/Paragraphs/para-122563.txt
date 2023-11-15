@@ -1,0 +1,4 @@
+36,144,6
+161,1
+mendicant,1
+sadhus,1

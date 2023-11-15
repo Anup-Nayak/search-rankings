@@ -1,0 +1,6 @@
+67,100,6
+161,1
+wanted,1
+one,1
+lac,1
+rupees,1

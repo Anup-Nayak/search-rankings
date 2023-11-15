@@ -1,0 +1,5 @@
+51,136,3
+whatever,2
+thou,2
+dost,1
+eatest,1

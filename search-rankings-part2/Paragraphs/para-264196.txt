@@ -1,0 +1,9 @@
+71,98,2
+105,1
+obstacles,1
+in,1
+the,1
+way,1
+of,1
+a,1
+gosevak,1

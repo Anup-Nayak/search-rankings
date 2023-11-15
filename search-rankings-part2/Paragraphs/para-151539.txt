@@ -1,0 +1,14 @@
+43,522,2
+do,1
+not,1
+think,1
+i,2
+can,2
+produce,1
+milk,1
+alone,1
+if,1
+pleased,1
+grant,1
+any,1
+wish,1

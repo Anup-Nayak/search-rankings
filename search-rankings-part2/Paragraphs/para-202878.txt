@@ -1,0 +1,9 @@
+57,8,7
+d,1
+how,1
+long,1
+is,1
+the,1
+dough,1
+left,1
+over,1

@@ -1,0 +1,11 @@
+35,5,1
+things,1
+therefore,1
+have,1
+in,1
+my,1
+opinion,1
+to,1
+go,1
+side,2
+by,1

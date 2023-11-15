@@ -1,0 +1,17 @@
+30,187,8
+men,1
+burma,1
+central,1
+provinces,1
+and,1
+berar,1
+madras,1
+u,1
+p,2
+baroda,1
+c,1
+mysore,1
+sikkim,1
+gwalior,1
+hyderabad,1
+rajputana,1

@@ -1,0 +1,7 @@
+64,56,5
+81,1
+speech,1
+to,1
+textile,1
+workers,1
+nagpur,1

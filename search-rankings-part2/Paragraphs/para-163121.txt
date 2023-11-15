@@ -1,0 +1,5 @@
+47,88,11
+high,1
+court,1
+vakil,1
+dindigul,1

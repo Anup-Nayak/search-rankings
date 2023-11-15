@@ -1,0 +1,13 @@
+13,461,14
+section,1
+12,1
+authorises,1
+the,1
+officer,1
+to,1
+postpone,1
+examination,1
+in,1
+case,1
+of,1
+doubt,1

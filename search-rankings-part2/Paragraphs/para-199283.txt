@@ -1,0 +1,15 @@
+56,10,6
+1,1
+the,3
+addressee,1
+had,1
+requested,1
+gandhiji,1
+to,2
+explain,1
+him,1
+meaning,1
+of,2
+vow,1
+non,1
+possession,1

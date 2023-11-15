@@ -1,0 +1,9 @@
+65,410,10
+q,1
+the,2
+formation,1
+of,1
+central,1
+board,1
+means,1
+centralization,1

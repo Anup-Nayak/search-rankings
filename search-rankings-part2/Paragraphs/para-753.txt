@@ -1,0 +1,11 @@
+1,151,6
+chief,1
+in,1
+and,1
+over,1
+the,1
+colony,1
+of,1
+natal,1
+vice,1
+admiral,1

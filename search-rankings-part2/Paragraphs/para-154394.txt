@@ -1,0 +1,11 @@
+44,489,27
+t1,1
+for,1
+i,2
+was,1
+glad,1
+to,1
+find,1
+guj,1
+has,1
+found,1

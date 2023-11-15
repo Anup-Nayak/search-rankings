@@ -1,0 +1,10 @@
+21,506,3
+how,1
+is,1
+malaviyajis,1
+2,1
+health,1
+would,1
+not,1
+like,1
+visit,1

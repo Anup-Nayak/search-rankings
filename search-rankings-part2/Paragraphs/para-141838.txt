@@ -1,0 +1,6 @@
+41,329,9
+the,1
+greatest,1
+prayer,1
+is,1
+patience,1

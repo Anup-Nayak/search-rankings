@@ -1,0 +1,10 @@
+13,430,27
+struck,1
+fast,1
+lasted,1
+four,1
+days,1
+fourth,1
+day,1
+one,1
+of,1

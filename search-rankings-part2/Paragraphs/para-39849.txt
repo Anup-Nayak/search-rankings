@@ -1,0 +1,5 @@
+12,236,5
+drastic,1
+by,1
+laws,1
+approved,1

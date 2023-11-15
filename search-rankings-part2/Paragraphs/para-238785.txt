@@ -1,0 +1,14 @@
+65,139,3
+from,1
+the,1
+original,1
+ansari,1
+papers,1
+20/ans/app,1
+60,1
+1,1
+courtesy,1
+jamia,1
+millia,1
+islamia,1
+library,1

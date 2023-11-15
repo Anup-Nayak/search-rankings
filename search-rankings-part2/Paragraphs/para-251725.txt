@@ -1,0 +1,8 @@
+68,54,6
+70,1
+consolation,1
+for,1
+the,2
+aged,1
+and,1
+infirm,1

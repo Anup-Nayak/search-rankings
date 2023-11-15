@@ -1,0 +1,15 @@
+87,397,4
+blessings,1
+from,1
+m,1
+k,1
+gandhi,1
+smt,1
+madhavi,1
+kutti,1
+amma,1
+nayanar,1
+meenakshi,1
+vilas,1
+ottapalam,1
+malabar,1

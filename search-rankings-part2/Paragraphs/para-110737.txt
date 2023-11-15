@@ -1,0 +1,10 @@
+32,465,9
+63,1
+bedford,1
+gardens,1
+campden,1
+hill,1
+london,1
+w,1
+8,1
+paris,1

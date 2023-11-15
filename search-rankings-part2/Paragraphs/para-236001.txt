@@ -1,0 +1,7 @@
+64,300,7
+doctor,1
+bidhanroy,1
+36,1
+wellington,1
+street,1
+calcutta,1

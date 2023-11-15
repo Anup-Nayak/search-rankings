@@ -1,0 +1,7 @@
+52,208,18
+permanent,1
+peace,1
+by,1
+negotiation,1
+consistently,1
+with,1

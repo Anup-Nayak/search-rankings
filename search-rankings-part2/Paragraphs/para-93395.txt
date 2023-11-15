@@ -1,0 +1,10 @@
+27,402,2
+among,1
+the,3
+audience,1
+towards,1
+lecturer,2
+and,1
+consequently,1
+does,1
+not,1

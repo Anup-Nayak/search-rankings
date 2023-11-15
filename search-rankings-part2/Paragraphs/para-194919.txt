@@ -1,0 +1,9 @@
+54,466,7
+discharge,1
+of,1
+their,1
+responsibility,1
+can,1
+be,1
+subject,1
+to,1

@@ -1,0 +1,8 @@
+13,426,14
+grievances,1
+if,1
+derogatory,1
+passive,1
+resisters,1
+demands,1
+set,1

@@ -1,0 +1,7 @@
+90,22,9
+32,1
+letter,1
+to,1
+shanti,1
+swarup,1
+bhatnagar,1

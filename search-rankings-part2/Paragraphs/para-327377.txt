@@ -1,0 +1,7 @@
+85,346,4
+bhola,1
+nath,1
+master,1
+prajamandal,1
+alwar,1
+rajputana,1

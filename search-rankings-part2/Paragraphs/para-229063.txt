@@ -1,0 +1,14 @@
+62,444,1
+write,2
+to,1
+me,2
+give,1
+news,1
+about,1
+everyones,1
+health,1
+only,1
+at,1
+the,1
+wardha,1
+address,1

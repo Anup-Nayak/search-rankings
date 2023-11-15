@@ -1,0 +1,13 @@
+4,355,4
+m,1
+k,1
+g,1
+memo,1
+re,1
+earthquake,1
+and,1
+miss,1
+neufliess,1
+will,1
+be,1
+separate,1

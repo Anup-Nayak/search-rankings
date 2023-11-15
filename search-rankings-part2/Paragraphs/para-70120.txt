@@ -1,0 +1,10 @@
+20,95,18
+a,1
+if,1
+they,2
+wanted,1
+to,1
+carry,1
+their,1
+bedding,1
+could,1

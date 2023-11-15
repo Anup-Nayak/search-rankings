@@ -1,0 +1,7 @@
+15,430,13
+350,1
+telegram,1
+to,1
+chief,1
+secretary,1
+bihar,1

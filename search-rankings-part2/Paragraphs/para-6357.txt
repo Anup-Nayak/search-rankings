@@ -1,0 +1,7 @@
+3,36,5
+replying,1
+to,1
+enquiry,1
+hoosen,1
+amod,1
+wakkerstroom,1

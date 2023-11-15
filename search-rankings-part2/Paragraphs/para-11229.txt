@@ -1,0 +1,11 @@
+4,380,9
+1,1
+high,1
+court,2
+seems,1
+to,1
+be,1
+a,1
+slip,1
+for,1
+supreme,1

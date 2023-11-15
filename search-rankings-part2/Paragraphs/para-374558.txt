@@ -1,0 +1,10 @@
+97,139,5
+1,1
+the,1
+quotations,1
+in,1
+bengali,1
+are,1
+not,1
+reproduced,1
+here,1

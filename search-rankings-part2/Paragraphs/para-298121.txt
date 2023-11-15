@@ -1,0 +1,6 @@
+79,302,4
+285,1
+testimonial,1
+to,1
+uma,1
+devi,1

@@ -1,0 +1,7 @@
+22,44,3
+32,1
+speech,1
+at,1
+phulwari,1
+sharif,1
+1,1

@@ -1,0 +1,7 @@
+52,108,10
+137,1
+letter,1
+to,1
+khan,1
+chand,1
+dev,1

@@ -1,0 +1,12 @@
+11,269,21
+cannot,1
+accept,1
+bill,1
+in,1
+detail,1
+and,1
+not,2
+do,2
+injustice,1
+if,1
+they,1

@@ -1,0 +1,7 @@
+35,140,3
+mohandas,1
+gandhi,1
+bhil,1
+seva,1
+mandal,1
+dohad,1

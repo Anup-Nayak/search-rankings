@@ -1,0 +1,7 @@
+2,2,5
+where,1
+did,1
+you,1
+prepare,1
+the,1
+pamphlet,1

@@ -1,0 +1,6 @@
+98,271,7
+1,1
+women,1
+workers,1
+for,1
+villages,1

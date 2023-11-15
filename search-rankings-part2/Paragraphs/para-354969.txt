@@ -1,0 +1,13 @@
+92,35,3
+do,1
+not,1
+know,1
+merits,1
+case,1
+gandhi,1
+from,1
+a,1
+copy,1
+pyarelal,2
+papers,1
+courtesy,1

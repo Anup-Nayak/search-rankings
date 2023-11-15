@@ -1,0 +1,12 @@
+39,255,9
+1,1
+gandhiji,1
+was,1
+in,2
+bangalore,1
+on,1
+this,1
+date,1
+1927,1
+2,1
+graduates,1

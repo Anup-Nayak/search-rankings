@@ -1,0 +1,6 @@
+84,320,4
+432,1
+letter,1
+to,1
+shamaldas,1
+gandhi,1

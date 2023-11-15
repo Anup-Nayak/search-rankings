@@ -1,0 +1,10 @@
+14,278,7
+60,1
+talbot,1
+road,1
+bayswater,1
+w,1
+london,1
+august,1
+7,1
+1914,1

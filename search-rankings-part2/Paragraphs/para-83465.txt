@@ -1,0 +1,7 @@
+24,362,1
+186,1
+message,1
+to,1
+workers,1
+ceded,1
+districts,1

@@ -1,0 +1,7 @@
+47,209,2
+gorakhpur,1
+silence,1
+day,1
+october,1
+7,1
+1929,1

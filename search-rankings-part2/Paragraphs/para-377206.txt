@@ -1,0 +1,11 @@
+98,34,2
+1,1
+j,1
+c,1
+kumarappa,1
+2,1
+all,1
+india,1
+village,1
+industries,1
+association,1

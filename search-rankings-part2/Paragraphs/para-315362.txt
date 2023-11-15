@@ -1,0 +1,16 @@
+82,405,10
+of,1
+india,1
+is,2
+the,2
+village,1
+money,1
+lender,1
+to,1
+whom,1
+peasant,1
+often,1
+in,1
+debt,1
+from,1
+birth,1

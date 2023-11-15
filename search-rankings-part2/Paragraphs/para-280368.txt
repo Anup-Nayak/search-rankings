@@ -1,0 +1,5 @@
+75,71,10
+1,1
+vide,1
+internal,1
+decay,1

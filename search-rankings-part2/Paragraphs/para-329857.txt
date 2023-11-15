@@ -1,0 +1,8 @@
+86,114,9
+blessings,1
+from,2
+bapu,1
+hindi,1
+c,1
+w,1
+10579,1

@@ -1,0 +1,17 @@
+30,205,12
+q,1
+you,1
+were,1
+mentioning,1
+some,1
+other,1
+matter,1
+besides,1
+this,1
+and,1
+before,1
+the,1
+sardar,1
+saheb,1
+s,1
+case,1

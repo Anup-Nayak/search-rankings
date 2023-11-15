@@ -1,0 +1,15 @@
+78,81,8
+estates,1
+from,1
+peasants,1
+in,1
+distress,1
+the,1
+people,1
+of,2
+lanka,1
+only,1
+see,1
+this,1
+side,1
+india,1

@@ -1,0 +1,15 @@
+82,171,10
+beneficiaries,1
+of,2
+the,2
+possessions,1
+a,2
+rich,1
+man,1
+is,1
+there,1
+to,2
+be,1
+limit,1
+amount,1
+or,1

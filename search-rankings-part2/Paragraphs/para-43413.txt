@@ -1,0 +1,13 @@
+13,194,5
+2,1
+a,1
+thick,1
+mud,1
+pack,1
+should,1
+be,1
+applied,1
+to,1
+the,1
+swollen,1
+glands,1

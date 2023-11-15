@@ -1,0 +1,7 @@
+57,63,13
+1,1
+wife,1
+of,1
+lakshmidas,1
+p,1
+asar,1

@@ -1,0 +1,6 @@
+25,182,8
+1,1
+a,1
+community,1
+in,1
+gujarat,1

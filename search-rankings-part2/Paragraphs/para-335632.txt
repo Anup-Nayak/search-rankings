@@ -1,0 +1,6 @@
+87,220,8
+380,1
+letter,1
+to,1
+ramakrishna,1
+bajaj,1

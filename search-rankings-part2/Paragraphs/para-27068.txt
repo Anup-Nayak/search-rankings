@@ -1,0 +1,15 @@
+9,112,7
+1,2
+the,2
+reference,1
+is,1
+to,1
+bal,1
+gangadhar,1
+tilak,2
+vide,1
+sentence,1
+on,1
+great,1
+8,1
+1908,1

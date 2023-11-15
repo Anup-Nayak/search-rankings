@@ -1,0 +1,12 @@
+16,99,13
+circumstances,1
+have,1
+invested,1
+the,2
+problem,1
+of,1
+education,1
+at,1
+present,1
+day,1
+with,1

@@ -1,0 +1,15 @@
+51,358,8
+nations,1
+capacity,1
+to,2
+live,1
+up,1
+the,1
+ideal,1
+of,1
+absolute,1
+non,1
+violence,1
+in,1
+proportion,1
+they,1

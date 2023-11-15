@@ -1,0 +1,7 @@
+90,344,1
+give,1
+my,1
+undevided,1
+self,1
+to,1
+god,1

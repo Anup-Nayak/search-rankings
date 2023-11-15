@@ -1,0 +1,8 @@
+36,465,3
+1,1
+the,1
+self,1
+2,1
+a,1
+liberated,1
+person,1

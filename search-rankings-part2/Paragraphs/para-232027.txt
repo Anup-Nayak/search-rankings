@@ -1,0 +1,13 @@
+63,363,5
+correspondent,1
+your,1
+statement,1
+is,2
+all,1
+too,1
+brief,1
+for,1
+the,1
+general,1
+reader,1
+and,1

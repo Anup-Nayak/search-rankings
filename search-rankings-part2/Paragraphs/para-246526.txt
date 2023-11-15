@@ -1,0 +1,11 @@
+66,437,3
+m,1
+k,1
+gandhi,1
+shri,1
+n,1
+venkata,1
+krishnaiya,1
+khaddar,1
+sansthanam,1
+bezwada,1

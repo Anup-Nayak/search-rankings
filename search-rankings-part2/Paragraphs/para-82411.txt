@@ -1,0 +1,4 @@
+24,185,8
+whether,2
+losing,1
+winning,1

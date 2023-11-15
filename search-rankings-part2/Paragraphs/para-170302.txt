@@ -1,0 +1,8 @@
+49,78,5
+gross,1
+exaggeration,1
+took,1
+morning,1
+mass,1
+meeting,1
+seven,1

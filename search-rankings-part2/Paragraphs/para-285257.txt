@@ -1,0 +1,13 @@
+76,157,8
+2,1
+the,1
+two,1
+earlier,1
+visits,1
+were,1
+in,1
+may,1
+and,1
+october,1
+november,1
+1938,1

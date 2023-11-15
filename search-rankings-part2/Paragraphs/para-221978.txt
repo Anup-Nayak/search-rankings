@@ -1,0 +1,12 @@
+61,98,10
+1,1
+vide,1
+1st,1
+footnote,1
+to,2
+an,1
+example,1
+copy,1
+29,1
+7,1
+1933,1

@@ -1,0 +1,7 @@
+62,127,8
+4,1
+wife,1
+of,1
+dr,1
+jivaraj,1
+mehta,1

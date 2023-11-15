@@ -1,0 +1,8 @@
+72,440,7
+listen,1
+doctors,1
+take,1
+full,1
+rest,1
+without,1
+worry,1

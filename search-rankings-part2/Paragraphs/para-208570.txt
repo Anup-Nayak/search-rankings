@@ -1,0 +1,9 @@
+58,131,14
+and,1
+take,1
+full,1
+rations,1
+reserving,1
+to,2
+yourself,1
+right,1

@@ -1,0 +1,12 @@
+78,33,18
+change,1
+from,1
+a,1
+demand,1
+for,2
+dominion,1
+status,1
+to,1
+one,1
+complete,1
+independence,1

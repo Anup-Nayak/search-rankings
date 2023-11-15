@@ -1,0 +1,16 @@
+89,330,8
+he,1
+who,1
+does,2
+not,2
+see,2
+rama,2
+and,1
+whom,1
+is,1
+despised,1
+by,1
+everyone,1
+in,1
+this,1
+world,1

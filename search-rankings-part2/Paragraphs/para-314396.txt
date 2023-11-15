@@ -1,0 +1,7 @@
+82,372,7
+436,1
+interview,1
+to,1
+american,1
+journalists,1
+1,1

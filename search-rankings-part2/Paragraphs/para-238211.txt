@@ -1,0 +1,7 @@
+65,83,6
+94,1
+letter,1
+to,1
+k,1
+rama,1
+menon,1

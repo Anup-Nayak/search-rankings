@@ -1,0 +1,6 @@
+6,232,4
+226,1
+duty,1
+of,1
+educated,1
+indians,1

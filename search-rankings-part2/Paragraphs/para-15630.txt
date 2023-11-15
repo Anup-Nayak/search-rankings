@@ -1,0 +1,14 @@
+6,45,11
+opposition,2
+and,1
+the,2
+nature,1
+of,1
+to,1
+this,1
+matter,1
+i,1
+regret,1
+it,1
+more,1
+than,1

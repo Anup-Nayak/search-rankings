@@ -1,0 +1,12 @@
+30,209,6
+q,1
+was,1
+pandit,1
+amir,1
+chand,1
+2,1
+also,1
+there,1
+at,1
+that,1
+time,1

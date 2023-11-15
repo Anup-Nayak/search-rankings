@@ -1,0 +1,15 @@
+82,258,3
+q,1
+you,1
+advise,1
+evacuation,1
+1,1
+of,1
+cities,1
+likely,1
+to,2
+be,1
+bombed,1
+and,1
+migration,1
+the,1

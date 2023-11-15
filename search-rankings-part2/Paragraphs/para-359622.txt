@@ -1,0 +1,12 @@
+93,60,2
+m,1
+k,1
+gandhi,1
+srirampur,1
+east,1
+bengal,1
+november,1
+24,1
+1946,1
+from,1
+hindi,1

@@ -1,0 +1,8 @@
+10,405,6
+235,1
+the,1
+aga,1
+khan,1
+and,1
+passive,1
+resistance,1

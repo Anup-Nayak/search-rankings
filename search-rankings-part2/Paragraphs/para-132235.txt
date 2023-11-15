@@ -1,0 +1,16 @@
+38,389,8
+1,1
+the,1
+letter,1
+is,2
+not,1
+reproduced,1
+here,1
+2,1
+what,1
+follows,1
+from,1
+navajivan,1
+15,1
+5,1
+1927,1

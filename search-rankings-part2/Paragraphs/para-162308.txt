@@ -1,0 +1,14 @@
+46,460,18
+3,1
+if,1
+members,1
+keep,2
+cattle,1
+for,1
+milk,1
+they,1
+shall,1
+cows,1
+only,1
+and,1
+not,1

@@ -1,0 +1,8 @@
+85,160,14
+1,1
+addressees,2
+husband,1
+harilal,1
+gandhis,1
+son,2
+2,1

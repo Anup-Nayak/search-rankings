@@ -1,0 +1,7 @@
+17,225,3
+consider,1
+article,1
+should,1
+not,1
+be,1
+published,1

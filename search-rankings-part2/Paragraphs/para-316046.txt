@@ -1,0 +1,4 @@
+83,10,6
+a,1
+not,1
+necessarily,1

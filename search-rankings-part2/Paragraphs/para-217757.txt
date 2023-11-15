@@ -1,0 +1,17 @@
+60,85,4
+dear,1
+friend,1
+i,1
+thank,1
+you,1
+for,1
+your,1
+letter,1
+and,1
+a,1
+copy,1
+of,1
+the,1
+maha,1
+bodhi,1
+journal,1

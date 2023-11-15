@@ -1,0 +1,6 @@
+45,33,4
+32,1
+letter,1
+to,1
+devdas,1
+gandhi,1

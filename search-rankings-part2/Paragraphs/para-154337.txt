@@ -1,0 +1,15 @@
+44,488,3
+t15,1
+guj,1
+has,1
+nevertheless,1
+if,1
+the,2
+atman,1
+exists,1
+control,1
+of,1
+mind,1
+also,1
+is,1
+possible,1

@@ -1,0 +1,8 @@
+49,162,17
+individual,1
+the,1
+splendid,1
+opportunity,1
+that,1
+it,1
+is,1

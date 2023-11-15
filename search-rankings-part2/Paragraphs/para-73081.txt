@@ -1,0 +1,8 @@
+21,83,14
+they,1
+must,1
+not,1
+assist,1
+a,1
+tyrannical,1
+government,1

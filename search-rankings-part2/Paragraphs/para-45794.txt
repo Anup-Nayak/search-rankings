@@ -1,0 +1,9 @@
+14,1,2
+accept,1
+commission,1
+and,1
+suspend,1
+struggle,1
+no,1
+doubt,1
+left,1

@@ -1,0 +1,11 @@
+84,44,6
+at,1
+a,1
+stroke,1
+you,1
+have,1
+cut,1
+off,1
+twenty,1
+five,1
+years,1

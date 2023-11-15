@@ -1,0 +1,7 @@
+34,432,7
+180,1
+letter,1
+to,1
+rama,1
+narayan,1
+singh,1

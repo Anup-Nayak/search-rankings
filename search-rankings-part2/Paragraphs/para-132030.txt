@@ -1,0 +1,4 @@
+38,362,7
+ashram,1
+sabarmati,1
+1,1

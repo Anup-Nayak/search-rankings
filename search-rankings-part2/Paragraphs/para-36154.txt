@@ -1,0 +1,9 @@
+11,287,8
+not,1
+exempted,1
+free,1
+state,1
+law,1
+existence,1
+colour,1
+bar,1

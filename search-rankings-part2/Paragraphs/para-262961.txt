@@ -1,0 +1,6 @@
+70,390,4
+407,1
+mill,2
+workers,1
+and,1
+owners,1

@@ -1,0 +1,4 @@
+3,195,10
+north,1
+sideperfectly,1
+clean,1

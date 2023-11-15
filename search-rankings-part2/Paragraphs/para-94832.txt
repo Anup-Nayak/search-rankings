@@ -1,0 +1,4 @@
+28,100,4
+satyagrahi,1
+prisoners,1
+conduct,1

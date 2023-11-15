@@ -1,0 +1,15 @@
+16,517,7
+of,1
+this,2
+kind,1
+was,1
+started,1
+in,2
+africa,1
+mahatma,1
+gandhi,1
+went,1
+to,1
+jail,1
+country,1
+he,1

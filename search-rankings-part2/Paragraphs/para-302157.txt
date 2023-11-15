@@ -1,0 +1,10 @@
+80,220,1
+ps,1
+the,1
+enclosed,1
+letters,1
+are,1
+for,1
+kaka,1
+and,1
+babu,1

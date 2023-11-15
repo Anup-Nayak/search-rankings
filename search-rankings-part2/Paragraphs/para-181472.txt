@@ -1,0 +1,6 @@
+51,433,5
+448,1
+speech,1
+to,1
+villagers,1
+akoti,1

@@ -1,0 +1,11 @@
+22,219,5
+a,3
+passive,1
+resister,1
+shuns,1
+boycott,1
+he,1
+never,1
+embarrasses,1
+government,1
+but,1

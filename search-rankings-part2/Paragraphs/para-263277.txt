@@ -1,0 +1,5 @@
+70,428,3
+450,1
+harijans,1
+and,1
+others,1

@@ -1,0 +1,7 @@
+29,97,5
+66,1
+speech,1
+at,1
+public,1
+meeting,1
+surat,1

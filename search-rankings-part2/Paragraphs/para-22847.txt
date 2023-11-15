@@ -1,0 +1,6 @@
+7,428,7
+a,1
+prize,1
+of,1
+ten,1
+guineas,1

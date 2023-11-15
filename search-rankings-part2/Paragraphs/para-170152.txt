@@ -1,0 +1,6 @@
+49,62,2
+an,1
+english,1
+friend,1
+writes,1
+1,1

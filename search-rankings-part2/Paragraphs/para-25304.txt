@@ -1,0 +1,7 @@
+8,379,6
+210,1
+cause,1
+of,1
+murders,1
+in,1
+natal,1

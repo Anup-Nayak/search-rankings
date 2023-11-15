@@ -1,0 +1,8 @@
+57,420,10
+typhoid,1
+no,2
+complications,1
+special,1
+nurses,1
+attending,1
+cause,1

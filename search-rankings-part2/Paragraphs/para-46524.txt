@@ -1,0 +1,12 @@
+14,74,7
+are,1
+you,2
+not,1
+pleased,1
+with,1
+our,1
+regards,1
+to,1
+and,1
+miss,1
+greene,1

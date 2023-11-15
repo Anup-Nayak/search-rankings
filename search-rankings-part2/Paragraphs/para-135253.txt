@@ -1,0 +1,9 @@
+39,318,3
+eknath,1
+sripad,1
+patwardhan,1
+pramukh,1
+tilak,1
+mahavidyalaya,1
+mahal,1
+nagpur,1

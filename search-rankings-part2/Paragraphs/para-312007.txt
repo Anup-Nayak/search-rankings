@@ -1,0 +1,10 @@
+82,176,4
+bhai,1
+nagardas,1
+of,1
+pandya,1
+khadi,1
+karyalaya,1
+charala,1
+writes,1
+1,1

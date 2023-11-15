@@ -1,0 +1,11 @@
+37,285,6
+settled,1
+conviction,1
+of,5
+the,4
+nature,1
+atman,1
+perception,1
+goal,1
+knowledge,1
+truth,1

@@ -1,0 +1,15 @@
+90,346,9
+1,1
+abdul,1
+rashid,1
+khan,1
+2,1
+this,1
+is,1
+a,1
+slip,1
+brgum,1
+rashids,1
+name,1
+was,1
+hosa,1

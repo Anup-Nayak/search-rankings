@@ -1,0 +1,6 @@
+16,234,7
+130,1
+letter,1
+t0,1
+chhaganlal,1
+gandhi,1

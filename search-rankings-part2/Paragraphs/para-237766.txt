@@ -1,0 +1,7 @@
+65,33,9
+shri,1
+santdas,1
+mangharam,1
+advocate,1
+hyderabad,1
+sind,1

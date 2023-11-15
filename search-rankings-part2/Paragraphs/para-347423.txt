@@ -1,0 +1,5 @@
+90,95,6
+atmarachana,1
+athava,1
+ashrami,1
+kelavni,1
