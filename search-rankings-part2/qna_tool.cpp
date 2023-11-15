@@ -594,16 +594,16 @@ void QNA_tool::query(string question, string filename){
     //query_llm(filename, root, 10, api_key, question);
     pairr p = get_top_k_para(final_q);
     Node* head=p.head;
-    vector<string> paras;
-    while(head != nullptr){
-        string res = get_paragraph(head->book_code, head->page, head->paragraph);
-        paras.push_back(res);
-        head = head->right;
-    }
+    // vector<string> paras;
+    // while(head != nullptr){
+    //     string res = get_paragraph(head->book_code, head->page, head->paragraph);
+    //     paras.push_back(res);
+    //     head = head->right;
+    // }
 
-    for(int i = 0; i < (int)paras.size(); i++){
-        cout << paras[i] << endl << endl << endl;
-    }
+    // for(int i = 0; i < (int)paras.size(); i++){
+    //     cout << paras[i] << endl << endl << endl;
+    // }
     query_llm(filename,p.head,p.k,"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",question);
     std::cout << "A: Studying COL106 :)" << std::endl;
     return;
@@ -625,6 +625,10 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
     int context_size=0;
     while(num_paragraph < k){
         assert(traverse != nullptr);
+        string paragraph = get_paragraph(traverse->book_code, traverse->page, traverse->paragraph);
+        context_size+=paragraph.size();
+        if(context_size>=16234){ break; /*cout<<context_size<<endl;*/}
+        assert(paragraph != "$I$N$V$A$L$I$D$");
         string p_file = "paragraph_";
         p_file += to_string(num_paragraph);
         p_file += ".txt";
@@ -632,19 +636,16 @@ void QNA_tool::query_llm(string filename, Node* root, int k, string API_KEY, str
         // delete the file if it exists
         remove(p_file.c_str());
         ofstream outfile(p_file);
-        string paragraph = get_paragraph(traverse->book_code, traverse->page, traverse->paragraph);
-        context_size
-        assert(paragraph != "$I$N$V$A$L$I$D$");
         outfile << paragraph;
         outfile.close();
         traverse = traverse->right;
         num_paragraph++;
     }
-
+    
     // write the query to query.txt
     ofstream outfile("query.txt");
     //part2- changed the query a little bit
-    outfile << "These are the excerpts from Mahatma Gandhi's books.\nOn the basis of this and using your own database of knowledge, give a quality answer to the followng question, \n";
+    outfile << "These are the excerpts from Mahatma Gandhi's books.\nOn the basis of this, ";
     outfile << question;
     // You can add anything here - show all your creativity and skills of using ChatGPT
     outfile.close();
